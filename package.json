@@ -1,0 +1,16 @@
+{
+  "name": "leerdoelenkaarten",
+  "version": "1.0.0",
+  "description": "Leerdoelenkaarten Context",
+  "main": "context.json",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "author": "SLO",
+  "license": "MIT",
+  "dependencies": {
+    "ajv": "^6.5.5",
+    "jsondiffpatch": "^0.3.11",
+    "uuid": "^3.3.2"
+  }
+}

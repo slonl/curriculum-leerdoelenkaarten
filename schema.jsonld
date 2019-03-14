@@ -1,0 +1,36 @@
+{
+	"@context": {
+		"leerdoelenkaart": "http://opendata.slo.nl/curriculum/schemas/leerdoelenkaart.jsonld",
+		"id": {
+			"@id": "@id"
+		},
+		"title": {
+			"@id": "http://purl.org/dc/terms/title",
+			"@type": "@id"
+		},
+		"ldk_vakkern_id": {
+			"@container": "@set"
+		},
+		"ldk_vaksubkern_id": {
+			"@container": "@set"
+		},
+		"ldk_vakinhoud_id": {
+			"@container": "@set"
+		},
+		"ldk_vak": {
+			"@id": "leerdoelenkaart:#ldk_vak"
+		},
+		"ldk_vakkern": {
+			"@id": "leerdoelenkaart:#ldk_vakkern"
+		},
+		"ldk_vaksubkern": {
+			"@id": "leerdoelenkaart:#ldk_vaksubkern"
+		},
+		"ldk_akinhoud": {
+			"@id": "leerdoelenkaart:#ldk_vakinhoud"
+		},
+		"ldk_deprecated": {
+			"@id": "leerdoelenkaart:#ldk_deprecated"
+		}
+	}
+}
