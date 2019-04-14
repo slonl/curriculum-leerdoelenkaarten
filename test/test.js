@@ -11,13 +11,23 @@
 			var matches = /.*\#\/definitions\/(.*)/g.exec(schema);
 			if (matches) {
 				var result = curriculum.types[data] == matches[1];
+				if (!result) {
+					if (curriculum.types[data]=='deprecated') {
+						return true;
+					} else {
+						console.log(data, curriculum.types[data], matches[1]);
+						console.log(parentData);
+						process.exit(1);
+					}
+				}
 				return result;
 			}
 			console.log('Unknown #ref definition: '+schema);
+			process.exit(1);
 		}
 	});
 
-	var curriculum     = require('../lib/curriculum.js');
+	var curriculum     = require('../curriculum-inhouden/lib/curriculum.js');
 	var doelenSchema   = curriculum.loadSchema('curriculum-doelen/context.json','curriculum-doelen/');
 	var inhoudenSchema = curriculum.loadSchema('curriculum-inhouden/context.json','curriculum-inhouden/');
 	var ldkSchema      = curriculum.loadSchema('context.json');

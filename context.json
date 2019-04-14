@@ -3,6 +3,9 @@
         "ldk_vak": {
             "allOf": [ { "$ref": "http://opendata.slo.nl/curriculum/schemas/inhouden#/definitions/inhoud" } ],
             "properties": {
+                "vak_id": {
+                    "itemTypeReference": "http://opendata.slo.nl/curriculum/schemas/inhouden#/definitions/vak"
+                },
                 "ldk_vakkern_id": {
                     "allOf": [
                         {
@@ -38,6 +41,9 @@
         "ldk_vakkern": {
             "allOf": [ { "$ref": "http://opendata.slo.nl/curriculum/schemas/inhouden#/definitions/inhoud" } ],
             "properties": {
+                "vakkern_id": {
+                    "itemTypeReference": "http://opendata.slo.nl/curriculum/schemas/inhouden#/definitions/vakkern"
+                },
                 "ldk_vaksubkern_id" : {
                     "allOf": [
                         {
@@ -53,10 +59,10 @@
             },
             "anyOf": [
                 {
-                    "required": ["ld_vaksubkern_id"]
+                    "required": ["id","title","ldk_vaksubkern_id"]
                 },
                 {
-                    "required": ["doelniveau_id"]
+                    "required": ["id","title","doelniveau_id"]
                 }
             ],
             "not": {
@@ -73,27 +79,11 @@
         "ldk_vaksubkern": {
             "allOf": [ { "$ref": "http://opendata.slo.nl/curriculum/schemas/inhouden#/definitions/inhoud" } ],
             "properties": {
-                "ldk_vakinhoud_id": {
-                    "allOf": [
-                        {
-                            "$ref": "http://opendata.slo.nl/curriculum/schemas/doelen#/definitions/uuidArray"
-                        },
-                        {
-                            "items": {
-                                "itemTypeReference": "#/definitions/ldk_vakinhoud"
-                            }
-                        }
-                    ]
+                "vaksubkern_id": {
+                    "itemTypeReference": "http://opendata.slo.nl/curriculum/schemas/inhouden#/definitions/vaksubkern"
                 }
             },
-            "anyOf": [
-                {
-                    "required": ["ldk_vakinhoud_id"]
-                },
-                {
-                    "required": ["doelniveau_id"]
-                }
-            ],
+            "required": ["doelniveau_id"],
             "not": {
                 "anyOf": [
                     {
@@ -101,23 +91,6 @@
                     },
                     {
                         "required": ["ldk_vakkern_id"]
-                    }
-                ]
-            }
-        },
-        "ldk_vakinhoud": {
-            "allOf": [ { "$ref": "http://opendata.slo.nl/curriculum/schemas/inhouden#/definitions/inhoud" } ],
-            "required": ["doelniveau_id"],
-            "not": {
-                "anyOf": [
-                    {
-                        "required": ["vakkern_id"]
-                    },
-                    {
-                        "required": ["vaksubkern_id"]
-                    },
-                    {
-                        "required": ["vakinhoud_id"]
                     }
                 ]
             }
@@ -146,13 +119,6 @@
             "type": "array",
             "items": {
                 "$ref": "#/definitions/ldk_vaksubkern"
-            }
-        },
-        "ldk_vakinhoud": {
-            "#file": "data/ldk.vakinhouden.json",
-            "type": "array",
-            "items": {
-                "$ref": "#/definitions/ldk_vakinhoud"
             }
         },
         "ldk_deprecated": {
