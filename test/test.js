@@ -15,9 +15,9 @@
 					if (curriculum.types[data]=='deprecated') {
 						return true;
 					} else {
-						console.log(data, curriculum.types[data], matches[1]);
-						console.log(parentData);
-						process.exit(1);
+//						console.log(data, curriculum.types[data], matches[1]);
+//						console.log(parentData);
+//						process.exit(1);
 					}
 				}
 				return result;
@@ -32,10 +32,10 @@
 	var inhoudenSchema = curriculum.loadSchema('curriculum-inhouden/context.json','curriculum-inhouden/');
 	var ldkSchema      = curriculum.loadSchema('context.json');
 
-	var valid = ajv.addSchema(doelenSchema, 'http://opendata.slo.nl/curriculum/schemas/doelen')
-	               .addSchema(inhoudenSchema, 'http://opendata.slo.nl/curriculum/schemas/inhouden')
-	               .addSchema(ldkSchema, 'http://opendata.slo.nl/curriculum/schemas/leerdoelenkaarten')
-	               .validate('http://opendata.slo.nl/curriculum/schemas/leerdoelenkaarten', curriculum.data);
+	var valid = ajv.addSchema(doelenSchema, 'https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json')
+	               .addSchema(inhoudenSchema, 'https://opendata.slo.nl/curriculum/schemas/curriculum-inhouden/context.json')
+	               .addSchema(ldkSchema, 'https://opendata.slo.nl/curriculum/schemas/curriculum-leerdoelenkaarten/context.json')
+	               .validate('https://opendata.slo.nl/curriculum/schemas/curriculum-leerdoelenkaarten/context.json', curriculum.data);
 
 	if (!valid) {
 		ajv.errors.forEach(function(error) {

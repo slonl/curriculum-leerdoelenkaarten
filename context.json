@@ -1,15 +1,15 @@
 {
     "definitions": {
         "ldk_vak": {
-            "allOf": [ { "$ref": "http://opendata.slo.nl/curriculum/schemas/inhouden#/definitions/inhoud" } ],
+            "allOf": [ { "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-inhouden/context.json#/definitions/inhoud" } ],
             "properties": {
                 "vak_id": {
-                    "itemTypeReference": "http://opendata.slo.nl/curriculum/schemas/inhouden#/definitions/vak"
+                    "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-inhouden/context.json#/definitions/vak"
                 },
                 "ldk_vakkern_id": {
                     "allOf": [
                         {
-                            "$ref": "http://opendata.slo.nl/curriculum/schemas/doelen#/definitions/uuidArray"
+                            "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/uuidArray"
                         },
                         {
                             "items": {
@@ -39,15 +39,15 @@
             }
         },
         "ldk_vakkern": {
-            "allOf": [ { "$ref": "http://opendata.slo.nl/curriculum/schemas/inhouden#/definitions/inhoud" } ],
+            "allOf": [ { "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-inhouden/context.json#/definitions/inhoud" } ],
             "properties": {
                 "vakkern_id": {
-                    "itemTypeReference": "http://opendata.slo.nl/curriculum/schemas/inhouden#/definitions/vakkern"
+                    "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-inhouden/context.json#/definitions/vakkern"
                 },
                 "ldk_vaksubkern_id" : {
                     "allOf": [
                         {
-                            "$ref": "http://opendata.slo.nl/curriculum/schemas/doelen#/definitions/uuidArray"
+                            "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/uuidArray"
                         },
                         {
                             "items": {
@@ -77,13 +77,32 @@
             }
         },
         "ldk_vaksubkern": {
-            "allOf": [ { "$ref": "http://opendata.slo.nl/curriculum/schemas/inhouden#/definitions/inhoud" } ],
+            "allOf": [ { "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-inhouden/context.json#/definitions/inhoud" } ],
             "properties": {
                 "vaksubkern_id": {
-                    "itemTypeReference": "http://opendata.slo.nl/curriculum/schemas/inhouden#/definitions/vaksubkern"
+                    "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-inhouden/context.json#/definitions/vaksubkern"
+                },
+                "ldk_vakinhoud_id" : {
+                    "allOf": [
+                        {
+                            "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/uuidArray"
+                        },
+                        {
+                            "items": {
+                                "itemTypeReference": "#/definitions/ldk_vakinhoud"
+                            }
+                        }
+                    ]
                 }
             },
-            "required": ["doelniveau_id"],
+            "anyOf": [
+                {
+                    "required": ["id","title","ldk_vakinhoud_id"]
+                },
+                {
+                    "required": ["id","title","doelniveau_id"]
+                }
+            ],
             "not": {
                 "anyOf": [
                     {
@@ -94,9 +113,18 @@
                     }
                 ]
             }
+        },
+        "ldk_vakinhoud": {
+            "allOf": [ { "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-inhouden/context.json#/definitions/inhoud" } ],
+            "properties": {
+                "vakinhoud_id": {
+                    "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-inhouden/context.json#/definitions/vakinhoud"
+                }
+            },
+            "required": ["doelniveau_id"]
         }
     },
-    "$id": "http://opendata.slo.nl/curriculum/schemas/leerdoelenkaart",
+    "$id": "https://opendata.slo.nl/curriculum/schemas/curriculum-leerdoelenkaarten/context.json",
     "$schema": "http://json-schema.org/draft-07/schema#",
     "type": "object",
     "properties": {
@@ -121,6 +149,13 @@
                 "$ref": "#/definitions/ldk_vaksubkern"
             }
         },
+		"ldk_vakinhoud": {
+            "#file": "data/ldk.vakinhouden.json",
+            "type": "array",
+            "items": {
+                "$ref": "#/definitions/ldk_vakinhoud"
+            }
+		},
         "ldk_deprecated": {
             "#file": "data/ldk.deprecated.json",
             "type": "array"
