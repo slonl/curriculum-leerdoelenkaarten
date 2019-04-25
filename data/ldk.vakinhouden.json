@@ -1,0 +1,803 @@
+[
+	{
+		"id": "815081d7-66f2-4b84-9373-a0ea75799255",
+		"prefix": "1.1.1",
+		"title": "Onderwerp",
+		"doelniveau_id": [
+			"02710316-af9b-4e59-86b8-88a932e47036",
+			"1a4efb15-a9cd-473f-ad49-7c5f83b2565d",
+			"bf4698d4-80ee-4b23-aaf7-21295adac8d3",
+			"f1dc996b-e90e-48ff-bd7b-b6fe7c204987",
+			"0f8bb263-7570-404a-a888-2d1c6ddcc8e8",
+			"80f8c22c-16f9-4fc1-ab09-7937cea177f7"
+		]
+	},
+	{
+		"id": "b6f1710a-5ae4-480a-b51d-bd7712a1f8db",
+		"prefix": "1.1.2",
+		"title": "Woordenschat, woordgebruik en coherentie",
+		"doelniveau_id": [
+			"0a0b6fcf-9f00-4c6b-b7e8-d52acb619e99",
+			"d56276de-cefb-4661-a3bc-f3c2e50041f0",
+			"2fdf722d-2b0d-47e2-90fd-e4a8ca5a19b7",
+			"004d9034-c3e4-4a26-865e-86e6c686d311",
+			"1a30aea7-42c2-4971-abe5-b846224fdbb2",
+			"c5d4e23c-3ae4-4d26-b299-1a4323610f11",
+			"7f5b3d3a-90c8-4603-a6e1-4d18bb7036ff",
+			"a493d106-6204-4f40-a312-feb40dfa5849",
+			"414410e5-b817-417a-a1e7-aaab9ec873ba",
+			"5937df4a-f8be-47e6-8a78-60181b019a56",
+			"8f1e332c-e546-4986-ab65-24935e7f4183",
+			"1cd938da-c949-42b9-a17c-57a27f409701",
+			"838af88b-7cd3-4e14-b4eb-4f30a1ac9afb",
+			"f6dd7210-d47d-4c69-bf23-4ac4c6785646",
+			"2243cf3d-18ac-474d-bddb-7765c9b84777"
+		]
+	},
+	{
+		"id": "5f5aac73-3d3f-44fc-97d4-b148ef5094bd",
+		"prefix": "1.1.3",
+		"title": "Grammaticale correctheid",
+		"doelniveau_id": [
+			"9dbbb427-d388-469c-818e-1955650400ce",
+			"2741165f-ca97-474c-a6f7-8b8293a56095",
+			"4f9257d4-3f92-4eb5-a847-51378fa48aa2",
+			"292208a2-b59c-478c-9dbf-081ad7a9f00c",
+			"6e4e194b-358c-4cef-901b-899c21cd413c",
+			"9b3fb5fd-4116-4b0e-902c-2d734614d6be",
+			"bc1191c7-0c99-45fe-b2fe-5234271184a7",
+			"c4381a43-77dd-47a4-a9e6-47770b775f03"
+		]
+	},
+	{
+		"id": "bde8b6d9-523e-4492-a13e-335c2ee80148",
+		"prefix": "1.1.4",
+		"title": "Interactie",
+		"doelniveau_id": [
+			"d3636c41-b2df-458c-bc88-761eb30d8ca6",
+			"8eb24dda-3315-4064-8c7a-4d9e69eb310b",
+			"78d732e4-f71a-4d68-b61d-49391c785ee8",
+			"06c0bab4-5f71-46dd-8490-5acdbe8da05b",
+			"cc18f7c5-eb76-4414-bb74-f17a54451459",
+			"86226404-86e9-4bd4-a7ec-e4a767a356f6",
+			"155e736e-724f-469b-9f9f-13d6357a1418",
+			"eb1413ba-3a43-4d43-a683-a238588927a0",
+			"4b65a365-7d69-49b5-afb0-521b27f345a5",
+			"03a6c09d-4f66-4f30-8873-d0f19ce8cec1",
+			"1c1feaff-6838-411f-9d01-5ae519978c61",
+			"a8fa7443-6611-41a6-bc37-773550462d0b",
+			"ced21d71-b7c7-468d-95bd-7bca6bf0f6b5",
+			"57880c08-a37e-4ee2-a9b7-2d970e721436"
+		]
+	},
+	{
+		"id": "633d5868-b5b7-41cd-8a59-32ca3601c839",
+		"prefix": "1.1.5",
+		"title": "Vloeiendheid en uitspraak",
+		"doelniveau_id": [
+			"f9e75b80-d112-46fc-8445-41d054f34d0e",
+			"42c93506-210b-4a8b-bd8d-37596478bc4b",
+			"c98ed635-2000-4a62-9f6a-3921a7a06c12",
+			"1975dd08-b815-4f87-8a20-6f9986882c43",
+			"60debf47-853c-43b8-b0e0-7c8f2db81af3",
+			"688d865b-e600-4260-9292-091ecc9b0bec",
+			"7c12cb6d-2998-4453-a6b3-d7042ddcdc1f",
+			"7a2c0b73-b245-4f9b-ac90-f7e31277ff8a",
+			"21070c5d-733e-4754-894a-43ce745acc04",
+			"8db7af46-f261-4698-8c8c-6a5c4265c1f3",
+			"66f0ca78-5966-4e34-8b4b-04e60181e5a9",
+			"1644bd7e-b059-4531-8819-d2ba40264fb6",
+			"221c561f-7929-47a6-b2f4-058f00ca42c5"
+		]
+	},
+	{
+		"id": "309a06bf-0fc1-44b0-a897-1e61a3878891",
+		"prefix": "1.1.6",
+		"title": "Compenserende strategieën",
+		"doelniveau_id": [
+			"dc625861-0441-4421-aeb1-076a15644001",
+			"56566e75-dd5e-4080-ab24-894e2e815140",
+			"33deb88f-0026-4e34-94f9-88683d636794",
+			"5b6a37ea-5b36-421b-8c99-583a57179957",
+			"5b646b95-0d42-4b9a-b18e-8500195325fa",
+			"2e308c93-5205-45c2-abf1-5dca5de511d5",
+			"8af72ad5-6bda-4b9c-9bdd-d56b762466b6",
+			"4e198e91-2c56-4d80-87d2-48ab274732b1",
+			"1e40cf90-5c69-4100-a0ee-f32e1436258d",
+			"6ca323a5-96b8-4e6e-be0d-c91e6d449209",
+			"13da25e2-372b-4908-965e-d0b6142737de",
+			"dcc8539f-836a-4ce6-a0d8-6e708fa975bf",
+			"922bc0a8-49a7-4d83-b422-f22a2c34aab7",
+			"1448e683-0136-436d-9013-1812b81dc78e",
+			"d202c645-9316-4d02-9cb4-9597b0182520",
+			"7dc9f168-f4fc-418a-987e-7e92f5f423ba",
+			"b1038963-89d4-448e-ae43-835c5175ac8f",
+			"03b9b7de-5675-4982-8b85-7c58b9b9dd87"
+		]
+	},
+	{
+		"id": "6514ff27-af88-47b9-b8ed-35a2419bd24f",
+		"prefix": "4.2.1",
+		"title": "Je kunt correspondentie lezen",
+		"doelniveau_id": [
+			"835eaaa3-5cbf-44b3-aa38-f36df0d6f324",
+			"11384953-1d6e-4e66-82b0-ba1b3247d4af",
+			"3fe7bb50-8a52-4d12-a55c-63ae8b320a7a",
+			"45bb96e4-d099-4ccf-b19d-0a4376b374c5",
+			"bbd0270b-f36d-4451-b457-fec9b26f3a79",
+			"71a332e2-ce87-4219-8317-25e574446367",
+			"cb0920bf-e209-4946-a541-9aafd54476a7",
+			"898c1674-0903-43fa-a253-091a015dee9f",
+			"2aeaafcb-7f4e-4734-a7f1-c426c7efe98a"
+		]
+	},
+	{
+		"id": "b41c3a8a-4a5a-4c1a-b3ef-62670a36deab",
+		"prefix": "4.2.2",
+		"title": "Je kunt oriënterend lezen",
+		"doelniveau_id": [
+			"b8f023a9-2adb-4c2d-82a8-8c356f199085",
+			"d366e52c-a644-4458-b6c0-bf4971531c91",
+			"9e12fbd5-1073-4d44-86f9-1be2a48b7201",
+			"4ade8f8f-962e-42a3-9809-1625e2f1359e",
+			"88000083-a911-4c0d-9065-f1b2adcd07a8",
+			"5e751e6c-db95-455d-9083-8ea91283f7e1",
+			"78d80a76-9c82-4862-bf72-5c9b95efe4f5",
+			"e9b4b033-4c5f-4095-845f-353844221964",
+			"fc545bec-8e57-4f11-94b8-d8f930d00b11",
+			"39e2374d-d312-4945-abc9-8e20833ae84b",
+			"d521169a-92a9-41d9-86a5-174446913e6a",
+			"86881f48-d105-4f4c-b950-940002542bec",
+			"9f268f03-7cb7-4add-8eda-d963b7789cf4",
+			"514729c8-3641-40e3-ac2e-b9942c3d5935",
+			"2cc0166f-eb61-46c9-b18a-963849e9ca0b",
+			"6491b96b-99e5-48b5-9d24-49e5b7b5abd6",
+			"658cc089-1ef8-49f6-b95a-b64c9d57cbd0",
+			"224f092f-6e96-4d35-8385-3e6d57aec671",
+			"8ccaa18a-d91b-4137-891a-78581b15739d"
+		]
+	},
+	{
+		"id": "b8c52c62-c811-4982-bbdc-dcc5b42d43b9",
+		"prefix": "4.2.3",
+		"title": "Je kunt lezen om informatie op te doen",
+		"doelniveau_id": [
+			"28594c71-6357-43ba-bc91-a5e07f7c5474",
+			"bc710295-4af1-4669-8d49-ca309c3d3833",
+			"ae1d2913-310d-4fe4-a576-14006dd81aeb",
+			"ecf79553-3cc2-46ea-ba99-25aa26cc15d2",
+			"912f309b-38f2-4b0a-ade8-6da959076ec6",
+			"d33a82e4-0afc-40ef-bade-5e4a49d76bea",
+			"372d8f2e-8cdc-4fc4-84e2-e20122962793",
+			"0aac6289-58d5-417e-aa4c-33ace16d016f",
+			"032318d4-0325-4074-897e-04a5cc06a100",
+			"877bf93d-ce59-4c93-a940-d04494a44295",
+			"fe2e5639-68df-46d9-a78c-758e6ee75427",
+			"ea9c92b6-03a4-412c-ab1e-672120da905a",
+			"1750fc1a-4ea9-4a70-ba55-cdadc8c0a6ff",
+			"404cee21-ef73-42cb-bdba-4d7a90ab49db",
+			"62d5289d-6875-4b76-a9dc-48f94805faa0",
+			"b108f78c-5144-4fe4-91c5-c20913238143",
+			"cbf8eab4-c3c2-4bd3-a683-6df49532b73b"
+		]
+	},
+	{
+		"id": "c3e62c36-47c5-48a3-b9e3-686392dbe282",
+		"prefix": "4.2.4",
+		"title": "Je kunt instructies lezen",
+		"doelniveau_id": [
+			"cc552058-b7b3-4979-99ee-56123e3475a8",
+			"02f04b0b-d42b-45d5-b481-a460c707b723",
+			"589f7504-8202-41b4-9415-c72e47696ecb",
+			"a1aa53cb-1fc4-4a61-84a4-fab5b05c5e62",
+			"92d159ed-f35f-460e-93e5-2247b74a626c",
+			"8fceccab-feda-44e5-8e4a-7427e29e8280",
+			"e9cc2a35-7561-4774-9ed5-68fb47349664",
+			"166ad690-9b7c-47f3-9779-79b38e03bd68",
+			"41dbf67c-c87f-4d4d-bb91-3759034f3605",
+			"384c8aa0-e0c5-45b9-b480-e5adfb7cd733",
+			"f9fc36ec-c919-424e-a9a5-752fca4fc4f4"
+		]
+	},
+	{
+		"id": "c81264af-e0a2-4004-839e-1bf0cdc53d3d",
+		"prefix": "1.2.1.",
+		"title": "Je kunt informele gesprekken voeren",
+		"doelniveau_id": [
+			"22be467c-8b40-44dd-8d18-f2fefb4b191c",
+			"d6ba5c29-3a2b-4fbb-8a9e-6ca2344217d8",
+			"376dcd71-7d2c-42cd-8ae8-110c245dc996",
+			"9355fa49-0477-47a8-8913-aadbb595bcd7",
+			"e1e4cb9d-49be-452a-9850-f568d5bbbb28",
+			"2f1cc8bc-d4fa-4579-85b7-2e67f14553b1",
+			"a00ba22b-65e0-43d0-8699-e51799e174cc",
+			"81b03a1d-a10a-4ca1-bc45-13ff05d29a0f",
+			"188f9c79-2b8c-4ab3-b353-4d28aa3eaa6d",
+			"136dd039-c8d1-4df9-bbbe-5e27e1aeda4a",
+			"39579d6f-c16d-4606-95da-2aa7cc67a6ba",
+			"1b9cf447-6688-49ff-8119-1146e9852963",
+			"c538cd3d-6754-4d59-8213-d50f677e9805",
+			"068890cc-fafa-40ea-a3bc-3eef7a722fa9",
+			"cfc0a087-3adc-4e38-9562-8840c27e761f",
+			"7e748e3e-7bfa-47fa-a445-7e1f7713433e",
+			"a8b09d19-9e4d-4318-b47a-8705020335a3",
+			"271f2a04-8bbd-4064-8b6e-50278d4a5b63",
+			"1897db6a-1bdd-4ef1-b709-2fe9f0ccbc04"
+		]
+	},
+	{
+		"id": "a98e4109-fcff-4a6d-b7d1-20dd56298287",
+		"prefix": "1.2.3",
+		"title": "Je kunt zaken regelen",
+		"doelniveau_id": [
+			"92875bf9-9b2a-4cd3-b409-e0d9db5433f7",
+			"2496c900-6dda-493b-8084-b8b6b5cc3050",
+			"8c73da40-16e0-4414-8957-f73281863b3a",
+			"0681ce2b-9a52-4fe2-8436-9ea1c2e707ce",
+			"e0ae6367-b742-46ff-8e98-6ea525465f4e",
+			"f5dc2347-0117-4a41-88de-2a388f5a7a8a",
+			"6b667c2f-663a-4011-b719-ea7e42e62078",
+			"027a177b-c5ae-43f3-a88e-51e5c1179060",
+			"ec639af4-e1c6-44cf-bd7e-6528285250ca",
+			"db4c4e58-66d1-42c3-adb3-74f73ae742b4",
+			"7e7e5902-781a-42e1-9b5d-ad347bd0b34f",
+			"4371bcd1-226e-4a8d-831b-58e6314fd1cc",
+			"046b0384-9ed7-4446-b990-2bdd0d2ad449",
+			"def19fc7-b22d-4bc0-aed4-461026eb1a2c",
+			"1d331e66-aed0-4a35-af03-8352144c9c76",
+			"4a21fa31-d338-405a-be9d-951792e9141c",
+			"a00fe8fb-896e-4ad5-8f2b-ee9c7b982d39",
+			"dfa34df6-0e24-4f5d-8bd0-9212ef0e1367",
+			"db073d1a-650a-4cc7-8b05-6542c8b328b3",
+			"69e465f6-486b-405b-b2a8-65b720ea2e45",
+			"53f98f43-c485-4570-937a-d51836de06f8",
+			"50c1e090-66bc-47f0-98a5-557500e2de85",
+			"4265897e-2749-4af4-8531-e7bc862c3a17",
+			"e4ba8a06-c1d1-4bd4-b5f5-256e98918f68",
+			"bd6e3cd6-fad7-4e28-8f76-3cccec4043dd",
+			"293c71e9-afab-4505-b7ac-37e211c63bab",
+			"9e24c2fa-460e-4a08-ac7a-edf684b867ef",
+			"c683c43b-a4b5-4342-b301-ef27f5ac07b5",
+			"224510f7-18c0-4d8f-aa29-29090da82f0d",
+			"02c42e0c-7911-4970-a5fd-3900d111de0b",
+			"9b4e1629-e4b8-481e-90f3-7df9a24464a2",
+			"44b9372d-0cd6-48c3-8067-69d8fafab199",
+			"af4bbd6b-f390-499d-9a1a-dfa855bf12e1",
+			"c64b8a9c-8146-4a38-99e2-1dfc03b4b577"
+		]
+	},
+	{
+		"id": "a5b389c4-eeda-427b-8228-a0bcda914eba",
+		"prefix": "1.2.4",
+		"title": "Je kunt informatie uitwisselen",
+		"doelniveau_id": [
+			"16ddebf0-9266-402f-8474-1adc84dd0b19",
+			"2aef7a16-e772-4462-b5e9-0f582e41531e",
+			"93d8a33c-b6a9-44da-a481-a88500b64862",
+			"5c3611db-ae88-409d-85ac-301b082aef09",
+			"f16a5bdd-f596-430a-917e-4f636f5b6a35",
+			"4ad63b5b-f6f4-4382-8654-aef6ee2ebf59",
+			"82e031d8-5d30-4dc5-92ae-8874ae6f8033",
+			"f5dc2543-9806-4022-ace3-5d41bc3c525c",
+			"71f141d6-e537-45dc-9de1-6b61a1d7d70a",
+			"611f7d45-eab0-46b4-8fb8-c0e3473923ce",
+			"84f5e376-6dee-491e-92a5-5b8f3d8a20cc",
+			"235953b6-6653-447e-8d3a-1b053d2ca7d7",
+			"62d271c6-b5d0-4add-b9f3-7d5d4d8ede9c",
+			"33221433-6d7a-47ef-b36f-ffcc27648760",
+			"0705e84c-f8de-4e52-83bf-f20b0f896114",
+			"3e71a6c7-a484-4576-8b5f-066350d3a9a2",
+			"fa86dada-817f-4f60-b457-49e18438d20a",
+			"84d2ec1c-ea68-4a37-be9c-0a0f4aaf0188",
+			"6c042c30-aec1-4e15-9dac-5550afbfae56",
+			"5e35883d-f4b0-4721-bae3-1d5c967ccb86",
+			"86d5407e-180a-4096-a3b8-0f6f106a2dc1",
+			"690fbece-3cd8-4979-bb62-572c7d220e65",
+			"3f86db80-897f-48ab-8113-817e6a9eec91",
+			"af5cc7e6-b20b-4488-b4ce-e1fa45be5b14"
+		]
+	},
+	{
+		"id": "1baa494a-3079-406a-9581-95257a085155",
+		"prefix": "2.1.1",
+		"title": "Onderwerpen",
+		"doelniveau_id": [
+			"f19ad57d-72db-4fca-80f3-543ec4494624",
+			"a8d644b5-b54d-40cb-bc46-cba29eea8fcf",
+			"9c214c29-63b8-41e2-9a1b-f1a00b954ab2",
+			"a32f37e5-039a-4489-9326-999e7d7567a2",
+			"3391ead2-1de3-4623-8e88-351e60b41353",
+			"7f4bde8c-4d14-416e-be1c-a3238cb064f6"
+		]
+	},
+	{
+		"id": "7d7cdbea-d915-4c6d-b3c7-086391eecaa7",
+		"prefix": "2.1.2",
+		"title": "Woordengebruik en woordenschat",
+		"doelniveau_id": [
+			"3c272086-36f8-42cd-aad3-e6dcdce20126",
+			"00b7e5a4-08e2-4a91-90b5-dfd0d787f756",
+			"cbc6cbbf-ed23-4177-8278-fc97fafeebac",
+			"8ec1a192-0cf8-4b14-a47f-cb989d853a41",
+			"c1250ee4-02e3-449b-abec-7f72e1dcffac",
+			"ea964401-6e9d-4e55-aaba-f9f5e98c3dd7"
+		]
+	},
+	{
+		"id": "91c313c8-e792-4185-b5d4-402d92153de6",
+		"prefix": "2.1.3",
+		"title": "Grammaticale correctheid",
+		"doelniveau_id": [
+			"3e5db680-20b0-42a0-ab1b-3ed97571a2f2",
+			"f28c4ee6-732d-422d-9b91-d4838378b8ad",
+			"92df3d7c-958d-4570-9765-7db2ddea35b0",
+			"c9f150e4-8d07-4de9-9a30-81801ae5fd32",
+			"43c437a0-40c6-4cf9-aa31-a5591dc7560d",
+			"fa910437-478d-46cd-aa9a-e1d032398745",
+			"a3dee753-5ade-4d86-9571-78c3543d37db",
+			"58161fcb-18ca-4280-b8e2-8cfee5614579"
+		]
+	},
+	{
+		"id": "b3cde51a-ffb5-4ad6-89c7-6bf968bb7f6f",
+		"prefix": "2.1.4",
+		"title": "Vloeiendheid",
+		"doelniveau_id": [
+			"e08945ae-0275-4cfa-8b5b-f53dbef84b53",
+			"851007b4-061a-4faa-b1bc-22ce7394a97a",
+			"308589ad-014b-4713-9db3-e1bb60caaa92",
+			"365454b0-74c7-48d7-8fa9-ddacd1f00dc9",
+			"465f52ce-2c88-4770-b6db-453945a7cbee",
+			"0a648dd8-fa23-4a14-88db-c1064d2367bd",
+			"5eb44f08-9695-4ade-8654-e06b4905a207"
+		]
+	},
+	{
+		"id": "37eac4c6-9535-4f1a-90a2-fd8cbc0f3948",
+		"prefix": "2.1.5",
+		"title": "Coherentie",
+		"doelniveau_id": [
+			"4ce0ac9a-41ef-4a89-971f-bc169e4c2c3e",
+			"b0e4b2af-7e2c-454b-bbab-aec80013d107",
+			"7d136428-b3b8-4765-80d6-a1f4e3fe0ace",
+			"b8af5766-758f-4113-a6a9-d7e836d945d8",
+			"7bb7189e-b063-4a92-adf8-9a3371bb5459",
+			"b10692f3-861a-4543-955f-c2fb5fe1e28d"
+		]
+	},
+	{
+		"id": "cff3f4a2-c762-49f2-9315-01e46e8d4d37",
+		"prefix": "2.2.1",
+		"title": "Je kunt een monoloog houden",
+		"doelniveau_id": [
+			"e7ddc4ff-1412-46b2-9b73-f5a1859fe6d3",
+			"2cfb2644-b349-4271-8aa9-f412edb782ad",
+			"8aadca64-23e4-4e19-bd67-80e558a7ae5d",
+			"58e2f1d4-d3f6-4974-885b-0581c1920600",
+			"91e4327a-48eb-4e7f-a15a-c63a808ba74e",
+			"35a5ba16-bee3-4400-a8cf-b6130cdc0fed",
+			"b3069364-1880-404f-94ba-14b7ed71e38f",
+			"8c588224-ad5a-4a12-96de-c1913186ce96",
+			"bdfe9988-eb49-429c-be7b-445c3e62485a",
+			"408723b6-59ae-4d69-b1d5-9f51dc75db68",
+			"b2ad1723-20f5-446a-8bf6-2f7db9603a93",
+			"216c4de7-3299-43bc-b4ed-fba7607c3538",
+			"a7c09207-3e92-477c-ad42-5d13e1de4cf2",
+			"ac22f145-9200-42be-8d5a-80d564b14921",
+			"9953e6fa-fa90-4838-84a4-21d132101fb0",
+			"e340f4a7-cfda-4bec-8dd5-37781684e739",
+			"e8919de5-de9a-499b-acc2-01d6316543da",
+			"eaf1f724-e1c5-456f-afb2-ac70643b1bd5",
+			"c8d09986-7051-402d-8981-524cdf6b332a",
+			"2dec201e-8636-4691-b19c-22ac165ae1de",
+			"a334de22-a8cd-443d-9fba-1a24a7005e64",
+			"cd633e15-e7ad-4eda-96f6-8d2448286cef",
+			"fb3840fb-6888-4d91-a42a-ef554151d7bc",
+			"2a99d1dc-eace-4c6a-b443-e5f1a4c77433"
+		]
+	},
+	{
+		"id": "7c8ba842-4e85-4b4b-b6a0-f5b5c65981ff",
+		"prefix": "2.2.2",
+		"title": "Je kunt een publiek toespreken",
+		"doelniveau_id": [
+			"4f15ec64-5fcf-4594-a3fc-914c13d255d7",
+			"d312f46a-325c-4ffb-8665-66dbac6853ad",
+			"f27df933-c8ff-4471-a206-fc3c5030408b",
+			"b5247603-9c0c-414e-9e74-2428f8f43abc",
+			"f5258378-e5bf-4a42-80e6-dedbdffde5b1",
+			"19c129b7-35ec-4a6a-b893-5b3adb1a39fa",
+			"7a826d0e-8740-438b-b7ac-9f043daf1ada",
+			"f4b7ed3d-ba70-4e56-a1fb-2072dfd4ea77",
+			"0257e0f7-2896-4bc4-bd33-6f2dcb3c8832",
+			"db02f263-1c7c-4ae8-9596-2dd2e0468cee",
+			"84eab129-bd83-4ecd-bed3-ff60b2865793"
+		]
+	},
+	{
+		"id": "691c3180-f051-41d4-8732-6dbbbe72c885",
+		"prefix": "3.1.1",
+		"title": "Onderwerpen",
+		"doelniveau_id": [
+			"d4c7eca1-3785-4b9b-a185-3179d6a9827b",
+			"948218ee-b3fb-44bc-9765-daf676c371eb",
+			"92bb54e8-2b3b-4e5c-9d0e-6c16d9b7d155",
+			"a973f046-d222-4900-bcc2-0017ce1d121f",
+			"e9f44f02-40d5-4956-9c26-01f9f4500bdf",
+			"4c144199-2c90-4e41-9f31-a69682bc0baa"
+		]
+	},
+	{
+		"id": "39060517-0791-450f-9112-c1a2b47e448e",
+		"prefix": "3.1.2",
+		"title": "Woordenschat en woordgebruik",
+		"doelniveau_id": [
+			"f75b9dc6-72b9-4e97-b4bb-a4a3376bf5d2",
+			"3d4f6b8e-78ed-4afa-b50d-ca0119962be2",
+			"55d7bff6-7c95-49e8-b937-105142f1a138",
+			"4ac4ea9e-499b-4dfb-bcda-936915618d20",
+			"0e73a840-df5b-4158-a3ca-f9bb0c1bded9",
+			"9901d478-0dbd-4f7d-9c5d-45cdf1d92ea6"
+		]
+	},
+	{
+		"id": "0a011f29-ad73-439b-9d5e-c61a2ab45853",
+		"prefix": "3.1.3",
+		"title": "Grammaticale correctheid",
+		"doelniveau_id": [
+			"2e6c6ca7-d0f4-4bb7-a7b8-215dc2f03eb3",
+			"27bb1e8d-9533-4ba2-b193-31eb179f7bcc",
+			"5eb13a44-fee3-4bd7-9214-1a97e5bd7722",
+			"1697f6bf-f7b9-4ed2-97a0-fc7aac6bfaba",
+			"c9aac6ff-8792-496e-977a-1a0b1cf5adc3",
+			"48c09a4f-f7e7-4360-875c-fbc84e1d37f8",
+			"02584e17-b842-4d7e-8033-3e1c2756b8ed",
+			"f7316acd-1db0-47e7-a8cd-88479b000e4f"
+		]
+	},
+	{
+		"id": "51e05505-a8a9-4615-89e5-5f01b634cd10",
+		"prefix": "3.1.4",
+		"title": "Spelling en interpunctie",
+		"doelniveau_id": [
+			"8c5157dd-616e-42d6-bcc3-b167c5a67c68",
+			"4514f850-dca4-43e0-bd00-0b666d2890c5",
+			"e8a5d1c6-648b-4b11-a22f-38b3a4347769",
+			"b5a0971c-671e-43ac-8f07-70509d056808",
+			"57482398-66c1-4bd1-bc5b-2982a0e6f077",
+			"ea1361f6-1f28-4c78-8bb2-729f71cfe718",
+			"ca1df247-cc64-4e9f-a9cd-9fdf2ff1daca",
+			"e1d189b4-2066-4c83-bf7c-b32e2abea190",
+			"4d092127-1f27-4d09-b331-4a445f72ddf1",
+			"71e0e8ed-5c1a-4665-b51e-610dd6582f9e",
+			"0f6a99b6-f396-4969-83d0-9f9ae433ba26",
+			"f1f2e695-76b9-4cc1-bccb-f6a1f197e034"
+		]
+	},
+	{
+		"id": "329138d4-d4fd-484a-82b7-7634ec7815a9",
+		"prefix": "3.1.5",
+		"title": "Coherentie",
+		"doelniveau_id": [
+			"c6038892-9d68-4923-a1ff-79fa84e31106",
+			"bdf54eb2-7a7a-4bb1-8e3b-5b0b96330c96"
+		]
+	},
+	{
+		"id": "6eff9c41-54bb-4522-a56e-744a8fdca634",
+		"prefix": "3.1.6",
+		"title": "Compenserende strategieën",
+		"doelniveau_id": [
+			"5e1bd54a-857c-4166-9058-0af9483dcc6a",
+			"31299d4c-178f-4f95-a5d0-2a010a445194"
+		]
+	},
+	{
+		"id": "1724822a-2988-4917-8c17-dbd27baa5e4f",
+		"prefix": "3.2.1",
+		"title": "Je kunt schriftelijke corresponderen",
+		"doelniveau_id": [
+			"ef8bcf16-89e9-4e57-8f99-7aa28fd7687b",
+			"10c80a69-9a0e-475d-b9b0-b5eed3710081",
+			"c0889e16-83d7-4715-9547-70d5b02a10df",
+			"8b7111de-ac3d-4f65-9c1e-683e45aed960",
+			"e2411932-ae5c-4a89-91af-c389e5924014",
+			"a2e988f9-026d-4850-943c-741ace0f92fe",
+			"0788b798-1f42-4f5c-9636-c201547ff6f9",
+			"fbb1d5b4-22b8-4f9a-81fd-a92c3d731220",
+			"716b0b03-1476-4576-9a0d-f52ddc7581af",
+			"2d6c24d0-95a1-47d0-a000-6dfcad659eef",
+			"01f23338-f07e-4d4e-8ffe-63f954109521",
+			"e071650a-92af-4044-937d-79a380253cb8",
+			"b7aa3b19-d7f9-4538-beef-729ddbef4969",
+			"653ec1cf-f137-43ed-ae88-be527dc3262c",
+			"a656991c-31d2-4602-b289-9e8326c5d21f",
+			"7b51d5a2-ae48-4ea1-b0ba-605a41332f33",
+			"d7eaa3e5-e681-4cef-b164-8aa5ec554649",
+			"fa11f4fd-8640-4ae0-8924-e9c2eb8e192d"
+		]
+	},
+	{
+		"id": "562c19f4-1a32-4b2d-a19e-63b7e4ab146a",
+		"prefix": "3.2.2",
+		"title": "Je kunt aantekeningen maken en berichten formuleren",
+		"doelniveau_id": [
+			"56233a19-7c2a-4ce2-8fa8-d6b68ae8499c",
+			"393b855f-55fa-495b-9c52-e4843dfa8044",
+			"5ed98443-aff7-4400-b393-7eb1875d3ddb",
+			"25f14fcd-27c2-40ea-a4d8-6176746d4d34",
+			"b8a41f36-f94d-4c61-9c22-7046de113d2a",
+			"1be3e6a7-91a5-4f9e-9db6-0cb18e954ee8",
+			"f1540fb4-c936-4a9c-9ebd-fbeec58d166e",
+			"74ac64d0-b076-40f0-9ff9-94534b404666",
+			"b3d41aac-f1c3-4434-bd68-ea351701a70d",
+			"92af53a7-a32d-42a1-aa8d-31e024d0f5b3",
+			"1bae2567-afb6-4b4b-9c04-b60e88e2ff8b",
+			"ba25bd12-9098-4050-bb63-b128b2d1b766",
+			"c00fdd95-3ff3-405f-85d0-fc4487067d7c",
+			"ab0be13b-d7fd-4cbf-a901-4381439bcd1c",
+			"19807ca3-7687-42ea-963c-225370a90cbb",
+			"6cb39908-be0e-436d-8f8c-c4dcff677007",
+			"47b76d0b-6930-42f1-9825-436471c42a41",
+			"f10ee9ef-e5e3-40c5-ba2e-670aa70d9844",
+			"608f0775-f287-4222-bdc7-b70433b63a8b",
+			"56f82f33-efa6-42e2-a5bc-8a89d36e1e42",
+			"de625ea4-dae3-4b26-b2c6-c8316bbb30fe",
+			"6a000348-3421-494f-99a6-1168220d4b46",
+			"c7458e53-07ec-4b45-a072-d70025e76d6f"
+		]
+	},
+	{
+		"id": "6e4bbfa7-4f4e-4df6-9dac-b01ad649b147",
+		"prefix": "3.2.3",
+		"title": "Je kunt verslagen en rapporten schrijven",
+		"doelniveau_id": [
+			"3debf5ff-ce56-4f4d-a6bb-6fa0e5a4ff48",
+			"57072ae8-e90c-4058-8ca8-456350d88d38",
+			"b99fab23-df32-4538-9c8c-104cb0aa7d0a",
+			"616ee0ba-452a-4449-b100-76d90deca134",
+			"c82c388d-24af-45a1-b26d-e607994d6db4",
+			"d31be8d9-84b8-4ae5-b125-b1f136f706d0"
+		]
+	},
+	{
+		"id": "40d946bf-45e5-4574-8d25-d58ed84a7603",
+		"prefix": "3.2.4",
+		"title": "Je kunt vrij schrijven",
+		"doelniveau_id": [
+			"626a4b5d-344b-4237-93a8-d09e506f2545",
+			"903f4896-fb2f-4f7f-81ea-52bf3d51b1d8",
+			"1bc75482-b0f0-493d-9b67-233b62d1c489",
+			"a3abefc9-a8c2-4802-a05b-3329748a5664",
+			"ea44d7a9-5fe0-4b40-9a81-751a6488474c",
+			"37e8b431-a86a-45a0-8761-079049a05ebc",
+			"77add793-4f1f-4170-aacf-b9a7502b4cb7",
+			"de349c58-1dfc-40d8-a241-2f9a8dde54ab",
+			"a5ece2c5-37ba-4746-9341-3d4dc401047f",
+			"66996213-d022-4f1d-87c9-df01305188be",
+			"5522a834-2e9a-4184-a6d3-991d7b6898ad",
+			"1925c667-ffc4-4b7e-841e-dd11f84fa619",
+			"8292da3b-a78c-4912-9aea-42fc04d404a6",
+			"837aa171-4927-4980-9e39-c84d71048f77",
+			"00e40a34-87ce-4060-8f08-2d87c1aff892",
+			"2bc5544b-bc4b-4309-a767-d556df7fd84a"
+		]
+	},
+	{
+		"id": "af39f164-2539-4607-aff9-dd110d1d821a",
+		"prefix": "4.1.1",
+		"title": "Onderwerpen",
+		"doelniveau_id": [
+			"6b1c185a-00a3-42fa-b657-57b565bb51f5",
+			"20447be8-6566-4bd5-b7b2-cd0a31c15633",
+			"00f3db2a-48da-4699-aa20-0e0ada6d1233",
+			"78b37367-88e7-467f-b871-535b5d36f897",
+			"50d088f9-3978-4c07-93f1-cd5706a358f7",
+			"202a5609-a252-430a-821e-efa264b5e908"
+		]
+	},
+	{
+		"id": "71ab369b-0c3c-43ef-81d8-e97d6001cab0",
+		"prefix": "4.1.2",
+		"title": "Woordgebruik en zinsbouw",
+		"doelniveau_id": [
+			"d171f40a-50c0-429d-b504-92a99203d631",
+			"45546eda-eaf8-41e3-8453-ce34d056992b",
+			"0ffee429-4693-4bc5-869e-b1e12b4e4aa4",
+			"be6ce97b-7d3e-4d31-b42a-a01711ffc8e0",
+			"c76675e0-1595-4432-bb15-f2d84cd26524",
+			"95f393f1-377d-4da0-9c8f-458999f5bc1c"
+		]
+	},
+	{
+		"id": "8f266eea-0449-41d6-9737-3854a0bfefe2",
+		"prefix": "4.1.3",
+		"title": "Tekstindeling",
+		"doelniveau_id": [
+			"07210751-1558-4041-b6a8-db8382ed2d4d",
+			"c22cb74d-8c66-4fce-bff8-a1944b273ed3",
+			"10cfefea-9c8d-4b02-9435-db896581483d",
+			"493712c4-a2cb-446d-96b2-64887a10ac48",
+			"70b35a9c-e50e-4b98-933b-4d778929f326",
+			"22da1bb6-f898-47da-8d6d-dee90a5b977b"
+		]
+	},
+	{
+		"id": "44995956-da1d-4a5b-9573-64ec60d97a75",
+		"prefix": "4.1.4",
+		"title": "Tekstlengte",
+		"doelniveau_id": [
+			"a4e944a3-d373-416d-aec5-bd51b66a7aea",
+			"5c9913cc-28aa-41b4-9be5-acdf9a561407",
+			"1ff689ff-0805-4517-b9fe-f30943cd7036",
+			"a05df305-4a13-4a70-bdf6-149bf5a8f354",
+			"7b30d31b-4e9c-418c-bdc0-012cbe420646",
+			"13d8aae2-6538-4639-a774-99905b8bec13"
+		]
+	},
+	{
+		"id": "e86d0565-3678-4449-bdf3-0eca7f7cd610",
+		"prefix": "4.1.5",
+		"title": "Signalen herkennen en interpreteren",
+		"doelniveau_id": [
+			"93522a4b-56df-4d18-93f6-c92f15f36f4e",
+			"eda2f2cb-b372-418f-a3d3-6fec4e8d629d",
+			"7f689107-85c0-4cc8-b05d-c23b143e7e4c",
+			"4df59541-f2f7-48bc-b5a5-f3dc9330e520",
+			"c9457baf-db22-4255-8843-2594ee1c2314",
+			"2ec3b788-ef28-4732-9a90-7d5ac5f8f356",
+			"7f21d221-dceb-4a45-9705-87e5fb69a1ee"
+		]
+	},
+	{
+		"id": "efe738a1-3200-4a34-a608-3a037f20de38",
+		"prefix": "5.1.1",
+		"title": "Onderwerpen",
+		"doelniveau_id": [
+			"9583bb33-f9cd-4bcf-8580-d12cd7147951",
+			"367e8b62-753f-48e5-b4f4-481af7bcc20a",
+			"ab7054af-768d-44e6-ab2a-8fde354cfbe2",
+			"6c2a7c4f-627e-4831-bb05-a4a0f82a2279",
+			"12263eef-4efc-410b-ba00-d9dff266b8d6",
+			"3e79f6ae-c4e6-4765-9e21-3db9528480bd"
+		]
+	},
+	{
+		"id": "e6ad86b5-e63d-4e43-95e5-c38a9c743589",
+		"prefix": "5.1.2",
+		"title": "Woordgebruik en zinsbouw",
+		"doelniveau_id": [
+			"85f67a61-75e9-4454-a456-b82303ba2762",
+			"23feb421-42d5-4c11-abc5-bb1956486847",
+			"0c9446d0-803b-4b1b-bee8-b5d6071cb559",
+			"2f80d57b-0fc3-4249-877b-e189d15008ac",
+			"5c498a9a-d8b7-432f-962a-b5257b1f17f8",
+			"3cdfe5cb-6457-429a-8720-e6916c5175ec",
+			"fa9c40ad-dc98-4264-85e2-c214426da86d",
+			"d24d07fc-400a-45e6-b669-04cda0419f68",
+			"63728fd8-0950-45ba-b270-0bb9d7f0284c",
+			"90791fdb-608f-4d7c-9e26-c53f44810700",
+			"dd5f218d-0608-4709-9104-d7d054212065",
+			"dbc9faff-0617-4d96-b1a1-7720507b6ce7"
+		]
+	},
+	{
+		"id": "6aadfcbd-2339-414e-9033-a5551ded2a84",
+		"prefix": "5.1.3",
+		"title": "Tempo en articulatie",
+		"doelniveau_id": [
+			"81c7b956-1ad0-4891-821c-c5817d946b34",
+			"4099c0a8-0998-418e-9976-0b7f0811032b",
+			"576fc212-431d-4436-8faf-18c0100bcfba",
+			"2fb11696-3754-4751-9834-97f41b583dc4",
+			"0b861a86-2835-491e-94e5-80b25ea267f9",
+			"f2db5932-b2af-41c1-a319-0a8743618d8b"
+		]
+	},
+	{
+		"id": "eda073cb-d7d4-4385-937b-2f246ae1401c",
+		"prefix": "5.1.4",
+		"title": "Tekstlengte",
+		"doelniveau_id": [
+			"065c3044-d9f6-40ba-bd73-452e79219c86",
+			"2b584887-bc70-4ae9-a002-4d7eea0c15bc",
+			"3101ef2a-03b8-4e85-9923-88e7279b8d34",
+			"d2376cf3-a59d-4f8b-9162-729203c32107",
+			"e9404c21-97f7-447a-855f-c8513d4e8e29",
+			"a8f02045-fc8a-4ec1-8a77-10dec4abd603"
+		]
+	},
+	{
+		"id": "24c89dc9-19b5-40af-8eae-73d0ced1eebd",
+		"prefix": "5.1.5",
+		"title": "Signalen herkennen en interpreteren",
+		"doelniveau_id": [
+			"2ccf474b-12ce-4c78-b220-469c8db6353b",
+			"58fc9313-a794-4008-a5e3-6e73757aebe2",
+			"39360da9-21c5-409b-b5e6-d5f86ef9a02f",
+			"73a7086d-6aab-4c69-bc50-fdf187533a13",
+			"c1bdac3d-8fcf-4565-aaf9-d0b5939efb27",
+			"57ae89a1-4248-4795-afd5-95e12675d376",
+			"e6275d76-3345-41f0-bb5e-eb72663a665d"
+		]
+	},
+	{
+		"id": "649fecdf-1b37-473e-9667-7579475613f3",
+		"prefix": "5.2.1",
+		"title": "Je kunt gesprekken tussen moedertaalsprekers verstaan",
+		"doelniveau_id": [
+			"5e034389-aa48-44b8-95ac-ba1fadbd6b7f",
+			"c7aefa68-3721-4dee-8a0e-f11186d670b0",
+			"491b5980-32a9-4ce9-a47d-73facce70e64",
+			"6fb6cc48-8276-494f-a919-84e590ccc534",
+			"dbe8e010-360a-48eb-bdfd-06a418a4ec90",
+			"f1cbd668-c8ba-4c0d-91a6-99e26eb28294",
+			"da195d6c-1280-44b9-bbd1-29310923ee8b",
+			"eab9af6d-9c3e-4552-8c9c-6b6f712c2dcc",
+			"065b44c6-6f9d-4449-90ea-13e56c9ca173",
+			"f7608bce-9382-4b88-a98c-851d8c7d26ab",
+			"99b94124-6653-45c4-b7e9-bafc9ca87d1a",
+			"3a790ec9-f5aa-4b36-a3c1-9e1c443ad06b",
+			"d129140e-1b78-497f-a737-f687eff05ec8",
+			"f8cb5ec0-9cfd-444a-8d8a-01fca98853ba",
+			"dd9a85ee-e1f2-49fc-96c6-5009ea7a4f51"
+		]
+	},
+	{
+		"id": "c9fbbbaa-470c-4fb3-99c9-b2e23f57ee62",
+		"prefix": "5.2.2",
+		"title": "Je kunt als lid van een live publiek - Luisteren als lid van een live publiek",
+		"doelniveau_id": [
+			"ce2d44a2-b535-4462-abb1-a1e7a457c083",
+			"aaec44fa-cab1-45a9-9a2a-3fac3914b010",
+			"35571e84-713b-409a-8598-543334c96ad8",
+			"cb85da48-dde4-463e-89f5-2d1aaaf4b0f1"
+		]
+	},
+	{
+		"id": "a9868ed2-7f9c-44e6-914f-646296afeecb",
+		"prefix": "5.2.3",
+		"title": "Je kunt aankondigingen en instructies begrijpen",
+		"doelniveau_id": [
+			"e9efbb88-3ffb-4e20-b829-32934f27c252",
+			"b64bf2f5-7d53-4bb8-b746-2c4e7b2a1678",
+			"0b40579c-47d5-49d4-9427-e25614b3da2a",
+			"980f2190-2e96-4319-8e47-c2d1f54baaf2",
+			"956364ad-9e73-439e-b8d3-ecd66bef1204",
+			"0fd53dfc-ce6b-4323-a036-ccd3448f8372",
+			"6045bd8f-2a87-4d9d-9302-7d3e6c494898",
+			"d114d880-a869-49fa-8df3-d64bd8abc11b",
+			"374e35e3-837a-4bdf-9e30-5411b280145c",
+			"c81a42aa-1576-4e05-84e0-cdc569451977",
+			"48f0467f-4315-4ca2-8552-d5f45ad5c03c",
+			"39e8cc1d-4660-46bb-bd76-d7631974bd0b",
+			"df97530d-2a0d-417e-96a7-29494edc3f79",
+			"4e1673af-a898-4144-9e52-439fdea4a347",
+			"ded81801-a4d9-4078-9e49-746c63169298",
+			"b51d6e07-d033-4ec2-81c9-9a4bef997998"
+		]
+	},
+	{
+		"id": "eb56876b-e0b4-40b6-b593-4312515615a4",
+		"prefix": "5.2.4",
+		"title": "Je kunt TV, video en geluidsopnames begrijpen",
+		"doelniveau_id": [
+			"00844ab4-e87b-4261-95f0-e45a328bc247",
+			"51258c70-7b61-46d7-8190-9e1fbd640430",
+			"68b4eb4e-e1bf-45b6-9800-cc11740428b1",
+			"1c566deb-4888-47b9-8a37-cd032f15b5e5",
+			"e2d3f911-61ab-46e5-bc7b-bfbe1200e4e7",
+			"9ebccbbf-432d-4f9e-ab72-d9f3e6c2e1c7",
+			"281a03ba-e5cf-4d56-ac6f-98802a2483cd",
+			"95234211-6fcd-4708-9b30-62d3e6c75964",
+			"8dd68794-2ca7-4b10-b717-357c6f433e59",
+			"cea08417-0eae-4e5a-8168-a599270a876e",
+			"8761605d-c746-4212-ae69-e3cfcb738379",
+			"8578cf7c-8453-442b-bcc9-b5885d94a91b",
+			"f155a4b1-2be5-4cdf-a72e-e3478e7ced78",
+			"7b0eb68d-1080-41ff-9935-6bcdd9e90056",
+			"9fca944f-4e01-4fa2-9211-c242eb895b06",
+			"53edd5fc-a31b-4a11-aa1a-0c17f39850fe"
+		]
+	}
+]
