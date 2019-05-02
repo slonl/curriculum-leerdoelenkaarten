@@ -132,5 +132,139 @@
 			"3c35c047-1c69-40b5-9209-83e6ee9b674f"
 		],
 		"doelniveau_id": []
+	},
+	{
+		"id": "c9d47b34-59b3-4dca-ba26-336cc6c3093c",
+		"title": "Wiskunde",
+		"vak_id": "4af9cbaf-0ae4-463c-9682-f37e4e119df1",
+		"ldk_vakkern_id": [
+			"fea64477-3dcf-4399-b058-d328ea0e9c40",
+			"c2388872-7e38-488a-aa86-be1a0af557a9",
+			"c4b50f27-f05f-459f-acb6-75b4d06a559f",
+			"cf9e4034-24cb-41e1-95b8-54f472eb244b",
+			"b5124d07-fb54-47d4-8034-4be7260cdaf8",
+			"e9fe0e05-8ffe-474d-86a5-d575ba9b3010",
+			"a84eff1d-b981-4460-86bf-f04737ab94d4"
+		],
+		"doelniveau_id": []
+	},
+	{
+		"id": "3b726b7e-5661-4f5b-8363-505fced17198",
+		"title": "Techniek",
+		"ldk_vakkern_id": [
+			"ec7b25c4-c947-41ec-85ce-34a1669a0e59",
+			"a015ba13-134e-4056-8c39-f19f2b582346",
+			"bcf5e820-641d-4fda-a747-1f0cd6640eb4",
+			"6c2eff38-5182-443d-b49c-c611da51f2bf",
+			"ab4de6a2-d4ac-4bd3-a778-1d3c7eb8edc5",
+			"d9848ec3-c54d-4ef4-907a-b27cee66fd73"
+		],
+		"doelniveau_id": []
+	},
+	{
+		"id": "59208809-f39c-4e66-972b-6a8738fb9f5a",
+		"title": "Scheikunde",
+		"vak_id": "c3fb6e49-027e-4923-8cae-65c6ae9f0b34",
+		"ldk_vakkern_id": [
+			"2a74b1c7-6ddb-4548-84e3-25ab6219c32e",
+			"768b7997-7fb2-4544-9820-efce423becb5",
+			"61be320a-e55a-4018-9f86-4804888cf93d",
+			"55838d4c-032b-473f-a5d7-e322ce4d66bc"
+		],
+		"doelniveau_id": []
+	},
+	{
+		"id": "6312d909-e4c4-45cf-8498-9e930bd97d2c",
+		"title": "Natuurkunde",
+		"vak_id": "0f8319b4-54b7-4b60-badb-f8412b034261",
+		"ldk_vakkern_id": [
+			"c8406fc6-cab2-4c94-97ae-65b068264817",
+			"9b7210a5-c3e5-454a-96be-972c167443f8",
+			"58e58d6f-82fa-4a98-9c73-990544e240cb",
+			"b3c75202-0ec1-4e1a-b4ac-02999190ce7b",
+			"c6ccfc35-7d43-4e9c-a305-c4d29adc0592"
+		],
+		"doelniveau_id": []
+	},
+	{
+		"id": "b0eabf10-0bbc-46f9-9904-6e7c0f94e049",
+		"title": "Geschiedenis",
+		"vak_id": "2ab7d448-145a-44bd-8b13-c1ff08030d60",
+		"ldk_vakkern_id": [
+			"40249cde-802d-4f73-8f3e-c77c3225a96f",
+			"d6625d15-311f-4a5b-ac99-eb8faa63a45a",
+			"19c687b7-e18c-454d-b283-1b54dbaf0d7e",
+			"f2e76f2b-728c-4bd1-9c62-a09418e88e4f",
+			"e8e49f05-bae6-4f55-a707-430f36935f87",
+			"15570229-bbfc-4db0-9cf5-0609f13f489d",
+			"3b08e56b-c7e3-4f52-9eb8-976502855efb",
+			"bac75feb-5999-41d8-893e-92e9fa232935",
+			"2faf30c6-a6c3-4792-b3ae-5596b4ad6e55",
+			"269784ae-1726-466b-bdc2-8590cbceec2b"
+		],
+		"doelniveau_id": []
+	},
+	{
+		"id": "20ce1b37-f02a-46e3-8709-40f2f8f0bfc6",
+		"title": "Engels",
+		"vak_id": "beff9f00-2618-425f-9fd1-b8450b17d38e",
+		"ldk_vakkern_id": [
+			"c341068f-6578-42b6-bf87-fa20bf0d325d",
+			"f5a075d5-192d-48eb-9038-cc92b84b07d2",
+			"2a9a9242-d5c4-4eee-b97b-83a50b161531",
+			"d420ef2c-e984-4c4c-b5e3-6c59988e20d9",
+			"c93a10d1-344f-45a5-9ede-dfb5fda2e509"
+		],
+		"doelniveau_id": []
+	},
+	{
+		"id": "6d582c66-4b98-4e6c-badb-39f0314ed683",
+		"title": "Economie",
+		"vak_id": "696f3880-46f4-4317-8229-807791f303be",
+		"ldk_vakkern_id": [
+			"5342f013-dea3-418d-8930-42aa2a522969",
+			"866713cf-fe28-462a-8f07-75deedce4ce8",
+			"efdf94a0-89a2-4ab8-bb26-b7ef438dcfc0",
+			"6de6f078-72a6-4566-b56a-8a8aef6dde14",
+			"e27b027b-9b1e-4390-b2d0-7b0a6c4843e7",
+			"e6518c76-6894-4b20-923b-fa7821b9fd33",
+			"ac16d1fd-6624-4172-b812-8a1e102bc12f",
+			"1d2ee3c7-a2a7-4c78-8ba6-e351c154322e"
+		],
+		"doelniveau_id": []
+	},
+	{
+		"id": "5b883eb2-2219-4d09-a304-8362bc14458b",
+		"title": "Biologie",
+		"vak_id": "303d322e-3f70-49ec-964d-885339b7a2a1",
+		"ldk_vakkern_id": [
+			"7a06c257-c678-4b7f-a05e-9bf8d8c6b6f6",
+			"2971214c-234b-4fda-9df0-6cad19753c0e",
+			"c2e0e52b-c7c4-4983-a2bf-06c210140fe5",
+			"5fef051c-3f2a-47bc-8c7c-f23762ef6d38",
+			"acd180fc-d129-406e-9031-a83ae13dbeac",
+			"af6b8858-fbf9-439c-956d-813a24f9fe32",
+			"36a0b479-2f7a-4101-8d7c-c9b1e0009582",
+			"496042c2-3e8c-47c1-8b32-27c377d3ba4e",
+			"b4e6a910-451c-4fcd-8ef6-766f51f48b75"
+		],
+		"doelniveau_id": []
+	},
+	{
+		"id": "df71d875-ea12-4e02-ac49-edbf8452097e",
+		"title": "Aardrijkskunde",
+		"vak_id": "cff7c64e-d3d3-4421-824a-7b1297759468",
+		"ldk_vakkern_id": [
+			"73b3d749-9ed3-46e6-a4e3-4434f9b0416f",
+			"95c823be-1207-407d-854a-b1fee5415752",
+			"1dd9bcfb-4fe7-46c1-b221-46ed30144b29",
+			"8c2672a5-49c9-45c0-9af0-ea85066296d7",
+			"2406684a-d56b-4d2d-af97-24c57dac9940",
+			"25f1d980-307f-474d-a691-8b3bc1e324dc",
+			"efc36cad-7536-406f-a28d-186b2b51b083",
+			"547945b0-d880-42ee-b381-4ce42e6805b5",
+			"0fe873c8-1be3-45c4-b7ab-17ba571564ed"
+		],
+		"doelniveau_id": []
 	}
 ]

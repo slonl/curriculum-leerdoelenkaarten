@@ -5,8 +5,8 @@
 		"title": "Wiskundig redeneren",
 		"ldk_vakinhoud_id": [],
 		"doelniveau_id": [
-			"edf200e7-242f-4fe6-8988-e29ee711ca77",
-			"df6436bb-3856-4e2b-88f9-7053bea9633a"
+			"6fa775da-ab40-4b65-97cf-24a4d855820c",
+			"7e184192-cd5a-46f9-a0c4-b74788e3eb15"
 		]
 	},
 	{
@@ -468,7 +468,7 @@
 		"title": "Wiskundig redeneren",
 		"ldk_vakinhoud_id": [],
 		"doelniveau_id": [
-			"9b458cdb-acb1-4111-9e04-681f8ddb82f9"
+			"9c26c6c1-15ef-4b3d-8a2d-b3094c410553"
 		]
 	},
 	{
@@ -1947,7 +1947,7 @@
 		"title": "De verhouding tussen heer en vazal",
 		"ldk_vakinhoud_id": [],
 		"doelniveau_id": [
-			"2edafbce-f64e-4af9-a000-65204c1e05e9"
+			"04eee3f4-f8be-4ff2-9467-4b631778da48"
 		]
 	},
 	{
@@ -2409,7 +2409,14 @@
 		"id": "64cc68e5-c732-4355-a91f-9d11e53cf1df",
 		"prefix": "1.1.",
 		"title": "Hoe doe je het?",
-		"ldk_vakinhoud_id": [],
+		"ldk_vakinhoud_id": [
+			"815081d7-66f2-4b84-9373-a0ea75799255",
+			"b6f1710a-5ae4-480a-b51d-bd7712a1f8db",
+			"5f5aac73-3d3f-44fc-97d4-b148ef5094bd",
+			"bde8b6d9-523e-4492-a13e-335c2ee80148",
+			"633d5868-b5b7-41cd-8a59-32ca3601c839",
+			"309a06bf-0fc1-44b0-a897-1e61a3878891"
+		],
 		"doelniveau_id": []
 	},
 	{
@@ -2417,9 +2424,9 @@
 		"prefix": "1.2",
 		"title": "Wat doe je?",
 		"ldk_vakinhoud_id": [
-			"c81264af-e0a2-4004-839e-1bf0cdc53d3d",
-			"a98e4109-fcff-4a6d-b7d1-20dd56298287",
-			"a5b389c4-eeda-427b-8228-a0bcda914eba"
+			"5f1e9618-741f-4160-b33b-9b5d1703a46e",
+			"f94362e3-84fd-487a-af7d-be72772d5c33",
+			"fae70ea7-0b54-47ae-af0d-66f499001b39"
 		],
 		"doelniveau_id": []
 	},
@@ -2441,8 +2448,8 @@
 		"prefix": "2.2",
 		"title": "Wat doe je?",
 		"ldk_vakinhoud_id": [
-			"cff3f4a2-c762-49f2-9315-01e46e8d4d37",
-			"7c8ba842-4e85-4b4b-b6a0-f5b5c65981ff"
+			"d477e11d-73f6-4b0b-9333-de429c3ba991",
+			"7669b3fb-cb47-4629-a253-66597eb14815"
 		],
 		"doelniveau_id": []
 	},
@@ -2465,10 +2472,10 @@
 		"prefix": "3.2",
 		"title": "Wat doe je?",
 		"ldk_vakinhoud_id": [
-			"1724822a-2988-4917-8c17-dbd27baa5e4f",
-			"562c19f4-1a32-4b2d-a19e-63b7e4ab146a",
-			"6e4bbfa7-4f4e-4df6-9dac-b01ad649b147",
-			"40d946bf-45e5-4574-8d25-d58ed84a7603"
+			"a350b0c8-d67f-4ecf-9396-66068e3a42e2",
+			"71919f33-5e1e-480f-a290-3e7c41cc7659",
+			"2061c5e6-fe4d-45cb-8610-3484239e49ec",
+			"8a0440cd-f65b-4d7f-af82-0d0b99b651da"
 		],
 		"doelniveau_id": []
 	},
@@ -2489,7 +2496,12 @@
 		"id": "c9b9853a-bcde-418c-8fa8-be89a4d9bfb8",
 		"prefix": "4.2.",
 		"title": "Wat doe je?",
-		"ldk_vakinhoud_id": [],
+		"ldk_vakinhoud_id": [
+			"c45f1ceb-1c2b-40e3-b6b6-1f2e3ef9f1bc",
+			"abe1de76-7f4e-4a28-b9be-78684a9ff5cb",
+			"e9077aae-ee7e-4db2-b6e8-3088bea618ab",
+			"800a3e01-3af8-4d4b-b348-d76461f1de55"
+		],
 		"doelniveau_id": []
 	},
 	{
@@ -2510,10 +2522,10 @@
 		"prefix": "5.2",
 		"title": "Wat doe je?",
 		"ldk_vakinhoud_id": [
-			"649fecdf-1b37-473e-9667-7579475613f3",
-			"c9fbbbaa-470c-4fb3-99c9-b2e23f57ee62",
-			"a9868ed2-7f9c-44e6-914f-646296afeecb",
-			"eb56876b-e0b4-40b6-b593-4312515615a4"
+			"f51676f4-5155-444d-a579-da7e15f9238f",
+			"6d3405fc-6a6e-4527-a221-f43d62ac4451",
+			"65e30943-eaaa-4e9d-9e8c-0ed352c5e643",
+			"07e169f0-c9f2-4ec6-a18a-a40f3008f093"
 		],
 		"doelniveau_id": []
 	},
@@ -3094,18 +3106,18 @@
 		"title": "Planten",
 		"ldk_vakinhoud_id": [],
 		"doelniveau_id": [
-			"a965b60f-8d20-48f9-886e-6a80cbdafdb2",
-			"d85dc9b1-8fb8-4e67-ad57-ff5c0ccd5604",
-			"36b7b666-abe7-46ee-8c99-058720eea0ca",
-			"6999329d-4375-4f70-92cd-5a312a3f6512",
-			"676eee65-e088-49aa-8172-ef11672982b4",
-			"c1a8a0ca-a8b0-4671-8a16-6cef3ba3ece7",
-			"e7267e6f-2b65-42ff-b097-01a7cdbb172c",
-			"46f409bd-5fd0-4e73-ba0a-edb6c913a2cc",
-			"29d60a44-aafc-4dc0-a529-112d7565f65a",
-			"9a50a8b1-778e-4787-9570-6ec533d38b6e",
-			"5a259efc-2e5b-4cd5-a8ba-daae7acd07e4",
-			"c2e7c225-e6e0-4b3e-9e08-256858778e59"
+			"3a3b797e-2615-49bc-aa8d-4eea91f0c105",
+			"f5146997-4998-475b-b614-e72ebe512406",
+			"59e1a8bd-df06-4863-bc0b-9b37e4e4a1d0",
+			"38a67de0-54dc-427b-9c15-298bd6d285b5",
+			"b40690db-c226-4ee7-aacb-5de6e5f70717",
+			"472f3694-8d70-4948-8a18-2155fe50a019",
+			"d8f20fbc-2f8c-4dd2-ad19-675c867fbb54",
+			"226a544c-20b1-4f89-bd8c-78b9cd5bf490",
+			"67e003a9-eacb-4637-9a5b-635b4720aa27",
+			"1a1931d9-8af6-4522-b7f3-3e728c2e0fad",
+			"310fe1ac-6564-43da-9da7-053b9f4c0769",
+			"7f717699-3cb1-4a6f-9023-b60ecc4d7f2e"
 		]
 	},
 	{
@@ -3131,18 +3143,18 @@
 		"title": "Voeding",
 		"ldk_vakinhoud_id": [],
 		"doelniveau_id": [
-			"6fa1b9d3-196c-44a5-900d-963167310886",
-			"24df8de0-9ad2-47d9-8f20-9688b26f6744",
-			"8be38d1a-d042-42ea-a5e2-d9a970016e39",
-			"0d67ef1b-f0f9-4804-883b-f1ac7bbaa14b",
-			"89f690aa-f76a-499b-8c4d-31bb8819681c",
-			"7677c442-95f1-4b1b-ab34-74a5f94e8e6c",
-			"3860394d-997d-49e0-9639-0e1c4afa46b6",
-			"ff860291-d604-445f-80fc-f91c54de95dc",
-			"44af3cc2-ea4e-4a1d-b286-a3c21474add2",
-			"7e8f9968-b9c8-4b42-b657-c30c10048c67",
-			"a38bd12b-122a-4b67-ae34-e5f8f1d43d72",
-			"c28bf86d-cee7-4d5c-a730-ba84207429b8"
+			"0af65909-d763-49f3-a4d9-33cfe7507f13",
+			"99e61c2f-3f3d-4b56-b38f-230f1bf2a7d8",
+			"dd3716ee-01ea-4c80-aa4d-758dfb5f92ae",
+			"6c1c41fd-d05f-4172-b660-2609a193a1d7",
+			"607947af-798a-4f97-86b6-8a1a1cdab4c8",
+			"bd5f7697-5103-4f5c-a99d-d00b6e36d31b",
+			"d64c8dee-3772-443a-b32d-9e0c1b107847",
+			"ac5e731e-5554-40fa-a93b-ea5b407b7163",
+			"a4367208-e81d-4b9d-a3a0-91c6461b7c77",
+			"5781b412-1751-470e-9137-457527230201",
+			"8aca50b3-4182-4667-baa2-90207075303a",
+			"63bc7b3d-b980-4c48-887b-3aea146f0bf6"
 		]
 	},
 	{
@@ -3801,18 +3813,18 @@
 		"title": "Ruimte",
 		"ldk_vakinhoud_id": [],
 		"doelniveau_id": [
-			"d62929ff-e921-473e-8c1c-a72b53ed0421",
-			"494355cd-2857-4589-bc36-c572643a7a38",
-			"75bb42e4-2505-48a8-acad-bd0aed8bf9db",
-			"88f60b2e-34a3-4925-af09-449e7295f705",
-			"65356956-f6ac-46d6-bb7b-d6656ae32216",
-			"5956b374-6416-42b6-8c70-893536a369a1",
-			"cdecc7a2-6d81-49ea-bcc3-2decd7e8c85f",
-			"f57a4773-52fa-4cb8-8388-728bd14aee4b",
-			"cea63c4b-c23c-4d62-8df9-bc1e3e636d40",
-			"2b3b665b-7edf-447e-b7e3-bcdaa01a2bb1",
-			"1cf8b793-a25a-486e-b229-c07d9a6fa82d",
-			"ce3585c2-35bf-4063-9cb9-587c9eb8e04d"
+			"7b1a4ca1-3333-4180-80bd-7cee9fc4ab95",
+			"3e33d067-ac4f-4537-b1ae-e0f5234b7158",
+			"aefdf8c7-8a06-4fa9-a547-b520096dccb2",
+			"bbad9e44-88a2-42e8-93b6-57a33c540185",
+			"7f053fec-dd53-42a9-86c8-188c455b98d9",
+			"2c8cda7e-f2d1-4778-81bb-13ea908332e9",
+			"5ab54710-9506-4a15-a6aa-63fa1019ece1",
+			"be274a7b-0008-42ad-814d-16acfa1cb14d",
+			"e9a8f4ee-2781-4e91-af53-b769318aa7a6",
+			"e2d2646d-2b8d-4180-ba22-c03f72934ca1",
+			"f3a59e7b-5115-4d57-9e40-cd697a389630",
+			"e7a63f86-e5be-4528-871d-89174940014a"
 		]
 	},
 	{
@@ -4003,6 +4015,3800 @@
 			"b5184057-931b-4e48-adb2-077afa19c785",
 			"bfec9e16-5d8d-4751-8e5c-640e04ec361d",
 			"f4feb84e-819a-49c1-8a5d-3045ce48fca1"
+		]
+	},
+	{
+		"id": "24ab1c86-3493-4be0-b654-2b9991a2dff4",
+		"prefix": "1.B.1",
+		"title": "Getallen, getalsystemen en -relaties",
+		"vaksubkern_id": "4942d876-cbd3-41a9-88f2-9c7cae8dcc50",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"0fc3b9bf-dea3-4bf9-a84e-79c462bc5753",
+			"bfcde292-1f4b-4899-8e1f-c4dbebb6e18c",
+			"5932717c-8ed9-4a8b-95c3-a8ef8af74c44",
+			"fa6df055-1042-4cf3-9092-e96562a1dc60",
+			"891a5381-71de-4b4a-8848-d34a4d121ab0",
+			"2b2784dc-9b59-4d8b-bdc9-bdccc9a2635c",
+			"ef3f7059-0594-4c1c-9bd4-a223174a9808",
+			"8b89b5de-51e4-42e7-83c4-5760ca3c1188",
+			"a9af84cc-4875-4d98-bf07-852366988220",
+			"064015f4-ea0b-45b2-8d4e-c6978880b4d1",
+			"227ff4dc-99d6-40c5-af09-52311cad01f0",
+			"ceada43b-5ba2-4692-9206-9562aef1ac48",
+			"f4eeb5f5-9db6-4d65-91fa-730b494d270e",
+			"079459ef-7083-4ac9-bbf4-1f0a9dc5fc58",
+			"6656213e-2b0e-4a3f-ba8b-03cd5f7e7a61",
+			"86495032-a44d-4479-be7c-060bd441697d",
+			"a66f8809-9f66-4251-a6a5-ffd1cf28f1a2",
+			"315b7701-2bb5-4473-ac43-a86e6f37d4ce",
+			"f795da0d-368d-4b99-be2b-3e3f5f76346e",
+			"3b447400-5fde-4287-a54d-99f9d4268110",
+			"d5e38824-8317-4a81-9a00-23272f4aebc2",
+			"e40c54c0-3742-4c2e-905a-6639e9647585",
+			"d4fa1a86-90f2-4eac-85f9-66d8ae0cb039",
+			"65afff24-02be-4302-afb7-18b58a0d9898",
+			"8966e96c-3eba-4fa2-acdd-4a891ef6ade0",
+			"a0f62b3e-2867-4591-acc8-eaea591e7dc8",
+			"f54862b4-0bf9-44f2-bb8b-71535358c255",
+			"91dd675b-f9e4-4a29-9749-ab05de8b04d0",
+			"b60976e6-1353-4137-ad20-4d446ad459f9",
+			"93e5990c-5067-4f05-bd01-8740f1f9e39f",
+			"d40cac96-0347-4cb8-8f0d-50971f932d5f",
+			"818a6917-8a1b-4e48-a444-bf0c0d777a57",
+			"c8872cbe-9210-46a4-8963-0019282f909b",
+			"3bf4bfb0-2092-4aa9-9b5a-86e6e5efac08",
+			"d5b0a784-a2e8-4f0e-b9a8-0b02e8277ccd",
+			"3ed245df-b2c7-47e2-bb3d-237fe1ebf24c",
+			"875200ef-e95e-4d50-a829-f2ad8cae5592",
+			"deae4eb1-44c7-4589-aef8-ac9f53e77fb4",
+			"bf7c1a2d-2de1-450b-8bdc-96ebd473b737",
+			"59e1f6b3-114e-495d-bfc0-8457386165a8",
+			"9f32df4f-05c3-4909-8a1b-6a33a5b4de32",
+			"90e6a935-0054-47b6-b0ac-9b37d5586ad5",
+			"574c0ffe-c9e4-4a3e-8693-8bf2a3b42f3f",
+			"b092e1a3-53a1-409a-975c-fb055916e03f",
+			"0eb8d171-ed98-438f-b744-7aacd49d4b86",
+			"3c368ab7-2be4-4f14-9594-c13323b381bd",
+			"345f8adc-b92c-48c8-bc8a-0accb6bfee9b",
+			"f4c45445-3a0c-49a9-928f-c64cd07b3fd3",
+			"f5355895-84fd-4798-9c8a-b860e81500f3",
+			"64f10e2b-23a9-4eda-a940-14018021baa4",
+			"3485415d-133d-4bf9-9434-01141a45ce96",
+			"5334bfa2-bc0b-4b2e-a472-cc5ce51d8746",
+			"1de919dc-40bb-44f7-a2d3-f8ed98f1646c"
+		]
+	},
+	{
+		"id": "1475299b-810c-469b-b177-2c52ad0b6ff1",
+		"prefix": "2.B.2",
+		"title": "Rekenen met getallen",
+		"vaksubkern_id": "bk:fb7e70e0-e77a-4dee-82b5-068412ec22d3",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"b9996562-7547-40e1-8e4e-f252c37fce2d",
+			"8fe5aa6c-a013-42e2-856a-f2b1492eceb3",
+			"5b4b162d-4b6b-443a-af52-f069a25f8aa6",
+			"4bcc8d1d-f53e-4a44-8b68-822009347b8f",
+			"110b71e0-e3c3-47a5-bc04-d4cc2d59ea3b",
+			"b3b0ddc6-1080-4caf-9f64-cab63a9e3920",
+			"98a1f921-93ec-4578-b324-930944dea857",
+			"ff96f534-3986-4b6c-95b8-ca3902c2a00b",
+			"af1ea007-cde9-483d-93ec-a740598236d9",
+			"60f44820-19b2-4a09-a605-2b667fee429b",
+			"4597a2e2-6d8b-4353-8f0f-3ee63cba0e45",
+			"f5ce685d-c52a-4912-aac2-8c5c5d0521ca",
+			"5dfdadb5-3922-444d-9286-1e8b490dc0d8",
+			"be6d474b-83da-473a-943d-87544409b48d",
+			"85c499df-2a89-4dff-9457-7f4656868cec",
+			"4ee6f1d9-9715-4d1a-9fe8-2d0ddf7b6092",
+			"ac10dd50-9446-4cbc-a739-f39f77de4ab2",
+			"15c4e34f-6409-4b59-a298-515a9b6ac318",
+			"edcd91dd-d205-436c-8db8-f45633ac5fa3",
+			"c47c81a2-89a1-4bd3-ad57-1580599eaa6c",
+			"25ffd6a2-0589-420b-a268-4e910d15b243",
+			"ce2cf09b-c3af-43b4-9203-5fcb9661c1bf",
+			"468f989f-7fdd-459a-b6bb-1de20ebbe017",
+			"abc51fc1-3d3d-4162-9b50-ec761e0b6899",
+			"d3f9ef7a-6006-4157-89f4-4a2160102772",
+			"f775924a-83af-4e1d-be8c-5e76a0fe1290",
+			"2af5cc3d-32cf-48ae-9df2-3dcbd1a9edd9",
+			"85ff46c7-2e77-4198-a5a9-28402f60bed0",
+			"1102001f-e317-4838-bc6a-58b4838837a0",
+			"43087703-2f37-4745-9cd6-9c2b24181f7a",
+			"df4fec99-afcb-4383-bce2-de797c7c4107",
+			"e1be3a1e-d298-40f4-93d3-b01a31e9b352",
+			"1068a4a4-2cec-4992-a127-4863a41215d0",
+			"9ed46b64-697b-4caa-ad34-c44ac3b304e2"
+		]
+	},
+	{
+		"id": "c6a8eadc-50af-4ffd-a5df-6389c01ec81a",
+		"prefix": "3.B.3",
+		"title": "Rekenen met variabelen",
+		"vaksubkern_id": "bk:0117b990-87ab-49fa-a379-2e06946be99e",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"cdae5977-2d67-4f70-93dd-c3049399d080",
+			"095e4153-1026-4d23-a165-e25fb35bd691",
+			"f36ffe20-921a-440b-be63-8da98d0b335f",
+			"b28dc24f-2a3f-4d9b-918b-5b855add42ea",
+			"0a0eb3b1-a71a-42f8-87ec-ce2b148d9d36",
+			"4925745b-caa2-4d71-b27e-f81061596642",
+			"b8695ced-2e7f-454b-9d84-aface591fd42",
+			"f8726bf1-72c2-4382-a4b3-64293ce96afe"
+		]
+	},
+	{
+		"id": "ed53825e-ab0d-4039-84aa-787c4e3dff8c",
+		"prefix": "4.B.4",
+		"title": "Tellen",
+		"vaksubkern_id": "bk:80463ecd-26a1-43ad-9aa9-7506bba383c0",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"e8576148-e3cb-405e-a56c-eecfdae43818",
+			"cd271d6b-c9ff-4184-832e-cb46b7ce4e2b"
+		]
+	},
+	{
+		"id": "375f2d71-b5e6-4c65-994d-ab2bca49a1e3",
+		"prefix": "5.C",
+		"title": "Verhoudingen - Verh",
+		"vaksubkern_id": "71ac57af-be25-4118-a1c7-216f1b763ba3",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"be7bce39-41d4-4e84-809b-7510eec62274",
+			"88b79422-4dbe-47ad-9c2f-d957dc8a4bcf",
+			"4c7e3d19-99b5-40b7-aed3-c6afcd22b85b",
+			"c43758c4-8cc8-47ed-8fb4-4f302c58bbe0",
+			"3ff3fec6-7f88-404c-9ad2-16947253ad15",
+			"3c654a76-b0c6-4852-bdac-a37c89ae0e28",
+			"35846f03-7e8a-40d3-9d52-a55fe0b92853",
+			"e4f90bed-4c57-47c2-8f99-6beb0f74df0f",
+			"e372b6d8-02d7-44ac-a8d2-fca804c7100c",
+			"54262510-73c3-40b5-81af-fe9aa36a2a46",
+			"40847672-fc9f-47e3-87ff-905bb7f60c6e",
+			"bf1059eb-48dd-48be-9e57-744ab1dbf851",
+			"293e69a0-37c3-4998-a768-98225f7b8088",
+			"07b83f20-4ad7-4de4-804f-f14cdbf34611",
+			"930e5312-8316-400b-94dc-7d8daf003386",
+			"d80db895-cfb7-4c25-8a03-e3ac4708f4b6",
+			"0cbf560e-d346-4b31-9c56-1aa30e38e996",
+			"18e18ece-53a5-4ba2-bc66-bc623d6a3577",
+			"3ccac256-3b0a-486a-ab8c-44a278a5cac5",
+			"30630d2c-733e-46f2-9f91-8892ba4c0919",
+			"908a6ae8-9561-4f65-9d2b-d9008d56bb4e",
+			"8d6aacd1-10bd-4d20-8560-dd4492f9d414",
+			"a5fce32a-25f9-411e-9ceb-46daf03beac6",
+			"b7e23ea9-e7d5-4c14-a3dd-5b98e36e3747",
+			"3571d5fc-128b-463b-85fc-bd335fe21311",
+			"bfd4a72d-f289-4f98-8276-3e1e7d852edb",
+			"12f88b37-4626-41b2-b1bf-cc0ed4a338a7",
+			"16c49854-7b0d-41e7-b8c0-8516f00828a8",
+			"c6a36f7b-dcb5-4e99-811b-dd8d1ae2af7d",
+			"6366a2dc-b0b3-4c84-adca-3d2cb59203d6",
+			"9be5f783-0150-42cd-8ec7-0236acc5b12a",
+			"2ceccd48-928a-4333-b7da-3980b93148ae",
+			"ca7f2bc4-7308-486e-8c6b-8da70ae72847",
+			"9ba4aca0-0375-4e79-a7a4-b6ce18a542a0",
+			"1738cad3-9971-4109-81ce-de417aada74d",
+			"f360d89b-3473-4320-be1d-74a81c270e8a",
+			"d421db59-bb44-49cf-a052-e5549090c92b"
+		]
+	},
+	{
+		"id": "7bacea0f-1379-41be-ad6d-cfe114f74d32",
+		"prefix": "6.D.1",
+		"title": "Rekenen in de Meetkunde",
+		"vaksubkern_id": "bk:838e5016-cff4-4a1e-8ef6-b57129677d1c",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"d5dcdbe6-d4f1-4132-9746-b724da1c22c4",
+			"a208ba35-c434-4a6f-a86e-86841481a80e",
+			"f9e33398-7ee8-405e-a845-2e22fa78f913",
+			"88008313-9370-4de1-bd31-79ced22e6c86",
+			"cd21dd06-c376-4191-9e99-6a37e7064b3e",
+			"3410e5a7-55f4-4a66-ae32-75af22511efe",
+			"f2909f16-888e-4d23-9918-b85e9589b4aa",
+			"9b844c7a-6616-4acd-8165-43810841909c",
+			"10e5c87a-36bb-4534-8833-75ac86c3b3ab",
+			"8990cd4a-2f6b-4bed-873c-e4f157713bdb",
+			"371f1ecd-0c38-4d4d-b3a7-aca18b8ac72a",
+			"a3d2b671-daa4-422b-9bda-97bed7f3ae99",
+			"badafb86-15d3-4b9e-8aa3-88a36b5ce7dc",
+			"0aa5e946-1342-42a4-a56d-10843c5cde24",
+			"466eb89a-2d0f-4f3a-9fe0-0986a8c71f0f",
+			"13dec09a-6561-4413-a932-4e49f1f947b6",
+			"d9328f14-ff26-4b01-94ad-75ed3702de33",
+			"23c5d03e-4570-4ab3-96c5-2c134aa38ee0",
+			"14d4760a-492a-47d3-9c7e-07a22a2dc422",
+			"ba7b3799-7ca4-45ed-84ad-e6f9f2a8bc74",
+			"baedb582-7d54-4f36-a91e-b8d98173345e",
+			"02ae1cd8-f40f-445a-90fe-8ccd85d8cd22",
+			"550df7cc-bc53-4bcd-9b3f-39388531cbb1",
+			"42907fdb-7fee-43cd-8a8d-0e78408bbeec",
+			"64a56d72-f0e4-4f9f-a1f6-4c66aed4431e",
+			"51d76300-dac5-4af7-91ec-4fcdab2a07c6",
+			"675a5835-bb10-41c0-a359-67b3499c7a79",
+			"014b7975-bcb1-48e8-bcbc-39298e0d1c7c",
+			"980e5fac-5409-4d4c-9335-4bd95cc3b2d7",
+			"e60c225b-b60a-4bfd-8f02-249b9f4846a4"
+		]
+	},
+	{
+		"id": "bb6a802a-0ce6-497c-8099-0142b06bc10d",
+		"prefix": "7.D.2",
+		"title": "Vormen en figuren",
+		"vaksubkern_id": "bk:8a80dd01-f006-4855-a140-6202609afbfe",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"1ecf6a47-1aef-40a7-99f2-902c9a68cce3",
+			"32e689b1-cb88-42ce-ac0e-e1a65cb993d7",
+			"ee42d3c8-6a8d-40e2-a3ff-fe24049daa8e",
+			"182811e2-53c3-4fce-a1f1-1e1c8b3e5194",
+			"dee96b99-c783-4c3a-ac2a-66c95b910d91",
+			"6283982f-3483-4bfd-995a-6d442694083b",
+			"fda2c8c0-0e33-497e-8e22-58c9669e2f7f",
+			"12ccc78a-9bff-45c1-9b7f-f434dc0f23c5",
+			"50d974f3-825d-4260-b408-8a2a34d4f2b5",
+			"677a3862-9ace-4b6f-8a95-70808e88445c",
+			"1f34c02d-07f5-47b4-a85d-f92c86f7b2b6",
+			"88fcaf11-2d29-46c1-ab02-96e905f91c61",
+			"0fcd828d-b574-4a48-8822-bbfa105bb4d2",
+			"f31e791b-4055-4fe6-b0a5-2a2d659feb9f",
+			"87f559a6-522e-4810-b665-9e1cf038b3f0",
+			"946ac683-4d4a-4509-8d7d-e62206e9c8a3",
+			"f7be5b10-6a67-4dc5-8632-b9f5a24711b5",
+			"98057720-a670-4631-8866-db3d13ec5cff",
+			"a9f90891-113e-4fa4-bd75-1d42c8460034",
+			"fbd6ed6b-c74c-4570-a5c3-497d2347a149",
+			"b934d752-ce03-4835-8335-d1296a6f7b14",
+			"2dff10a9-f475-4216-9d34-d356cf00b03a",
+			"0d8931c9-df60-42a8-9c74-279d9fd4b359",
+			"d8e57526-7a55-422c-bcbc-405eb9651b96",
+			"53cec5a7-e2fe-4326-9899-dad62c8571f6",
+			"d1b58ab0-4fe8-41ec-af0c-038ab793e76b",
+			"7e5b95c8-fd5b-40a0-8e3a-248763afb92f",
+			"f20e3193-54df-4b03-8ea8-9beeb8989e86"
+		]
+	},
+	{
+		"id": "e5cdf87b-3c69-446c-8373-9012b076c7b9",
+		"prefix": "8.E.1",
+		"title": "Grafieken, tabellen en formules",
+		"vaksubkern_id": "bk:7578e7c9-fd75-43ee-b87c-d1521e096422",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"0976f5a7-f475-4cbb-be46-0e5e1b034571",
+			"d0e0c055-459e-4ece-8ca7-6c30590d9c78",
+			"94e56b09-9bb5-4c33-bcc3-6bd09ff03d6e",
+			"052dc8a9-b439-4576-a643-1c8ca6d18544",
+			"d45e1d36-7b0e-44cb-97e5-16f187d2f907",
+			"28284381-7e15-4e97-831e-6459ade9345e",
+			"35331d87-f007-4a90-b940-49ff339d266a",
+			"f878f4e3-11c0-492f-885a-58ec58cd54f9",
+			"63e07499-8bcc-4d5f-a503-088e3de652ee",
+			"11c4a9e4-691f-4334-822d-eb8224570d3d",
+			"20e061ce-904a-4818-8f8c-e1b340fdbbf8",
+			"1bcd032b-f512-444d-93e1-446dc6778c51",
+			"be231db6-9667-459f-a649-e0e3008008c5",
+			"de387f55-3b27-464c-b5fa-69a434fd384e",
+			"2bcdcc76-be14-4c94-92ff-24219a09fd53",
+			"0153ba84-617c-4e61-8ceb-ee9f283a0793",
+			"fd8d24eb-cdfd-485a-9350-7a5cddf500da",
+			"83bd61ec-0272-4a16-8b7b-d9b00932162c",
+			"675ff48a-ef8a-4677-8838-ebe6bba0a8d2",
+			"1d21e74f-d7d9-4493-bed0-69805ddd6ac2",
+			"7b6c6ecc-4cd2-4d94-b592-703f56906224",
+			"687d5221-e157-48d6-8269-fd3ef8153d0a",
+			"443f1c17-db9c-4225-9df0-94fcc27d600c",
+			"5d51421c-8951-48f8-8277-1902efc163f0",
+			"f0c53808-575f-4705-b9ef-eb89f5f0086c",
+			"20759e1a-157b-43ff-bc92-8bd09668f4de",
+			"af69370b-ad4b-4a79-b2bf-0dccc40964ad",
+			"e1623fd9-b173-4f14-837b-13c113c3ae85",
+			"ab9876a0-b031-4d15-b2cd-2a1beaeca680",
+			"cdfde13d-388f-49e4-bfea-2f135ccbb6e3",
+			"8541c35e-8aea-4be9-907a-8bded54bb5a9",
+			"f542fc2d-500c-4527-a575-0063e1f0b915",
+			"a50f0152-15f5-41d6-91b1-0c32ceedb6a1",
+			"85063432-1f1d-41ee-b36e-b8f2dcc06bc0",
+			"dde2ab6c-1531-4bc6-91b0-b7d64baebe45",
+			"9ada011e-fb70-4ed8-b526-e957d24e84ca",
+			"3353130d-6a15-4dc8-980f-39e3388d0cad",
+			"829ad03b-7bac-4f61-aabc-8985ff9002b5",
+			"f77120a8-7b52-4ce2-a977-cf93fb91d951",
+			"5770b69c-b724-4383-913b-8cfe5f950b2f",
+			"f0abbf87-0d5c-4f2d-bdeb-83a3172c9fae",
+			"bf95712e-6c5c-4855-9b00-b87bddfbbaca",
+			"3eeb9ac1-609b-4e4f-8e39-d77dd2fe1f17",
+			"3994f981-222b-4cb7-a448-1cd32364b7e9",
+			"2a67ab45-3377-4c68-a795-92322895e132"
+		]
+	},
+	{
+		"id": "311af618-20ff-486d-b331-e443f2de65d1",
+		"prefix": "9.E.2",
+		"title": "Lineaire verbanden",
+		"vaksubkern_id": "bk:dd4566ac-5556-40ca-a5ce-f09b684ea30d",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"17f54d12-69b6-45c0-b4f1-0a536db5a902",
+			"7252f8f6-89e7-40ca-87ab-91908a77a90f",
+			"577d742e-ac60-402c-b057-bb7eaea82af3",
+			"9f5f8c19-1578-4059-84eb-dc7b2ac65916",
+			"b3d04b7e-dec3-4fde-9c17-157855e5eea0",
+			"b09c3b48-050d-4ccc-b2af-eaabd4ff55ca",
+			"48e39ff6-e87b-40f1-997d-daa072b51468",
+			"ac77c73c-4ca6-44e5-adfd-93f8bfbed92e",
+			"ffb67f10-7273-4b32-a043-dff958fded21",
+			"3425ac8c-a62e-441d-af6e-3c56a207a6dc",
+			"58997b2d-b437-49ba-b1f7-dc9ac7920955",
+			"b0ba4862-8789-41a5-83b0-d149de040465",
+			"51db3fa2-c0d0-4392-a64e-9ae91ac1dc8b",
+			"46214406-564f-4b69-b493-0cb3ee0875dc",
+			"b08a9008-27bb-46f2-82bb-7e52f8acec31",
+			"0524a027-5cd4-459e-af69-df7ad5f1922b",
+			"07d4ff31-bb64-4e5c-8656-56c82e2d5784",
+			"d95bdc89-877a-4de8-a702-dcd2c10b8719",
+			"7fca6d71-d655-4e1f-9453-5ea1d5ec193c",
+			"e9e6b21c-cbf7-4c10-a5f7-f631c53d2aa4",
+			"562e2634-4f86-4af5-b527-5ef7a77a1cae",
+			"0395cea2-6c3d-4c4a-8610-53d5cd10f279",
+			"21e8b8d6-9477-4b8e-bb3b-7281fca61e6e",
+			"267c4a0d-ab1c-4906-bfce-284c73a8ea75",
+			"76f22f03-0abf-4f2d-90a2-05b650b89623",
+			"8491120b-be4a-4d1f-a30f-ddd0572c7a64"
+		]
+	},
+	{
+		"id": "56b319f9-6fc7-4227-81b8-f3f9a0b7ef3b",
+		"prefix": "10.E.2",
+		"title": "Exponentiële verbanden",
+		"vaksubkern_id": "bk:b873ade6-2d97-4ff7-b9d7-be9315046b90",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"8e0c27a2-c41a-47f0-9937-fe715569e2b3",
+			"9766e4a9-d566-4f7d-9845-53cb387e6e41",
+			"3344280c-8d68-49a3-9b9d-8595ecf3c0da",
+			"2fad30c7-ed7a-4552-bb51-c5a284e4ae82",
+			"336f5a48-77c3-412c-b06e-b1be2e6aae42",
+			"f2529dba-296e-4845-98c9-cba8c6b1d796",
+			"66150a68-8ef5-4f8d-8a16-22b56fcb1cd5",
+			"0f84206a-8cc4-408a-8fe1-516e0b4307a1",
+			"8c936cd6-d854-4541-af52-79dd79c14d58",
+			"3a8a992c-64b0-480a-a73b-f18447960ec8"
+		]
+	},
+	{
+		"id": "9d296269-8136-4b14-b12e-238c19a589e0",
+		"prefix": "11.E.4",
+		"title": "Kwadratische verbanden",
+		"vaksubkern_id": "bk:40900fad-40fb-40b2-be36-b9048c0c6934",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"9dec409c-f36d-44f4-a2c2-ca5d255c6104",
+			"d286a40f-d058-48a1-b9af-0e4fda5d7530",
+			"feed1db4-82d1-4ec8-9269-4fef357ac1a4",
+			"6758220c-2de6-4ef0-97c8-662e73b5d024",
+			"a2398f8f-cd8e-453c-aaa2-e4e37e9b6612",
+			"72c9406e-8c23-4e4a-89ce-c62cac6f9aa8",
+			"7d99e327-a121-494c-b2c6-75a65c4f33b2"
+		]
+	},
+	{
+		"id": "f29918d0-afc4-44ac-a8a0-708e725d8177",
+		"prefix": "12.E.5",
+		"title": "Patronen en regelmaat",
+		"vaksubkern_id": "bk:6d4ad14c-e528-4d76-a03b-61421e1d389d",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"17dbeadc-2585-4cfe-98e7-ba094ebd7700",
+			"1f156165-e9ac-4243-a82f-d38b9d33cbc4",
+			"dc21e13b-1ac2-4293-bd83-813ff82a1fcc",
+			"555390ad-6c42-4eff-ae0e-903f47efa478",
+			"b87a02f3-192d-454b-a6b3-4776fc0099f3"
+		]
+	},
+	{
+		"id": "e3c983f4-ed2b-4d67-8d5d-0d50cf5da4bf",
+		"prefix": "13.E.6",
+		"title": "Vergelijkingen en ongelijkheden",
+		"vaksubkern_id": "bk:699acfa0-a194-4dbc-8273-6d68e8bfbb65",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"efe84d54-5d15-4c18-bb69-c05358eb0e28",
+			"8cf420ac-f2d6-4413-bb97-bab99bcfe7d3",
+			"fc0e2655-f6b6-4e7e-9ea2-282ff2a8073e",
+			"57972830-247e-4dab-856a-a1347db4ba06",
+			"e57fcf68-1526-4087-8ddf-500aee87053c",
+			"2e0f7526-bc06-4be7-bc4c-579a4471c989",
+			"83a63865-e7c3-477c-a9c2-1c845387675e",
+			"3f36865b-4ab6-4487-97fb-2306bc9cd2e3",
+			"b5ae722e-ad85-42b3-93e5-7b549f517151",
+			"dff2b96a-4665-4fd9-aa5f-5f4e706d7104",
+			"7b2b9b56-aa34-46f8-a542-1225969ba6b0",
+			"38ec259d-d376-486f-92f9-c37951b42b80",
+			"f398f5db-6394-49f4-bd9a-3f8d43b23371",
+			"60e7d244-284b-48a2-9d06-684d7a9a9452",
+			"a20984ac-8998-4de0-b596-b57d1a8b082a",
+			"6e308221-82cd-4ecb-a6a0-a5faadad81b3",
+			"42050778-8ece-47d7-9af1-144185772157",
+			"a3752b06-b95e-4366-ad6e-895674044880",
+			"055ac3ca-2547-4ae0-8052-36d94b32b579",
+			"5787e52f-7baa-4687-b2cf-83a47e4adb6a",
+			"a1d9c2ff-b5a5-4f98-83a7-e3c6f4b7f118",
+			"2e207bf5-1fcf-4e05-80af-45a84628bd6d",
+			"7acc20f6-d0be-4eab-8f74-0063e6e187e6",
+			"f140318f-564b-4c51-a370-184303fe05e3",
+			"21f33b4c-6715-4b9e-8ab6-4232258849d2",
+			"e943cbd6-a371-46d2-8ecd-65ad2a64da33",
+			"63ec1435-0a94-4f72-9ac5-38903b7c4ddd",
+			"4a8e585c-6434-4fd3-bc38-3f6a87d9c1e5",
+			"8aea899a-c4be-4a18-827e-6bb37859027b",
+			"81104ec1-b40f-4599-b330-03879271c770",
+			"403b318c-1953-42bf-83b4-40ff0f49fcd1",
+			"e22a1118-d4fc-4b31-8f62-e6043b72e0a3"
+		]
+	},
+	{
+		"id": "d5d72d56-8de1-4d8b-9987-a80c557b2962",
+		"prefix": "14.F.",
+		"title": "Informatieverwerking en onzekerheid - Dataverwerking",
+		"vaksubkern_id": "bk:697cdc51-777c-483e-baf8-774a341bc712",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"d18dfaa6-7c92-4b4f-b5f1-8980c98002ed",
+			"2b14e566-89c2-405c-87ed-970b6c6ed6a4",
+			"e3f4f6a3-ce63-4ef0-b225-fa55a1443099",
+			"6c6e01ac-ac55-4d93-959f-e626bf8f413e",
+			"6d59866c-1bff-40a8-b30f-19bfcc2c63f0",
+			"6085fc7b-d36a-4cea-81b9-dda16b7cbffe",
+			"5deab82b-0cef-438d-98a2-c12270879885",
+			"3cdf6e62-0596-46f3-911e-6567a2b970fc",
+			"a7965ff6-c768-4b06-9666-57656bcbbce2",
+			"67ff3b6e-4a12-4c09-902d-253697fe7d4c"
+		]
+	},
+	{
+		"id": "280cb20e-aed9-409a-ac62-4c3348cdcad0",
+		"prefix": "1.1",
+		"title": "Ontwerpproces",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"d311f2e6-97bd-490f-b5f8-699401e2d257",
+			"99f295fa-e900-4fa5-91f7-d6f37cdc76ce",
+			"f12407c3-6bff-4f21-80fc-5d6d49209206",
+			"30db20c4-9ab9-4960-9cc0-5d1a38c5994b",
+			"020157af-ea27-4722-8192-c2564314af99",
+			"03ad72ec-b0ec-4663-ba69-7a902308f57c"
+		]
+	},
+	{
+		"id": "2b87f3c0-050e-4e48-8feb-71d492ba447c",
+		"prefix": "2.1",
+		"title": "Benaming",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"8e7dc8c3-b4b5-446b-93c7-35088730e992",
+			"fd013385-1089-40e6-8ad9-24539eba3575",
+			"c674e766-c425-4304-9a27-fbf60a653b0a",
+			"af5e05d8-bb17-426e-bc73-d4b417e1c134",
+			"a14d0313-49f7-4f02-b183-5befb8493159",
+			"610f0db6-0262-4fe0-a67d-1dd8c235cff7"
+		]
+	},
+	{
+		"id": "d712905c-5a9c-4bb3-910a-2c82211f7b0d",
+		"prefix": "2.2",
+		"title": "Materiaaleigenschappen",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"890f8dc8-b369-4a41-affa-281063eca40b",
+			"137f9fe6-98dd-4dc3-bca8-6721e307f759",
+			"2b74c4dc-f984-4ac1-8485-b022c3f7fac8",
+			"35e55e76-7875-4a7b-8f71-951686feae7a",
+			"e0417578-d44c-49a2-a784-77919a7c865d",
+			"6f1de7ff-7b0f-4e00-9213-0d9e27575ee3"
+		]
+	},
+	{
+		"id": "7f08397a-1fbb-4183-bf38-403b4763a0a2",
+		"prefix": "2.3",
+		"title": "Functiedriehoek",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"702e60f2-d39d-42d0-b822-bf7354b7f63e",
+			"5dc8da99-fa62-4499-b9e3-7ad1380b7c0b",
+			"8f0d513a-49db-4254-a82f-00d9b8146f21",
+			"42196a65-3f51-41bb-a376-db6d76455f99",
+			"a130d9a7-485f-4479-8f2d-0808cc12b2bf",
+			"7581cf18-2dfe-4b12-b878-87f916a4359b"
+		]
+	},
+	{
+		"id": "49caa84a-ee8f-473e-9b3c-e94470ccafe9",
+		"prefix": "2.4",
+		"title": "Bewerkingen en  verbindingen",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"c9ef5354-223a-49e3-90e6-e02933fe16b0",
+			"eea39f82-491f-4312-b260-3545588d02f4",
+			"325910bf-6eaf-4946-b388-719fe206c7c4",
+			"a89a64fb-99dd-48cb-9ef5-ddd0654469e4",
+			"1c4e2b40-a96b-45f5-a1dc-24fb3125efc1"
+		]
+	},
+	{
+		"id": "0ebb27d3-fa91-41ec-9a30-cd9781a2be6e",
+		"prefix": "3.1",
+		"title": "Energietransport",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"1e4194cd-5feb-45ae-9680-af5937a7a651",
+			"fdf4e233-c3e4-4d3f-8b09-50ee01c78534",
+			"019918f4-2498-4000-9ada-55d0f244992f",
+			"eb5d7ffb-f634-4cbd-bc0f-0ad035ef96c8",
+			"f220dd6d-1e4f-4b66-8c82-e1208431edbe",
+			"f86d1709-4190-46ad-ad1f-c6138ced93d6"
+		]
+	},
+	{
+		"id": "28212b04-b7c5-485b-bde4-33083337e74d",
+		"prefix": "3.2",
+		"title": "Overbrengingen",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"92836b43-24be-452e-99fb-7956c874ad41",
+			"c6850504-6a06-4fb7-b051-e748c5cd9ad5",
+			"9efa7bcc-d48d-4262-9527-bc00fa321bf4",
+			"4b65ad12-ff3b-406c-9bf9-beb07ebdd85d",
+			"8d4c1b59-a410-443c-abb5-4ff97ee2794f",
+			"b420c526-3ac0-4b2b-a0e0-89ccab28d696"
+		]
+	},
+	{
+		"id": "37b4f572-2d45-4a35-922e-baec351bce47",
+		"prefix": "3.3",
+		"title": "Krachtenverdeling",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"fab5884d-8383-4552-a97e-9a577d6d709a",
+			"bd68fbe0-a3e4-4383-80af-35ff533574dd",
+			"bec6cc91-a15e-4d1c-bb3d-2815bc5501aa",
+			"027582a7-6dbf-42df-8b2d-052b8b6aec4a",
+			"b124e2b8-4b49-4e5d-812b-f918c3e5f8f8",
+			"2392eb0f-983b-445a-8aa2-8d1fc77fce61"
+		]
+	},
+	{
+		"id": "8fc37fa1-4a0c-4149-bb14-01f482aecc77",
+		"prefix": "3.4",
+		"title": "Rendement",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"e629fccf-1ad3-4b5b-b155-49e33098439e",
+			"4559fe3f-fd35-4bcc-b162-9f69c8bdaca6"
+		]
+	},
+	{
+		"id": "d2d6d137-677d-42ff-b869-5a3885722a04",
+		"prefix": "4.1",
+		"title": "In- en output",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"8e4c7d51-5520-4880-83af-d350c889c9b6",
+			"061f7f15-d9e6-4058-8729-6a37625d14a6",
+			"4dc6d3ee-7c1f-423d-9053-04675a83004b",
+			"330d9c95-4da3-4037-a955-d48523692140",
+			"45dac067-20c7-45d7-a508-32d659d43b79",
+			"eb48f21a-4f94-4c0a-bd47-850a68654fe5"
+		]
+	},
+	{
+		"id": "148216f9-140c-4e6f-92fa-ef1418257a52",
+		"prefix": "4.2",
+		"title": "Deelsysteem",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"576ffbc1-075c-4548-8901-9336c41323fb",
+			"243b064d-dbf5-472d-a28e-e2037d3123a7",
+			"f772ade7-575b-4542-83cb-7a08bf055b92",
+			"b81bd7af-27da-46e5-96db-57d65dbd7db6",
+			"72089602-ed93-4b28-afbd-8e145f7e849c"
+		]
+	},
+	{
+		"id": "946b0aca-4447-4c5d-b6d4-ec7ed5931096",
+		"prefix": "4.3",
+		"title": "Functietypen",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"d841e68d-f497-4a2e-82a3-23407f473314",
+			"2c1cd874-8a76-4049-8e34-192e19079466",
+			"b9a3db9a-a0b4-4852-a949-54cd07cab1db",
+			"af907db0-b6a7-432e-bad0-1cdb79f63645",
+			"1207f110-623a-4f4d-84bc-aa8406058f8c"
+		]
+	},
+	{
+		"id": "9629ae5c-32da-4855-82f5-90600cb8a32b",
+		"prefix": "4.4",
+		"title": "Informatieoverdracht",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"d8d198e7-1827-4e00-8cf1-56324735ec30",
+			"8b3c6393-7c6d-4996-a146-189fe6ab5160",
+			"1619bcf0-3a04-40d5-a86b-7b94264e8955",
+			"4fb8cd5e-1c96-43f0-8140-b67897d2777b",
+			"5e882f41-3cca-4f61-a444-8d9138832357"
+		]
+	},
+	{
+		"id": "13a45881-edac-47ef-a8a9-8951dc12ec3e",
+		"prefix": "4.5",
+		"title": "Feedback",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"3454b5f6-22ef-488b-a754-7ca10e2e15c8",
+			"1409da29-c5a7-4c1f-84b5-bd3ed24b67c3",
+			"dd0ab1c3-256e-477a-9ecd-fac1f2d18383",
+			"c852f985-7f20-4e83-b244-4d4d9fa09176",
+			"bd433f19-4cf9-4555-86bc-df6cc57be8b4"
+		]
+	},
+	{
+		"id": "4b6482b9-87fd-48b5-a34d-a5b04edd1bdb",
+		"prefix": "4.6",
+		"title": "Meten en regelen",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"f9139652-1396-4196-8fc4-3037afb5a516",
+			"3349d2c9-2ce2-466c-85b9-7e8c52f0d048"
+		]
+	},
+	{
+		"id": "71231f02-6c88-4a4c-a0c2-3b23d00ecf11",
+		"prefix": "4.7",
+		"title": "Functie en werking",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"aaef4473-782f-4b0e-883d-d2e9656cdbd7",
+			"37136b37-0ed1-458d-8a9d-d5f61c04ff3b"
+		]
+	},
+	{
+		"id": "ffc7f200-8870-4f36-adbb-d839c8430f25",
+		"prefix": "4.8",
+		"title": "Informatie en communicatie technologie (ict)",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"2d03a03e-1cf2-4e75-b667-9663b013e4c6",
+			"571b9531-9122-427c-95ce-1da70f045bde"
+		]
+	},
+	{
+		"id": "a4deaaeb-dff1-405d-b3e8-23f05e0cf2e9",
+		"prefix": "5.1",
+		"title": "Technologische ontwikkelingen",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"bda93397-b783-41e3-ad6e-f226e3cce54a",
+			"e4e1ff1d-6855-40d1-8fab-bc1e6d7a37c0",
+			"332ec6c6-13c1-47b4-ad31-806b2dae18cc",
+			"b0195768-a57b-4b55-8018-d127d0aec187",
+			"3084d78f-49e4-4634-a8d2-6045fed78e60",
+			"d51cedfe-4eea-4634-b9b2-264201336e24"
+		]
+	},
+	{
+		"id": "ffe06ee3-da97-4e81-bb8e-82bd170a6b6b",
+		"prefix": "5.2",
+		"title": "Toepassing",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"bde1e175-6861-4441-b32d-f78a00f19f28",
+			"e4113096-fea0-40d3-97b7-3bc209c0a800",
+			"a56d53fa-7829-4847-ba02-8dea01bf8961",
+			"b97bbc44-1982-49f4-8f58-cbba08ae8950",
+			"ed0da057-d82d-4f5d-9597-9dc666fc07db",
+			"630d5a05-7eec-4e9d-bc16-da3f2a14209f"
+		]
+	},
+	{
+		"id": "2c8da740-0e6a-40c8-abd7-b9dff3cbce4f",
+		"prefix": "5.3",
+		"title": "Normen",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"e5549e79-af7a-4f9a-a898-a0726018ff88",
+			"7014ce63-5aa8-4ebe-8dba-85924dbb7a44",
+			"6a081080-0c6f-4704-a8a5-0bc145661535",
+			"8e7325c9-0d30-44c8-99ad-66368581cc21",
+			"cd3ba9ca-2fae-4b44-acc5-a69ceb2fea62",
+			"a5253d90-9037-4488-a222-4b1b192c22e3"
+		]
+	},
+	{
+		"id": "f4cb5201-bcbd-4489-a4b6-79244b40c960",
+		"prefix": "5.4",
+		"title": "Wisselwerking wetenschap en technologie",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"48532436-2149-4843-9b2c-ca6673b6c44f",
+			"c3242d11-68bf-4cfc-a0cc-8957d56d84eb",
+			"83bf9edf-988b-4fa4-a6b1-98fe94dabc5e",
+			"f7a75b10-d33e-4228-a33f-3ad2f0607d8a",
+			"01dbd5b2-5965-4fd5-8245-0b8d4e97e5a6"
+		]
+	},
+	{
+		"id": "1e4cee52-340b-4a41-8ed1-935f85a768bb",
+		"prefix": "5.5",
+		"title": "Fases van ontwikkeling",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"2578079e-ea84-4bee-a00e-e3e9d5371e6b",
+			"71808775-4d38-4c32-82fe-f4aefdd3aef1"
+		]
+	},
+	{
+		"id": "7b40c8e3-b544-4f29-b291-5e12abfb575e",
+		"prefix": "6.1",
+		"title": "Ontwerpprobleem",
+		"tag_id": [
+			"010a22d6-6a09-4fa5-81aa-d11781bec990"
+		],
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"6fded065-945d-40d0-b15d-3d25ce4822a6",
+			"89ddc013-8259-4439-8c7f-fa837af2f3ee",
+			"e2ca6b67-3762-49be-a53f-61751d63575b",
+			"ff3f4490-3f60-40d5-8f74-abdd99416dff",
+			"9195b1de-885e-47b3-9c1e-68f36dc4c960",
+			"669bd924-88d3-47ef-8855-0853f8f0945e"
+		]
+	},
+	{
+		"id": "64aed240-cc71-4a0a-a92a-cccb9c0d6509",
+		"prefix": "6.2",
+		"title": "Programma van eisen",
+		"tag_id": [
+			"010a22d6-6a09-4fa5-81aa-d11781bec990"
+		],
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"41e191a3-0213-4dc9-a83e-f6ec4257c243",
+			"73e1bf36-7a6f-4c13-954a-b9630e0475fe",
+			"6eeb2c7f-bd76-4644-a718-a0c9b182647a",
+			"197b33b8-b9e0-4ca5-b3f8-cb72078f8b74",
+			"06f8a3cb-9a9f-4196-8904-0c512189b16e",
+			"7f885067-3a6d-4592-80ce-9cba8ab86eab",
+			"f249290e-3881-4ca3-847d-d5842def7660",
+			"aabea223-32a6-416b-a2c1-f1ac3ba91685",
+			"2e7b9085-c86a-462e-ab93-cc7ad551f77f",
+			"810ca73e-7800-4d90-b0a2-008752be61cd",
+			"ec250874-5d9c-415c-a593-f4d0a191cdf9",
+			"0777866f-21a4-41aa-a80a-eba0965cf20b"
+		]
+	},
+	{
+		"id": "3a39b7a9-d350-4db9-8030-10d486dd54a3",
+		"prefix": "6.3",
+		"title": "Ideeëntabel",
+		"tag_id": [
+			"010a22d6-6a09-4fa5-81aa-d11781bec990"
+		],
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"157857bf-d00c-4bf7-b772-647a2b6d7ed7",
+			"318c4f38-dc6c-4d03-9d81-769b0bc65c9a",
+			"7bee41f7-64a7-4327-83e3-9fc93d57b2be",
+			"15e9ae4d-e203-4b45-82c3-5363f70fb6cf",
+			"91fb5a5c-5ebc-4abf-b7d7-5f5300bd97b8",
+			"88644e04-750e-41e3-a05d-181405195c61",
+			"2349c58a-9f85-487e-baf0-f53e83404bda",
+			"67a4617d-fad7-4cd9-81ad-f5d284c56a2d",
+			"77217b1f-beba-4774-b57f-93c0f23868fb",
+			"39af24c6-eda5-456f-ac9d-d9cf36204d36",
+			"bdf77bce-3b9b-4128-a37e-1b838b780157",
+			"a127f8db-c7ff-42c6-8103-69f518581757"
+		]
+	},
+	{
+		"id": "fa3c2d4f-590e-466a-b624-e2dc44b381a9",
+		"prefix": "6.4",
+		"title": "Ontwerpvoorstel",
+		"tag_id": [
+			"010a22d6-6a09-4fa5-81aa-d11781bec990"
+		],
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"5d147299-13cc-42b2-8301-fe31a00038a1",
+			"d4591067-9f37-4630-9019-9b4efb2b7bba",
+			"c4c06eed-86c9-4efd-b446-af038fd73d93",
+			"a995450e-e0f7-4068-82d8-0a77af4124f9",
+			"0c99cc55-4d2b-4603-add5-d87e880a3365",
+			"0ad74ef5-38ce-42b6-b62f-c4686386178d",
+			"2e3c20e0-5338-401f-9307-83fe0a04eade",
+			"8bc8996d-eb18-4fc2-89bb-cf79c7ada878",
+			"806332e8-f99d-4070-b0ea-10059cd5050c",
+			"47637523-a028-4c5f-9a0c-c14f0379f456",
+			"b308d906-d864-4d31-99a5-5ceb81ffe975",
+			"c33a3dfe-e10e-4a10-a5bd-fc3516105588",
+			"41c3abcd-5898-4573-a8a4-0ce054c7d6a7",
+			"38f9f4ab-74f9-45f8-862c-0da18515b56d",
+			"ad82b8f2-aa0e-4579-b0e0-4893f13e00dd",
+			"43804dde-6a35-4ca6-a3ac-8eb79ad88652",
+			"7b28e769-7592-41eb-a668-499150d2bcca",
+			"22ca2fb0-dd6e-4134-ab6e-06463ec1cfdc"
+		]
+	},
+	{
+		"id": "211ee923-a13d-4994-882b-65fa8f4cacb0",
+		"prefix": "6.5",
+		"title": "Realisatie",
+		"tag_id": [
+			"010a22d6-6a09-4fa5-81aa-d11781bec990"
+		],
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"2c084ec2-d684-410a-8bf6-0315bb878577",
+			"1dec0a97-1fa0-4435-bdb4-a5830bb3e6bb",
+			"141374a5-661d-4633-b258-86c20922cea6",
+			"c0b554b0-c703-43dd-91dd-b827db3a1105",
+			"b504837a-5551-4434-9896-72fcad48786a",
+			"1a791788-299c-49ea-9a58-7160fe2d8e37",
+			"656326ab-fe5c-41c9-bd71-abcd1f4738d8",
+			"3d271864-a0d7-478b-9bc8-aba1341f7305",
+			"a5f8643d-030d-430e-a3e5-7e02e68c443e",
+			"0acab34f-0c10-4a2f-b078-eb0b46aca664",
+			"adcb647e-07f5-45f7-818e-5929a424e8b4",
+			"4b5a92e0-97e7-422e-8dc1-4183aa75a205",
+			"05b6e406-b893-438f-ab1c-5111a5b19fe3",
+			"d71d65c3-dcc1-480b-8e0b-12c4a19fb37d",
+			"ec264838-b8c1-4e06-940e-1413b302c8b3",
+			"ca8a6fe7-5d82-41d2-8949-2f4327c14a95",
+			"39f33220-a5b1-4f6d-b2ab-10b819f3e5d1",
+			"5b4a61f6-ed45-4a10-8f16-bdba2aade9f2"
+		]
+	},
+	{
+		"id": "4a80c252-1876-4d96-b73c-5df632f57938",
+		"prefix": "6.6",
+		"title": "Testplan",
+		"tag_id": [
+			"010a22d6-6a09-4fa5-81aa-d11781bec990"
+		],
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"d6eff330-b0cf-4d65-a382-a398de6d863c",
+			"7e57fb98-614c-43b9-b539-79c6956cf13b",
+			"2a0aff37-a55d-44a6-b008-5f9f75e0644c",
+			"6d8ab123-14aa-48a5-88eb-f5ee7e4889be",
+			"f7def4de-2870-43d0-b00d-686580ea11d8",
+			"e3675449-0212-40a5-b38c-a073d82c0ab3",
+			"f6bb468e-764f-4826-9f35-294253348c09",
+			"208165a0-43d4-48e6-87a4-a89faeb09173",
+			"5134ff63-cc1a-40a1-8d35-fe589e73659f",
+			"9fec0b19-44ec-4c11-b60b-0fc229c87916",
+			"513792ef-92fb-41f1-82b9-9f11707cac27",
+			"6637b7e3-2050-4756-a8a5-c022dfbcc986",
+			"800cdb1a-2e6b-4a72-84db-af19fcb24d52",
+			"6d77c1c4-253d-4892-ac91-04c919a0203d",
+			"f9a56c7a-7a20-4000-a77f-632ca0ab11fb",
+			"3cdf230f-d9e9-4bab-9574-8163a8b37ff7",
+			"c2381b2a-b690-41fb-9e78-fbaed0b4b190",
+			"a28808c7-0210-4e8d-a86c-05b4f66fbcad"
+		]
+	},
+	{
+		"id": "54843162-2b27-42fc-b6bd-06b3cf25371e",
+		"prefix": "6.7",
+		"title": "Presentatie",
+		"tag_id": [
+			"010a22d6-6a09-4fa5-81aa-d11781bec990"
+		],
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"366d9340-499c-43d1-8ef9-c613ed65a44e",
+			"df9c0cfb-71df-4cc5-bcf8-1bc3cbb45c9c",
+			"0e576554-1c99-4544-a6b0-f87d845f847b",
+			"1ffca7c3-bd91-4e7f-9788-581c0accdc1d",
+			"9c31c1f4-b42c-499e-b9c8-b0b34fef6d2e",
+			"bb60dac2-7705-44d7-957c-1e7035544f30",
+			"74d01c3f-d42d-4d2b-8004-5bd6f528f8b0",
+			"16821a1d-25e7-4363-aba5-75450b691d34",
+			"0b5e1ed8-13be-4365-b8fa-3aec04fa767c",
+			"bea6bd5b-8514-449f-8f99-184ae0965834",
+			"932989b7-f78c-4fde-ae5c-709cc86da11d",
+			"bd1b0a00-e5c2-440f-9ce0-8b7f1f5c1c4a"
+		]
+	},
+	{
+		"id": "c1bc5e76-a935-413f-aeae-88afd7db1977",
+		"prefix": "6.8",
+		"title": "Reflectie",
+		"tag_id": [
+			"010a22d6-6a09-4fa5-81aa-d11781bec990"
+		],
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"3ec90b36-216d-46ca-ab91-867a73f0e1d2",
+			"234dbd35-b54e-4f1c-83e0-6f72be2deecf",
+			"30fb43e6-98ea-4e64-8735-84e6d9b9355f",
+			"fece061b-6274-4e85-b629-f461245a5344",
+			"10ed4cf3-e84d-4067-9c55-cf8757616280",
+			"b3d89b5a-a259-4264-bd51-46fcadd98159",
+			"d922ef29-45a4-4f2e-a38c-7859401d4adf",
+			"d72337cc-78a3-4fe5-a77c-aec69772cdd1",
+			"2d6a7ae9-03e3-4b88-9211-79e9a1961891",
+			"2c19aa97-f45e-4782-ac18-8f44aaa31fac",
+			"e41799e6-2c7e-454e-b76b-07c0fb14123d",
+			"c450b6ad-ef5a-4cc8-8ae9-7ec9651e37e4"
+		]
+	},
+	{
+		"id": "1b19a62f-5491-4054-bd29-71a978f5fdfc",
+		"prefix": "4.4",
+		"title": "Feedback",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": []
+	},
+	{
+		"id": "e0ba9853-988d-49d5-ab4c-76dcf2db8acd",
+		"prefix": "4.5",
+		"title": "Functie en werking",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": []
+	},
+	{
+		"id": "d934671d-8105-4e82-a997-ec5a5e33f139",
+		"prefix": "2.3",
+		"title": "Bewerkingen en  verbindingen",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": []
+	},
+	{
+		"id": "e7141ab8-9de4-4765-8881-dd3870c10125",
+		"prefix": "4.1",
+		"title": "Functietypen",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": []
+	},
+	{
+		"id": "027ec347-f0c9-4fde-9a8e-324223d24781",
+		"prefix": "5.3",
+		"title": "Wisselwerking wetenschap en technologie",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": []
+	},
+	{
+		"id": "f73c8415-c572-456d-873b-bc5ab5e71830",
+		"prefix": "1.1.",
+		"title": "Eigenschappen",
+		"vaksubkern_id": "bk:74c670ef-2b08-49a9-8f7e-4fc77c9dda55",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"cefa2113-6453-4866-b822-1955442ec9ea",
+			"0a2fd5f0-12e8-40eb-bfc7-8513f0954683",
+			"c81ab3cd-fcff-4954-b0d0-51a142831bf1",
+			"ce13f20d-5366-4ba5-b741-79cb7b61d4b3",
+			"a27cbf37-8eb6-4c29-a097-d42c706cdb1a",
+			"99055e1a-05e2-46ef-b32f-944d65b62d62",
+			"81d89cf9-4a5b-4f7c-a4ba-3041139ea70f",
+			"4f3129f2-d076-47d2-a67f-b21c26f22e24",
+			"ccd83e32-92f7-467d-9baa-997d36891b0f",
+			"4937393a-6469-41c6-afc7-55ad4d60b7f8",
+			"82284277-0947-4d48-a6dd-154e0e5aa3c8",
+			"0bee8108-b7e7-4652-bd60-c7e22c3930c2",
+			"f8cd6535-6a7b-4436-ac9e-0847192560fe",
+			"d9705f6f-69bd-4d1e-ad71-fb783a78b3f3",
+			"47cee50b-ad4b-4156-9d15-87a712b37184",
+			"54995a5e-ca7d-4c85-a53f-061dce35a1d9",
+			"87dd6002-780a-4c2d-83c1-28827c6fb53a",
+			"5fc95ddc-d25b-416d-8a06-e456b2c7cbb2",
+			"ecf96a3d-2f5f-4fa0-9a89-1bf8183e27cd",
+			"97783b22-d991-485b-b393-521610cd91e6",
+			"02509368-33fd-4052-a23f-4517f4856afd",
+			"708a1d92-4548-4854-8723-da2990329595",
+			"e8accf16-9528-481c-b9ba-8ecea363bf3e",
+			"c5eb71c8-b359-4de0-b42c-fba6079c0171",
+			"eb99ece2-7bfa-4f4a-b88f-01d7d8d4a653",
+			"e0cda139-a400-49e1-9d99-39b402121a8a",
+			"d8288d33-31c5-4bff-8565-b9efcad02558",
+			"75af4f22-d0c0-4b58-bc21-7ad9a6848c4e",
+			"33c666fa-46ad-421b-8762-9a830705321e",
+			"597438ae-4518-45da-9b43-33f2846d64e1"
+		]
+	},
+	{
+		"id": "05bdbda1-491e-4746-9a5c-d9c7dcd0d364",
+		"prefix": "1.2.",
+		"title": "Zuiver of gemengd",
+		"vaksubkern_id": "bk:51d2ec21-ba26-4e56-8006-9bab70293840",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"fb500537-6df6-49f7-a687-f244bdaa9eb2",
+			"d425a55b-b058-4bf5-b9ec-7066586c2ede",
+			"0635e699-761d-49a5-9046-f29270d44da3",
+			"84ec63e4-d24d-46ec-a24d-38b0f9dc090c",
+			"44b5af89-dda3-4ff4-a1ec-903cec61a6ff",
+			"55e1c209-e4d6-48e2-8b73-7bb0df92b481",
+			"6525dfae-15cd-4882-878f-50c337533f0d",
+			"ad89d479-78ca-4cef-ad0a-de3748e3ffe0",
+			"35739d36-41d5-41ca-9e29-4fd65cc5b13b",
+			"075af28f-0495-4218-ab15-cee7406a63f9",
+			"126b2c2b-375d-4d84-8730-f0b45a4d835d",
+			"eb6de148-8b06-4f78-9ffd-1ef03a5f09f9",
+			"1d484bd4-9b38-4d75-a66a-9bdfef10dab2",
+			"4b41e0c9-52ba-42c9-adeb-d1ac31f8be73",
+			"a2b9ef95-66b4-49e4-8a8c-37df974e7a5e",
+			"66131a53-22b2-4a1b-a276-94818f924efc",
+			"f889f4d8-74c0-41f3-be7d-65bdd5419680",
+			"84f1c6ae-96a4-4d7e-b8ff-0557acad0f36",
+			"16b2574e-4df0-4613-8892-770a37d35be1",
+			"8477f20a-9688-495f-bba2-dfce391717c7",
+			"f30b68e3-c0dc-4d42-98f9-584832bd3596",
+			"b7a2c851-cc18-4c5a-88a6-59e2394ff75d",
+			"8aec4624-0701-4dc0-9384-74e32595da3b",
+			"a51899a9-2424-41fd-8bc2-c781a3bc6beb",
+			"655c0504-9dfb-4b5c-9c9d-6c8f2ba1563f",
+			"c7400f08-9731-4098-9050-60c028ede788",
+			"4b090223-7191-4271-99d2-b769f515bb22",
+			"7a9480c0-388b-42d0-867c-0eb2340ea7b2",
+			"d3b15487-8d6b-4ac8-a856-ef37b3e8d4c8",
+			"b7181c45-328f-46d2-a218-81fdc581581a",
+			"05166c95-2297-4017-923e-dead1cd91a70",
+			"9e7db097-a0b9-4d48-8934-b1d3455dd831",
+			"28115b23-1b90-4dee-a38f-cf91ccf14489",
+			"0e2e388e-82c0-47c6-8527-f65f3c0af21a",
+			"3d6fc1cd-a4d9-434a-95da-901541399617",
+			"29a4c2ab-32c9-4ae9-8b73-d4a5dba4c743"
+		]
+	},
+	{
+		"id": "26c82a66-ca22-4b83-9e8e-6f0cf0eb7fc0",
+		"prefix": "1.3.",
+		"title": "Stoffen om ons heen",
+		"vaksubkern_id": "bk:46cf2188-61b1-425c-ab9c-7eb0b3f5c830",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": []
+	},
+	{
+		"id": "4040aacc-43d7-4560-a4ba-dc41ee6c94b0",
+		"prefix": "1.4.",
+		"title": "Bouw van stoffen",
+		"vaksubkern_id": "bk:fb70add5-b551-41ce-914f-06172e67cbef",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"4388541c-e19d-4fd1-92ee-8e0c92925048",
+			"78d640a2-0d2e-4633-aeef-2d7bfe77686e",
+			"24d49fb1-9358-41cb-ace8-b2e01cfce821",
+			"711b8a44-c6f4-422f-b999-76e10866d2e6",
+			"80e693e3-6523-42cc-9f3a-e5c5dc7f76c1",
+			"1b3a2c30-8afb-4c18-a599-6f7729375319"
+		]
+	},
+	{
+		"id": "659b404b-eb09-4fd0-b762-b666e8ace086",
+		"prefix": "1.5.",
+		"title": "Stoffen om ons heen",
+		"vaksubkern_id": "bk:46cf2188-61b1-425c-ab9c-7eb0b3f5c830",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"db9f59e1-36a8-4cad-a181-a65731259068",
+			"531cad7f-8704-4368-88cf-e6697c3f333c",
+			"1c1a2623-5614-4f5f-a8ac-6ca1826d59f1",
+			"14f4e8a2-5ad3-48ac-a678-a5bd6437d425",
+			"de68fdea-9cf2-479f-8b88-75aff0160af6",
+			"90bcdc14-45ad-4849-8b96-af128faff1f3",
+			"990c884a-954e-4dad-9dcc-aee21c4ec79d",
+			"bb54221e-8624-4d3d-89f7-ba5e3b67c600",
+			"a01dd75f-2810-49e3-a368-e2fd83518e1f",
+			"c09712d2-1064-4bd1-baa0-6728c763a538",
+			"4ff847c7-1f1a-46ff-9f2b-5dc2eadcd86e",
+			"087d1a4b-e34d-4529-8026-1c3f001fdec8",
+			"4ecc7dd9-f535-44cc-9d31-8259a6d84d3c",
+			"fd1db971-ef49-45fe-860e-31f2b9edf284",
+			"c96023f3-11ba-4269-9ac4-febce2ffa2b8",
+			"6a098bf1-8cae-46f2-b456-0bcec2728eac",
+			"b877a5ee-ef77-4b08-bf20-e83bc17d307a",
+			"c6299dbe-fe08-4ca3-b275-d28fb831b511",
+			"f15a31bf-76a4-4df8-ac43-02f5875e52a7",
+			"17a5a44a-1d8f-4439-8485-1d69c17ea859",
+			"8098f4e7-f80f-4907-8107-dc1247a9d930",
+			"715aae1b-032f-4c79-8eaa-8fd4d8ee8bf0",
+			"ac34a925-96fc-449a-8ed2-b01e272309b2",
+			"adb5ec0d-f143-4723-9d43-2f197fe456f3",
+			"187f18d0-8e87-4f8f-9fd5-cef140079682",
+			"56fc693b-1a0e-4d88-b7e3-18d2b97da02b",
+			"3fdf52f1-55b0-4861-8c8e-cd53fabbbf79",
+			"ba6d4dd1-01f6-4c32-af25-3d8f71c17dde",
+			"7f15a7d1-7bb9-4d6d-9e5f-7da83ffc7390",
+			"834fb3c8-3d32-4e0c-bd2b-2bebcff8c0e9"
+		]
+	},
+	{
+		"id": "c4f2fa20-b038-4063-8723-9d6c950175f4",
+		"prefix": "2.1",
+		"title": "Schaal",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"6b96dcdf-6b71-4eed-92fc-8038646edd6b",
+			"370956b6-f2a5-4929-918a-1d58abfacbe5"
+		],
+		"tag_id": [
+			"96d7d640-acf7-46e8-b98c-80bee8c3e89c"
+		]
+	},
+	{
+		"id": "e216fceb-684c-40bb-84b2-338199adc076",
+		"prefix": "2.2",
+		"title": "Gehaltes",
+		"vaksubkern_id": "bk:705b00db-046c-4402-9abe-7f1303f0cd86",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"f27095a7-b53f-4095-90b0-4993b70ce6ca"
+		]
+	},
+	{
+		"id": "0f830cd2-e8ba-4b4b-a53a-b9f3a6a450d4",
+		"prefix": "2.3",
+		"title": "Hoeveelheid (Hoeveelheden)",
+		"vaksubkern_id": "bk:a8eb17d6-ab2b-42ee-8f13-15eb48d6b7a4",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"c8f29b97-6747-482d-a612-ae703e8e635d",
+			"e18d1637-be28-45e1-9cb1-83b02cc24b14",
+			"3251f6af-2d4a-4b1a-ac4c-c267a2cd2154",
+			"c235ff90-f379-49c4-8b61-2da01dacd317",
+			"89607833-e37b-4e9e-85dd-b6d3421dc58b",
+			"19ca1c8f-b1ff-4665-8697-6eda67a729c9",
+			"3752b3dd-b2b3-46bd-9f10-c30ae1bc1e38",
+			"4b284045-9e23-45a6-a716-4ea62e9a4079"
+		]
+	},
+	{
+		"id": "9278d9b8-a431-4e4d-8454-55cd142003e8",
+		"prefix": "3.1.",
+		"title": "Chemische reacties",
+		"vaksubkern_id": "bk:3441c28b-ed1a-4ce0-a987-25113138ec88",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"d7b3ec5b-544f-4137-b5b8-7064b61b1faf",
+			"a74e7a48-989e-40ca-8d1f-e6991c2644cd",
+			"f0946768-554e-410e-95db-b9df574fefcf",
+			"e71c5ac1-53bb-4862-955e-ac2f5da9e0f2",
+			"5ae1fc6f-6c92-4a0a-b4f3-a3f25db04911",
+			"6e488a9c-18d9-4299-8875-b5ed8eaaaa57",
+			"44883b64-22bf-4f60-b383-64f9141246dc",
+			"1f3577e9-35c9-4cf9-a4f4-e509ffdf4637",
+			"a1db4f7e-a749-4074-a4d6-e27099d452b8",
+			"993a536a-bca6-4246-a2f8-aafb78b88cc3",
+			"37159cf5-70de-42b5-8a6f-5dd16bae5c97",
+			"28cd112c-62e2-4149-b359-0ce6ce3ac190",
+			"6c3aac07-da71-439c-bc1e-b36df1410b0d",
+			"2f1c608e-14bf-478e-b160-3b2994f4dd69",
+			"20ee3108-7b6b-4d01-92e2-b1d449eae58a",
+			"cf8e3a26-782e-4432-8b9a-83c42e4c73a4",
+			"60529897-4172-4c2e-86af-54e809c8304a",
+			"034c8ce0-7ed3-4da9-9a97-8e106e5363f6",
+			"62d529a0-0f5e-43b2-b138-0948fda87e86",
+			"bd585657-b681-4e10-b509-c50087e5f5e3",
+			"a0a089dc-6a4b-4f37-931f-653aeaf3f164",
+			"3cdee549-7efd-42a6-9700-3e619615efb1",
+			"ee093109-32a8-40f0-9bdd-fe452cf982fc",
+			"10b6dfcd-defb-41ec-a7bf-b2ad65dc3403"
+		]
+	},
+	{
+		"id": "488d0f88-5cb6-4d57-acca-4d5fd49f5570",
+		"prefix": "3.2",
+		"title": "Ontleding (ontledingen)",
+		"vaksubkern_id": "bk:03794f8d-a2be-4695-9c86-2fc45008220b",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"cdf45fbe-aea8-4d2f-bad7-f80a0e5fb95b",
+			"d3964521-7f2c-467d-b12b-b3b852850d24",
+			"7930f56e-2d17-44bf-ac29-383c3dcb8391",
+			"5f1b7a32-9331-48ee-b1ca-119756a7fa7b",
+			"db0343ca-decb-451e-b51d-6e0795c3c108",
+			"287c012b-9f72-40c1-876b-6e18fea99ddb"
+		]
+	},
+	{
+		"id": "41fdf5c2-95e5-4544-96ed-14344042fcfa",
+		"prefix": "3.3.",
+		"title": "Verbranding (warmte en verbranding)",
+		"vaksubkern_id": "bk:f6925bd8-53b8-4c07-8080-590566542b23",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"8f8d207f-b76a-4da1-81de-bdddfd8a258d",
+			"1a886136-ab00-4ddf-bc84-7ce809652214",
+			"4f5b75e7-a39b-490f-b278-992f1663f861",
+			"40c95887-7a5f-424a-aba4-75aabb7610d2",
+			"2cca85ba-9913-43a2-91b5-ec8b7fb5c817",
+			"9baefb45-13a9-4b83-b08e-d1660565c210",
+			"6e39b52c-2115-4f24-aa9f-2ef8d65623b5",
+			"8cdd5505-4c98-43d9-add0-735c6b6f70e5",
+			"546f78d9-ab6a-4dfe-83d5-270a645324ae",
+			"c7cb65c7-dea9-407d-80fa-3e7fc55931fc",
+			"a29c6d5b-a20d-4798-a803-964949ac7d08",
+			"17def08f-8d2c-484e-88cb-065702fa6775",
+			"5f6cbc4a-e3e4-4229-a19d-59a726f189f9",
+			"245111f3-8fdd-4f9c-b528-648763bce3aa",
+			"efba8585-91ed-4bb4-b806-62a486e62fef",
+			"db1539ed-3428-4a13-ac1a-d53c465cfc81",
+			"c20df893-dc4d-49e2-b5f4-03e82504dfc5",
+			"d3410362-bb5c-459b-809a-14c9531d7e3d",
+			"aac45623-d938-4ac8-b2ac-4c1e477bab71",
+			"4ffc50e9-c4b1-4f01-812d-02a1ca5746bc",
+			"db03bdf4-e792-4c93-84aa-bfcff488926d",
+			"88a58f22-f59e-416a-b71c-cfcb2c58aa3d",
+			"8966c834-e07e-4a5f-af96-2d671b948c5c",
+			"1cd4d82d-74fd-44dc-b8da-729a2b37657c"
+		]
+	},
+	{
+		"id": "39687a95-7a9b-4119-83d0-23e6a6ee6426",
+		"prefix": "3.4",
+		"title": "Zuren en basen",
+		"vaksubkern_id": "bk:05fb0346-343c-417a-b9b1-267952c4948a",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"05882772-fcbb-4dba-a930-443727758a11",
+			"9affce3c-535e-4404-b6d2-d831297d070d"
+		]
+	},
+	{
+		"id": "e97c95d8-cc9d-4fe3-916c-31869bbae9d2",
+		"prefix": "4.1",
+		"title": "Energie-effecten bij reacties",
+		"vaksubkern_id": "bk:b156fd56-9f24-4bff-9203-79bd659aace0",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"16fa2b29-a909-4f69-9049-23d84997651a",
+			"cbe26dd4-4a49-45c5-ae03-60f5c97e7a82",
+			"f6ce1806-29d1-47be-9061-026111900392",
+			"0bae932a-c511-4556-a1b2-689d6cc4fc18",
+			"3b58d79f-e515-4708-83b7-6963ac1fdc56",
+			"bb7c6f5e-a320-46f3-bb09-b2f259049f8a",
+			"fd869364-8de8-4d1f-8471-10abb0da5fe7",
+			"2d2a297e-01c9-45e4-bd72-8b4e442193be",
+			"893ef776-6abf-47fa-9acd-fcf7eee4c8d8",
+			"eda6e60b-047c-4f1e-b61a-5bc74f681606",
+			"3fed6c93-03c6-4fd0-b9b6-20586950b03b",
+			"38475db0-7e0d-4c25-8eea-d795727ac432"
+		]
+	},
+	{
+		"id": "0642c526-763b-4f2e-80fc-81ad8b6f0cb3",
+		"prefix": "4.2",
+		"title": "Fossiele brandstoffen",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"3e757010-6add-47a8-ab89-b0105691df28",
+			"b1c5438f-dbb3-4c7b-890f-931ed60c0801",
+			"fd5980f5-fc97-4d21-8b47-20b537822c7a",
+			"cc800a38-e61e-4547-9794-3d33059026b0",
+			"f8f2f9d8-a05c-4285-8fc0-eeb820746638"
+		],
+		"tag_id": [
+			"96d7d640-acf7-46e8-b98c-80bee8c3e89c"
+		]
+	},
+	{
+		"id": "d2c415ae-8ae8-4b52-a3b3-f813ae42d3e2",
+		"prefix": "2.2",
+		"title": "Gehaltes (concentraties)",
+		"vaksubkern_id": "bk:705b00db-046c-4402-9abe-7f1303f0cd86",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"f7cf0ddf-fdcb-42d0-9ae8-ecfe69e83756"
+		]
+	},
+	{
+		"id": "e69c09c8-4dc7-45e0-988b-217d3100a521",
+		"prefix": "1.1.",
+		"title": "Stoffen en eigenschappen van stoffen en materialen",
+		"vaksubkern_id": "bk:a321b58d-2c83-4d3a-b217-d7473f5178ea",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"507d84ed-f802-4a3a-bf5a-08e5b7dffad0",
+			"b9cf8cdb-389a-4397-a1a9-aa32c2f3c3de",
+			"ae8a6bbc-e752-4446-a2be-0a2e46adb92c",
+			"a7787807-d26e-44c8-8ece-7202e20439ce",
+			"fe59894c-636e-4c56-9fd9-0a3154e65366",
+			"a9c0221a-aac8-46d0-a2d5-fd2516400da6",
+			"53e56b90-2792-4a23-b879-a3737cf47a25",
+			"6bcf2429-123e-4763-8dd0-bc0c5a92b57d",
+			"fb8a9703-1a50-46c2-9c52-50d8137f2ff2",
+			"d782a155-a1be-4e6b-9025-306cfeea21bd",
+			"08f28922-89b5-4881-9da9-1cf10b4a6e22",
+			"92122703-b28d-4fd3-8091-3783cf1f5819",
+			"59ee23ad-d899-445a-96f9-c742590f2bea",
+			"8bf4ddc8-2eaa-4c85-9240-1ebc49a87bdb",
+			"59fff483-d255-4427-bc8c-d38ee93a94f8",
+			"15b14f8f-99ff-428e-a5b0-56bed72086fc",
+			"a29656b9-d3b6-47eb-85db-88e666fe57ef",
+			"126164c9-f78c-46a8-a9e0-4733080c2651",
+			"63c98a69-1ad1-42ab-887d-217b85e9c533",
+			"eb25d881-7462-4a45-b28c-309906a1d7e6",
+			"23b8589e-1160-448e-b17a-88752ed99c94",
+			"344c3ca2-38c5-45e0-9b2b-2794131eaa21",
+			"d0a9c9e7-601e-4c6e-b31f-245b9ebc729d",
+			"80130ab0-f791-4964-b2d5-5dad94d5ffde",
+			"a42a05d7-d6a5-4b08-9099-a493dcb722e3",
+			"1c28b1b5-c4f5-4b8c-91c3-27fc9e9878b3",
+			"d8349547-928c-4a3e-a8fb-23782deeb7ab",
+			"dc0997c2-18b5-4cf8-94e4-54973bc663ed",
+			"85205797-853f-4e45-abad-bbf7be2142db",
+			"7dcd13fa-ece0-4801-840b-56da338e5423",
+			"34ed764b-7e77-4c7e-a1d4-cd9b988ecc8e",
+			"f6271bd5-f019-4b35-a6da-874cdcaa817a",
+			"148d3c77-7946-4e0d-b0c0-fc0634e7109c",
+			"f02dcf70-61ba-4774-b5c9-b0d7ee2ab143",
+			"5b82e360-9cc6-4d04-b6ad-a7add9ae6f19",
+			"a591a5c6-1ff4-4406-927b-76a19312ae9d",
+			"a1981bd5-7f38-4478-be3b-e2d8928ae789",
+			"242485b8-43eb-40c3-accf-ff1a96c3b1cf",
+			"e30acb22-cd1e-4ffe-96a0-c0c9b5962ff2",
+			"0cec0c58-a804-4085-9e1e-6b5266522de1",
+			"59a12e7b-17c2-4ad1-9853-5eda297ee75d",
+			"a82523fc-56b8-40c2-8485-d07c534ed48c"
+		]
+	},
+	{
+		"id": "df42a33c-5e29-4bf2-9581-25cd538fb90c",
+		"prefix": "1.2.",
+		"title": "Bouw van de materie",
+		"vaksubkern_id": "bk:4514ea76-d359-4156-b403-07d8399bf0e8",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"deb20a46-ed7b-4c85-b6b3-ec5cf3551bff",
+			"b8e2ab7d-b32a-4642-8c9e-9e7ea36c1f6f",
+			"a75c61be-0f41-4ca5-ae0c-daf08e19fab8",
+			"a28f24bb-4aea-4b1a-a83b-7b15d7cc0a86",
+			"7c92e9ca-549d-4a89-976c-a38fd658acb4",
+			"0c9cc67f-e7c9-4e26-9bc3-9dff52ee9a90",
+			"5a8c9549-102b-43f8-9086-6591faeddaad",
+			"e3c70828-e6ee-4161-ad44-f6f4fb71c3d1",
+			"d8ae646b-8f14-4839-aeda-ba710e2e9424",
+			"0244483e-1577-41ae-a9ed-2ba532d90a83",
+			"1459d742-b69f-4882-9691-ff78867d544c",
+			"cb25b30c-0204-45d6-9209-7e5ab927af56"
+		]
+	},
+	{
+		"id": "1c93b638-a338-4b18-924d-5355fdb4715b",
+		"prefix": "2.1.",
+		"title": "Energie kenmerken (Energie, redement en vermogen)",
+		"vaksubkern_id": "bk:d152556a-4bac-45d2-9f5d-9f2a34c38652",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"66fdbe45-4653-4d01-a943-0cf786e116b1",
+			"34f11193-5fc4-4058-a843-f52f090125b0",
+			"6e5af9ab-d592-4a95-aa36-80197951bfe1",
+			"725e5c31-57b3-4efb-9f8b-c22f2b0e357a",
+			"614fb130-d63b-4391-9e08-4b4bcd5c1f95",
+			"9063937c-aa58-4c72-9180-1ad8984df26c",
+			"bb1c099b-065d-4516-a384-93111be553bb",
+			"1cf9f234-ace2-4705-adc5-69b86d048776",
+			"3a6c2f5d-acab-4af1-b512-1f5d6b8ca173",
+			"78a28d7d-5b78-462e-81f1-8a7910418c15",
+			"5fe85371-2f19-4db9-9ab3-7d1645b9e7fe",
+			"0bc04ad6-7ed5-4df2-a2ce-1b93fd4190f2",
+			"4f95b40a-23b3-4ca2-ab4b-24a6ddbac527",
+			"0222e223-5f0f-4953-80d0-01ebfc766e6f",
+			"0c4dd785-fb31-44fc-a0e4-6fea9ff2f4a0",
+			"aa850fb5-e6ee-45db-9b7c-c16d435c8929",
+			"33007cc5-3a82-49b3-a843-d508eee00659",
+			"f1b0fa60-100a-45c0-805c-6642e949e548",
+			"5bc31e5c-784d-490f-bf93-3717780e8a03",
+			"e3500bb1-97a3-4cd3-821d-6fad9dd9de68",
+			"43e1e517-02c1-4148-8583-036cabc258ba",
+			"e7ca0dc5-1a1e-4cfc-b593-448f2688b62f",
+			"afab8d19-21ae-4161-869a-9cc0dd53e9d5",
+			"8277cd61-b643-425b-9b29-c97b22320c66"
+		]
+	},
+	{
+		"id": "4bb9f9e4-20f3-4725-ac8d-73daf0a9ee22",
+		"prefix": "2.2.",
+		"title": "Verbranden en verwarmen",
+		"vaksubkern_id": "bk:f6925bd8-53b8-4c07-8080-590566542b23",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"c4e2e338-1626-4685-a9e7-28134f8884ef",
+			"84b83176-a49a-400e-adec-b6153805ac5b",
+			"c1d84508-d0d6-4a19-b10b-3cac8d137593",
+			"301e9035-717c-4b77-b309-f3af221db150",
+			"f7e4b558-7607-40d5-978b-6a02536ba74f",
+			"a65dac05-65cf-4347-8a75-06774e2dcefa",
+			"9c70a064-73f2-4d2f-bea8-9a5c55ff4b14",
+			"0340f9a4-a81d-4de2-8190-27f5304c3fd5",
+			"85652f2a-e794-4027-9bde-8376c679d23c",
+			"6202daf8-f254-4c4c-8a3b-3b58d24fdc64",
+			"b4b72767-fcc1-4419-b234-c305e48a9883",
+			"eafc300f-21cc-4348-9fbb-4cbbb389fa67",
+			"c4419655-e0fc-4fce-ac22-06739f549d55",
+			"ec1d8256-7443-41bc-bccb-d2a5bf22af32",
+			"8a5c522f-d562-45e3-ab05-919795b1fa7b",
+			"6c172b05-d218-4785-9510-24d3aa20a59c",
+			"eb2f9a3d-19d0-407a-a8fe-ab6f1605163d",
+			"b872428d-45f9-41ba-a285-3aee13318b5c"
+		]
+	},
+	{
+		"id": "d5d7cce6-a3f4-46d8-aa02-b98ae502eefd",
+		"prefix": "2.3.",
+		"title": "Elektriciteit en magnetisme",
+		"vaksubkern_id": "bk:70be315f-9f81-4be6-a7b4-19e34fc740d9",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"8099426c-2532-44d3-8982-c2bd2affc333",
+			"f7b9a116-b975-41a3-8904-6726003814c8",
+			"e1160505-bff2-43ce-ac38-3924ccc799b4",
+			"9959c14d-e14b-4af4-83c5-579e44623ecd",
+			"db25240c-15b1-4645-ba6e-65619a1a8524",
+			"b8fb0db1-755c-4d65-b609-3406330310c2",
+			"73f28473-4ebd-437d-bbec-760ad5de3658",
+			"27387158-8fa7-400a-9e94-2729f8b7d9b2",
+			"76867d71-9abd-47d3-b3af-e8128141016a",
+			"27dba628-e51f-4fbe-b439-eb5e9819118e",
+			"11031ca4-d10d-4162-8b0d-8f20d7e32425",
+			"4628920f-8c9a-44f3-81f3-86e69e3d1951",
+			"36e60f41-0ce5-49f3-9e01-5718a6d47ed8",
+			"b4695541-dc3a-4112-8f46-f5c50d39239b",
+			"07950d14-2fec-48a4-9c11-56afcdf79a70",
+			"9be66cfa-cece-462a-beb4-818943ba6844",
+			"7416d1e0-5b9e-44ff-957f-9f53fc61d034",
+			"b259307b-1cdd-4667-ac6a-33b487fbe69f",
+			"b47cdede-987a-407c-9cb7-b0ba28ef5589",
+			"9f4bc112-b7a0-47d3-8f0b-89d6fbb3ace3",
+			"e18eb04c-b5f1-4978-b93f-90cb00065408",
+			"e95b0ad9-5c0e-4dc6-8122-3540231f9d6b",
+			"c23248f8-d6c4-4d93-8d72-c444734abafa",
+			"88a3209c-6bcd-49f8-b4da-e31e310cacc9",
+			"12b3b8f8-0417-4cb3-834b-28ef13da1e7d",
+			"f92f8896-5e72-44f9-9929-e507ad246b42",
+			"e5bed889-35e5-450c-b908-550c5a334c0c",
+			"a2ac409f-ebe4-4235-a832-57e3bdb5373c",
+			"ef46081c-6918-4707-b51a-9833cb3dce61",
+			"9b865a0f-04df-4ef2-bb99-151e1d482c92",
+			"a570d8c8-4424-4f47-9114-71ad5063ede2",
+			"07843b81-e5bb-48fd-a12c-f2dbb35072cb",
+			"931d58ff-8017-4b78-934f-cc294fb7c313",
+			"12a441a9-79a9-4d2b-938d-fef17b270fee",
+			"1f7b261b-402f-41fc-8c36-0439fba27f02",
+			"6511a49e-b885-4654-99e0-fba954703c64",
+			"548279ec-50e7-4eb7-93e4-efabf3ae8224",
+			"e3f05138-3a34-4028-8a62-65f44ec1d300",
+			"9df62350-8fce-42d3-8857-0a2159b3f524",
+			"10a42898-70ba-42af-b6fc-509e59f03381",
+			"4143c46c-a11f-48a9-8baa-a3ebcf01ab70",
+			"aab9516c-ba85-442a-85ab-a90197930efc",
+			"0f5612b9-d79c-430a-a402-9143fb5e5f35",
+			"befbf8e9-638b-4ad5-bbef-4fceb2dce860",
+			"263da554-34ff-4ddb-8af9-2ba45ea4b035",
+			"fc76a792-c7ff-45c9-99c6-fa49af783694",
+			"3e96f814-1e2a-48a5-925e-cec54682aad1",
+			"8b2e570e-f939-4a86-b51e-545d1f66b958"
+		]
+	},
+	{
+		"id": "ee226deb-3528-46ea-8ac7-630b91878d94",
+		"prefix": "3.1.",
+		"title": "Licht",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"c3bbe819-137f-41a7-9d90-6f90342ef23d",
+			"30bb4e44-dd54-46d2-b377-0df6bf39bc36",
+			"2f92e142-7802-48c2-8cef-1e2e895df479",
+			"61f752b2-95c3-41b4-a982-be4b00ad4563",
+			"ed83f9bd-d629-4125-8fa0-4aeaed63fd00",
+			"08e39448-923f-4c98-855c-4edc597ee4ab",
+			"b3e6092a-37d7-46b8-9f3b-985ca554f3ee",
+			"fa6ae738-73e0-4b95-924b-ffff4249c9aa",
+			"5f334a4c-331b-439c-b48f-9cbff31a30da",
+			"f631ba4d-a9c3-4672-8457-6237c2e98ec7",
+			"af4cd94e-6a80-464d-8fa8-7dcdf770e1b3",
+			"1f770872-ea27-40bc-a370-e497c7db1a4e",
+			"106d1191-7f2d-4266-8309-ece472e93abb",
+			"a7e3ee64-79bb-4e8f-aa28-023aecebecd1",
+			"7e635f46-e7b4-49cc-81fa-4832b862eb96",
+			"826455a4-9631-400f-8c15-6712a437816c",
+			"92f40add-539d-491d-a419-4ad6b15a6a72",
+			"96c99a1f-eb21-4ec5-8fb9-8d8d388aff20",
+			"5d3fbed2-9078-4d80-b65a-62654c932aa0",
+			"097a9567-2eac-4b78-bd11-791be3c1cbc3",
+			"ac8326fc-0a57-4fc8-950c-3de5d15ad9c0",
+			"a37400f4-d0e1-48cf-a7df-a78f4f0ffb76",
+			"e5d9d188-9f02-416e-99a1-f22c8bbcc677",
+			"f09d0b30-ac1e-4873-bd83-998dc42dffdc",
+			"c0fe84e4-6146-484c-85ae-cc65f9132e83",
+			"3963afcf-1263-4a09-95b8-9c5c96ddbaf6",
+			"7e6a6816-8746-404d-8aef-1362d1afa0d0",
+			"d1fe75d3-b0f8-41d6-a0d3-7002f98c30ff",
+			"75968218-767c-4481-b713-c4385b5d9f8a",
+			"34d1ed1c-f40e-4b37-b858-eb720277ae05",
+			"6685491b-89b4-428c-8f07-70dae01dcd20",
+			"11d0bcef-3092-4139-8422-8fecba6358ae",
+			"c8b064df-c724-48a5-b5ea-a4c49f2b6960",
+			"4bcb2dec-baf2-410d-9237-917197b5153e"
+		]
+	},
+	{
+		"id": "57cd99dd-5f86-4534-9f75-00ecdf3f535f",
+		"prefix": "3.2.",
+		"title": "Geluid",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"f6e68cf6-db6b-41fb-80d5-94642a7a188f",
+			"6d32262c-b48e-4ff5-939f-51daa4b4c6c5",
+			"3f0c4405-a98e-49e5-8af4-d7af2571f528",
+			"a9fc59da-f21c-4e7e-b6cd-efee6892d250",
+			"fe188da1-3daf-4273-b8c3-b84f84dc8d76",
+			"b7bccc92-d498-4e33-b1ce-11b694a481b3",
+			"2ce424a5-deda-420c-9abb-733bd89ab390",
+			"a7e5b9a7-bc9e-467d-9a24-df7d5f0ae102",
+			"9315cc4c-e8a2-4d66-a753-17dcd2314ab8",
+			"09d3310e-e5dc-427b-afa0-5c7138107f7f",
+			"06a01073-0bca-41dc-b973-3c57ceaf01b8",
+			"8d458c86-a5f6-4d99-a372-e35b55e4b76a",
+			"8bebcaa5-0f37-48b7-aaca-492120a4fd17",
+			"9ab70b3a-03dc-4128-86de-392a98f58269",
+			"5405a619-b622-4c31-b63c-11b0e795bc6c",
+			"e5f7064d-5558-4bdf-b65e-7a1d4a30dffe",
+			"b9d7e21c-aba0-4701-95c2-5d18a0c325fe",
+			"179153ea-fe15-4542-885f-32b253a4c107",
+			"de6d5a69-91a8-47e2-9a39-7b95360d615f",
+			"eb5991a2-22fb-4489-9df5-eec695a3caa8",
+			"e0ed067d-9489-430d-ac15-88f8323a75b0",
+			"4c2e8fb9-998d-45a3-8080-cb4b61c03c26",
+			"7b9a41fe-1522-45f4-8628-33d2e2d3d450",
+			"17e81313-c8d9-434d-9b87-08fe77e15124",
+			"c1af5d9d-9914-4a7c-875b-737dd4b2fdc8",
+			"be6fd14c-9c90-4e22-9e88-f68b26f7293b"
+		]
+	},
+	{
+		"id": "b841c54f-f657-4e80-adba-f1f3175f3e91",
+		"prefix": "3.3.",
+		"title": "Straling \t(ioniserende straling)",
+		"vaksubkern_id": "bk:512535c2-83c1-495c-9a4f-6b45fc8ef8a1",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"fc6cd2f8-e3c8-439c-a25d-61a459740844",
+			"c0a2f2d9-bf98-4532-8682-c224fd9bb75b",
+			"9a623115-a819-44ef-8c8f-747da0c6a1c7",
+			"228feb19-31cc-4764-915d-d826799568cf",
+			"f60f4a04-359f-4767-abff-0a6d6277ba19",
+			"8c5c3556-fb2c-48b9-81ae-0f4b963d22a4",
+			"f694df3c-c6c0-4ce3-b168-2c478314e899",
+			"3c3e937c-d799-47c0-8537-b293c757737d",
+			"de322f8d-538f-41c0-9bd4-6e901dea038f",
+			"1517dd17-0c68-46fd-bd37-d93e68bfa7af",
+			"e13cb561-113a-40a3-a5da-0edf8c297849",
+			"cd78a9d2-a291-43ff-946d-b365746781cf",
+			"66bd8c2a-5a4f-4e75-9a80-7e3524280eae",
+			"25447e3d-c498-4d2f-b478-05588de58456",
+			"18e6a0d9-d2dd-4523-82c4-7420f6da57ea",
+			"39f9c66c-febe-4e99-b637-14ea1000c9d8",
+			"89904ab4-aa00-40e5-9c36-e7d5bcbf75ff",
+			"8a52c788-2462-49b5-b98d-7151afd7205d"
+		]
+	},
+	{
+		"id": "43a2c374-bc58-4b68-8584-9532ee162165",
+		"prefix": "4.1.",
+		"title": "Kracht",
+		"vaksubkern_id": "bk:8875e303-391d-4530-ab8d-313163b697a3",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"c7ed9076-1de0-42eb-bec7-1cdde7190d5b",
+			"04607973-2b13-4d73-aec3-aa2a6d61f522",
+			"9e12a4a9-330b-48ce-ad93-b512d98e6778",
+			"2ad4e003-46da-40d8-a5e7-bcddc8a31eff",
+			"d9205edf-6a84-4a03-8b77-405969f1d7ba",
+			"d2b39543-73dd-4dc5-b6b7-1f6dadae5588",
+			"911de629-4731-49c3-bf8d-22712d01fb15",
+			"ed8e4094-7e1f-4190-90e0-86d84024bfbb",
+			"c789c348-c00a-42df-90cf-6126e3de081c",
+			"3d3a630d-3dcc-4acd-b79a-45891c444cc7",
+			"d6f6a716-0c09-4d8e-9ed5-3be41a594416",
+			"3ae42c64-2bf9-432b-bf04-8585b1ea70c0",
+			"76c6d07a-e1bf-44de-aad8-e01df7d45fec",
+			"bd9dfb07-d695-4a98-ab65-8c1865b10ab2",
+			"35c15bc3-020e-46e4-9b77-035444442ced",
+			"d06338b0-38dc-4fa9-b058-a092de6d2ac2",
+			"c2cfe267-7a65-481a-a409-fad5e54bc14e",
+			"c2cb8938-58e1-495c-b19b-232c32ff3a3d",
+			"b49b8199-5c3c-4293-9d7f-80fb0d4f5ec9",
+			"4f32177c-c69c-45c2-813b-78c0051266ea",
+			"e7c89743-9723-4515-a1b0-e6b4b33fe87a",
+			"b870f63e-c7a9-4980-a067-a9f81f84d1c4",
+			"82498da6-d82e-4b65-a08c-16b9551d2d6f",
+			"c05d0c17-ea6d-414e-8c23-7749c2bb7851"
+		]
+	},
+	{
+		"id": "1c46665d-1d7a-44f1-b142-e9543c6add94",
+		"prefix": "4.2.",
+		"title": "Beweging",
+		"vaksubkern_id": "bk:0d4fc01a-2bb9-4b63-9302-b4e6066bfc4b",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"dea86b2e-5f16-4d10-98dd-d87e3ed2dedd",
+			"87011bb4-641f-4bd0-a7e4-28cbc4832c1a",
+			"282e4637-8e76-4d69-aa6c-86a361e91bb8",
+			"8a377a3b-f823-4df7-88d9-08251423283a",
+			"d42e80c8-a7f6-46e8-95d4-691d4c7aae91",
+			"dcaf430f-0ce3-4141-9718-766597ef83d1",
+			"6237ca20-6fed-45ac-95f4-b88df5edaeed",
+			"b4253d24-146d-4535-a4e7-6b77ac4ef914",
+			"97baab4a-f8aa-4ae4-a4bd-702e55d1f211",
+			"555215ae-2168-40a5-8354-d03098c2a682",
+			"493a86c3-06b1-470e-b7cc-79bee0a61546",
+			"b2fa371d-e016-4390-9a30-f50e0fbc5d99",
+			"403ea862-2b4b-4070-aa04-7d927543cab5",
+			"3154faee-fc29-41de-aabc-a6fdf3b48bed",
+			"83e3e46a-2228-4cd4-a156-add4c8f6d4a6",
+			"b1b07150-cea9-480a-8aa6-8b88de1c2e1f",
+			"c52f5847-212d-478b-8b56-2c7918a161d3",
+			"88f5e8e8-aa44-4c67-92c9-26b7545a7b90",
+			"30a812e3-0a2c-4560-94a0-4713f8e8119d",
+			"f59b1dc3-106f-4fca-86d1-f54923d6d3b1",
+			"f6991a0c-8b60-41bd-898c-4950db5e0045",
+			"2ae5b464-0e57-4a3c-92a0-a30f0c943aaa",
+			"76649c2f-0360-4103-afe8-7ef230b269ad",
+			"6f9051cd-8c1e-425d-a5b5-ea8305806c5f",
+			"81e710e2-12c2-42b6-b814-2e820012df0d",
+			"42d5411f-3082-4af2-b5b1-30bfb85665e7",
+			"a75072eb-93ad-4538-903f-a5c1ddc4267f",
+			"2c7fa996-b26c-49e3-b6c8-9ddf7041c589",
+			"884a184c-fe32-4980-a26c-c7e1087c84ba",
+			"50093178-f722-4410-8bc8-f5a0e8eb5f3b",
+			"24c6fffb-b13c-44b3-a638-4f12e44d13ea",
+			"20dc80a1-6197-44df-bbe1-a35f56490d23",
+			"709a623a-77ef-4107-a71a-1b416ccfa155",
+			"2db86149-5b14-43b6-8f70-5fe3d8756ee9",
+			"37b48e61-6630-47fd-a229-7f4f9bea569d",
+			"0df6e807-255c-4704-a7f7-d57e5fc7b44b"
+		]
+	},
+	{
+		"id": "ddf366af-4dbb-4c2a-88ef-5c51c32fa15a",
+		"prefix": "4.3.",
+		"title": "Overbrenging en constructie",
+		"vaksubkern_id": "bk:93006fd3-6ba9-49f5-84b1-c6bb5ce80e8a",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"819d946e-4220-4849-b90a-e8a972c30e14",
+			"b1663bbc-ee2a-4467-8a88-384a362d425d",
+			"fd118b33-83d2-43b4-a937-bb4c41db0e70",
+			"15eff093-0669-4acf-a62a-48a9ac29f008",
+			"b995b2d0-eb7e-487c-87d1-85d572f212b3",
+			"a5582ca6-4355-4953-b09f-259ded3d7fcb"
+		]
+	},
+	{
+		"id": "374b3064-6134-4d4a-aa75-e95a77f2a77f",
+		"prefix": "5.1.",
+		"title": "Zonnestelsel",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"c58915cf-bd15-4ed8-876c-8ffcb41929d2",
+			"78651bb7-0ecd-43f7-bd08-cabccee7a8ee",
+			"9e7671a7-dd61-4e02-ab9c-f70141a978c5",
+			"b13743e1-9542-4d31-8a29-4adbcb560608",
+			"27b19bff-4a8c-497b-8923-0260a3484ae6",
+			"d4704626-60ba-43b8-a956-e5c9711e1452",
+			"7416a168-579e-4d1c-bd0b-66f790e86c9e",
+			"f0ab36eb-84a0-4804-bcd5-39b8ee1d4acc",
+			"e663bea4-7586-46e7-b04e-548b829dc6dc",
+			"dd90a599-c9fd-45c7-97da-e0fd3bd9998b",
+			"205fc61d-8704-4ad3-b57c-d251ad436d21",
+			"5f0d692e-9757-4e66-9132-5ca0d6f7a01d"
+		]
+	},
+	{
+		"id": "cc5afe80-54b8-4c28-b8a4-1696bf5b9288",
+		"prefix": "1.1.",
+		"title": "Stoffen en eigenschappen van stoffen en materialenÂ",
+		"vaksubkern_id": "bk:a321b58d-2c83-4d3a-b217-d7473f5178ea",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": []
+	},
+	{
+		"id": "9cabb76e-d6a6-4fce-9ae2-ded326f8608a",
+		"prefix": "1.1.",
+		"title": "De levenswijze van jagers en verzamelaars.",
+		"vaksubkern_id": "8b81539f-83f0-4a27-ba80-279334808cec",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"3be30041-c140-4a3b-b1c0-f3297204eea3",
+			"f4efabdf-0f3f-4db7-8717-91ef7624ca8b",
+			"44f4d469-4660-467e-9ada-7c82eb11c87b",
+			"78b12864-0727-42cd-a8ae-0d57406e3ef3",
+			"2df7a290-d413-4ea4-800e-e5deb32ce7d1",
+			"fd0b6d25-e212-4e45-9fd2-f7b288d8d086",
+			"d5d40c30-7b24-413b-92ef-10e47bdf410d",
+			"ff29b4e9-58ed-407a-825a-b45c21a5dd14"
+		]
+	},
+	{
+		"id": "3ed98dcb-8693-4f3c-86df-ed4536173e5b",
+		"prefix": "1.2.",
+		"title": "Het ontstaan van landbouw en landbouwsamenlevingen",
+		"vaksubkern_id": "6d700ae1-52d6-45f5-9389-ac47bba61131",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"33dba0a2-74e5-41de-be90-cb3463a69fc6",
+			"79aac0ee-bc6f-4e13-90d5-36e4859e6490",
+			"ebd701b5-9507-4eed-bdf1-28d4545964fd",
+			"3e7a4bb1-dc27-4aa4-8da1-7cbea74de47f",
+			"1d25c76d-3e41-4ce2-918c-1c404b0c4b49",
+			"56144921-eb1d-44a4-9f7e-0a117398df87",
+			"42fd11b9-d16c-4f78-828d-7efa17119785",
+			"d63c5494-3b58-4c9c-bcdc-ca958fb8e2fc"
+		]
+	},
+	{
+		"id": "843d6b7d-1271-4446-9458-06432317f590",
+		"prefix": "1.3.",
+		"title": "Het ontstaan van de eerste stedelijke gemeenschappen",
+		"vaksubkern_id": "bk:32cb7e2f-2720-43cd-8f6f-048a1e3576dd",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"5f5ca2cf-38ae-4ffb-a129-0996c736df83",
+			"90107456-869d-4178-8217-e22c9dacec50"
+		]
+	},
+	{
+		"id": "0fbcebb8-7490-4679-8d69-8f626cad421a",
+		"prefix": "2.1",
+		"title": "Burgerschap en wetenschappelijk denken in de Griekse stadstaat.",
+		"vaksubkern_id": "bk:76ccf408-1194-436f-afc1-020263ac168a",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"361f87e8-12da-4988-a4bc-97b38c5896ae",
+			"839d0caa-26e8-4862-9e6c-8407ccc38c6f",
+			"9188b953-1cab-40c3-8f89-631eb41950b3",
+			"23979e4f-0ec8-4a86-a6f2-6cba750dfe6b"
+		]
+	},
+	{
+		"id": "5f7d53c6-6db8-47ce-ab3b-5d33db6ff651",
+		"prefix": "2.2.",
+		"title": "De verspreiding van de Grieks-Romeinse cultuur en de confrontatie met de Germaanse cultuur.",
+		"vaksubkern_id": "bk:18537322-0a84-435c-920e-b17700ab7a7f",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"2ad2c3cf-a4a4-4958-b62b-1f981c78c7a4",
+			"386420a6-6bc0-4bbf-b865-3d670c1d3449",
+			"1f12e01c-fa2e-43a3-9baa-3a7b86ad6503",
+			"772a2c55-2a6f-455a-91d0-8b84d7a4bc4b",
+			"5f81f2ee-0fc6-4244-acd9-bfdd48deba1a",
+			"3e3af0e4-23c0-49c1-aab4-14f8862a7aa6",
+			"feacd7c2-31da-41fe-8d9b-662dcb2028ef",
+			"34aad87f-ddb3-47a2-9638-491fd6851c9e",
+			"c50f4137-ce8b-4d16-aadb-f5eb7b304e4d",
+			"c175e70e-a787-4eba-9e68-395dd1b33bc6",
+			"fcae61da-2da9-457a-9dd5-1226913f29bf",
+			"9611a4f5-3102-406e-9f3b-0d8477c23d27"
+		]
+	},
+	{
+		"id": "2d8e2f85-3035-4b05-a122-8f504928e8bd",
+		"prefix": "2.3.",
+		"title": "Het christendom in het Romeinse Rijk: van verboden tot enig toegestane godsdienst.",
+		"vaksubkern_id": "230cddfc-bb05-441f-85d4-203eb101940b",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"10829d96-7571-4b37-af26-ee31aa0b09aa",
+			"602aa3d3-8948-427c-905b-a2433b2ac0c8",
+			"17ac2dfb-c3f1-4d44-970e-99486598d20b",
+			"f514f635-02e0-4da0-9082-595637475f89",
+			"b9deb4e7-b514-4f13-a1f8-1d102609f3ef",
+			"bade7c3b-0465-4d62-a091-de39e2f89cba",
+			"ac0ba79d-d8e5-4cc0-a30b-f8ec4b79c76d",
+			"c101d3a9-5b16-4ee6-bb8b-15affa42b2a6",
+			"bd131cb4-ea1b-4a5b-ae7b-22b9caac6334",
+			"e2b6daec-6390-41da-a05e-040acd591610",
+			"f3bf7627-4fe9-4909-ba04-84bfb783692b",
+			"8dd4f157-82f2-4f22-93cf-af6ba1e0fbf7",
+			"b3f72bf0-895e-45af-915c-204a2baaafd8",
+			"cf963a03-47ff-4aae-ba03-54b39634871c"
+		]
+	},
+	{
+		"id": "b363290e-a68b-4d1b-a1a1-e134a83ca068",
+		"prefix": "3.1.",
+		"title": "De verspreiding van het christendom in Europa.",
+		"vaksubkern_id": "e326d664-9ace-45e9-8405-3bc8fa07bcc9",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"a95214ac-dfbc-4a44-ae61-ca58b535ae09",
+			"eecafaa7-fa03-4a5e-8d43-8f4e721bc3a8",
+			"2955291c-2dc6-4a4d-82b6-dd654068c684",
+			"a2f20654-b793-44e8-8367-4cfe3a2a83d6",
+			"16806d77-ddab-4ba8-9dab-44054a74d79a",
+			"cb09d563-5e4a-4eda-80bc-d8b4755a8e60",
+			"cbeacebf-edce-4383-b58e-73434837fedc",
+			"74e7bbd5-9782-4b7c-8e98-0f1d8a9f8fee",
+			"5bd98e88-80d8-4447-a80b-40f538086e62",
+			"3054fd8e-650f-40b4-8379-386c8e25bb42",
+			"2887ecb8-8701-4188-bdd5-3db9b7fc28a5"
+		]
+	},
+	{
+		"id": "c4a1f776-be48-4cc6-b9cb-b2ddb5c7eb34",
+		"prefix": "3.2.",
+		"title": "Ontstaan en verspreiding van de islam.",
+		"vaksubkern_id": "bk:1b3e262e-1f74-4351-8725-43df9ca8b708",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"27902b8f-453c-4f4f-a840-3ef39b46c76f",
+			"fc354174-5fc7-4753-ab45-eb72b5850ace",
+			"fd42a2a0-967b-4c20-b150-5bc1a35ddec3",
+			"7421f8f7-f8b6-457b-ac4c-77bd823d2582",
+			"fdb20f2b-b687-431e-ab90-339c7458fd09",
+			"4c211914-6375-4a24-b628-2a1dc78c97c8",
+			"8207fab2-6006-4f54-903c-4c83a5479372",
+			"6a8c9225-f2c5-4b87-b563-20712c373d6a",
+			"ffbcfaa4-22ad-4e70-83de-c44950ad44ce",
+			"76cf49f8-47f9-45da-969e-4920665c12ab",
+			"db539a52-9e96-44db-9660-a040f1771693",
+			"083d3e4f-69e5-4027-b368-dad72eeb9503"
+		]
+	},
+	{
+		"id": "8d9d8c1b-47d3-4758-878e-5e2108180ef6",
+		"prefix": "3.3.",
+		"title": "Hofstelsel en horigheid.",
+		"vaksubkern_id": "bk:ceb8cf0c-3a3d-4e3e-90d5-39521a7773d3",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"4f66c18e-5fe6-45cd-8e68-df94a7e7d69d",
+			"d96483e5-ae6a-4286-921e-22f013a2ac35",
+			"8fee3375-f281-483e-bd1c-581db0012d9c",
+			"8fe61659-cc25-43ab-80c7-ce5cc40b7e09",
+			"ea2a411e-94e0-49bd-9651-e7d269d1beb6",
+			"1b95ff17-e990-4252-b451-b9f664977508"
+		]
+	},
+	{
+		"id": "1f2525f1-cca0-4acd-9170-922dca018bc3",
+		"prefix": "4.1.",
+		"title": "De strijd tussen kerk en staat",
+		"vaksubkern_id": "bk:e5f0a3bd-0c8b-447f-9a30-b34135aaf164",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"7f9bea70-2033-4e34-bcc2-81bf12a2a4e8",
+			"c89c7c76-acb2-415e-9de1-3ce8517a1405"
+		]
+	},
+	{
+		"id": "a50f2d19-f5a7-4b7b-b076-111e44c5ae1f",
+		"prefix": "4.2.",
+		"title": "Opkomst van handel en ontstaan van steden.",
+		"vaksubkern_id": "bk:dbaa46fb-fc1f-44da-b508-3d5150f17551",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"18ac02d8-a038-426d-aa3c-32553e45afbb",
+			"5bf9ade2-3b86-4760-a5d7-372321d01f32",
+			"c0c1c46f-57f4-4dbe-805b-591abce8bb42",
+			"4f13e86c-8b3c-4f8e-9095-b7e1f75c627b",
+			"8eea49b3-d243-4dac-875c-7ea423a8928e",
+			"90dd5f94-64c5-4405-bde5-1902b500ae54"
+		]
+	},
+	{
+		"id": "50f5d9de-e64a-4b99-b031-a7907a668073",
+		"prefix": "4.3.",
+		"title": "Opkomst van de stedelijke burgerij en toenemende zelfstandigheid van steden.",
+		"vaksubkern_id": "bk:f6c5cff1-6541-44ec-8d3b-bceae5d78eac",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"37e257b8-63af-43b2-adb2-68f484f8ee22",
+			"d2d65f29-ff11-4a4a-ae30-d9df6b651f0e",
+			"08411380-cc5e-4b0d-924d-263735d9207d",
+			"f9c17165-0cc4-4e0f-97bc-449e99a6f701",
+			"5d65254d-1a0a-4eff-924b-dc15347a7a60",
+			"fdb512fc-60b1-4132-b6c9-d822fc0a3706",
+			"e1a0244a-bd60-47a8-a586-5c3a3398203c",
+			"c72b7445-e950-4b82-8154-bc674e611667",
+			"b8106c42-5971-476e-a30a-268ea9d639ef"
+		]
+	},
+	{
+		"id": "32bf0c87-6773-47db-90c4-bdc6bb572820",
+		"prefix": "4.4.",
+		"title": "Het begin van staatsvorming en centralisatie",
+		"vaksubkern_id": "3086ccce-8e56-49b8-8fd3-f690b290b149",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"1f797682-f3e0-4087-afb0-544932965493",
+			"6d6ddf17-6a20-42ee-a268-ae17cc7536b4",
+			"9ec641e0-4a50-4509-b5e0-8298b94747dd",
+			"e162d8e7-0319-4649-870a-9492326b1e75",
+			"cd49239e-778f-45c9-8680-f7b607b52f21",
+			"6e9db35a-04b0-4223-9fb5-c4459833b5af"
+		]
+	},
+	{
+		"id": "85592851-989e-415c-8933-04c047eff768",
+		"prefix": "5.1",
+		"title": "Veranderend mens- en wereldbeeld in de Renaissance",
+		"vaksubkern_id": "bk:ffdda97c-34bc-484d-b72f-ca01c0f7db92",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"23fc9e9d-2718-4966-8ba2-78da4abc43ab",
+			"487d848e-216c-447c-abef-c6da59b445fd"
+		]
+	},
+	{
+		"id": "f9917e08-256e-4455-8bb9-99a3d1604371",
+		"prefix": "5.2.",
+		"title": "Het begin van de overzeese Europese expansie.",
+		"vaksubkern_id": "745d429f-e766-4e9b-aa52-a71cf2ca53bc",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"dffed34a-c2bd-491c-b0cd-638895d149dc",
+			"4a3dcd06-7e7d-4040-b40f-364e1c884cf2",
+			"8ff2f382-6471-438b-94dd-725933b0ba99",
+			"12f4dd8f-4351-4a3f-9d86-80e6223d2930",
+			"609bb41b-d722-4f75-a202-eea0d4f721f1",
+			"ddb1ec22-16b9-4f48-837d-9c428ad448f1",
+			"18193a33-0e87-4d59-a200-f1ca2cb8f1fe",
+			"0e6e30cf-9482-4692-a770-9e4ea412dce0",
+			"a9f0fb43-a5e2-49be-acec-8224dab16b39",
+			"3633bbce-19d0-47a8-9daf-d13e561f116d",
+			"f7810a6c-050f-4f90-8220-8ae7d3420887",
+			"71df8159-dcc2-42d2-9f74-ea93b17602d8"
+		]
+	},
+	{
+		"id": "336f37f8-6085-4f11-940f-3410fc617650",
+		"prefix": "5.3.",
+		"title": "De Reformatie en de splitsing in de christelijke kerk.",
+		"vaksubkern_id": "7a21e032-64ee-4367-97c5-5c3678c52868",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"0ac55ef2-ff80-4aa2-9093-7d4975f4daee",
+			"8131a98e-66d3-42c1-b3af-eeb3c0a0428a",
+			"41fac834-d5d9-478d-a09a-757b897cd67e",
+			"efa95070-97ed-4a1c-95bd-08181cd4033f",
+			"a75a535b-50d1-41d1-9309-9b622f8fa1dc",
+			"d99479a2-79d4-4799-8e80-aee907c05891",
+			"d52d3099-176c-42ce-866b-56d3f1328990",
+			"2c403ad9-8a96-4a56-82c6-cfca5c8359d1",
+			"26380bb6-39d9-477c-8c70-89658af54dc2",
+			"b08b5150-6733-4464-9092-ee5fa4dad766",
+			"38ec04d7-291f-46e4-a140-54ee563d98ca"
+		]
+	},
+	{
+		"id": "1ffa4bb9-1c59-44db-be6e-5cb0390aa1f6",
+		"prefix": "5.4.",
+		"title": "De Opstand en het ontstaan van een onafhankelijke Nederlandse staat.",
+		"vaksubkern_id": "89d52028-bb51-4e57-9ced-a278c3015437",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"878af3c9-c339-430b-89fd-3e8dbeb4b92c",
+			"e61788b1-b9b7-4879-9809-7d7756192c15",
+			"0d501085-ce90-4324-9d3a-dc4f8756d8cf",
+			"80b7a702-c266-468c-bdb5-e5e5295d93a3",
+			"1a101f4d-528e-4bbb-95bf-5df57a612683",
+			"1877c765-a6dc-4e26-81d3-5fb8e39aa07f"
+		]
+	},
+	{
+		"id": "57132447-baaf-4853-afa0-923eae43ba40",
+		"prefix": "6.1.",
+		"title": "Ontstaan van handelskapitalisme en begin van een wereldeconomie.",
+		"vaksubkern_id": "bk:21f030d0-4cba-414a-8f83-49cc48acd0fc",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"5f86edf7-37da-44d6-8ec3-6957345b213d",
+			"98b479f5-1715-4b46-93fc-671a68ceb5cb",
+			"8fa5e378-21af-411c-8fc1-f1c8c4e1020e",
+			"1616138e-0db6-491a-911f-89607b6175eb",
+			"20e333f6-8144-4206-a708-be23e69bc456",
+			"be27c41c-a9ed-4554-8769-cdfbe4cf8878"
+		]
+	},
+	{
+		"id": "04353bef-0664-4630-8cee-ab48306bdd98",
+		"prefix": "6.2.",
+		"title": "Burgerlijk bestuur en stedelijke cultuur in Nederland.",
+		"vaksubkern_id": "bk:271ad863-7faa-4ce6-b595-9bad3adc356a",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"90c28158-5972-41c0-9e75-7543e330431b",
+			"5842b31b-8ba8-4646-8d4e-4cb711b36af5",
+			"7a30670e-998c-4a80-8742-b8576f0ab20a",
+			"e4c99cbe-2c42-4a69-ae97-7b8db1f6514f",
+			"1637dfac-a322-4d71-a35d-03c845c22eea",
+			"70d7c21f-a3c6-4a0d-bb4b-3a46652d4cff",
+			"ec8c0243-ae98-4681-a970-41ff63cdc3b4",
+			"a3515a06-69aa-4951-ac54-d6656308b0ab",
+			"cc43456c-1923-4993-ad61-a21ebe70ce68",
+			"b0394107-e04c-49e5-87cf-7cfb9f12eb70",
+			"4f9a23c6-c02c-49c0-a4ea-fbbf0d449e7e",
+			"c7152c84-4365-4c9b-9dc0-7942e5e9f4db"
+		]
+	},
+	{
+		"id": "1b93dd1e-074e-428d-96af-00182f5d5b15",
+		"prefix": "6.3.",
+		"title": "Het streven van vorsten naar absolute macht.",
+		"vaksubkern_id": "bk:1b112027-56a4-4e3a-9840-87d2e8fe81dd",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"0a31312e-c0c5-4abd-b049-460bf15a818c",
+			"d625f158-8315-4b9f-8a12-ee1c748d3c23",
+			"fdee9af0-cd5a-416b-b366-b4332004020c",
+			"0fb463a8-7a9c-4f23-9b5a-f058c0e624e6",
+			"6348932c-564f-4a9c-9fe9-4a58f4b87656",
+			"7d3dd5b7-11c2-4dad-b8e1-f2943e759b38"
+		]
+	},
+	{
+		"id": "cbbd7454-a13b-4f6e-b75f-a51853659f26",
+		"prefix": "6.4",
+		"title": "De wetenschappelijke revolutie",
+		"vaksubkern_id": "bk:4b79b2ea-0758-4675-89a1-d218c6fd875f",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"99363a5c-b2ca-44c8-a7c5-9ec0adeeb51d",
+			"d1627671-140c-40bd-acba-411d0ad5b788"
+		]
+	},
+	{
+		"id": "abf41de8-5961-4c89-b18e-22c5310fca70",
+		"prefix": "7.1",
+		"title": "Het denken over staat en maatschappij in de Verlichting",
+		"vaksubkern_id": "bk:9f735059-f426-4be4-b285-d3d4bf5746bd",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"4efdaab0-6f69-4f8f-943f-588a27f4a97c",
+			"64e0ced2-ccba-41b7-bc42-9b957b2911b3"
+		]
+	},
+	{
+		"id": "48f1e7a2-beee-4ba9-9192-957f8d9ad812",
+		"prefix": "7.2.",
+		"title": "Slavenarbeid op plantages en de opkomst van het abolitionisme.",
+		"vaksubkern_id": "bk:465f1c4f-b9aa-404a-9b62-263fd99278ad",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"99afc30e-cdf5-4671-8419-48723d07c3fd",
+			"63fbb91f-a569-45d5-9912-58e4a8f5701d",
+			"0bb475b6-3279-44ba-b949-126c9c409c7e",
+			"4880b97e-df73-47ec-8b55-8dd529ece68d",
+			"c0094ba7-b012-41ee-bd66-7a0f66cd0276",
+			"4a832fee-804a-4210-87e0-dee847bdb560",
+			"ae216bdd-f968-4672-9754-3a76946330b6",
+			"e5ee0e1b-512a-4df7-a93c-47dd2709754a",
+			"0f6134aa-6a63-44d6-a3ad-f7868414d388",
+			"4e2bbe8e-0137-4eff-a0f0-9a29c4eda001",
+			"a9944d22-eea8-4e56-ac84-ec3af22ec9f5",
+			"fc934bbd-c14a-4435-920c-fbe8b3bdeddd"
+		]
+	},
+	{
+		"id": "1725bd51-0223-4c40-821b-c0d19f72ae71",
+		"prefix": "7.3.",
+		"title": "Het streven naar grondrechten en naar politieke invloed van de burgerij in de Franse en Bataafse revolutie.",
+		"vaksubkern_id": "bk:880b10b5-f8df-4582-958b-9507f172fd7a",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"174556f2-14e9-4862-8eaa-d5edb81502f1",
+			"404df0e8-50bc-49a4-a671-d957eaf7957e",
+			"5f6974a6-af84-4415-97e4-212d9f3bcd9c",
+			"31909f9a-74f5-49b1-a8b5-12a6046ace7c",
+			"e058c288-a6d3-4ec8-b3d6-afaeefffc923",
+			"020b5da2-2ce6-479c-a7d7-4b287f6e8d11"
+		]
+	},
+	{
+		"id": "1eb53b0f-41d3-4394-9b0b-cde550e54a52",
+		"prefix": "8.1.",
+		"title": "De industriële revolutie en de opkomst van emancipatiebewegingen.",
+		"vaksubkern_id": "bk:50025e42-21fd-49e2-acab-a069b4b2f7ba",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"bb48825a-f847-4ba0-99ba-2d8d61e820a7",
+			"1bcd429d-4590-4345-9d65-fa3511b0fc95",
+			"06a82e90-6346-4e9a-8604-71a8ff7b58a1",
+			"19045724-c664-4934-a8ae-4b8c264ed7e8",
+			"3e59599f-5b84-4d66-b6a8-1227db9f2244",
+			"76420b9d-d716-44e3-a1bf-b3aa69c58ec7",
+			"106ab6a8-b87b-4661-a349-e55975ac47cb",
+			"1a8f7472-4250-4d0f-916a-ea673407b560",
+			"95d9e047-8686-4a18-954e-db9848f3ff40",
+			"1d19e8b2-f35b-4971-8161-2117cfd0344c",
+			"d33007e6-72fd-4193-ae91-58fcf7acc458",
+			"6f03b465-5e01-4f32-86cc-e9f743c9208d",
+			"82b4b416-1701-4887-b8ca-251ad03367bf",
+			"bbf9fddb-9e31-4c41-8fa6-474996fabb9b"
+		]
+	},
+	{
+		"id": "0d0c3e36-c44b-44b6-9c4d-5c30417f9e60",
+		"prefix": "8.2.",
+		"title": "Ontstaan van een parlementair stelsel en de toename van volksinvloed.",
+		"vaksubkern_id": "bk:e3749772-db6a-461f-ba0c-aac6d1088e9b",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"d46e110c-9c68-4de7-9d5e-e702dbb8c5c6",
+			"3ef9cd1e-3c4a-4648-a38a-79bacf3e3763",
+			"5008dbfa-78e2-4b9e-9b18-cf9384fcf2a1",
+			"cbfc6395-9367-4dd4-af6b-812263db6c79",
+			"79e74313-b386-4363-8a06-b2033f13f0d7",
+			"7c589ab7-b57b-4d01-b1bd-80af2e7d0b31",
+			"d82865d9-751f-4ac2-9850-97a1dc0e652a",
+			"9f39309c-630c-4159-ba87-f15e95fb8515",
+			"a07ab3f1-5832-45bf-a942-e1e54f7723de",
+			"24f52ff2-c4c9-4853-a114-ec5e82ddf61d",
+			"80cbbb8b-02b4-4777-b8fe-a0e249b986e6",
+			"120a2b60-9651-453f-80bb-1b2d54ec1bde"
+		]
+	},
+	{
+		"id": "b6b8aa2c-61a9-493a-aeb8-815299e4c7b3",
+		"prefix": "8.3",
+		"title": "De politiek- maatschappelijke stromingen nationalisme, liberalisme en socialisme",
+		"vaksubkern_id": "bk:5b0d2938-46df-461d-be93-fdc67ba9721e",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"57618452-6f2f-4b91-98dc-a0e4f193609b",
+			"aaf059fb-2108-479a-806c-9d31ef7ed19b",
+			"595fb867-1b24-4bdb-b1e3-13314479dd9d",
+			"0778edd1-f1ae-4403-ad2b-81d67b36fdf7"
+		]
+	},
+	{
+		"id": "fbad469f-524b-43fd-aa2b-9f65f8090c92",
+		"prefix": "8.4.",
+		"title": "Het moderne imperialisme.",
+		"vaksubkern_id": "bk:572b4817-8631-4956-9388-bc95d04f02f5",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"d7ccc983-40c5-486f-a878-a322f8818f76",
+			"99a68006-b522-4f15-8acc-fef2cbc7ca0d",
+			"ff07fb11-4a9b-49f2-821b-6ef2c816392a",
+			"1daa1a02-71c5-4da5-8c12-aed9800026c0",
+			"3d0481a3-7b08-4397-bb31-3e5c07553bc6",
+			"3d73037f-61e4-4739-bb6a-4a1fa6bc3010",
+			"dcc58a8b-be90-469d-8dc0-316b63d05bcd",
+			"aa35ba11-b885-4ed6-b29d-0868802b950c"
+		]
+	},
+	{
+		"id": "dba92f80-3e64-4631-94ce-4c094502f896",
+		"prefix": "9.1",
+		"title": "Het totalitaire karakter van het communistisch politiek systeem.",
+		"vaksubkern_id": "bk:06ba0d6e-1538-44d6-915f-386734041627",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"242fbf5f-465c-4b79-8a6d-c84ad8912d4f",
+			"9e73c0bc-2aa2-4561-9fcc-86891055b09f"
+		]
+	},
+	{
+		"id": "1cb86dc1-0bee-4c27-9349-ee1581cb2954",
+		"prefix": "9.2.",
+		"title": "Het racistisch en totalitair karakter van het nationaalsocialisme.",
+		"vaksubkern_id": "8757b981-587e-4af6-b65a-c8a59ea960d9",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"eb9a3ddb-469b-4015-b4d8-f27915b81d3d",
+			"1959cdb0-ff93-4dd8-b13b-b162535fb2fe",
+			"da32615f-77f1-4e25-96c0-6ad8ad4a3535",
+			"c97d82b4-5e65-466f-903a-a58164c7cbce",
+			"0efef3ff-5503-4896-bb62-c0db81330202",
+			"f7658674-de8a-4599-b40a-9190f4476054",
+			"ea424812-b42b-4280-b3c0-9f5e3aae90d2",
+			"1bf0a401-f3cf-401a-b89e-4b19ed110311",
+			"de02950a-5d99-4746-b23a-731499d44780",
+			"30e52b1d-e9be-4c7b-be43-ee1297003c2b"
+		]
+	},
+	{
+		"id": "ffb05072-4f1a-451b-84c2-96268d101733",
+		"prefix": "9.3.",
+		"title": "De economische wereldcrisis.",
+		"vaksubkern_id": "bk:00cd5b72-9ff1-4395-80b3-d399e8d5deac",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"1d8f7f4b-fb64-4220-acd0-3d5b8c70bd7e",
+			"9040190a-84bd-4720-8b5e-b6c8ce0c04bd",
+			"8975fda3-4d5a-4ed4-958f-c662afe6bcde",
+			"cac98073-f151-4c4b-9e82-f548acd3b6c2",
+			"9f8c5dcd-8488-45d2-a711-4e49d86cc39d",
+			"c71d4ced-c2f5-45f7-aa8b-c3bda2e4662b"
+		]
+	},
+	{
+		"id": "494bbf9e-f309-4959-b0b6-c5150fcce1ba",
+		"prefix": "9.4.",
+		"title": "De Duitse bezetting en de Jodenvervolging.",
+		"vaksubkern_id": "8e39dd40-f57b-4aae-bcd9-792d92a60e57",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"599a8750-6e1b-463d-b27d-8daa0b187aea",
+			"340340e1-93d7-48cb-b15b-86b4afc329aa",
+			"55a79a74-69dc-45ae-8096-2d920a8f37f9",
+			"af99c587-82de-458f-af0f-ea611a1b7f55",
+			"00529d36-f31f-442b-b472-332d3f6c9b5f",
+			"978de0bb-5c84-4da9-880d-7e05284d7eba",
+			"71352d72-896d-40ac-8366-00d337a8a3e4",
+			"25331d81-9671-4a74-9342-78772defd3ba",
+			"39322b47-a9e4-4758-ab60-92b4b87c9ecb",
+			"b767273c-fe9c-4165-b49a-79cb29caee2d",
+			"8e52a882-0392-45dc-9028-77a4cb03baf4",
+			"3ab98b8b-d068-4a2b-9831-e98d7e369520"
+		]
+	},
+	{
+		"id": "09032ca3-4b3e-4d54-b534-526990d1d672",
+		"prefix": "10.1.",
+		"title": "Nationalistische bewegingen in de koloniën en het streven naar onafhankelijkheid",
+		"vaksubkern_id": "af0da0d5-a559-4e1a-9374-9f708ef69777",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"87f9eb74-2652-4b3f-9182-41e1243dcc86",
+			"232e630d-13cd-4e9a-afd7-4f08b8a7357f",
+			"fdde7012-d6fb-4cdf-b027-85bf8f6f53c4",
+			"be7a066a-d3e3-4d12-ab05-7a32048c3e07",
+			"70d4ca8a-16be-4fe0-b5d3-66784a9bec44",
+			"f2dd488b-baf1-4932-ab3f-ef92abe9ff67",
+			"e3b4cd4e-c7c4-49b4-91a1-ea3f2ad9e7d9",
+			"7ffadb20-edb9-4e14-a8db-793b1c86f310",
+			"19969a33-e8ac-47bc-9ff3-91c67dbc4d0e",
+			"a86e22b3-a5f9-450c-838c-26222c2c124b",
+			"9a29ac13-67d4-4486-a0f3-1c469c8255fc",
+			"82a1fa5b-7934-4ebd-924d-d89719942a10",
+			"d57b377d-6b8a-4fe8-8991-519d5e80663b"
+		]
+	},
+	{
+		"id": "aa57104a-222b-4de8-b2b1-ac404ac9a61f",
+		"prefix": "10.2.",
+		"title": "De blokvorming tussen Oost en West en de Koude Oorlog.",
+		"vaksubkern_id": "bk:c307cfd3-b8a8-48c3-a948-2b2ce7323cc0",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"c762563b-7030-434c-a1b9-0ba0887a23ff",
+			"4367131b-a629-4102-8225-c282a8d1ad84",
+			"42863e9c-a607-48b0-9195-e7145427f3dc",
+			"5655f818-4509-453d-a17c-2de68cb5c239",
+			"d07c7c20-dffd-4faa-a2b9-8bef414de96f",
+			"86f9da65-e39b-4b81-b395-bfde102c2409",
+			"85136366-af38-491b-9ae3-e2a2117f1241",
+			"2c98159e-edf7-4972-bbc5-ea0bd78bf178"
+		]
+	},
+	{
+		"id": "43de8a33-9a97-48a0-a6b0-2fff9ca0f975",
+		"prefix": "10.3",
+		"title": "De Europese integratie",
+		"vaksubkern_id": "bk:7ded5e6b-982d-4240-87c3-d7a2ed813568",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"58ddc80b-1a9b-4dda-88ea-180c06dade24",
+			"9a36c305-269d-4134-8614-3a8333676422"
+		]
+	},
+	{
+		"id": "8b3ffc5c-a085-4bfb-afc4-fd11c2ac1aac",
+		"prefix": "10.4.",
+		"title": "Sociaal-culturele veranderingen en toenemende pluriformiteit vanaf de jaren '60.",
+		"vaksubkern_id": "ff5acfbe-95b0-4190-b03c-a4da55faf599",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"e859bc58-8059-47a2-a9e8-bb8c3694afb8",
+			"ced871e9-8dfb-4dc4-8552-265d6f54205b",
+			"5201aa99-c6e0-457b-b3d1-acff315e347b",
+			"98652a8a-b183-445f-a1c8-9918dc2e8710",
+			"3855415a-b4f6-488f-98ce-518f2d616dd1",
+			"24e38b96-a50f-479d-ac9c-bfcb7fb0ca13",
+			"5ed38be0-f50d-40fc-a76b-ba2df8b254e2",
+			"7c0f5c43-cefa-4901-9dc4-f394ce59956a",
+			"f5d98961-9a95-4a65-9282-e3b97ff19116",
+			"0750b499-eedc-4ca5-bc6e-f63b618b9c1a",
+			"1bd1e683-5734-419a-8c3b-ef8db0b115a8",
+			"6fb8ce6e-35b5-4c1e-b3f4-040b56a6f1c4"
+		]
+	},
+	{
+		"id": "dd515a47-c600-48f0-9a69-a3801e6e7e6c",
+		"prefix": "3.4",
+		"title": "De verhouding tussen heer en vazal",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"9f923889-2357-4683-a99c-6ae837808024"
+		]
+	},
+	{
+		"id": "0b0ddcc3-34ac-48c1-9791-b41c0930e091",
+		"prefix": "1.1.",
+		"title": "Keuzes maken",
+		"vaksubkern_id": "bk:7d5be12e-d5b5-45f5-84a1-da391b670a9f",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"004da49e-5a62-4b54-8c9a-3fadad303359",
+			"c95dcfc8-1369-473c-b7fa-e08a5ceeb041",
+			"d49389f9-3742-4924-b9af-2b4f396f13d9",
+			"c58ba7a7-c047-4389-8bb3-b68abf8c15ed",
+			"81d20741-7222-4742-84b5-04bf51fa5721",
+			"7332567e-4c4f-4668-90c3-27e5e69e2389"
+		]
+	},
+	{
+		"id": "24d24175-2675-496c-9f32-eecc89a62273",
+		"prefix": "1.2.",
+		"title": "Consumeren",
+		"vaksubkern_id": "bk:e7e7054b-ebdf-4347-8b86-e64dc97d13fa",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"77d2d6ba-d028-455f-a21c-df85dc99cddb",
+			"409c4558-79ac-4308-add4-1bd983f00f7e",
+			"5d21a09e-e254-4d3b-82fc-8f1cc2d6bc11",
+			"02d3d706-5c91-4beb-b321-02fd17205d17",
+			"4df4d414-eb15-4626-b43d-4f174ff3e627",
+			"3e99790f-db68-419a-9145-39f63f843c46"
+		]
+	},
+	{
+		"id": "606498a0-f0a3-4a1f-8aed-325fa1249d5f",
+		"prefix": "2.1.",
+		"title": "Produceren",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"06573bcd-3bec-4477-b119-7fa2be04d869",
+			"83678e11-8c6a-45f3-8410-995faf749951",
+			"63dda107-96a9-4862-9711-deb5f8a1ec02",
+			"f1bedeff-2027-4887-b25c-b0d55f7ed97f",
+			"2177bd35-eda7-4321-a331-9c78adb6028a",
+			"f8d5fddd-3dad-4b93-ad6d-dfa0c3964c87"
+		]
+	},
+	{
+		"id": "d2238a9e-179b-44a9-8245-d35b2eaf32a1",
+		"prefix": "2.2.",
+		"title": "Geld",
+		"vaksubkern_id": "bk:e034c83a-b76c-4615-b5d0-c7d7e3e6657f",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"965078b4-f092-4849-9819-74432455ba7c",
+			"9a7e2828-e018-4fa6-8863-84884ef1b139",
+			"34e06548-4677-40f0-8e74-f98dd451495f",
+			"610d3a5d-5ef1-4015-9866-0dd92003e582",
+			"156f717a-b1e7-4198-93cb-bc5540c0657c",
+			"b38b0bbb-5774-4f09-9d2c-6d6749bdd3a9"
+		]
+	},
+	{
+		"id": "bab76e7e-980b-4a7e-9502-2a049aa2c369",
+		"prefix": "3.1.",
+		"title": "Vraag en aanbod",
+		"vaksubkern_id": "bk:5d6c7164-7b4d-4e95-a3e8-4156e5680f68",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"92421198-b988-45fc-aa37-39297d7b2054",
+			"d4cfac69-219a-4f56-a624-5da4430c97ce",
+			"11f27f44-f230-4111-bccb-8dbe17dccc6f",
+			"0493ace7-e8e7-4e06-9be4-53e9bcc15518",
+			"1de6464c-a553-40b4-bcfe-51cef6e54da5",
+			"ae468e68-e8a6-4dec-a1b4-ee817c7bfe55"
+		]
+	},
+	{
+		"id": "8487c245-6102-4c3d-b125-0c2ed1a1a77b",
+		"prefix": "3.2.",
+		"title": "Productie",
+		"vaksubkern_id": "bk:295d1803-26cf-4986-9885-c09ca6e4d7a3",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": []
+	},
+	{
+		"id": "9b813ed0-0257-4707-8b4d-9aaaa617dbd1",
+		"prefix": "3.3.",
+		"title": "Omzet en winst",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"4506feab-ae39-462d-99b8-29a7e2671fcb",
+			"ae5938c1-7aef-41e4-83d6-727b9d6623d4",
+			"3c5b1420-3db0-4c29-99dc-914776d9445d",
+			"1cf2615d-ad5e-46ce-8d40-4ef816f6feb7",
+			"f76c3297-8754-46d6-9065-b6bf83afd7e7",
+			"b44ed34e-8904-4ae0-9484-6b851c3dbeff"
+		]
+	},
+	{
+		"id": "45bd9960-5676-44ac-93d1-e4e412986d7d",
+		"prefix": "3.4.",
+		"title": "Consumentengedrag",
+		"vaksubkern_id": "bk:95953641-c324-4ad2-8dbf-8752af632a67",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"0f9098b2-1998-40d7-af5d-a149f746574e",
+			"7ec0d945-97d8-4d1e-91b5-928fd7c23309",
+			"c0afd849-622f-4dfe-9ccc-75e7f2a4b674",
+			"4d38db41-f82f-4b1e-9450-d19519cc2bce",
+			"8c6b474a-0f6b-440e-861f-657a2b89f66d",
+			"de9cdb78-aa28-458e-9c50-a7a185995e9a"
+		]
+	},
+	{
+		"id": "b69a0ecf-2c0a-4488-aa28-1f5fc79156ea",
+		"prefix": "4.1.",
+		"title": "Levensloop",
+		"vaksubkern_id": "bk:50f64e0e-b09a-4526-835f-c47178712221",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"9212331d-4dfb-43d1-830d-27928c157407",
+			"56cdfa4a-5246-4b4b-a373-4d9a3c17ad7f",
+			"7ffad986-fb00-4495-ac46-1934895708c8",
+			"ef8c56ac-dd43-4f90-8a8d-700148803311",
+			"74a09615-102a-4130-a64e-730183e1ce5e",
+			"532920cf-dec6-4168-a378-dd7d4d64d812"
+		]
+	},
+	{
+		"id": "5e21dcfb-6a8c-4093-a467-9f6e155b6fb3",
+		"prefix": "4.2.",
+		"title": "Geld",
+		"vaksubkern_id": "bk:e034c83a-b76c-4615-b5d0-c7d7e3e6657f",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"59a80419-23df-4fa9-bb09-2ea08c3a9e3f",
+			"9a429271-7a3d-4e81-a222-dfe3177dc0cd",
+			"3883b6ad-6dbe-492b-95c8-0a47e1899652",
+			"373b4c65-bf02-4a70-b9e0-cf99fe4c27ee",
+			"c617bd20-baba-4692-a725-1f507ea2e319",
+			"2821a47f-a09c-4b82-accd-381925843730"
+		]
+	},
+	{
+		"id": "57d8b7db-8468-4b10-ae75-2ad588678b72",
+		"prefix": "4.3.",
+		"title": "Gezinnen ruilen over de tijd",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"332320a5-e561-452d-844b-76a442092eb1",
+			"259a9a92-34c9-4139-8957-3bc5a8ea56ac",
+			"46d6ad11-c1b0-4726-9250-9462cddcbd9b",
+			"2645f4d4-4e38-499d-ad7f-ac4137345262",
+			"1c06b325-8c83-46a6-9ac2-36c95788875d",
+			"bd4a24a1-f192-4074-be3a-65dc0e213085"
+		]
+	},
+	{
+		"id": "eb8724d2-d2e8-4a0e-9adb-cf50d4ac3d61",
+		"prefix": "5.1.",
+		"title": "De overheid",
+		"vaksubkern_id": "bk:f8e7f5c0-f57d-403b-a5da-e431fb94ddc0",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": []
+	},
+	{
+		"id": "9b278b03-f72a-4fa3-8ad9-a246515574f2",
+		"prefix": "5.2.",
+		"title": "Samenwerken",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"393a139d-7392-47a3-9241-90a0450c9881",
+			"8b7627d5-638d-4d0b-8d8e-2c1860842815",
+			"a1740400-1711-4d90-ba06-964e30739836",
+			"f1688138-e346-4a14-a550-f116b63cdff3",
+			"f21349e7-9528-4671-83dd-ae5edc18eac0",
+			"a67f8b87-47c3-4ada-a4e6-e6fdc55c3399"
+		]
+	},
+	{
+		"id": "3aa52821-f0ca-430c-924f-f9dcb0d9d04b",
+		"prefix": "6.1.",
+		"title": "Risico en verzekeren",
+		"vaksubkern_id": "bk:e39cd700-a634-49ca-a935-3b3a3669d11d",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": []
+	},
+	{
+		"id": "762b3692-cceb-4a3c-8703-d6799d5d95e4",
+		"prefix": "6.2.",
+		"title": "Moral hazard",
+		"vaksubkern_id": "bk:f7db0448-f313-438b-88fd-b4a53ca5e0a4",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"f09dd180-337c-4ee4-ba92-badba656ea23",
+			"0d67e5f6-e5e6-4550-8fff-1d72573bec51",
+			"85aeaf39-b8ef-4d41-a194-f7db67f799a4",
+			"083b5ec0-5d39-459e-921c-8b54553ad518",
+			"4de9d957-7458-4c86-a3b7-39f19dc398c1",
+			"295e8938-b438-4760-9f44-a1f75691a6a9"
+		]
+	},
+	{
+		"id": "d48ed4f9-9f71-4f43-b03f-acba0cfffa9f",
+		"prefix": "6.3.",
+		"title": "Risico en beleggen",
+		"vaksubkern_id": "bk:17883a18-e3fa-4a17-b6e7-469b24b28d9e",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"822cb9b3-0d16-4d35-9b23-68cae7718139",
+			"04845967-8f22-47d3-9baf-9df9fe54ad85",
+			"43b23a3c-68c3-4086-b63f-be6bc009d577",
+			"d84d03ae-727d-41b6-8e4d-8a49aa08e649",
+			"82387742-7bb9-4f69-9121-228c0af5d5a8",
+			"23c46e08-b81b-4836-be04-0b87263b131d"
+		]
+	},
+	{
+		"id": "1a3a026f-5078-4f2c-b130-d7aa303e2786",
+		"prefix": "7.1.",
+		"title": "Ontwikkelingsgebieden",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"bd594f93-8d85-465d-a406-d0173ae7bf39",
+			"aa50c2f0-35c1-4f8d-9eb1-0c1c27d7640f",
+			"60b5e429-058d-4267-9792-0745e851bdcd",
+			"c548dbaa-2467-4e9b-b857-e0a7368c3db1",
+			"624b2035-e81d-4015-8462-1b009be29c8d",
+			"7c09fecf-7c11-46d7-a993-504fa45c6a1d",
+			"887d71db-1b10-439d-9ddf-c966cb82ef12"
+		]
+	},
+	{
+		"id": "36cd077d-a781-4183-b15c-4547a77a026e",
+		"prefix": "7.2.",
+		"title": "Belastingen",
+		"vaksubkern_id": "bk:4f8ac273-c995-4ee8-8b15-1ea6f674f0b1",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"68b11946-344e-4fba-a0a2-40ead35ab44f",
+			"f37a527b-60e5-4fe8-afea-59827fe48f68",
+			"a7e6308b-e4c6-49b8-a0d0-4064e1a2b3d4",
+			"a011b8a5-a969-4e85-8498-9e29de1d4a3d",
+			"f7e5fb7d-85f1-464c-9542-351d67d8e7a9",
+			"272c1373-81a3-465c-a823-7ed14864c97c"
+		]
+	},
+	{
+		"id": "ae7de4ae-2c93-40fa-be43-3ab813cff7fa",
+		"prefix": "7.3.",
+		"title": "Economische groei",
+		"vaksubkern_id": "bk:cc1082bb-66ac-4c8c-a5c4-8c19f1717ec5",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"f054944d-7dc7-446d-9ba2-5dd23cee55c2",
+			"ffcea6de-c844-459d-bf73-bc6e85f20d55",
+			"dd9ce975-61fe-45ff-b502-166e90fd9eda",
+			"9ee71043-fdb5-4fd5-84f0-0db02e382e8a",
+			"137a8dcb-a9cd-4931-b954-e355321fd369",
+			"f10de688-7403-46c0-b9cc-746b18746f8c"
+		]
+	},
+	{
+		"id": "7ca6066d-277d-4831-acdf-485a4c24171a",
+		"prefix": "7.4.",
+		"title": "Europa",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"b2934670-4d3c-49da-a7da-06c951be77dd",
+			"dbd9b054-27b2-4306-bfdb-8d8777ead4b6",
+			"ba412d1e-0a22-41ff-b197-9defe18f75e4",
+			"d7aa9324-ab5e-4cf8-9aaa-e61fef34bf06",
+			"dcb101b9-9f0c-4fec-b754-00871d1a1b65"
+		]
+	},
+	{
+		"id": "4f1d460a-29ad-434a-82c2-90ecab0cf53f",
+		"prefix": "8.1.",
+		"title": "Werkloosheid",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"0d116ba0-36cd-4c3a-aac6-3a9c92499333",
+			"23dcc302-ec40-4fca-a38f-6412949250db",
+			"57c51bc7-7dda-48ee-a455-b53aa8e5b390",
+			"04c490d6-2d88-47d7-aa92-5d8ba7230591",
+			"e31ec32c-8f42-4a58-8a8f-e8d01b7ec7d1",
+			"e791a29f-24d9-420f-ac0d-a9ec5e2b7b50",
+			"123afae7-faf1-4f5f-a878-d9e85c4994f3"
+		]
+	},
+	{
+		"id": "750577c8-6e69-4c7b-9067-cdc2e543f6cc",
+		"prefix": "8.2.",
+		"title": "Wisselkoers",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"0f99eb80-74d9-46f6-859c-df68db5ab24e",
+			"851bca94-0692-4142-a5c7-31a00a1520d7",
+			"cf685d51-8f82-4997-834b-0a843a7a6073",
+			"6b2ffcb5-ab73-4c23-9847-c4c344ab39ac",
+			"744e343c-ac76-4e8a-b1d5-56be592fb9b2"
+		]
+	},
+	{
+		"id": "f7fcf498-3a9e-42b5-a9e8-96c1420fbf49",
+		"prefix": "8.3.",
+		"title": "Conjuncturele verschijnselen",
+		"vaksubkern_id": "bk:bac01fca-6b7b-4999-ba82-65a8f82a60d6",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": []
+	},
+	{
+		"id": "0304c6f6-1dbe-4bbc-88d4-bc81ebe1714f",
+		"prefix": "6.4.",
+		"title": "Ondernemingsvormen",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"a2a2738e-691c-430c-afcc-02bf06473d8e",
+			"0b995b33-bc8b-4064-8b91-f5cf2645b3f5",
+			"92f40bbc-2d5d-41d8-9b30-f6f2c40602e4",
+			"c20d0aaf-198c-475d-91a4-bfc5e484863a",
+			"2cdf2cc7-639a-4a8e-9230-bd207b03564e"
+		]
+	},
+	{
+		"id": "63669d55-7f04-41b1-b72c-cee85348fee5",
+		"prefix": "3.2.",
+		"title": "Productie\t(en consumptie)",
+		"vaksubkern_id": "bk:295d1803-26cf-4986-9885-c09ca6e4d7a3",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": []
+	},
+	{
+		"id": "843cf057-7d44-473c-a0a8-e1634507a3dc",
+		"prefix": "5.1.",
+		"title": "De overheid\t(rol van de overheid)",
+		"vaksubkern_id": "bk:f8e7f5c0-f57d-403b-a5da-e431fb94ddc0",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": []
+	},
+	{
+		"id": "8bb1f6bd-ae65-4f91-a448-b163da59a928",
+		"prefix": "6.1.",
+		"title": "Risico en verzekeren\t(Verzekeren)",
+		"vaksubkern_id": "bk:e39cd700-a634-49ca-a935-3b3a3669d11d",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"82cba25d-4e5a-4e26-8c43-7adb233fd193",
+			"75ceb71a-026d-496f-b45a-a849f3826b45",
+			"32c047c4-a5a2-4142-b2a6-62ae4ce3590b",
+			"b7efa09b-f05a-4a3f-9069-756543905dec",
+			"36c69f8b-8a5a-4871-bf6a-04b6da09e4fc",
+			"ae2228c1-fc2d-4c0b-afa1-5c697a759968"
+		]
+	},
+	{
+		"id": "e95e268e-21ee-440b-ba40-195c9a952eb8",
+		"prefix": "8.3.",
+		"title": "Conjuncturele verschijnselen\t(conjunctuur)",
+		"vaksubkern_id": "bk:bac01fca-6b7b-4999-ba82-65a8f82a60d6",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"f1fc065f-1878-4c48-b430-b78e85d2d12b",
+			"c8749157-9782-4df5-9fc3-93abdf0605ac",
+			"9423dfef-151e-4482-b9dd-83a0d1f884eb",
+			"e1beb198-06b9-4853-8373-3951a4781a13",
+			"cbdb8bd5-efe9-4368-ba87-2d3473a11ed8",
+			"80f07155-51d8-4fce-8bef-9fc0570ebfdb"
+		]
+	},
+	{
+		"id": "95d11d68-0e69-4ba2-993b-7bb33880d199",
+		"prefix": "3.2.",
+		"title": "Productie (en consumptie)",
+		"vaksubkern_id": "bk:295d1803-26cf-4986-9885-c09ca6e4d7a3",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"71ae8ba9-47bb-4628-affa-bb125b736314",
+			"59443e70-cc0f-439f-bd2c-641e16b22ab3",
+			"bb702f78-e2fc-486c-afde-f7f56f897e96",
+			"3741691d-4ff5-4f08-bdb8-02fd1f446ac8",
+			"4a159050-c5a3-4b9f-8497-cb945a49ec1d",
+			"a0bcc5ab-e4db-468b-83e8-885de395c39e"
+		]
+	},
+	{
+		"id": "d53b9b75-7e3b-4d73-9e95-495802a33c4f",
+		"prefix": "5.1.",
+		"title": "De overheid\t(Rol van de overheid)",
+		"vaksubkern_id": "bk:f8e7f5c0-f57d-403b-a5da-e431fb94ddc0",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"a7886ed2-5db6-4dcb-97ab-391f7f50dcc1",
+			"af752c38-cc98-46f9-bc4d-8b03863b891a",
+			"0b47bb1b-0e56-443f-bfcf-68dcbfcfd167",
+			"34975edb-a383-4351-9ac7-acd9c5b47fef",
+			"8ef1650d-26a2-485e-9184-6d2425276fd9",
+			"e4ea8c17-45ff-4239-bf58-0004eda9b14e"
+		]
+	},
+	{
+		"id": "3a6943b9-ac8d-4a78-ae22-f9f2de2b26fe",
+		"prefix": "1.1",
+		"title": "Levenskenmerk",
+		"vaksubkern_id": "bec99ef1-c4b7-46e7-a25d-71410876dc42",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"d0b8256a-beb7-4fe4-a6e2-4ec511a9f1b4",
+			"53b71024-4977-49f2-8128-ebc9c9a9bd7e",
+			"894c05fd-b28d-4157-b6e3-0f04b0e7b504",
+			"3ac8d83b-141a-4c8c-89ab-335247139c4c",
+			"78e692a8-099f-4578-91c9-a845e44a9638",
+			"f690a003-590e-4e63-ac61-1eb26703e3b3",
+			"6c155943-a755-4108-8b58-10ed32a4e4ef",
+			"37d88238-245d-40d9-8d85-87a9f18b290b",
+			"831ae6b0-4b97-41b6-92a0-5a8eac4bb19f",
+			"9e2dd900-35fe-4a06-8e15-a041bddb4ba6",
+			"b72b0e95-37af-44e2-9442-e98962ba4536",
+			"637bcf7e-d2b5-407d-aafb-f79804399f26"
+		]
+	},
+	{
+		"id": "5d47966d-3f7b-4dcb-8b8b-01c022d49d7d",
+		"prefix": "1.2",
+		"title": "Cel",
+		"vaksubkern_id": "bk:a2e1ab26-78b1-461b-adcc-5ce47c4b8b11",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"dca64deb-88d5-4b0e-be29-7d6e4cad8a48",
+			"995e4fe9-983d-4d12-b23c-467d4eef8bd6",
+			"0ed64282-a510-45d6-896e-211a98b3e7d2",
+			"d8bab3f8-06d6-416c-8d7c-a0a06e459338",
+			"2ab34617-1c90-4764-8c5c-5c22e228dbf2",
+			"765aec41-9316-4920-9ef4-267cf61c2642",
+			"5d8f55a8-833e-41ee-9f26-08eea4283f19",
+			"e7cc46cc-1899-4ccc-803d-43536859548a",
+			"36f9c3b6-712e-4e9f-9e4d-e9efddf78498",
+			"b8811700-fec2-48e5-b782-bab9683706f3",
+			"708eb148-caf6-44a9-af1b-c20bb5f353c3",
+			"8f60e9be-67c0-47fc-8d97-7a750ed3ac9a",
+			"f8f10b52-8509-4aab-be37-5fe06cc128d0",
+			"ae7e0d29-3d5b-4a65-8bc5-a261fb32baec",
+			"0ed7803a-6005-4e47-9365-35a42c7cc16d",
+			"48ab614d-8fe4-4222-8166-97e1179025d8",
+			"76b6fda6-3dcc-43b1-8ab8-9025c73650b9",
+			"8c04c7ba-7962-4c34-b0d9-8be559325aae",
+			"fe619031-2211-41a8-a706-f52909c3f27c",
+			"e21633f8-a620-4c79-b03b-6c63cbc60382",
+			"fe2cac1f-6daf-4bca-acf3-188b8963ad77",
+			"6b61f547-9ee4-4d5a-a7e9-f8582f73fb48",
+			"aa3a7722-1640-4736-8311-24d38b1ba568",
+			"95a48f67-fb7c-4ad7-9596-7b680538e8cc",
+			"dd4d82e5-b1c5-4166-b7b0-3d7ceabfcb09",
+			"2d74f7b1-5731-4095-99b0-ebd2390e968b",
+			"e1b3512a-18ce-4170-a455-e97b8289adbf",
+			"ffaac112-ac75-4fa2-9b34-cd47f3307c71"
+		]
+	},
+	{
+		"id": "1ebc9066-4ea8-4b55-b140-c847b28f7e1a",
+		"prefix": "1.3",
+		"title": "Weefsel en orgaan",
+		"vaksubkern_id": "bk:6482bc6b-17dc-412b-b65e-7d10234c3171",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": []
+	},
+	{
+		"id": "f30fe5b9-5d68-44f2-a9c2-6460e3ea21e9",
+		"prefix": "1.4",
+		"title": "Organisme",
+		"vaksubkern_id": "bk:388f9f9c-3cdb-4cf1-ae3d-ff9e25d8c401",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"57b0b37f-18bb-40d9-9329-5c7cba815f46",
+			"1d5a9b7c-b330-4a91-990d-c66d6bbdfae3",
+			"897219e9-0f62-4f5a-97e7-57c55e71e5e3",
+			"d8726f8d-1656-42eb-8ee1-78e627876cbf",
+			"c1ced66b-0b3b-4ddc-aefc-8fd4c6d4e7aa",
+			"e3c7da46-a038-435b-b672-5112a5217680",
+			"dec1ea1e-a50a-491c-8a1b-2e16eff624a4",
+			"c826648e-c7f7-4b3b-b25b-3387742048f6",
+			"e92cda3c-a71d-4b44-a8e6-6aeeba3188b9",
+			"e9ff5fba-f3b3-4fb5-a8ba-17c42e4082ea",
+			"7b472d26-5738-4f4a-a254-101c52ae0c9e",
+			"45af279b-b455-4a7e-9743-38370f719d4c",
+			"42271f58-807e-4213-9b79-88b079c6d0ef",
+			"1dfe3894-51d9-4d89-aac1-a92d004b8249",
+			"dd6593d0-d9f9-44ec-bacd-017ab8854dcd",
+			"f015834b-9e50-4511-90ed-d12d8c947d3f",
+			"d8701062-16c4-413b-aa5c-546f704683f7",
+			"c16836cc-9574-4a91-8c0c-1f5e9b8b6da1",
+			"5bdbe0e5-23a3-40f7-bccb-e260fb6ec90c",
+			"aaf35c95-0a43-4bb4-acf6-b841078d1182",
+			"b5ee2d17-ebb7-4d13-b434-7fe6db74fc74",
+			"fa6ce8b3-279f-4505-85c2-ceed24dce5ed",
+			"d8554c90-8426-4b49-be41-40953363db00",
+			"c4b6c674-9fbe-4bc5-8e96-6f481122b20d",
+			"46b38570-44d0-4a8f-9dad-bb31ab3b90b8",
+			"bfbe0ef2-f37f-4433-aa77-6520861ccedf"
+		]
+	},
+	{
+		"id": "28ce87d7-0fc3-4293-ae72-e1bdd8550e81",
+		"prefix": "2.1",
+		"title": "Celstofwisseling",
+		"vaksubkern_id": "bk:7851c4fa-8b9f-427c-802b-0f704347797e",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"f0684e32-ebcc-4619-96c7-071ac1c5bad7",
+			"03df71ad-4c22-446a-8113-0b1a4884f673",
+			"6684cc7d-836e-470e-bbd7-701dc34abbc1",
+			"b3a4b5b6-d63a-40a4-8f7a-e17b002436e4",
+			"e89ab28f-2a9b-4e0a-b987-0815568a56a3",
+			"d77cff4b-b907-4524-9cba-9a8e98cb9cec",
+			"c3152a69-7550-4b46-8018-c9b6a5225a9b",
+			"0f16555e-f314-4477-aebd-ce541c2704be",
+			"c3a903fe-7147-4831-ae0d-8e7270e36ea8",
+			"2d9e5ff9-afc5-496e-b253-79a143245de9",
+			"c2db9a52-f5b8-4bd0-90fd-dcece647f356",
+			"5b0e11cc-418a-47bf-8e29-e9135a3b053e"
+		]
+	},
+	{
+		"id": "dc96c8c4-0f3e-4fb7-984a-bc462b46e5c7",
+		"prefix": "2.2",
+		"title": "Stofwisseling van het organisme",
+		"vaksubkern_id": "bk:85874c88-3986-4dc2-a8d2-e30e620553f5",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"be754a11-0b7a-4c99-bc3b-944db5eac19d",
+			"daaf1a2d-e015-464a-87ad-99d15e0620b3",
+			"5967c5af-45c6-4f6b-b96d-2f32d587d563",
+			"5c2f8964-06ed-41bd-bceb-cdfb7be37ef7",
+			"d6c255fd-d0a5-4972-b7c5-9e6dd60c5e39",
+			"c1babe5d-8ab2-4a80-9bbe-0afca5c01b47",
+			"e8f851d2-3c26-4cfc-a492-90721f1c1b92",
+			"ef01e549-230b-42e6-ae76-68e574aa09a3",
+			"b4614564-afe3-43d6-81e8-89d769235d10",
+			"f4bd89b8-e607-4f3f-961f-aa00bab53b71",
+			"98773552-093b-43a8-9d39-d9e178c88f34",
+			"e02a1722-80b2-404b-8001-a858597355ad",
+			"5a985ee5-5f50-4f2d-aeab-e7d02a679668",
+			"6847c22b-67ab-4e22-910c-5446188bbc43",
+			"7d0f0e22-9154-4cc8-8f2b-5073764f2854",
+			"10db4349-186c-4407-ad32-7d2382bf70a4",
+			"7f46da6d-b99e-4b32-95d8-d5e8b9c5cdf4",
+			"a1f138e2-597a-4868-b3eb-c4cf15b4fed6",
+			"dd1a5719-64b0-4e43-983f-84b4b3c72a80",
+			"b64d1d7f-2d6c-4acc-91e8-6b8318f986e6",
+			"5619a64b-b287-4719-bbf7-f82cba52f595",
+			"499da91a-3726-4901-9778-16decdc46676",
+			"1cbb1695-02e4-458d-baa9-2eacae24a731",
+			"9deddbda-b7ea-4080-a778-f5acb6cb3684",
+			"e7b706fb-9234-4131-9758-4c5fe917184e",
+			"ed1fb7e4-1ca9-406a-aa2f-d7b7a59c8da8",
+			"d17acf02-117f-4654-9a02-9bd2faebfdea",
+			"db13f9ae-7984-4153-9adb-cd741cd96e0d",
+			"a0944b6c-48be-41d5-96ab-be39f52010d0",
+			"7cc53273-196e-401e-b1de-4ce324e236fa",
+			"f3680eb0-fa0a-4e63-b50d-5a0542ec518a",
+			"c41726ac-9b63-439e-bdd8-128827a033fa",
+			"b3ac7bf6-12f3-4f01-9ecd-59d5a408d08f",
+			"bc52e9f3-6841-4363-834f-9f82d92b80a7",
+			"f0cddfe6-2331-4266-9970-94d1522511fd",
+			"de2668cf-5289-487b-a890-4683bf142d56",
+			"b81f83f0-491e-4a98-a8ac-e9a370830c33",
+			"5d5c2ced-5b7e-4aff-a2e1-dbee482575c8",
+			"634c4494-502f-483e-9d29-d5168f362cc0",
+			"718fb04b-7603-4ee2-90a5-3e7c779d54f7",
+			"a97645ac-4328-4f9b-b00c-234747595e52",
+			"9f09d0d7-37a8-4f17-848a-115d8787be69"
+		]
+	},
+	{
+		"id": "02da9a67-68f9-4510-8ef9-4e05a842d42a",
+		"prefix": "2.4",
+		"title": "Regeling",
+		"vaksubkern_id": "bk:d2d02220-c4f7-4a24-aa8d-444497525b59",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"bb492414-8827-44a8-a74e-72685f9d13b8",
+			"aa132dbb-7425-448a-97b1-2c5b3aa17194",
+			"e440effc-61bf-4515-b9d3-1ecb78da85e7",
+			"95b3f4fe-864b-46b7-9145-ce303a5f9dde",
+			"a5796d9a-ae68-452f-8d7a-fc6809e2101b",
+			"ebb45b79-9a69-45d7-b0a1-8e8366d14991",
+			"488c1f89-359a-453d-b804-4fda70eafb81",
+			"a7578825-21ed-4b38-9ee3-937d7f3bf2fa"
+		]
+	},
+	{
+		"id": "29136770-b742-4e83-8505-35c1c55e277c",
+		"prefix": "2.6",
+		"title": "Gezondheid",
+		"vaksubkern_id": "bk:83d7e057-877a-4ea5-a145-d4424aae3248",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"38ef4589-6210-4e8b-aae7-fa66adab3df7",
+			"d1c6762c-1845-450d-93d9-78db4ae7d000",
+			"276a2a85-3657-43b5-8b59-f4319d2f61d0",
+			"184e5ddf-1164-47db-810b-5c53d5f025de",
+			"d0fcc43e-17dd-478c-8020-0f5ae41ca54e",
+			"adee6077-d7fc-47be-a4d1-7c62f6b79c9e",
+			"91b32be6-b0f3-497f-9705-80a48d1a44b4",
+			"5c554f39-5e0d-4523-a918-b801375dcf70",
+			"cffb3f55-1f84-4bcd-bd0c-501eff0bb59d",
+			"c00878b2-d84b-4a98-a9eb-011572ee87da",
+			"509756d0-eefc-4b2a-bae6-d89bb756af54",
+			"ce16f7d3-07e7-48d7-a0ef-bc3d8015dfa9",
+			"ca53cd4b-765c-4b2c-828c-c4929b7c2e14",
+			"00c64347-4870-469b-933a-56f0fc229dad",
+			"3e9ddfdf-5142-4af9-91f8-ae04a24718d1",
+			"3a378dc0-54a4-4f6f-918a-96e5a1d5bdd2",
+			"93df2151-c5d4-4cd6-bbad-554711569e13",
+			"38faadb5-bde6-4190-8878-0cba660c8628",
+			"f9168fc1-86eb-49eb-bdbd-f9ed00d9e425",
+			"0eb7947e-211a-4772-b70f-9590033473aa",
+			"f10244c0-cb7c-4b9d-85fe-260c1fe19c92",
+			"e90126a3-c042-41bb-9755-aeb105f9acbd",
+			"1c66dc0b-9c43-4302-ae5c-2debce222440",
+			"8f000ba4-621f-4971-accb-514116015b1f",
+			"f2bd22ac-e2df-434f-98f4-45614189c57b",
+			"7372ba29-fb55-4aff-aecd-929e86e72fdc",
+			"6b083f8f-4b2c-42f5-a833-cf6f7e5ae007",
+			"a6b4c7f0-9826-4a8f-bfe9-6d13c61a4f14",
+			"e1987bf8-992f-4b8a-85c0-a964d69403e6",
+			"186043d3-9791-4893-b03e-30decbd2dceb"
+		]
+	},
+	{
+		"id": "e66c7078-61a7-45b1-b0e4-e53c010f1755",
+		"prefix": "3.1",
+		"title": "Waarneming",
+		"vaksubkern_id": "bk:70c1728c-51e0-4149-bc96-f2825a7c9a76",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"48aab28a-d4f9-43b6-af74-59d0e38b208c",
+			"48035b6a-2c8d-4ec0-9791-0c022a9dc283",
+			"72baf815-e996-4b83-9903-acf621bd845a",
+			"e79ae605-fa10-4be5-b57a-472ab5d83199",
+			"e5f675bc-281b-4976-b36d-6a939206cda7",
+			"0a7f55f5-6674-4fc8-a37a-daa7e0ed7159",
+			"33eaa774-e955-4626-85f4-7d3b110f5ca4",
+			"5dd5276b-53cf-4925-a2d4-7c732102cf03",
+			"d8c2bce8-cc70-48ba-be74-1092027cb5c0",
+			"6896c113-2c31-4827-9cff-d1e0bcdb9751",
+			"d49d4932-e0f7-423b-8bdb-b38a8feb4acd",
+			"bbb81d36-be0a-4113-b628-d172e8711f48",
+			"719434c4-e18c-42e5-9fdf-cdb818e44f9e",
+			"efdeb7d3-179d-4d00-be74-e19a84a6f5c0",
+			"64a1886d-54ea-4a06-8dc0-a9fa7aa8453b",
+			"560350ae-c334-4535-a126-4260d2ef9e72",
+			"a8e2db56-e7ba-46c0-bbc8-1a04d7503d26",
+			"8c3f2428-7485-44bb-83d3-3135ae36a32d",
+			"5483981e-f8ad-4b11-b5ff-d0741f1f6877",
+			"d1d92d7b-8b2b-412e-89df-08382708b3bd"
+		]
+	},
+	{
+		"id": "6cad0a15-0ef6-47d6-a379-d927d61fc991",
+		"prefix": "3.2",
+		"title": "Beweging",
+		"vaksubkern_id": "bk:0d4fc01a-2bb9-4b63-9302-b4e6066bfc4b",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"6577e016-f083-4328-8009-263284a51036",
+			"fc44ce1d-71d9-40b1-bf24-d2504e0017ad",
+			"12f99e2d-5a7c-4887-9977-646a1a3edc34",
+			"d7613f0f-c0e2-4c31-9db7-64b330812a65",
+			"4e3461a6-975e-4acd-a241-b6861a69d5ee",
+			"0e38335c-4933-489c-bab1-44af15db2481",
+			"fb740cdc-b5e0-4ea3-ae25-40b2a13692e1",
+			"1306ebe3-caaa-4953-809b-47360a8f0ad8",
+			"75ed2ac7-ce7f-4bb5-83eb-5c5286331ade",
+			"5ee0620f-92f1-4e2f-b789-dcb911e63d97",
+			"a78133d0-5b7a-40bb-989c-d083aa5fdbfa",
+			"7dada0d9-5119-4486-b16d-c021f2f86122",
+			"8fcb3841-1f24-4424-8780-07a7bd2f9132",
+			"781b7426-cebc-4ca9-bd30-824128b7fb9d",
+			"ba6af612-4e29-4ebd-a4fd-65301c91070f",
+			"884c2d7c-1840-4781-8634-9ad3d035c467",
+			"e32500dd-14bc-4370-87fc-7a803c00864f",
+			"4a8451eb-9243-4f3c-851d-1aeb075cc036",
+			"9ff595eb-ffc4-477f-8c33-7a01e0c46190",
+			"c679af17-a695-4a24-a9ef-fa5fb821bfc2"
+		]
+	},
+	{
+		"id": "ae677060-d8f0-43ea-85d4-5ad68047c57a",
+		"prefix": "3.3",
+		"title": "Gedrag",
+		"vaksubkern_id": "bk:121c66b0-a0cc-49f2-9272-f0371ac4c4c5",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"d3b5da37-0eea-4c3a-a0c1-dacf88ef8243",
+			"605df274-a13e-45cf-9e63-53f06a32799a",
+			"0ca55a83-cfee-4788-b407-da5d264853bf",
+			"924c401e-ddbb-4a3c-b57c-67aaac6599d0",
+			"effc1fe6-2285-45d8-9572-fcef17920f7e",
+			"ad485db4-67bc-45ba-ac10-b44fc371cb87",
+			"b3f1cdce-a573-4ce3-be31-88df1979f1cd",
+			"13ceeaff-b023-4bab-972b-30d41537f079",
+			"7854db06-447c-4c61-b70a-1b37ce68593c",
+			"06056173-9c68-44bc-83b2-ea8ec2122d7b",
+			"d9f4f0de-7332-4952-98e6-141eeed85723"
+		]
+	},
+	{
+		"id": "c8b35d7d-e87b-4a24-968e-042f669303f0",
+		"prefix": "4.1",
+		"title": "Celdeling",
+		"vaksubkern_id": "bk:c7576661-a722-4c71-b9b2-ae33d14bca92",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": []
+	},
+	{
+		"id": "551bff81-9ad7-49e0-bfff-f10362d622c4",
+		"prefix": "4.2",
+		"title": "Levenscyclus",
+		"vaksubkern_id": "0d5a3967-8f12-4175-b57c-324db8476e15",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"e0143932-7bff-484b-9b46-4b53a2e0f983",
+			"8516330e-0009-4c99-9b38-7569f764296c",
+			"d64573a5-e0ca-441c-b3c1-b7fdd57e63fb",
+			"f7e6fd7e-b9dc-47c7-a6cc-04a931d399f1",
+			"13aded41-b165-4983-a63a-254d0fac4f95",
+			"55754048-7a2d-481b-9d59-bdff6f565dd3",
+			"42f74a1b-91e6-437c-814b-1b7d2faa2980",
+			"9d4ee0b3-eedf-445f-aad4-633125746eca",
+			"28dcbd48-c067-4a39-ba5a-a8911eeac680",
+			"b7217a4f-59c3-4b35-94ae-62d4d0f27f40",
+			"20f67219-f598-4f58-a4b5-aa0130bb4712",
+			"b5adb0bf-8f05-4419-951d-a609f0bc32ce",
+			"22f4669e-dd35-4ea8-b16a-b45065924f60",
+			"6bf573a8-f2c5-4764-8d84-2aa61c18752a",
+			"109e6523-a8bd-4550-b621-8aeeecc2b2b5",
+			"d8eac39b-9c05-4cb7-9bf3-9776f29d1bb8",
+			"b26ff52a-ebe8-4988-8a61-d439ffe2885d",
+			"40332f7e-460b-443a-b3b1-f89e96b4e080",
+			"71e14a52-837a-4634-b0cb-975bf4f0d2cd",
+			"f716b144-3090-444d-92fc-a4fb5ad43637",
+			"4aba3150-b62a-485d-a899-03d879dc7095",
+			"6c7d8860-c524-4e7a-a470-df762d523114",
+			"22c7b003-81aa-4de3-bc28-c5d00d683cd2",
+			"c3a568d1-0a7c-4e95-92f5-64bbe10f9baa",
+			"de92ce70-6171-4a8b-b7da-f2528eb46431",
+			"255bc484-cd25-48ec-8b0d-3cf8d06867fa"
+		]
+	},
+	{
+		"id": "a2bfcec3-a95b-4433-b253-dfa0057fa2ef",
+		"prefix": "4.3",
+		"title": "Seksualiteit",
+		"vaksubkern_id": "bk:eab401a7-2bdf-4ba9-9412-eb963c9a12b4",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"4d9227eb-65ae-415a-b8c4-26f1268ba468",
+			"fb92dbe0-5a7f-4f7a-b818-1d729de72e62",
+			"f66f9707-846c-4e4a-aecf-9dc23e3c87ce",
+			"619c8592-bf09-41e2-b629-2ab48dd96738",
+			"b4fae138-627a-4415-9195-6e7324082e15",
+			"fd68270c-9ceb-4311-883a-a73660c333b7",
+			"e7c14a37-2fa1-4ff0-848d-3fb823b58c42",
+			"a3d5dcdc-f92e-49a6-80bf-28e2485b94c7",
+			"b481c80b-f3ce-41d2-bd2c-0a10bdca1fc1",
+			"5e375805-693d-478c-b40f-3fcf09b2c4ec",
+			"d438d2fa-6382-471a-a11d-5db160ccc401",
+			"f57e4113-2325-4e07-a630-88c49d14d130",
+			"162a2a02-c4d8-49e8-b8f6-ef062121f16b",
+			"fa704b1c-9a02-434e-a498-4164a4b2fa90",
+			"879259e9-c61c-4eb4-b086-6e9b7a53c37f",
+			"5c43a20c-797f-4bf2-adf8-07fa21b45519",
+			"dd3ebbed-c35e-41dc-acc6-a91740d66294",
+			"4743f68c-1d72-4f8f-984b-5e6f46120d1b",
+			"61e0f3f5-4ead-4834-b09a-4a200087df13",
+			"ddb0ce6e-ad96-4daa-b0b3-f0176802aa07",
+			"604521f7-af7c-415e-ba19-e35b2cf276b1",
+			"b4067abb-8730-4c81-a193-48b35128dd73",
+			"53f07e6b-fa2f-46ba-a9a7-4793ad0e6181",
+			"23b2a933-bbb4-4c98-9dd4-5f2c1c637c27",
+			"89e17d12-eb71-4909-be2c-7b2637c533c4",
+			"95f5b273-f3ef-4c1d-a0d8-beee5e0e6858",
+			"f67d1a0f-82db-4405-8758-e3adb8179533",
+			"f79f5151-a624-4005-a6dd-355ce4eea73e",
+			"06a5256d-41e8-4160-8774-fb6576e87e33",
+			"9423d889-f455-426f-904d-ebcd2bf93b3e"
+		]
+	},
+	{
+		"id": "483d9e3e-b65a-4da9-8582-49693a2bcd26",
+		"prefix": "4.4",
+		"title": "Erfelijkheid",
+		"vaksubkern_id": "bk:d220d833-6efe-4b88-86d0-5a556f60b9b4",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"ae676b10-1473-4a25-ac63-fc8560d004ea",
+			"7c2ae20a-1a2d-42c7-be82-c0288247555b",
+			"9f347942-3ce3-4bc1-a73b-d3be52468eff",
+			"d5262569-a6b0-4031-bc0b-ae2bea6ae998",
+			"e592652d-3a03-4069-b2c0-ab1801b3e718",
+			"a7220f13-2025-4893-ae92-078c25fecb20",
+			"fb78ac7b-de06-4bde-8376-aec5956e0622",
+			"6a4c831a-e242-4e7f-8e31-b423e324bfd2",
+			"75e8f793-5c4a-4428-a47c-0549ef7afe2b",
+			"7703ea78-bcfb-4fdf-bde5-24e06f1a2a82",
+			"927cb773-271a-4580-8a05-482c0aac9a7c",
+			"14ffe3f5-4eaa-4a0c-811b-e25e954b47e8",
+			"bf2e83e8-1c91-42ea-bbfe-328a8195ae2a",
+			"60a4714e-44b1-4a95-ab6f-3c12198bf7a3",
+			"b68201b6-4c60-4f00-a0b0-150decf1011b",
+			"5e373461-b3c9-4132-b806-c5c6af523b4c",
+			"498a4304-b6e3-4948-9916-913030b523f1",
+			"604d2a6b-dc10-4029-8faa-b16c090c8036",
+			"d5f7a34a-d513-4831-aec5-56c62bc9cd1a",
+			"04e76ce8-2a48-41a9-8dab-df51b08c9ede",
+			"82b7dcd9-cb8a-4883-86dc-fcc67ab5be33",
+			"d40e2ca2-60f3-48e8-9a72-dd1406243d14",
+			"f98d3802-dd05-4b1f-91f7-eca70b1644a3",
+			"cfed1fba-3e5c-47d4-a29e-9d38d4507f28",
+			"c5ee4ab0-0778-4495-9d93-24e5fb7280cd",
+			"825fb34c-b805-4e2e-b443-754d7ebde91b",
+			"3c5ce29e-f7c2-48d2-afcf-7f8380ad6d48",
+			"eec9926c-db21-46f2-8dd0-abcda8452319",
+			"8d8aa0d4-8f2d-4fe4-b7d8-6d5e4298876a"
+		]
+	},
+	{
+		"id": "49ba656f-5410-4298-9207-d4323126678b",
+		"prefix": "5.1",
+		"title": "Natuurlijke selectie",
+		"vaksubkern_id": "bk:e15913a1-a3dd-42c8-a689-b959ad36a8be",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": []
+	},
+	{
+		"id": "7ae8136b-770f-458e-8c7a-abad8390ca49",
+		"prefix": "6.1",
+		"title": "Ecosysteem",
+		"vaksubkern_id": "bk:f81eade6-aa77-45d1-b8f0-60aa2f960249",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"c8c40f4e-3df0-4f83-a0d3-48da43790635",
+			"7989a649-ce87-4e58-99ee-9a3552dbb7dd",
+			"212e9cdb-9ff1-4766-9da0-898eb1e36d35",
+			"5961b055-7bbd-410d-b632-0161c33805b0",
+			"98d3c0dc-022e-44c6-8bc8-e73efadb9bac",
+			"72ce70e2-05c3-432d-8723-eb4bb01b66d7",
+			"e9c4916e-98d5-4156-a9b2-f6111bd037f9",
+			"d655d99a-dcf8-4cf1-8105-80857e9f7ad1",
+			"8490e05f-a6d4-4fb0-b630-d491ad4142ed",
+			"66b6d8e0-8d07-4868-b9fc-212531c98d95",
+			"69999dac-27f1-4356-a051-b87543f7f4c9",
+			"78d75ad8-70aa-4f39-a6f4-997f93e057e9"
+		]
+	},
+	{
+		"id": "4b14daa3-886f-4da1-9106-d6d896508514",
+		"prefix": "6.2",
+		"title": "Voedselrelaties en kringlopen",
+		"vaksubkern_id": "bk:6c7aa3a5-f225-4dc8-99b5-642a2c14d663",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"36d99399-b8ca-4286-a45d-b478300f9af6",
+			"8ea85351-7204-416a-8914-d0192c03e654",
+			"72627105-9443-4b13-a26e-62758f2538fc",
+			"428d150f-895f-4a8b-a06e-1a139a242c2c",
+			"a4d1d4f4-579b-40ae-ba00-071ee254b7e9",
+			"3c199479-5ade-4ee4-96a3-ed4571e00dd3",
+			"302386e6-c9c1-46dd-b24b-735012fbc3c0",
+			"f15a3d01-8b68-49d0-813b-629c73d53802",
+			"14cf84b0-d89e-4570-8d82-2ba57e3e7df3",
+			"fe3c8774-7a6e-40e5-9695-772239626848",
+			"91d9a004-bbae-41bd-aee7-5c6fbea5d7e1",
+			"c49d9942-9709-4ac8-a90c-b961d7bbece1",
+			"8c897740-e90f-4c01-b7e2-40e9a281594d",
+			"9664bfbc-faa0-47b4-98e0-ca58b5a0ff12",
+			"4763831a-80a4-484d-afba-115908367f8d",
+			"d546192b-e5a3-4119-bb91-9524c9ca13b5",
+			"32a982c3-c155-484a-8467-5f38f33d0b83",
+			"d28ef487-7c9f-45bf-a92b-32c118865bcd",
+			"a49a6985-a362-436c-9b55-dc59aae3c542",
+			"d3a25fb0-a566-4d5c-93c7-8000f2d34fc8"
+		]
+	},
+	{
+		"id": "7f36f3bd-cbbd-4dd3-bfd9-334de3b8ee0f",
+		"prefix": "6.3",
+		"title": "Duurzaamheid",
+		"vaksubkern_id": "bk:c294c894-bd8e-402b-9f29-800f66e70a3e",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": []
+	},
+	{
+		"id": "5250b45f-87d0-4dd5-93be-1e3a3f623cb8",
+		"prefix": "1.3",
+		"title": "Weefsel en orgaan (Orgaan)",
+		"vaksubkern_id": "bk:6482bc6b-17dc-412b-b65e-7d10234c3171",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"901a6952-6edb-4004-b6ff-5b9316953218",
+			"2df796fa-a8f5-4f1e-9c25-cc2ab0db5c76",
+			"c7fd0b54-2593-4d88-a2b6-38e410b3e13e",
+			"e5c38736-48ec-4d9d-afa5-aa99b667f111",
+			"1836fb13-0f92-46d3-bcbf-78d6af20a6ce",
+			"0271017b-ac8c-4837-854a-39b1882013b5",
+			"e56fb7fb-1ed4-4a57-8e60-0bb0e4826462",
+			"3f2d1cba-61a9-48de-8929-c80e479d4229"
+		]
+	},
+	{
+		"id": "37b0bfac-2e38-42f7-8e77-67b38f6a3ef3",
+		"prefix": "4.1",
+		"title": "Celdeling - Celcyclus",
+		"vaksubkern_id": "bk:c7576661-a722-4c71-b9b2-ae33d14bca92",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"0188f628-d592-4300-8e90-4cfd0838eb8d",
+			"aca1024a-8fb7-4701-900b-03b00a64fad0",
+			"a7cfd186-0cb1-4bdd-b996-bdf967a630b8",
+			"11df8ea8-1890-4988-bf09-43b67906e632",
+			"fd2cd329-98b0-4775-9e4b-af663901d1ee",
+			"a7b38501-1907-4fb6-99c8-e7fc604d7874",
+			"4d8841a6-4963-4c2b-a6b1-fe1149b86077",
+			"8706a42a-bcd5-4c90-968c-d47af4895999",
+			"b0adc3f3-3b31-4cac-8948-e4115cc7e90a",
+			"3127d733-d36f-4cdb-b905-2d6d5f6676cf",
+			"da74454a-758d-43ef-ae6a-34509719a132",
+			"fbbec1f8-ec10-4981-b71e-dda0cdf7146b",
+			"4473f687-3e8d-4f9b-add1-43aa299a9c6b",
+			"0447f60c-4040-4853-8793-768efbe15e61",
+			"4c2b0860-8da2-443e-9b81-e53800101e92",
+			"118f3145-74de-4d90-bebe-7c072fe39d5e",
+			"2c160b50-2d50-40bf-814f-b34b686c745c",
+			"bb86bc4d-7bae-426e-843c-3a56d1115941",
+			"2d7e290a-8276-4eaa-af49-75cf697c1a86",
+			"f9aad970-94ca-4acd-ae72-dd8dd77e647c"
+		]
+	},
+	{
+		"id": "011ee7c5-9dc9-490a-a1b8-d13b9701d778",
+		"prefix": "5.1",
+		"title": "Natuurlijke selectie - Geschiedenis van het leven",
+		"vaksubkern_id": "bk:e15913a1-a3dd-42c8-a689-b959ad36a8be",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"320709b8-8b86-45da-9003-3eeb773750db",
+			"96cc4dae-47ef-429a-af9e-a21eb41b264c",
+			"d8fe0993-831e-4e1a-841a-2c7e8a3a2989",
+			"c840696b-61ad-4b22-9f2b-94dac94decad",
+			"89dd18b7-fe2a-4f53-a12f-4818e5287244",
+			"c080b42e-ea01-4361-aaee-c4861fd3a548",
+			"c40f2b95-54d4-41d7-a228-06aa2448426d",
+			"7772129c-613e-47aa-bb08-c02202ecfdf9",
+			"c15ab370-ea62-42d2-bbe2-462d73f7114a",
+			"f5ba03db-48f5-489e-9f27-ffa8c9e3eec9",
+			"91b4fa15-02ab-4e43-a79f-e105dfb713c3",
+			"8089bb9d-f564-4ff0-b1d1-3f9a077a4419",
+			"e600a69e-246c-44b7-8fd4-1ef95ebe6a8b",
+			"d8a50ac3-d7b1-47fb-b3b0-5adf62fb56e7",
+			"01972be4-6069-406b-9b6c-5d4680a741dd",
+			"f06ecbd7-fc69-46c3-b6d4-bc5cb158c91a",
+			"d28de535-3ad1-47b4-9906-b41359c46d17",
+			"dfc32d0b-ccca-46a2-8921-2f88430604d8",
+			"c71e5b2f-ecf1-481a-b815-d226700bf0f9",
+			"a0adcd7b-7f06-4ac1-813e-b2a5169d8c6b",
+			"9beffb1b-41a1-41f0-9b09-0b82e14c9307",
+			"54637e7b-7868-4e9c-ab43-9000ffce15dd",
+			"826c28b7-2169-4ada-8842-c60fbe6dd37e"
+		]
+	},
+	{
+		"id": "ff71cfeb-c997-488c-b707-4513896bd4f7",
+		"prefix": "6.3",
+		"title": "Duurzaamheid (Duurzame ontwikkeling)",
+		"vaksubkern_id": "bk:c294c894-bd8e-402b-9f29-800f66e70a3e",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"af72cf8d-2db6-4abf-8951-df5a3b762f50",
+			"61058622-8481-4911-9b35-449e3b35a647",
+			"6e31fc90-2e77-49ca-902e-09caecbe5eb5",
+			"694859c2-74f4-435b-aec1-17df0e6442bc",
+			"6946f7c8-13b2-4ccc-a175-de905fdf0840",
+			"5eedaa14-3254-4c93-aba1-68011950732d",
+			"12f3e5e7-2250-4350-8b7a-827d02a4e910",
+			"e74a7720-3887-477f-943b-82c274dcb761",
+			"45aa37ce-a357-48de-b812-652b6458f199",
+			"95d3092b-ba58-430a-b679-d4b25589a967",
+			"6066119d-5031-441b-a027-be9b616fe935",
+			"cb8736ee-6fd9-440a-a932-c342bdd1ef95",
+			"c28c1e2d-568f-4f91-ba93-a6e9e924f979",
+			"65820ccf-18fb-493c-bf32-46c2cb1938a6",
+			"2280f38a-386f-4543-82bb-0696e97ea3a2",
+			"058c7e02-8daf-4314-8275-a6ac66f2c01e",
+			"ba25d503-bae6-44ae-bbb3-1b4c6243d71b",
+			"3c73aabc-06f3-4a3f-a111-afb14ced76a7",
+			"a3ed66c2-98a7-44b7-a7f5-df869e4de540"
+		]
+	},
+	{
+		"id": "e303105b-a6a9-44b3-b18b-98126b0daba6",
+		"prefix": "1.1",
+		"title": "Leefbaarheid",
+		"vaksubkern_id": "bk:f1e51d8d-6167-4573-a727-f8994c0a8f31",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"0f2838bd-cbcb-4fa1-8bce-4c48c4efdcf6",
+			"4bf922bf-03fb-4c68-af7a-d497ac9a73dd",
+			"919a893e-a855-45e3-870d-37e730b22129",
+			"f92cf431-9e5b-43fb-be63-86ab22e53408",
+			"611c9e53-2ac0-4c06-9ec6-715adf7bc20f",
+			"7aa9fe37-0ca3-46d5-bb23-48de2433c57d"
+		]
+	},
+	{
+		"id": "60b6ebae-d0ba-477a-99fa-c055bfcf0630",
+		"prefix": "1.2",
+		"title": "Multiculturele samenleving",
+		"vaksubkern_id": "bk:0b9e01f2-d69d-4015-855f-bae8d0402f2a",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"23daa173-dd36-493c-b635-2a78dddf78e3",
+			"aa64223c-af80-4492-aed9-fffdd5be112e",
+			"4a45ee72-be02-4014-ad6b-648c86ebebc3",
+			"8b08c690-52e1-4d15-84a3-b086095cabfc",
+			"bf7429c9-8d75-4380-bf46-0db8432bc8c1",
+			"49042b68-1b40-414d-8933-e861e458b82a"
+		]
+	},
+	{
+		"id": "04baf4fb-9158-495e-9a29-0a397a56e1c0",
+		"prefix": "1.3",
+		"title": "Wereldburgerschap",
+		"vaksubkern_id": "bk:6aef553c-ef08-488c-b7f8-41475b11a7e4",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"f230aa23-1fa0-48ca-bac1-26d113895f78",
+			"fd17fb6e-b7a9-4d19-9598-f895808c1cfb",
+			"a3ada653-8981-4bad-aff4-955052dee0ee",
+			"ae18194b-de0d-407e-aeea-2ff14116a86d",
+			"19f5e4f9-cb24-4f11-83bf-a54a019f4f06",
+			"12100518-d817-4bf4-a35c-1257f5e7ed85",
+			"6bb8e0bd-8687-45bd-8c6a-5d46bc896df3",
+			"a79864eb-0af5-4cb8-ba99-ad34dda75097",
+			"540bb848-a736-4d94-a30f-0c76c2e40230",
+			"31abdd30-2eb5-4164-9374-84ca44592402",
+			"dfe2ba0f-903b-4588-ba42-1e7d8e16f402",
+			"cd675af6-e9b0-494d-a866-3696e0e7f98a"
+		]
+	},
+	{
+		"id": "846d23f8-a63d-46b4-ac9d-3f56ce1ed1ee",
+		"prefix": "2.1",
+		"title": "Ecologische voetafdruk/draagkracht en natuur",
+		"vaksubkern_id": "bk:c12c4ceb-7ac9-4e1f-9984-aa6a5003360d",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"a12ca152-ae18-448e-b722-e15399072c11",
+			"8f00bee2-0cd9-4ced-ab33-e17a3a50c6cb",
+			"79abc0a9-268e-498a-af88-c84d31de1101",
+			"35ae98df-0bdc-4da7-93d2-fac06b59f9fc",
+			"983c4f75-94ab-4233-b589-2f2e6cd4b836",
+			"9d8268f7-f01f-4cac-a027-4ca28a31563e",
+			"683d58e6-154c-45be-adfa-a0e8e78134ab",
+			"bf98c2a3-2136-45a8-a73f-7347b77e4fb5",
+			"2f66575f-4596-496c-a615-6570c49903a7",
+			"d7442b90-4445-47b7-b42e-13d4fa6d3c63",
+			"af43ad3d-d6d8-4724-a80a-46a1a9924cab",
+			"61208af0-4ec2-4cc4-8227-2f83824635fa"
+		]
+	},
+	{
+		"id": "4ce389d0-dd93-4029-9d20-1ea0c517c91d",
+		"prefix": "2.2",
+		"title": "Natuurlijke hulpbronnen",
+		"vaksubkern_id": "bk:1069617f-5a73-486e-b935-7b145c2f7519",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"569e2d9a-477c-40c7-8766-32e5f8a2e36b",
+			"8b5ad30d-e136-4046-8360-7b23601aa58e",
+			"a7ac49e6-e0c4-41a1-b69d-f83fbc5df3ae",
+			"7d1bba7b-e6d0-4685-bdd8-688a100abc72",
+			"aa325b52-99fe-41f9-a737-a70e7ef4fecb",
+			"1052c79c-8ef4-48f4-ac3a-4c4125956534"
+		]
+	},
+	{
+		"id": "6777c8a1-6acd-4b0c-b3ef-2101f3499e38",
+		"prefix": "2.3",
+		"title": "Broekaseffect",
+		"vaksubkern_id": "bk:2d473b4b-c9a6-48e1-955e-8cb852d9a02f",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"789f7ebb-7725-4b6e-9133-3325cf802450",
+			"6b391644-babd-4184-a5fc-4c8f4178a9c9",
+			"063416e0-ecec-493f-abff-9244a67e2ad5",
+			"05cd71cb-abe1-4c81-8114-921cc4590b4f",
+			"05d84f08-a2e5-4b17-bc30-6b08be0aa145",
+			"8aaead71-b027-47ce-9e7e-6fd8ab2f2f73"
+		]
+	},
+	{
+		"id": "10c95f68-0075-4fdd-be1e-896b6fda45c2",
+		"prefix": "3.1",
+		"title": "Bevolkingskenmerken",
+		"vaksubkern_id": "bk:24850a94-16c6-4b87-8dce-a8b9a6673e5d",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"698d8dc9-3706-4ac1-98af-8a5c4bedabfa",
+			"bf0e93f9-279e-4e4b-91c2-2f5cf481f778",
+			"20cec485-039e-4192-bf1e-dc46c8581577",
+			"8c653b15-2ea5-4bd9-b621-c0b3cd2974ff",
+			"d81a76c0-11eb-4548-ad11-8b4339f6aeba",
+			"2f623958-7b91-46ba-887c-2bac5aef1d02",
+			"f20da226-f74f-480d-86af-d4706337a912",
+			"e6be2b27-eec4-4f5c-90e7-7d5694525a3f",
+			"cd5cc948-1462-4eb4-88a7-36c71255f1f0",
+			"32887741-b14d-46a0-a20d-5045dd3f8468",
+			"e3c08f1a-cbd2-4a75-b8d0-34dd7e70b072",
+			"8a98b393-fd2e-43dd-95d8-a7902f6325a9",
+			"4e848b7c-6172-46b9-89d4-34f209f799e2",
+			"0280feb1-4549-4312-a12c-c35f6c1e065b",
+			"f9adbb57-9fca-4b54-9ab4-fa2cecbc7909",
+			"711dfad7-5abe-4f48-9bca-d36caf89887c",
+			"bc81db66-f88f-4ad4-8264-a18d4147cb3f",
+			"38f091af-7737-4752-a886-5a88a4110fb0"
+		]
+	},
+	{
+		"id": "0862afaf-b0f6-4d45-8a44-64cd4a0f8616",
+		"prefix": "3.2",
+		"title": "Migratie",
+		"vaksubkern_id": "bk:a60f1e24-a820-4687-951e-b95c0957d291",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"9877c91a-687a-42f5-940d-623de4cf942a",
+			"bed04047-0711-47b6-bdb0-20ba6d1b7696",
+			"ce596066-6fa8-4b30-a8c0-cc25e427ac9e",
+			"00e4b3a4-82d2-43ca-b356-3840b1eb9757",
+			"f0dc3f0d-a24f-44d6-9a6f-d03097d67421",
+			"90587505-795b-4067-9098-5c5efc3c0fdb"
+		]
+	},
+	{
+		"id": "398fab2e-faf7-4060-bdf4-5daf3c4fbf31",
+		"prefix": "3.3",
+		"title": "Ruimtelijke ontwikkeling",
+		"vaksubkern_id": "bk:e31ef070-0bd3-49ef-b7ae-4efc31300432",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"191f273d-a2bc-445b-b9e5-1c1e4c3bedb2",
+			"bda4d144-507c-4337-9e75-31a57b69dab3",
+			"23eb4be6-c91a-49e3-8c4e-2bc2db3f059e",
+			"16394100-8eca-4ea2-867a-c16da3301c4a",
+			"53e2cc0b-cb70-406d-9a89-51f5fba75f48",
+			"5a62a15b-86f2-475f-8528-37d8824212c0",
+			"25eade72-7697-4954-b91c-e0f74823dcb4",
+			"5087b27b-b264-49c2-ab86-6111aebcf301",
+			"fc1e0c25-fe51-41b5-a26c-569e0765f9b1",
+			"65469399-484c-42dc-8025-1367b5f0494d",
+			"95be42a4-4f8c-4b8d-a936-2bc457b1e3b6"
+		]
+	},
+	{
+		"id": "14ea5db5-33a1-4305-a2e8-2990333b0479",
+		"prefix": "4.1",
+		"title": "Transport en vervoer",
+		"vaksubkern_id": "bk:55adb109-c72f-430c-b007-4d2fa7bbcfa3",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": []
+	},
+	{
+		"id": "86c7fd12-6126-4c74-ad8c-d351532894f9",
+		"prefix": "4.2",
+		"title": "Global shift",
+		"vaksubkern_id": "bk:1ffb845c-9893-4b65-b0b6-62b97f2e2942",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"ece4255c-a938-446d-986d-d4cfb7bbe1d3",
+			"06a500da-595c-4617-b105-8bd09e849b8e",
+			"cc9732fa-c4ab-48f4-9c57-08f97a7fa0be",
+			"d2066707-1582-4682-9b5e-663f9768ada6",
+			"f0177fc9-ffe4-4901-bbd0-bf70dd6458ff",
+			"ec92280e-06a9-4269-9fd2-ec3f085be8b7"
+		]
+	},
+	{
+		"id": "70ce3036-7a84-4f8e-a837-24004392dd7d",
+		"prefix": "4.3",
+		"title": "Middelen van bestaan",
+		"vaksubkern_id": "bk:bc01e67c-9950-477f-9f8b-7ceef1fafec6",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"4dd9a638-ada8-4686-af10-47d7a879e2c0",
+			"b5a23851-5d7b-4513-b940-9a1582da1ccc",
+			"c0debb76-3d38-430f-9469-d313cbf6194a",
+			"525ac15c-807c-49de-8b76-ff3b4cd36945",
+			"2c467f86-5abb-4b5f-b522-e128390a877f",
+			"a84e11fb-1018-432c-befc-9619baa08642"
+		]
+	},
+	{
+		"id": "c0559f4e-501c-4e0a-8b35-45934f033a6d",
+		"prefix": "5.1",
+		"title": "Ontwikkelingsgebieden",
+		"vaksubkern_id": "bk:f3ce5c40-2244-4104-830a-801175be6614",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"572b7270-0759-4ec3-8dfc-48ab018c35e4",
+			"7c46c3c8-e381-4fa7-8c94-20369f9ca781",
+			"cc822a44-618a-4882-8090-12fb8972c250",
+			"e28e9460-cbcc-47cb-9a6c-68f0db8fe9d6",
+			"a1919bb9-b322-4191-b5b3-ef56cfedd92a",
+			"b5488758-b50b-4681-828e-83c13afdc9b4",
+			"886167eb-be12-47e1-b8a1-74a014cc929d",
+			"6ec66dec-5af1-4dba-9dfb-45055c199c12",
+			"0eaf12a7-a466-4ece-8527-6da640b2e425",
+			"49d3d70e-e275-455a-b57f-28029f86a423",
+			"810e6ff1-7e61-4fac-8682-8d228f3d7aa3",
+			"c0478d83-729a-45d6-b50d-2a217abc4a50",
+			"6a1c2f7d-14bc-4551-b97c-9c020f924288",
+			"931fd8f9-a5c8-496f-9e9a-4c6d8dce7633",
+			"3489768e-4cdc-47fa-a529-dd8c4be348e5",
+			"acdb2130-c74e-4f40-b230-1619271aeeee",
+			"5cbaaab7-ab80-4007-84ec-3336bba9ab13",
+			"c19ce274-f800-4e9e-8b2d-d85242e8143e"
+		]
+	},
+	{
+		"id": "40b4dfe1-ba21-4767-89a8-a873befe4592",
+		"prefix": "5.2",
+		"title": "Eigen regio/Nederland",
+		"vaksubkern_id": "bk:7a1b965e-fe33-4934-a42a-4d09873de120",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"a77b0099-487f-49d6-aca9-552da51d9128"
+		]
+	},
+	{
+		"id": "b92f1aef-6bd1-4f0e-a6f3-4444e369c87e",
+		"prefix": "6.1",
+		"title": "Cultuur",
+		"vaksubkern_id": "bk:eee1af8a-eac5-413f-83cf-1ad5e99b5fcd",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"438abc82-1d51-4189-8ee7-ba1f50e311b2",
+			"4e87595f-c83f-4df6-973d-abb92b003593",
+			"82a1ca77-d262-4b9d-911f-c9107d88f203",
+			"07e80a14-af00-47bf-a2b0-447b69d28e31",
+			"a4f745b2-7bf4-40fa-9fb2-fcb6bdf58ae4",
+			"32f29c30-4aa8-411d-9013-67d578067108",
+			"5eae3f47-7658-44ac-a7d3-5292cdb64c9b",
+			"f8b44b9e-6587-4f71-92d0-b4623b14327f",
+			"b0905eb2-1e09-4462-ad41-3f58d11f02ef",
+			"203bb703-5205-4c7c-bab4-b20c1fbea269",
+			"2fa6cfd9-1af6-4df3-b91f-d5968ec3044b",
+			"5fc925bd-3528-466d-b4b5-20923da5bd6e"
+		]
+	},
+	{
+		"id": "7a865089-1d46-4d23-8a2e-3cabf8d1346e",
+		"prefix": "6.2",
+		"title": "Grenzen afbakenen",
+		"vaksubkern_id": "bk:f7277483-1498-403e-b8c2-d6266104e0b7",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"59e965eb-e065-4dc3-8ddd-6d926757f8ba",
+			"5c3e5f0c-237e-4aba-aa46-bf8e72b08158",
+			"2bc2f08c-621f-4502-8d1d-d59147e0ea51",
+			"fdb49821-599e-46fc-8131-e5f8d850c288",
+			"9fb25688-4579-4ce9-b177-c18d40dd4b08",
+			"44ffdef5-b952-4ebf-9ded-47f6191bd023"
+		]
+	},
+	{
+		"id": "c3d8fd02-8eb7-4503-862f-f903dee56751",
+		"prefix": "6.3",
+		"title": "Europa",
+		"vaksubkern_id": "bk:69a83ec2-ec15-4629-bc11-9e0d93bf0806",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"5534ebfc-df2e-4d60-b44a-6a6bacff5a49",
+			"52058c07-894a-48b0-b37c-6a6da0491108",
+			"10652545-3964-4ffa-8357-59519de6012b",
+			"6af72841-cf77-452c-be1f-85f7485e7de6",
+			"5548e097-426d-4b6c-9827-5fa89109966b",
+			"10a90eea-3564-497d-83b9-a65cea0bd716"
+		]
+	},
+	{
+		"id": "9233a40d-207e-444a-9edd-1ac8026c4e2d",
+		"prefix": "7.2",
+		"title": "Endogene processen",
+		"vaksubkern_id": "bk:758cd08c-109b-4a7f-a8c0-a60b01d7761f",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"ac47691c-73d3-4a0d-98d9-88f2065d9eef",
+			"a69f9b58-404a-4402-94b1-924336e4d5e3",
+			"bfd8876d-6832-499f-8050-4f4ab1eacf4e",
+			"55192878-cf29-40f4-a24d-428a99a3b438",
+			"b719d062-09c6-4cc0-91ca-f4fbd255cd4d",
+			"34e1f9cb-1385-4cc7-bf75-0e9552945c11",
+			"8049d73b-9a69-4dd9-a6dc-ab3af6224bb9",
+			"f50c0a0a-f28a-4b3e-b692-90185938060a",
+			"a7ff3043-ba45-47e7-95ea-2cd681db67c3",
+			"c4d36511-c75d-4e9a-910e-a39338eebee4",
+			"104e5e93-4a49-4ef1-b0f2-a215d964f272",
+			"6f17bbef-b963-45b0-a4c1-8790ac456840"
+		]
+	},
+	{
+		"id": "1fb95bcb-f4d6-4721-a84a-d876b55362cf",
+		"prefix": "7.3",
+		"title": "Exogene processen",
+		"vaksubkern_id": "bk:da291dfc-1421-4588-a7f8-b556a73e59bf",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"b156e731-9d54-4045-acd1-8bb22ab40508",
+			"127cba50-3474-4c6c-a58c-94bd8b653356",
+			"d00c74c1-60ab-4dd2-a05d-f1f4a5428bb7",
+			"5bd53acb-d9fc-4f45-9265-3e90089bd5f1",
+			"415c7d8d-9a1a-465a-aefa-5aa20cc1b80d",
+			"2ce4aa9a-27a0-412e-95b9-259dfc3f8ff5"
+		]
+	},
+	{
+		"id": "94c743d2-4849-433d-9c2c-7febfe2812fc",
+		"prefix": "7.4",
+		"title": "Klimaat",
+		"vaksubkern_id": "bk:da08f2e1-5342-40f5-8f53-f50bfc470027",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": []
+	},
+	{
+		"id": "c689437b-4926-4f00-8f6e-d91e898edbce",
+		"prefix": "7.5",
+		"title": "Weer",
+		"vaksubkern_id": "bk:18629952-2d18-4de4-99c2-d29c36054512",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"c65dfb61-e555-4ede-9fcb-f1df57fba111",
+			"8994ae08-925b-4a53-b6ec-c1d1511ed61b",
+			"80d2130c-31f4-41db-8854-1a31a43ac6b6",
+			"f5f499f9-2d97-47e9-9f7f-f5793563e967",
+			"12d30e93-32d8-44fd-8443-3a27b81d1c65",
+			"988dbbdb-dd10-464d-bbf6-e580a4da3187"
+		]
+	},
+	{
+		"id": "65623870-9736-49ad-b7cc-1044879d8eef",
+		"prefix": "7.6",
+		"title": "Relaties tussen endogene en exogene",
+		"vaksubkern_id": "bk:38190576-f32b-4568-b04d-b2a34add8fd1",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"ec6fa9bb-2ab6-47b0-bd1e-32017cd0aaae",
+			"f9b3339e-e76c-4692-8c6a-c5b335347439",
+			"986f575d-372e-4d2e-9228-2adbc642dc02",
+			"5f0adb2d-3d31-4e01-b9bc-26e707f2b4c8",
+			"201dc18d-a5b3-4b64-a768-cdb517cf44a9",
+			"ffa90d8c-9c05-4d0b-91e7-d853cbed1b55"
+		]
+	},
+	{
+		"id": "c451ec14-4595-46cc-b494-593c26dc400d",
+		"prefix": "8.1",
+		"title": "Landschapzones",
+		"vaksubkern_id": "bk:976af3e7-608d-49bd-929d-4aa08417cd85",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"a92e53d6-1fc8-4cb1-9002-a39c4fa57bb7",
+			"e14c1c6e-200b-4a3a-8994-0ef28bede18f",
+			"7034d9af-d212-4402-b3ac-4abe818a1636",
+			"58631042-a63f-45a1-bc27-b8d0694332b5",
+			"43b344da-830c-41f8-8b36-7d9c63d0f724",
+			"4d675d1a-0c98-4383-9c49-6fee006bc174",
+			"648c4522-87ff-455a-9d4d-0a4843300184"
+		]
+	},
+	{
+		"id": "ba8d0af2-0bb0-43ce-9061-e82e5c219ff3",
+		"prefix": "8.2",
+		"title": "Natuurrampen",
+		"vaksubkern_id": "bk:e2412196-3d8d-402a-b030-8d4fe5a790b5",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"5f9e6bb4-9f0a-4581-bb66-629cb84b9f0e",
+			"e1b4125c-1160-4442-9f9a-1d771b54b573",
+			"fd1bda39-5faf-474d-832e-0810d1d79ae1",
+			"d083c338-a61b-4783-9c46-d5721938f660",
+			"ff430503-75d9-4e83-a02f-e1d5993aa290",
+			"87caa11d-d765-458a-b430-e88130c3232e",
+			"2d47ef86-8313-4052-92b4-8da2342eff6b",
+			"48f0eb0d-49fc-4cb5-bf78-000aa8cf2467"
+		]
+	},
+	{
+		"id": "822b70e9-70b0-4c4b-9b73-f4e97cf80dbb",
+		"prefix": "9.1",
+		"title": "Waterkringloop",
+		"vaksubkern_id": "bk:41f29105-7bef-4e81-8bd0-db3e33efd622",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"9559cbe5-d093-449f-a40b-df1186074841",
+			"8d94209e-7218-4804-baf3-26ed5c2d2de7",
+			"63752625-f3cb-4064-9d59-0eb4bda9459d"
+		]
+	},
+	{
+		"id": "cd3a11f7-ce75-432f-b090-1b89b082f318",
+		"prefix": "9.2",
+		"title": "Waterproblematiek: te veel, te weinig, te vies",
+		"vaksubkern_id": "bk:44cd17d7-7e34-403b-9f73-ddf5a930b3ac",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"7baa4edf-7ce1-41c7-961e-a76561c56152",
+			"1943e18d-0866-4629-9177-25676266969a",
+			"5ba1135b-6c0c-4353-bc0d-c941bff1aabd",
+			"4e774e6c-7067-490a-9a21-23cf4c1462b7",
+			"c6e79bb3-93bc-49ec-b2ce-5bf4b6aa1ce7",
+			"135f345d-a35c-45f4-b7ab-0a5a6664ded0"
+		]
+	},
+	{
+		"id": "9fb1e8ca-2dd5-4ca4-8c9d-9a22616f68fb",
+		"prefix": "9.3",
+		"title": "Waterbeleid",
+		"vaksubkern_id": "bk:ed755eb9-2838-476b-ac24-d6de021f5c64",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"fbc4517d-9a18-4892-926f-b67d5bbda901",
+			"b9095d17-5265-496e-bea0-5d0d1f20381f",
+			"8f337654-3aea-4bb4-af46-8e4f299240de",
+			"64203478-cac3-451d-8c4d-99040b11b98e",
+			"ed23bf5a-712d-4b20-aa77-cd46efd28443",
+			"8461e237-e9e1-461f-8f2c-d08571a75509",
+			"0f752824-ffef-4ce2-a2b8-f64c40407857",
+			"a129d783-bab2-4943-8256-0d008ab6530c",
+			"6aa56c00-350c-46f1-b3dd-14700c0e88d8",
+			"6b1269a5-e115-4e56-8fee-a78a8ba95bcd",
+			"ba27a4da-5e6d-4485-9691-2d0dde796b99",
+			"6b819b26-b3ff-4410-9930-276c5f9ed8a3"
+		]
+	},
+	{
+		"id": "fa12977e-8c46-4835-990d-483a28ab5067",
+		"prefix": "1.1",
+		"title": "leefbaarheid",
+		"vaksubkern_id": "bk:f1e51d8d-6167-4573-a727-f8994c0a8f31",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": []
+	},
+	{
+		"id": "85813e5d-c5c7-4af7-8583-81baa6f9382b",
+		"prefix": "7.4",
+		"title": "klimaat",
+		"vaksubkern_id": "bk:da08f2e1-5342-40f5-8f53-f50bfc470027",
+		"ldk_vakinhoud_id": [],
+		"doelniveau_id": [
+			"615ca09f-0c71-4e4b-a764-bb90d4ed1c7f",
+			"5c00292f-4606-47f4-a919-ee01c2475c77",
+			"c479de12-3fae-4118-b3b0-fded2a6a29d7",
+			"e8de89f0-99b6-4057-89fa-9f2b4f749cd5",
+			"9e7f5141-dacd-4cd7-a7d1-ed4b5a2fe795",
+			"cb1258e1-d2a6-4874-a45c-b469e5907131",
+			"b3ddb5ed-ca39-4ce7-a3d7-637fb65f2164",
+			"c5268d36-3cda-4b4b-88ba-a794d2385f01",
+			"be4681dc-a6a3-46bd-9238-1f94f0812ab0",
+			"2ef0f65a-81f3-4628-a425-da63f5a84cdc",
+			"5d77478b-2659-4869-90ff-4a4465e8ce21",
+			"39470190-d9b5-4b74-9fc5-7558c745c226",
+			"09b55da5-fc71-4865-bb02-934d243ffa21",
+			"da587d60-eacc-4e14-b427-e79d694a0158",
+			"b789fed3-1e85-47a5-be06-50907b07382a",
+			"b0722494-b103-492f-b57f-0afd07a5c98a",
+			"6a76f11a-15c1-4af2-b7d8-31bc5a661fa4",
+			"4ca6005d-7497-45d8-a558-8cba7094a478"
 		]
 	}
 ]
