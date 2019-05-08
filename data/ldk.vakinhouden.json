@@ -119,7 +119,7 @@
 		"id": "5f1e9618-741f-4160-b33b-9b5d1703a46e",
 		"prefix": "1.2.1.",
 		"title": "Je kunt informele gesprekken voeren",
-		"vakinhoud_id": "bk:792857ec-bc7c-4249-b276-a5dd9b08cb0f",
+		"vakinhoud_id": "dcd691ee-b0f9-4023-a5dd-1d210fcbd2ba",
 		"doelniveau_id": [
 			"501a29b5-1812-4278-b43f-0eacedc83188",
 			"f2b744d1-c541-4853-a806-bdce431fe0ef",
@@ -146,7 +146,7 @@
 		"id": "f94362e3-84fd-487a-af7d-be72772d5c33",
 		"prefix": "1.2.3",
 		"title": "Je kunt zaken regelen",
-		"vakinhoud_id": "bk:870cfcba-cb56-40e6-892c-e548a4f1fd88",
+		"vakinhoud_id": "245dd496-011f-44cb-9cc7-c3f2d03d9532",
 		"doelniveau_id": [
 			"b693afdf-f9ad-471c-8684-ea99452e9edb",
 			"885f88a5-8453-48a3-9da0-117b9103a854",
@@ -188,7 +188,7 @@
 		"id": "fae70ea7-0b54-47ae-af0d-66f499001b39",
 		"prefix": "1.2.4",
 		"title": "Je kunt informatie uitwisselen",
-		"vakinhoud_id": "bk:82b167d4-b24d-4b18-a8ea-941e4fd1ce48",
+		"vakinhoud_id": "b758c664-b362-4974-b6e2-e111bf636d90",
 		"doelniveau_id": [
 			"a2e1f083-3c52-46bd-a932-190765b40ed9",
 			"6ee8b39f-851c-499a-9d3c-374820345d02",
@@ -288,7 +288,7 @@
 		"id": "d477e11d-73f6-4b0b-9333-de429c3ba991",
 		"prefix": "2.2.1",
 		"title": "Je kunt een monoloog houden",
-		"vakinhoud_id": "bk:ccb24264-3895-4bc9-873d-1efd19987a11",
+		"vakinhoud_id": "231d2b93-c3d6-4746-b24d-e99991dab066",
 		"doelniveau_id": [
 			"6b827a5b-0027-423a-a6ff-d9cd079c7b67",
 			"4f9e294e-6b85-43ec-8292-b252d5a9cd2b",
@@ -320,7 +320,7 @@
 		"id": "7669b3fb-cb47-4629-a253-66597eb14815",
 		"prefix": "2.2.2",
 		"title": "Je kunt een publiek toespreken",
-		"vakinhoud_id": "bk:26681c6a-87db-4ab2-8382-956eeab70179",
+		"vakinhoud_id": "043409f9-6af1-4e3d-bc12-e45e528e31d0",
 		"doelniveau_id": [
 			"d4513529-c746-43c9-9c6d-cf0cbcbf8154",
 			"b32c24d5-d038-4ae5-b1c8-ef5494b14ce7",
@@ -417,7 +417,7 @@
 		"id": "a350b0c8-d67f-4ecf-9396-66068e3a42e2",
 		"prefix": "3.2.1",
 		"title": "Je kunt schriftelijke corresponderen",
-		"vakinhoud_id": "bk:42a1d80d-e026-4b22-b504-5f4346997a61",
+		"vakinhoud_id": "36b1b671-b403-45ad-804a-8c42acfb58bd",
 		"doelniveau_id": [
 			"90e6c855-1589-4a99-bf3f-26d135d06ec8",
 			"2aab8d74-f599-49b0-9086-3f3556e39c34",
@@ -443,7 +443,7 @@
 		"id": "71919f33-5e1e-480f-a290-3e7c41cc7659",
 		"prefix": "3.2.2",
 		"title": "Je kunt aantekeningen maken en berichten formuleren",
-		"vakinhoud_id": "bk:a78dc442-237d-4a0f-b916-bc790a5dc2b3",
+		"vakinhoud_id": "14440170-698d-49a7-9303-00689b62bb45",
 		"doelniveau_id": [
 			"0f62ae1a-e6f1-45b2-857a-fd0b32618dc6",
 			"68f0bd14-fe83-468a-b9d6-6be3b53adad3",
@@ -474,7 +474,7 @@
 		"id": "2061c5e6-fe4d-45cb-8610-3484239e49ec",
 		"prefix": "3.2.3",
 		"title": "Je kunt verslagen en rapporten schrijven",
-		"vakinhoud_id": "bk:cd1d1d07-7680-419d-96bf-06b5cb9eaca8",
+		"vakinhoud_id": "9a2347c9-e2ce-40f2-bd60-0e41d1021943",
 		"doelniveau_id": [
 			"e2969e69-7907-44be-9f2d-4e9a8b420308",
 			"1ba7696b-c3fc-4eaa-b477-efb803c7207b",
@@ -488,7 +488,7 @@
 		"id": "8a0440cd-f65b-4d7f-af82-0d0b99b651da",
 		"prefix": "3.2.4",
 		"title": "Je kunt vrij schrijven",
-		"vakinhoud_id": "bk:c7ce71c4-59a8-4a44-9def-2d6e5beda820",
+		"vakinhoud_id": "15779f0b-31fb-405e-a857-8cad8916d556",
 		"doelniveau_id": [
 			"f57ae2da-3d98-40f2-9a2c-5acd5f42fa1b",
 			"e4992220-31e1-4876-a6d4-36d46674e6fc",
@@ -578,7 +578,7 @@
 		"id": "c45f1ceb-1c2b-40e3-b6b6-1f2e3ef9f1bc",
 		"prefix": "4.2.1",
 		"title": "Je kunt correspondentie lezen",
-		"vakinhoud_id": "bk:c14d05d5-c4e0-4118-8de0-7c673ca3f601",
+		"vakinhoud_id": "db03fca5-328a-484b-af6b-a3e4f2262aae",
 		"doelniveau_id": [
 			"ef4a5f04-24bd-423a-a2ac-840342fecb67",
 			"fc0f2985-d996-4d36-bd5b-9adbca14f4f5",
@@ -595,7 +595,7 @@
 		"id": "abe1de76-7f4e-4a28-b9be-78684a9ff5cb",
 		"prefix": "4.2.2",
 		"title": "Je kunt oriënterend lezen",
-		"vakinhoud_id": "bk:f81197f7-90d2-4cac-8d02-159a61572989",
+		"vakinhoud_id": "0e098575-e1a2-4c04-a90e-781671a285e5",
 		"doelniveau_id": [
 			"c5902e95-35b6-4a52-a61a-a670fc4a36c6",
 			"01dfc427-043a-4eee-91fe-ab3ef8083552",
@@ -622,7 +622,7 @@
 		"id": "e9077aae-ee7e-4db2-b6e8-3088bea618ab",
 		"prefix": "4.2.3",
 		"title": "Je kunt lezen om informatie op te doen",
-		"vakinhoud_id": "bk:559b63c7-6867-417a-adbd-905f78ca020c",
+		"vakinhoud_id": "d200040c-36cf-4e90-84b2-3f0150f328b2",
 		"doelniveau_id": [
 			"ccbf52dc-7569-4cfe-a66e-f67eb0212363",
 			"5c3d0c15-4f11-4499-af53-efe7671c5012",
@@ -647,7 +647,7 @@
 		"id": "800a3e01-3af8-4d4b-b348-d76461f1de55",
 		"prefix": "4.2.4",
 		"title": "Je kunt instructies lezen",
-		"vakinhoud_id": "bk:14f40275-2ed7-4946-b0d8-cedcdc548d56",
+		"vakinhoud_id": "3c8012d5-daf3-4a39-8e8f-7eb4d2e1b872",
 		"doelniveau_id": [
 			"ded397d6-1294-443d-abdd-181f79bd7986",
 			"564f14e9-0044-4f81-b4f3-d9e132034ce9",
@@ -738,7 +738,7 @@
 		"id": "f51676f4-5155-444d-a579-da7e15f9238f",
 		"prefix": "5.2.1",
 		"title": "Je kunt gesprekken tussen moedertaalsprekers verstaan",
-		"vakinhoud_id": "bk:b7227727-09a7-4f70-a89a-8b444904e016",
+		"vakinhoud_id": "d875b039-8601-41b6-af86-33e910013a0b",
 		"doelniveau_id": [
 			"c3a6aad9-201a-4fb5-82db-a6a5ba39bff6",
 			"1a1be704-505a-4bf0-9d5c-8cae69cbd7e3",
@@ -761,7 +761,7 @@
 		"id": "6d3405fc-6a6e-4527-a221-f43d62ac4451",
 		"prefix": "5.2.2",
 		"title": "Je kunt als lid van een live publiek - Luisteren als lid van een live publiek",
-		"vakinhoud_id": "bk:4b360b4e-bb14-4d79-9d3d-1c040a37952f",
+		"vakinhoud_id": "6cdbf90f-5eec-4304-8be0-3aed6b5000e1",
 		"doelniveau_id": [
 			"9eb7f670-d0b6-4330-b4fe-c511c1f1c46d",
 			"1857fd4e-b44b-431c-9874-51ca0e47f37a",
@@ -773,7 +773,7 @@
 		"id": "65e30943-eaaa-4e9d-9e8c-0ed352c5e643",
 		"prefix": "5.2.3",
 		"title": "Je kunt aankondigingen en instructies begrijpen",
-		"vakinhoud_id": "bk:5f3c8c90-0f02-436a-87da-683a5aab1e95",
+		"vakinhoud_id": "2926ee80-2b4b-43c3-83e9-9dcd91c724df",
 		"doelniveau_id": [
 			"3430b193-62cf-4958-9499-ffc91f0e081b",
 			"9610fc26-5f0d-43ed-a701-f776c2833377",
@@ -797,7 +797,7 @@
 		"id": "07e169f0-c9f2-4ec6-a18a-a40f3008f093",
 		"prefix": "5.2.4",
 		"title": "Je kunt TV, video en geluidsopnames begrijpen",
-		"vakinhoud_id": "bk:14d061c8-8987-479d-8c14-8323ce7bad13",
+		"vakinhoud_id": "6b75597e-cc4d-4dc9-ae36-20bcbfbc1a58",
 		"doelniveau_id": [
 			"4015696d-bb80-4524-8ac5-9bfb48124032",
 			"d4e60b6e-6ebd-4bdd-a206-646beca46ec5",
