@@ -149,7 +149,7 @@
                 "$ref": "#/definitions/ldk_vaksubkern"
             }
         },
-		"ldk_vakinhoud": {
+	"ldk_vakinhoud": {
             "#file": "data/ldk.vakinhouden.json",
             "type": "array",
             "items": {
