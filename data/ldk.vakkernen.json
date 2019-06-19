@@ -4,7 +4,7 @@
 		"unreleased" : true,
 		"prefix": "A.",
 		"title": "Inzicht en handelen",
-		"vakkern_id": ee274481-3a9f-4799-9f41-4b1d80b42b65",
+		"vakkern_id": "ee274481-3a9f-4799-9f41-4b1d80b42b65",
 		"ldk_vaksubkern_id": [
 			"b9eaec85-1db6-469f-9b26-f6f022117562",
 			"815aa847-5a0f-4a81-b9ff-79b7d552070d"
@@ -19,7 +19,7 @@
 		"unreleased" : true,
 		"prefix": "B.",
 		"title": "Getallen - en variabelen",
-		"vakkern_id": dced6368-c076-4d51-8d83-53e9a87bef40",
+		"vakkern_id": "dced6368-c076-4d51-8d83-53e9a87bef40",
 		"ldk_vaksubkern_id": [
 			"24ab1c86-3493-4be0-b654-2b9991a2dff4",
 			"1475299b-810c-469b-b177-2c52ad0b6ff1",
@@ -49,7 +49,7 @@
 		"unreleased" : true,
 		"prefix": "C.",
 		"title": "Verhoudingen",
-		"vakkern_id": 343892c7-78bb-4a66-b398-c6613190d3b6",
+		"vakkern_id": "343892c7-78bb-4a66-b398-c6613190d3b6",
 		"ldk_vaksubkern_id": [
 			"375f2d71-b5e6-4c65-994d-ab2bca49a1e3"
 		],
@@ -67,7 +67,7 @@
 		"unreleased" : true,
 		"prefix": "D.",
 		"title": "Meten en meetkunde",
-		"vakkern_id": e3f34035-1352-4024-9812-7f30b291d00b",
+		"vakkern_id": "e3f34035-1352-4024-9812-7f30b291d00b",
 		"ldk_vaksubkern_id": [
 			"7bacea0f-1379-41be-ad6d-cfe114f74d32",
 			"bb6a802a-0ce6-497c-8099-0142b06bc10d"
@@ -92,7 +92,7 @@
 		"unreleased" : true,
 		"prefix": "E.",
 		"title": "Verbanden en formules",
-		"vakkern_id": 32f0ac46-4e74-4f8b-a91a-dc613b3af182",
+		"vakkern_id": "32f0ac46-4e74-4f8b-a91a-dc613b3af182",
 		"ldk_vaksubkern_id": [
 			"e5cdf87b-3c69-446c-8373-9012b076c7b9",
 			"311af618-20ff-486d-b331-e443f2de65d1",
@@ -136,7 +136,7 @@
 		"unreleased" : true,
 		"prefix": "F.",
 		"title": "Informatieverwerking en onzekerheid",
-		"vakkern_id": 2c99cb0a-e34d-4eda-a2bc-0413e078353f",
+		"vakkern_id": "2c99cb0a-e34d-4eda-a2bc-0413e078353f",
 		"ldk_vaksubkern_id": [
 			"d5d72d56-8de1-4d8b-9987-a80c557b2962"
 		],
@@ -150,7 +150,7 @@
 		"unreleased" : true,
 		"prefix": "B.",
 		"title": "Getallen (en variabelen)",
-		"vakkern_id": dced6368-c076-4d51-8d83-53e9a87bef40",
+		"vakkern_id": "dced6368-c076-4d51-8d83-53e9a87bef40",
 		"ldk_vaksubkern_id": [
 			"24ab1c86-3493-4be0-b654-2b9991a2dff4",
 			"1475299b-810c-469b-b177-2c52ad0b6ff1"
@@ -295,7 +295,7 @@
 		"id": "2a74b1c7-6ddb-4548-84e3-25ab6219c32e",
 		"unreleased" : true,
 		"title": "Materie",
-		"vakkern_id": 117c754a-2084-478a-b298-dd3e054dd556",
+		"vakkern_id": "117c754a-2084-478a-b298-dd3e054dd556",
 		"ldk_vaksubkern_id": [
 			"f73c8415-c572-456d-873b-bc5ab5e71830",
 			"05bdbda1-491e-4746-9a5c-d9c7dcd0d364",
@@ -316,7 +316,7 @@
 		"id": "55838d4c-032b-473f-a5d7-e322ce4d66bc",
 		"unreleased" : true,
 		"title": "Schaal, verhouding en hoeveelheid",
-		"vakkern_id": 2605ae96-3548-4000-bd54-85144f891b4b",
+		"vakkern_id": "2605ae96-3548-4000-bd54-85144f891b4b",
 		"ldk_vaksubkern_id": [
 			"c4f2fa20-b038-4063-8723-9d6c950175f4",
 			"e216fceb-684c-40bb-84b2-338199adc076",
@@ -353,7 +353,7 @@
 		"id": "61be320a-e55a-4018-9f86-4804888cf93d",
 		"unreleased" : true,
 		"title": "Energie",
-		"vakkern_id": 0f148ee1-b499-4ddb-95a5-c92ad1279edb",
+		"vakkern_id": "0f148ee1-b499-4ddb-95a5-c92ad1279edb",
 		"ldk_vaksubkern_id": [
 			"e97c95d8-cc9d-4fe3-916c-31869bbae9d2",
 			"0642c526-763b-4f2e-80fc-81ad8b6f0cb3"
@@ -368,7 +368,7 @@
 		"unreleased" : true,
 		"prefix": "1.",
 		"title": "Materie",
-		"vakkern_id": 117c754a-2084-478a-b298-dd3e054dd556",
+		"vakkern_id": "117c754a-2084-478a-b298-dd3e054dd556",
 		"ldk_vaksubkern_id": [
 			"e69c09c8-4dc7-45e0-988b-217d3100a521",
 			"df42a33c-5e29-4bf2-9581-25cd538fb90c",
@@ -388,7 +388,7 @@
 		"unreleased" : true,
 		"prefix": "2.",
 		"title": "Energie",
-		"vakkern_id": 0f148ee1-b499-4ddb-95a5-c92ad1279edb",
+		"vakkern_id": "0f148ee1-b499-4ddb-95a5-c92ad1279edb",
 		"ldk_vaksubkern_id": [
 			"1c93b638-a338-4b18-924d-5355fdb4715b",
 			"4bb9f9e4-20f3-4725-ac8d-73daf0a9ee22",
@@ -408,7 +408,7 @@
 		"unreleased" : true,
 		"prefix": "3.",
 		"title": "Licht, geluid en straling",
-		"vakkern_id": fe2ab6d9-f3b9-481a-bb90-37fddaf4ca29",
+		"vakkern_id": "fe2ab6d9-f3b9-481a-bb90-37fddaf4ca29",
 		"ldk_vaksubkern_id": [
 			"ee226deb-3528-46ea-8ac7-630b91878d94",
 			"57cd99dd-5f86-4534-9f75-00ecdf3f535f",
@@ -428,7 +428,7 @@
 		"unreleased" : true,
 		"prefix": "4.",
 		"title": "Kracht en beweging",
-		"vakkern_id": 11279be6-5119-4331-a31d-361b1be3af29",
+		"vakkern_id": "11279be6-5119-4331-a31d-361b1be3af29",
 		"ldk_vaksubkern_id": [
 			"43a2c374-bc58-4b68-8584-9532ee162165",
 			"1c46665d-1d7a-44f1-b142-e9543c6add94",
@@ -448,7 +448,7 @@
 		"unreleased" : true,
 		"prefix": "5.",
 		"title": "Ruimte",
-		"vakkern_id": cfb7ffe6-cc9c-49b5-8873-4d68d60d75ab",
+		"vakkern_id": "cfb7ffe6-cc9c-49b5-8873-4d68d60d75ab",
 		"ldk_vaksubkern_id": [
 			"374b3064-6134-4d4a-aa75-e95a77f2a77f"
 		],
@@ -564,7 +564,7 @@
 		"id": "15570229-bbfc-4db0-9cf5-0609f13f489d",
 		"unreleased" : true,
 		"title": "Regenten en vorsten (1600 - 1700)",
-		"vakkern_id": e9ad263e-cf35-4a87-9a1b-444f59c53862",
+		"vakkern_id": "e9ad263e-cf35-4a87-9a1b-444f59c53862",
 		"ldk_vaksubkern_id": [
 			"57132447-baaf-4853-afa0-923eae43ba40",
 			"04353bef-0664-4630-8cee-ab48306bdd98",
@@ -584,7 +584,7 @@
 		"id": "3b08e56b-c7e3-4f52-9eb8-976502855efb",
 		"unreleased" : true,
 		"title": "Pruiken en revoluties (1700 - 1800)",
-		"vakkern_id": e4c57a2f-d7fa-4fc7-b293-074c276ab2cf",
+		"vakkern_id": "e4c57a2f-d7fa-4fc7-b293-074c276ab2cf",
 		"ldk_vaksubkern_id": [
 			"abf41de8-5961-4c89-b18e-22c5310fca70",
 			"48f1e7a2-beee-4ba9-9192-957f8d9ad812",
@@ -603,7 +603,7 @@
 		"id": "bac75feb-5999-41d8-893e-92e9fa232935",
 		"unreleased" : true,
 		"title": "Burgers en stoommachines (1800 - 1900)",
-		"vakkern_id": dd8751f6-a0c2-445a-b863-89f5294617f1",
+		"vakkern_id": "dd8751f6-a0c2-445a-b863-89f5294617f1",
 		"ldk_vaksubkern_id": [
 			"1eb53b0f-41d3-4394-9b0b-cde550e54a52",
 			"0d0c3e36-c44b-44b6-9c4d-5c30417f9e60",
@@ -729,7 +729,7 @@
 		"id": "5342f013-dea3-418d-8930-42aa2a522969",
 		"unreleased" : true,
 		"title": "Schaarste",
-		"vakkern_id": 8913f9b6-60d1-4486-ad23-b5323f356a53",
+		"vakkern_id": "8913f9b6-60d1-4486-ad23-b5323f356a53",
 		"ldk_vaksubkern_id": [
 			"0b0ddcc3-34ac-48c1-9791-b41c0930e091",
 			"24d24175-2675-496c-9f32-eecc89a62273"
@@ -806,7 +806,7 @@
 		"id": "e27b027b-9b1e-4390-b2d0-7b0a6c4843e7",
 		"unreleased" : true,
 		"title": "Samenwerken en onderhandelen",
-		"vakkern_id": 0a715024-bacd-41ed-9ac8-134be6c03f70",
+		"vakkern_id": "0a715024-bacd-41ed-9ac8-134be6c03f70",
 		"ldk_vaksubkern_id": [
 			"eb8724d2-d2e8-4a0e-9adb-cf50d4ac3d61",
 			"9b278b03-f72a-4fa3-8ad9-a246515574f2",
@@ -908,7 +908,7 @@
 		"id": "2971214c-234b-4fda-9df0-6cad19753c0e",
 		"unreleased" : true,
 		"title": "Instandhouding",
-		"vakkern_id": 456aae74-1aa5-4c39-b706-3070f92460be",
+		"vakkern_id": "456aae74-1aa5-4c39-b706-3070f92460be",
 		"ldk_vaksubkern_id": [
 			"28ce87d7-0fc3-4293-ae72-e1bdd8550e81",
 			"dc96c8c4-0f3e-4fb7-984a-bc462b46e5c7",
@@ -930,7 +930,7 @@
 		"id": "c2e0e52b-c7c4-4983-a2bf-06c210140fe5",
 		"unreleased" : true,
 		"title": "Interactie",
-		"vakkern_id": 10adc434-31fe-4b63-8201-05d235863861",
+		"vakkern_id": "10adc434-31fe-4b63-8201-05d235863861",
 		"ldk_vaksubkern_id": [
 			"e66c7078-61a7-45b1-b0e4-e53c010f1755",
 			"6cad0a15-0ef6-47d6-a379-d927d61fc991",
@@ -951,7 +951,7 @@
 		"id": "5fef051c-3f2a-47bc-8c7c-f23762ef6d38",
 		"unreleased" : true,
 		"title": "Voortplanting",
-		"vakkern_id": ae9e9b78-e51f-4663-b61a-ab5034ec1709",
+		"vakkern_id": "ae9e9b78-e51f-4663-b61a-ab5034ec1709",
 		"ldk_vaksubkern_id": [
 			"c8b35d7d-e87b-4a24-968e-042f669303f0",
 			"551bff81-9ad7-49e0-bfff-f10362d622c4",
@@ -964,7 +964,7 @@
 		"id": "acd180fc-d129-406e-9031-a83ae13dbeac",
 		"unreleased" : true,
 		"title": "Evolutie",
-		"vakkern_id": 71db625a-a83c-48fc-bee6-9e40abcb4aff",
+		"vakkern_id": "71db625a-a83c-48fc-bee6-9e40abcb4aff",
 		"ldk_vaksubkern_id": [
 			"49ba656f-5410-4298-9207-d4323126678b",
 			"011ee7c5-9dc9-490a-a1b8-d13b9701d778"
@@ -1014,7 +1014,7 @@
 		"id": "496042c2-3e8c-47c1-8b32-27c377d3ba4e",
 		"unreleased" : true,
 		"title": "Voortplanting - reproductie",
-		"vakkern_id": ae9e9b78-e51f-4663-b61a-ab5034ec1709",
+		"vakkern_id": "ae9e9b78-e51f-4663-b61a-ab5034ec1709",
 		"ldk_vaksubkern_id": [
 			"c8b35d7d-e87b-4a24-968e-042f669303f0",
 			"551bff81-9ad7-49e0-bfff-f10362d622c4",
@@ -1027,7 +1027,7 @@
 		"id": "b4e6a910-451c-4fcd-8ef6-766f51f48b75",
 		"unreleased" : true,
 		"title": "Voortplanting (reproductie)",
-		"vakkern_id": ae9e9b78-e51f-4663-b61a-ab5034ec1709",
+		"vakkern_id": "ae9e9b78-e51f-4663-b61a-ab5034ec1709",
 		"ldk_vaksubkern_id": [
 			"37b0bfac-2e38-42f7-8e77-67b38f6a3ef3",
 			"551bff81-9ad7-49e0-bfff-f10362d622c4",
@@ -1047,7 +1047,7 @@
 		"id": "73b3d749-9ed3-46e6-a4e3-4434f9b0416f",
 		"unreleased" : true,
 		"title": "Burgerschap",
-		"vakkern_id": aa2f68ba-69e5-415d-8d9b-8d6ab98942b1",
+		"vakkern_id": "aa2f68ba-69e5-415d-8d9b-8d6ab98942b1",
 		"ldk_vaksubkern_id": [
 			"e303105b-a6a9-44b3-b18b-98126b0daba6",
 			"60b6ebae-d0ba-477a-99fa-c055bfcf0630",
@@ -1067,7 +1067,7 @@
 		"id": "95c823be-1207-407d-854a-b1fee5415752",
 		"unreleased" : true,
 		"title": "Duurzaamheid",
-		"vakkern_id": f719f7e0-ba85-493d-8d78-b0910a38c7d8",
+		"vakkern_id": "f719f7e0-ba85-493d-8d78-b0910a38c7d8",
 		"ldk_vaksubkern_id": [
 			"846d23f8-a63d-46b4-ac9d-3f56ce1ed1ee",
 			"4ce389d0-dd93-4029-9d20-1ea0c517c91d",
@@ -1086,7 +1086,7 @@
 		"id": "1dd9bcfb-4fe7-46c1-b221-46ed30144b29",
 		"unreleased" : true,
 		"title": "Bevolking en ruimte",
-		"vakkern_id": d7b9af96-3901-420c-9911-1542cd361a09",
+		"vakkern_id": "d7b9af96-3901-420c-9911-1542cd361a09",
 		"ldk_vaksubkern_id": [
 			"10c95f68-0075-4fdd-be1e-896b6fda45c2",
 			"0862afaf-b0f6-4d45-8a44-64cd4a0f8616",
@@ -1105,7 +1105,7 @@
 		"id": "8c2672a5-49c9-45c0-9af0-ea85066296d7",
 		"unreleased" : true,
 		"title": "Globalisering",
-		"vakkern_id": 5740506b-37d5-456e-9f4f-e4cb789ace32",
+		"vakkern_id": "5740506b-37d5-456e-9f4f-e4cb789ace32",
 		"ldk_vaksubkern_id": [
 			"14ea5db5-33a1-4305-a2e8-2990333b0479",
 			"86c7fd12-6126-4c74-ad8c-d351532894f9",
@@ -1129,7 +1129,7 @@
 		"id": "2406684a-d56b-4d2d-af97-24c57dac9940",
 		"unreleased" : true,
 		"title": "Arm en rijk",
-		"vakkern_id": 3e89bbcb-3ef4-4370-ab61-e6427356b68f",
+		"vakkern_id": "3e89bbcb-3ef4-4370-ab61-e6427356b68f",
 		"ldk_vaksubkern_id": [
 			"c0559f4e-501c-4e0a-8b35-45934f033a6d",
 			"40b4dfe1-ba21-4767-89a8-a873befe4592"
@@ -1189,7 +1189,7 @@
 		"id": "547945b0-d880-42ee-b381-4ce42e6805b5",
 		"unreleased" : true,
 		"title": "Landschappen (en menselijke activiteit)",
-		"vakkern_id": 18659e7c-0e13-4da4-825f-5b4ffefec41b",
+		"vakkern_id": "18659e7c-0e13-4da4-825f-5b4ffefec41b",
 		"ldk_vaksubkern_id": [
 			"c451ec14-4595-46cc-b494-593c26dc400d",
 			"ba8d0af2-0bb0-43ce-9061-e82e5c219ff3"
@@ -1207,7 +1207,7 @@
 		"id": "0fe873c8-1be3-45c4-b7ab-17ba571564ed",
 		"unreleased" : true,
 		"title": "Water",
-		"vakkern_id": 77463b26-616a-4f36-a82d-ef0ffd951c50",
+		"vakkern_id": "77463b26-616a-4f36-a82d-ef0ffd951c50",
 		"ldk_vaksubkern_id": [
 			"822b70e9-70b0-4c4b-9b73-f4e97cf80dbb",
 			"cd3a11f7-ce75-432f-b090-1b89b082f318",
