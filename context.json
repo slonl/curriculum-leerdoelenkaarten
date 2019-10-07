@@ -3,9 +3,6 @@
         "ldk_vak": {
             "allOf": [ { "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-inhouden/context.json#/definitions/inhoud" } ],
             "properties": {
-                "vak_id": {
-                    "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-inhouden/context.json#/definitions/vak"
-                },
                 "ldk_vakkern_id": {
                     "allOf": [
                         {
@@ -24,7 +21,7 @@
                     "required": ["id","title","ldk_vakkern_id"]
                 },
                 {
-                    "required": ["id","title","doelniveau_id"]
+                    "required": ["id","title","ldk_doelniveau_id"]
                 }
             ],
             "not": {
@@ -41,9 +38,6 @@
         "ldk_vakkern": {
             "allOf": [ { "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-inhouden/context.json#/definitions/inhoud" } ],
             "properties": {
-                "vakkern_id": {
-                    "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-inhouden/context.json#/definitions/vakkern"
-                },
                 "ldk_vaksubkern_id" : {
                     "allOf": [
                         {
@@ -62,7 +56,7 @@
                     "required": ["id","title","ldk_vaksubkern_id"]
                 },
                 {
-                    "required": ["id","title","doelniveau_id"]
+                    "required": ["id","title","ldk_doelniveau_id"]
                 }
             ],
             "not": {
@@ -79,9 +73,6 @@
         "ldk_vaksubkern": {
             "allOf": [ { "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-inhouden/context.json#/definitions/inhoud" } ],
             "properties": {
-                "vaksubkern_id": {
-                    "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-inhouden/context.json#/definitions/vaksubkern"
-                },
                 "ldk_vakinhoud_id" : {
                     "allOf": [
                         {
@@ -100,7 +91,7 @@
                     "required": ["id","title","ldk_vakinhoud_id"]
                 },
                 {
-                    "required": ["id","title","doelniveau_id"]
+                    "required": ["id","title","ldk_doelniveau_id"]
                 }
             ],
             "not": {
@@ -116,12 +107,28 @@
         },
         "ldk_vakinhoud": {
             "allOf": [ { "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-inhouden/context.json#/definitions/inhoud" } ],
+            "required": ["ldk_doelniveau_id"]
+        },
+        "ldk_doelniveau": {
+            "type": "object",
             "properties": {
-                "vakinhoud_id": {
-                    "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-inhouden/context.json#/definitions/vakinhoud"
+                "id": {
+                    "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/uuid"
+                },
+                "ldk_doel_id": {
+                    "allOf": [
+                        {"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/uuidArray"},
+                        {
+                            "items": {
+                                "itemTypeReference": "#/definitions/ldk_doel"
+                            }
+                        }
+                    ]
                 }
-            },
-            "required": ["doelniveau_id"]
+            }
+        },
+        "ldk_doel": {
+            "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/base"
         }
     },
     "$id": "https://opendata.slo.nl/curriculum/schemas/curriculum-leerdoelenkaarten/context.json",
@@ -149,13 +156,27 @@
                 "$ref": "#/definitions/ldk_vaksubkern"
             }
         },
-		"ldk_vakinhoud": {
+        "ldk_vakinhoud": {
             "#file": "data/ldk.vakinhouden.json",
             "type": "array",
             "items": {
                 "$ref": "#/definitions/ldk_vakinhoud"
             }
-		},
+        },
+        "ldk_doel": {
+            "#file": "data/ldk.doelen.json",
+            "type": "array",
+            "items": {
+                "$ref": "#/definitions/ldk_doel"
+            }
+        },
+        "ldk_doelniveau": {
+            "#file": "data/ldk.doelniveaus.json",
+            "type": "array",
+            "items": {
+                "$ref": "#/definitions/ldk_doelniveau"
+            }
+        },
         "ldk_deprecated": {
             "#file": "data/ldk.deprecated.json",
             "type": "array"

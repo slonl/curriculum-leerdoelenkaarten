@@ -15,9 +15,9 @@
 			"da31698b-6f52-48b8-ac5c-8222798bdac9",
 			"04ab1511-c733-4d63-9981-bd048e9e083d"
 		],
-		"doelniveau_id": [],
+		"ldk_doelniveau_id": [],
 		"vak_id": [
-			"bk:c001f86a-4f8f-4420-bd78-381c615ecedc"
+			"c001f86a-4f8f-4420-bd78-381c615ecedc"
 		]
 	},
 	{
@@ -32,9 +32,9 @@
 			"8c2ecab6-3bc2-4076-a817-c0c90eb9c5e6",
 			"73366e7f-d896-4cb1-bc30-852786d4ccb8"
 		],
-		"doelniveau_id": [],
+		"ldk_doelniveau_id": [],
 		"vak_id": [
-			"bk:7afbb7a6-c29b-425c-9c59-6f79c845f5f0"
+			"7afbb7a6-c29b-425c-9c59-6f79c845f5f0"
 		]
 	},
 	{
@@ -48,7 +48,7 @@
 			"9b12c88a-51f4-4251-a8d6-b92a0492cd4d",
 			"e349c9d2-9bdd-4796-b50e-842ffc404ac4"
 		],
-		"doelniveau_id": [],
+		"ldk_doelniveau_id": [],
 		"vak_id": []
 	},
 	{
@@ -60,9 +60,9 @@
 			"d7779e08-72fb-4e51-b5b0-2328ca1878aa",
 			"8cc43fb9-e462-45ad-9dff-95b597755f41"
 		],
-		"doelniveau_id": [],
+		"ldk_doelniveau_id": [],
 		"vak_id": [
-			"bk:3aab168a-9b24-4aca-b0f1-4bfb12e7c288"
+			"3aab168a-9b24-4aca-b0f1-4bfb12e7c288"
 		]
 	},
 	{
@@ -75,9 +75,9 @@
 			"171e80d9-9801-456c-bf14-173bf10515b0",
 			"4636b85f-fe2a-43a8-ae27-3e1077e003a5"
 		],
-		"doelniveau_id": [],
+		"ldk_doelniveau_id": [],
 		"vak_id": [
-			"bk:e98be5ad-4bd2-4768-a9eb-7e24026e360c"
+			"e98be5ad-4bd2-4768-a9eb-7e24026e360c"
 		]
 	},
 	{
@@ -95,9 +95,9 @@
 			"281cec5f-8f2c-4e4b-83ed-f141215caac4",
 			"8657a97c-bf36-438e-b67b-ba04c4d1c432"
 		],
-		"doelniveau_id": [],
+		"ldk_doelniveau_id": [],
 		"vak_id": [
-			"bk:ef3a0b2e-0843-4e0a-b45b-788be6e1ec8d"
+			"ef3a0b2e-0843-4e0a-b45b-788be6e1ec8d"
 		]
 	},
 	{
@@ -110,9 +110,9 @@
 			"355cbf61-0e0c-4943-b137-6a0735aa5392",
 			"2e6de77e-98e7-471f-ae67-6742fa7dcde5"
 		],
-		"doelniveau_id": [],
+		"ldk_doelniveau_id": [],
 		"vak_id": [
-			"bk:18f53978-1118-4051-a778-b8d7f60ca982"
+			"18f53978-1118-4051-a778-b8d7f60ca982"
 		]
 	},
 	{
@@ -128,9 +128,9 @@
 			"5bbe6ae4-3ba8-444d-8c45-06b3c32e14fe",
 			"ae107825-48d8-4b70-bdb8-fb3006bb4ca7"
 		],
-		"doelniveau_id": [],
+		"ldk_doelniveau_id": [],
 		"vak_id": [
-			"bk:4ba5583f-b147-42cc-a083-ce5ebfd53746"
+			"4ba5583f-b147-42cc-a083-ce5ebfd53746"
 		]
 	},
 	{
@@ -143,9 +143,9 @@
 			"355cbf61-0e0c-4943-b137-6a0735aa5392",
 			"b103c45c-36f8-4c42-a8dd-0aa4c89ca5ec"
 		],
-		"doelniveau_id": [],
+		"ldk_doelniveau_id": [],
 		"vak_id": [
-			"bk:81a1f605-db58-448d-a1dc-da682316c505"
+			"81a1f605-db58-448d-a1dc-da682316c505"
 		]
 	},
 	{
@@ -163,9 +163,9 @@
 			"6f14e33b-4463-4aa1-8ffa-0568a21eec1c",
 			"4a5456b8-04b0-4a2a-b9d8-437172ebc0f3"
 		],
-		"doelniveau_id": [],
+		"ldk_doelniveau_id": [],
 		"vak_id": [
-			"bk:2b363227-8633-4652-ad57-c61f1efc02c8"
+			"2b363227-8633-4652-ad57-c61f1efc02c8"
 		]
 	}
 ]

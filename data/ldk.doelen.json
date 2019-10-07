@@ -12609,7 +12609,7 @@
 		"id": "8d61779a-562a-4b85-a362-4d8a1a72d035",
 		"prefix": "1.1.5",
 		"title": "Beheersing van de woordenschat",
-		"doelniveau_id": [
+		"ldk_doelniveau_id": [
 			"31ed658b-eeb0-49e1-9faa-baa9285c190f",
 			"45d2b5be-fcff-4aa4-87fa-0f0c6222c00b",
 			"9ece33c1-7b91-47fc-901e-57406b35f171",
