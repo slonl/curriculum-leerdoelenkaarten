@@ -1,171 +1,153 @@
 [
 	{
-		"id": "02872176-38db-4e68-a2dc-8cdd8538a767",
+		"id": "a5bb4131-9200-4a47-8774-b3510b30a7d1",
 		"title": "Aardrijkskunde",
 		"ldk_vakkern_id": [
-			"aba95b34-c6de-4e2b-8749-f1bf6b5b6bdb",
-			"f0edf6d9-e814-4586-bf48-4614c309ea91",
-			"b0fec2fb-ee31-4249-a406-8f3f72287125",
-			"391debef-a8c3-46d7-80a9-5e0201f2ec51",
-			"6da87efc-2194-4106-a5f2-bd0339fdf4f9",
-			"545ba11d-d83a-4a72-81cd-84bc068a2f8e",
-			"4ce47238-5edc-4881-a7fe-edc8fd1065a0",
-			"8de234ce-5d7b-44a5-ac58-a71f63fc6aac",
-			"d5f5e4e2-f23c-4fb1-9564-7af17789573a",
-			"da31698b-6f52-48b8-ac5c-8222798bdac9",
-			"04ab1511-c733-4d63-9981-bd048e9e083d"
+			"77a0b460-a6dc-496e-bb82-b5bff3e21414",
+			"50ff024a-9418-4eb7-8c4f-40a6a9c08d9a",
+			"5ae3dc87-7479-430f-8524-aa032b6fc221",
+			"3f33b38a-32a5-4941-b4a5-22304be902d6",
+			"bb69b19d-f58d-4671-b5ed-fc98f9e10cf3",
+			"521a4e6e-db06-48f1-a299-e54945f56212",
+			"1cd36062-b042-4671-baf1-abb5717844d4",
+			"17772fa7-fc44-47fe-b95b-e125b9b0c816",
+			"a1c29743-a407-405c-8044-c1a006032636"
 		],
-		"ldk_doelniveau_id": [],
+		"doelniveau_id": [],
 		"vak_id": [
-			"c001f86a-4f8f-4420-bd78-381c615ecedc"
+			"bk:c001f86a-4f8f-4420-bd78-381c615ecedc"
 		]
 	},
 	{
-		"id": "72a846c5-a66b-4bb4-be73-4ffbfe19422a",
+		"id": "6320abfe-b619-4e19-a02b-bc5583367ba0",
+		"title": "Biologie",
+		"ldk_vakkern_id": [
+			"61bb9aab-ec28-4909-a2e4-b699d043b60b",
+			"169c7372-2972-49a2-a7fe-afb30e59b3c6",
+			"2a1d2717-36b6-4f5f-b7fd-3f09b3622350",
+			"02403057-24bf-4c58-9d3e-a6a2fbdee301",
+			"57c5bd6c-f2f4-4205-831b-276bab08927b",
+			"5be65f39-3ef9-47ce-a408-9aa5131e4b8d",
+			"5791dbbe-ac37-4ee4-9c29-778245cba823",
+			"1cb7b153-7605-4c03-8cf9-315f34011be4",
+			"0dcef778-5c24-4c5e-9ad0-583a0bf49518"
+		],
+		"doelniveau_id": [],
+		"vak_id": [
+			"bk:2b363227-8633-4652-ad57-c61f1efc02c8"
+		]
+	},
+	{
+		"id": "d7e87e21-b1c4-4995-81f1-a003ef55db76",
+		"title": "Geschiedenis",
+		"ldk_vakkern_id": [
+			"f3336b0e-11fe-4457-8266-7f90ce397177",
+			"a788b5cd-c541-4b72-8556-c07c7727b774",
+			"e53bdd7f-0a1e-45fc-979c-e40f9e63ba38",
+			"7b3f79c1-c4e3-4dd9-98fc-073db0c63a55",
+			"515a188f-1f4f-4a28-be52-8fd4b8031872",
+			"cc818394-0f38-4712-b961-274a2aabbae8",
+			"a6d5273a-bda7-49da-a94d-06174c55a58b",
+			"0786f89c-348d-4dd7-95e2-9d5f8d76b9d6",
+			"a69aec39-84fb-4a68-b95c-60deb866f7a7",
+			"126d9150-2e02-4364-b333-4d93bed08155"
+		],
+		"doelniveau_id": [],
+		"vak_id": [
+			"bk:ef3a0b2e-0843-4e0a-b45b-788be6e1ec8d"
+		]
+	},
+	{
+		"id": "74332da7-7fa3-46f0-a377-7a2f6a291976",
+		"title": "Natuurkunde",
+		"ldk_vakkern_id": [
+			"32249afc-0ff8-4ef8-91ba-7f128cc3f149",
+			"c54c2a5d-65d8-4a5a-a623-4e518646e131",
+			"55b5430e-5d37-47da-80d8-afb9220e3080",
+			"d0202e11-79f0-42be-8aff-bf26fa1acb32",
+			"8b2fa004-c1d4-40c6-81ec-f074c43adab4"
+		],
+		"doelniveau_id": [],
+		"vak_id": [
+			"bk:e98be5ad-4bd2-4768-a9eb-7e24026e360c"
+		]
+	},
+	{
+		"id": "bfb4ed35-d3aa-43d8-b3df-39b2939c4277",
+		"title": "Scheikunde",
+		"ldk_vakkern_id": [
+			"ac4ba904-56df-4cbe-8931-6a8eea3168d7",
+			"273fefd0-8302-4bdc-a621-0cb8cf9ec38c",
+			"f09c0fe5-1a4c-4430-8ee4-441fbdc08945",
+			"54721391-dad2-426b-8e98-d0ea286b96b0"
+		],
+		"doelniveau_id": [],
+		"vak_id": [
+			"bk:3aab168a-9b24-4aca-b0f1-4bfb12e7c288"
+		]
+	},
+	{
+		"id": "40b67197-23a0-4750-b0d5-14f3a2547d2b",
 		"title": "Wiskunde",
 		"ldk_vakkern_id": [
-			"106e63ee-17b5-4190-9286-3521c2fef9ba",
-			"2a479b19-53f3-4d86-8671-51939d3e60f3",
-			"bf1c10df-7b97-4359-a3f7-ac6e23412ca8",
-			"b2c4afdd-d797-4834-9667-83e213cb23fb",
-			"450d7862-36c4-4c42-b4b6-33739df5f906",
-			"8c2ecab6-3bc2-4076-a817-c0c90eb9c5e6",
-			"73366e7f-d896-4cb1-bc30-852786d4ccb8"
+			"cd07b81e-1c70-450c-9426-97d88ef6f27d",
+			"8c658ce0-c7a9-419c-81a0-f67eb39965c9",
+			"eac047fd-35b3-4ac0-91c9-8d58aa647fa2",
+			"d8fb18b6-fa1c-434b-9d2b-877854a3183b",
+			"608d69d1-878a-463e-b0b4-73dd1cbf7277",
+			"0c02485e-0f89-4845-8d75-490320269567",
+			"4cc4957c-b4c5-409c-b88b-b3aa61edaea5"
 		],
-		"ldk_doelniveau_id": [],
+		"doelniveau_id": [],
 		"vak_id": [
-			"7afbb7a6-c29b-425c-9c59-6f79c845f5f0"
+			"bk:7afbb7a6-c29b-425c-9c59-6f79c845f5f0"
 		]
 	},
 	{
-		"id": "fcc676ff-910b-4f60-8dd4-bb0d7d0c7225",
+		"id": "7ccddef9-f86c-4e32-aad6-dc51df194642",
+		"title": "Economie",
+		"ldk_vakkern_id": [
+			"6c7df176-1eff-4b93-bb35-78d8c0313d43",
+			"af0f103d-30f7-4794-926b-3eb84175538a",
+			"9655a050-6330-48b4-94ff-c0b2d97a83b6",
+			"11b6b67b-df49-45a2-a478-0979ab4bfe8c",
+			"2460bafd-536f-44b8-abde-6e10789e91f8",
+			"52d8a17e-4d12-4b6d-9ff8-4fb8bd8858d9",
+			"853eb3be-cbdc-44eb-95bf-83e8e77b04b8",
+			"e4007dbd-dc61-49e3-aba3-4c26d52b8de1"
+		],
+		"doelniveau_id": [],
+		"vak_id": [
+			"bk:4ba5583f-b147-42cc-a083-ce5ebfd53746"
+		]
+	},
+	{
+		"id": "fdeb6fce-c3fd-406c-948e-80c6b76ff009",
 		"title": "Techniek",
 		"ldk_vakkern_id": [
-			"86795d32-cb81-4c32-bb03-ec9959471cdd",
-			"6dd1f03b-70dc-4bb3-910c-4ece0825297b",
-			"eab900bf-ee3e-4d7d-9a73-6d344c6b376e",
-			"93eac416-d4a8-4041-9bac-d14f54872be9",
-			"9b12c88a-51f4-4251-a8d6-b92a0492cd4d",
-			"e349c9d2-9bdd-4796-b50e-842ffc404ac4"
+			"e0eb4157-a304-4e43-9b10-15af6cf5b67a",
+			"d4661c01-9822-4275-bf9e-37d87bf47c69",
+			"9e30d31a-f954-468b-8a17-9123279b1183",
+			"ac66ed1a-9117-4b6d-93e7-6d7d20a42744",
+			"f6d43710-6fa5-4d7e-b9a3-ab83379eeea9",
+			"608555c8-1192-48f0-bfc4-90237c1e428c"
 		],
-		"ldk_doelniveau_id": [],
+		"doelniveau_id": [],
 		"vak_id": []
 	},
 	{
-		"id": "5bb89b8a-37ae-4cb4-9da3-884e6379e171",
-		"title": "Scheikunde",
-		"ldk_vakkern_id": [
-			"37df9815-0682-4474-98e3-2c050345e4cb",
-			"0300e66f-312c-448d-8428-1a9bbc5e84ae",
-			"d7779e08-72fb-4e51-b5b0-2328ca1878aa",
-			"8cc43fb9-e462-45ad-9dff-95b597755f41"
-		],
-		"ldk_doelniveau_id": [],
-		"vak_id": [
-			"3aab168a-9b24-4aca-b0f1-4bfb12e7c288"
-		]
-	},
-	{
-		"id": "28677c42-fbcd-4806-928b-add12417d736",
-		"title": "Natuurkunde",
-		"ldk_vakkern_id": [
-			"7265de0e-4788-44a0-b256-c5f2db15a5f2",
-			"e92fcfb9-7dd0-45c9-b4b9-25dbfa5765d5",
-			"4f030bba-d982-48b8-8aba-f50ae7387eea",
-			"171e80d9-9801-456c-bf14-173bf10515b0",
-			"4636b85f-fe2a-43a8-ae27-3e1077e003a5"
-		],
-		"ldk_doelniveau_id": [],
-		"vak_id": [
-			"e98be5ad-4bd2-4768-a9eb-7e24026e360c"
-		]
-	},
-	{
-		"id": "9970cdbf-4366-4f12-90b9-8101410aad5e",
-		"title": "Geschiedenis",
-		"ldk_vakkern_id": [
-			"ad89a784-efa8-4895-bf1d-e0830191e6b7",
-			"7a35b78c-2d61-4922-af59-f64c78aaa112",
-			"1f037618-fc6a-45c9-b12f-a047466ab4ab",
-			"06450be3-b803-4a34-a07b-e96fba87a10a",
-			"04692364-b9ab-4d94-b797-74020bc226b1",
-			"9edf3696-40bd-43ef-a68a-4356cf68003e",
-			"dd01db6c-2e2d-42a4-b5b7-6bc1639655e1",
-			"460fdc80-de17-41e1-91c4-96c4dfb34734",
-			"281cec5f-8f2c-4e4b-83ed-f141215caac4",
-			"8657a97c-bf36-438e-b67b-ba04c4d1c432"
-		],
-		"ldk_doelniveau_id": [],
-		"vak_id": [
-			"ef3a0b2e-0843-4e0a-b45b-788be6e1ec8d"
-		]
-	},
-	{
-		"id": "52107e80-5d96-4e25-8207-8619d440ffcc",
+		"id": "525b6fe1-2eb9-4b13-9753-008d60d00063",
 		"title": "Engels",
 		"ldk_vakkern_id": [
-			"fd0a582e-b93c-4fd8-8392-67b2cb28620f",
-			"20c4ce64-8d39-4810-b4e3-00886671bf23",
-			"c9759d36-2b4e-406e-9210-d39483659952",
-			"355cbf61-0e0c-4943-b137-6a0735aa5392",
-			"2e6de77e-98e7-471f-ae67-6742fa7dcde5"
+			"2dae0f08-6b14-4a26-be09-a1c5ab8d8a4b",
+			"2cf7b8f3-63c3-4f2c-9119-2a470ddc07c8",
+			"77bb29e0-4b1d-4ed0-9405-83849bc72c24",
+			"0842af97-d581-4c33-8e87-09c07989ec82",
+			"132017a3-9c87-4996-9c48-cb9aefbe6e01"
 		],
-		"ldk_doelniveau_id": [],
+		"doelniveau_id": [],
 		"vak_id": [
-			"18f53978-1118-4051-a778-b8d7f60ca982"
-		]
-	},
-	{
-		"id": "1ea25851-9185-4be6-bc6a-fd6f2e5261ae",
-		"title": "Economie",
-		"ldk_vakkern_id": [
-			"d0e5dca5-e974-48d9-8f98-d60a439a6bf3",
-			"a1d7fa49-79d8-404e-8c8f-70ab11b72c9f",
-			"1b16d887-f7f4-4096-acd4-2a610fd1eecf",
-			"57d02831-0168-4a1e-a5fb-b8a02f215a71",
-			"d565b526-60ec-40b0-99fd-f5eba787946c",
-			"e73ebfe0-e0a9-4990-b47e-5304b58ee191",
-			"5bbe6ae4-3ba8-444d-8c45-06b3c32e14fe",
-			"ae107825-48d8-4b70-bdb8-fb3006bb4ca7"
-		],
-		"ldk_doelniveau_id": [],
-		"vak_id": [
-			"4ba5583f-b147-42cc-a083-ce5ebfd53746"
-		]
-	},
-	{
-		"id": "8e27cfe5-cbf2-4ed2-ad9c-b6417b203df5",
-		"title": "Duits",
-		"ldk_vakkern_id": [
-			"fd0a582e-b93c-4fd8-8392-67b2cb28620f",
-			"20c4ce64-8d39-4810-b4e3-00886671bf23",
-			"c9759d36-2b4e-406e-9210-d39483659952",
-			"355cbf61-0e0c-4943-b137-6a0735aa5392",
-			"b103c45c-36f8-4c42-a8dd-0aa4c89ca5ec"
-		],
-		"ldk_doelniveau_id": [],
-		"vak_id": [
-			"81a1f605-db58-448d-a1dc-da682316c505"
-		]
-	},
-	{
-		"id": "60ab7836-a6db-4113-b3ef-12d04e65d524",
-		"title": "Biologie",
-		"ldk_vakkern_id": [
-			"9e7e3fce-4c0f-454b-a59c-8bedf612fd4d",
-			"ba908b5f-d8e1-4168-afaf-a19a9ff3e4ae",
-			"48d4bad3-4a6f-4aa1-b366-9a3f8ce32a73",
-			"5d75d0a0-be26-42c2-9db2-8438b505ea77",
-			"3d09d733-cef4-4e60-a277-83cedd374c29",
-			"11b393d8-7171-4bc5-a740-8e741e2dd690",
-			"8815d54d-4b86-49dd-a900-91064a1cc7e6",
-			"6f7939d4-bdc2-4cb6-8c8c-2f7499631418",
-			"6f14e33b-4463-4aa1-8ffa-0568a21eec1c",
-			"4a5456b8-04b0-4a2a-b9d8-437172ebc0f3"
-		],
-		"ldk_doelniveau_id": [],
-		"vak_id": [
-			"2b363227-8633-4652-ad57-c61f1efc02c8"
+			"bk:18f53978-1118-4051-a778-b8d7f60ca982"
 		]
 	}
 ]
