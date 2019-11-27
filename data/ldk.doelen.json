@@ -92,12 +92,7 @@
 	{
 		"id": "84d742b3-1b2b-45d4-a88e-632a412d9f01",
 		"prefix": "4.1",
-		"title": "Transport en vervoer",
-		"ldk_vakinhoud_id": [],
-		"doelniveau_id": [],
-		"vaksubkern_id": [
-			"bk:55adb109-c72f-430c-b007-4d2fa7bbcfa3"
-		]
+		"title": "Transport en vervoer"
 	},
 	{
 		"id": "820612e4-e7ba-4694-b45d-f7099b98d400",

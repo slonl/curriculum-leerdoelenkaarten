@@ -13,7 +13,7 @@
 			"17772fa7-fc44-47fe-b95b-e125b9b0c816",
 			"a1c29743-a407-405c-8044-c1a006032636"
 		],
-		"doelniveau_id": [],
+		"ldk_doelniveau_id": [],
 		"vak_id": [
 			"bk:c001f86a-4f8f-4420-bd78-381c615ecedc"
 		]
@@ -32,7 +32,7 @@
 			"1cb7b153-7605-4c03-8cf9-315f34011be4",
 			"0dcef778-5c24-4c5e-9ad0-583a0bf49518"
 		],
-		"doelniveau_id": [],
+		"ldk_doelniveau_id": [],
 		"vak_id": [
 			"bk:2b363227-8633-4652-ad57-c61f1efc02c8"
 		]
@@ -52,7 +52,7 @@
 			"a69aec39-84fb-4a68-b95c-60deb866f7a7",
 			"126d9150-2e02-4364-b333-4d93bed08155"
 		],
-		"doelniveau_id": [],
+		"ldk_doelniveau_id": [],
 		"vak_id": [
 			"bk:ef3a0b2e-0843-4e0a-b45b-788be6e1ec8d"
 		]
@@ -67,7 +67,7 @@
 			"d0202e11-79f0-42be-8aff-bf26fa1acb32",
 			"8b2fa004-c1d4-40c6-81ec-f074c43adab4"
 		],
-		"doelniveau_id": [],
+		"ldk_doelniveau_id": [],
 		"vak_id": [
 			"bk:e98be5ad-4bd2-4768-a9eb-7e24026e360c"
 		]
@@ -81,7 +81,7 @@
 			"f09c0fe5-1a4c-4430-8ee4-441fbdc08945",
 			"54721391-dad2-426b-8e98-d0ea286b96b0"
 		],
-		"doelniveau_id": [],
+		"ldk_doelniveau_id": [],
 		"vak_id": [
 			"bk:3aab168a-9b24-4aca-b0f1-4bfb12e7c288"
 		]
@@ -98,7 +98,7 @@
 			"0c02485e-0f89-4845-8d75-490320269567",
 			"4cc4957c-b4c5-409c-b88b-b3aa61edaea5"
 		],
-		"doelniveau_id": [],
+		"ldk_doelniveau_id": [],
 		"vak_id": [
 			"bk:7afbb7a6-c29b-425c-9c59-6f79c845f5f0"
 		]
@@ -116,7 +116,7 @@
 			"853eb3be-cbdc-44eb-95bf-83e8e77b04b8",
 			"e4007dbd-dc61-49e3-aba3-4c26d52b8de1"
 		],
-		"doelniveau_id": [],
+		"ldk_doelniveau_id": [],
 		"vak_id": [
 			"bk:4ba5583f-b147-42cc-a083-ce5ebfd53746"
 		]
@@ -132,7 +132,7 @@
 			"f6d43710-6fa5-4d7e-b9a3-ab83379eeea9",
 			"608555c8-1192-48f0-bfc4-90237c1e428c"
 		],
-		"doelniveau_id": [],
+		"ldk_doelniveau_id": [],
 		"vak_id": []
 	},
 	{
@@ -145,7 +145,7 @@
 			"0842af97-d581-4c33-8e87-09c07989ec82",
 			"132017a3-9c87-4996-9c48-cb9aefbe6e01"
 		],
-		"doelniveau_id": [],
+		"ldk_doelniveau_id": [],
 		"vak_id": [
 			"bk:18f53978-1118-4051-a778-b8d7f60ca982"
 		]
