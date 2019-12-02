@@ -4353,5 +4353,153 @@
 		"ldk_doelniveau_id": [
 			"82256229-9c08-4eee-9e49-904911fdb65c"
 		]
+	},
+	{
+		"id": "c873b205-3d00-4d4f-8118-f83be1205ae3",
+		"prefix": "1.1",
+		"title": "Hoe doe je het?",
+		"ldk_vakinhoud_id": [
+			"40e24009-961e-40cb-a206-eb4921f3f3d7",
+			"cf5ec9ae-cd77-4373-ab1f-646262f057a7",
+			"de29794c-8c4a-4bc5-b911-fda7631f5873",
+			"1d520821-78e7-48ae-8cb8-7f3bc490b794",
+			"fd5499ce-d186-4167-a286-33c77182d740",
+			"c4a8c06d-1eca-4e71-bdea-87b5a27c6eff",
+			"98256a6b-6f6d-4601-a05f-ae65cba68310",
+			"8f4ecae7-899e-4e46-b219-9f656fda7d69",
+			"b54368d0-fa69-48d4-b489-02d405cbd02b",
+			"08f0d067-8827-4e5a-9523-e4847c77778c",
+			"5003b050-defa-417a-9a92-f06bf6a92b0d",
+			"dcd711c8-4090-4c3c-b818-c4ccdcc28803"
+		],
+		"ldk_doelniveau_id": [],
+		"vaksubkern_id": []
+	},
+	{
+		"id": "d681fa8c-3af9-4624-bde9-f84a8a075f15",
+		"prefix": "1.2",
+		"title": "Wat doe je?",
+		"ldk_vakinhoud_id": [
+			"5b2cf519-501b-4a22-8df3-d04087a13e3d",
+			"6ac0bed8-4ee7-4a15-b7e9-3f748fcaf8ff",
+			"51de282c-777e-47e2-8f21-d456426301bd",
+			"6280cd85-979d-4db4-9045-a9bd4dee0163",
+			"2714b321-97af-4c83-b4b3-c7a2eb646a8f"
+		],
+		"ldk_doelniveau_id": [],
+		"vaksubkern_id": []
+	},
+	{
+		"id": "0c3f7473-f015-42c2-8ad3-8521f301fac9",
+		"prefix": "2.1",
+		"title": "Hoe doe je dat?",
+		"ldk_vakinhoud_id": [
+			"e7a42abb-caca-4d16-a737-f65e5e2095b5",
+			"4242daca-442b-4c18-ad30-f13e47d3734c",
+			"3e5979d7-2e00-4ea9-8bda-54c8ac538860",
+			"ae452b8d-d768-45d8-baf4-362ed24a6f88",
+			"451dc564-f732-4370-9cf6-6cffea84551a",
+			"cb29cf68-14e6-44d8-b76c-5fe2cd513ea1",
+			"de235e3f-fcfd-45a0-bb57-d77c9ed02082",
+			"faff794c-f8f2-4a32-9876-92c5ee122d5f"
+		],
+		"ldk_doelniveau_id": [],
+		"vaksubkern_id": []
+	},
+	{
+		"id": "6be7c5d3-7d4e-465a-8e3b-8c5bb451c9ee",
+		"prefix": "2.2",
+		"title": "Wat doe je?",
+		"ldk_vakinhoud_id": [
+			"f36eb158-d664-486c-a7e0-e33f0f2c17d5",
+			"82b5561c-94f5-4023-a2c8-ecf1bcd80dc5",
+			"c81054b5-2c1d-4628-a6da-f0bafc2aed5a"
+		],
+		"ldk_doelniveau_id": [],
+		"vaksubkern_id": []
+	},
+	{
+		"id": "b58b9729-1a1f-4658-9991-c3929662550c",
+		"prefix": "3.1",
+		"title": "Hoe doe je dat?",
+		"ldk_vakinhoud_id": [
+			"9f0a3579-b458-4aea-821e-5de80b1b3a6d",
+			"49c4dc5b-7e8a-43af-b52c-a742c5414ada",
+			"b29a6bd7-8c63-47f6-97d4-d80f64b8b6ce",
+			"3caeca84-2ae2-4b0e-b376-8d1b8ee69ded",
+			"65b301b1-243c-4ef0-ad04-c621f2e000de",
+			"e8212006-2a42-4279-9481-4e12013a1677",
+			"b1861172-38a4-4afd-89e7-cbe5adc01f53",
+			"a20a814c-71ea-4a2a-be20-266978d797ed"
+		],
+		"ldk_doelniveau_id": [],
+		"vaksubkern_id": []
+	},
+	{
+		"id": "78ee7ef4-6623-4f75-b390-2fd0fa78eac9",
+		"prefix": "3.2",
+		"title": "Wat doe je?",
+		"ldk_vakinhoud_id": [
+			"008998a7-501b-439c-8315-66f0f15a45ca",
+			"f7b3ca80-1c23-4dcd-89c6-33dc091f672c",
+			"9b3f05f7-d82f-43b8-8e56-51ea1d578e6a",
+			"3559ec15-edf0-4bb7-8f1b-32084299bfde"
+		],
+		"ldk_doelniveau_id": [],
+		"vaksubkern_id": []
+	},
+	{
+		"id": "311cd0aa-0aa1-4db3-8e98-1ac782e865d8",
+		"prefix": "4.1",
+		"title": "Hoe doe je dat?",
+		"ldk_vakinhoud_id": [
+			"a42db988-9519-4e0b-a5d3-8ca7368bf177",
+			"6454bc94-8d95-4cdc-9565-d3bdc1150535",
+			"7ea10555-37ce-4798-a1ae-d14c84259d03",
+			"c2b7ced0-a6f6-45cb-b78e-f8e1c410e2fe"
+		],
+		"ldk_doelniveau_id": [],
+		"vaksubkern_id": []
+	},
+	{
+		"id": "f9747f1e-11fb-40cd-a2bb-94900e16ee16",
+		"prefix": "4.2",
+		"title": "Wat doe je?",
+		"ldk_vakinhoud_id": [
+			"4cde41a3-05f7-4250-a426-674916faaeac",
+			"9114f607-a690-47b9-aead-6e4849698dac",
+			"56f7b268-c69a-4939-9c88-856737949886",
+			"05143a65-4de1-48fd-aea5-ed7ef3dba4df"
+		],
+		"ldk_doelniveau_id": [],
+		"vaksubkern_id": []
+	},
+	{
+		"id": "e992d4cf-488e-40c9-b159-345bbf080f26",
+		"prefix": "5.1",
+		"title": "Hoe doe je dat?",
+		"ldk_vakinhoud_id": [
+			"ccec2739-7aab-4148-9601-538d1bc6e18e",
+			"24a6900d-8c65-4cca-8978-f3fb7c63f692",
+			"fff8d56a-e8c9-4495-ac62-b7bdbc38a3b7",
+			"4452f3a4-4c3f-46db-af5f-99a7949580eb"
+		],
+		"ldk_doelniveau_id": [],
+		"vaksubkern_id": []
+	},
+	{
+		"id": "6062ba50-429a-4d1f-8d0d-fa60f3700d7f",
+		"prefix": "5.2",
+		"title": "Wat doe je?",
+		"ldk_vakinhoud_id": [
+			"cb670b84-f6e5-4d07-95f2-bd9c0e73c764",
+			"b19d561f-bbd2-4f9e-8022-953054fdb85d",
+			"2c383774-9f09-4ca9-9a94-b88c7c41e62d",
+			"bb4e328f-e338-40db-8987-7578fa56de6f",
+			"36ae64cd-3970-4c14-b8ff-afc9b0ec2a5b",
+			"fda7e1d4-f913-44f9-86cc-32cc8a6f4439"
+		],
+		"ldk_doelniveau_id": [],
+		"vaksubkern_id": []
 	}
 ]

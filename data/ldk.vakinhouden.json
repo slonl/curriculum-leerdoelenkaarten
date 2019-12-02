@@ -877,5 +877,1125 @@
 			"6ecfc96b-a082-40ae-b7ab-e97f73ee2e0f",
 			"3f5da7eb-2c69-4969-8d26-b07b5399b39b"
 		]
+	},
+	{
+		"id": "40e24009-961e-40cb-a206-eb4921f3f3d7",
+		"prefix": "1.1.1",
+		"title": "Woordenschat receptief",
+		"ldk_doelniveau_id": [
+			"fe67a211-617f-454e-b8e5-4abb94d0e201",
+			"553f96ad-02cd-4206-8631-878f66e70462",
+			"d26d483a-7159-4650-8ab7-43f631657dd0",
+			"714cc5fb-bbe0-42ab-8680-432040b59706",
+			"e7f7ab1a-86f4-4a47-bfdf-5003a89886af",
+			"e3aa9ef5-9585-4845-8e9f-8835d26ac1c1",
+			"e52f3de2-f43d-4fa1-91de-42fcfd70cbcf",
+			"120be31d-9f5c-41f4-9686-400409bbb7b3",
+			"3732841f-43f0-4e15-8561-e597ede5434c",
+			"5d0bb4fe-bfe9-4c86-8bfb-7e35b53b345f",
+			"44059faf-e3aa-43bd-9e01-6704035965e0",
+			"4cb58f42-fd8b-4258-8bf2-ac881c0c098e",
+			"c656d1be-6073-402d-a988-e7d20fdf389f",
+			"3ce66dfd-1433-4d63-96ca-057e1b9a12cc"
+		],
+		"vakinhoud_id": []
+	},
+	{
+		"id": "cf5ec9ae-cd77-4373-ab1f-646262f057a7",
+		"prefix": "1.1.2",
+		"title": "Tempo en articulatie receptief",
+		"ldk_doelniveau_id": [
+			"8815144a-afbe-4bc7-89a7-3e5ea3da73cf",
+			"f0dfba1f-a66d-43b2-a865-d17a743bce6d",
+			"56771bef-ac54-4c0f-8516-3fe90da1156e",
+			"f6fa6ae0-1eff-4085-93bb-ba1f9bf2a8ef",
+			"41c0f4aa-e76d-4a2b-a4e7-4e231aeeb6b6",
+			"48d7d6c3-ce96-4988-9e5c-d0082e58a914",
+			"75c397b7-72ef-48ca-ab3c-00cef82e7742",
+			"22d9be59-009d-42aa-a3f5-d6a7d2a467f4",
+			"03596d79-21f0-4408-80f4-769353c5bebe",
+			"17658ad7-1ddf-4579-9bbd-d042556e5caa"
+		],
+		"vakinhoud_id": []
+	},
+	{
+		"id": "de29794c-8c4a-4bc5-b911-fda7631f5873",
+		"prefix": "1.1.3",
+		"title": "Hulp",
+		"ldk_doelniveau_id": [
+			"fa9a416f-58b5-412e-8a14-1b143fe8ef25",
+			"57054f21-963a-44af-a452-cdfbf516c307",
+			"2c26f056-ca9f-411a-8f0b-3322eff29043",
+			"2f619000-4068-4559-ab88-5417d88777de",
+			"a5fc531d-bcbf-4dc9-9253-7aa32a2007ad",
+			"f0f704a7-76cb-477e-bf1c-47a5b72bfdcf",
+			"ba7185b6-6276-48c6-854f-a9ba2c958b78",
+			"7e0d66b2-216c-4ebf-a0bc-45fcfb49fcaf",
+			"8682f3a7-3c85-4b4a-b3bf-a057701e24a6",
+			"b01feaa4-611e-4a83-b85e-2384cdbd8e4b",
+			"93d68746-bfd9-430f-9a51-2df19edcfe91",
+			"28f270af-1a5a-40d2-8656-4aa05e8a044b"
+		],
+		"vakinhoud_id": []
+	},
+	{
+		"id": "1d520821-78e7-48ae-8cb8-7f3bc490b794",
+		"prefix": "1.1.4",
+		"title": "Bereik van de woordenschat",
+		"ldk_doelniveau_id": [
+			"1db7f76a-1c14-4774-a512-c4fb0b3d1b64",
+			"bccd9a90-f389-4932-9bf2-30404f1d6dee",
+			"bb913558-814d-4592-84ef-39424bc37c78",
+			"b1469bac-53be-4d13-989b-8fe16dc2c4fd",
+			"09033b40-0a79-4d4b-bc8f-46bf2e7bc631",
+			"82dbe0c7-df34-46ff-8e7c-3e223125b4e7",
+			"d1b23225-02d5-4082-844e-59fe80bb8b26",
+			"373b9ccf-6428-412e-9b26-6394a052c6e8"
+		],
+		"vakinhoud_id": []
+	},
+	{
+		"id": "fd5499ce-d186-4167-a286-33c77182d740",
+		"prefix": "1.1.6",
+		"title": "Grammaticale correctheid",
+		"ldk_doelniveau_id": [
+			"19fc3e56-5528-4927-b08f-154adb8d130f",
+			"79efda5a-5adb-4472-aa08-552a3ae8d366",
+			"77b4ba7f-dd8c-4922-a39b-05530f43b24b",
+			"e922634a-bc0d-4813-ad9e-595a0aa720e5",
+			"bcfd13b0-9bb6-4592-84bb-2ba7727f1286",
+			"bb34a413-6367-4029-b6d6-2bdda50da9e6",
+			"f49da828-0032-4143-ad8d-6949880e689d",
+			"562ad6c3-498c-4e70-a943-fba101aa4fea",
+			"e9b1ee3a-99d5-4005-aa31-145a4f6831b4"
+		],
+		"vakinhoud_id": []
+	},
+	{
+		"id": "c4a8c06d-1eca-4e71-bdea-87b5a27c6eff",
+		"prefix": "1.1.7",
+		"title": "Vloeiendheid",
+		"ldk_doelniveau_id": [
+			"b17fcd72-4138-4d48-8c17-bc3aaa8e929a",
+			"da9fc764-ae61-4794-b213-841b80dca551",
+			"8eba87c7-27f8-4e84-a110-e3fcec05ff8a",
+			"481a64ed-f02f-4f87-862a-db080eb18996",
+			"c7b6ed48-4d79-4e14-994a-8bd3a7472680",
+			"7ab29a87-e4ba-4d50-beaa-fe8b5125106a",
+			"2b7be612-ba6f-4cb9-ab02-6835d9dde23b",
+			"b6738690-54ea-4f5d-b53d-bbde63031a8a",
+			"f011d226-96e7-4517-b0bc-408e59570f52"
+		],
+		"vakinhoud_id": []
+	},
+	{
+		"id": "98256a6b-6f6d-4601-a05f-ae65cba68310",
+		"prefix": "1.1.8",
+		"title": "Samenhang",
+		"ldk_doelniveau_id": [
+			"60f4ef44-b263-40b5-9606-a1f3e8bf531d",
+			"b10f83e8-dfce-45cd-a7fa-4eada4c8ccbc",
+			"c89b3adf-0ba2-4696-b252-7b73644bbf95",
+			"7c3f8f1d-5e78-4b66-8fe0-74519bb3d7a8",
+			"e49f845c-8452-46e7-8d89-a42b163cab81",
+			"d9714442-5d21-4b9c-ad21-57404e8258dd",
+			"5269ccdc-3efd-4cbc-a8d8-31dce40ba96c"
+		],
+		"vakinhoud_id": []
+	},
+	{
+		"id": "8f4ecae7-899e-4e46-b219-9f656fda7d69",
+		"prefix": "1.1.9",
+		"title": "Uitspraak",
+		"ldk_doelniveau_id": [
+			"790105c4-9b42-4c88-8975-45cc22751ea2",
+			"fc7856db-b50f-4eda-ac3f-2cc5123551e0",
+			"7c96b37f-9f40-4f2a-b807-002a75942952",
+			"cc18086e-d4d0-496d-820b-6abecfbec909",
+			"c3f8508c-cdc6-4be1-8d0f-b96c5c4ec962",
+			"b9fee14d-1a61-4c27-a3ed-206ea088a485",
+			"3fa526d2-c9da-4d17-990e-2da466211d25",
+			"8c6ba6ae-d95c-4a72-8ad6-2a690a820f7d",
+			"0f442c81-9814-4680-9101-a06af4b8ad0c",
+			"f7d3f75c-62b3-4626-a841-fc5ba05a9083"
+		],
+		"vakinhoud_id": []
+	},
+	{
+		"id": "b54368d0-fa69-48d4-b489-02d405cbd02b",
+		"prefix": "1.1.10",
+		"title": "Afstemming taalgebruik op doel en gesprekspartner(s)",
+		"ldk_doelniveau_id": [
+			"f98921b1-239f-4f16-8e55-ba3e8398b831",
+			"e78a1286-4e5b-4ac9-adca-4782de336d57",
+			"7d927351-8ec2-422d-bcbf-9587c0717253",
+			"46680efa-be89-4944-9cae-33757b4dae2b",
+			"92f1256b-2319-49ed-af94-384c09d901ab",
+			"acacf57f-4a44-44c1-bd05-013f1aedd7c7",
+			"6e804794-3762-43fa-b0ed-cb73eff54947",
+			"619a64bb-c1f5-4d1d-83a5-8a49a5e81095"
+		],
+		"vakinhoud_id": []
+	},
+	{
+		"id": "08f0d067-8827-4e5a-9523-e4847c77778c",
+		"prefix": "1.1.11",
+		"title": "Interactie",
+		"ldk_doelniveau_id": [
+			"8c8a0446-4f20-4944-8b2e-d87bb6e7eb21",
+			"c9cfb2fa-07e6-4e27-b0f2-7c03c6781d08",
+			"ac0e45d9-81e1-41d9-9cda-42a0771a19ac",
+			"629e1625-0574-48ff-95c2-60aed1e955cd",
+			"f173fba7-9341-4c44-a4b2-7ba0d0af3c3f",
+			"8c7ef464-96ba-45f5-a343-9d3582b8ef2a",
+			"7641065f-856e-489e-88dd-16be6f0e1fb2",
+			"efa1a7e3-cee7-4c81-9b0a-61e6da7aac47",
+			"675f63f9-a95e-4a16-99bb-831523fd0396",
+			"39e15201-7fdf-4b0b-b9a7-dabffb951e1f",
+			"b28ec07b-7f97-4a48-9835-7395ce186fef",
+			"238c1184-2143-4d14-9d08-a741d68e824c",
+			"de0a19e6-f148-46ca-aa6c-2ebcfe23bf11"
+		],
+		"vakinhoud_id": []
+	},
+	{
+		"id": "5003b050-defa-417a-9a92-f06bf6a92b0d",
+		"prefix": "1.1.12",
+		"title": "Interactiestrategieën",
+		"ldk_doelniveau_id": [
+			"0fab83a7-b126-4abf-9c3f-df78c4711367",
+			"37a0c521-d062-49c6-8bed-84d9a3f9a711",
+			"b1db11fa-6b1a-403d-be44-68e69111c4bc",
+			"4aac06d0-4875-408c-a005-67fbb51af07d",
+			"c970b5e1-fe45-428d-ae7d-c72b3f4a9b68",
+			"c138d9e4-f391-45ff-94b5-224e2d0c0b84",
+			"c948dee8-b703-48cf-81b2-267dc6ee5f1f",
+			"6633ccc9-22d4-48aa-9867-2532434ab303",
+			"0fffdfd5-eae7-449f-b230-1764d93e3c9c",
+			"6b605ec7-92f0-472f-becb-54579c12e430",
+			"4f90bcf7-fa1c-496b-ac52-8e857d274a71",
+			"1404489a-17db-4d71-b910-e2bb07d89480",
+			"2c1d59ad-dc68-4131-94b5-a077c966e510",
+			"608e36aa-f958-4a52-afaf-ac1c25f1160f",
+			"80f67ec0-ce7e-4636-833e-fa4309cf1005",
+			"1a9820e1-f51a-4a3c-877d-a816cfd7f380",
+			"a6f0413d-453c-4842-9b57-78aae865229e",
+			"3b75819e-add3-4603-898e-461da26b3944",
+			"63aeb430-6a84-4905-a8e8-252b36f37438",
+			"3aa153ae-6f62-4dd2-84a5-f322b4ee333a",
+			"10e46744-f1c3-4e3e-a978-52e339a46ce2",
+			"9ee3d82a-2499-4f72-add7-740a32c6691a",
+			"9d5919d1-819f-40cf-b404-0d93332d6e0b",
+			"4c786751-069a-4b73-acb4-bd8a724f9337",
+			"3322a8da-e8fe-4393-83b4-43d5d0da6904",
+			"09cad5e9-2790-4c7d-9298-664a830c6e7f",
+			"7cfbb5f5-f2c1-47be-9ed2-3f5c3d396939",
+			"899daec4-5dd3-435e-b872-842b48749ef3",
+			"9bc6032f-6b4f-45db-a755-3ec36dd3c813",
+			"f6dfe1e7-5cec-4239-aa4f-7bdc94026d66",
+			"f866da44-215f-4b77-aee3-af0b1d35034a",
+			"82199929-230b-4c9d-b54a-55f7076cd1cd",
+			"a4dd848e-7c04-4fd0-92da-88bd212d086d",
+			"aad72c8c-c8f6-497d-a992-0995691f4860",
+			"a55e8dee-c881-4b8a-afff-2c74c5833c8d",
+			"093b9d0c-e10e-4997-9d3e-38da99970556",
+			"7de714d1-27a0-4097-92ed-b90c5501c43b",
+			"5de0c8f3-e639-4279-91eb-52224bc79c9f"
+		],
+		"vakinhoud_id": []
+	},
+	{
+		"id": "376ca0d9-7a5a-4e78-b8ea-3dd4ae9099f7",
+		"title": "Algemeen beheersingsniveau",
+		"ldk_doelniveau_id": [
+			"2e7b0ce3-cd46-42ec-9885-f4fc7b503126",
+			"79006cf1-5dd3-4ba7-8776-a7006b86bcd0",
+			"650569c5-88bd-4b8c-8d4a-bdfbd35c11d1",
+			"024840a5-8863-4ac8-b918-c2c016082041",
+			"b1170f8b-2850-4b23-9d22-52cc98f51ed3",
+			"6225fc30-e73a-44f9-ae2e-f4fdb38b5b30",
+			"5f1ea9e2-75bf-4b56-ad77-780dc72d3abd",
+			"8ffc5817-5be8-47f9-b94c-339c5b3dc006",
+			"9bba65ee-a652-4b07-8e1d-dbbcc51f93cb",
+			"38204027-1c5e-4324-b64c-7657248dc8f2",
+			"9a1d1424-45cb-477f-a994-3ca58c5d8075",
+			"61996cac-06ff-498c-98b4-f5ec11d28b3a",
+			"fe8e208a-5954-4812-a215-e2393de2830f",
+			"ace22f6c-0bd1-46f7-89e2-38cf57e7dc23",
+			"af72c1bb-9d6a-498d-8acf-052d4fb45ed3",
+			"18d1a5e6-7134-4993-af0c-6af648fc37c1",
+			"27ad86b3-5279-46f6-89da-4259fa182790",
+			"134f0c5f-afe3-4f54-980b-b805c0eab059",
+			"1d937ce9-a2b7-499d-8ec6-ac96bcc7dce5",
+			"ef22a99c-1e6d-4432-be8a-204db82573c9",
+			"dce5f684-7505-44b8-8466-df994fa598e8",
+			"cc8a1d0a-b931-42c8-8ee1-373fe0915a12",
+			"43f2fe04-0918-4921-9c8d-e62dfbc34e50",
+			"7b2981fd-1444-408f-9c9a-5d4f1dac30a4",
+			"6554ac6a-046c-4f7b-84cd-98b5a7384619",
+			"d1daae8a-2fdb-4d88-9337-a46672b210dc",
+			"93ca1626-add5-45e2-8fe7-b229f38a4e5d",
+			"27edb590-3e1e-4f93-b545-bdd599c9f1cd",
+			"deb4e65b-40db-4aa8-b48f-454f9dd46af7",
+			"44c56c5b-e724-41b5-9032-cde47bf23f4d",
+			"9b7229e7-d824-44b5-9204-67f12e078dbb",
+			"0b7088df-ceac-4e35-a437-7b6dc02db55e",
+			"331e07fa-6d89-4059-b340-6cde8ce5af61",
+			"bea925f5-b071-477c-91e8-14fca4151aaa",
+			"b01a7f5d-98d7-4383-84e6-d24386053088",
+			"1a000e75-4cf8-47ca-8cf3-ba5e40f044b7",
+			"2a661a7b-6788-4b0b-a232-a35fdcb5c944",
+			"7dc73439-8bbd-4761-a129-814b8eaa8aed",
+			"06595238-4ff1-4731-9145-c2a11ae302e4",
+			"410f2327-8455-4313-b0a5-f01e838882bb",
+			"e4a3d904-bc64-492c-ac05-d465a4f7050e",
+			"d6b0f9b9-1cf6-48a9-baa9-91a8c9a6a06f",
+			"a8537383-07ad-4ad8-9acd-898bce6db915",
+			"1b167c63-2440-41ea-a035-096ac4c0be1f",
+			"ddb0ab70-31bb-4e1d-aade-21e7a3090dec",
+			"ed888ed1-90c2-47c7-8251-01600d7bb278",
+			"be1738ec-530a-4a1f-920d-2fbe57b3260f",
+			"0b1882ba-3400-481c-a915-7f269769286a",
+			"387b147c-f580-4317-b47b-b94c3ac86271",
+			"70a43be9-d71c-4e8c-94b7-88adc668c050",
+			"f981190b-2f85-4156-926e-b1e1799f9ed6",
+			"09272978-10f9-467c-8964-b7e5820a90f3",
+			"09590bc1-2a8a-4549-97a4-c1f1b0c3a67f",
+			"2a048e08-71cf-4dab-8fac-9997adf99dc6"
+		],
+		"vakinhoud_id": []
+	},
+	{
+		"id": "5b2cf519-501b-4a22-8df3-d04087a13e3d",
+		"prefix": "1.2.1",
+		"title": "Je kunt informele gesprekken voeren",
+		"ldk_doelniveau_id": [
+			"84b84416-8f55-41cc-95cb-b4a68c45dbd6",
+			"0393dea7-6187-4fd9-b36b-563ed52d4d8b",
+			"cf8791fd-7d83-43d0-97c6-b3dc0aeeb46e",
+			"ccca9cb4-d479-43a5-b202-54950c8ac40c",
+			"a6f7b77a-3b8a-4f9f-ba4a-c62319af50a1",
+			"1773596a-dc28-48c5-9ef4-2142e5b64aaf",
+			"c6e2f588-7f75-4218-b6fe-cef11003cb6c",
+			"80c029a4-42f8-4bbd-bdc1-f40f508b5122",
+			"eece36d1-8427-44d5-ae6e-9486f509d0b5",
+			"fe2e5317-e3a8-4148-8926-b70b04155064",
+			"7b1db36b-1796-49b5-bb3b-578e77c2e6a2",
+			"3a6c5557-1191-4a62-b77d-29077d4ed873",
+			"883548cf-fa52-44b0-860a-7912e709db76",
+			"98c33664-cbff-4288-91ee-a06babcd7208",
+			"eda2469b-82b9-4d1b-a5f2-acafd493cc2e",
+			"5d511418-857d-4afa-b453-af4db1c7e3d0",
+			"f59e22dc-c35d-441d-8b97-b9884b9b4108",
+			"1f4c642e-fec1-4d4d-b2b2-35988bf8f7cd",
+			"4b244cf1-f7d4-4a25-acf2-a025ca051176",
+			"4375e3be-cbd3-486d-9cd0-bf7dfe3edf31"
+		],
+		"vakinhoud_id": [
+			"bk:0d63a4cf-f479-4a54-bae4-1c4e716354d4"
+		]
+	},
+	{
+		"id": "6ac0bed8-4ee7-4a15-b7e9-3f748fcaf8ff",
+		"prefix": "1.2.2",
+		"title": "Je kunt formele discussies voeren tijdens bijeenkomsten",
+		"ldk_doelniveau_id": [
+			"326a6779-4566-4712-bd4a-9282dc6688a3",
+			"8cc5c673-8568-4c7e-8449-7ae82509b546",
+			"6273236e-df96-4094-9634-2139ba381a28",
+			"e8f1f533-f5d2-4813-9458-bdb1e42ae49a",
+			"bb1a4e20-7fad-413e-b759-5b1cfe5a9155",
+			"3dcb7dc4-8a96-49f1-829f-7cfa9b833a01",
+			"9fe821dd-80e9-47f6-b54f-fcd8796d24e3",
+			"ded0c99e-68e6-4014-986b-8a5d7e2e7a7b"
+		],
+		"vakinhoud_id": []
+	},
+	{
+		"id": "51de282c-777e-47e2-8f21-d456426301bd",
+		"prefix": "1.2.3",
+		"title": "Je kunt doelgericht samenwerken",
+		"ldk_doelniveau_id": [
+			"2eab5661-bb89-4016-a2ca-e451fc5fcbb4",
+			"5a837cbd-a8e2-4c3d-b41c-e84fc784cef2",
+			"bd931820-bfd5-4cec-a770-406e1e29f4ed",
+			"22a9c2fe-a65d-4a7e-ae16-106433a6f404",
+			"40e29d00-f315-4d59-9ec1-3cc1531a74cd",
+			"5e21d98e-0123-4b7d-8911-57123edb0b0b"
+		],
+		"vakinhoud_id": []
+	},
+	{
+		"id": "6280cd85-979d-4db4-9045-a9bd4dee0163",
+		"prefix": "1.2.4",
+		"title": "Je kunt zaken regelen",
+		"ldk_doelniveau_id": [
+			"1fa28690-f763-463d-bbf9-41cd47ec74f7",
+			"27def170-b337-499e-8472-68e33c16c88a",
+			"99fba1f3-1259-4279-a13c-bac46ada43a9",
+			"d8bf29f8-6745-4d17-bc95-f62afd9c3523",
+			"842a4d39-f9b2-4b6d-b720-4288d38c8894",
+			"103dd906-3c21-4b2c-8356-cf41ce617c67",
+			"6887f132-5b32-42be-8067-6b2924ad5286",
+			"9e563326-4ccd-42cc-9af6-3e2a02dd5eaa",
+			"22ae817f-038a-480b-9f61-0afb4294cf4d",
+			"1198ef68-5f7a-49c2-acd9-4922e0aedc43",
+			"fe45ef01-cf91-4ff7-9a90-753341999200",
+			"358fa8b4-fefc-4a8a-b888-341086b0b43e",
+			"c543e4ad-e862-44f7-99ca-aea8dbaf75ab",
+			"48b4fb5e-b236-4d3c-b302-6717fb8bb959",
+			"b7a750ca-0807-4f55-b7ad-44445fe16b21",
+			"33a00eed-de81-415f-abeb-bafbfa5d1d3a"
+		],
+		"vakinhoud_id": [
+			"bk:efe8fae9-be7a-437d-bfd5-713235ba2176"
+		]
+	},
+	{
+		"id": "2714b321-97af-4c83-b4b3-c7a2eb646a8f",
+		"prefix": "1.2.5.",
+		"title": "Je kunt informatie uitwisselen",
+		"ldk_doelniveau_id": [
+			"c59df292-80cc-4c5c-92e5-9c2b18caaf1e",
+			"d94e33a6-5cba-4d00-8736-2a1263de8673",
+			"5a8ef8cb-a1b3-430a-99c9-0806dd20eba2",
+			"b9e58cd8-e63f-4f36-8369-4698886780b5",
+			"6a604904-df79-42e8-a896-5bb2ff6f9dfd",
+			"344f71d3-39ac-44e8-97ae-3ebb116780c2",
+			"d6b45a2e-18c2-4f3d-8b6d-9f9a5fcc43ea",
+			"60866fd2-4d7a-4a1e-b215-1f4814e5b03e",
+			"1c6378a8-3cb9-4728-ab3e-7d6adda4669b",
+			"d821e0f3-18b6-4b98-a061-f380ff9f370f",
+			"5fbc832e-3b6c-462d-b992-d150980cfcb0",
+			"cf7836d2-b53c-47da-8037-b650a6c0ab9d",
+			"92cfcdee-1676-411f-9b7b-7583fd710f2a",
+			"5d30bdd8-9162-47c3-aa12-cee523079ab5",
+			"014b7182-ba69-4715-96c0-689ce9d630e3",
+			"6d5eb72a-d457-4172-b88f-f6064561443f",
+			"a181c96d-6315-475d-9f03-134640b68bee",
+			"d48e1afe-4d4e-48f9-8137-2dd1606af3be",
+			"1b7135fe-0e9e-40d3-adde-318412da57da",
+			"b3ce6884-8294-43e0-a42c-f61734daaef2",
+			"d1ee8469-49be-47a8-a4a0-64b177b4fe0b",
+			"3e2ba41a-7939-4620-b339-c7176516efbd"
+		],
+		"vakinhoud_id": [
+			"bk:cf6488b0-e9db-484f-a3df-9c2fb60d655a"
+		]
+	},
+	{
+		"id": "e7a42abb-caca-4d16-a737-f65e5e2095b5",
+		"prefix": "2.1.1",
+		"title": "Bereik van de woordenschat",
+		"ldk_doelniveau_id": [
+			"ca4f763f-6502-4ed1-a3c3-b0825405e2c6",
+			"a3668f96-9e03-4404-a09c-fe978f1b733e",
+			"a3a7d194-1381-4038-b27c-2b745c3b6489",
+			"1636ba45-c774-4f23-9393-ebdf949a6641",
+			"47bd38fa-0ae1-4c5f-b940-cda835dbc213",
+			"c144bf35-1ff4-41d6-9d2b-939736538e84",
+			"d9ed5b8e-a0dc-4cac-848f-b718feb5dfc5",
+			"0811ab48-3105-4f47-80dd-23562e209106"
+		],
+		"vakinhoud_id": []
+	},
+	{
+		"id": "4242daca-442b-4c18-ad30-f13e47d3734c",
+		"prefix": "2.1.2",
+		"title": "Beheersing van de woordenschat",
+		"ldk_doelniveau_id": [
+			"adb0c5a6-e944-4ddb-9aac-e10b7ba3776a",
+			"4ad25b6b-5e8e-4f49-b1a0-14739b47e3dd",
+			"2d8cf823-3c7f-4f90-95bc-7fafe51ff4e0",
+			"3b67e6db-5e74-4353-882d-465c343ce1f4",
+			"bc853d47-14e6-4da9-93d4-1b163c9b5c95",
+			"e704320e-63e9-4321-b19f-dd712704eeee",
+			"f7a2df4c-90a6-4a82-92ed-30ccbf6aebe0"
+		],
+		"vakinhoud_id": []
+	},
+	{
+		"id": "3e5979d7-2e00-4ea9-8bda-54c8ac538860",
+		"prefix": "2.1.3",
+		"title": "Grammaticale correctheid",
+		"ldk_doelniveau_id": [
+			"a50fe58f-21f2-46cd-862c-e94b9fff9a01",
+			"fa539669-1a51-4bba-84af-c1447427987d",
+			"b0ff1118-9159-4359-97ef-a464f2ed3c35",
+			"49a8eaee-d3bf-4270-afff-7b65fe893411",
+			"f76c1e6e-5476-49b0-a045-9fe9a464c4f6",
+			"3c0f1d51-5d2b-4560-98ec-e846ec50c2ce",
+			"7e752829-677f-4239-a822-e7d11c6e1854",
+			"ce806211-27a8-42b9-bd40-25aa98921dca"
+		],
+		"vakinhoud_id": []
+	},
+	{
+		"id": "ae452b8d-d768-45d8-baf4-362ed24a6f88",
+		"prefix": "2.1.4",
+		"title": "Vloeiendheid",
+		"ldk_doelniveau_id": [
+			"41864f0b-0c17-4e88-9db4-f73f9c4b0300",
+			"d2c23160-ec8b-4337-b7e1-de62cb6d1e56",
+			"cc2eb517-dc08-4882-9270-e66d112cfcfb",
+			"b866bfff-b812-40fa-a95f-57f205bf60db",
+			"2a45cc16-2e72-4e8d-96fc-03524ff647e6",
+			"5fb30707-43b1-473d-be2d-e86fb8c41426",
+			"8f80cd36-915b-4727-a5e7-16b3bae24734",
+			"2c25f0f6-4c60-4b13-9048-84f958234661",
+			"18373424-e88a-4163-a0ee-0b22076dfac8"
+		],
+		"vakinhoud_id": []
+	},
+	{
+		"id": "451dc564-f732-4370-9cf6-6cffea84551a",
+		"prefix": "2.1.5",
+		"title": "Samenhang",
+		"ldk_doelniveau_id": [
+			"2eae313d-6988-4b08-87a7-33ff907fa38f",
+			"1c3476a5-423d-4b00-ba03-66f57c9a3309",
+			"783e891f-3127-433f-8818-66963bc32ea5",
+			"1ee03f1e-1104-4231-921c-d1164c681b2b",
+			"8610400e-da85-438e-b86b-e665b0285357",
+			"25dcfb54-8a1a-4654-9f52-f4f533526c5c",
+			"3a19f122-15ad-48cd-b852-8ee3f46c972f",
+			"7cca09f0-ba38-439d-b193-49ff8b028d44",
+			"f1b407c6-09d4-414b-817d-c3db988c7397",
+			"60baf125-917c-4b62-975b-fedd8de945ba"
+		],
+		"vakinhoud_id": []
+	},
+	{
+		"id": "cb29cf68-14e6-44d8-b76c-5fe2cd513ea1",
+		"prefix": "2.1.6",
+		"title": "Uitspraak",
+		"ldk_doelniveau_id": [
+			"fa54ad9f-6e46-4c83-9a85-28f5dac16597",
+			"436e4b9d-b265-4607-85b0-0ca3e627cc7c",
+			"e1b2d313-ace3-49db-8938-83c970c423b7",
+			"03b903bb-50e4-41b9-8050-b439d84369c1",
+			"2989b5eb-cec5-422f-91c4-05458a2c250b",
+			"da582b6c-e017-419b-9824-1456a984331e",
+			"cf4e1346-a110-44fe-9c6d-bc07271fea5b"
+		],
+		"vakinhoud_id": []
+	},
+	{
+		"id": "de235e3f-fcfd-45a0-bb57-d77c9ed02082",
+		"prefix": "2.1.7",
+		"title": "Afstemming taalgebruik op doel en gesprekspartner(s)",
+		"ldk_doelniveau_id": [
+			"baa2dbb7-386e-45c8-97c9-612a406fd572",
+			"f4759c29-ebea-44ee-9260-e15555a77a2f",
+			"bf4a8c49-50d6-43a1-8d5c-b7f96e7185ec",
+			"59ecc12f-0501-43da-8df4-549213f44e77",
+			"eb34e5f8-e958-4779-89a0-56422976879d",
+			"39825b20-efb2-45d5-8631-c3b42a97ed32",
+			"7df70090-0e8f-44b1-8757-6114db85cd21",
+			"3ef3fa06-d9c1-4806-8cff-3feb0fbe0305",
+			"986e1793-b94b-4ed8-88de-a09f2d42e132",
+			"861910e0-aaf5-44f4-aa24-9374aa5c639c",
+			"ef800ccf-45b9-48a1-96fd-999978001df0",
+			"c169d8fb-24d8-4e5b-8d73-332706313714",
+			"ee8db7e9-8f62-4920-9192-d291134e1d3a",
+			"f4c1f2da-e30a-4b16-ad1f-73c90a71070a",
+			"e3d5c153-a747-4821-9af4-90ae14e645b2",
+			"a1155120-fda5-4b7d-8af3-34f74ca6cc8c",
+			"def31699-7b02-43b5-85e8-2675e04de790",
+			"398f9de8-daeb-422b-b514-9f7cbd11619e",
+			"e405da88-3a11-4fbe-b3c7-45d47e1438e8",
+			"9d26a1a6-618d-4f21-a942-b10d6c88f812",
+			"75636646-93ed-4dc3-9135-61a58274db3e",
+			"1e3d6271-9c00-4942-8537-227068a82431",
+			"bd950bd6-8eee-46a8-a090-10e057df0e1a",
+			"ed83c306-0a81-49ef-a566-5c0858a58965",
+			"afe58ee1-77d7-4db0-ac36-50de6ed80619",
+			"2af10a7b-eaef-46a0-984a-d8e328d57d00"
+		],
+		"vakinhoud_id": []
+	},
+	{
+		"id": "faff794c-f8f2-4a32-9876-92c5ee122d5f",
+		"prefix": "2.1.8",
+		"title": "Productiestrategieën",
+		"ldk_doelniveau_id": [
+			"c049b834-5c33-42f1-98d6-a5a2be5a6f92",
+			"a8f78fcb-b9fb-418d-93ab-7ca7e13ed53d",
+			"4a450d18-25d4-4344-87bd-ab5de606fdba",
+			"36753a22-2d5b-4f51-be01-1585b12f487c",
+			"fb062cb1-43c2-4e87-8fab-e2a04c5ef581",
+			"96cbaf98-cfa5-4480-9f00-3d822b5af2aa",
+			"00d6c4d3-c940-42a5-b03b-b6c6c923eed7",
+			"e2377094-314c-4d75-8457-93e6d044f6f6",
+			"6aa304e5-1b80-4dc4-bff2-4053dd9fdaa7",
+			"c0d7cc71-f258-41fc-88f9-e60b56964620",
+			"e1e9a22b-ec53-4062-9ff8-5c9141dc6986",
+			"991c3331-5dee-4d18-94b1-ff3db94e976a",
+			"8fbd5849-79e1-4431-aa35-a4b6cf843222",
+			"5840db47-228c-43ce-b80c-4e8791c74050",
+			"9355e773-9c27-449a-a9ae-4f4c0dd90180",
+			"c0278eac-9767-4777-9d4d-86ea79fe6baa",
+			"51c6d3dc-4860-41ff-a447-a54ae98c9af1",
+			"4ef50da3-4347-471c-ae06-39f34444e612",
+			"234c32cc-afd1-44d2-beed-be5e641b5dd2"
+		],
+		"vakinhoud_id": []
+	},
+	{
+		"id": "f36eb158-d664-486c-a7e0-e33f0f2c17d5",
+		"prefix": "2.2.1.",
+		"title": "Je kunt een monoloog houden",
+		"ldk_doelniveau_id": [
+			"75a7039e-079a-41f0-888e-500548dc7fef",
+			"1ba0ee9f-c4d0-4cf4-984c-3bb7f3db450d",
+			"e69673fc-1cb4-42e7-8349-0dc97e73ae4b",
+			"24053ef7-8109-4911-acf3-492c159c3870",
+			"583ae3cc-b658-4b53-b963-b73e61a49eae",
+			"719a119e-d0e8-45ee-8568-0c99f5404c0c",
+			"3b69cb2c-d0b8-42b1-9cbd-b59f212e44f1",
+			"ecc55baa-8a78-40f3-9c16-6ccd9e9763d8",
+			"c2709c1a-164d-4d8a-8a26-447f4d211c88",
+			"d9dc9472-8df6-4384-a70e-48650006477b",
+			"aa8b5f57-98a3-41ba-b397-0703f285ca56",
+			"9d608d2b-1c3b-4f5b-a2f5-8406bdc9b3c2",
+			"12931732-79d7-46a1-b8ca-50817294ed74",
+			"a57cba18-769b-46a0-b52b-39db5c09b2ae",
+			"a23b0a45-3913-4d67-8b5e-3aeb8fec4e94",
+			"1aff7174-7eee-406a-864f-08e5cae6e5bc",
+			"5b5d2848-4303-4a0c-b52b-893f2a12ed50",
+			"a6760a3e-d914-4a9e-913e-e582e2e0ce55",
+			"08ec7a7c-c5b8-4d36-a3f1-aa6dbbbb5761",
+			"f4a69c44-23d1-41ac-a93a-8b53f6f1a2c0",
+			"480df459-7c65-42fc-aad5-905931cb2c24"
+		],
+		"vakinhoud_id": [
+			"bk:6503b944-050b-481d-87c6-43ef18d0e033"
+		]
+	},
+	{
+		"id": "82b5561c-94f5-4023-a2c8-ecf1bcd80dc5",
+		"prefix": "2.2.2.",
+		"title": "Je kunt openbare mededelingen doen",
+		"ldk_doelniveau_id": [
+			"7f00b88c-3cc9-4b79-81bc-d482b410a139",
+			"6b2660d0-1e11-4aab-a440-4e5de680a2ab",
+			"d5c207f6-2cd6-4a0f-8801-02279d101d5f"
+		],
+		"vakinhoud_id": []
+	},
+	{
+		"id": "c81054b5-2c1d-4628-a6da-f0bafc2aed5a",
+		"prefix": "2.2.3",
+		"title": "Je kunt een publiek toespreken",
+		"ldk_doelniveau_id": [
+			"893dbe50-465e-4117-a9bd-3e58ada1a14d",
+			"02c12c73-dbb1-4814-a0eb-f8b9c7202a9c",
+			"5e014b64-a09d-4c51-b7d3-32c83827d8a6",
+			"8c402bb3-9dc8-4fda-be05-958d07c4ae66",
+			"a4b21403-b013-4707-a068-5eeadef3c639",
+			"0daaa537-4b02-4d38-809b-1999db53ee0e",
+			"9f3047fd-0d3d-4d4b-b04c-084578b7fd4e"
+		],
+		"vakinhoud_id": [
+			"bk:ec8e424e-f360-4c4f-a323-f2611d25c4a7"
+		]
+	},
+	{
+		"id": "9f0a3579-b458-4aea-821e-5de80b1b3a6d",
+		"prefix": "3.1.1.",
+		"title": "Bereik van de woordenschat",
+		"ldk_doelniveau_id": [
+			"b84a48c6-9b84-4ce6-b016-d827f5dac116",
+			"ed5e604b-a0e8-42f9-9a67-640b099fbd81",
+			"71babaf4-04d1-441d-a9ae-d9fc1fc0e238",
+			"e64abc59-1977-4276-8e71-20c0958391e3",
+			"dc75155e-5698-480a-9b1f-34c9a5ccb113",
+			"4a19dd67-e894-4d65-92d9-00c480c6299c"
+		],
+		"vakinhoud_id": []
+	},
+	{
+		"id": "49c4dc5b-7e8a-43af-b52c-a742c5414ada",
+		"prefix": "3.1.2",
+		"title": "Beheersing van de woordenschat",
+		"ldk_doelniveau_id": [
+			"5fbbd601-e6ac-4269-8227-f39d4ff92638",
+			"9f56aa86-3ef7-4242-8114-d39fded62ea1",
+			"b78e85f0-df00-4a50-b2b9-91ad6800e023",
+			"ff6102b9-9380-48a6-841e-560c8fbf4a2b",
+			"40f83f45-831b-474d-b656-83cd588d2f59",
+			"55152c49-9a15-4177-98d3-95c060253384",
+			"3c917fa8-cd67-461c-88f3-1af3a410d3c8"
+		],
+		"vakinhoud_id": []
+	},
+	{
+		"id": "b29a6bd7-8c63-47f6-97d4-d80f64b8b6ce",
+		"prefix": "3.1.3",
+		"title": "Grammaticale correctheid",
+		"ldk_doelniveau_id": [
+			"665782a1-96d9-4764-a2a3-90207b421822",
+			"c2353ec7-e997-4c4f-b936-438333526808",
+			"4a12832a-d36d-461f-b351-0191d71dd23c",
+			"989fcbf6-9cf1-4d4e-b8dc-35edbb6df2d7",
+			"6879a0e3-eeea-4a33-aa5f-8de3b7ebb7e3",
+			"57cbaf7b-0ecc-4eac-a834-e54113316f17",
+			"306c42ec-8345-4e1c-80d8-44712147ebcd",
+			"e0389777-4207-4f83-bae3-0aafb5c97e1a",
+			"fd7f5a6f-0341-41b2-b7d9-dea9e77cd001"
+		],
+		"vakinhoud_id": []
+	},
+	{
+		"id": "3caeca84-2ae2-4b0e-b376-8d1b8ee69ded",
+		"prefix": "3.1.4",
+		"title": "Spelling, inerpunctie en lay out",
+		"ldk_doelniveau_id": [],
+		"vakinhoud_id": []
+	},
+	{
+		"id": "65b301b1-243c-4ef0-ad04-c621f2e000de",
+		"prefix": "3.1.5",
+		"title": "Samenhang",
+		"ldk_doelniveau_id": [
+			"3e4174dc-6971-4957-8803-c621ed6bfe47",
+			"f97306cc-30c5-4592-9c80-35b5ff67bbc3",
+			"b9928427-edb9-49f4-b369-1bb369263472",
+			"3f23b1b0-30c9-4286-99d9-6de35eab860d",
+			"f8332954-60f9-4d79-a028-573b082c8d85",
+			"8fb1f3f8-0220-478c-8a07-8c20e4e5d1c6"
+		],
+		"vakinhoud_id": []
+	},
+	{
+		"id": "e8212006-2a42-4279-9481-4e12013a1677",
+		"prefix": "3.1.6",
+		"title": "Afstemming taalgebruik op doel en publiek",
+		"ldk_doelniveau_id": [
+			"fc0cf244-ea07-4450-8dc3-4cc996fd5d9e",
+			"f86957f0-4261-4ad1-bc3c-bd30bc826ef8",
+			"3149518d-bed6-43df-819d-4037e0e27f64",
+			"753d4b21-55a1-4ca3-8d39-f8b74f796d48",
+			"dc1d6d15-cdd2-4b55-a67b-77aa21b4ae61",
+			"2aa23d96-7065-40c6-9740-0b1b469b21c2",
+			"1e1cb808-a695-4e85-8b6f-2f8c89aa128a"
+		],
+		"vakinhoud_id": []
+	},
+	{
+		"id": "b1861172-38a4-4afd-89e7-cbe5adc01f53",
+		"prefix": "3.1.7",
+		"title": "Productiestrategieën",
+		"ldk_doelniveau_id": [
+			"71ac7db0-5d3c-4406-9723-cc8e29ed52ab",
+			"66a31c55-ff04-451d-b960-52f503fb76ec",
+			"da00775d-52a6-457c-998a-68726afe2c81"
+		],
+		"vakinhoud_id": []
+	},
+	{
+		"id": "008998a7-501b-439c-8315-66f0f15a45ca",
+		"prefix": "3.2.1",
+		"title": "Je kunt correcponderen",
+		"ldk_doelniveau_id": [
+			"c11af6c2-a510-4def-8d51-ae71367be501",
+			"27c909d9-4366-4179-81e9-c797d4b39a1c",
+			"0dec8f15-ec30-4d9d-a01c-1b829c0deadb",
+			"c40716c1-29ed-437a-9c8a-0462c28c8aba",
+			"ab9fb252-21bd-43a7-8126-8d8b6166c0a3",
+			"7adee7e6-d498-479a-88a0-4da162582617",
+			"620d6782-73cc-4738-8363-8ac4f8fc214f",
+			"6e1af2da-093a-4ea5-827c-54929dabb286",
+			"59cb4323-fc84-4810-9dcb-a15a50245fac",
+			"dbec043d-83ec-4772-839b-7085c8a35ead",
+			"424a59ad-c52e-47b9-a681-084e07d62702",
+			"e187fc96-18d5-4660-9b46-dae73ad619c8"
+		],
+		"vakinhoud_id": [
+			"bk:824a7800-7f38-4e70-8ffa-504098465a7c"
+		]
+	},
+	{
+		"id": "f7b3ca80-1c23-4dcd-89c6-33dc091f672c",
+		"prefix": "3.2.2",
+		"title": "Je kunt notities, berichten en formulieren schrijven/invullen",
+		"ldk_doelniveau_id": [
+			"0378e6bd-a1e5-4866-9b0e-c318780342a1",
+			"915906c6-ab3b-4124-b73b-e40572eb5c4e",
+			"4f1ba3d8-927c-4b3e-ba3c-fa3754333106",
+			"fa09f54c-9785-4ea6-b8bc-e04ac25bda47",
+			"16621bd4-280b-4f00-a0be-576d40bfc55c",
+			"f2b82ce7-66bc-4127-8b83-e8798c50dd1a",
+			"3012f6c3-f508-4060-8811-3a0ccff55822",
+			"f61fa558-c4d2-40aa-a651-7997f67637d8",
+			"3f8bd5a6-3281-40c7-b74a-832a51f5b161",
+			"65a852b4-f498-49d5-9e99-c5acdb62adc9",
+			"e83a4280-3a36-486e-904f-e6b848e4f8e0",
+			"eec9e962-8a5b-4e92-99e9-79644d93a1c4",
+			"acdaafd1-b7aa-414d-8d49-311f8c095a7d",
+			"3f2d4382-0eb4-4076-a4a1-8c448883d704",
+			"e371f75b-a763-4a86-ac2d-0424184a3472",
+			"0bd71483-61a1-4d1f-991b-4c7e7462466f"
+		],
+		"vakinhoud_id": [
+			"bk:7195a63d-81fa-4d53-9865-821d689c0d09"
+		]
+	},
+	{
+		"id": "9b3f05f7-d82f-43b8-8e56-51ea1d578e6a",
+		"prefix": "3.2.3",
+		"title": "Je kunt verslagen en opstellen schrijven",
+		"ldk_doelniveau_id": [
+			"5544184d-c6e0-49cd-9376-77db125c920f",
+			"6dd782f8-3736-4f9f-a73e-c7860a9e2085",
+			"4b64f230-86d4-41fb-817a-b7e570ff44ae"
+		],
+		"vakinhoud_id": []
+	},
+	{
+		"id": "3559ec15-edf0-4bb7-8f1b-32084299bfde",
+		"prefix": "3.2.4.",
+		"title": "Je kunt creatief schrijven",
+		"ldk_doelniveau_id": [
+			"aad5de59-e736-4563-a0b1-23a3aeb37175",
+			"9ef072b5-d8e0-4cc5-8edf-261cd48fbc4a",
+			"20132606-6f61-4fa6-8b0a-ec102a8dfc90",
+			"9022f7ee-b6c3-4b9e-84b2-bc51a2998ea5",
+			"21c9a9d3-ace3-403c-b022-3c5c926e44cf",
+			"58fb1d02-f790-4c11-8b33-9a30046f8428",
+			"4a73c5f0-798d-4dd2-b45b-c27c4c8cafc9",
+			"f695b84c-2fca-4f04-ba30-f576c4d10a8f",
+			"419b7d32-51e4-41c1-9aea-637e0e8cf41e",
+			"638f7463-7f8d-4b59-8a46-85f0f346abda",
+			"cef5eca8-415a-4629-b447-e681234b82b2",
+			"f9acb284-45bd-4fe3-b1e9-b5a675bdf7b4",
+			"b47758a8-4ddf-4c1e-9b60-9fea805cac94"
+		],
+		"vakinhoud_id": [
+			"bk:daf4bf82-19bf-49b9-a62b-58ef9d710402"
+		]
+	},
+	{
+		"id": "a42db988-9519-4e0b-a5d3-8ca7368bf177",
+		"prefix": "4.1.1",
+		"title": "Woordgebruik en zinsbouw",
+		"ldk_doelniveau_id": [
+			"c581ddc0-974e-43bd-ae61-acfb5cec6052",
+			"fdc264d9-07b3-4f50-be40-b1edef13d54c",
+			"c63abd87-59cf-425c-8f33-0adc6bad102a",
+			"68f33c07-c2b0-4726-9c7b-da3d08849e2f",
+			"a816c7c4-ac31-4638-bf02-57cb2f7f0c1e",
+			"a1d35722-1add-487d-b748-54f70e196702",
+			"e82d8304-b870-4870-9b8f-56d0000c1abf",
+			"78021b5e-3532-4b91-b743-cb10c4b5bd9a",
+			"8bd375cb-e037-4f68-bab1-c7eae415040a",
+			"a70f751e-aa9a-448a-a23e-6d8079546f5c",
+			"9bfbbc62-8f3f-47b3-ba7c-02480f6daf01",
+			"d20d1685-4a24-43dc-9771-4531a0af048d",
+			"6781ce09-2112-450b-afac-9dbcd69c4044"
+		],
+		"vakinhoud_id": []
+	},
+	{
+		"id": "6454bc94-8d95-4cdc-9565-d3bdc1150535",
+		"prefix": "4.1.2",
+		"title": "Tekstindeling",
+		"ldk_doelniveau_id": [
+			"be94dc66-63d6-4561-85e8-e03323a8ca09",
+			"08afcd4c-75ba-4847-9a33-75d8fde1371c",
+			"789682dd-001a-478d-bc96-fa3017c13b0a",
+			"bc5f771e-6458-41c3-8d5a-e5d173f69d03",
+			"b8632a02-a2e6-451f-b836-bcb0c6d8980c",
+			"1540d57b-8991-4a6e-b431-c982e04bebb4",
+			"d2020984-0047-43d7-81e1-ee51499b0f4e",
+			"35d513dc-1ad4-498d-8a52-cfde87667a19",
+			"ee7d20f8-4959-4861-9712-9aa5ae718ea9",
+			"e2fc26ff-1cfe-4721-a243-e7684eadd8dd",
+			"0bdd2c37-5bc9-45ac-8eda-022f6eabeb0b",
+			"0d063515-8ebc-4b5c-800d-e2fc5719a769"
+		],
+		"vakinhoud_id": []
+	},
+	{
+		"id": "7ea10555-37ce-4798-a1ae-d14c84259d03",
+		"prefix": "4.1.3",
+		"title": "Tekstlengte",
+		"ldk_doelniveau_id": [
+			"e5c90da5-a2a5-476e-b45c-861be6275ff8",
+			"2a429e27-b2c8-4f01-b4b7-c541c2a6d428",
+			"dbcdc3ef-e3ff-41f3-a5ba-6b0f811816a2",
+			"91db80f7-dd60-41ea-8f4a-d9709e8661f7"
+		],
+		"vakinhoud_id": []
+	},
+	{
+		"id": "c2b7ced0-a6f6-45cb-b78e-f8e1c410e2fe",
+		"prefix": "4.1.4",
+		"title": "Leesstrategieën",
+		"ldk_doelniveau_id": [
+			"24c0c887-efb0-4aea-9b27-bf8cafca1f8b",
+			"2bb01ae2-c9ab-4b5e-af38-a6e430a5db61",
+			"5ee685ce-a085-486e-8641-a0817914daae",
+			"db9dc4a5-94b7-4b52-bc9b-f8dc93c4abd5"
+		],
+		"vakinhoud_id": []
+	},
+	{
+		"id": "4cde41a3-05f7-4250-a426-674916faaeac",
+		"prefix": "4.2.1",
+		"title": "Je kunt correspondentie lezen",
+		"ldk_doelniveau_id": [
+			"450f4c0c-3026-4504-8e37-c84f5462fa34",
+			"6ee9d0fc-c545-4c98-9995-b8d9934e5f74",
+			"3ab27858-9257-4880-816a-4f859facb8e5",
+			"7ece13d2-8722-4e7a-b198-3efb0b3b4e8d",
+			"86ee5cc5-cf93-449a-9c38-eb51d3574462",
+			"15737b4a-0273-465d-8b90-963336d5d544",
+			"624b2777-2544-4214-b04a-9de1aa7b99ac",
+			"ee0c353c-9a47-43cd-ac55-df5e2b983fe3",
+			"c1780ef3-d48b-4e1f-a014-535ec49ba1e4"
+		],
+		"vakinhoud_id": [
+			"bk:46385d58-c9bc-4e6e-a60e-7523da2becb7"
+		]
+	},
+	{
+		"id": "9114f607-a690-47b9-aead-6e4849698dac",
+		"prefix": "4.2.2",
+		"title": "Je kunt oriënterend lezen",
+		"ldk_doelniveau_id": [
+			"2443e91f-5e72-4b8d-875b-a5de652216d1",
+			"9c620bcb-0487-4a87-9e9f-3c967fb8b841",
+			"721a081b-46f4-401b-b130-2af4e41edf7d",
+			"942f7c81-969b-4e40-87aa-1083dab5d6df",
+			"8d70b446-705f-4f11-85fa-54ccd9dbc432",
+			"243516f7-cf76-411b-a9e1-ac10edaccb68",
+			"5227c24c-d842-41ae-9962-7a85c12f4876",
+			"8bce98ec-ccd6-4f56-8d91-fff248b3412e",
+			"f18acc44-bfd8-4884-9e36-51cc302b2380",
+			"c118d6e3-2580-4b7c-b169-7987e8d790ed",
+			"15ea9c9b-8adc-47a1-891a-2fe299507bc5",
+			"42c15150-92dd-4135-a799-4e3b7a16c15a",
+			"cbff6a5f-3ba8-459b-bb63-f74a2ee17307"
+		],
+		"vakinhoud_id": [
+			"bk:542103ed-2af3-43a4-817f-d1485122a89a"
+		]
+	},
+	{
+		"id": "56f7b268-c69a-4939-9c88-856737949886",
+		"prefix": "4.2.3",
+		"title": "Je kunt lezen om informatie op te doen",
+		"ldk_doelniveau_id": [
+			"a058de46-d35d-4898-b0b7-63997c42cd12",
+			"06f576f6-83e6-4fc1-bf5f-9bc6e264ff8b",
+			"5da4d47c-7f2f-42e7-8527-e00a7ff3359e",
+			"08ec561c-8977-43d6-8741-34a728f05c52",
+			"5dee771a-9083-40aa-9ef5-380c50eac45f",
+			"27b97c77-72d1-469a-a7bc-e7b21cc0d915",
+			"a428bd0a-7588-4641-a404-884451291b37",
+			"ebd004ab-5031-4ad9-85ee-c7886e667063",
+			"7f0cc36f-7be5-4e30-a2c9-64226da8fa1e",
+			"f3a780a4-232a-438c-a3f1-1526c9b9691c",
+			"bc9ecd7e-2e5d-4384-a11c-336b5e4f5212",
+			"5c24b8bf-713c-4e7e-bceb-13dde5ee3ec2",
+			"05261edc-8f9c-4f38-b70f-a51ebb5434eb"
+		],
+		"vakinhoud_id": [
+			"bk:c766aad8-f565-4519-b4ad-fbadc7167708"
+		]
+	},
+	{
+		"id": "05143a65-4de1-48fd-aea5-ed7ef3dba4df",
+		"prefix": "4.2.4",
+		"title": "Je kunt instructies lezen",
+		"ldk_doelniveau_id": [
+			"53f664dc-001d-4c24-be09-95dcaa3b5e44",
+			"2f83a6f7-33ad-443e-a595-ac03d1665a26",
+			"dd163016-dff7-4281-970b-442a16f93c4b",
+			"e65a51c1-a5da-4234-8b27-117eaf730b8c",
+			"870a2623-c436-43b9-93d9-1e6a8799322f",
+			"8fc3f803-bae3-46c0-8ed5-20fc0a6d4f13"
+		],
+		"vakinhoud_id": [
+			"bk:c26d5390-7000-49c8-a313-41f0a786be11"
+		]
+	},
+	{
+		"id": "ccec2739-7aab-4148-9601-538d1bc6e18e",
+		"prefix": "5.1.1",
+		"title": "Woordenschat en zinsbouw",
+		"ldk_doelniveau_id": [
+			"16e1871e-13cd-4603-bbd6-3c8ae48718f0",
+			"0e8ed589-ca79-4fba-b72c-5e8cba26a110",
+			"0fe46e5a-94dc-444c-a703-9c43a9b6d2d0",
+			"fe99e306-157f-432d-ac14-1aa72239a4c1",
+			"fda519da-af14-474e-bbcb-52458323ae7c",
+			"001d2588-33bd-4a62-9b46-27cfb91a74b2",
+			"80e72a6c-ba3f-412d-9a75-420189991f6d",
+			"d931a5b4-984a-4573-b1a5-8e88e76852d1",
+			"b77fb4c9-bb8b-41f1-b4c5-f28cb4afa296",
+			"cf309a48-5a39-448e-b76d-3f9c43d6c891",
+			"5cee2ac9-9066-4868-ba30-81a9b32885e9",
+			"f66e9c78-2a36-4661-8d08-15e83c5180ab"
+		],
+		"vakinhoud_id": []
+	},
+	{
+		"id": "24a6900d-8c65-4cca-8978-f3fb7c63f692",
+		"prefix": "5.1.2",
+		"title": "Tempo en articulatie",
+		"ldk_doelniveau_id": [
+			"c9a239b7-841a-4a3b-b006-2ac0ceaf2c71",
+			"11c615e8-997b-4506-8875-428def1edb9d",
+			"595b7d20-b93f-4d38-8920-ad23b4ceb718",
+			"050ec19c-4bf6-43b1-a38d-17e553c3cf8d",
+			"cc1230d6-8fe3-4bfb-a243-ea94c9419b73",
+			"863e7a65-0feb-4ea4-9055-61d886f8fa47",
+			"b8c64919-b3d3-41f4-be9e-bce46cd1f91b",
+			"24e7c104-f8ff-473c-87ce-812e99600dde",
+			"e0a178fc-6672-49e6-baf0-439ccbc457ca",
+			"7b7aa74f-87ea-461f-838c-e5cf70de0556",
+			"e23affa5-90e2-4257-a6d2-638ba805aafb",
+			"2555401f-9401-492d-b79a-45aab1f249cb",
+			"1b39db9d-23d7-4af3-a62f-07fc93345355",
+			"1e24e452-77df-4655-bc7d-73126b73d380"
+		],
+		"vakinhoud_id": []
+	},
+	{
+		"id": "fff8d56a-e8c9-4495-ac62-b7bdbc38a3b7",
+		"prefix": "5.1.3",
+		"title": "Tekstlengte",
+		"ldk_doelniveau_id": [
+			"c725d1ac-302b-4bc2-97bc-5a78c705d77d",
+			"77f65e75-33eb-4baf-a4ba-2564d202c863",
+			"1afbae54-25f1-4414-bafe-fb5c1ffc4aff",
+			"89b73637-ca36-486d-93e4-efa57dae128f",
+			"536dffb7-9c94-4b17-8b82-75fb196366f3",
+			"4e300393-c086-4336-a8ca-60a700afd0c5"
+		],
+		"vakinhoud_id": []
+	},
+	{
+		"id": "4452f3a4-4c3f-46db-af5f-99a7949580eb",
+		"prefix": "5.1.4",
+		"title": "Luisterstrategieën",
+		"ldk_doelniveau_id": [
+			"91ba06f4-9785-4aab-a419-2c598b8f4c2f",
+			"a425e72c-ae53-4ed3-94c1-a52696b73cf6",
+			"1e149c1f-756a-4335-8626-10749fd93051",
+			"e51ccada-4f57-4f45-8c06-5ada65defc7b"
+		],
+		"vakinhoud_id": []
+	},
+	{
+		"id": "cb670b84-f6e5-4d07-95f2-bd9c0e73c764",
+		"prefix": "5.2.1",
+		"title": "Je kunt een moedertaalspreker als gesprekspartner begrijpen",
+		"ldk_doelniveau_id": [
+			"6c6b5ab1-69d8-4b6f-ae74-213a38772be1",
+			"7edf30e9-a5a4-42d7-8c3b-cc300eaf61af",
+			"58e2ff7f-a6a5-4e86-88c9-a24890866d35"
+		],
+		"vakinhoud_id": []
+	},
+	{
+		"id": "b19d561f-bbd2-4f9e-8022-953054fdb85d",
+		"prefix": "5.2.2.",
+		"title": "Je kunt gesprekken tussen moedertaalsprekers begrijpen.",
+		"ldk_doelniveau_id": [
+			"4143ee68-c1d0-47ab-b025-c06edf8e8e7b",
+			"99a70c86-88c7-424b-9fcf-41154776f8d6",
+			"ee420153-ff34-45f5-9f2c-1d7002034795",
+			"6e2bf6e8-a644-4634-b54e-1a7e59a65d1e",
+			"3fc46e08-484d-4458-a5ac-e902a189e568",
+			"cce09664-ce55-421c-8162-b4960123e81c"
+		],
+		"vakinhoud_id": [
+			"bk:a2d997e1-0329-48f5-8cb0-586137c7a41b"
+		]
+	},
+	{
+		"id": "2c383774-9f09-4ca9-9a94-b88c7c41e62d",
+		"prefix": "5.2.3",
+		"title": "Je kunt luisteren als lid van het aanwezige publiek",
+		"ldk_doelniveau_id": [
+			"a1bb661f-471c-4d98-a520-9224b274403b",
+			"22d2f4f1-a891-486b-9576-b94669c6a373",
+			"ad0a86a8-3378-41f4-8ff9-7f83e3c8f82a",
+			"009bd2e4-dc5e-424a-a1ce-8b4dd9d90832"
+		],
+		"vakinhoud_id": []
+	},
+	{
+		"id": "bb4e328f-e338-40db-8987-7578fa56de6f",
+		"prefix": "5.2.4",
+		"title": "Je kunt luisteren naar mededelingen en instructies",
+		"ldk_doelniveau_id": [
+			"cee133ad-14a0-462f-8a8d-b5cb19e08639",
+			"bb12e02f-6e62-414a-93f8-5d2e07ef76b2",
+			"55bb525e-f24c-4640-b798-9384ecc4aced",
+			"980befa0-0cc8-4377-b8ad-481f7bd92e6b",
+			"a2dd513c-66c8-467b-860d-0bc51cc5c66d",
+			"953424ec-0089-48a0-9a2e-04b7f562729c",
+			"3450e228-1445-452a-9189-b268cf5268d6",
+			"b0f0ac90-e44c-486f-8889-6628664629a3",
+			"61d11e97-2f63-423d-bdd4-81b5ddaa43d2",
+			"c3989664-ca02-46c2-977a-f1da3b6dbe87",
+			"8e7e56a5-dd22-4027-bf46-a43a2fca104c"
+		],
+		"vakinhoud_id": [
+			"bk:fe817b10-4d9d-4d1d-ac23-2fd17bcfd7a3"
+		]
+	},
+	{
+		"id": "36ae64cd-3970-4c14-b8ff-afc9b0ec2a5b",
+		"prefix": "5.2.5",
+		"title": "Je kunt kijken en luisteren naar audiovisuele media",
+		"ldk_doelniveau_id": [
+			"5937deb7-9295-48c9-a61a-49111196aba0",
+			"541803fa-1d4b-47ca-9dea-0264aeedd89f",
+			"afc2e373-7077-4b03-b615-ae683ad60684",
+			"7326b9dc-8bc8-468d-b6a1-f27e77f17b22",
+			"c481f6d0-6b8f-4e4f-b645-9513fcf2129d",
+			"1603008b-d85f-4a8f-b52a-c27c1f1c5a63",
+			"4c170f58-d45b-483b-ab95-3d4113f5bcf0",
+			"0d75c7f3-49d1-484e-ad32-296b30c95558",
+			"b1c4d148-916f-476d-ac16-39209f5b0da9",
+			"0f93f24c-e5a7-4a7e-8daf-514e7d3b123f",
+			"deee2334-c5e0-48e4-9d30-76a072d0b3df",
+			"7427f2d5-43a7-4f73-95e3-694ea90769e1",
+			"4307390e-2a34-484c-a033-e060eca04213",
+			"3ca56071-01dc-4551-bd74-07bc8c379399",
+			"8b059512-28ba-41f8-aaca-d6407c1b06dd"
+		],
+		"vakinhoud_id": [
+			"bk:d574d33a-ab2d-4df4-8278-7e7b83cdcedb"
+		]
+	},
+	{
+		"id": "a20a814c-71ea-4a2a-be20-266978d797ed",
+		"prefix": "3.1.4",
+		"title": "Spelling, interpunctie en lay-out",
+		"ldk_doelniveau_id": [
+			"1de0f9a1-f4df-4e97-a560-d5d5a8cd432b",
+			"86d24067-331e-4dce-a0a4-597fd979569b",
+			"686723f2-ef47-4a8e-988b-ab30cfda1563",
+			"a59a29d1-9ff4-4c88-be53-659df464bbf5",
+			"c336158e-4cab-4790-8f63-e8c556b0abb7",
+			"27e4314f-3f61-4477-997d-20dfd5589ebf",
+			"2af7086c-7b7a-4228-82b2-a712a3daf326",
+			"b465137e-3ebd-437e-a9ae-b3b527ec3919",
+			"260f1b94-5a36-4fb0-b73f-1b234f3917b6"
+		],
+		"vakinhoud_id": []
+	},
+	{
+		"id": "fda7e1d4-f913-44f9-86cc-32cc8a6f4439",
+		"prefix": "5.2.3.",
+		"title": "Je kunt luisteren als lid van het aanwezige publiek",
+		"ldk_doelniveau_id": [],
+		"vakinhoud_id": []
 	}
 ]

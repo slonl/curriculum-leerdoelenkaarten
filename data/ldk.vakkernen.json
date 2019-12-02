@@ -1277,5 +1277,72 @@
 		"vakkern_id": [
 			"bk:ae9e9b78-e51f-4663-b61a-ab5034ec1709"
 		]
+	},
+	{
+		"id": "cd23efc4-f9f8-4836-97cc-3673e6c5b7a7",
+		"prefix": "1.",
+		"title": "Gesprekken voeren",
+		"ldk_vaksubkern_id": [
+			"c873b205-3d00-4d4f-8118-f83be1205ae3",
+			"d681fa8c-3af9-4624-bde9-f84a8a075f15"
+		],
+		"ldk_doelniveau_id": [
+			"95f9ba0c-62d5-4efd-a7bf-ba40b0bf7cd0"
+		],
+		"vakkern_id": [
+			"bk:7d120e97-273e-42c1-a315-c0bf6b3c3a3a"
+		]
+	},
+	{
+		"id": "cab20d44-1e8b-46e3-9266-c63b24426fab",
+		"prefix": "2.",
+		"title": "Spreken",
+		"ldk_vaksubkern_id": [
+			"0c3f7473-f015-42c2-8ad3-8521f301fac9",
+			"6be7c5d3-7d4e-465a-8e3b-8c5bb451c9ee"
+		],
+		"ldk_doelniveau_id": [],
+		"vakkern_id": [
+			"bk:4ca23696-8665-4887-b5f8-59901cb2a39e"
+		]
+	},
+	{
+		"id": "fb3aaaff-4e03-4ca2-b4ea-d01b855908be",
+		"prefix": "3.",
+		"title": "Schrijven",
+		"ldk_vaksubkern_id": [
+			"b58b9729-1a1f-4658-9991-c3929662550c",
+			"78ee7ef4-6623-4f75-b390-2fd0fa78eac9"
+		],
+		"ldk_doelniveau_id": [],
+		"vakkern_id": [
+			"bk:616c8247-1355-4584-a65b-c1e854f11cbb"
+		]
+	},
+	{
+		"id": "ab2256d9-8df3-43fc-80d5-eb939b936576",
+		"prefix": "4.",
+		"title": "Lezen",
+		"ldk_vaksubkern_id": [
+			"311cd0aa-0aa1-4db3-8e98-1ac782e865d8",
+			"f9747f1e-11fb-40cd-a2bb-94900e16ee16"
+		],
+		"ldk_doelniveau_id": [],
+		"vakkern_id": [
+			"bk:e79d365e-cb8a-4844-a1f0-a68f9559b2b1"
+		]
+	},
+	{
+		"id": "59b1f711-96e6-4032-b5d7-fd654745181a",
+		"prefix": "5.",
+		"title": "Luisteren (en kijken)",
+		"ldk_vaksubkern_id": [
+			"e992d4cf-488e-40c9-b159-345bbf080f26",
+			"6062ba50-429a-4d1f-8d0d-fa60f3700d7f"
+		],
+		"ldk_doelniveau_id": [],
+		"vakkern_id": [
+			"bk:aad1d422-ab72-4284-94d1-08d07642b0fd"
+		]
 	}
 ]

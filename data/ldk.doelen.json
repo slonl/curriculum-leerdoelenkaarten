@@ -13699,5 +13699,1463 @@
 		"id": "7752c80f-bd9a-41df-8252-7e0476e191bc",
 		"prefix": "6.",
 		"title": "Je legt uit dat in de natuur alles met elkaar samenhangt, organismen beïnvloed worden door de omgeving en organismen elkaar beïnvloeden."
+	},
+	{
+		"id": "af7c7e6f-ce80-4908-98ce-ac8ded6e1202",
+		"title": "Taalgebruik en zinsbouw kunnen ook complex zijn. Idiomatische uitdrukkingen (spreekwoorden, gezegde, uitdrukking) worden niet altijd begrepen."
+	},
+	{
+		"id": "d841124c-5261-4df1-b5fd-3cac9703707b",
+		"title": "Het spreektempo is het gemiddelde spreektempo van een moedertaalspreker."
+	},
+	{
+		"id": "7c6b4bfc-1aaf-48e5-8c4f-bc05a8226a69",
+		"title": "Gesprekspartners praten op een normaal tempo en passen hun taal niet aan."
+	},
+	{
+		"id": "06c931b8-0fbd-491e-9347-17750b8a5351",
+		"title": "Je beschikt over voldoende woorden voor zaken die verband houden met de meeste algemene onderwerpen."
+	},
+	{
+		"id": "54fcd07d-6bc9-47d1-94f2-f1df7a74d079",
+		"title": "Je brengt variatie aan in hoe je iets zegt om te veel herhaling te voorkomen."
+	},
+	{
+		"id": "4caa0300-6bb7-47fa-be3c-d545b60de2b6",
+		"title": "Het kan voorkomen dat je aarzelt of iets omschrijft, omdat je een woord niet weet"
+	},
+	{
+		"id": "81cb86e7-2d94-4c4c-9241-a0812cb4477d",
+		"title": "Je beheerst de grammatica vrij goed."
+	},
+	{
+		"id": "80d08921-73da-49d4-b847-d66afad620f0",
+		"title": "Je maakt geen vergissingen die tot misverstanden leide"
+	},
+	{
+		"id": "58f3ac0c-2352-4e7c-95f3-4f40f8b64720",
+		"title": "Je spreekt langere stukken tekst in een redelijk gelijkmatig tempo; hoewel je kunt aarzelen tijdens het zoeken naar zinnen en uitdrukkingen."
+	},
+	{
+		"id": "992cdf06-3d5b-4ee8-b4b6-675d398662cc",
+		"title": "Er zijn weinig merkbare pauzes."
+	},
+	{
+		"id": "54455189-9b62-4e62-befa-ccfa73c88b01",
+		"title": "Je reageert zo vloeiend en spontaan dat een normale uitwisseling met moedertaalsprekers mogelijk is zonder dat het een van de partijen moeite kost."
+	},
+	{
+		"id": "023b3d41-b26f-4a53-a258-7935efc4913f",
+		"title": "Je vertelt een helder, samenhangend verhaal of beschrijving, waarbij je alle punten goed met elkaar verbindt."
+	},
+	{
+		"id": "ca7ac781-7302-4c6d-ad65-07268b51c355",
+		"title": "In een langere bijdrage kan er wel sprake zijn van een zekere ‘springerigheid’."
+	},
+	{
+		"id": "516e1427-d061-490c-877b-c9e0d1668606",
+		"title": "Je hebt een heldere, natuurlijke uitspraak en intonatie."
+	},
+	{
+		"id": "6e951208-a0f0-483f-9c32-90f757faf7d1",
+		"title": "Je spreekt met moedertaalsprekers zonder hen onbedoeld te amuseren of te irriteren en zonder hen te verplichten zich anders te gedragen dan zij tegenover een moedertaalspreker zouden doen."
+	},
+	{
+		"id": "b0621653-32e7-4744-8fa6-bc64af2fc88c",
+		"title": "Je drukt je op gepaste wijze uit en weet grote fouten in de formulering te vermijden."
+	},
+	{
+		"id": "ddfa49f3-35cf-42c9-bc06-05a99d1ceb2c",
+		"title": "Je begint een gesprek, neemt op de juiste ogenblikken je beurt en beëindigt de conversatie wanneer dat nodig is, zij het niet altijd op elegante wijze."
+	},
+	{
+		"id": "94e223d8-3c1d-4578-81fa-c5a2467ffc01",
+		"title": "Je helpt discussies over vertrouwde onderwerpen op gang en houdt ze gaande door te laten zien dat je het begrepen hebt, anderen uit te nodigen het woord te nemen, enzovoort."
+	},
+	{
+		"id": "45987ca3-7056-4646-a973-bb4c8e3e02e0",
+		"title": "Je vindt het soms moeilijk om goed deel te nemen aan een gesprek met meerdere moedertaalsprekers die hun taal op geen enkele manier aanpassen."
+	},
+	{
+		"id": "88a9614e-981a-4f98-a1f4-c34bf92bb8cc",
+		"title": "Je plant wat er moet worden gezegd en je houdt rekening met de ander."
+	},
+	{
+		"id": "25c58c68-e775-4688-8e90-d72faae5d226",
+		"title": "Je beschrijft woorden die je nog niet kent."
+	},
+	{
+		"id": "1ebec8d0-4b43-4db2-a8e2-6e3b4b3547a9",
+		"title": "Je corrigeert vergissingen en fouten zodra je je ervan bewust bent of als ze tot misverstanden leiden."
+	},
+	{
+		"id": "7bb8e3d6-e1d1-49b0-9c36-59bc49290ba9",
+		"title": "Je staat stil bij ‘veelgemaakte fouten’ en let bewust op of je ze maakt."
+	},
+	{
+		"id": "82af56b3-f48e-4563-b850-b77c109f259d",
+		"title": "Je gebruikt standaardzinnen (bijvoorbeeld ‘Dat is een moeilijk te beantwoorden vraag’) om tijd te winnen en de beurt te behouden tijdens het zoeken naar woorden."
+	},
+	{
+		"id": "3a13ac8e-2779-4114-a5f6-5eb5f13b543c",
+		"title": "Je stelt vervolgvragen om te controleren of je hebt begrepen wat de ander wilde zeggen en om opheldering te krijgen over punten die niet duidelijk zijn."
+	},
+	{
+		"id": "9f635d7e-0b16-4887-9218-67f39d41e17c",
+		"title": "Je brengt variatie aan in je taalgebruik."
+	},
+	{
+		"id": "027df5fd-9327-4d6d-902c-9fe0470e9d84",
+		"title": "Je kunt zodanig deelnemen aan een vloeiend en spontaan gesprek, dat normale uitwisseling met moedertaalsprekers redelijk mogelijk is."
+	},
+	{
+		"id": "eb589deb-f049-4fe0-b016-b003e2cc54b3",
+		"title": "Je neemt binnen een vertrouwde context actief deel aan een discussie en legt je standpunten uit."
+	},
+	{
+		"id": "dcd711c8-4090-4c3c-b818-c4ccdcc28803",
+		"prefix": "1.1.5",
+		"title": "Beheersing van de woordenschat",
+		"doelniveau_id": [
+			"ae2c68e8-448f-4cc6-9c70-a062f7212542",
+			"f7ad9371-bb90-42c8-bae9-6fed4b15b016",
+			"d00cfb01-41f2-4d03-bd36-52c51550cd03",
+			"1b22e774-fddf-4eef-a9b8-ac89569f8772",
+			"667b34b6-1eab-4667-97a1-96f8f0d36a3e",
+			"4929d273-6661-45e2-9194-1aac47067062"
+		],
+		"vakinhoud_id": []
+	},
+	{
+		"id": "65f25b56-fe30-46a4-8380-9e85900453a1",
+		"title": "Jouw trefzekerheid in woordkeuze is over het algemeen hoog, al komen enige verwarring en onjuist woordgebruik wel voor, maar die leiden niet tot misverstanden"
+	},
+	{
+		"id": "f79df733-d0e7-4d8e-b92f-09161edcc8a1",
+		"title": "Je voert een uitgebreid gesprek over de meeste algemene onderwerpen, zelfs in een lawaaierige omgeving."
+	},
+	{
+		"id": "4ba45fc2-33ee-4850-a58c-6a12d5e0d573",
+		"title": "Je spreekt met moedertaalsprekers zonder hen onbedoeld te irriteren of te amuseren en zonder dat zij zich anders moeten gedragen dan ze gewend zijn."
+	},
+	{
+		"id": "347784b0-62a1-417e-96c3-103a7c44aadf",
+		"title": "Je uit gevoelens genuanceerd, je reageert goed op gevoelsuitingen van anderen"
+	},
+	{
+		"id": "bcfe08a0-0a7a-46f8-ba83-a0a757368c34",
+		"title": "Je neemt actief deel aan informele discussies in een vertrouwde context en geeft daarbij commentaar en standpunten helder weer, beoordeelt alternatieve voorstellen en stelt ideeën voor."
+	},
+	{
+		"id": "21f55c11-cc3b-41ad-b13e-e272d16e0278",
+		"title": "Je geeft jouw mening in een discussie en onderbouwt het met ter zake doende verklaringen, argumenten en commentaren."
+	},
+	{
+		"id": "31ad85ab-2c5d-4f8e-8797-8c343503ab2e",
+		"title": "Je neemt actief deel aan alledaagse en niet-alledaagse formele discussies."
+	},
+	{
+		"id": "bd7fb4ea-c1f4-438b-8ffc-ff0fd81ab2db",
+		"title": "Je geeft je mening, verantwoordt deze en houdt het staande, je beoordeelt alternatieve voorstellen en je stelt ideeën voor."
+	},
+	{
+		"id": "23b83a50-50f2-4e4d-972e-eb70263f113d",
+		"title": "Je schetst een zaak of probleem helder, je bespreekt oorzaken of gevolgen, en weegt voor- en nadelen van verschillende benaderingen af"
+	},
+	{
+		"id": "2a58a363-d5be-4c72-92cf-79b9ccdd9529",
+		"title": "Je legt een probleem uit of lost het op."
+	},
+	{
+		"id": "829e7f92-8b86-405e-a081-60bd18cd71ac",
+		"title": "Je onderhandelt."
+	},
+	{
+		"id": "0cd47904-2449-46cb-b139-a678dc0c28b6",
+		"title": "Je handelt een klacht op adequate wijze af."
+	},
+	{
+		"id": "c2c41667-1f30-4de0-ad9d-0cd86be09d68",
+		"title": "Je redt je wanneer je een meningsverschil krijgt in onverwachte situaties tijdens een reis."
+	},
+	{
+		"id": "41c190ff-9570-4ca7-9a41-4effad0adb55",
+		"title": "Je geeft op betrouwbare wijze gedetailleerde informatie door."
+	},
+	{
+		"id": "43740b24-ff28-4d67-9801-1ef937a4a975",
+		"title": "Je beschrijft helder en gedetailleerd hoe een procedure moet worden uitgevoerd."
+	},
+	{
+		"id": "c8cdc282-b656-46da-b397-04f604dd6d0e",
+		"title": "Je voegt informatie en argumenten uit verschillende bronnen bijeen en vertelt erover."
+	},
+	{
+		"id": "27aa82ed-302c-4980-9338-4f65b1cbd7e4",
+		"title": "Het kan voorkomen dat je aarzelt of iets omschrijft, omdat je een woord niet wee"
+	},
+	{
+		"id": "49a97573-5ea2-409a-b6c7-24471e3c091d",
+		"title": "Jouw trefzekerheid in woordkeuze is over het algemeen hoog, al komen enige verwarring en onjuist woordgebruik wel voor, maar die leiden niet tot misverstanden."
+	},
+	{
+		"id": "c1e97406-0006-4e55-a10d-7dd83e4dfbd9",
+		"title": "Je beheerst de grammatica vrij goed. Je maakt geen vergissingen die tot misverstanden leiden."
+	},
+	{
+		"id": "13c2b156-8092-4164-8259-e627489216b0",
+		"title": "Je reageert zo vloeiend en spontaan dat een normale uitwisseling met moedertaalsprekers mogelijk is zonder dat het een van de partijen moeite kost"
+	},
+	{
+		"id": "852ebce7-f2bc-4337-a879-08138c566b4c",
+		"title": "Je drukt je op gepaste wijze uit en weet grote fouten in de formulering te vermijden"
+	},
+	{
+		"id": "d4deed8b-127e-43e9-9d9e-84d5190e2a3d",
+		"title": "Je bedenkt wat er moet worden gezegd en op welke manier dat moet worden gezegd en houdt rekening met hoe het over komt."
+	},
+	{
+		"id": "7cc93cbd-b400-4bbb-907e-0dee68652b1d",
+		"title": "Je omschrijft iets uitgebreid als je het juiste woord niet kent."
+	},
+	{
+		"id": "293185d9-0126-42fe-8c53-3ccd6741c981",
+		"title": "Je corrigeert vergissingen en fouten zodra je je ervan bewust bent of als ze tot onbegrip en misverstanden leiden."
+	},
+	{
+		"id": "81a8e990-d425-4b7e-8d12-766bfd0b36e3",
+		"title": "Je brengt variatie aan je taalgebruik."
+	},
+	{
+		"id": "53594b25-a957-4cf0-b1f7-f0f25e064fee",
+		"title": "Je presenteert duidelijke, gedetailleerde beschrijvingen over veel verschillende onderwerpen die betrekking hebben op jouw interessegebied."
+	},
+	{
+		"id": "092a02bc-cb7b-4d7e-9fee-55beabc59e95",
+		"title": "Je legt een standpunt uit over een actueel onderwerp en zet de voordelen en nadelen van diverse mogelijkheden uiteen."
+	},
+	{
+		"id": "dae2da99-5e14-4e4e-a9a8-9bdf9fd0f5b1",
+		"title": "Je geeft duidelijke, gedetailleerde beschrijvingen over veel verschillende onderwerpen die betrekking hebben op jouw interessegebied."
+	},
+	{
+		"id": "96b48b13-b8b0-4a7a-8a6d-41e0d1eaec3b",
+		"title": "Je vertelt duidelijke, samenhangende verhalen."
+	},
+	{
+		"id": "1623070e-058a-49ff-b48f-16db3efdda24",
+		"title": "Je deelt op spontane wijze iets mee over de meeste algemene onderwerpen."
+	},
+	{
+		"id": "218a5610-7145-441d-9fe4-a0e8268a3378",
+		"title": "Je geeft een duidelijke, voorbereide presentatie, noemt daarbij argumenten voor of tegen een bepaald standpunt en geeft de voor- en nadelen van verschillende mogelijkheden en beantwoord vervolgvragen."
+	},
+	{
+		"id": "843d56c2-d0f9-4513-ac84-664a41d19652",
+		"title": "Je geeft een heldere argumentatie waarbij je je jouw verhaal uitvoerig uitwerkt en ondersteunt met aanvullende punten en relevante voorbeelden."
+	},
+	{
+		"id": "5aa017fc-c3a1-4a82-a446-1862252b6918",
+		"title": "Je beschikt over voldoende woorden om iets te zeggen over de meeste onderwerpen die betrekking hebben op het dagelijks leven, zoals familie, hobby´s en interesses, baantje, reizen en het nieuws."
+	},
+	{
+		"id": "d1fc5c40-6fb3-4b49-9f74-3c7097918b09",
+		"title": "Je beheerst de woorden die tot de basis behoren goed, al maak je nog wel fouten als het wat moeilijker wordt of als het gaat over niet-vertrouwde onderwerpen en situaties."
+	},
+	{
+		"id": "c9c7712b-d86e-4636-9f4d-05e436addf77",
+		"title": "Je schrijft redelijk nauwkeurig in vertrouwde omstandigheden; vertoont over het algemeen een goede grammaticale beheersing maar met merkbare invloed vanuit de moedertaal."
+	},
+	{
+		"id": "7d85666f-c374-4d1a-a210-71cdc85620b4",
+		"title": "Fouten komen voor, maar het is altijd duidelijk wat je probeert uit te drukken."
+	},
+	{
+		"id": "cb596717-247e-47e7-afc3-32a6ebeb4c49",
+		"title": "Je schrijft heldere doorlopende tekst die over het algemeen helemaal te begrijpen is."
+	},
+	{
+		"id": "bd1f3016-8079-4c73-8187-58e0c8ec3f7e",
+		"title": "Spelling, leestekengebruik en lay-out zijn goed genoeg om het grootste deel van de tijd te kunnen worden gevolgd"
+	},
+	{
+		"id": "43fe5519-7e9e-4f7a-ada8-ad04f523500d",
+		"title": "Je verbindt een reeks kortere, op zichzelf staande zinnen tot een samenhangende opeenvolging van punten"
+	},
+	{
+		"id": "783f8953-1ff2-48a2-973c-b46c6b20ad7a",
+		"title": "Je bent je bewust van de belangrijkste beleefdheidsvormen en gebruikt ze goed."
+	},
+	{
+		"id": "b963dad6-6c66-48b8-8a53-1df3051aad93",
+		"title": "Je let bewust op tekenen van de belangrijkste verschillen in gewoonten, gebruiken, houdingen, waarden en overtuigingen tussen de betrokken gemeenschap en die van jezelf."
+	},
+	{
+		"id": "8f86def6-3dad-4ac3-9afe-7d80a24f7ed5",
+		"title": "Je gebruikt digitale technologie zoals internet en zoekmachines om wat je geschreven hebt te controleren."
+	},
+	{
+		"id": "4f0e35e0-16e7-4cf3-87b6-669c7c1fe39a",
+		"title": "Je schrijft eenvoudige samenhangende tekst over onderwerpen die vertrouwd of van persoonlijk belang zijn."
+	},
+	{
+		"id": "59a5a984-a25d-48a8-8bcd-53cbbc171f41",
+		"title": "Je schrijft persoonlijke brieven waarin je jouw ervaringen en indrukken beschrijft."
+	},
+	{
+		"id": "25e772d8-bd3d-43be-831c-6c262175e85a",
+		"title": "Je schrijft persoonlijke brieven waarin nieuws wordt overgebracht en gedachten over abstracte of culturele onderwerpen worden uitgedrukt"
+	},
+	{
+		"id": "3ebeef09-c5ed-4f48-a6ad-3da7894cf359",
+		"title": "Je schrijft berichten die eenvoudige informatie bevatten die van direct belang is voor vrienden, onderwijzers, en anderen die een rol in jouw dagelijks leven spelen, daarbij breng je de punten over die jij belangrijk vindt."
+	},
+	{
+		"id": "2484e82e-796e-448d-82c7-a75096ec62c0",
+		"title": "Je vult gedetailleerd formulieren in waarin om meer informatie gevraagd wordt."
+	},
+	{
+		"id": "ba44515b-76d0-4b32-95e1-e072505fcb13",
+		"title": "Je schrijft korte, eenvoudige opstellen over onderwerpen die belangrijk zijn."
+	},
+	{
+		"id": "d1d95e7c-fc5f-4f0d-ad1d-8a92093898d3",
+		"title": "Je vat verzamelde feitelijke informatie over vertrouwde alledaagse en niet-alledaagse zaken binnen jouw vakgebied samen. Je neemt het in een verslag op en je geeft commentaar."
+	},
+	{
+		"id": "9b642dd2-7017-4fcd-bf96-86f8253281eb",
+		"title": "Je geeft gedetailleerde beschrijvingen van bekende onderwerpen binnen het eigen interessegebied."
+	},
+	{
+		"id": "3bc4faeb-a17f-47e1-b7f7-9c197eb7f457",
+		"title": "Je doet verslag van ervaringen en beschrijft daarbij gevoelens en reacties op gebeurtenissen."
+	},
+	{
+		"id": "6768d2ed-0bb0-4fa2-8870-2f47d2cbbad6",
+		"title": "Je schrijft een verhaal over een onderwerp dat je interesseert."
+	},
+	{
+		"id": "d41b01b7-f623-464b-942d-a82b75dbee49",
+		"title": "Niet vaak voorkomende woorden en specialistische woorden komen voor. Lange samengestelde zinnen."
+	},
+	{
+		"id": "eb114382-59df-47f4-852f-4704448e9036",
+		"title": "Er zijn geen beperkingen"
+	},
+	{
+		"id": "66b923c4-2b05-4c66-87f4-279cc260d2fa",
+		"title": "Je gebruikt de context, grammatica en woorden om daaruit houdingen, stemmingen en bedoelingen af te leiden en vooruit te kijken op het vervolg."
+	},
+	{
+		"id": "0f9a52e3-3635-48cf-b571-797fd4162108",
+		"title": "Je begrijpt lange en complexe feitelijke en literaire teksten en waardeert het gebruik van verschillende stijlen."
+	},
+	{
+		"id": "bb2af0df-f51b-4b81-960d-cc48092f3bd3",
+		"title": "Je begrijpt gespecialiseerde artikelen en lange technische instructies, zelfs wanneer deze niet gaan over voor mij bekende onderwerpen."
+	},
+	{
+		"id": "155e22e5-7a34-4a64-97e7-246fff9d911f",
+		"title": "Je begrijpt alle correspondentie, een enkele keer met behulp van een woordenboek"
+	},
+	{
+		"id": "1b4fb745-65c1-4c88-aec7-3689c60e8393",
+		"title": "Je leest snel lange, complexe teksten en vindt de relevante details."
+	},
+	{
+		"id": "8afdf25b-ad46-44b6-a0be-27fc2e7e6d09",
+		"title": "Je herkent vlot de inhoud en relevantie van nieuwsberichten, artikelen en verslagen over uiteenlopende professionele onderwerpen en beslist dan of nadere bestudering de moeite waard is."
+	},
+	{
+		"id": "73869870-aca3-4f5f-b7b0-8f8b61a24f4e",
+		"title": "Je begrijpt meer complexe advertenties"
+	},
+	{
+		"id": "c632f070-4a5e-4293-9e47-249f28121aeb",
+		"title": "Je begrijpt op detailniveau veel verschillende, lange, complexe teksten, die voorkomen in het sociale, professionele of academische leven, en herkent fijnere details zoals houdingen en uitgesproken of impliciete meningen, mits moeilijke passages herlezen kunnen worden."
+	},
+	{
+		"id": "5f869d49-8617-43e1-b3e4-c81fc89afacc",
+		"title": "Je leest met gemak literaire en non-fictie teksten lezen."
+	},
+	{
+		"id": "955cf232-c536-4133-80cf-587d76d3b1cf",
+		"title": "Je begrijpt lange, complexe aanwijzingen bij een nieuwe machine of procedure op detailniveau, ongeacht of de aanwijzingen betrekking hebben op jouw interessegebied, mits je moeilijke passages kan herlezen"
+	},
+	{
+		"id": "5525c3fd-783c-4b2a-9983-504c782fde59",
+		"title": "Je begrijpt complex taalgebruik, inclusief idiomatische uitdrukkingen (spreekwoorden, gezegde, uitdrukking) en betekenissen die tussen de regels door gezegd worden"
+	},
+	{
+		"id": "5198d404-6efb-41d0-bf45-98bd444a8ba3",
+		"title": "Je luistert naar fragmenten waarin de spreker normaal tot snel spreekt en niet duidelijk hoeft te articuleren."
+	},
+	{
+		"id": "fad7b533-fa99-4e2e-992a-c544367f4ab9",
+		"title": "Anders dan gemiddeld taalgebruik is geen probleem, mits er tijd is om te wennen aan wat niet vertrouwd is."
+	},
+	{
+		"id": "575f6f1c-906c-4028-bc35-e2b57b9b47fe",
+		"title": "Je luistert naar alle teksten"
+	},
+	{
+		"id": "1d964411-f218-44c7-a595-f14a1e103e74",
+		"title": "Je gebruikt verschillende strategieën om tot tekstbegrip te komen, inclusief letten op hoofdpunten en begrip checken met gebruik van contextuele aanwijzingen."
+	},
+	{
+		"id": "ce70fdf5-c8c4-4261-927a-388b912c7965",
+		"title": "Je gebruikt de context, grammatica en woorden om daaruit houdingen, stemmingen en bedoelingen af te leiden en vooruit te lopen op het vervolg."
+	},
+	{
+		"id": "12015cf8-428a-40ef-b017-a4f48c86cc96",
+		"title": "Je begrijpt een langer betoog, zelfs wanneer dit niet duidelijk gestructureerd is."
+	},
+	{
+		"id": "79437bb3-8f1e-4d84-a7b1-ece45744fc4c",
+		"title": "Je begrijpt zonder al te veel inspanning tv-programma’s en films."
+	},
+	{
+		"id": "2179d863-8d7a-455c-987a-e5087c510eb9",
+		"title": "Je begrijpt tot in de details gesproken teksten over abstracte en complexe onderwerpen van gespecialiseerde aard buiten je eigen interessegebied, al laat je misschien af en toe een detail bevestigen, vooral wanneer sprake is van een accent of dialect"
+	},
+	{
+		"id": "0e0770c0-d875-458f-bdf4-477fe10f2c48",
+		"title": "Je volgt met gemak complexe gesprekken tussen meerdere mensen, in een groepsdiscussie of debat, zelfs over abstracte, complexe en niet-vertrouwde onderwerpen."
+	},
+	{
+		"id": "69d8c88b-c06f-4ddf-a218-5198a7d36516",
+		"title": "Je volgt de meeste discussies en debatten betrekkelijk gemakkelijk."
+	},
+	{
+		"id": "420a2061-c316-45be-8ffc-5a8583d98fb0",
+		"title": "Je volgt een toneelstuk."
+	},
+	{
+		"id": "f1cd6016-6ca7-4609-bba3-a2c06c218677",
+		"title": "Je haalt specifieke informatie uit openbare mededelingen van slechte kwaliteit waarbij het geluid vervormd is."
+	},
+	{
+		"id": "f40f63b1-813b-4fa6-88bc-01f64dcdd2aa",
+		"title": "Je begrijpt complexe technische informatie."
+	},
+	{
+		"id": "27a08dd8-3464-43d3-a9ef-f4779744b474",
+		"title": "Je verstaat een groot aantal verschillende opgenomen en uitgezonden audiovisueel materiaal en herkent fijnere details zoals houdingen en verhoudingen tussen sprekers die niet zichtbaar zijn."
+	},
+	{
+		"id": "29ca9bc1-77c6-4b75-b445-cc36312ce814",
+		"title": "Je volgt films waarin een grote hoeveelheid plat taalgebruik en idiomatische uitdrukkingen (spreekwoorden, gezegde, uitdrukking) wordt gebruikt."
+	},
+	{
+		"id": "2e5db9a9-a5db-400b-9128-7ce8fddee30c",
+		"title": "Je gesprekspartner gebruikt woorden die veel voorkomen, bekend uit eigen taal."
+	},
+	{
+		"id": "0ec834c7-8e0b-43c2-b015-89d615eb696a",
+		"title": "Het woordgebruik is zeer eenvoudig."
+	},
+	{
+		"id": "61da1174-2fd7-4c38-928a-89d12dab0b3e",
+		"title": "De zinnen zijn kort."
+	},
+	{
+		"id": "5347e23d-513f-4191-925c-4bab5452e02b",
+		"title": "Je gesprekspartner spreekt helder en langzaam."
+	},
+	{
+		"id": "c4c68327-7ca5-4e32-9384-819984e053c1",
+		"title": "De zinnen zijn vaak gescheiden door pauzes."
+	},
+	{
+		"id": "de6a61cd-dff1-4f97-9241-3c5e6d606a62",
+		"title": "Je gesprekspartner past zijn taal aan door langzaam en duidelijk te spreken, te controleren of je begrepen wordt en waar nodig te herformuleren of te herhalen."
+	},
+	{
+		"id": "39688e9c-2ede-4ad8-8964-4374ff4bc542",
+		"title": "Vragen en uitingen zijn direct aan jou gericht."
+	},
+	{
+		"id": "41f1b8e6-bc36-4c80-949b-ca13923c5e2a",
+		"title": "Je beschikt over voldoende woorden om alledaagse handelingen uit te voeren in bekende situaties en over bekende onderwerpen."
+	},
+	{
+		"id": "3cb21ea7-7902-4ef3-88dc-dd6c294b238e",
+		"title": "Je gebruikt een aantal uit het hoofd geleerde uitdrukkingen waarmee je je kan redden in alledaagse situaties"
+	},
+	{
+		"id": "3048f72c-8a1a-4312-a56d-2f73eb6227eb",
+		"title": "Je gebruikt een aantal eenvoudige grammatica constructies correct, maar maakt nog regelmatig basisfouten – bijvoorbeeld door verschillende tijden door elkaar te gebruiken en niet te letten op samenhang; toch is meestal wel duidelijk wat je probeert te zeggen."
+	},
+	{
+		"id": "47a98cac-d30a-421b-8525-5115145315a0",
+		"title": "Je maakt je in korte gesprekjes verstaanbaar, ondanks korte stiltes, valse starts en herformuleringen."
+	},
+	{
+		"id": "ed7da43c-340c-4f08-9ed9-8681e04037ea",
+		"title": "Je verbindt zinnen met de meest voorkomende verbindingswoorden om een verhaal te vertellen of iets te beschrijven als een eenvoudige opsomming van punten."
+	},
+	{
+		"id": "8e1208ee-eaa9-4219-abee-e0f12c2ba6e1",
+		"title": "Je uitspraak is over het algemeen voldoende helder om te worden verstaan, ondanks een merkbaar buitenlands accent."
+	},
+	{
+		"id": "82b5174d-8e41-46d7-a07e-376baf1c2d43",
+		"title": "Soms vragen ze jou om iets te herhalen."
+	},
+	{
+		"id": "b4e568c6-b1d2-455a-a53c-090cc597a497",
+		"title": "Je gaat op eenvoudige, maar doeltreffende wijze, sociale contacten aan en gebruikt eenvoudige uitdrukkingen en vaste routines."
+	},
+	{
+		"id": "4f08a678-d75c-4caf-a510-ef36e2e76cbb",
+		"title": "Je beantwoordt vragen en reageert op eenvoudige uitspraken."
+	},
+	{
+		"id": "e806f874-091f-4a9f-921b-73f5cd6186d7",
+		"title": "Je geeft aan wanneer je het gesprek volgt, maar bent niet vaak in staat genoeg te begrijpen om uit jezelf het gesprek gaande te houden"
+	},
+	{
+		"id": "47a13c4c-8a2f-4fbc-a7a8-b5ae7ae81eef",
+		"title": "Je houdt het gesprek gaande door aandacht te vragen"
+	},
+	{
+		"id": "64891006-fc88-42e5-ada2-cac3e4672431",
+		"title": "Je houdt het gesprek gaande door te zeggen dat je iets in het gesprek niet kan volgen."
+	},
+	{
+		"id": "2080ba7a-ed26-4150-b554-818f9b889f58",
+		"title": "Je houdt het gesprek gaande door te vragen of iemand langzamer kan praten of iets kan herhalen, eventueel met hulp van gebaren."
+	},
+	{
+		"id": "53a22cea-2f5c-4894-a2cc-7b2c4c606127",
+		"title": "Je houdt het gesprek gaande door gebruik te maken van 'fillers', zoals 'na ja', 'ehm', en stopwoorden zoals 'soort van', 'kijk' enz."
+	},
+	{
+		"id": "febcb355-8692-4072-b5c8-4123b6293569",
+		"title": "Je maakt de betekenis van een woord met gebaren duidelijk."
+	},
+	{
+		"id": "c45c0769-9f07-4fea-911a-4afd55087508",
+		"title": "Je ‘spreekt’ een woord uit je eigen taal uit alsof het Frans is en vraagt of ze het begrijpen."
+	},
+	{
+		"id": "02606097-ca4d-42c4-8ede-efadc71ecb88",
+		"title": "Je maakt soms gebruik van een begrip ('fruit' voor 'orange')."
+	},
+	{
+		"id": "46bbdea7-d31b-4165-8c55-4a887212de08",
+		"title": "Ik voer gesprekken over eenvoudige en alledaagse taken die over eenvoudige en directe uitwisseling van informatie van vertrouwde onderwerpen en activiteiten gaan."
+	},
+	{
+		"id": "aac80fa0-edfd-4207-8f30-1e2686dbcacf",
+		"title": "Ik voer zeer korte sociale gesprekken, alhoewel ik gewoonlijk niet voldoende begrijp om het gesprek zelfstandig gaande te houden."
+	},
+	{
+		"id": "9115e7ff-73ff-4b35-a2f5-6b52415a1b1a",
+		"title": "Je doet in een vertrouwde situatie eenvoudige voorstellen en reageert op voorstellen."
+	},
+	{
+		"id": "46f0b8c4-a70b-4a60-b0ea-02845daa5651",
+		"title": "Je drukt op eenvoudige wijze een voorkeur en mening uit over vertrouwde, alledaagse onderwerpen."
+	},
+	{
+		"id": "9acb6fd5-903b-495a-b16b-3c56822f41e4",
+		"title": "Je praat mee in korte gesprekken over onderwerpen die voor jou belangrijk zijn."
+	},
+	{
+		"id": "2f1eeb12-657f-49a4-94dd-969d06e31396",
+		"title": "Je zegt wat je van iets vindt wanneer je rechtstreeks wordt aangesproken op een bijeenkomst, mits je om herhaling van belangrijke punten kan vragen."
+	},
+	{
+		"id": "bbc6b9bb-13aa-48af-b8e5-f8172c98fa39",
+		"title": "Je praat over eenvoudige en alledaagse taken in eenvoudige bewoordingen om dingen te vragen en eenvoudige informatie te verkrijgen en te bespreken wat er vervolgens moet gebeuren."
+	},
+	{
+		"id": "dc55bda2-af6e-4401-b9ce-3f110a32dad4",
+		"title": "Je doet suggesties, geeft en vraagt om aanwijzingen."
+	},
+	{
+		"id": "1dc2f9da-49a6-440e-95c5-885dcf71875b",
+		"title": "Je voert een eenvoudig gesprek aan een balie."
+	},
+	{
+		"id": "28a32056-2c45-4863-927d-b4dcad181ed0",
+		"title": "Je voert een eenvoudig telefoongesprek."
+	},
+	{
+		"id": "e602e03c-c5f3-4f31-b7cb-0217eaa82893",
+		"title": "Je achterhaalt informatie en geeft die door."
+	},
+	{
+		"id": "eeb22564-2fa3-497a-b453-cbcc4e2653a3",
+		"title": "Je stelt en beantwoordt vragen over gewoonten en routines."
+	},
+	{
+		"id": "bbca0826-993f-4e6e-9817-26430ac82c83",
+		"title": "Je stelt en beantwoordt vragen over hoe je je tijd doorbrengt, over vroeger of over wat je gaat doen."
+	},
+	{
+		"id": "3419f2b3-fa16-46f3-81dc-55d983322a05",
+		"title": "Je geeft eenvoudige opdrachten en aanwijzingen."
+	},
+	{
+		"id": "f3393eef-3122-4a11-b277-6e586e44ce6f",
+		"title": "Je beschikt over voldoende woorden om alledaagse handelingen uit te voeren die betrekking hebben op vertrouwde situaties en onderwerpen."
+	},
+	{
+		"id": "7d6d604e-85dc-414f-8f23-afc8a32a8f87",
+		"title": "Je gebruikt redelijk veel uit het hoofd geleerde uitdrukkingen om je te kunnen redden in alledaagse situaties."
+	},
+	{
+		"id": "58f6ec31-ced2-4652-a845-bc31e2e182b1",
+		"title": "Je gebruikt een aantal eenvoudige constructies correct, maar maakt nog wel vaak basis fouten – bijvoorbeeld door verschillende tijden door elkaar te gebruiken en niet te letten op samenhang; toch is meestal wel duidelijk wat je probeert te zeggen."
+	},
+	{
+		"id": "714a2f48-36e1-4324-a820-dbe35a53eda2",
+		"title": "Je gebruikt een aantal vaste zinnetjes die je uit het hoofd hebt geleerd."
+	},
+	{
+		"id": "66e750d4-ad04-453b-9be5-397ddb4ff910",
+		"title": "Je maakt tijdens de voorbereiding gebruik van tweetalige (online) woordenboeken of vertaalsites."
+	},
+	{
+		"id": "c67c1926-c7dd-4d3c-8608-10d7c746c97b",
+		"title": "Je maakt gebruik van 'fillers', zoals 'na ja', 'ehm', en stopwoorden zoals 'soort van', 'kijk' enz."
+	},
+	{
+		"id": "0038f25a-dde1-40ad-a026-a5c9925932fd",
+		"title": "Je maakt de betekenis van een woord duidelijk met gebaren."
+	},
+	{
+		"id": "7fdc9788-4554-4e68-b9af-7c00b1e75184",
+		"title": "Je omschrijft een woord als je zelf niet op het woord kan komen, eventueel maak je gebruik van gebaren."
+	},
+	{
+		"id": "6d08ffac-e662-46eb-8e0d-9d95fdb4b516",
+		"title": "Ik gebruik uitdrukkingen en zinnen om in eenvoudige woorden mijn familie en andere mensen, waar en hoe ik woon, mijn school en mijn bijbaantje te beschrijven."
+	},
+	{
+		"id": "1b2a8815-d262-4dd4-9fa2-f9bfa2fb7775",
+		"title": "Je legt uit wat je leuk of niet leuk vindt aan iets."
+	},
+	{
+		"id": "fdabdd47-27e0-40f6-b8da-d5006ee48271",
+		"title": "Je vergelijkt in eenvoudige taal korte uitspraken over dingen en bezittingen."
+	},
+	{
+		"id": "d6078093-48c1-415a-adff-a50e482fe428",
+		"title": "Je beschrijft kort en eenvoudig gebeurtenissen en activiteiten."
+	},
+	{
+		"id": "f654ef8c-9de1-4dc8-9400-7fc0ed5c37fe",
+		"title": "Je vertelt een verhaal of je beschrijft iets."
+	},
+	{
+		"id": "b448abb5-5289-409e-85e9-531e87746182",
+		"title": "Je beschrijft alledaagse dingen van jouw omgeving."
+	},
+	{
+		"id": "72c51774-cf5b-4f07-9b3c-cb6e59fe7755",
+		"title": "Je doet korte mededelingen met een voorspelbare, uit het hoofd geleerde inhoud, die zijn te begrijpen door aandachtige luisteraars."
+	},
+	{
+		"id": "83aa602f-e5dc-4b9e-a007-1d99a9361ea6",
+		"title": "Je geeft een korte, ingestudeerde presentatie over een onderwerp dat betrekking heeft op je dagelijks leven en geeft verklaringen voor meningen, plannen en handelingen en je beantwoordt een beperkt aantal duidelijke vragen naar aanleiding van de presentatie."
+	},
+	{
+		"id": "4daf6151-3d47-49fe-a5ae-0397a6a4a2fd",
+		"title": "Je beschikt over een voldoende woorden om jezelf te redden bij je eerste levensbehoeften."
+	},
+	{
+		"id": "2cd53ed6-6b0f-4977-9cbb-975f8d1dca00",
+		"title": "Je gebruikt een aantal uit het hoofd geleerde uitdrukkingen om je te kunnen redden in alledaagse situaties."
+	},
+	{
+		"id": "a1132acc-5e21-4cec-b9d0-67a7f061e4ec",
+		"title": "Je gebruikt een klein aantal eenvoudige zinnen correct, maar maakt nog wel basisfouten – bijvoorbeeld door tijden niet correct te gebruiken; toch begrijpen anderen wat je probeert te zeggen."
+	},
+	{
+		"id": "5cd278df-c306-4e2e-b52d-5cf74225c1e2",
+		"title": "Je schrijft korte zinnen over alledaagse onderwerpen over, bijvoorbeeld een routebeschrijving."
+	},
+	{
+		"id": "76fb4728-f590-4ecc-9f36-89f7d322e1f6",
+		"title": "Je schrijft de woorden redelijk correct (soms zoals je het uitspreekt)."
+	},
+	{
+		"id": "e17d2e67-4e0f-4c65-a379-bf8e3f3a5070",
+		"title": "Je verbindt zinnetjes met elkaar met eenvoudige verbindingswoorden als ‘en’, ‘maar’ en ‘omdat’."
+	},
+	{
+		"id": "b7ed4c41-2650-4d9f-bfd9-9d275071142d",
+		"title": "Je hanteert zeer korte sociale contacten en maakt daarbij gebruik van alledaagse beleefdheidsvormen."
+	},
+	{
+		"id": "00163042-984e-4a5f-9f59-e5812351641b",
+		"title": "Je maakt gebruik van tweetalige (online) woordenboeken of vertaalsites en gebruikt de spelling- en grammaticacontrole van een tekstverwerkingsprogramma, indien toegestaan."
+	},
+	{
+		"id": "d2212812-7207-45a3-9087-2ffeb7e86918",
+		"title": "Je schrijft korte, eenvoudige notities en boodschappen op. Je schrijft een zeer eenvoudige persoonlijke brief, bijvoorbeeld om iemand voor iets te bedanken."
+	},
+	{
+		"id": "b2fd387d-a04e-4051-bd6b-667f27572d9b",
+		"title": "Je schrijft een eenvoudig persoonlijk briefje via de post, e-mail of via andere sociale media."
+	},
+	{
+		"id": "e708ae9b-8ae3-40cb-b61d-02c5fc16f000",
+		"title": "Je neemt deel aan een eenvoudige chatsessie."
+	},
+	{
+		"id": "d19c210c-8b9a-46c7-8955-3285a2742538",
+		"title": "Je vult standaardformulieren in."
+	},
+	{
+		"id": "9bb7d972-d136-40ce-8e75-40b975792617",
+		"title": "Je maakt eenvoudige en korte notities voor jezelf en voor anderen."
+	},
+	{
+		"id": "1e2650a8-4b00-4668-a8e0-54f1158bcbcf",
+		"title": "Je schrijft korte, eenvoudige berichten over voor jou belangrijke zaken."
+	},
+	{
+		"id": "df1ad317-f0c6-416e-bc9c-2109231fac33",
+		"title": "Je beschrijft in korte, eenvoudige zinnen vertrouwde zaken."
+	},
+	{
+		"id": "cf556c47-1b0c-4c40-a4b8-6942afcd4575",
+		"title": "Je beschrijft in korte, eenvoudige zinnen een persoon."
+	},
+	{
+		"id": "3f7137a0-8592-4d59-ae2a-ecd15c69a56e",
+		"title": "Eenvoudig en alledaags"
+	},
+	{
+		"id": "b576f894-c00b-4914-8216-f732937d902f",
+		"title": "Je leest heldere, goed gestructureerde teksten."
+	},
+	{
+		"id": "e9df54e2-f969-419f-ba83-48308bc5d7ba",
+		"title": "Je leest wat langere teksten"
+	},
+	{
+		"id": "a5beb8c8-9f58-4ec1-bc78-5fc25afc4593",
+		"title": "Je leidt de betekenis van onbekende woorden af uit de context in teksten met onderwerpen die voor jou bekend zijn."
+	},
+	{
+		"id": "fe26170e-4671-49a9-bef1-816090a516b5",
+		"title": "Je gebruikt het internet en zoekmachines om woorden en zinsbegrip te controleren."
+	},
+	{
+		"id": "6b0fd8cb-30f9-49de-a2f2-ce2d1a1cb7a6",
+		"title": "Je begrijpt teksten die hoofdzakelijk bestaan uit veel veelvoorkomende of alledaagse taal."
+	},
+	{
+		"id": "c55f86fb-989d-4dd7-b21c-c64cecb129b8",
+		"title": "Je begrijpt de beschrijving van gebeurtenissen, gevoelens en wensen in persoonlijke brieven."
+	},
+	{
+		"id": "d8b9a459-fdeb-40b0-89fe-95e4dda5e9b1",
+		"title": "Je begrijpt persoonlijke brieven, e-mails en vormen van sociale media voldoende om met iemand te kunnen corresponderen."
+	},
+	{
+		"id": "2aea724a-c0d6-4b48-9f48-41fc838a7dda",
+		"title": "Je begrijpt een eenvoudige formele brief of e-mail voldoende om goed te kunnen reageren."
+	},
+	{
+		"id": "fff2c277-7900-477d-9a0f-f6927bf46b3e",
+		"title": "Je zoekt in langere teksten op internet of in andere media, informatie over thema's binnen je eigen interessegebied."
+	},
+	{
+		"id": "ba34f236-4602-43c9-ae71-89559d1eef26",
+		"title": "Je begrijpt hoofdgedachte en belangrijkste argumenten in eenvoudige teksten in tijdschriften, kranten of op internet."
+	},
+	{
+		"id": "cedd9e92-a62d-47fa-80a7-4a170e2c4565",
+		"title": "Je begrijpt helder geschreven, ondubbelzinnige instructies."
+	},
+	{
+		"id": "cde99dfd-d6fe-4a71-9930-c4ee98e28728",
+		"title": "Je begrijpt binnen je eigen interessegebied complexer taalgebruik."
+	},
+	{
+		"id": "e480413b-6eec-4d27-a54c-f6e76c093a74",
+		"title": "Je luistert naar fragmenten waarin de spreker op een normaal tempo en in duidelijk gearticuleerde standaardtaal spreekt."
+	},
+	{
+		"id": "b832fdfb-2d7e-412f-870a-190fa4c74fba",
+		"title": "Je luistert naar niet al te lange teksten"
+	},
+	{
+		"id": "26b774f8-a235-4ed0-b17a-9944f236340b",
+		"title": "Je leidt de betekenis van onbekende woorden af uit de context als het gaat over vertrouwde en alledaagse onderwerpen, over actuele zaken en zaken van persoonlijk belang."
+	},
+	{
+		"id": "3d0d5f92-49ba-48ee-86ab-fd5d6d1dd10a",
+		"title": "Je leidt de betekenis van zo nu en dan voorkomende onbekende woorden af uit de context en herleidt de betekenis van zinnen bij onderwerpen die voor jou bekend zijn."
+	},
+	{
+		"id": "a34428c6-5724-4f20-81e8-e920bbc52bc4",
+		"title": "Je begrijpt de hoofdpunten wanneer in duidelijk uitgesproken taal wordt gesproken over vertrouwde zaken die je regelmatig tegenkomt op school, vrije tijd enz."
+	},
+	{
+		"id": "5083e46c-b218-429d-a814-b25d14743806",
+		"title": "Je begrijpt de hoofdpunten van veel radio- of tv-programma’s over actuele zaken of over onderwerpen van persoonlijk belang, wanneer er redelijk langzaam en duidelijk gesproken wordt."
+	},
+	{
+		"id": "33ae2bac-6e08-4196-bde8-9cdceae3c1b8",
+		"title": "Je volgt helder uitgesproken taal die in alledaagse gesprekken tot jou gericht wordt, als je af en toe kunt vragen om iets te herhalen of op een andere manier te zeggen."
+	},
+	{
+		"id": "2930748f-0b6c-4a23-bbc2-b9c229b2ac98",
+		"title": "Je volgt veel van wat rondom je gezegd wordt over algemene onderwerpen."
+	},
+	{
+		"id": "227c1636-ea12-43a7-9487-50dc77c62907",
+		"title": "Je volgt een toespraak binnen je eigen vakgebied"
+	},
+	{
+		"id": "d857f329-43c1-48fb-8a0d-31a089e1251f",
+		"title": "Je begrijpt eenvoudige technische informatie."
+	},
+	{
+		"id": "4fb91abf-3c41-4046-b17f-cf506c27754f",
+		"title": "Je volgt gedetailleerde aanwijzingen"
+	},
+	{
+		"id": "4a92ff5d-3b8b-458a-afe7-6e78b2179f1a",
+		"title": "Je verstaat de inhoudelijke informatie van het meeste opgenomen of uitgezonden geluidsmateriaal over onderwerpen van persoonlijk belang."
+	},
+	{
+		"id": "ca9e4cd4-bc83-4226-96b4-d231b992e5e4",
+		"title": "Je begrijpt een groot deel van veel televisieprogramma's over onderwerpen van persoonlijk belang, zoals vraaggesprekken, korte voordrachten en nieuwsverslagen, wanneer deze betrekkelijk langzaam en helder worden gepresenteerd."
+	},
+	{
+		"id": "c758c5f5-b8f0-4f55-8b2c-1aece94bcc77",
+		"title": "Je beschikt over voldoende woorden om je te redden bij je eerste levensbehoeften."
+	},
+	{
+		"id": "a6c5e485-fb98-4e3d-8109-af272a097127",
+		"title": "Je gebruikt zeer korte zinnen over bekende onderwerpen in korte gesprekjes, ondanks dat je vaak aarzelt of opnieuw begint."
+	},
+	{
+		"id": "2788633c-b767-401c-b6a3-6db28ccfc6ff",
+		"title": "Je verbindt zinnen of woorden met eenvoudige verbindingswoorden als ‘en’, ‘maar’ en ‘omdat’."
+	},
+	{
+		"id": "2f8722b6-f2fb-4574-a175-aa11548b41a4",
+		"title": "Je gebruikt alledaagse beleefdheidsvormen in korte gesprekjes."
+	},
+	{
+		"id": "2bfad28b-f057-4ac7-9770-acc949eb7cc7",
+		"title": "Je houdt het gesprek gaande door aandacht te vragen."
+	},
+	{
+		"id": "c6099e43-c6ed-4b89-a98f-407481780c6e",
+		"title": "Je houdt het gesprek gaande door te vragen of iemand langzamer kan praten of iets kan herhalen, eventueel met hulp van gebaren;"
+	},
+	{
+		"id": "a9785a96-ef67-41ae-9cd4-695dfea2485a",
+		"title": "Je ontvangt iemand correct en stelt diegene op zijn/haar gemak."
+	},
+	{
+		"id": "a186a95c-9137-4134-883d-ee36d963690a",
+		"title": "Je communiceert over eenvoudige en alledaagse taken in eenvoudige bewoordingen om dingen te vragen en eenvoudige informatie te verkrijgen."
+	},
+	{
+		"id": "b87b04d8-3536-400c-b352-64c1c7d1fb29",
+		"title": "Je vraagt dingen en doet eenvoudige handelingen in openbare gelegenheden."
+	},
+	{
+		"id": "823246eb-b80c-47ef-9964-fcaf1f88c4c9",
+		"title": "Je bestelt een maaltijd."
+	},
+	{
+		"id": "ac37dbb5-6626-4ce4-bccf-c0e3a524ef6b",
+		"title": "Je wisselt wat informatie uit over vertrouwde en alledaagse zaken."
+	},
+	{
+		"id": "8a0079e8-9c61-4bc5-a78b-ca6614adb160",
+		"title": "Je gebruikt met voldoende gemak zeer korte zinnen over vertrouwde onderwerpen voor korte gesprekjes, ondanks dat je vaak aarzelt en opnieuw begint."
+	},
+	{
+		"id": "7c231ee1-1383-4dff-bccd-8e4d89ba737a",
+		"title": "Je verbindt zinnetjes met eenvoudige verbindingswoorden als ‘en’, ‘maar’ en ‘omdat’."
+	},
+	{
+		"id": "853e2a85-dd1e-46b6-ab85-394d2d81e8b7",
+		"title": "Je beschrijft in losse woorden en simpele, korte zinnen iets of iemand."
+	},
+	{
+		"id": "0985f747-3ea5-451c-b564-eda175fb9823",
+		"title": "Je geeft een korte, ingestudeerde presentatie over een onderwerp uit je dagelijks leven en je kunt je mening, je plannen en waarom je iets doet uitleggen."
+	},
+	{
+		"id": "045e81da-93e4-43df-8bcd-1c80e760c66c",
+		"title": "Je vindt en begrijpt relevante informatie in brochures en korte officiële documenten op internet of in andere media."
+	},
+	{
+		"id": "ccaea53f-498d-4cbf-9277-65836dfb011f",
+		"title": "Je begrijpt belangrijke informatie in korte verslagen en artikelen."
+	},
+	{
+		"id": "98932865-5fd8-40f4-9dcc-d074198f2922",
+		"title": "Je leest eenvoudige jeugdliteratuur."
+	},
+	{
+		"id": "d1a56c7c-1ab3-47ac-a112-d136cdaebb5a",
+		"title": "Je begrijpt door meelezen alledaagse filmpjes."
+	},
+	{
+		"id": "9c5f1775-dd8e-4f82-9676-3a43f6e906a9",
+		"title": "Je volgt de hoofdpunten van een uitgebreid, informeel gesprek dat rondom jou wordt gevoerd."
+	},
+	{
+		"id": "d8882c3c-dab3-4741-88de-c6b5ba9d5d72",
+		"title": "Je verstaat de hoofdpunten van nieuwsberichten op de radio en van eenvoudiger opgenomen materiaal over bekende onderwerpen."
+	},
+	{
+		"id": "3acafe21-97f0-4097-b249-b9bfd7278905",
+		"title": "Je volgt films waarin een groot deel van de verhaallijn wordt gedragen door visuele effecten en actiescènes."
+	},
+	{
+		"id": "192d6360-71e7-4b5f-ab3a-68a5921fbdff",
+		"title": "Je vat de hoofdpunten samen van televisieprogramma’s over onderwerpen die jou bekend zijn, wanneer deze redelijk langzaam en helder worden gepresenteerd."
+	},
+	{
+		"id": "9a05a2a0-7aed-4519-99f4-9c973cda5bd2",
+		"title": "Je gebruikt eenvoudige alledaagse beleefdheidsvormen om anderen te begroeten en aan te spreken."
+	},
+	{
+		"id": "1e4f57b0-1610-4c14-bbcb-faa3b45dab1f",
+		"title": "Je doet in beperkte mate mee aan eenvoudige gesprekken over alledaagse, bekende onderwerpen."
+	},
+	{
+		"id": "922e0031-396a-4175-b83f-1409eaad8a08",
+		"title": "Je biedt je verontschuldigingen aan en reageert op verontschuldigingen van anderen."
+	},
+	{
+		"id": "22707393-68f1-4549-be11-da7f0c5bc6ec",
+		"title": "Je doet uitnodigingen, gaat op uitnodigingen in, slaat deze af of stelt iets voor."
+	},
+	{
+		"id": "8b5896f1-5700-4825-bf33-8e6ebc539e0f",
+		"title": "Je communiceert over eenvoudige en alledaagse taken in eenvoudige bewoordingen."
+	},
+	{
+		"id": "53bb6766-9262-4cc3-b769-d5497a8a2e5b",
+		"title": "Je maakt afspraken."
+	},
+	{
+		"id": "bd6da697-7c42-49ba-adcc-679c7dada332",
+		"title": "Je vraagt alledaagse goederen en diensten aan."
+	},
+	{
+		"id": "191339ae-0084-4df6-a4b3-dbd6219d908a",
+		"title": "Je vraagt en begrijpt eenvoudige informatie met betrekking tot reizen en het gebruik van het openbaar vervoer."
+	},
+	{
+		"id": "5d0d8c5f-64f8-459b-9f74-90991da7487c",
+		"title": "Je geeft en begrijpt inlichtingen over hoeveelheden, aantallen, enzovoort."
+	},
+	{
+		"id": "42d5fcda-7ab0-4499-8923-deeb6a5afa5e",
+		"title": "Je koopt iets door te zeggen wat je wil en je vraagt de prijs."
+	},
+	{
+		"id": "2d170e71-b91b-4b8d-b1ff-46fa6c89a337",
+		"title": "Je stelt en beantwoordt vragen over wat iemand op het werk en in de vrije tijd doet."
+	},
+	{
+		"id": "5f0b65f6-3ac7-4725-9265-f93995896aea",
+		"title": "Je vraagt en geeft informatie die persoonlijk is."
+	},
+	{
+		"id": "adc82122-abb4-4ab3-a22b-8c86c15301e1",
+		"title": "Je vraagt en geeft aanwijzingen met behulp van een kaart of plattegrond."
+	},
+	{
+		"id": "c8b0b12e-a122-4618-ba7b-47021d29dab8",
+		"title": "Je geeft eenvoudige informatie over jezelf."
+	},
+	{
+		"id": "3b4909ae-c6c0-4f91-bfe2-50f15dd554a8",
+		"title": "Je geeft een korte, ingestudeerde presentatie over een onderwerp uit je dagelijks leven."
+	},
+	{
+		"id": "be87d4fd-5a5a-4d33-8bf6-13cea7719281",
+		"title": "Je gebruikt vaak voorkomende woorden met betrekking tot jouw persoonlijke gegevens."
+	},
+	{
+		"id": "258f4fdc-d906-411c-8333-79c764343d8c",
+		"title": "Je gebruikt enkele eenvoudige zinnetjes die je uit het hoofd hebt geleerd."
+	},
+	{
+		"id": "7f945646-30d4-424b-ae21-fe900a285a36",
+		"title": "Je schrijft vertrouwde woorden en korte zinnen over, bijvoorbeeld eenvoudige aanwijzingen of instructies, namen van alledaagse dingen, namen van winkels."
+	},
+	{
+		"id": "9e9ddb90-4a98-4f77-9f4c-0ad517db509b",
+		"title": "Je spelt je adres, nationaliteit, en andere persoonlijke gegevens."
+	},
+	{
+		"id": "b545e3f3-b4cb-4a5c-8719-9b44b11b0f2c",
+		"title": "Je verbindt woorden of zinnetjes af en toe met elkaar met heel eenvoudige verbindingswoorden als ‘en’ of ‘dan'."
+	},
+	{
+		"id": "3aa0419a-ef19-4ffe-9424-3f1c0b94a957",
+		"title": "Je legt sociaal contact door gebruik te maken van de eenvoudigste, alledaagse beleefdheidsvormen."
+	},
+	{
+		"id": "ba10f424-d615-435e-a8be-e797a3770fbe",
+		"title": "Je maakt redelijk gebruik van tweetalige (online) woordenboeken of vertaalsites en gebruikt de spelling- en grammaticacontrole van een tekstverwerkingsprogramma"
+	},
+	{
+		"id": "97c2c0d7-68ad-41b5-89eb-af560e09c3e2",
+		"title": "Je schrijft een korte, eenvoudige ansichtkaart, bijvoorbeeld voor een vakantiegroet."
+	},
+	{
+		"id": "8e9cde69-3ae1-4c06-9ba5-427e76c07378",
+		"title": "Je vult op formulieren persoonlijke gegevens in, zoals je naam, nationaliteit en adres op een hotelinschrijvingsformulier."
+	},
+	{
+		"id": "e0fccc8c-8f8d-495b-9914-bc3a6f96f5f0",
+		"title": "Je schrijft een korte, eenvoudige (digitale) kaart met een wens of groet."
+	},
+	{
+		"id": "c8a6f7e6-2dfe-4d6c-9f60-bb237cb3781b",
+		"title": "Je schrijft een zeer kort, eenvoudig berichtje om een afspraak te bevestigen of af te zeggen via sms, e-mail of via andere sociale media.."
+	},
+	{
+		"id": "3a32e187-3d78-4a19-bc79-71014571c9ea",
+		"title": "Je vult een eenvoudig formulier in."
+	},
+	{
+		"id": "8c8a7f33-6387-42d1-a43e-b3931438bd6a",
+		"title": "Je vult een korte lijst met enkele eenvoudige vragen over jezelf in."
+	},
+	{
+		"id": "5dd0e7a3-ed33-455f-b75f-f9ba3a89c5d7",
+		"title": "Je maakt zeer korte en eenvoudige notities."
+	},
+	{
+		"id": "658cb776-5a81-46ac-8c08-d28777adf211",
+		"title": "Je schrijft een paar korte, eenvoudige zinnen op over jezelf of over andere mensen"
+	},
+	{
+		"id": "a9a7ba7a-5108-4a8b-b0ef-d9368f8fe0ae",
+		"title": "Je begrijpt veelvoorkomende woorden en woorden bekend uit de eigen taal."
+	},
+	{
+		"id": "bc00a2c4-783f-4b99-be8a-bdd884f176bc",
+		"title": "Zinnen zijn eenvoudig"
+	},
+	{
+		"id": "565af7f4-a35b-46fa-83a0-35a6214d00b1",
+		"title": "Je leest heldere, goed gestructureerde teksten met plaatjes en tekeningen."
+	},
+	{
+		"id": "277fbc5e-492a-43b4-9d92-7d3c4a21325b",
+		"title": "Je leest korte teksten"
+	},
+	{
+		"id": "7b00ed97-b6bf-4be1-8041-320ea5cda335",
+		"title": "Je leidt de betekenis van onbekende woorden af uit de context in eenvoudige (concrete) teksten met onderwerpen die voor jou bekend zijn."
+	},
+	{
+		"id": "dac87f80-8d3b-4599-8611-d80cf66d3f5b",
+		"title": "Je maakt gebruik van tweetalige (online) woordenboeken om woorden te controleren, indien toegestaan."
+	},
+	{
+		"id": "8edbce28-e7ee-4cd6-a625-e02db4358c1b",
+		"title": "Je leest zeer korte, eenvoudige teksten. Je vindt voorspelbare informatie in eenvoudige, alledaagse teksten zoals advertenties, folders, menu's en dienstregelingen en je begrijpt korte, eenvoudige, persoonlijke brieven."
+	},
+	{
+		"id": "f7c38b95-39e4-4f66-9e04-b331c41c9dfa",
+		"title": "Je begrijpt een korte, eenvoudige (standaard)brief of e-mail."
+	},
+	{
+		"id": "9597e1d0-af51-4fa8-a859-bbc954a7ef96",
+		"title": "Je vindt en begrijpt informatie in eenvoudig, alledaags materiaal."
+	},
+	{
+		"id": "3d67c3b8-65df-4741-930e-500b747bf8d2",
+		"title": "Je begrijpt eenvoudige advertenties met weinig afkortingen."
+	},
+	{
+		"id": "2ebb54dd-7b0a-406d-adf6-8c53b1067b9b",
+		"title": "Je vindt en begrijpt informatie in lijsten, overzichten en formulieren."
+	},
+	{
+		"id": "ac59679d-da3b-444a-a5c1-51156a4a859f",
+		"title": "Je begrijpt veelvoorkomende borden en mededelingen."
+	},
+	{
+		"id": "585343f2-6e0c-49b9-a82f-e09ac12a863f",
+		"title": "Je begrijpt informatie in eenvoudige teksten."
+	},
+	{
+		"id": "17678a7c-fa6a-491b-a672-fef0a624dfc8",
+		"title": "Je begrijpt de hoofdlijn van eenvoudige teksten in een tijdschrift, krant of op een website."
+	},
+	{
+		"id": "0f651d21-d10f-4d9b-8359-13d013507dfc",
+		"title": "Je begrijpt korte, beschrijvende teksten over vertrouwde onderwerpen."
+	},
+	{
+		"id": "93f20ea6-f729-442f-89e4-1608984d3710",
+		"title": "Je begrijpt door meelezen eenvoudige filmpjes."
+	},
+	{
+		"id": "9e3ab12f-ba70-4f08-87f2-e832f105bcd9",
+		"title": "Je begrijpt eenvoudige, korte en goed gestructureerde instructies."
+	},
+	{
+		"id": "182aba4d-fdfd-4127-a985-42664e0e1c74",
+		"title": "Duidelijke taal. Binnen eigen interessegebied wordt ook complexer taalgebruik begrepen."
+	},
+	{
+		"id": "e9684bc4-dee9-4c87-b711-644ad07f6810",
+		"title": "Woorden worden duidelijk uitgesproken. Het spreektempo is normaal."
+	},
+	{
+		"id": "d961a715-dcde-460d-ba83-eefad386d90d",
+		"title": "Je wordt direct aangesproken."
+	},
+	{
+		"id": "9415982c-402a-42ab-8b1f-c5d87987a310",
+		"title": "Soms worden bepaalde woorden en zinnen herhaald."
+	},
+	{
+		"id": "2d432ebc-9362-4000-a1de-dc9bdb394a51",
+		"title": "Ongebruikelijke idiomatische uitdrukkingen (spreekwoorden, gezegde, uitdrukking) worden vermeden"
+	},
+	{
+		"id": "a3884781-b757-436d-a866-24e899ad506d",
+		"title": "Je beschikt over voldoende woorden om, soms wat uitgebreid, iets te zeggen over onderwerpen die te maken hebben met het dagelijks leven, zoals familie, hobby´s en interesses, reizen en actualiteiten."
+	},
+	{
+		"id": "309e8457-0b62-493f-a931-ef252818bbb9",
+		"title": "Je beheerst de basis woorden goed, al doen zich nog wel grote fouten voor bij meer complexe gedachten of niet-vertrouwde onderwerpen en situaties."
+	},
+	{
+		"id": "f64dbd4d-74f8-4b53-b246-436b8d219142",
+		"title": "Je spreekt redelijk nauwkeurig in vertrouwde omstandigheden."
+	},
+	{
+		"id": "6c0ba782-44be-4353-a2e7-223ce485b6fc",
+		"title": "Je laat een goede grammaticale beheersing zien, maar met merkbare invloed vanuit je eigen taal."
+	},
+	{
+		"id": "faec6554-510c-4ce2-8b16-47a67359c6b1",
+		"title": "Fouten komen voor, maar het is altijd duidelijk wat je probeert te zeggen."
+	},
+	{
+		"id": "e6e846e1-8477-4bd9-b06a-2b13cd12e2f8",
+		"title": "Je drukt je vrij gemakkelijk uit."
+	},
+	{
+		"id": "b1b4c12c-186c-4ce0-be26-be88c1002263",
+		"title": "Ondanks enige problemen met het maken van zinnen, die tot pauzes en ‘doodlopende wegen’ leiden, kun je zonder hulp je doel bereiken."
+	},
+	{
+		"id": "6c60f67d-83a5-48e5-902d-2c22385f4826",
+		"title": "Je verbindt een reeks kortere, op zichzelf staande, eenvoudige punten tot een samenhangend verhaal"
+	},
+	{
+		"id": "8a6b50ed-0913-4c04-b22f-d123276467f8",
+		"title": "Jouw uitspraak is duidelijk te verstaan, ook al is soms een duidelijk buitenlands accent te horen en maak je incidenteel uitspraakfouten."
+	},
+	{
+		"id": "65b0a93e-936a-435f-b4ce-4ccfaf26c1e6",
+		"title": "Je bent je bewust van de belangrijkste beleefdheidsnormen en je houdt er rekening mee."
+	},
+	{
+		"id": "ed73f762-70a8-4284-a9e7-5c96f24df7a8",
+		"title": "Je bent je bewust van de belangrijkste verschillen in gewoonten, gebruiken, waarden en overtuigingen tussen jezelf en je gesprekspartners en je houdt er rekening mee"
+	},
+	{
+		"id": "de3b7cfa-d577-4a26-9455-5a2b9cf5b3f9",
+		"title": "Je begint een eenvoudig rechtstreeks gesprek over onderwerpen die vertrouwd of van persoonlijk belang zijn, je houdt het gaande en rond het af."
+	},
+	{
+		"id": "cd84711a-e478-4f46-b682-613f5284d8e1",
+		"title": "Je herhaalt gedeeltelijk wat iemand anders heeft gezegd om te zien of het goed begrepen is."
+	},
+	{
+		"id": "94791f3e-e195-408f-8e34-5a057d49e3ca",
+		"title": "Je probeert nieuwe zinnen en uitdrukkingen uit en vraagt of het zo goed is"
+	},
+	{
+		"id": "a80c7a0b-cd7c-4712-a7bb-fad4311a7297",
+		"title": "Je omschrijft de kenmerken van iets concreets als je het juiste woord niet kunt vinden."
+	},
+	{
+		"id": "eade7d9b-e4f9-4c2c-a775-e9c197274f37",
+		"title": "Je corrigeert vergissingen met tijden of uitdrukkingen die tot misverstanden leiden."
+	},
+	{
+		"id": "4d57e79e-96d5-46e8-af34-b7fa32c7f7c6",
+		"title": "Je kunt de meeste situaties aan die zich kunnen voordoen tijdens een reis in het gebied waar Engels wordt gesproken."
+	},
+	{
+		"id": "3f41c8c5-ce0f-4aa1-b1fa-e7eb55ebd2b7",
+		"title": "Je neemt onvoorbereid deel aan een gesprek over onderwerpen die vertrouwd zijn, of jouw persoonlijke belangstelling hebben of die betrekking hebben op het dagelijks leven (bijvoorbeeld familie, hobby's, reizen en actuele gebeurtenissen)"
+	},
+	{
+		"id": "af057795-7be0-4b8c-b823-7000bf67c2fc",
+		"title": "Je brengt je gedachten onder woorden over abstracte of culturele onderwerpen zoals muziek en film."
+	},
+	{
+		"id": "83e5720b-97dd-4cab-9bd7-c5bcc8abf33c",
+		"title": "Je legt uit waarom iets een probleem is."
+	},
+	{
+		"id": "cca6d873-2821-49ca-afb9-b93d618d17f5",
+		"title": "Je geeft kort commentaar op de standpunten van anderen."
+	},
+	{
+		"id": "2c57316d-26ea-4c93-8c9d-679d3510eeb7",
+		"title": "Je vergelijkt alternatieven en stelt ze tegenover elkaar, je bespreekt wat er gedaan moet worden, welke richting je op zou willen, wie of wat moet worden gekozen, enzovoort."
+	},
+	{
+		"id": "ee6f5b06-603c-48e2-bc3b-ce339d8dbba4",
+		"title": "Je brengt een standpunt helder over, maar je hebt er moeite mee om erover in gesprek te gaan."
+	},
+	{
+		"id": "e41f6d32-1b70-4174-a666-768b620b3576",
+		"title": "Je neemt deel aan een alledaagse formele discussie over vertrouwde onderwerpen die gaat om de uitwisseling van feitelijke informatie, het ontvangen van en reageren op aanwijzingen of het bespreken van oplossingen voor praktische problemen."
+	},
+	{
+		"id": "58da8873-3ba7-4a55-8bad-fc1fa15df713",
+		"title": "Je geeft je mening en je reageert op problemen met mogelijke oplossingen en geeft bij het nemen van praktische beslissingen redenen en verklaringen."
+	},
+	{
+		"id": "bdd62cf1-fa26-45a6-b183-1e34909cf239",
+		"title": "Je kunt overweg met de meeste zaken die kunnen optreden tijdens reizen, bij het regelen van vervoer of onderdak of in contacten met (openbare) instanties tijdens een buitenlands bezoek."
+	},
+	{
+		"id": "83cb97b2-76c3-441c-8c50-51e33399a8e3",
+		"title": "Je redt je in minder alledaagse situaties in winkels, restaurants en banken."
+	},
+	{
+		"id": "bcf5880b-d391-461a-9567-867aaa85ea47",
+		"title": "Je uit een klacht, handelt het af of geeft het door."
+	},
+	{
+		"id": "141f5d14-bd4f-462d-ac9a-88a378e6c43e",
+		"title": "Je wisselt met enig vertrouwen verzamelde feitelijke informatie over vertrouwde alledaagse en niet-alledaagse zaken binnen je vakgebied uit, je controleert en bevestigt deze informatie."
+	},
+	{
+		"id": "197e3034-052a-46f8-b507-dbfc24805fb4",
+		"title": "Je beschrijft hoe iets gedaan kan worden, met gedetailleerde aanwijzingen."
+	},
+	{
+		"id": "92295d6b-ca9a-44e4-8612-37d9c508e455",
+		"title": "Je vat een kort verhaal, artikel, lezing, discussie, vraaggesprek of documentaire samen, geeft je mening en beantwoordt vragen over details."
+	},
+	{
+		"id": "7471f689-a999-4992-9d86-f2ddede7968c",
+		"title": "e verschaft concrete informatie waarnaar gevraagd wordt in een vraaggesprek of in een consult, maar je doet dit met beperkte nauwkeurigheid."
+	},
+	{
+		"id": "993195b8-e7bf-4f66-b412-69e6d58beac4",
+		"title": "Je voert een voorbereid vraaggesprek en controleert en bevestigt daarbij informatie, al vraag je zo nu en dan om herhaling als de ander snel of uitvoerig antwoordt."
+	},
+	{
+		"id": "5b0e122e-925f-444f-b928-2bbc55e81949",
+		"title": "Je beheerst de basis woorden goed, al doen zich nog wel grote fouten voor bij meer complexe gedachten of niet-vertrouwde onderwerpen en situaties"
+	},
+	{
+		"id": "6d5fa0b0-9bc8-4ff9-a00b-b0faca9cd66d",
+		"title": "Ondanks enige problemen met het maken van zinnen, die tot pauzes en ‘doodlopende wegen’ leiden, kun je zonder hulp je doel bereiken"
+	},
+	{
+		"id": "91045cf2-f96e-471f-b3fe-002329b70758",
+		"title": "Je verbindt een reeks kortere, op zichzelf staande, eenvoudige punten tot een samenhangend verhaal."
+	},
+	{
+		"id": "ec9d80f1-b11a-4922-82aa-e5de6f5419bb",
+		"title": "Je bent je bewust van de belangrijkste verschillen in gewoonten, gebruiken, waarden en overtuigingen tussen jezelf en je gesprekspartners en je houdt er rekening mee."
+	},
+	{
+		"id": "e5a4c526-d96b-419e-aaf9-db0e9a9b7412",
+		"title": "Je probeert nieuwe zinnen en uitdrukkingen uit en vraagt of het zo goed is."
+	},
+	{
+		"id": "9599b750-a553-446d-9a51-428db8110a88",
+		"title": "Je omschrijft de kenmerken van iets waarvan je het juiste woord niet kent."
+	},
+	{
+		"id": "c903c84a-e178-4125-aa8f-beae18b8349c",
+		"title": "Je beschrijft de betekenis van iets waarvan je het juiste woord niet kent door een woord met vergelijkbare betekenis te gebruiken (bijvoorbeeld vrachtwagen voor mensen in plaats van bus)."
+	},
+	{
+		"id": "bf48ad56-556f-4d42-8ba3-26ed80864ccc",
+		"title": "Je corrigeert vergissingen met tijden of uitdrukkingen die tot misverstanden leiden, mits de gesprekspartner aangeeft dat er een probleem is."
+	},
+	{
+		"id": "dfbae1f1-64e2-410a-a588-e7fe566a65b6",
+		"title": "Je verbindt zinnen op een eenvoudige manier aan elkaar, zodat je ervaringen en gebeurtenissen, jouw dromen, verwachtingen en ambities kunt beschrijven."
+	},
+	{
+		"id": "c09cb32d-a690-4602-9d59-5abd2c945353",
+		"title": "Je geeft in het kort redenen en verklaringen voor je mening en plannen."
+	},
+	{
+		"id": "74e8a98b-f7f5-496c-ab83-dcbc0f4ce8e3",
+		"title": "Je vertelt een verhaal, of over een boek of film, waarbij je zegt wat je ervan vindt."
+	},
+	{
+		"id": "05b44397-5417-47bd-8c20-2b26423672b0",
+		"title": "Je beschrijft eenvoudig diverse vertrouwde onderwerpen binnen je interessegebied."
+	},
+	{
+		"id": "df11c38e-95b1-42cd-a6b6-7219d43c47dc",
+		"title": "Je vertelt op een eenvoudige manier over gebeurtenissen of je beschrijft deze."
+	},
+	{
+		"id": "5551eb61-d590-4687-ac76-b873c4e764cf",
+		"title": "Je doet gedetailleerd verslag van ervaringen en beschrijft daarbij gevoelens en reacties."
+	},
+	{
+		"id": "4e33a825-8dde-4aff-884f-480b9ae38ec1",
+		"title": "Je vertelt details van onverwachte gebeurtenissen."
+	},
+	{
+		"id": "9c8814bc-ffb9-4b7c-969f-25963eb5936d",
+		"title": "Je vertelt het plot na van een boek of film en je beschrijft daarbij je reacties."
+	},
+	{
+		"id": "f9b67a1c-43ca-4e28-9993-f4afd7d7a730",
+		"title": "Je beschrijft dromen, verwachtingen en ambities."
+	},
+	{
+		"id": "41eafb76-087a-4f4b-b7bf-7bfe6779ee4e",
+		"title": "Je vertelt een verhaal."
+	},
+	{
+		"id": "3663e1b1-3adb-4ca5-8470-03435865b063",
+		"title": "Je deelt kort iets mee over een voor jou bekend alledaags onderwerp."
+	},
+	{
+		"id": "b877862b-1b61-43e9-bbcc-1d721a2771bc",
+		"title": "Je vertelt een argument zo goed dat het probleemloos kan worden gevolgd."
+	},
+	{
+		"id": "79273f12-1cfb-44a7-866f-49da96ef9bfd",
+		"title": "Je maakt met een redelijke mate van nauwkeurigheid gebruik van een aantal veelgebruikte zinnen en patronen die bekend zijn van meer voorspelbare situaties"
+	},
+	{
+		"id": "20089cec-5323-49f2-9675-b94112334090",
+		"title": "Je schrijft persoonlijke brieven en e-mails of maakt gebruik van andere vormen van sociale media waarin ervaringen, gevoelens en gebeurtenissen enigszins gedetailleerd worden beschreven."
+	},
+	{
+		"id": "efd05b54-1022-4455-b2df-b6157873eb79",
+		"title": "Je reageert op advertenties."
+	},
+	{
+		"id": "c2170110-8e3d-4e3d-a264-238abe6e1b7e",
+		"title": "Je neemt deel aan discussies over bekende thema's of over thema’s die je interessant vindt via sociale media."
+	},
+	{
+		"id": "448a8f39-92c3-4c40-bdfc-fa94a92d53d0",
+		"title": "Je schrijft een kort, eenvoudig verslag volgens een vast format"
+	},
+	{
+		"id": "8fba194c-046b-4e6a-8d1e-bb190e739730",
+		"title": "Er zijn geen beperkingen mits woordenboeken e.d. voorhanden zijn."
+	},
+	{
+		"id": "ef9cb1a0-c9b1-4d9c-bb1a-d70bea56cfd7",
+		"title": "Je maakt gebruik van strategieën om een tekst te begrijpen, waaronder het letten op hoofdpunten."
+	},
+	{
+		"id": "20c06186-4bc4-49f6-b755-6fa383e1a68d",
+		"title": "Je evalueert leesverwachtingen en herziet waar nodig eigen interpretaties."
+	},
+	{
+		"id": "baface94-3582-445f-ae17-bba3feca9d9b",
+		"title": "Je controleert de betekenis van minder voorkomende woorden en uitdrukkingen door gebruik te maken van websites en eentalige woordenboeken."
+	},
+	{
+		"id": "038393b9-edeb-4019-be1c-bb36a07930e1",
+		"title": "Je leest artikelen en verslagen die betrekking hebben op actuele problemen, waarbij de schrijvers een bepaalde houding of standpunt innemen. Je begrijpt eigentijds literair proza"
+	},
+	{
+		"id": "7f5b1725-3c2f-42a2-8a02-215aeaf9b29f",
+		"title": "Je leest (zakelijke) correspondentie met betrekking tot jouw interessegebied en begrijpt daarbij meteen de belangrijkste betekenis."
+	},
+	{
+		"id": "1f03a49c-d9a3-42b2-961a-aa4a6913878b",
+		"title": "Je vindt snel de details die ertoe doen in lange, ingewikkelde teksten."
+	},
+	{
+		"id": "fbf34f9a-da41-437c-ade1-ad07313f0683",
+		"title": "Je herkent vlot de inhoud van nieuwsberichten, artikelen en verslagen en hoe belangrijk ze zijn en beslist dan of nadere bestudering de moeite waard is."
+	},
+	{
+		"id": "9ac426a2-f9c9-4573-9106-d5f033b46bbb",
+		"title": "e begrijpt artikelen en verslagen over hedendaagse problemen, waarin de schrijvers bepaalde stellingen of standpunten innemen."
+	},
+	{
+		"id": "fb9e1a7f-9310-4d60-9267-a15a98ead79f",
+		"title": "Je leest literaire en non-fictie teksten met een redelijke mate van begrip voor het geheel en voor details."
+	},
+	{
+		"id": "c66f9d33-a541-44e6-86f4-6aa8d9864b91",
+		"title": "Je begrijpt lange, complexe aanwijzingen en de details van voorwaarden en waarschuwingen, mits je moeilijke stukken tekst opnieuw kunt lezen"
+	},
+	{
+		"id": "ddea5464-bbe5-4ad1-96bd-98452b569c52",
+		"title": "Je begrijpt complex taalgebruik"
+	},
+	{
+		"id": "f67f9859-d47d-4262-9e67-69ee8945412a",
+		"title": "Je luistert naar fragmenten waarin de spreker op een normaal tempo en in standaardtaal spreekt."
+	},
+	{
+		"id": "ead0a1b4-40cf-4d45-867c-5b24aec7aabb",
+		"title": "Je luistert naar lange teksten"
+	},
+	{
+		"id": "c8f7d5d2-46eb-4d42-b413-d8ff6138f2d2",
+		"title": "Je begrijpt een langer verhaal en lezingen en zelfs complexe redeneringen, wanneer het onderwerp redelijk vertrouwd is."
+	},
+	{
+		"id": "97312417-cea0-4d25-857e-71414c9e8d76",
+		"title": "Je begrijpt de meeste nieuws- en actualiteitenprogramma’s op de tv."
+	},
+	{
+		"id": "651deef8-5fcf-4673-8df4-e7c7c08c9e09",
+		"title": "Je begrijpt het grootste deel van films in standaardtaal."
+	},
+	{
+		"id": "4a167ae2-3877-47cd-ba06-ec1bee09ce78",
+		"title": "Je begrijpt tot in de details wat er tegen je gezegd wordt, zelfs in een lawaaierige omgeving."
+	},
+	{
+		"id": "a22c75ba-7f4f-4eaa-beee-0a118a4f12aa",
+		"title": "Je volgt veel van wat rond jou gezegd wordt, maar vindt het moeilijk goed deel te nemen aan een gesprek met meerdere moedertaalsprekers die hun taal op geen enkele wijze aanpassen."
+	},
+	{
+		"id": "e58bf614-d0cb-49fd-8c3f-9a8c4fc7be17",
+		"title": "Je volgt de wezenlijke punten van toespraken, verslagen en andere vormen van presentaties die naar inhoud en vorm complex zijn"
+	},
+	{
+		"id": "ad8d5e41-691e-4139-aa8e-821b907367f7",
+		"title": "Je begrijpt mededelingen en berichten over concrete en abstracte onderwerpen"
+	},
+	{
+		"id": "7fdce063-6fe1-4e60-9e8a-2cbb8541bd02",
+		"title": "Je begrijpt de meeste nieuwsuitzendingen en actualiteitenprogramma’s op de televisie en via internet."
+	},
+	{
+		"id": "79fbdd58-7353-4e21-91bb-46f6699ca073",
+		"title": "Je begrijpt documentaires, live uitgezonden vraaggesprekken, praatprogramma’s, toneelstukken en de meeste films in standaardtaal op televisie of via internet."
+	},
+	{
+		"id": "b6213fd9-8ded-4bbd-8a38-fdb27ccd46e7",
+		"title": "Je begrijpt de meeste radiodocumentaires en het meeste andere opgenomen of uitgezonden geluidsmateriaal en herkent de stemming, toon enzovoort van de spreker."
 	}
 ]

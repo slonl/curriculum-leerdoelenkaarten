@@ -149,5 +149,20 @@
 		"vak_id": [
 			"bk:18f53978-1118-4051-a778-b8d7f60ca982"
 		]
+	},
+	{
+		"id": "c80e3a83-a300-4f86-bc22-d56014915a20",
+		"title": "Duits",
+		"ldk_vakkern_id": [
+			"cd23efc4-f9f8-4836-97cc-3673e6c5b7a7",
+			"cab20d44-1e8b-46e3-9266-c63b24426fab",
+			"fb3aaaff-4e03-4ca2-b4ea-d01b855908be",
+			"ab2256d9-8df3-43fc-80d5-eb939b936576",
+			"59b1f711-96e6-4032-b5d7-fd654745181a"
+		],
+		"ldk_doelniveau_id": [],
+		"vak_id": [
+			"bk:81a1f605-db58-448d-a1dc-da682316c505"
+		]
 	}
 ]
