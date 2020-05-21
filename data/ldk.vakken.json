@@ -1,7 +1,7 @@
 [
 	{
 		"id": "c9d47b34-59b3-4dca-ba26-336cc6c3093c",
-		"unreleased" : true,
+		"unreleased": true,
 		"title": "Wiskunde",
 		"vak_id": "4af9cbaf-0ae4-463c-9682-f37e4e119df1",
 		"ldk_vakkern_id": [
@@ -17,7 +17,7 @@
 	},
 	{
 		"id": "3b726b7e-5661-4f5b-8363-505fced17198",
-		"unreleased" : true,
+		"unreleased": true,
 		"title": "Techniek",
 		"ldk_vakkern_id": [
 			"ec7b25c4-c947-41ec-85ce-34a1669a0e59",
@@ -31,7 +31,7 @@
 	},
 	{
 		"id": "59208809-f39c-4e66-972b-6a8738fb9f5a",
-		"unreleased" : true,
+		"unreleased": true,
 		"title": "Scheikunde",
 		"vak_id": "c3fb6e49-027e-4923-8cae-65c6ae9f0b34",
 		"ldk_vakkern_id": [
@@ -44,7 +44,7 @@
 	},
 	{
 		"id": "6312d909-e4c4-45cf-8498-9e930bd97d2c",
-		"unreleased" : true,
+		"unreleased": true,
 		"title": "Natuurkunde",
 		"vak_id": "0f8319b4-54b7-4b60-badb-f8412b034261",
 		"ldk_vakkern_id": [
@@ -58,7 +58,7 @@
 	},
 	{
 		"id": "b0eabf10-0bbc-46f9-9904-6e7c0f94e049",
-		"unreleased" : true,
+		"unreleased": true,
 		"title": "Geschiedenis",
 		"vak_id": "2ab7d448-145a-44bd-8b13-c1ff08030d60",
 		"ldk_vakkern_id": [
@@ -77,7 +77,7 @@
 	},
 	{
 		"id": "20ce1b37-f02a-46e3-8709-40f2f8f0bfc6",
-		"unreleased" : true,
+		"unreleased": true,
 		"title": "Engels",
 		"vak_id": "beff9f00-2618-425f-9fd1-b8450b17d38e",
 		"ldk_vakkern_id": [
@@ -91,7 +91,7 @@
 	},
 	{
 		"id": "6d582c66-4b98-4e6c-badb-39f0314ed683",
-		"unreleased" : true,
+		"unreleased": true,
 		"title": "Economie",
 		"vak_id": "696f3880-46f4-4317-8229-807791f303be",
 		"ldk_vakkern_id": [
@@ -108,7 +108,7 @@
 	},
 	{
 		"id": "5b883eb2-2219-4d09-a304-8362bc14458b",
-		"unreleased" : true,
+		"unreleased": true,
 		"title": "Biologie",
 		"vak_id": "303d322e-3f70-49ec-964d-885339b7a2a1",
 		"ldk_vakkern_id": [
@@ -126,7 +126,7 @@
 	},
 	{
 		"id": "df71d875-ea12-4e02-ac49-edbf8452097e",
-		"unreleased" : true,
+		"unreleased": true,
 		"title": "Aardrijkskunde",
 		"vak_id": "cff7c64e-d3d3-4421-824a-7b1297759468",
 		"ldk_vakkern_id": [
