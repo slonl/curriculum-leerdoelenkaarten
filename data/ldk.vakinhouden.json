@@ -126,7 +126,7 @@
 		"unreleased": true,
 		"prefix": "1.2.1.",
 		"title": "Je kunt informele gesprekken voeren",
-		"vakinhoud_id": "dcd691ee-b0f9-4023-a5dd-1d210fcbd2ba",
+		"lpib_vakinhoud_id": "dcd691ee-b0f9-4023-a5dd-1d210fcbd2ba",
 		"doelniveau_id": [
 			"501a29b5-1812-4278-b43f-0eacedc83188",
 			"f2b744d1-c541-4853-a806-bdce431fe0ef",
@@ -154,7 +154,7 @@
 		"unreleased": true,
 		"prefix": "1.2.3",
 		"title": "Je kunt zaken regelen",
-		"vakinhoud_id": "245dd496-011f-44cb-9cc7-c3f2d03d9532",
+		"lpib_vakinhoud_id": "245dd496-011f-44cb-9cc7-c3f2d03d9532",
 		"doelniveau_id": [
 			"b693afdf-f9ad-471c-8684-ea99452e9edb",
 			"885f88a5-8453-48a3-9da0-117b9103a854",
@@ -197,7 +197,7 @@
 		"unreleased": true,
 		"prefix": "1.2.4",
 		"title": "Je kunt informatie uitwisselen",
-		"vakinhoud_id": "b758c664-b362-4974-b6e2-e111bf636d90",
+		"lpib_vakinhoud_id": "b758c664-b362-4974-b6e2-e111bf636d90",
 		"doelniveau_id": [
 			"a2e1f083-3c52-46bd-a932-190765b40ed9",
 			"6ee8b39f-851c-499a-9d3c-374820345d02",
@@ -303,7 +303,7 @@
 		"unreleased": true,
 		"prefix": "2.2.1",
 		"title": "Je kunt een monoloog houden",
-		"vakinhoud_id": "231d2b93-c3d6-4746-b24d-e99991dab066",
+		"lpib_vakinhoud_id": "231d2b93-c3d6-4746-b24d-e99991dab066",
 		"doelniveau_id": [
 			"6b827a5b-0027-423a-a6ff-d9cd079c7b67",
 			"4f9e294e-6b85-43ec-8292-b252d5a9cd2b",
@@ -336,7 +336,7 @@
 		"unreleased": true,
 		"prefix": "2.2.2",
 		"title": "Je kunt een publiek toespreken",
-		"vakinhoud_id": "043409f9-6af1-4e3d-bc12-e45e528e31d0",
+		"lpib_vakinhoud_id": "043409f9-6af1-4e3d-bc12-e45e528e31d0",
 		"doelniveau_id": [
 			"d4513529-c746-43c9-9c6d-cf0cbcbf8154",
 			"b32c24d5-d038-4ae5-b1c8-ef5494b14ce7",
@@ -440,7 +440,7 @@
 		"unreleased": true,
 		"prefix": "3.2.1",
 		"title": "Je kunt schriftelijke corresponderen",
-		"vakinhoud_id": "36b1b671-b403-45ad-804a-8c42acfb58bd",
+		"lpib_vakinhoud_id": "36b1b671-b403-45ad-804a-8c42acfb58bd",
 		"doelniveau_id": [
 			"90e6c855-1589-4a99-bf3f-26d135d06ec8",
 			"2aab8d74-f599-49b0-9086-3f3556e39c34",
@@ -467,7 +467,7 @@
 		"unreleased": true,
 		"prefix": "3.2.2",
 		"title": "Je kunt aantekeningen maken en berichten formuleren",
-		"vakinhoud_id": "14440170-698d-49a7-9303-00689b62bb45",
+		"lpib_vakinhoud_id": "14440170-698d-49a7-9303-00689b62bb45",
 		"doelniveau_id": [
 			"0f62ae1a-e6f1-45b2-857a-fd0b32618dc6",
 			"68f0bd14-fe83-468a-b9d6-6be3b53adad3",
@@ -499,7 +499,7 @@
 		"unreleased": true,
 		"prefix": "3.2.3",
 		"title": "Je kunt verslagen en rapporten schrijven",
-		"vakinhoud_id": "9a2347c9-e2ce-40f2-bd60-0e41d1021943",
+		"lpib_vakinhoud_id": "9a2347c9-e2ce-40f2-bd60-0e41d1021943",
 		"doelniveau_id": [
 			"e2969e69-7907-44be-9f2d-4e9a8b420308",
 			"1ba7696b-c3fc-4eaa-b477-efb803c7207b",
@@ -514,7 +514,7 @@
 		"unreleased": true,
 		"prefix": "3.2.4",
 		"title": "Je kunt vrij schrijven",
-		"vakinhoud_id": "15779f0b-31fb-405e-a857-8cad8916d556",
+		"lpib_vakinhoud_id": "15779f0b-31fb-405e-a857-8cad8916d556",
 		"doelniveau_id": [
 			"f57ae2da-3d98-40f2-9a2c-5acd5f42fa1b",
 			"e4992220-31e1-4876-a6d4-36d46674e6fc",
@@ -610,7 +610,7 @@
 		"unreleased": true,
 		"prefix": "4.2.1",
 		"title": "Je kunt correspondentie lezen",
-		"vakinhoud_id": "db03fca5-328a-484b-af6b-a3e4f2262aae",
+		"lpib_vakinhoud_id": "db03fca5-328a-484b-af6b-a3e4f2262aae",
 		"doelniveau_id": [
 			"ef4a5f04-24bd-423a-a2ac-840342fecb67",
 			"fc0f2985-d996-4d36-bd5b-9adbca14f4f5",
@@ -628,7 +628,7 @@
 		"unreleased": true,
 		"prefix": "4.2.2",
 		"title": "Je kunt oriënterend lezen",
-		"vakinhoud_id": "0e098575-e1a2-4c04-a90e-781671a285e5",
+		"lpib_vakinhoud_id": "0e098575-e1a2-4c04-a90e-781671a285e5",
 		"doelniveau_id": [
 			"c5902e95-35b6-4a52-a61a-a670fc4a36c6",
 			"01dfc427-043a-4eee-91fe-ab3ef8083552",
@@ -656,7 +656,7 @@
 		"unreleased": true,
 		"prefix": "4.2.3",
 		"title": "Je kunt lezen om informatie op te doen",
-		"vakinhoud_id": "d200040c-36cf-4e90-84b2-3f0150f328b2",
+		"lpib_vakinhoud_id": "d200040c-36cf-4e90-84b2-3f0150f328b2",
 		"doelniveau_id": [
 			"ccbf52dc-7569-4cfe-a66e-f67eb0212363",
 			"5c3d0c15-4f11-4499-af53-efe7671c5012",
@@ -682,7 +682,7 @@
 		"unreleased": true,
 		"prefix": "4.2.4",
 		"title": "Je kunt instructies lezen",
-		"vakinhoud_id": "3c8012d5-daf3-4a39-8e8f-7eb4d2e1b872",
+		"lpib_vakinhoud_id": "3c8012d5-daf3-4a39-8e8f-7eb4d2e1b872",
 		"doelniveau_id": [
 			"ded397d6-1294-443d-abdd-181f79bd7986",
 			"564f14e9-0044-4f81-b4f3-d9e132034ce9",
@@ -779,7 +779,7 @@
 		"unreleased": true,
 		"prefix": "5.2.1",
 		"title": "Je kunt gesprekken tussen moedertaalsprekers verstaan",
-		"vakinhoud_id": "d875b039-8601-41b6-af86-33e910013a0b",
+		"lpib_vakinhoud_id": "d875b039-8601-41b6-af86-33e910013a0b",
 		"doelniveau_id": [
 			"c3a6aad9-201a-4fb5-82db-a6a5ba39bff6",
 			"1a1be704-505a-4bf0-9d5c-8cae69cbd7e3",
@@ -803,7 +803,7 @@
 		"unreleased": true,
 		"prefix": "5.2.2",
 		"title": "Je kunt als lid van een live publiek - Luisteren als lid van een live publiek",
-		"vakinhoud_id": "6cdbf90f-5eec-4304-8be0-3aed6b5000e1",
+		"lpib_vakinhoud_id": "6cdbf90f-5eec-4304-8be0-3aed6b5000e1",
 		"doelniveau_id": [
 			"9eb7f670-d0b6-4330-b4fe-c511c1f1c46d",
 			"1857fd4e-b44b-431c-9874-51ca0e47f37a",
@@ -816,7 +816,7 @@
 		"unreleased": true,
 		"prefix": "5.2.3",
 		"title": "Je kunt aankondigingen en instructies begrijpen",
-		"vakinhoud_id": "2926ee80-2b4b-43c3-83e9-9dcd91c724df",
+		"lpib_vakinhoud_id": "2926ee80-2b4b-43c3-83e9-9dcd91c724df",
 		"doelniveau_id": [
 			"3430b193-62cf-4958-9499-ffc91f0e081b",
 			"9610fc26-5f0d-43ed-a701-f776c2833377",
@@ -841,7 +841,7 @@
 		"unreleased": true,
 		"prefix": "5.2.4",
 		"title": "Je kunt TV, video en geluidsopnames begrijpen",
-		"vakinhoud_id": "6b75597e-cc4d-4dc9-ae36-20bcbfbc1a58",
+		"lpib_vakinhoud_id": "6b75597e-cc4d-4dc9-ae36-20bcbfbc1a58",
 		"doelniveau_id": [
 			"4015696d-bb80-4524-8ac5-9bfb48124032",
 			"d4e60b6e-6ebd-4bdd-a206-646beca46ec5",
