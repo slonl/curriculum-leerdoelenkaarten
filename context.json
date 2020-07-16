@@ -3,7 +3,7 @@
         "ldk_vak": {
             "allOf": [ { "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-lpib/context.json#/definitions/inhoud" } ],
             "properties": {
-                "vak_id": {
+                "vakleergebied_id": {
                     "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-lpib/context.json#/definitions/vak"
                 },
                 "ldk_vakkern_id": {
