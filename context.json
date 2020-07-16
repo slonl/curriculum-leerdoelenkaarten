@@ -1,10 +1,10 @@
 {
     "definitions": {
-        "ldk_vak": {
+        "ldk_vakleergebied": {
             "allOf": [ { "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-lpib/context.json#/definitions/inhoud" } ],
             "properties": {
                 "vakleergebied_id": {
-                    "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-lpib/context.json#/definitions/vak"
+                    "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/vakleergebied"
                 },
                 "ldk_vakkern_id": {
                     "allOf": [
@@ -128,11 +128,11 @@
     "$schema": "http://json-schema.org/draft-07/schema#",
     "type": "object",
     "properties": {
-        "ldk_vak": {
-            "#file": "data/ldk.vakken.json",
+        "ldk_vakleergebied": {
+            "#file": "data/ldk.vakleergebieden.json",
             "type": "array",
             "items": {
-                "$ref": "#/definitions/ldk_vak"
+                "$ref": "#/definitions/ldk_vakleergebied"
             }
         },
         "ldk_vakkern": {
@@ -161,5 +161,5 @@
             "type": "array"
         }
     },
-    "required": ["ldk_vak","ldk_vakkern","ldk_vaksubkern","ldk_vakinhoud"]
+    "required": ["ldk_vakleergebied","ldk_vakkern","ldk_vaksubkern","ldk_vakinhoud"]
 }
