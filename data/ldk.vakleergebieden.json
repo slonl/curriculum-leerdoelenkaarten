@@ -3,7 +3,7 @@
 		"id": "c9d47b34-59b3-4dca-ba26-336cc6c3093c",
 		"unreleased": true,
 		"title": "Wiskunde",
-		"vakleergebied_id": "4af9cbaf-0ae4-463c-9682-f37e4e119df1",
+		"vakleergebied_id": "12209d8b-24d3-440a-8e2e-e85bfebc1e13",
 		"ldk_vakkern_id": [
 			"fea64477-3dcf-4399-b058-d328ea0e9c40",
 			"c2388872-7e38-488a-aa86-be1a0af557a9",
@@ -33,7 +33,7 @@
 		"id": "59208809-f39c-4e66-972b-6a8738fb9f5a",
 		"unreleased": true,
 		"title": "Scheikunde",
-		"vakleergebied_id": "c3fb6e49-027e-4923-8cae-65c6ae9f0b34",
+		"vakleergebied_id": "364c2519-7d9e-47d8-b3bd-371cee8583df",
 		"ldk_vakkern_id": [
 			"2a74b1c7-6ddb-4548-84e3-25ab6219c32e",
 			"768b7997-7fb2-4544-9820-efce423becb5",
@@ -46,7 +46,7 @@
 		"id": "6312d909-e4c4-45cf-8498-9e930bd97d2c",
 		"unreleased": true,
 		"title": "Natuurkunde",
-		"vakleergebied_id": "0f8319b4-54b7-4b60-badb-f8412b034261",
+		"vakleergebied_id": "e14b7d76-d5f5-4788-a9e1-bf35269a72d8",
 		"ldk_vakkern_id": [
 			"c8406fc6-cab2-4c94-97ae-65b068264817",
 			"9b7210a5-c3e5-454a-96be-972c167443f8",
@@ -60,7 +60,7 @@
 		"id": "b0eabf10-0bbc-46f9-9904-6e7c0f94e049",
 		"unreleased": true,
 		"title": "Geschiedenis",
-		"vakleergebied_id": "2ab7d448-145a-44bd-8b13-c1ff08030d60",
+		"vakleergebied_id": "1c445505-16f2-4d3f-b6cf-8623ca317140",
 		"ldk_vakkern_id": [
 			"40249cde-802d-4f73-8f3e-c77c3225a96f",
 			"d6625d15-311f-4a5b-ac99-eb8faa63a45a",
@@ -79,7 +79,7 @@
 		"id": "20ce1b37-f02a-46e3-8709-40f2f8f0bfc6",
 		"unreleased": true,
 		"title": "Engels",
-		"vakleergebied_id": "beff9f00-2618-425f-9fd1-b8450b17d38e",
+		"vakleergebied_id": "d8dc1dca-90ee-4d8b-983b-734207cfbee2",
 		"ldk_vakkern_id": [
 			"c341068f-6578-42b6-bf87-fa20bf0d325d",
 			"f5a075d5-192d-48eb-9038-cc92b84b07d2",
@@ -93,7 +93,7 @@
 		"id": "6d582c66-4b98-4e6c-badb-39f0314ed683",
 		"unreleased": true,
 		"title": "Economie",
-		"vakleergebied_id": "696f3880-46f4-4317-8229-807791f303be",
+		"vakleergebied_id": "8755f202-3f28-405d-929e-990ee4fdc521",
 		"ldk_vakkern_id": [
 			"5342f013-dea3-418d-8930-42aa2a522969",
 			"866713cf-fe28-462a-8f07-75deedce4ce8",
@@ -110,7 +110,7 @@
 		"id": "5b883eb2-2219-4d09-a304-8362bc14458b",
 		"unreleased": true,
 		"title": "Biologie",
-		"vakleergebied_id": "303d322e-3f70-49ec-964d-885339b7a2a1",
+		"vakleergebied_id": "41dd7292-3cce-411b-8097-11db8c875a89",
 		"ldk_vakkern_id": [
 			"7a06c257-c678-4b7f-a05e-9bf8d8c6b6f6",
 			"2971214c-234b-4fda-9df0-6cad19753c0e",
@@ -128,7 +128,7 @@
 		"id": "df71d875-ea12-4e02-ac49-edbf8452097e",
 		"unreleased": true,
 		"title": "Aardrijkskunde",
-		"vakleergebied_id": "cff7c64e-d3d3-4421-824a-7b1297759468",
+		"vakleergebied_id": "6ed6fb6f-5cd5-40d1-945d-1f02af6a79da",
 		"ldk_vakkern_id": [
 			"73b3d749-9ed3-46e6-a4e3-4434f9b0416f",
 			"95c823be-1207-407d-854a-b1fee5415752",
