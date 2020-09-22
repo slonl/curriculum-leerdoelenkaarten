@@ -1,6 +1,6 @@
-[submodule "curriculum-inhouden"]
-	path = curriculum-inhouden
-	url = https://github.com/slonl/curriculum-inhouden.git
-[submodule "curriculum-doelen"]
-	path = curriculum-doelen
-	url = https://github.com/slonl/curriculum-doelen.git
+[submodule "curriculum-lpib"]
+	path = curriculum-lpib
+	url = https://github.com/slonl/curriculum-lpib.git
+[submodule "curriculum-basis"]
+	path = curriculum-basis
+	url = https://github.com/slonl/curriculum-basis.git
