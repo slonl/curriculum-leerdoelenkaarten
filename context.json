@@ -3,6 +3,9 @@
         "ldk_vakleergebied": {
             "allOf": [ { "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/inhoud" } ],
             "properties": {
+				"prefix": {
+					"type": "string"
+				},
                 "vakleergebied_id": {
                     "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/vakleergebied"
                 },
@@ -41,6 +44,9 @@
         "ldk_vakkern": {
             "allOf": [ { "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/inhoud" } ],
             "properties": {
+				"prefix": {
+					"type": "string"
+				},
                 "lpib_vakkern_id": {
                     "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-lpib/context.json#/definitions/lpib_vakkern"
                 },
@@ -79,6 +85,9 @@
         "ldk_vaksubkern": {
             "allOf": [ { "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/inhoud" } ],
             "properties": {
+				"prefix": {
+					"type": "string"
+				},
                 "lpib_vaksubkern_id": {
                     "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-lpib/context.json#/definitions/lpib_vaksubkern"
                 },
@@ -117,6 +126,9 @@
         "ldk_vakinhoud": {
             "allOf": [ { "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/inhoud" } ],
             "properties": {
+				"prefix": {
+					"type": "string"
+				},
                 "lpib_vakinhoud_id": {
                     "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-lpib/context.json#/definitions/lpib_vakinhoud"
                 }
