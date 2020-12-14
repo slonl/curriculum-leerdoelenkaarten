@@ -137,6 +137,11 @@
         },
 		"ldk_vakbegrip": {
 			"allOf": [ { "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/inhoud" } ],
+			"properties": {
+				"ce_se": {
+					"type": "string"
+				}
+			},
             "required": ["doelniveau_id"]
 		}
     },
