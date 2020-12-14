@@ -12,8 +12,7 @@
 			"b5124d07-fb54-47d4-8034-4be7260cdaf8",
 			"e9fe0e05-8ffe-474d-86a5-d575ba9b3010",
 			"a84eff1d-b981-4460-86bf-f04737ab94d4"
-		],
-		"doelniveau_id": []
+		]
 	},
 	{
 		"id": "3b726b7e-5661-4f5b-8363-505fced17198",
@@ -26,8 +25,7 @@
 			"6c2eff38-5182-443d-b49c-c611da51f2bf",
 			"ab4de6a2-d4ac-4bd3-a778-1d3c7eb8edc5",
 			"d9848ec3-c54d-4ef4-907a-b27cee66fd73"
-		],
-		"doelniveau_id": []
+		]
 	},
 	{
 		"id": "59208809-f39c-4e66-972b-6a8738fb9f5a",
@@ -39,8 +37,7 @@
 			"768b7997-7fb2-4544-9820-efce423becb5",
 			"61be320a-e55a-4018-9f86-4804888cf93d",
 			"55838d4c-032b-473f-a5d7-e322ce4d66bc"
-		],
-		"doelniveau_id": []
+		]
 	},
 	{
 		"id": "6312d909-e4c4-45cf-8498-9e930bd97d2c",
@@ -53,8 +50,7 @@
 			"58e58d6f-82fa-4a98-9c73-990544e240cb",
 			"b3c75202-0ec1-4e1a-b4ac-02999190ce7b",
 			"c6ccfc35-7d43-4e9c-a305-c4d29adc0592"
-		],
-		"doelniveau_id": []
+		]
 	},
 	{
 		"id": "b0eabf10-0bbc-46f9-9904-6e7c0f94e049",
@@ -72,8 +68,7 @@
 			"bac75feb-5999-41d8-893e-92e9fa232935",
 			"2faf30c6-a6c3-4792-b3ae-5596b4ad6e55",
 			"269784ae-1726-466b-bdc2-8590cbceec2b"
-		],
-		"doelniveau_id": []
+		]
 	},
 	{
 		"id": "20ce1b37-f02a-46e3-8709-40f2f8f0bfc6",
@@ -86,8 +81,7 @@
 			"2a9a9242-d5c4-4eee-b97b-83a50b161531",
 			"d420ef2c-e984-4c4c-b5e3-6c59988e20d9",
 			"c93a10d1-344f-45a5-9ede-dfb5fda2e509"
-		],
-		"doelniveau_id": []
+		]
 	},
 	{
 		"id": "6d582c66-4b98-4e6c-badb-39f0314ed683",
@@ -103,8 +97,7 @@
 			"e6518c76-6894-4b20-923b-fa7821b9fd33",
 			"ac16d1fd-6624-4172-b812-8a1e102bc12f",
 			"1d2ee3c7-a2a7-4c78-8ba6-e351c154322e"
-		],
-		"doelniveau_id": []
+		]
 	},
 	{
 		"id": "5b883eb2-2219-4d09-a304-8362bc14458b",
@@ -121,8 +114,7 @@
 			"36a0b479-2f7a-4101-8d7c-c9b1e0009582",
 			"496042c2-3e8c-47c1-8b32-27c377d3ba4e",
 			"b4e6a910-451c-4fcd-8ef6-766f51f48b75"
-		],
-		"doelniveau_id": []
+		]
 	},
 	{
 		"id": "df71d875-ea12-4e02-ac49-edbf8452097e",
@@ -139,7 +131,19 @@
 			"efc36cad-7536-406f-a28d-186b2b51b083",
 			"547945b0-d880-42ee-b381-4ce42e6805b5",
 			"0fe873c8-1be3-45c4-b7ab-17ba571564ed"
+		]
+	},
+	{
+		"prefix": "na",
+		"vakleergebied_id": "e14b7d76-d5f5-4788-a9e1-bf35269a72d8",
+		"ldk_vakkern_id": [
+			"d7c74ffb-16de-47dc-83cc-9df8c4517caf",
+			"dc0f312c-05c4-421a-b375-2ffb145578e5",
+			"7dd463c8-83f4-4f62-bbb8-cdd7e6085bb7",
+			"43ce9f5b-e699-4a73-ac2b-293b910c5adb",
+			"55ded7a2-8140-4022-b22b-7a929a2c212f"
 		],
-		"doelniveau_id": []
+		"title": "Natuurkunde",
+		"id": "15c6e6c7-7862-42b4-87d5-bef619105809"
 	}
 ]
