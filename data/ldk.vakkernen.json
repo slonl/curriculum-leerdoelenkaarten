@@ -154,8 +154,7 @@
 		"ldk_vaksubkern_id": [
 			"24ab1c86-3493-4be0-b654-2b9991a2dff4",
 			"1475299b-810c-469b-b177-2c52ad0b6ff1"
-		],
-		"doelniveau_id": []
+		]
 	},
 	{
 		"id": "ec7b25c4-c947-41ec-85ce-34a1669a0e59",
@@ -686,8 +685,7 @@
 		"ldk_vaksubkern_id": [
 			"c51183ad-2caa-4758-a474-84cfb27b4aee",
 			"f29d4bd0-f902-43ff-a419-b1062e9ec965"
-		],
-		"doelniveau_id": []
+		]
 	},
 	{
 		"id": "2a9a9242-d5c4-4eee-b97b-83a50b161531",
@@ -698,8 +696,7 @@
 		"ldk_vaksubkern_id": [
 			"30eac1ed-fb39-4ceb-85b8-e48a54e15a21",
 			"70c50ec1-889e-4d08-9839-8068056a0252"
-		],
-		"doelniveau_id": []
+		]
 	},
 	{
 		"id": "d420ef2c-e984-4c4c-b5e3-6c59988e20d9",
@@ -710,8 +707,7 @@
 		"ldk_vaksubkern_id": [
 			"74a08459-c018-4d94-a0ec-e168c88988d5",
 			"c9b9853a-bcde-418c-8fa8-be89a4d9bfb8"
-		],
-		"doelniveau_id": []
+		]
 	},
 	{
 		"id": "c93a10d1-344f-45a5-9ede-dfb5fda2e509",
@@ -722,8 +718,7 @@
 		"ldk_vaksubkern_id": [
 			"c8f9c7bb-bdc1-4a1d-8d8e-b1c0db45fe1a",
 			"735a225a-c778-44cb-a35f-a26052353ad8"
-		],
-		"doelniveau_id": []
+		]
 	},
 	{
 		"id": "5342f013-dea3-418d-8930-42aa2a522969",
@@ -891,7 +886,6 @@
 		"ldk_vaksubkern_id": [
 			"3a6943b9-ac8d-4a78-ae22-f9f2de2b26fe",
 			"5d47966d-3f7b-4dcb-8b8b-01c022d49d7d",
-			"1ebc9066-4ea8-4b55-b140-c847b28f7e1a",
 			"f30fe5b9-5d68-44f2-a9c2-6460e3ea21e9",
 			"5250b45f-87d0-4dd5-93be-1e3a3f623cb8"
 		],
@@ -957,8 +951,7 @@
 			"551bff81-9ad7-49e0-bfff-f10362d622c4",
 			"a2bfcec3-a95b-4433-b253-dfa0057fa2ef",
 			"483d9e3e-b65a-4da9-8582-49693a2bcd26"
-		],
-		"doelniveau_id": []
+		]
 	},
 	{
 		"id": "acd180fc-d129-406e-9031-a83ae13dbeac",
@@ -1007,8 +1000,7 @@
 			"7ae8136b-770f-458e-8c7a-abad8390ca49",
 			"4b14daa3-886f-4da1-9106-d6d896508514",
 			"7f36f3bd-cbbd-4dd3-bfd9-334de3b8ee0f"
-		],
-		"doelniveau_id": []
+		]
 	},
 	{
 		"id": "496042c2-3e8c-47c1-8b32-27c377d3ba4e",
@@ -1020,8 +1012,7 @@
 			"551bff81-9ad7-49e0-bfff-f10362d622c4",
 			"a2bfcec3-a95b-4433-b253-dfa0057fa2ef",
 			"483d9e3e-b65a-4da9-8582-49693a2bcd26"
-		],
-		"doelniveau_id": []
+		]
 	},
 	{
 		"id": "b4e6a910-451c-4fcd-8ef6-766f51f48b75",
@@ -1221,5 +1212,108 @@
 			"e6dcd756-d6e5-493a-93f8-855b4df05438",
 			"9331c9af-6e3e-4d8f-ad27-6a2255d39f6a"
 		]
+	},
+	{
+		"prefix": "na/1",
+		"lpib_vakkern_id": "be811eac-f168-4c9a-bfe9-b82c44b89dd1",
+		"ldk_vaksubkern_id": [
+			"cc1dcc6e-7da9-4b0d-8142-68995ac35d4f",
+			"d3d9b1cb-9b9d-492e-af8e-dcfb85a6fb05",
+			"8a20db72-84bd-4cc0-a18a-9b8a9d51b315"
+		],
+		"doelniveau_id": [
+			"6d274fd7-ee0a-4079-aa9f-dea873d31915",
+			"4d0d188c-7c57-4207-a198-89236898f1dc",
+			"381eb24f-15ab-4493-9eb4-1c98e7d8d49f",
+			"e9362db4-818e-47a0-aa05-2579b8ee3899",
+			"547607fa-07ad-4efa-b1a5-1689472c8181",
+			"26dc2b15-164d-4729-b090-e428297aab8b",
+			"8c31c3d8-be41-4169-8977-0ddd99dcf4ce",
+			"5c2e2771-f2c7-47f6-92dc-27b10703a523",
+			"78d16c5c-2165-4eac-a258-570a9017fded",
+			"ab4038b4-22d2-435d-8429-827f869f960f"
+		],
+		"title": "Materie",
+		"id": "d7c74ffb-16de-47dc-83cc-9df8c4517caf"
+	},
+	{
+		"prefix": "na/2",
+		"lpib_vakkern_id": "25f859f3-dcc5-41f4-aeca-38e56eef17e5",
+		"ldk_vaksubkern_id": [
+			"a5cc2177-7992-430f-b03a-32ee399fa19b",
+			"e75532f8-b36f-4c06-9074-0a2b4b8f0b1b",
+			"3044f156-7eaf-40d3-9967-53955e8af400",
+			"127cd3bc-e5ce-4d02-9df1-ba2dee52049a",
+			"fccfb9a3-e89e-4c9b-b39b-fbf626466cd9"
+		],
+		"doelniveau_id": [
+			"6d274fd7-ee0a-4079-aa9f-dea873d31915",
+			"dfc4d243-c035-4279-b649-0aa5fed2828b",
+			"381eb24f-15ab-4493-9eb4-1c98e7d8d49f",
+			"cd56a322-a872-4ba6-ae69-6eea834fae95",
+			"547607fa-07ad-4efa-b1a5-1689472c8181",
+			"ff99c01f-9c97-4e76-b0e7-015491385a8a",
+			"e977cdbd-6203-4464-8b19-e79f3c0c3605"
+		],
+		"title": "Energie",
+		"id": "dc0f312c-05c4-421a-b375-2ffb145578e5"
+	},
+	{
+		"prefix": "na/3",
+		"lpib_vakkern_id": "f0b276d0-4c20-4cfc-b875-0385f332f699",
+		"ldk_vaksubkern_id": [
+			"8b3e2c66-0dda-4632-aaa7-8526e254731e",
+			"1135d686-901b-494a-9589-864b2a6fd9c6",
+			"4339b080-b70f-440b-a2b0-abd04c0aaa6b",
+			"6bff73fa-3d47-459a-84cc-da5c847be7e1"
+		],
+		"doelniveau_id": [
+			"6d274fd7-ee0a-4079-aa9f-dea873d31915",
+			"2a2caee8-071e-40cc-8473-52bb749239f1",
+			"381eb24f-15ab-4493-9eb4-1c98e7d8d49f",
+			"a7eec6ed-68cd-4722-9739-f5225566e04e",
+			"547607fa-07ad-4efa-b1a5-1689472c8181",
+			"fbe8d47f-424e-469d-8f13-1c99e6626c19",
+			"b80b9258-2af6-40c0-81b2-7601a36a6d14"
+		],
+		"title": "Licht, geluid en straling",
+		"id": "7dd463c8-83f4-4f62-bbb8-cdd7e6085bb7"
+	},
+	{
+		"prefix": "na/4",
+		"lpib_vakkern_id": "0a47ec81-5636-435d-8646-35dc517932ad",
+		"ldk_vaksubkern_id": [
+			"d0c3bd55-84eb-48a3-abed-8275c2c6f8f4",
+			"65e32c89-9ec7-45aa-91d7-b8e49c8b0a6a",
+			"e26a1880-68ac-42bb-a288-78c570714942",
+			"c2bcf450-7cc5-4539-8513-df1390b62419"
+		],
+		"doelniveau_id": [
+			"6d274fd7-ee0a-4079-aa9f-dea873d31915",
+			"bf9ed083-e073-4f79-a953-ca97a4a243ed",
+			"5846a598-2838-4fee-b1a4-7532b33c5867"
+		],
+		"title": "Kracht en beweging",
+		"id": "43ce9f5b-e699-4a73-ac2b-293b910c5adb"
+	},
+	{
+		"prefix": "na/5",
+		"lpib_vakkern_id": "830a70ae-d543-4ce9-9577-0450e254cf7d",
+		"ldk_vaksubkern_id": [
+			"8d2cba87-7f10-42ad-8745-942db7d876c2",
+			"7c987f41-4a9a-452e-8f79-7c2f5ec897da",
+			"1093f9ca-6b97-4ad9-b55f-7a97625ada62",
+			"b8f52dce-8fb9-4a2b-89f4-463bf17b4bc9"
+		],
+		"doelniveau_id": [
+			"6d274fd7-ee0a-4079-aa9f-dea873d31915",
+			"a6616743-7a73-463b-80f7-2e9cf29bf421",
+			"381eb24f-15ab-4493-9eb4-1c98e7d8d49f",
+			"282569cd-0bb7-40b4-a6f8-17bc8b834c7b",
+			"0bfa4c61-a5ba-464e-9d77-25c66a63509a",
+			"6661f384-7b59-4145-8dbb-9313ab28cc8b"
+		],
+		"title": "Ruimte",
+		"id": "55ded7a2-8140-4022-b22b-7a929a2c212f"
 	}
 ]
