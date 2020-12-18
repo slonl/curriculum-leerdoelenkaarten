@@ -12,5 +12,23 @@
 		"title": "Bedrijfseconomie",
 		"id": "22e1c867-e2cc-4ff1-a248-bad8773efa64",
 		"unreleased": true
+	},
+	{
+		"prefix": "ak",
+		"vakleergebied_id": "6ed6fb6f-5cd5-40d1-945d-1f02af6a79da",
+		"ldk_vakkern_id": [
+			"9fd70a1c-6fbc-4178-b915-61291f70698b",
+			"532a01f5-26be-4bfd-a0d1-b6ddcbc9d9cc",
+			"d8216759-f816-4384-9b9e-6819cd18ef0a",
+			"f32c1e4d-50be-43cd-ad50-8e237b7427fb",
+			"2ffcb6f1-89dc-46e5-a98f-fa0cff8068eb",
+			"10ea0fc3-32e8-42be-a655-9ae68e752946",
+			"955ec635-e19a-4163-a9cd-1cf8d99bf323",
+			"afa363cf-6d14-4b7f-8ce7-1dd96dc7ef86",
+			"2884d096-75f1-4503-ab80-505e466d0a25"
+		],
+		"title": "Aardrijkskunde",
+		"id": "fd47894c-a2c4-428e-b723-8041bea55501",
+		"unreleased": true
 	}
 ]
