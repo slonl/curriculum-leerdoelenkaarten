@@ -1,1 +1,16 @@
-[]
+[
+	{
+		"vakleergebied_id": "0552d51c-e6e8-4cfd-8a4b-dd3520dd0039",
+		"ldk_vakkern_id": [
+			"a73618f2-a74b-4651-ac98-34acc8cdfdad",
+			"ae5fcbc6-e49e-4a45-aea5-712d80a70a57",
+			"8b018f77-eb87-44b8-9c98-befe4c768e52",
+			"319af71c-f3a9-4d90-912d-153d71fdd6b4",
+			"df93f64f-0fcd-4453-a614-6d359ca3c257",
+			"f3ccddcf-2c1a-4ad4-8c98-41ac0ee8deeb"
+		],
+		"title": "Bedrijfseconomie",
+		"id": "22e1c867-e2cc-4ff1-a248-bad8773efa64",
+		"unreleased": true
+	}
+]
