@@ -1,1 +1,248 @@
-[]
+[
+	{
+		"prefix": "be/1/1",
+		"ldk_vakinhoud_id": [
+			"e40f96f9-1a46-453c-be35-ed5413099f06"
+		],
+		"title": "Persoonlijke financiële zelfredzaamheid",
+		"id": "5757b909-363f-4a25-b4a1-324ea3df500b",
+		"unreleased": true
+	},
+	{
+		"prefix": "be/2/1",
+		"ldk_vakinhoud_id": [
+			"2d13dc81-3522-41aa-8b2c-149aafa88905"
+		],
+		"doelniveau_id": [
+			"03f3cb9e-ef51-4a6e-98f8-7c4db2433186"
+		],
+		"title": "De oprichting van een eenmanszaak",
+		"id": "6d3b85f1-9f25-4082-8f37-b2e798ab9214",
+		"unreleased": true
+	},
+	{
+		"prefix": "be/2/2",
+		"ldk_vakinhoud_id": [
+			"7dbac26f-11e1-4c7a-b183-a4cbb89857c9",
+			"8ef8c9ab-0798-4699-ad1f-51b56bde1812",
+			"ec4fb795-9ac0-4289-a503-ec0adb9e6630",
+			"93161284-a6ca-4829-9768-36ecb75a9678"
+		],
+		"title": "Financieren",
+		"id": "639ded92-512c-4abd-afb4-ec7b5fd8f1a4",
+		"unreleased": true
+	},
+	{
+		"prefix": "be/2/3",
+		"ldk_vakinhoud_id": [
+			"b84b411c-8edd-42fe-b9e0-aa053977af4f"
+		],
+		"title": "Vastleggen van financiële en niet-financiële informatie",
+		"id": "8177f62e-4ff6-4d01-b1c6-1d163c8ad2fb",
+		"unreleased": true
+	},
+	{
+		"prefix": "be/3/1",
+		"ldk_vakinhoud_id": [
+			"fb1497a5-ee8f-4ff6-b718-eebc4d191ce1"
+		],
+		"title": "Van eenmanszaak naar rechtspersoon",
+		"id": "9c0f2545-34ed-48cf-a10c-7d189db973ec",
+		"unreleased": true
+	},
+	{
+		"prefix": "be/3/2",
+		"ldk_vakinhoud_id": [
+			"8a45bd19-f14d-40ad-ba8c-64da7a49b82a"
+		],
+		"doelniveau_id": [
+			"bd2683ef-d625-4fee-82b7-315f51bdbf82"
+		],
+		"title": "Interne organisatie",
+		"id": "7057dbe3-55ed-444f-851e-3db53f01c90e",
+		"unreleased": true
+	},
+	{
+		"prefix": "be/3/3",
+		"ldk_vakinhoud_id": [
+			"a833a8eb-5c77-4279-9261-74c00e903ea4"
+		],
+		"title": "Personeelsbeleid",
+		"id": "a50b3932-3144-40fe-ac6a-30f94669b0d3",
+		"unreleased": true
+	},
+	{
+		"prefix": "be/3/4",
+		"ldk_vakinhoud_id": [
+			"0c621691-3af1-40d3-8a33-86d66191f228"
+		],
+		"title": "Investeren",
+		"id": "7ff8a10d-cf53-4706-8488-37b9245f194b",
+		"unreleased": true
+	},
+	{
+		"prefix": "be/3/5",
+		"ldk_vakinhoud_id": [
+			"5647c300-5d93-4a33-b88e-f89e305363fb"
+		],
+		"doelniveau_id": [
+			"12fcd26a-9354-4083-acce-4c255b8ab6ae",
+			"9853ea52-354e-4b55-8658-3fd162e0d903",
+			"bede5778-2280-4c43-94bf-70eb68ba7fdb",
+			"43cfa7b7-5cc2-4e9b-8c1f-9b48b4cc0bfc"
+		],
+		"title": "Marketingbeleid",
+		"id": "487c40de-37c9-4705-b933-fbf96372c597",
+		"unreleased": true
+	},
+	{
+		"prefix": "be/3/6",
+		"ldk_vakinhoud_id": [
+			"d1ae5987-0431-4c53-8821-07240a0cb554",
+			"25eea339-16d6-4de0-939b-d5d40257783d"
+		],
+		"title": "Verslaggeving",
+		"id": "6d81c859-2fbb-45c2-a0d5-78b63324b94c",
+		"unreleased": true
+	},
+	{
+		"prefix": "be/4/1",
+		"ldk_vakinhoud_id": [
+			"eab12a1f-c988-4775-866e-484a5d8d3ff0"
+		],
+		"title": "Perspectief op de organisatie",
+		"id": "e5387775-2b20-448e-9509-a7adb0faa612",
+		"unreleased": true
+	},
+	{
+		"prefix": "be/4/2",
+		"doelniveau_id": [
+			"a1e91584-f321-4d0c-b0d5-16d84517a1c3",
+			"8ee1ce11-2e35-40b1-8705-c3d53f7c4cdb",
+			"b7cbd0a8-3044-4fee-877a-d92182e1ee5b",
+			"2bdd0b81-bfbc-4e65-91c6-88897c0edec4",
+			"90959983-b5df-467b-a15c-982fe5498b98",
+			"45097559-41e8-476f-b169-cfb44f5c0727",
+			"bc971667-733f-47ea-9886-cea147c3313f",
+			"f93e8fb8-26de-45d5-8d38-849364c772f2",
+			"27a52854-883d-42c5-81a2-c70ef697a284",
+			"ebe2e634-8612-4ab8-a98e-440214601d04",
+			"9558bfa5-08a2-4bcc-8fe4-fb400384c06d",
+			"1edf1c05-76a3-43a3-a67b-0b0cce82c3a2",
+			"29765449-dce2-47cc-a02b-6f8d784ef971",
+			"c0bc3bd3-2998-4ccb-8683-5098b9c9b26a",
+			"534a1233-d191-4dcb-ab80-1eb69f89c815",
+			"fe8510c0-f27e-435a-9a2c-1f9b8b1ee684",
+			"162fdb4c-75b2-467d-8b63-a5a417efa9e1",
+			"4f6fd1d3-2b42-497d-a74d-320308c3c96b",
+			"70a6f9fa-a5a0-4216-af5f-93c1ec176c5b",
+			"fc005c83-149c-441d-9ed4-3d1942fba3e5"
+		],
+		"title": "Marketing vanuit het perspectief van de consument en de samenleving",
+		"id": "66635bbc-7fed-453f-bc1d-db33442ec137",
+		"unreleased": true
+	},
+	{
+		"prefix": "be/5/1",
+		"ldk_vakinhoud_id": [
+			"5d328c52-1869-45d8-b9da-e776b0f39a2a",
+			"fe5322fb-aad6-409b-a705-fc9f89abdff2"
+		],
+		"title": "Doel en organisatie van marketingactiviteiten",
+		"id": "4f34b8e0-37ef-4311-b9b0-5d1633e4a696",
+		"unreleased": true
+	},
+	{
+		"prefix": "be/5/2",
+		"doelniveau_id": [
+			"1a5a9191-7dfb-4354-9af0-8dd3f647833c",
+			"d07d34b3-3d43-495e-a793-4d80a61c02c1",
+			"a409e952-ee2c-48e3-8de4-98608735e509",
+			"f1c784a6-9e83-4be1-ae25-7f3f3a73aa0f",
+			"d6366779-f8f8-4eca-9825-40c7a3a15978",
+			"e888bee6-ad59-459f-89d3-8b04a3ab643c",
+			"b0f724cb-76a8-411e-b590-103a1f0b7f57",
+			"d00e6461-4fee-4478-a110-95bd98eb9d9e",
+			"f7a3b0d1-8760-4f05-8eea-67306f18258a",
+			"aae064e2-54a8-4ba1-a245-5fac41aed5d4",
+			"b8d88a1a-6aa1-4865-a0b2-65e65096bcbb",
+			"dc96b8c3-a476-49dc-b52e-beab33c2d722",
+			"702c7a9a-f5be-4fb2-8c23-7741f9643412",
+			"8491ff5a-8e0e-49c2-a096-3726bc471bab",
+			"a0f940d3-eb0c-42d2-af3c-09cd89a167a1",
+			"5a8254e9-e003-40fb-a283-69ddd0e0d9f0",
+			"c9880a42-e0cc-49e7-bdbd-b932970382bc",
+			"b2993365-35b5-4ce5-a875-49ac60d72564",
+			"1dc6656d-8e64-4498-b10b-3f3b48db23da",
+			"bc5b39a8-0682-4f69-9b1f-24a1f5113474",
+			"060a4cbf-2c20-4853-821a-cd93c41ee554",
+			"aad728c0-d7d0-4a0a-baae-af5e948c5ca8",
+			"80b391ea-47b7-4bcc-a8b2-5ba18b2c5e71",
+			"63176b3f-d337-4d10-8a6d-998221e3077c",
+			"13e6662d-d94d-463f-bb3d-cb0bf39f72b8",
+			"cb7f4f4f-aca7-4401-9454-83ce319ec460",
+			"8158ed8b-438e-4e45-b042-12f9372a67d3"
+		],
+		"title": "Kosten- en winstvraagstukken",
+		"id": "97595a91-8bf3-4f67-83b6-814aa85c24ac",
+		"unreleased": true
+	},
+	{
+		"prefix": "be/6/1",
+		"ldk_vakinhoud_id": [
+			"25f2dac3-1819-4fdb-b981-b1fb2e226a8b"
+		],
+		"title": "Informatievaardigheden gebruiken",
+		"id": "be240696-ebdd-4198-a4a3-206256be3a94",
+		"unreleased": true
+	},
+	{
+		"prefix": "be/6/2",
+		"ldk_vakinhoud_id": [
+			"02e07f8e-4705-4756-89ab-5b59cc1d8c2d"
+		],
+		"title": "Communiceren",
+		"id": "e7e66a9f-bf51-4815-afc9-fcc39f447c8b",
+		"unreleased": true
+	},
+	{
+		"prefix": "be/6/3",
+		"ldk_vakinhoud_id": [
+			"c090285d-cd3c-4b59-9039-ac9bb01014dc"
+		],
+		"title": "Reflecteren op leren",
+		"id": "bc51ae10-2d38-4247-886d-d858ce811029",
+		"unreleased": true
+	},
+	{
+		"prefix": "be/6/4",
+		"ldk_vakinhoud_id": [
+			"283bd382-4c41-478b-8636-229b28074eb1"
+		],
+		"title": "Studie en beroep",
+		"id": "2251d4c7-8b5e-41c5-8662-45fd056fae7c",
+		"unreleased": true
+	},
+	{
+		"prefix": "be/6/5",
+		"ldk_vakinhoud_id": [
+			"bdaa1229-f36e-489d-b023-ddcfeabb15ba"
+		],
+		"title": "Onderzoeken",
+		"id": "e4877c95-f777-4086-a222-a5e6e57bc55c",
+		"unreleased": true
+	},
+	{
+		"prefix": "be/6/6",
+		"ldk_vakinhoud_id": [
+			"2a568658-3cef-40e6-94cf-a69a228afd1d",
+			"a448b446-c3f2-4168-b346-e3bbd40d1657",
+			"8b87406a-7e62-4195-a0bc-a37557689020",
+			"49c3a72a-a2cc-43cc-9ecf-33876c5b0d8c",
+			"a3c7c542-070e-4c06-8b9b-44d412facef1"
+		],
+		"title": "Benaderingswijzen",
+		"id": "7ad71a36-f1bf-4b41-9b64-60d24cee557a",
+		"unreleased": true
+	}
+]
