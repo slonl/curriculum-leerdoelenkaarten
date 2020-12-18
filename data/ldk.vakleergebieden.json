@@ -45,5 +45,19 @@
 		"title": "Biologie",
 		"id": "826b457d-6e3f-431a-ac4b-39ddc3110b8a",
 		"unreleased": true
+	},
+	{
+		"prefix": "nask1",
+		"vakleergebied_id": "b362c478-90c9-45ac-855a-79421d23ed07",
+		"ldk_vakkern_id": [
+			"32fadfe1-955d-4323-a483-e45633dc4919",
+			"35496bd3-24bf-4239-b292-6c8af60332c4",
+			"0a9e4da4-74ae-4f1c-ab56-93aa2f7a7e58",
+			"29f77eb1-965e-46ca-a8bb-1cb4713a0a24",
+			"0a72abfd-3d04-48f8-8b32-4405f75c29ee"
+		],
+		"title": "Natuur- en scheikunde I",
+		"id": "65cd5755-ee19-4f61-a74e-fb3a34aae5d9",
+		"unreleased": true
 	}
 ]
