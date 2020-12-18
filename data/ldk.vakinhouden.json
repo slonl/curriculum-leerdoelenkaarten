@@ -904,5 +904,586 @@
 		"title": "Relatie tussen Nederland en het water",
 		"id": "c7b2c6f2-cb0c-46f7-bf06-2bb17f0b1814",
 		"unreleased": true
+	},
+	{
+		"prefix": "na/1/1/1",
+		"doelniveau_id": [
+			"1d41ec74-13df-4c60-af6f-8d5da1b20178",
+			"849c0732-a3be-454b-8210-f75a8827933e"
+		],
+		"title": "Warmte en warmtestromen verklaren met modellen",
+		"id": "098187a7-bada-4d39-ae52-540b8438f81e",
+		"unreleased": true
+	},
+	{
+		"prefix": "na/1/1/2",
+		"doelniveau_id": [
+			"80646047-6385-482e-b455-8baae1f2302d",
+			"701275ba-696e-461e-95b3-5bab44956fbd"
+		],
+		"title": "Temperatuur en temperatuurschalen",
+		"id": "7e9f17a0-1f8d-4a73-97a3-8793095030b2",
+		"unreleased": true
+	},
+	{
+		"prefix": "na/1/1/3",
+		"lpib_vakinhoud_id": "5f0a4519-f018-4109-904d-6bbd71c2f5a0",
+		"doelniveau_id": [
+			"8eeb9ae6-77fb-40c6-bab6-a6a43f91109b",
+			"08f14916-68dc-4417-adb5-c965b9cbbc05"
+		],
+		"title": "Dichtheid en soortelijke warmte",
+		"id": "5268deef-5bc7-4ea7-a3c6-317bcfaecb23",
+		"unreleased": true
+	},
+	{
+		"prefix": "na/1/1/4",
+		"lpib_vakinhoud_id": "94bad0f4-6328-4a8e-8187-5e14749747dc",
+		"doelniveau_id": [
+			"6205b1b3-3b62-4bcc-8aaf-97c8a8d34bce",
+			"8239a9a3-2c47-4569-9c69-88004c9bb9fe"
+		],
+		"title": "Warmtegeleiding en elektrische geleiding",
+		"id": "89ca48dd-b380-4bbe-8816-981ac6b545c6",
+		"unreleased": true
+	},
+	{
+		"prefix": "na/1/1/5",
+		"doelniveau_id": [
+			"475cf64d-a6e3-4306-bd77-9682061cc39e",
+			"4c3b16fb-df6b-425f-ad04-1801464d89b4"
+		],
+		"title": "Stofeigenschap: vervorming",
+		"id": "ff30befc-5020-4a96-94de-f018027154d8",
+		"unreleased": true
+	},
+	{
+		"prefix": "na/1/1/6",
+		"doelniveau_id": [
+			"4e092126-640f-4b8c-8838-4abc81a034fc",
+			"071bd8f8-5575-49b9-8994-de3e4d71295d"
+		],
+		"title": "Functionele materialen/materiaaleigenschappen",
+		"id": "40069d6c-b73e-4d0f-86a0-0c44bc9bdadc",
+		"unreleased": true
+	},
+	{
+		"prefix": "na/1/2/1",
+		"doelniveau_id": [
+			"413c3148-015d-4f5f-9f9f-7f3686974e57",
+			"f0d0bd70-77f4-4652-a588-340bf30a39b3"
+		],
+		"title": "Fasen en fase-overgangen",
+		"id": "a7d12b0e-64c3-4252-b997-4909caeffb31",
+		"unreleased": true
+	},
+	{
+		"prefix": "na/1/2/2",
+		"doelniveau_id": [
+			"31bd141a-f8d8-40df-8b46-546a1bd89017"
+		],
+		"title": "Deeltjesmodellen",
+		"id": "a1afb9b4-38ae-4e75-ad2e-78f0d2e22255",
+		"unreleased": true
+	},
+	{
+		"prefix": "na/1/3/1",
+		"doelniveau_id": [
+			"5b6c8b08-db94-48f5-a853-f71a351bf3ca",
+			"1383b47e-c1fc-451f-9d7c-0e171b2a9c53"
+		],
+		"title": "Menselijk lichaam",
+		"id": "74d3a504-4a4e-429c-a6b7-33559db15e5c",
+		"unreleased": true
+	},
+	{
+		"prefix": "na/1/3/2",
+		"doelniveau_id": [
+			"4913cbcb-0f41-4a04-97f2-a6da5f54134f",
+			"074de786-38a4-4f26-b0e2-9a2c5fda1c23"
+		],
+		"title": "Sport en gezond",
+		"id": "93975417-bc73-4bd8-8d14-f1f637d67f3d",
+		"unreleased": true
+	},
+	{
+		"prefix": "na/1/3/3",
+		"doelniveau_id": [
+			"b23e9e7e-0551-4f2b-8d81-9d18d23cbf68",
+			"a3133ad6-5276-4dd6-9bd5-fed0cfb2aeaf"
+		],
+		"title": "Geofysica",
+		"id": "dc3c193e-9a05-433c-bf08-798cbc998a9d",
+		"unreleased": true
+	},
+	{
+		"prefix": "na/1/3/4",
+		"doelniveau_id": [
+			"42c3d432-cc6e-42ee-b4c2-d6eff1206379",
+			"dab33140-1279-4a51-bd5c-76038b19ec2b"
+		],
+		"title": "Biofysica",
+		"id": "22a4b450-b960-4ac5-831d-0d65570f1d0f",
+		"unreleased": true
+	},
+	{
+		"prefix": "na/1/3/5",
+		"doelniveau_id": [
+			"7598f946-9d0b-47dc-9df3-d4cca132bfc6"
+		],
+		"title": "Deeltjes- en kernprocessen",
+		"id": "e96f4c6f-a56a-4017-9083-a3c13bd3dccf",
+		"unreleased": true
+	},
+	{
+		"prefix": "na/2/1/1",
+		"doelniveau_id": [
+			"d7591dc7-0864-4895-b799-7dfaad85296c"
+		],
+		"title": "Energieomzetting",
+		"id": "f2ea29b9-a6ed-4605-9968-e6d462116e9f",
+		"unreleased": true
+	},
+	{
+		"prefix": "na/2/2/2",
+		"doelniveau_id": [
+			"86f7216a-91d6-4559-b893-11de069089ec",
+			"60e060ec-c7e1-4204-a390-23e9bde1a5f1"
+		],
+		"title": "Warmte en warmtestromen verklaren met modellen",
+		"id": "12f7ebcb-d2a9-4e93-a392-db5551086bab",
+		"unreleased": true
+	},
+	{
+		"prefix": "na/2/2/3",
+		"doelniveau_id": [
+			"67ee17b9-f939-487e-99dc-049811b8970c",
+			"70e3312c-745b-4736-a917-12bf59b3354e"
+		],
+		"title": "Temperatuur",
+		"id": "c30767a8-aa24-4897-9926-38cd7aa05d83",
+		"unreleased": true
+	},
+	{
+		"prefix": "na/2/3/1",
+		"doelniveau_id": [
+			"9b706fd9-ed06-456f-a571-bbe84f2fd103",
+			"a2e87e2a-e313-41d9-acf2-3a20cf4be050"
+		],
+		"title": "Elektrische energieomzettingen/vermogen",
+		"id": "3977b090-9746-466c-b3f2-734999863400",
+		"unreleased": true
+	},
+	{
+		"prefix": "na/2/3/2",
+		"doelniveau_id": [
+			"26f44717-6ef8-4eee-81e6-0ee136f4e5aa",
+			"6459d2c8-00ea-48f0-8a7a-86946c17e8a4"
+		],
+		"title": "Elektrische stroom",
+		"id": "423bcfa7-b5e0-4ab8-af6a-24aff72919db",
+		"unreleased": true
+	},
+	{
+		"prefix": "na/2/3/3",
+		"doelniveau_id": [
+			"f4af0253-2393-4ee5-8d73-3085c39679ad",
+			"47948803-8d7a-42f3-9ee8-ab1481b9dfd8"
+		],
+		"title": "Elektrische schakelingen/stroomkring",
+		"id": "3a07bcc2-79cb-47e8-8750-acc67ed7aca2",
+		"unreleased": true
+	},
+	{
+		"prefix": "na/2/3/4",
+		"doelniveau_id": [
+			"328418b3-1cc2-469c-9aad-9cce1f9cde27"
+		],
+		"title": "Transport en opslag",
+		"id": "958095fb-e793-4119-9d0e-f365ee532b10",
+		"unreleased": true
+	},
+	{
+		"prefix": "na/2/3/4",
+		"doelniveau_id": [
+			"da2b821d-f152-4ce3-a9cd-e2931caa252a"
+		],
+		"title": "Wetten van Kirchhoff",
+		"id": "19eda034-e179-485d-a77b-dd9cfb14460e",
+		"unreleased": true
+	},
+	{
+		"prefix": "na/2/3/5",
+		"doelniveau_id": [
+			"31851f41-2637-4e0d-baa5-baf694270d3e"
+		],
+		"title": "Electomagnetisme",
+		"id": "59bb2893-f3ce-41c5-85a7-208f51fa0041",
+		"unreleased": true
+	},
+	{
+		"prefix": "na/2/3/6",
+		"doelniveau_id": [
+			"3cd35c68-42b2-42ee-8b33-4e2852a7bb03"
+		],
+		"title": "Elektrisch veld",
+		"id": "5aba9021-f0b9-4a7b-ae71-3f4f6c413e6d",
+		"unreleased": true
+	},
+	{
+		"prefix": "na/2/3/7",
+		"doelniveau_id": [
+			"86057730-0eb9-4bea-a908-5cfbf09bad93"
+		],
+		"title": "Magnetisch veld",
+		"id": "09b48765-96da-48f2-bc89-228a2609163d",
+		"unreleased": true
+	},
+	{
+		"prefix": "na/2/3/8",
+		"doelniveau_id": [
+			"404112ec-a643-404d-836b-ce00fee76de5"
+		],
+		"title": "Toepassing magnetisch veld",
+		"id": "3f839631-205c-4f8e-acdc-f6fca142a33d",
+		"unreleased": true
+	},
+	{
+		"prefix": "na/2/3/9",
+		"doelniveau_id": [
+			"294be163-50d9-4578-899f-938fae9c03ae"
+		],
+		"title": "Inductie",
+		"id": "7d68cb2d-4726-4126-bf34-b029dfa0cae1",
+		"unreleased": true
+	},
+	{
+		"prefix": "na/2/5/1",
+		"doelniveau_id": [
+			"544a4c1f-87e4-4b24-bf50-0724fddbba46"
+		],
+		"title": "Licht als golfverschijnsel",
+		"id": "5964d625-5d0d-4e45-83de-375283a48abc",
+		"unreleased": true
+	},
+	{
+		"prefix": "na/2/5/2",
+		"doelniveau_id": [
+			"ba443a63-8254-471e-9159-5e9b68b46731"
+		],
+		"title": "Golfdeeltje dualiteit",
+		"id": "7019d32b-0645-48c9-b420-ae603cd5cd11",
+		"unreleased": true
+	},
+	{
+		"prefix": "na/2/5/2",
+		"doelniveau_id": [
+			"7ca74880-1222-4a18-8f36-d0d7cc08bdc7"
+		],
+		"title": "Foto-elektrisch effect",
+		"id": "295b922e-be0e-418a-9cd1-8bf0d000c346",
+		"unreleased": true
+	},
+	{
+		"prefix": "na/2/5/3",
+		"doelniveau_id": [
+			"308d9516-6570-4cb9-bf38-eaf69ff7d5f9"
+		],
+		"title": "Heisenberg",
+		"id": "4ac5ac78-4361-484c-9d52-ecb6164c118e",
+		"unreleased": true
+	},
+	{
+		"prefix": "na/2/5/4",
+		"doelniveau_id": [
+			"eaacc784-66b8-41c6-ad1b-8fd5cb050c46"
+		],
+		"title": "Tunneling",
+		"id": "dcee86e6-5628-48a8-83a5-5632ebb8babb",
+		"unreleased": true
+	},
+	{
+		"prefix": "na/3/1/1",
+		"doelniveau_id": [
+			"6d2631e9-35fa-4cd8-9b38-2a29e75193b5"
+		],
+		"title": "Geometrische optica",
+		"id": "f1944c4c-9069-4740-b630-237fbccf8676",
+		"unreleased": true
+	},
+	{
+		"prefix": "na/3/1/2",
+		"doelniveau_id": [
+			"f6d640fd-70a9-4e3e-9d31-63be94559637"
+		],
+		"title": "Wisselwerking tussen straling en materie",
+		"id": "e3c08383-1570-45af-9d9f-2bdfc5f94b27",
+		"unreleased": true
+	},
+	{
+		"prefix": "na/3/1/3",
+		"doelniveau_id": [
+			"349cf86e-c669-444f-8e6a-4d07c97892c5"
+		],
+		"title": "Licht van sterren",
+		"id": "0addfd5c-1cea-44de-852c-60fe22c69212",
+		"unreleased": true
+	},
+	{
+		"prefix": "na/3/1/4",
+		"doelniveau_id": [
+			"2675a5b6-debb-4094-bdbb-2ef31b80014f"
+		],
+		"title": "Golflengte en temperatuur",
+		"id": "8088d74c-2114-4de3-b1ef-fe5820b19264",
+		"unreleased": true
+	},
+	{
+		"prefix": "na/3/1/5",
+		"doelniveau_id": [
+			"8071ffba-6ad4-4e5d-a5ee-21630693b550"
+		],
+		"title": "Stralingsintensiteit",
+		"id": "269d5237-75ed-4bcf-b5c5-06e5dcbfdf49",
+		"unreleased": true
+	},
+	{
+		"prefix": "na/3/1/6",
+		"doelniveau_id": [
+			"74610e3b-0269-426e-b88b-cc973109a3a4"
+		],
+		"title": "EM spectrum",
+		"id": "adb05d01-c20a-4ed2-b5ba-139acff53235",
+		"unreleased": true
+	},
+	{
+		"prefix": "na/3/3/1",
+		"doelniveau_id": [
+			"e6f50285-a789-4469-8224-98b4fc30c31f",
+			"d480d7c7-7a43-4e29-a4bf-2dd358421c68"
+		],
+		"title": "Ioniserende straling",
+		"id": "17597401-7ae6-4e33-9db7-8ebccc3a8dc8",
+		"unreleased": true
+	},
+	{
+		"prefix": "na/3/3/2",
+		"doelniveau_id": [
+			"c7f68d44-cbde-42c8-909f-03a091884570",
+			"91e44fa6-8361-43a0-9ae8-436fd805780b"
+		],
+		"title": "Stralingsrisico's",
+		"id": "fab0f260-bfb9-4ff9-ab79-4b154fe39239",
+		"unreleased": true
+	},
+	{
+		"prefix": "na/3/3/3",
+		"doelniveau_id": [
+			"1c5bdca8-18f8-4c93-bb74-7e794845c2ec",
+			"fca10601-ef35-406e-84ad-966f072cac0a"
+		],
+		"title": "Halveringsdikte en halveringstijd",
+		"id": "bbe9d1db-563f-45ed-9c5a-872e6620d8ec",
+		"unreleased": true
+	},
+	{
+		"prefix": "na/3/3/4",
+		"doelniveau_id": [
+			"c64450d7-feed-42d2-a083-8b1e64fdbe49",
+			"2e07ed79-5f00-4586-89b2-846323bd08ab"
+		],
+		"title": "Medische beeldvormingstechnieken",
+		"id": "dd5ae99b-0acc-4e07-aa69-a4d729e189b7",
+		"unreleased": true
+	},
+	{
+		"prefix": "na/3/4/1",
+		"doelniveau_id": [
+			"bb76676a-ed90-4b4e-8433-2809f2cbd932",
+			"8494a005-e54b-49cc-9890-9a0694f01e4c"
+		],
+		"title": "Trillingsverschijnselen",
+		"id": "5c25f6f4-5a90-4495-adb1-f81250517b6e",
+		"unreleased": true
+	},
+	{
+		"prefix": "na/3/4/2",
+		"doelniveau_id": [
+			"bac48392-c140-4816-9ac8-9c68c65cc0b0",
+			"f2e4ab55-db37-4d4f-b7c9-b1817cfbbb44"
+		],
+		"title": "Eigentrilling massaveersysteem",
+		"id": "ca0757e5-de66-4cc4-a4fa-e301900dbaca",
+		"unreleased": true
+	},
+	{
+		"prefix": "na/3/4/3",
+		"doelniveau_id": [
+			"0b26e4bd-c6b5-463c-9b86-c68295cd8463",
+			"2c6917d0-1b27-4900-b1ba-239664968729"
+		],
+		"title": "Golfverschijnselen",
+		"id": "e1346375-ee3b-4725-a2dc-effe5d3dbdf0",
+		"unreleased": true
+	},
+	{
+		"prefix": "na/3/4/4",
+		"doelniveau_id": [
+			"97044f88-a563-4233-a787-1604dfa8e3fd",
+			"e990c908-fc27-4f79-9a7c-19fa2b6efd81"
+		],
+		"title": "Staande golven",
+		"id": "c4391607-a652-4bfa-aa6a-d5d6c9200433",
+		"unreleased": true
+	},
+	{
+		"prefix": "na/3/4/5",
+		"doelniveau_id": [
+			"e37c0f19-b6c4-4c6d-86d6-50e72753ffdd",
+			"efd097b2-f26b-4d38-9443-76fc9f1f91cd"
+		],
+		"title": "Golven: diagrammen",
+		"id": "9a1a3d92-aa97-415a-bd1b-71ba387e9bf5",
+		"unreleased": true
+	},
+	{
+		"prefix": "na/3/4/6",
+		"doelniveau_id": [
+			"c75bf485-1cd9-4ee9-b948-0f4e67b017d6",
+			"bc91cc48-e336-492f-869c-488dde9436ed"
+		],
+		"title": "Telecommunicatie",
+		"id": "2a5af783-dadf-4724-be6c-3055a0ed362d",
+		"unreleased": true
+	},
+	{
+		"prefix": "na/4/1/1",
+		"doelniveau_id": [
+			"e21cf621-3c9c-45e0-a11d-4b494c3f8d4a",
+			"766c946e-d106-49bf-ac2b-c29611cf8e41"
+		],
+		"title": "Vectoren",
+		"id": "3115b0c9-f591-4900-a69f-ea9c1700f061",
+		"unreleased": true
+	},
+	{
+		"prefix": "na/4/1/2",
+		"doelniveau_id": [
+			"cfeefeb4-d715-41fd-a545-3fe13f228239",
+			"5d0ea068-0557-4452-ba2b-95544cf49480"
+		],
+		"title": "Wetten van Newton: eerste wet",
+		"id": "d3cac7d3-d6b0-4dbd-9a7e-a9f31743bdc2",
+		"unreleased": true
+	},
+	{
+		"prefix": "na/4/1/3",
+		"doelniveau_id": [
+			"c3cd1a87-1a1d-44ed-a294-6e47b2a9754b",
+			"a790a577-e7e8-445c-a6d3-c9d24bc65ee6"
+		],
+		"title": "Wettten van Newton: tweede wet",
+		"id": "a7d614e0-c901-4bac-96a3-529aa210c34d",
+		"unreleased": true
+	},
+	{
+		"prefix": "na/4/1/4",
+		"doelniveau_id": [
+			"8469cd03-3660-48fa-a578-a539a9a0cd19"
+		],
+		"title": "Wetten van Newton: derde wet",
+		"id": "6920a995-b4a5-4634-9107-56587d9935fa",
+		"unreleased": true
+	},
+	{
+		"prefix": "na/4/1/5",
+		"doelniveau_id": [
+			"a638e230-ad82-4d64-abc7-db57e7bc252a"
+		],
+		"title": "Modellen",
+		"id": "0ceb52e1-187c-442d-8144-2fd29da31798",
+		"unreleased": true
+	},
+	{
+		"prefix": "na/4/2/1",
+		"doelniveau_id": [
+			"37095c2d-8fa1-43ab-a0f7-7e17fc645653",
+			"d8b28b2e-9169-4754-a18d-9153a92204c8",
+			"3b5a4063-ad12-45fe-b84d-fb7cefa08427",
+			"95185fbb-c456-4f27-ba46-54d5cae175ca",
+			"773133f3-7de7-4c8c-81bf-efd38310f706",
+			"24912591-9a3e-4248-affc-cc8585c3dedd",
+			"af881d7f-b540-47db-8e3b-48306f78f37c",
+			"5fcf46c4-1b9c-437e-a269-8305b3e9da55",
+			"0ae6f462-30b2-4df4-864c-5a861c017aaa",
+			"90cdb565-4c88-46eb-b84a-d8cce39c16c5",
+			"b8baed43-75d1-4611-a668-5130efaf6ae1",
+			"46d2dc56-251f-484c-9c7f-56999b743cda",
+			"d0287810-b0f2-4587-81b8-1adfc07f72ff",
+			"fa2c09df-12fb-46bc-8bca-3d60c08da956"
+		],
+		"title": "Bewegingen en diagrammen",
+		"id": "74938235-1d6d-4060-9f10-bbf084849f20",
+		"unreleased": true
+	},
+	{
+		"prefix": "na/4/2/2",
+		"doelniveau_id": [
+			"9103642c-4c90-48b6-b08e-25b32d0d5243",
+			"7ebc75cb-ec98-4010-94d0-6d027c7a0079"
+		],
+		"title": "Kinetische energieomzettingen",
+		"id": "a8b4eea0-d22b-401c-b3a6-580eaecfbe24",
+		"unreleased": true
+	},
+	{
+		"prefix": "na/4/2/3",
+		"doelniveau_id": [
+			"831f9980-4d96-47c5-9d12-1c018b41f81e",
+			"1c83d870-3cbb-468a-94ac-51aa5e9ccf80",
+			"5eca48a7-ba43-4134-a19b-e37e4489ed68",
+			"c1fa8a18-2ac4-444e-8f22-c89492b6e952"
+		],
+		"title": "Kinetische energie en arbeid",
+		"id": "8e241e1d-0cb2-4bca-8570-c6ef7d2b161f",
+		"unreleased": true
+	},
+	{
+		"prefix": "na/4/3/1",
+		"doelniveau_id": [
+			"35e9ea12-f984-43e6-9e25-b72e58a167c4"
+		],
+		"title": "Hefbomen",
+		"id": "dd50098d-b3dd-46f4-8bd7-46f1225a7817",
+		"unreleased": true
+	},
+	{
+		"prefix": "na/5/1/1",
+		"doelniveau_id": [
+			"c4e63d95-5892-4db7-98aa-1bc2d64ef857"
+		],
+		"title": "Interpretatie van waarnemingen",
+		"id": "dd9f1fb0-60e6-421b-83d0-f13d3160ab73",
+		"unreleased": true
+	},
+	{
+		"prefix": "na/5/1/2",
+		"doelniveau_id": [
+			"3bd417aa-874f-4424-b929-0799d664a5bb",
+			"40c245de-41d4-45ae-945a-e4f14d7066e5"
+		],
+		"title": "Cirkelbeweging",
+		"id": "14b35c5b-ba37-4171-9162-946ff637ef20",
+		"unreleased": true
+	},
+	{
+		"prefix": "na/5/1/3",
+		"doelniveau_id": [
+			"bbaedf9f-a899-4a12-bdf2-010e5a79b446",
+			"3318bfd7-6d35-4055-aaa8-8396eaebf174"
+		],
+		"title": "Banen om de zon en aarde",
+		"id": "a5569ce0-f500-4442-81ed-d291e9998bd6",
+		"unreleased": true
 	}
 ]
