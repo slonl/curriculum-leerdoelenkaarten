@@ -3997,5 +3997,361 @@
 		"title": "Energiegebruik",
 		"id": "695c9713-1b19-4c47-bbbf-dd5f96e53f89",
 		"unreleased": true
+	},
+	{
+		"prefix": "na/1/1",
+		"lpib_vaksubkern_id": "370c9924-d245-43c1-886a-a3e1d951f798",
+		"ldk_vakinhoud_id": [
+			"098187a7-bada-4d39-ae52-540b8438f81e",
+			"7e9f17a0-1f8d-4a73-97a3-8793095030b2",
+			"5268deef-5bc7-4ea7-a3c6-317bcfaecb23",
+			"89ca48dd-b380-4bbe-8816-981ac6b545c6",
+			"ff30befc-5020-4a96-94de-f018027154d8",
+			"40069d6c-b73e-4d0f-86a0-0c44bc9bdadc"
+		],
+		"doelniveau_id": [
+			"cc910a91-9933-4aa0-9949-b167f4bb1578",
+			"9f7228a0-77ee-4a2b-b85f-30da5542da69",
+			"2f1ad8ab-8601-4e6e-a53e-3c998d8dc06b",
+			"06694625-9199-441e-9e63-be786c838da2",
+			"4a64503b-9cc6-4b51-80f6-d80c2827bf8b",
+			"8cf04180-89c7-4961-9435-059ae7129206",
+			"05d536e5-6856-4d34-9163-add4c1ceea51",
+			"a8febeb7-e41e-4986-b29c-48802fadeb85",
+			"3c2ce81c-9796-49fd-8dc6-f4bbd7cd236c",
+			"6eadb8e8-8194-4260-bd71-5b41f6b54223",
+			"7444baa5-e572-457f-9bfe-f79e9ea3bbaa",
+			"3cf78fda-e3cd-4820-b628-28eae8dc51bb"
+		],
+		"title": "Eigenschappen van stoffen en materialen",
+		"id": "8069fd9a-5ddc-4b84-86a1-032b363070b5",
+		"unreleased": true
+	},
+	{
+		"prefix": "na/1/2",
+		"lpib_vaksubkern_id": "b66fda91-67a4-4cc7-b76c-3a13633b7f71",
+		"ldk_vakinhoud_id": [
+			"a7d12b0e-64c3-4252-b997-4909caeffb31",
+			"a1afb9b4-38ae-4e75-ad2e-78f0d2e22255"
+		],
+		"doelniveau_id": [
+			"63d6b661-9565-459c-91b4-ce1026f09f88",
+			"bccbaaff-654e-4864-bd7d-89c5c6dfd2b5",
+			"17086ecf-4bb4-4536-b9ea-0fdb359853e7",
+			"c9cc5030-d187-426a-96f5-b1bdd4e8526c"
+		],
+		"title": "Bouw van de materie",
+		"id": "519d1faf-746b-42f7-bb0b-03b13f094ee1",
+		"unreleased": true
+	},
+	{
+		"prefix": "na/1/3",
+		"ldk_vakinhoud_id": [
+			"74d3a504-4a4e-429c-a6b7-33559db15e5c",
+			"93975417-bc73-4bd8-8d14-f1f637d67f3d",
+			"dc3c193e-9a05-433c-bf08-798cbc998a9d",
+			"22a4b450-b960-4ac5-831d-0d65570f1d0f",
+			"e96f4c6f-a56a-4017-9083-a3c13bd3dccf"
+		],
+		"title": "Verschillende contexten",
+		"id": "654fb7a8-b340-4b0c-8cce-f8930834a75f",
+		"unreleased": true
+	},
+	{
+		"prefix": "na/2/1",
+		"ldk_vakinhoud_id": [
+			"f2ea29b9-a6ed-4605-9968-e6d462116e9f"
+		],
+		"doelniveau_id": [
+			"93df5242-6106-4dc1-ba33-8a37ae4700c7",
+			"4fa62623-4118-4d30-b7b2-5624908a8008",
+			"1313d86a-21fa-4fe8-866a-d5c1b38744ed",
+			"1b052808-82f0-4d32-bb54-f5bcefcacacb",
+			"f9cebe6a-d038-4911-878b-ab13649e0a59",
+			"defa3392-0251-44e7-91fd-b1e4b6d24382",
+			"bb0591f9-394e-4433-bd6a-300659c672be",
+			"1f6c7d17-66d6-43eb-9940-64e578df5a06"
+		],
+		"title": "Energie kenmerken",
+		"id": "a99b25e8-4176-4aa5-910f-559c0da61b14",
+		"unreleased": true
+	},
+	{
+		"prefix": "na/2/2",
+		"ldk_vakinhoud_id": [
+			"12f7ebcb-d2a9-4e93-a392-db5551086bab",
+			"c30767a8-aa24-4897-9926-38cd7aa05d83"
+		],
+		"doelniveau_id": [
+			"0b83404d-9d21-4bd0-9c0a-361dd7d98c9a",
+			"12e8914f-a580-45a7-bdfc-a35efdddc567",
+			"3b28dfab-3683-4241-986e-ba781374f59b",
+			"1e21926f-a3f8-43ca-a439-68ec936861c5",
+			"8facccec-8795-4573-aff4-ee501ae0381a",
+			"bcb76b1f-1097-44fd-8a4c-3bfb48c45664",
+			"ea688f74-2af2-4cd5-9369-dfd312b7a814",
+			"22f45fe9-38ca-4f5d-9149-b1a5b9a67976"
+		],
+		"title": "Verbranden en verwarmen",
+		"id": "af1e0ce7-0e85-4288-aef0-2e579b943559",
+		"unreleased": true
+	},
+	{
+		"prefix": "na/2/3",
+		"lpib_vaksubkern_id": "3536b856-0c37-4d04-8df7-0fd04831b66b",
+		"ldk_vakinhoud_id": [
+			"3977b090-9746-466c-b3f2-734999863400",
+			"423bcfa7-b5e0-4ab8-af6a-24aff72919db",
+			"3a07bcc2-79cb-47e8-8750-acc67ed7aca2",
+			"958095fb-e793-4119-9d0e-f365ee532b10",
+			"19eda034-e179-485d-a77b-dd9cfb14460e",
+			"59bb2893-f3ce-41c5-85a7-208f51fa0041",
+			"5aba9021-f0b9-4a7b-ae71-3f4f6c413e6d",
+			"09b48765-96da-48f2-bc89-228a2609163d",
+			"3f839631-205c-4f8e-acdc-f6fca142a33d",
+			"7d68cb2d-4726-4126-bf34-b029dfa0cae1"
+		],
+		"doelniveau_id": [
+			"e6ca475d-9511-4ea9-8620-3bb7e0d5ba32",
+			"11c7d2df-1bf7-4c7e-8282-f824f9cf7b24",
+			"33ed9a61-1ea1-4f3f-8d13-f748ed7a7b78",
+			"f38c6475-8580-4877-a974-0486507056c1",
+			"43d9dcc7-7115-4a4f-8c80-4425d3822c93",
+			"c5989ea4-6e48-4d6b-a48e-df28dca59bf3",
+			"d0c45681-730b-4d9c-a5a5-ab88abfa0b32",
+			"820e8974-5795-4dea-b280-b839b5ce42fb",
+			"dce2f0d5-41d3-44ff-93f4-9ab9a68d3899",
+			"4fa4f26a-42a1-481d-b085-87cc90d88210",
+			"6b04e58a-90c9-4222-aa6b-b96c2ac99c13",
+			"d93342cc-2979-4a43-9f28-1d2922556e7a",
+			"5d1f78e3-905f-4a18-85f2-d46134242992",
+			"e8bb7290-ceb8-4725-b56e-d1973acbb1dc",
+			"89ab15b2-9eaa-46b2-bae7-afbbaff24a38",
+			"092f5e80-8f87-4def-836b-47e834b85e52",
+			"c1d1332a-ea54-4670-ac2f-8a6c41d29ea0",
+			"fe005a5c-deb9-4ddc-92de-4cff6f0d4033"
+		],
+		"title": "Elektriciteit en magnetisme",
+		"id": "4abe2ab1-2a13-49ab-82ec-4725e1dac622",
+		"unreleased": true
+	},
+	{
+		"prefix": "na/2/4",
+		"lpib_vaksubkern_id": "2304900d-ba48-4b3b-900e-5fb920e5123f",
+		"doelniveau_id": [
+			"d6ded3d8-fa95-4793-9d2d-fa226d853d90"
+		],
+		"title": "Technische automatisering",
+		"id": "a2a7ea45-26e3-4596-a926-6d62c72e2478",
+		"unreleased": true
+	},
+	{
+		"prefix": "na/2/5",
+		"lpib_vaksubkern_id": "c48e2724-0f67-426f-8f46-2f313e3b0f64",
+		"ldk_vakinhoud_id": [
+			"5964d625-5d0d-4e45-83de-375283a48abc",
+			"7019d32b-0645-48c9-b420-ae603cd5cd11",
+			"295b922e-be0e-418a-9cd1-8bf0d000c346",
+			"4ac5ac78-4361-484c-9d52-ecb6164c118e",
+			"dcee86e6-5628-48a8-83a5-5632ebb8babb"
+		],
+		"title": "Quantumfysica",
+		"id": "b042d041-cedc-4cf4-b199-cb4b2c5949bc",
+		"unreleased": true
+	},
+	{
+		"prefix": "na/3/1",
+		"lpib_vaksubkern_id": "81c6da2d-7bad-4b62-b79a-0b7e3c3199b7",
+		"ldk_vakinhoud_id": [
+			"f1944c4c-9069-4740-b630-237fbccf8676",
+			"e3c08383-1570-45af-9d9f-2bdfc5f94b27",
+			"0addfd5c-1cea-44de-852c-60fe22c69212",
+			"8088d74c-2114-4de3-b1ef-fe5820b19264",
+			"269d5237-75ed-4bcf-b5c5-06e5dcbfdf49",
+			"adb05d01-c20a-4ed2-b5ba-139acff53235"
+		],
+		"doelniveau_id": [
+			"49548d27-99eb-4190-a0d2-1b3e8b87de5f",
+			"a5a3ed0e-e628-44e6-bff9-87b218d2f0ae",
+			"b481499b-9916-4b26-8b52-56df636b4fec",
+			"97ae3c10-37fa-47d4-8dd7-d31b47cc3e60",
+			"7bb18320-10b1-4ddc-9248-6ffe4d0572a7",
+			"35804a51-bc7e-4890-b917-201c84037ae4",
+			"dc640dc1-02b0-4422-a1e6-7cd1c09780a8",
+			"bdb9f5c4-69ed-4e3f-a3b2-03948ebb636b",
+			"3dbd60e7-94a6-42b8-b5eb-0a64caf05870",
+			"5571f267-2396-4353-8da2-ed9e22bf4a7e",
+			"5a567476-aaba-4d68-87e4-50d784efad9d",
+			"e2f550aa-df5e-4d49-85c5-3cad18ee9b15"
+		],
+		"title": "Licht",
+		"id": "8a43c7a0-7df1-4db5-83ec-77d948d49a59",
+		"unreleased": true
+	},
+	{
+		"prefix": "na/3/2",
+		"lpib_vaksubkern_id": "a140a4a7-99c0-4450-9fbd-5c04b0c2028f",
+		"doelniveau_id": [
+			"a7ca17a6-5aac-4e9b-b2b8-114952664d5f",
+			"982be55e-c5af-4d96-9d1a-6b2b2c750d77",
+			"285697fb-7033-47ef-b93f-3bf78606bd60",
+			"a1d12531-9a7a-4990-9a91-5cae9f564c6e",
+			"26cf044d-96a2-4730-89f0-a00bdfdf2987",
+			"130c9967-6cde-44ae-9fe2-295f38d3817b",
+			"2bcf33ab-6de5-46ea-bb6a-49759d76d4bb",
+			"e63880e0-6ec2-4a96-9a0f-222f7b5f74de"
+		],
+		"title": "Geluid",
+		"id": "2b543c7d-ca93-45f0-a1ce-cd1fd8913349",
+		"unreleased": true
+	},
+	{
+		"prefix": "na/3/3",
+		"ldk_vakinhoud_id": [
+			"17597401-7ae6-4e33-9db7-8ebccc3a8dc8",
+			"fab0f260-bfb9-4ff9-ab79-4b154fe39239",
+			"bbe9d1db-563f-45ed-9c5a-872e6620d8ec",
+			"dd5ae99b-0acc-4e07-aa69-a4d729e189b7"
+		],
+		"doelniveau_id": [
+			"88cea4a0-e200-4780-8b6c-119ba978eaac",
+			"ffe25385-f5d0-4f6d-9b4c-cf6799df0973",
+			"593763d9-fd70-4e39-9f17-341498d2c85a",
+			"8d773218-f156-44f0-a408-ee0eb70ec085",
+			"3f2bf346-9d7e-4916-8f23-926e9b643ea6",
+			"1c265da2-f4e2-41ec-a7ca-7a5c6510a4ec"
+		],
+		"title": "Straling",
+		"id": "d7551f7a-7839-475c-bcac-e6ee9aa887cd",
+		"unreleased": true
+	},
+	{
+		"prefix": "na/3/4",
+		"lpib_vaksubkern_id": "cdcbd8df-9b8b-40f7-a2b6-ff099c5b011f",
+		"ldk_vakinhoud_id": [
+			"5c25f6f4-5a90-4495-adb1-f81250517b6e",
+			"ca0757e5-de66-4cc4-a4fa-e301900dbaca",
+			"e1346375-ee3b-4725-a2dc-effe5d3dbdf0",
+			"c4391607-a652-4bfa-aa6a-d5d6c9200433",
+			"9a1a3d92-aa97-415a-bd1b-71ba387e9bf5",
+			"2a5af783-dadf-4724-be6c-3055a0ed362d"
+		],
+		"title": "Eigenschappen van trillingen en golven",
+		"id": "9e959aac-2b8b-4518-a707-ddbb627c598c",
+		"unreleased": true
+	},
+	{
+		"prefix": "na/4/1",
+		"lpib_vaksubkern_id": "a7c0c4e4-2e86-4479-8398-b39dcdaf8770",
+		"ldk_vakinhoud_id": [
+			"3115b0c9-f591-4900-a69f-ea9c1700f061",
+			"d3cac7d3-d6b0-4dbd-9a7e-a9f31743bdc2",
+			"a7d614e0-c901-4bac-96a3-529aa210c34d",
+			"6920a995-b4a5-4634-9107-56587d9935fa",
+			"0ceb52e1-187c-442d-8144-2fd29da31798"
+		],
+		"doelniveau_id": [
+			"abbbbf08-0c9d-4000-a71a-ea22dcf72ea8",
+			"34c67171-c62f-4db6-ae91-246c21c17099",
+			"c484f984-a842-4a5e-ba64-f2b79da50e85",
+			"e7547142-f11f-4986-9f96-4ff3e165acd4",
+			"30b1d4f0-3359-410c-b9fe-b9a214ae8c2f",
+			"c758b28e-72d6-4351-8f30-a42540f51d0b",
+			"81b655ed-4be0-4541-91de-4395040d2b3a",
+			"933d9b6c-f471-45b7-a521-9e2123daeb6d"
+		],
+		"title": "Kracht",
+		"id": "24b24446-ee59-4c00-96db-b0a6f93bb49e",
+		"unreleased": true
+	},
+	{
+		"prefix": "na/4/2",
+		"lpib_vaksubkern_id": "4388cd81-ea96-4ad7-8a13-8ffed499b4a2",
+		"ldk_vakinhoud_id": [
+			"74938235-1d6d-4060-9f10-bbf084849f20",
+			"a8b4eea0-d22b-401c-b3a6-580eaecfbe24",
+			"8e241e1d-0cb2-4bca-8570-c6ef7d2b161f"
+		],
+		"doelniveau_id": [
+			"be90e65a-95f6-42f4-87f9-4837a730e566",
+			"6a52166b-18db-4ed8-91dd-e058c2e90c04",
+			"32d78e36-f290-4cd0-869d-dc41a163dffc",
+			"8691837e-481d-4852-9202-8595c57558e7",
+			"a5b09036-b0c8-44ec-98a3-538ae661f434",
+			"41219d57-a793-4c81-8ac7-0488625d1131"
+		],
+		"title": "Beweging",
+		"id": "bfd1c208-2c73-4b47-8eb7-166396da9cc6",
+		"unreleased": true
+	},
+	{
+		"prefix": "na/4/3",
+		"lpib_vaksubkern_id": "b11c01cd-b2a7-4799-abf5-a2c95a125f72",
+		"ldk_vakinhoud_id": [
+			"dd50098d-b3dd-46f4-8bd7-46f1225a7817"
+		],
+		"doelniveau_id": [
+			"dd4622c4-00ba-429d-9ffb-762a08f97d8d",
+			"e09faa13-80e6-4e0c-bc0c-490a523e9fbb"
+		],
+		"title": "Overbrenging, constructies en verbindingen",
+		"id": "1391416e-3103-43dc-8a52-1af6c6655520",
+		"unreleased": true
+	},
+	{
+		"prefix": "na/4/4",
+		"lpib_vaksubkern_id": "402f3e58-bc03-47f6-8e2b-550881f8fbb3",
+		"doelniveau_id": [
+			"e3161c28-eff0-46f3-92f8-635057d5a6e5"
+		],
+		"title": "Relativiteitstheorie",
+		"id": "e986d8cb-019a-4d1b-bf11-5ec4d37967a5",
+		"unreleased": true
+	},
+	{
+		"prefix": "na/5/1",
+		"lpib_vaksubkern_id": "7f71e7ed-9f11-465f-a6d5-5b1e4e89e489",
+		"ldk_vakinhoud_id": [
+			"dd9f1fb0-60e6-421b-83d0-f13d3160ab73",
+			"14b35c5b-ba37-4171-9162-946ff637ef20",
+			"a5569ce0-f500-4442-81ed-d291e9998bd6"
+		],
+		"doelniveau_id": [
+			"53c24dbd-27b5-4c8f-8912-c96becc56e31",
+			"61fd335d-dd94-43f1-8f41-a0e6feeb3ca4",
+			"58398cf3-11fe-4c3d-9ba9-7b354aba3bf5",
+			"2a6783f2-b972-44b7-a3a7-09229adf7bc7"
+		],
+		"title": "Zonnestelsel",
+		"id": "4d73f9d6-b921-4c4a-957f-d1beede03a1a",
+		"unreleased": true
+	},
+	{
+		"prefix": "na/5/2",
+		"doelniveau_id": [
+			"ddc5e9b4-8eab-4f37-bf4e-8e9449de3196"
+		],
+		"title": "Structuur heelal",
+		"id": "7dcc6d62-4b8b-4fac-bf95-750d5878d7d9",
+		"unreleased": true
+	},
+	{
+		"prefix": "na/5/3",
+		"doelniveau_id": [
+			"70277ae2-39ba-462b-9ff8-450110f51bbd",
+			"3579adad-c2ca-4466-8c05-3250fdd2a604"
+		],
+		"title": "Waarnemingen",
+		"id": "dee528a1-85a5-4f24-92ef-7f749cb1c772",
+		"unreleased": true
+	},
+	{
+		"prefix": "na/5/4",
+		"doelniveau_id": [
+			"3e796419-d2ed-4b97-b4d9-df1dd614c18b"
+		],
+		"title": "Wereldbeeld",
+		"id": "cabf19fd-9741-461b-b132-c30504c25916",
+		"unreleased": true
 	}
 ]
