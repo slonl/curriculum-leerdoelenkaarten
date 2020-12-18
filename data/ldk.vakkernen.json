@@ -1,1 +1,107 @@
-[]
+[
+	{
+		"prefix": "be/1",
+		"ldk_vaksubkern_id": [
+			"5757b909-363f-4a25-b4a1-324ea3df500b"
+		],
+		"doelniveau_id": [
+			"2bfcfb50-aaf5-45d7-b7f9-f91cb5c7551d",
+			"a9b7d4dc-3354-4798-86c4-dc97327ed923"
+		],
+		"title": "Financiële zelfredzaamheid",
+		"id": "a73618f2-a74b-4651-ac98-34acc8cdfdad",
+		"unreleased": true
+	},
+	{
+		"prefix": "be/2",
+		"ldk_vaksubkern_id": [
+			"6d3b85f1-9f25-4082-8f37-b2e798ab9214",
+			"639ded92-512c-4abd-afb4-ec7b5fd8f1a4",
+			"8177f62e-4ff6-4d01-b1c6-1d163c8ad2fb"
+		],
+		"doelniveau_id": [
+			"b88f558f-bea0-452b-927e-f9a642e47810",
+			"38653c61-90dc-4f6f-9566-46b389439a0a",
+			"3b94522e-6c68-40e0-98d3-7e558f0ca247",
+			"c857be98-798a-4fb7-b4e8-182a00f5a7b0",
+			"84e1560a-0cb2-4dda-ac63-fd901bde94d3",
+			"a7e6b705-46e9-4d25-b736-005c2fcc3557"
+		],
+		"title": "Ondernemerschap",
+		"id": "ae5fcbc6-e49e-4a45-aea5-712d80a70a57",
+		"unreleased": true
+	},
+	{
+		"prefix": "be/3",
+		"ldk_vaksubkern_id": [
+			"9c0f2545-34ed-48cf-a10c-7d189db973ec",
+			"7057dbe3-55ed-444f-851e-3db53f01c90e",
+			"a50b3932-3144-40fe-ac6a-30f94669b0d3",
+			"7ff8a10d-cf53-4706-8488-37b9245f194b",
+			"487c40de-37c9-4705-b933-fbf96372c597",
+			"6d81c859-2fbb-45c2-a0d5-78b63324b94c"
+		],
+		"doelniveau_id": [
+			"7619fc0d-19b7-4a55-8d58-021fedbb103e",
+			"f75ed877-7ce6-4d50-88fa-443d11fbab39",
+			"dec124fb-777b-4e24-8750-10dc1ee9e8f5",
+			"2b0e04bd-0d2c-4e36-991f-9f6e635fa130",
+			"45e06436-8694-4ed6-a529-16ea14f96857",
+			"aa92f86a-ef66-43a7-b297-c75f50564403",
+			"8946c69f-618c-47b2-a277-6447b5d9d082",
+			"23460969-48f2-4140-8e15-dfa98c71ef59",
+			"53436a42-8cf7-468b-b874-b47ef38d8c2f"
+		],
+		"title": "Bedrijf en organisatie",
+		"id": "8b018f77-eb87-44b8-9c98-befe4c768e52",
+		"unreleased": true
+	},
+	{
+		"prefix": "be/4",
+		"ldk_vaksubkern_id": [
+			"e5387775-2b20-448e-9509-a7adb0faa612",
+			"66635bbc-7fed-453f-bc1d-db33442ec137"
+		],
+		"doelniveau_id": [
+			"6eefa9e8-3304-4f37-9896-6e852c2aad47",
+			"91001423-9684-4dd4-a620-c2fb785443e9",
+			"d8bf13db-68c8-45bf-9f24-52f6cb3fae63"
+		],
+		"title": "Bedrijf en samenleving",
+		"id": "319af71c-f3a9-4d90-912d-153d71fdd6b4",
+		"unreleased": true
+	},
+	{
+		"prefix": "be/5",
+		"ldk_vaksubkern_id": [
+			"4f34b8e0-37ef-4311-b9b0-5d1633e4a696",
+			"97595a91-8bf3-4f67-83b6-814aa85c24ac"
+		],
+		"doelniveau_id": [
+			"73fc5d9c-2ed2-43d6-8709-c06f24f63dc3",
+			"c080ac26-64bc-4613-a92b-b28d73b1393e",
+			"ea93dcb7-e268-4232-951e-4b69f92672a8"
+		],
+		"title": "Ondernemerschap/bedrijf en organisatie",
+		"id": "df93f64f-0fcd-4453-a614-6d359ca3c257",
+		"unreleased": true
+	},
+	{
+		"prefix": "be/6",
+		"ldk_vaksubkern_id": [
+			"be240696-ebdd-4198-a4a3-206256be3a94",
+			"e7e66a9f-bf51-4815-afc9-fcc39f447c8b",
+			"bc51ae10-2d38-4247-886d-d858ce811029",
+			"2251d4c7-8b5e-41c5-8662-45fd056fae7c",
+			"e4877c95-f777-4086-a222-a5e6e57bc55c",
+			"7ad71a36-f1bf-4b41-9b64-60d24cee557a"
+		],
+		"doelniveau_id": [
+			"8fad0bf3-5eeb-403c-8689-8f02ead9d515",
+			"1a46dd89-4391-4fb2-9e56-a13dfd27d32b"
+		],
+		"title": "Vaardigheden",
+		"id": "f3ccddcf-2c1a-4ad4-8c98-41ac0ee8deeb",
+		"unreleased": true
+	}
+]
