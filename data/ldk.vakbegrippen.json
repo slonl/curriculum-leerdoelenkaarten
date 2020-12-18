@@ -13207,5 +13207,706 @@
 		"title": "SO2, NOx, CO2, CFK's, UV-straling, ozonlaag",
 		"id": "d4bb50d0-8f4c-4e73-bf20-510ac5986a6e",
 		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"1d41ec74-13df-4c60-af6f-8d5da1b20178"
+		],
+		"title": "eigenschappen van stoffen: warmtetransport, warmtestroom, thermische geleidbaarheid, geleiding, stroming, straling",
+		"id": "12948c50-c7ac-49b7-b61d-0d6f2f44ad51",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"8eeb9ae6-77fb-40c6-bab6-a6a43f91109b"
+		],
+		"title": "atomaire massa",
+		"id": "8f95ec55-dd84-4793-aa10-7578b580fb7a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"6205b1b3-3b62-4bcc-8aaf-97c8a8d34bce"
+		],
+		"title": "geleidingselektron",
+		"id": "58c99654-b358-489b-ac3b-dbaa46628b89",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"475cf64d-a6e3-4306-bd77-9682061cc39e"
+		],
+		"title": "treksterkte",
+		"id": "df7482ef-e129-4c7b-8e31-90f9a27b836f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"413c3148-015d-4f5f-9f9f-7f3686974e57"
+		],
+		"title": "eigenschappen van stoffen: gas, vloeistof, vaste stof, smelten, stollen, verdampen, condenseren, sublimeren",
+		"id": "9e485b2e-7b89-4950-8732-246f8ead9364",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"d7591dc7-0864-4895-b799-7dfaad85296c"
+		],
+		"title": "energie(centrale): energiedichtheid, kerncentrale, fossiele brandstofcentrale, waterkrachtcentrale, zonnecel, waterstofcel, windturbine, generator",
+		"id": "4c92d638-9bd3-47ca-bdbc-0bbb228b32a0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"86f7216a-91d6-4559-b893-11de069089ec"
+		],
+		"title": "eigenschappen van stoffen: warmtetransport, warmtestroom, thermische geleidbaarheid, geleiding, stroming, straling",
+		"id": "e40e3960-8d82-4f38-aa6f-948a0b406e1d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"9b706fd9-ed06-456f-a571-bbe84f2fd103"
+		],
+		"title": "energie, vermogen, redement",
+		"id": "1bf08283-e784-4a8f-94ea-4ddc443457e0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"a2e87e2a-e313-41d9-acf2-3a20cf4be050"
+		],
+		"title": "energie, vermogen, redement",
+		"id": "44fd8580-ff3a-4062-9d0c-0c44653ac05f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"26f44717-6ef8-4eee-81e6-0ee136f4e5aa"
+		],
+		"title": "stroomsterkte, soortelijke weerstand, vrij elektron, ion, elektrische kracht, spanningsbron",
+		"id": "88a9b7e6-c836-4434-adcd-cb1038394039",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"6459d2c8-00ea-48f0-8a7a-86946c17e8a4"
+		],
+		"title": "stroomsterkte, spanning, soortelijke weerstand, vrij elektron, ion, elementaire lading, spanningsbron, batterij, accu",
+		"id": "3fe64d19-e4a7-4e7d-9366-e746f955c3bc",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"f4af0253-2393-4ee5-8d73-3085c39679ad"
+		],
+		"title": "stroomdeling, spanningsdeling, kortsluiting, onderdelen in een stroomkring: diode, LDR, NTC, PTC, ohmse weerstand, lamp, motor, verwarmingselement, zekering, aardlekschakelaar",
+		"id": "2408b344-961b-4a59-811c-42e2d333fefb",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"47948803-8d7a-42f3-9ee8-ab1481b9dfd8"
+		],
+		"title": "stroomdeling, spanningsdeling, kortsluiting, onderdelen in een stroomkring: diode, LDR, NTC, PTC, ohmse weerstand, lamp, motor, verwarmingselement, zekering, aardlekschakelaar",
+		"id": "c3af35d0-72ca-4cf0-8408-428305f5d057",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"328418b3-1cc2-469c-9aad-9cce1f9cde27"
+		],
+		"title": "spanningsbronnen: batterij, accu, waterstofcel, transformator",
+		"id": "ac66095a-4f54-4a0c-afff-f73a51133f88",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"da2b821d-f152-4ce3-a9cd-e2931caa252a"
+		],
+		"title": "behoud van strooksterkte in een punt en van spanning in een kring",
+		"id": "a8f1d938-f38f-442d-87cb-02c6a04f869d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"31851f41-2637-4e0d-baa5-baf694270d3e"
+		],
+		"title": "elektrische kracht, homogeen en radiaal elektrisch veld, veldlijn",
+		"id": "a9d15c99-711a-4f28-a2e0-c35783bc68e6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"3cd35c68-42b2-42ee-8b33-4e2852a7bb03"
+		],
+		"title": "elektronvolt, elektrische energie als potentiële energie",
+		"id": "1a77ec96-b0a6-4d8f-8bbb-1b873b2e138f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"86057730-0eb9-4bea-a908-5cfbf09bad93"
+		],
+		"title": "magnetische velden: homogeen en inhomogeen magnetisch veld, veldlijn, elektromagneet",
+		"id": "e00974cf-44e1-4475-9dd6-1197ebead4b9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"404112ec-a643-404d-836b-ce00fee76de5"
+		],
+		"title": "lorentzkracht als vector",
+		"id": "4c149543-51e0-4798-9bee-65fe8e76003d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"294be163-50d9-4578-899f-938fae9c03ae"
+		],
+		"title": "flux, inductiespanning",
+		"id": "05d911d1-5f72-4d44-b008-1aeb0d0da7d5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"544a4c1f-87e4-4b24-bf50-0724fddbba46"
+		],
+		"title": "buiging, constructieve en destructieve interferentie",
+		"id": "86a1dbb9-f9e1-400a-adc7-de8d120a6b90",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"ba443a63-8254-471e-9159-5e9b68b46731"
+		],
+		"title": "interferentieverschijnselen, debroglie-golflengte, dubbelspleet-experiment, waarschijnlijkheid, waarschijnlijkheids-verdeling",
+		"id": "672ef889-5e84-4806-ad02-8267e6f5c98e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"7ca74880-1222-4a18-8f36-d0d7cc08bdc7"
+		],
+		"title": "foton, uittree-energie, energiequantum",
+		"id": "1fb36e73-49ba-4414-a12b-942e8d116a77",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"308d9516-6570-4cb9-bf38-eaf69ff7d5f9"
+		],
+		"title": "Bohrstraal, nulpuntsenergie",
+		"id": "59395a11-3790-47fb-9160-6b36361d2094",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"eaacc784-66b8-41c6-ad1b-8fd5cb050c46"
+		],
+		"title": "contexten: Scanning Tunneling Microscope (STM), alfa-verval",
+		"id": "a86934f4-48b3-4a63-b2cb-b920532c7863",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"f6d640fd-70a9-4e3e-9d31-63be94559637"
+		],
+		"title": "foton, grondtoestand, aangeslagen toestand, ionisatie-energie",
+		"id": "9229614a-e001-4a98-8bfa-281424809b6c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"349cf86e-c669-444f-8e6a-4d07c97892c5"
+		],
+		"title": "fraunhoferlijn, roodverschuiving, blauwverschuiving",
+		"id": "0ca11de5-a5bb-420e-b1b3-a89caeec5680",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"2675a5b6-debb-4094-bdbb-2ef31b80014f"
+		],
+		"title": "Planck-kromme, continu spectrum",
+		"id": "4ae89293-8899-4d58-a149-9fa1c3634007",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"8071ffba-6ad4-4e5d-a5ee-21630693b550"
+		],
+		"title": "zonneconstante",
+		"id": "3aa2cd6f-0073-41ad-b56f-dd58049edc2b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"74610e3b-0269-426e-b88b-cc973109a3a4"
+		],
+		"title": "instrumenten: optische telescoop, radiotelescoop, ruimtetelescoop",
+		"id": "bc3bc233-099b-4243-8c36-d96e0fce12a6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"e6f50285-a789-4469-8224-98b4fc30c31f"
+		],
+		"title": "absorptie, emissie, elektromagnetische golf, foton",
+		"id": "5c7c3024-dda8-467c-a004-b8231fb4e915",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"d480d7c7-7a43-4e29-a4bf-2dd358421c68"
+		],
+		"title": "absorptie, emissie, elektromagnetische golf, foton",
+		"id": "109e15d0-ee1c-42de-9711-7714018fe09f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"c7f68d44-cbde-42c8-909f-03a091884570"
+		],
+		"title": "stralingsbron, radioactief verval, isotoop, kern, proton, neutron, elektron, atomaire massaeenheid, ioniserend en doordringend vermogen, dracht, röntgenstraling, alfa-, bèta- en gammastraling, kosmische straling, achtergrondstraling, bestraling, besmetting, effectieve totale lichaamsdosis in relatie tot stralingsbeschermingsnormen, dosimeter, MeV",
+		"id": "6855126a-de67-4561-a47f-c8c30593476f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"91e44fa6-8361-43a0-9ae8-436fd805780b"
+		],
+		"title": "stralingsbron, radioactief verval, isotoop, kern, proton, neutron, elektron, atomaire massaeenheid, ioniserend en doordringend vermogen, dracht, röntgenstraling, alfa-, bèta- en gammastraling, kosmische straling, achtergrondstraling, bestraling, besmetting, effectieve totale lichaamsdosis in relatie tot stralingsbeschermingsnormen, dosimeter, MeV",
+		"id": "cb96f474-db25-405f-be9d-30c32192de72",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"1c5bdca8-18f8-4c93-bb74-7e794845c2ec"
+		],
+		"title": "doorlaatkromme, vervalkromme",
+		"id": "eb90aa94-a56f-4687-a061-a78b4535f835",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"fca10601-ef35-406e-84ad-966f072cac0a"
+		],
+		"title": "doorlaatkromme, vervalkromme",
+		"id": "594a5bdd-04b1-49b8-ad79-de8e4d946d58",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"c64450d7-feed-42d2-a083-8b1e64fdbe49"
+		],
+		"title": "Beeldvormingstechnieken: röntgenopname, CT-scan, MRI-scan, echografie en nucleaire diagnostiek. \r\nNatuurkundige achtergronden: halveringsdikte van menselijke weefsels, magnetisch veld en resonantie, ultrasone geluidsgolf, geluidsnelheid in menselijke weefsels, absorptie, transmissie, terugkaatsing, tracer",
+		"id": "c5076e32-2732-4bdb-8397-b8ce2412e261",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"2e07ed79-5f00-4586-89b2-846323bd08ab"
+		],
+		"title": "Beeldvormingstechnieken: röntgenopname, CT-scan, MRI-scan, PET-scan, echografie, nucleaire diagnostiek. Natuurkundige achtergronden: halveringsdikte van menselijke weefsels, magnetisch veld en resonantie, annihilatie, creatie van een elektron-positronpaar, ultrasone geluidsgolf, geluidsnelheid in menselijke weefsels, absorptie, transmissie, terugkaatsing, tracer",
+		"id": "992a6191-67b5-4296-8088-8937f096085e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"bb76676a-ed90-4b4e-8433-2809f2cbd932"
+		],
+		"title": "uitwijking, amplitude, periode, harmonische trilling",
+		"id": "47363a63-6609-4e65-8bdf-eea3e1a94f11",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"8494a005-e54b-49cc-9890-9a0694f01e4c"
+		],
+		"title": "periode, gereduceerde fase, faseverschil",
+		"id": "83e6ecc1-a8cb-4cec-9446-e1eaabcf50a9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"bac48392-c140-4816-9ac8-9c68c65cc0b0"
+		],
+		"title": "eigenfrequentie, resonantie",
+		"id": "f5b9b072-00f6-4e0b-85b5-0b956e2bbe88",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"f2e4ab55-db37-4d4f-b7c9-b1817cfbbb44"
+		],
+		"title": "eigenfrequentie, resonantie",
+		"id": "fe83eba9-523a-401f-b96f-9474127ceb3a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"0b26e4bd-c6b5-463c-9b86-c68295cd8463"
+		],
+		"title": "lopende golf, voortplantingssnelheid, geluidssnelheid, lichtsnelheid, transversaal, longitudinaal",
+		"id": "1fcc948a-5b85-4c1c-860b-c09ed9330f18",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"2c6917d0-1b27-4900-b1ba-239664968729"
+		],
+		"title": "gereduceerde fase, faseverschil, lopende golf, voortplantingssnelheid, geluidssnelheid, lichtsnelheid, transversaal, longitudinaal",
+		"id": "7224d961-1cc3-48ab-9874-3c05850123ec",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"97044f88-a563-4233-a787-1604dfa8e3fd"
+		],
+		"title": "knoop, buik, grondtoon, boventoon",
+		"id": "f14dbfb3-66aa-4802-82ad-0b5a1bdf618c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"e990c908-fc27-4f79-9a7c-19fa2b6efd81"
+		],
+		"title": "knoop, buik, grondtoon, boventoon",
+		"id": "dcd41ac9-da25-43ac-a3ba-b04d4128308a",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"e37c0f19-b6c4-4c6d-86d6-50e72753ffdd"
+		],
+		"title": "context: cardiogram",
+		"id": "acb826ba-10ca-4adc-a7aa-a47863f97daf",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"efd097b2-f26b-4d38-9443-76fc9f1f91cd"
+		],
+		"title": "context: cardiogram",
+		"id": "51e321bd-a037-459a-b2cd-488483674919",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"c75bf485-1cd9-4ee9-b948-0f4e67b017d6"
+		],
+		"title": "radiogolf, draaggolf, amplitudemodulatie, frequentiemodulatie, bandbreedte, kanaalscheiding",
+		"id": "35b9b396-c875-4724-9e06-4ceddd779ddd",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"bc91cc48-e336-492f-869c-488dde9436ed"
+		],
+		"title": "radiogolf, draaggolf, amplitudemodulatie, frequentiemodulatie, digitale codering, bemonsteringsfrequentie, bandbreedte, kanaalscheiding, bit, datatransfer rate",
+		"id": "4b794f1d-4f4c-489b-8468-5916621186a2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"e21cf621-3c9c-45e0-a11d-4b494c3f8d4a"
+		],
+		"title": "krachten : zwaartekracht, schuifwrijvingskracht, rolweerstandskracht, luchtweerstandskracht, normaalkracht, spankracht, spierkracht, veerkracht",
+		"id": "baba413d-cfe8-41cf-9200-3039553584c4",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"766c946e-d106-49bf-ac2b-c29611cf8e41"
+		],
+		"title": "krachten : zwaartekracht, schuifwrijvingskracht, rolweerstandskracht, luchtweerstandskracht, normaalkracht, spankracht, spierkracht, veerkracht",
+		"id": "d3c0559b-ba5d-452a-b7a9-c5e811dd5910",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"8469cd03-3660-48fa-a578-a539a9a0cd19"
+		],
+		"title": "actiekracht, reactiekracht, gewicht",
+		"id": "96adb227-50be-4670-b33b-861c44db9ed4",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"d8b28b2e-9169-4754-a18d-9153a92204c8"
+		],
+		"title": "afstand-tijd diagram, snelheid-tijd diagram, eenparige rechtlijnige bewegingen. eenparig versnelde bewegingen: vrije val, valbeweging met wrijving, gemiddelde snelheid, snelheid op een bepaald moment, verplaatsing",
+		"id": "9c0c058c-87d9-462e-a7dc-a3d8a81b32e7",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"3b5a4063-ad12-45fe-b84d-fb7cefa08427"
+		],
+		"title": "afstand-tijd diagram, snelheid-tijd diagram, eenparige rechtlijnige bewegingen. eenparig versnelde bewegingen: vrije val, valbeweging met wrijving, gemiddelde snelheid, snelheid op een bepaald moment, verplaatsing",
+		"id": "03240a1d-1e84-4453-ba1f-3f349fa3b5d0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"95185fbb-c456-4f27-ba46-54d5cae175ca"
+		],
+		"title": "afstand-tijd diagram, snelheid-tijd diagram, eenparige rechtlijnige bewegingen. eenparig versnelde bewegingen: vrije val, valbeweging met wrijving, gemiddelde snelheid, snelheid op een bepaald moment, verplaatsing",
+		"id": "d973717a-d802-4a63-9f0f-83057c101f3c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"773133f3-7de7-4c8c-81bf-efd38310f706"
+		],
+		"title": "afstand-tijd diagram, snelheid-tijd diagram, eenparige rechtlijnige bewegingen. eenparig versnelde bewegingen: vrije val, valbeweging met wrijving, gemiddelde snelheid, snelheid op een bepaald moment, verplaatsing",
+		"id": "5a3af71f-47b2-46c8-8243-fed8ef5be023",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"24912591-9a3e-4248-affc-cc8585c3dedd"
+		],
+		"title": "afstand-tijd diagram, snelheid-tijd diagram, eenparige rechtlijnige bewegingen. eenparig versnelde bewegingen: vrije val, valbeweging met wrijving, gemiddelde snelheid, snelheid op een bepaald moment, verplaatsing",
+		"id": "3e0a61cc-87f4-47a7-a378-cb7bad50059b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"af881d7f-b540-47db-8e3b-48306f78f37c"
+		],
+		"title": "afstand-tijd diagram, snelheid-tijd diagram, eenparige rechtlijnige bewegingen. eenparig versnelde bewegingen: vrije val, valbeweging met wrijving, gemiddelde snelheid, snelheid op een bepaald moment, verplaatsing",
+		"id": "1b555c8c-4b5f-4b7f-8196-6d6957954675",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"0ae6f462-30b2-4df4-864c-5a861c017aaa"
+		],
+		"title": "afstand-tijd diagram, snelheid-tijd diagram, eenparige rechtlijnige bewegingen. eenparig versnelde bewegingen: vrije val, valbeweging met wrijving, gemiddelde snelheid, snelheid op een bepaald moment, verplaatsing",
+		"id": "6bb1fcdd-72d0-4e58-8fae-193659c655a3",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"90cdb565-4c88-46eb-b84a-d8cce39c16c5"
+		],
+		"title": "afstand-tijd diagram, snelheid-tijd diagram, eenparige rechtlijnige bewegingen. eenparig versnelde bewegingen: vrije val, valbeweging met wrijving, gemiddelde snelheid, snelheid op een bepaald moment, verplaatsing",
+		"id": "75d35f4e-4f73-44b3-8fc3-0e1c63b47f7f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"b8baed43-75d1-4611-a668-5130efaf6ae1"
+		],
+		"title": "afstand-tijd diagram, snelheid-tijd diagram, eenparige rechtlijnige bewegingen. eenparig versnelde bewegingen: vrije val, valbeweging met wrijving, gemiddelde snelheid, snelheid op een bepaald moment, verplaatsing",
+		"id": "e71bef24-5805-43f0-9473-98d78b890d99",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"46d2dc56-251f-484c-9c7f-56999b743cda"
+		],
+		"title": "afstand-tijd diagram, snelheid-tijd diagram, eenparige rechtlijnige bewegingen. eenparig versnelde bewegingen: vrije val, valbeweging met wrijving, gemiddelde snelheid, snelheid op een bepaald moment, verplaatsing",
+		"id": "e4f4116c-213d-4fbe-a4d3-c1de546e87ce",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"d0287810-b0f2-4587-81b8-1adfc07f72ff"
+		],
+		"title": "afstand-tijd diagram, snelheid-tijd diagram, eenparige rechtlijnige bewegingen. eenparig versnelde bewegingen: vrije val, valbeweging met wrijving, gemiddelde snelheid, snelheid op een bepaald moment, verplaatsing",
+		"id": "01171990-5cd6-4f3c-9665-0d2b479fcafd",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"fa2c09df-12fb-46bc-8bca-3d60c08da956"
+		],
+		"title": "afstand-tijd diagram, snelheid-tijd diagram, eenparige rechtlijnige bewegingen. eenparig versnelde bewegingen: vrije val, valbeweging met wrijving, gemiddelde snelheid, snelheid op een bepaald moment, verplaatsing",
+		"id": "f5313a84-b912-4fd8-89ed-0748a92f128d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"831f9980-4d96-47c5-9d12-1c018b41f81e"
+		],
+		"title": "kinetische energie, zwaarte-energie, chemische energie, warmte, wrijvingsarbeid",
+		"id": "b482382e-7ce3-464a-bca5-ebd811373050",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"1c83d870-3cbb-468a-94ac-51aa5e9ccf80"
+		],
+		"title": "kinetische energie, zwaarte-energie, chemische energie, warmte, wrijvingsarbeid",
+		"id": "c34c524a-5503-4b1e-820c-0e7a4b223d0f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"5eca48a7-ba43-4134-a19b-e37e4489ed68"
+		],
+		"title": "Energieën: kinetische energie, zwaarte-energie, veerenergie, chemische energie, warmte \r\nVakbegrippen: potentiële energie, (positieve en negatieve) arbeid, wrijvingsarbeid, periodieke beweging",
+		"id": "48b229c3-8685-4932-80b8-5d94e611ada3",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"c1fa8a18-2ac4-444e-8f22-c89492b6e952"
+		],
+		"title": "Energieën: kinetische energie, zwaarte-energie, veerenergie, chemische energie, warmte \r\nVakbegrippen: potentiële energie, (positieve en negatieve) arbeid, wrijvingsarbeid, periodieke beweging",
+		"id": "f115f7d1-e36a-4cc4-83fb-4e2ad5ef71d8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"35e9ea12-f984-43e6-9e25-b72e58a167c4"
+		],
+		"title": "zwaartepunt, aangrijpingspunt, werklijn, arm",
+		"id": "d0403695-d357-49d9-8322-1eed062fa522",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"c4e63d95-5892-4db7-98aa-1bc2d64ef857"
+		],
+		"title": "planeet, komeet, meteoriet",
+		"id": "0bcc22f5-3d6f-44b2-9531-69c388eeeaf1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"3bd417aa-874f-4424-b929-0799d664a5bb"
+		],
+		"title": "omlooptijd, baanstraal, baansnelheid",
+		"id": "01304eae-6c68-42cf-8d07-3b21a1eb490b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"40c245de-41d4-45ae-945a-e4f14d7066e5"
+		],
+		"title": "omlooptijd, baanstraal, baansnelheid",
+		"id": "9223144d-55b7-4919-aa56-52c0ae184a7c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"bbaedf9f-a899-4a12-bdf2-010e5a79b446"
+		],
+		"title": "ellipsbaan, geostationaire baan",
+		"id": "e8f5c628-bfd9-4c8c-9083-8859d5ae222c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"3318bfd7-6d35-4055-aaa8-8396eaebf174"
+		],
+		"title": "gravitatiewisselwerking, ellipsbaan, geostationaire baan",
+		"id": "06382705-7675-46dc-aab1-f4db9e8246ba",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"ddc5e9b4-8eab-4f37-bf4e-8e9449de3196"
+		],
+		"title": "cluster, sterrenstelsel, planetenstelsel, oerknal, uitdijend heelal, lichtsnelheid, lichtjaar, Melkweg, zonnestelsel",
+		"id": "73448a72-ad7d-4ba9-b71d-2c710f691cf6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"70277ae2-39ba-462b-9ff8-450110f51bbd"
+		],
+		"title": "stralingssoorten: gammastraling, röntgenstraling, ultraviolet, (zichtbaar) licht, infrarood, radiogolven, microgolven\r\ninstrumenten: optische telescoop, radiotelescoop, ruimtetelescoop",
+		"id": "63215011-9be8-48cc-b9fc-5e286c42d7a9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"3579adad-c2ca-4466-8c05-3250fdd2a604"
+		],
+		"title": "stralingssoorten: gammastraling, röntgenstraling, ultraviolet, (zichtbaar) licht, infrarood, radiogolven, microgolven\r\ninstrumenten: optische telescoop, radiotelescoop, ruimtetelescoop",
+		"id": "d8886e4e-a8a1-445e-9b7b-cfe502ee26d8",
+		"unreleased": true
 	}
 ]
