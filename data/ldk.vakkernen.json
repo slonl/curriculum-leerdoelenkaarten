@@ -625,5 +625,141 @@
 		"title": "Dynamisch evenwicht",
 		"id": "a598abd0-68da-45f4-9fac-09b41b9309f2",
 		"unreleased": true
+	},
+	{
+		"prefix": "nask1/1",
+		"lpib_vakkern_id": "6caf582d-6b5e-48fb-9b89-d7a2b99bac5d",
+		"ldk_vaksubkern_id": [
+			"3acb7a49-55b1-442a-abf9-a66fd8fb5ddb",
+			"38433157-274f-4d19-ad4a-605d204a1671",
+			"b224f573-c446-4f76-9471-caa9774b8e9e"
+		],
+		"doelniveau_id": [
+			"6d274fd7-ee0a-4079-aa9f-dea873d31915",
+			"b4fb2bea-9535-46b8-b34f-4fa253bf1339",
+			"381eb24f-15ab-4493-9eb4-1c98e7d8d49f",
+			"fea30dd7-f051-4c16-a2dd-873dc4b78f2e",
+			"547607fa-07ad-4efa-b1a5-1689472c8181",
+			"c67919fc-8b4f-46e9-8a01-6b23b03c25e3",
+			"81b47b36-9c27-457d-9774-eb09051583be",
+			"dc220b91-09bf-4953-be3c-1f301378d136",
+			"cbc14c26-bf40-4ff4-8371-cfb43bee4821",
+			"4c88d54e-941d-49ca-95e6-5428649790e6",
+			"2bc33427-4d74-47f0-b49f-11167dc41147",
+			"e5894aab-c219-4524-b684-108dd9324a8b",
+			"34bff980-1102-4485-8577-b45a499648cd"
+		],
+		"title": "Materie",
+		"id": "32fadfe1-955d-4323-a483-e45633dc4919",
+		"unreleased": true
+	},
+	{
+		"prefix": "nask1/2",
+		"lpib_vakkern_id": "b5c8a5f9-47cf-4546-8c20-474ff0cf340d",
+		"ldk_vaksubkern_id": [
+			"8d9bc890-6c7c-42b8-a799-ceb38d57073f",
+			"3f383257-b230-46d5-8743-361eb8c8e1a3",
+			"495ddb32-9046-4720-86c5-a78773ac6efd",
+			"118550f7-22c0-4cca-9e00-1e6a33ac256f",
+			"6d9082d7-8003-45e2-add5-7d5379062230"
+		],
+		"doelniveau_id": [
+			"6d274fd7-ee0a-4079-aa9f-dea873d31915",
+			"aaabec90-9d78-4850-80e6-ec8911be7c0b",
+			"381eb24f-15ab-4493-9eb4-1c98e7d8d49f",
+			"da89086d-2816-4b7f-9c3d-4127f8fd53c5",
+			"547607fa-07ad-4efa-b1a5-1689472c8181",
+			"9a150652-6b91-4bbc-86a8-ec15b794d610",
+			"73c02b59-2713-47fc-9ffa-89708d372702",
+			"feb8fa7f-007c-44b5-8085-34b8123d9601",
+			"4917aa87-f46f-4ded-8e3e-4dc3edc42dd0",
+			"919df222-169c-4118-91dd-0f3d30ff891f",
+			"8787afbb-b2a0-4c15-9407-009dffb2a61e",
+			"2e1bbc79-1d58-4edd-aaea-7ac74ac341fb",
+			"448ad7ae-e23e-46db-889a-987ada6b8f31"
+		],
+		"title": "Energie",
+		"id": "35496bd3-24bf-4239-b292-6c8af60332c4",
+		"unreleased": true
+	},
+	{
+		"prefix": "nask1/3",
+		"lpib_vakkern_id": "b1249e0e-33a6-49cc-9afe-a584f81df6ba",
+		"ldk_vaksubkern_id": [
+			"ed7dda5a-e78f-48f9-809a-7d8847dc199b",
+			"0912b214-96cb-4a93-a6f9-57826199c22a",
+			"5335d269-05eb-4792-a79b-5edf4114f9cf",
+			"026c192f-bc6c-4049-876d-7f2015f46cb5"
+		],
+		"doelniveau_id": [
+			"6d274fd7-ee0a-4079-aa9f-dea873d31915",
+			"986cc247-488e-4cb4-b527-eb1b38dd40fb",
+			"381eb24f-15ab-4493-9eb4-1c98e7d8d49f",
+			"e4f5802a-f463-43d6-897e-c1a142e66dcf",
+			"547607fa-07ad-4efa-b1a5-1689472c8181",
+			"70a58602-fd82-4695-bd63-d9abe79a9193",
+			"b81b24c7-e9d3-4a3e-b69b-f31bacc5aef2",
+			"86619ffb-b9a4-453e-967c-d2fffeddf461",
+			"313994fa-2344-4e95-be0c-63ffbc5df556",
+			"dc9a8dd8-2f52-4a51-9e06-d9e421a2768c",
+			"3791a596-a7eb-4417-98bb-ee24129985ec",
+			"79f836f3-7be6-4a99-b910-42689f1bca10",
+			"0c87e66a-b51f-4669-93a2-b246783201c0"
+		],
+		"title": "Licht, geluid en straling",
+		"id": "0a9e4da4-74ae-4f1c-ab56-93aa2f7a7e58",
+		"unreleased": true
+	},
+	{
+		"prefix": "nask1/4",
+		"lpib_vakkern_id": "e162e77e-7a1c-4045-8e91-b03325eb47ce",
+		"ldk_vaksubkern_id": [
+			"4c88a904-bbe1-4107-ab59-69e7074832ce",
+			"d76f4904-e4e3-4e85-b944-55a55cb387eb",
+			"60a3906f-2bf1-4819-a7a6-58373429d574",
+			"7fad4e2e-b1c4-4ef8-a650-eb0801f9ebc7"
+		],
+		"doelniveau_id": [
+			"6d274fd7-ee0a-4079-aa9f-dea873d31915",
+			"bb41021c-858f-4e8a-9ae3-2c4d26dd79f4",
+			"381eb24f-15ab-4493-9eb4-1c98e7d8d49f",
+			"32f4eebb-ce58-40c8-be58-1a6507db1af2",
+			"547607fa-07ad-4efa-b1a5-1689472c8181",
+			"2595735f-4c0d-4f5c-a100-9c6219fe7b6a",
+			"38bc8298-dd84-48b1-8b15-4a7d5cfac95c",
+			"d3a326b2-ce57-48a3-b59a-93d794963d3c",
+			"fa3b19e2-e6d9-4fdb-9fe8-d5073a3dff19",
+			"3b8e79a2-59ce-4d2b-9d69-afa7ece698d1",
+			"9ab5b3d9-fe6a-4aa0-9610-673aae28c818",
+			"c42c62a5-50d6-4dfe-ae87-79f9f620d6e3",
+			"a9bcaa91-3bed-4232-807b-5f0d856ec037"
+		],
+		"title": "Kracht en beweging",
+		"id": "29f77eb1-965e-46ca-a8bb-1cb4713a0a24",
+		"unreleased": true
+	},
+	{
+		"prefix": "nask1/5",
+		"lpib_vakkern_id": "a2e75d11-1608-4122-b080-c687b9ffc208",
+		"ldk_vaksubkern_id": [
+			"6eb0346a-1d0c-4f83-b47b-830bbab3c592",
+			"e0a35080-786b-4416-a4b1-4064a76f918a"
+		],
+		"doelniveau_id": [
+			"6d274fd7-ee0a-4079-aa9f-dea873d31915",
+			"9a0b5059-6d32-456c-a54a-59009406415a",
+			"381eb24f-15ab-4493-9eb4-1c98e7d8d49f",
+			"251a7bcd-09b4-49ce-b275-410ebdbfbd59",
+			"625a9561-d795-44f2-9268-0a816b3f75a1",
+			"72beec78-1256-4d45-b957-5227fdaaa4e8",
+			"6d089fb5-a8a7-474d-93b9-1dddc178f1fa",
+			"d52ed374-fac1-4f17-b09a-5928d5b3ef0f",
+			"f56741ef-a31c-48b9-8928-f4dfb79d3b17",
+			"f74e1b06-e096-4f0a-9d24-aa88354829ef",
+			"f9de4617-0f1a-45ce-a18f-a333d8f5137c"
+		],
+		"title": "Ruimte",
+		"id": "0a72abfd-3d04-48f8-8b32-4405f75c29ee",
+		"unreleased": true
 	}
 ]
