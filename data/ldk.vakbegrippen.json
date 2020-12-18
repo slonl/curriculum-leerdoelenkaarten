@@ -12037,5 +12037,1175 @@
 		"title": "Landbouw, recreatie, natuurverschijnselen, natuurrampen",
 		"id": "618b38ae-ea16-468b-923b-7b2e431da52f",
 		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"5eea6545-a394-4319-8cb3-1ae29abbdd1c"
+		],
+		"title": "moleculen, atomen, ionen",
+		"id": "09f61107-9456-493a-93d3-6eab90fb65be",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"2b5945b2-7d65-4de3-b99c-a6dc7ea45ab8"
+		],
+		"title": "moleculen, atomen, ionen",
+		"id": "7b116efb-90f5-4d76-ba13-37cf6798b70f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"1e997f1f-1e7f-41ae-b132-70fdbed032df"
+		],
+		"title": "Ag, Al, Ar, Au, Ba, Br, C, Ca, Cd, Cl, Cr, Cu, F, Fe, H, He, Hg, I, K, Mg,N, Na, Ne, Ni, O, P, Pb, Pt, S, Si, Sn, Zn",
+		"id": "20db09f7-6285-441b-891e-72934da5cd29",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"b7019c29-d22d-482a-9ca2-a55a236e6d47"
+		],
+		"title": "Ag, Al, Ar, Au, Ba, Br, C, Ca, Cd, Cl, Cr, Cu, F, Fe, H, He, Hg, I, K, Mg,N, Na, Ne, Ni, O, P, Pb, Pt, S, Si, Sn, Zn",
+		"id": "77f9ee32-62c8-48a1-b8e5-d5b60229be84",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"46321652-6477-4858-a343-6b3571cbe4c0"
+		],
+		"title": "Ag+, Al3+, Ba2+, Br-, Ca2+, Cl-, CO3 2-, Cu2+, F-, Fe2+, Fe3+, H+, I-, K+, Mg2+, Na+, NH4 +, NO3 -, O2-, Pb2+, PO4 3-, S2-, Sn2+, SO4 2-, Zn2+",
+		"id": "84ae617d-aeae-4e0a-aa81-ba4bf7592d2b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"b6347735-475c-493b-b982-6aa08806affd"
+		],
+		"title": "Ag+, Al3+, Ba2+, Br-, Ca2+, Cl-, CO3 2-, Cu2+, F-, Fe2+, Fe3+, H+, I-, K+, Mg2+, Na+, NH4 +, NO3 -, O2-, Pb2+, PO4 3-, S2-, Sn2+, SO4 2-, Zn2+",
+		"id": "9ce20551-bfe5-4d95-86aa-69138bd99f9f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"943be500-3499-46b6-8b2e-5689ffb88235"
+		],
+		"title": "mono, di, tri, tetra en penta, romeinse cijfers",
+		"id": "bd5d022e-e1e0-4574-bcb8-112345ed1d3f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"e9c3bb64-1b1a-44b1-8cd9-c5784d69a8ba"
+		],
+		"title": "mono, di, tri, tetra en penta, romeinse cijfers",
+		"id": "8b20b930-2edc-49b5-aa49-20bca9becb01",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"2f749fce-bd91-4672-bf8c-44cc04433dfb"
+		],
+		"title": "groepen, perioden",
+		"id": "9f4fa1a2-b5b2-45d9-8b80-bec7333b6321",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"666574d0-332f-4056-9294-15986cc40ed6"
+		],
+		"title": "groepen, perioden",
+		"id": "36bbb0b6-0862-4e68-8bdc-6e53048aedff",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"3e8386f9-c359-41fa-a265-43603ae985c0"
+		],
+		"title": "halogenen, edelgassen",
+		"id": "085dc3d8-22ec-48f7-8e97-bdac05bfa6e5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"192591b0-9460-4a55-91b1-21315446e6f4"
+		],
+		"title": "halogenen, edelgassen",
+		"id": "61590b2f-8932-43b2-af37-ccf3f689bd06",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"8602a44c-c7c3-4667-9b54-43d6086c744a"
+		],
+		"title": "toestand van een stof (s,l,g,aq), zuivere stof, mengsel, niet-ontleedbare stof, ontleedbare stof, zouten, moleculaire stoffen, atomaire stoffen",
+		"id": "9635a00e-35ab-4d9a-99c7-ebd9135d4d22",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"689cb985-65e8-4c1e-8c01-0d5c0e155981"
+		],
+		"title": "toestand van een stof (s,l,g,aq), zuivere stof, mengsel, niet-ontleedbare stof, ontleedbare stof, zouten, moleculaire stoffen, atomaire stoffen",
+		"id": "19584e39-ef61-4fc5-83f4-998f472548af",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"75fb676e-d170-4684-9e72-915b3365d53e"
+		],
+		"title": "verbranding, neerslaan, ontleden en neutraliseren",
+		"id": "d458c9b0-be00-44b6-81b3-f2f1a5fa739e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"843ba775-f648-48ad-85c2-4c766ac33c42"
+		],
+		"title": "verbranding, neerslaan, ontleden en neutraliseren",
+		"id": "3c9a5be5-2572-45f1-9edc-e22f1f7a924d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"cf3c2d0a-f419-4b79-a8d9-49f97295f082"
+		],
+		"title": "scheiden van mengsels, elektrische geleiding, oplossen, smelten",
+		"id": "a2e7ce92-9d28-4c4a-a29f-a56bdedfee11",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"3047b3f4-f82a-491c-8cb0-c2e002236c49"
+		],
+		"title": "scheiden van mengsels, elektrische geleiding, oplossen, smelten",
+		"id": "c32e4d74-c4db-45d1-a345-dc9af2b88bf5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"60a9ff91-f115-47c4-a690-6467e781e795"
+		],
+		"title": "fase, kleur, geur, oplosbaarheid in water, kookpunt, smeltpunt, geleiding van elektriciteit/warmte",
+		"id": "394cbbbc-b760-4627-ae37-999350d768da",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"88d711ba-e38b-4935-b04d-00378dd185ef"
+		],
+		"title": "fase, kleur, geur, oplosbaarheid in water, kookpunt, smeltpunt, geleiding van elektriciteit/warmte",
+		"id": "5845e919-579d-4c02-9331-5239e2433b9b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"b01bcd1d-de37-4967-b5c1-f921a42366c9"
+		],
+		"title": "smeltpunt, kookpunt, stolpunt",
+		"id": "a8c22eea-7f4f-4d88-880e-f059a6fba98f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"9ac5808d-e3f6-4616-9ee6-b6c60ed7a944"
+		],
+		"title": "smeltpunt, kookpunt, stolpunt",
+		"id": "857cd892-e836-4365-93fb-5394f3c92b92",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"1ef9d7cf-d1af-4203-9ef8-6bc16b2d24e5"
+		],
+		"title": "smelttraject, stoltraject, kooktraject",
+		"id": "710bceab-1e93-45ac-982c-d4c7c324bb8c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"00618390-a012-4b12-b6cc-0b069dfa84a6"
+		],
+		"title": "smelttraject, stoltraject, kooktraject",
+		"id": "1af000c1-0e24-49df-86e0-d8532472174c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"97c5d72a-fe09-4ad1-bef8-e7637ff37a92"
+		],
+		"title": "suiker, keukenzout, gedestilleerd water, drinkwater, melk, limonade, wijn, bier, jenever, spiritus, azijn, reinigingscrème, tandpasta, shampoo, lucht",
+		"id": "48b3a32e-a85b-4560-8614-9d4e10d7353c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"86c88a0d-296b-4bbd-be18-66f3f7e483c0"
+		],
+		"title": "suiker, keukenzout, gedestilleerd water, drinkwater, melk, limonade, wijn, bier, jenever, spiritus, azijn, reinigingscrème, tandpasta, shampoo, lucht",
+		"id": "d9d3fef1-f298-430f-ab9c-b549092976b2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"bb8a714f-d937-4913-bad4-75a1ce7834dd"
+		],
+		"title": "Amalgaan, brons, messing, soldeer",
+		"id": "81bd4891-cc8d-4f2e-adf4-af5c79d70437",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"267a797b-0224-4236-8fc1-e0ab039bdf6c"
+		],
+		"title": "Amalgaan, brons, messing, soldeer",
+		"id": "ec09a28e-0d09-48a7-ae3d-58113ab04aff",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"0d31eb19-bb1e-4b2d-9aca-6a9b98e7344e"
+		],
+		"title": "emulsie, suspensie, schuim, rook, nevel, legering, oplossing",
+		"id": "dcdb1fc3-e39f-45f9-b1bf-5e27a160cd31",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"306c9908-6057-4beb-9506-d5dbebe2a421"
+		],
+		"title": "emulsie, suspensie, schuim, rook, nevel, legering, oplossing",
+		"id": "1ff9d263-187d-4e47-9700-9b7500457479",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"d63a8179-3731-45f4-a492-b01251d232ac"
+		],
+		"title": "bleekwater, gootsteenontstopper, huishoudchemicaliën, zuren en basen, aardgas, benzine, spiritus",
+		"id": "2c352327-cea1-4487-8b4c-7ed712b39068",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"48df766b-b222-4065-8f9a-8428592b89da"
+		],
+		"title": "bleekwater, gootsteenontstopper, huishoudchemicaliën, zuren en basen, aardgas, benzine, spiritus",
+		"id": "bc1dfc8f-bfce-4412-a102-855e72c6f4aa",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"0ab3a777-06bc-4cf2-9b97-09f0731358f8"
+		],
+		"title": "aantasting huid- en slijmvliezen, aantasting ogen, giftigheid, brandbaarheid, explosiegevaar",
+		"id": "102a8b7c-fa58-4539-9f1b-e7c38c4fc00c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"8e8a1457-e5fd-4991-b630-3ba15c739701"
+		],
+		"title": "aantasting huid- en slijmvliezen, aantasting ogen, giftigheid, brandbaarheid, explosiegevaar",
+		"id": "53d74cde-8bdb-496d-a0f4-a83657d56bf4",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"a720e7fb-e723-4843-ae63-9adbcbf6a79c"
+		],
+		"title": "α-, β-, γ-straling, röntgenstraling, centimetergolven(magnetron)",
+		"id": "71751834-fd0e-4609-b04a-1f00046ba673",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"d69d1629-2d6c-4f57-ae0e-001bb75630bd"
+		],
+		"title": "α-, β-, γ-straling, röntgenstraling, centimetergolven(magnetron)",
+		"id": "30696dbf-4d87-4054-b992-594ac1f9aecf",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"b842112e-7558-480d-af96-053c24f8b779"
+		],
+		"title": "winning, zuivering, distributie",
+		"id": "eaa5d92e-2cde-4328-a776-c0ef7104b08f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"35630614-653c-469d-a58c-442ded585b59"
+		],
+		"title": "winning, zuivering, distributie",
+		"id": "12e36a16-4ae8-4c47-aaaf-0abc1d20e8d8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"93fb4b9f-fd88-4bce-bb33-5487c2fb3635"
+		],
+		"title": "drinkwater, zeewater, regenwater, oppervlaktewater, grondwater",
+		"id": "bfaef5bd-821a-423c-83f8-dd9c3b93e19a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"c71b50eb-2c38-4196-bceb-63063301dc87"
+		],
+		"title": "drinkwater, zeewater, regenwater, oppervlaktewater, grondwater",
+		"id": "f8af90b0-54d3-4295-b533-00e067b74462",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"47e688df-070f-47bc-927f-844269b48d01"
+		],
+		"title": "drinkwater, zeewater, regenwater, oppervlaktewater, grondwater",
+		"id": "9ba4117f-fcee-404a-807b-e9f59a51512f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"19279d32-972e-438a-905d-3fa7924b967e"
+		],
+		"title": "drinkwater, zeewater, regenwater, oppervlaktewater, grondwater",
+		"id": "b33e7104-d3af-4f6b-a352-9b43215de8f3",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"b431732f-a2b0-4283-bec0-d26c245715b8"
+		],
+		"title": "spoelmiddel, zeep",
+		"id": "b9ae60c4-d466-479d-beba-763efe20d939",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"5854242a-f1a8-4413-a058-69d3f3c7f1f8"
+		],
+		"title": "spoelmiddel, zeep",
+		"id": "ffbbe51e-b08e-4b2e-9e04-c00e4b6ba546",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"1aad68f3-5532-4302-bb26-2e8d1fe32f56"
+		],
+		"title": "ketelsteen, kalkzeep",
+		"id": "b9db47a3-9b8b-4d06-a6da-a586e72927b2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"56913127-8715-4264-b313-34eaf9ccbb41"
+		],
+		"title": "ketelsteen, kalkzeep",
+		"id": "3b275a73-31df-4f4b-a8b7-a477f87ce88e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"3a457240-3ad1-4084-b08b-c3a14f4233c1"
+		],
+		"title": "ionenwisselaar, waterontharder, neerslagreactie, koken van water",
+		"id": "1fd08213-f361-484a-baa0-e823a99612b4",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"226c84e8-d118-406e-b539-59989addb311"
+		],
+		"title": "ionenwisselaar, waterontharder, neerslagreactie, koken van water",
+		"id": "906d8aa6-3416-4d93-b0ee-ee016a563758",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"77935fda-ad56-4396-947e-d4f38636cbf1"
+		],
+		"title": "soort stof, temperatuur, verdelingsgraad, katalysator, concentratie",
+		"id": "e557083f-2a76-40eb-8d87-f2dd9bca3108",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"28b068b5-5c22-4b01-b470-234215e31f0e"
+		],
+		"title": "soort stof, temperatuur, verdelingsgraad, katalysator, concentratie",
+		"id": "e9718cba-d999-42e2-b8b2-60201548ea0a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"d97fee0f-2e7e-4694-921e-ea6cf084a1c1"
+		],
+		"title": "significante cijfers",
+		"id": "251a2a9e-f63c-42e4-8ee2-fc58905d00e9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"136e205c-02b2-451f-8723-18f8ef44dada"
+		],
+		"title": "significante cijfers",
+		"id": "94855ee9-b60a-405c-b574-a79dc76fe59a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"69a285a0-f246-4151-8298-06f980bc541b"
+		],
+		"title": "beginstoffen, atoommassa, molecuulmassa, volumepercentage, massaverhouding, overmaat, massapercentage",
+		"id": "819a8287-a6fe-43e8-9f7e-03a2e2aca5a6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"393e3467-0c6e-420c-9c03-bd81386b666d"
+		],
+		"title": "beginstoffen, atoommassa, molecuulmassa, volumepercentage, massaverhouding, overmaat, massapercentage",
+		"id": "a8b1015c-6c5e-491d-bcbf-1d7651ab154c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"6e62997b-4841-456a-a143-0a96a49e3ccf"
+		],
+		"title": "pH, pH-schaal",
+		"id": "e840c347-221a-4b02-94b9-4042e56e682b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"beb170ca-e197-432c-9d00-0d463aef9e2d"
+		],
+		"title": "pH, pH-schaal",
+		"id": "0bc3cee3-a08b-4dd4-8371-d5c98dc4e124",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"86e5f555-afd8-4c4c-8a53-bd31de67d9e9"
+		],
+		"title": "eindpunt, kleuromslag",
+		"id": "44aa3b9c-e0ff-42a2-bb68-ca28756e3e77",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"2241f618-652e-43fe-ab6b-cd52d3cf2584"
+		],
+		"title": "eindpunt, kleuromslag",
+		"id": "42d22893-d7bb-4404-a222-0c54a136c42c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"b0534046-da82-40eb-a374-919c8333d921"
+		],
+		"title": "elektrolyse, thermolyse, fotolyse",
+		"id": "711d1c36-d81a-4917-b965-192b1a7470ab",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"deea9fb9-f46e-465a-9476-40f00138a33d"
+		],
+		"title": "elektrolyse, thermolyse, fotolyse",
+		"id": "c848ed03-4828-4de7-a539-96c0a982b4b1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"838a70e4-5c01-40a6-bde1-72811faaba29"
+		],
+		"title": "filtreren, bezinken, extraheren, adsorptie, destilleren, indampen",
+		"id": "87039cba-e658-4d5a-b996-530cfe58af27",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"f64cea65-c6d4-4d2f-a7be-2a4d9bfe717e"
+		],
+		"title": "filtreren, bezinken, extraheren, adsorptie, destilleren, indampen",
+		"id": "bbaac544-3ddc-4300-b642-5f5d1773097d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"5efe01c0-1002-4072-85a8-46a19c02b329"
+		],
+		"title": "rodekoolsap, lakmoes, fenolftaleïene, universeel indicator",
+		"id": "08a3de29-760b-4bdc-81a8-78362816d246",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"2048b4e5-089f-498d-a9ca-05b9fa699ca9"
+		],
+		"title": "rodekoolsap, lakmoes, fenolftaleïene, universeel indicator",
+		"id": "b1b0734e-8ab4-478b-b5a9-77d6a18f3536",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"cab8927f-d41a-49df-a1b3-2d3f5332ca79"
+		],
+		"title": "vlamkleuring, neerslagreacties",
+		"id": "06c262a8-65b0-4559-b8b2-ecabc6403406",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"ae93fc89-3255-4538-b440-d248c0017c6a"
+		],
+		"title": "vlamkleuring, neerslagreacties",
+		"id": "89a25506-8ddb-4f65-b766-c5a7f1f84d89",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"5569349e-9f67-4310-b8bb-eb08dfce2ec8"
+		],
+		"title": "E-nummers",
+		"id": "116bc80f-458e-4143-a365-93bc729592ca",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"348ec1fb-2c6b-4fc1-b52a-71a79ab13581"
+		],
+		"title": "E-nummers",
+		"id": "d8fdaa29-ba67-4df9-8d01-67dbfe998cba",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"426f3c7e-64b5-4b29-ba77-8f4d0f344c93"
+		],
+		"title": "neerslagreacties",
+		"id": "b69cc5f9-8293-4c87-94c1-1c62f3b23e98",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"3f607c62-e0d1-45d8-aede-e6159936062f"
+		],
+		"title": "neerslagreacties",
+		"id": "bad3e842-9232-4a5b-9729-0e74c55647b0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"59c98431-a0d6-4212-a26b-c994857c25d5"
+		],
+		"title": "neerslagreacties",
+		"id": "e9ed9b35-da2c-4413-8e4b-c9131e81eaac",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"21599372-5ad2-4c63-a223-005f20ad1a0e"
+		],
+		"title": "neerslagreacties",
+		"id": "01e9c640-aee4-4c5f-9ccb-61a02decd7a5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"3bd418ff-0a38-4860-a927-8d8024f2c918"
+		],
+		"title": "stoftoestand",
+		"id": "7bfc41fc-3bc7-4e5c-b79c-779f5856b6de",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"9dd6e70f-1732-4804-8ade-6fa5f79c3e9d"
+		],
+		"title": "stoftoestand",
+		"id": "b356e833-36aa-4573-87f8-8cec44b12097",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"4f32aefd-0dea-42de-8538-3c089af74231"
+		],
+		"title": "beginstoffen, reactieproducten",
+		"id": "c8cd56e2-55cf-441b-8503-fd9668ab27c9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"ed15a76f-bc4d-4a90-a6fb-e728a612cb77"
+		],
+		"title": "beginstoffen, reactieproducten",
+		"id": "068aafd4-7785-4379-b232-77a839054e89",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"2d13bc9b-088a-4d59-85c0-ea33e84061cd"
+		],
+		"title": "voedselbereiding, verteren van voedsel, verkleuren rotten, bederven haar permanenten, haar verven, ontsmetten, werking van bestrijdingsmiddelen, harden van cement",
+		"id": "0270f868-5cf7-4f17-b2f6-73adb401c448",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"04e8fcba-4632-497f-a6b0-5fbfdacbf71d"
+		],
+		"title": "voedselbereiding, verteren van voedsel, verkleuren rotten, bederven haar permanenten, haar verven, ontsmetten, werking van bestrijdingsmiddelen, harden van cement",
+		"id": "25fbbf0a-720b-41aa-80cb-dc31cd742e2e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"a5a44aaf-cad0-4b42-b41c-bcb6a2fa1a1e"
+		],
+		"title": "beginstof, molecuulformules, eindproduct",
+		"id": "c9791573-f4af-420c-a122-f3b06d62b086",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"e0c3d50e-092d-4a80-a4a3-d77e883a0779"
+		],
+		"title": "beginstof, molecuulformules, eindproduct",
+		"id": "7101335f-53a3-40aa-9de0-78821f560330",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"0878c02b-d813-4de5-b687-d7ba6c68ea61"
+		],
+		"title": "water, waterstofperoxide, ammoniak, koolstofmono-oxide, koolstofdioxide, zwaveldioxide, zwaveltrioxide, zuurstof, waterstof, halogenen, soda, keukenzout, alcohol, glucose",
+		"id": "0b41f1fe-9ef9-4edd-90a9-6aa1e28d27b5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"f83b9f03-8393-4c75-a18b-ae6ec82e30cc"
+		],
+		"title": "water, waterstofperoxide, ammoniak, koolstofmono-oxide, koolstofdioxide, zwaveldioxide, zwaveltrioxide, zuurstof, waterstof, halogenen, soda, keukenzout, alcohol, glucose",
+		"id": "4c26b02f-4d12-4a0c-ada6-31812d90984f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"933f6d24-191d-44dd-9d16-11b2736afc67"
+		],
+		"title": "neutraliseren, ontkalken",
+		"id": "5b962752-b926-4799-a8fa-4153ca543013",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"8cb47c7b-cf6f-4ede-9555-659a1a918624"
+		],
+		"title": "neutraliseren, ontkalken",
+		"id": "03fd0281-4598-49b8-a3ae-9142f032c2de",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"2a1b8605-be74-465f-8cc2-cceb0f9e8dee"
+		],
+		"title": "zuren: HCl, HNO3, H2SO4,HAc basen: NH3, zouten met OH-, zouten met O2-, zouten met CO32-",
+		"id": "5dfef26c-c971-44a0-9ab9-bd47a5abf693",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"93ea7f7c-da6f-4284-b0cb-6faf3913ca21"
+		],
+		"title": "zuren: HCl, HNO3, H2SO4,HAc basen: NH3, zouten met OH-, zouten met O2-, zouten met CO32-",
+		"id": "c1b12116-0a45-4b4f-a412-efdb3f7e4313",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"1f596379-1949-4fbb-badf-fc92d8a79174"
+		],
+		"title": "zoutzuur, verdund salpeterzuur, verdund zwavelzuur, koolzuurhoudend water, azijn, natronloog, kalkwater, ammonia",
+		"id": "30ff5309-12f4-46ef-bff8-4e719c1b3e78",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"45ebd32d-dcdc-4584-ac05-2ebdfb7e07c8"
+		],
+		"title": "zoutzuur, verdund salpeterzuur, verdund zwavelzuur, koolzuurhoudend water, azijn, natronloog, kalkwater, ammonia",
+		"id": "c78c6a1f-8d9e-49a1-a0af-f15dbc89c7f4",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"6cdc2dc2-7582-407a-a41b-087fa42f39c9"
+		],
+		"title": "stroomgeleiding, etsende werking, kleuring van indicatoren, aantasting van kalksteen",
+		"id": "229ab86d-b87f-45d5-9d74-6a3a220a4f08",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"b61856f5-d0fb-4361-9e68-a4d16387ae89"
+		],
+		"title": "stroomgeleiding, etsende werking, kleuring van indicatoren, aantasting van kalksteen",
+		"id": "294f2b29-2f08-40f4-8320-233f38a9df34",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"5543ce88-57ea-4b6c-bea8-bf82bfd914e9"
+		],
+		"title": "ontvettende werking, huidirritatie, kleuring van indicatoren",
+		"id": "ab9f41d5-019e-4589-a043-388e4177a804",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"7be86206-25a8-46ff-b484-72bac911caab"
+		],
+		"title": "ontvettende werking, huidirritatie, kleuring van indicatoren",
+		"id": "a7bab24b-3d71-4c35-b2b2-db9b2482bc84",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"fe8a7499-69a5-47c6-b969-f7afb3fa0bb4"
+		],
+		"title": "rodekoolsap lakmoespapier fenolftaleïen universeel indicatorpapier digitaal meetinstrument, omslagtraject",
+		"id": "e28aac59-d8e4-4d4c-9218-3f62c8c86faa",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"0f2f05df-bd07-4c8f-bb82-c14606df824c"
+		],
+		"title": "rodekoolsap lakmoespapier fenolftaleïen universeel indicatorpapier digitaal meetinstrument, omslagtraject",
+		"id": "7b64b6c4-4ebb-4d27-82ed-77a76ef17d28",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"dfd0a291-fc98-44c1-906b-22c2c2a88a84"
+		],
+		"title": "concentratie van H+, OH-ionen, pH, waterige oplossing",
+		"id": "7e83ebcb-b022-4fac-9bb6-dea04514879a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"f4298e1b-2e13-44fc-9dbe-a0dcf26cb679"
+		],
+		"title": "concentratie van H+, OH-ionen, pH, waterige oplossing",
+		"id": "3e926a3b-0bac-4e48-bc26-b770903d1820",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"d2a9a08b-9744-467d-b9f1-c506c1ce5a4b"
+		],
+		"title": "schoonmaakazijn, mierenzuur, zoutzuur, ontkalkingsmiddelen, soda, natronloog, ammonia, bleekwater, gootsteenontstopper",
+		"id": "7bde6c7c-e344-4c7c-91a9-59bcf41c52d1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"6befa6cd-df4e-45a4-bc94-d39a39bc4b65"
+		],
+		"title": "schoonmaakazijn, mierenzuur, zoutzuur, ontkalkingsmiddelen, soda, natronloog, ammonia, bleekwater, gootsteenontstopper",
+		"id": "4d0010c5-1bac-4341-a75c-15d3695ea1dc",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"37f6046b-acb4-4aa1-a559-06514597b006"
+		],
+		"title": "hydrofiel, hydrofoob, emulgator",
+		"id": "a538fefc-7c70-4e09-ba48-9ebafd1e5365",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"425b5140-4b27-4893-a174-83b39061f4c1"
+		],
+		"title": "hydrofiel, hydrofoob, emulgator",
+		"id": "02a2ff9a-3e88-4c76-9c72-23c9ef94ba31",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"2771dc9e-fe74-46d3-9d18-d4186f76cdc6"
+		],
+		"title": "water, alcohol, aceton, wasbenzine",
+		"id": "6040e96f-1683-40fc-9027-aa5e0f2f4f0c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"5494d9dc-50c9-49e0-86bb-649ec834fe64"
+		],
+		"title": "water, alcohol, aceton, wasbenzine",
+		"id": "836fc097-569f-45ab-8eb2-68d52eee8ab5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"68da59eb-507b-42ed-a8a8-d0b49d170561"
+		],
+		"title": "emulgerend",
+		"id": "3e54305b-6fad-4e93-aaed-a15a546d8761",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"139a7659-a59b-42e9-a106-ae1791203423"
+		],
+		"title": "emulgerend",
+		"id": "240a590c-d19b-4858-8e20-a73a32a3b2fa",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"8bd9317d-787e-49a3-8ea4-7d1f05f65dbe"
+		],
+		"title": "hoogovenproces, elektrolyse",
+		"id": "08b032ae-5796-4994-9dd6-4bd8e8fecc96",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"6a052179-5fd3-45b9-a80d-b7142b740789"
+		],
+		"title": "hoogovenproces, elektrolyse",
+		"id": "ff1dafc6-3d6a-4172-9c34-b6a963edefd5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"826c4791-33b3-41f5-91d9-30a2f5b15058"
+		],
+		"title": "stroom- en watergeleiding, corrosie, smeedbaar, glans",
+		"id": "3b501ce0-6a03-4d46-bb78-0d4ecd296e59",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"ee78927d-86ac-4431-a28d-a85b3f903b6f"
+		],
+		"title": "stroom- en watergeleiding, corrosie, smeedbaar, glans",
+		"id": "2017220b-6ba8-4938-bbcb-669eebb1e7aa",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"97f98803-44c0-4372-8d6d-64ba3144d026"
+		],
+		"title": "goud, zilver, platina, natrium, kalium, calcium",
+		"id": "531a535e-fc08-480b-9ea4-f8c7104f1a3a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"3e1b0632-f0e2-4928-877d-589616683be3"
+		],
+		"title": "goud, zilver, platina, natrium, kalium, calcium",
+		"id": "3b005556-7dfe-4c20-8852-dbec354b9e0b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"01540673-0033-491b-83a6-aca7b87b260d"
+		],
+		"title": "lood, kwik en cadmium",
+		"id": "42d44afe-3c00-40ed-8b6c-e3cb4649f6fb",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"05265ea8-30c5-47bd-aca7-c5157e0368b0"
+		],
+		"title": "lood, kwik en cadmium",
+		"id": "b6745c15-c919-430a-a630-d57b4c4f8583",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"3d4702a1-cf29-40af-9fe9-237071c101b9"
+		],
+		"title": "olieraffinaderij, destilleren, fracties, LPG, benzine, kerosine, diesel, stookolie, asfaltbeton, kunststoffen, smeermiddelen",
+		"id": "91d71715-1403-449f-85a2-6ac016148894",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"0bd57d56-464c-4358-a4d6-428f8c0efd18"
+		],
+		"title": "olieraffinaderij, destilleren, fracties, LPG, benzine, kerosine, diesel, stookolie, asfaltbeton, kunststoffen, smeermiddelen",
+		"id": "9ee0924f-5d51-4e74-bfca-cff19dbf6baf",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"d26d2669-2f27-4497-91da-f696b5da779b"
+		],
+		"title": "verwerking, omvormen, prijs",
+		"id": "783b2599-8a4c-4865-bd74-77098ad45fe0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"1a9a3209-192b-4528-9088-eb2b9a7edf8c"
+		],
+		"title": "verwerking, omvormen, prijs",
+		"id": "0445d618-ac8d-4b52-9961-5cbfaf7e3914",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"af7ab248-5c91-45f2-a3c1-2c8f43256a0d"
+		],
+		"title": "thermoplasten, thermoharders",
+		"id": "fef6c24b-841f-4529-9cd2-245dd7e929f0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"925e14ca-f769-429c-9461-304536b2e2a9"
+		],
+		"title": "thermoplasten, thermoharders",
+		"id": "8da97c14-6500-4ae7-8a74-b39cc2ebd4e7",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"ebf41b4c-aefe-4c9d-b5fa-62c95d8098e3"
+		],
+		"title": "polymeriseren, monomeer",
+		"id": "d819efcb-bfc0-4232-9839-cf55b1be5241",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"53e29497-8abc-4b64-a426-86a4acf2de83"
+		],
+		"title": "polymeriseren, monomeer",
+		"id": "156d555f-99c5-47aa-b9f5-d0e10ebfeee2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"bc17b170-2c2e-4a94-9e23-d901b6db8364"
+		],
+		"title": "rook, roet vlam, vonk, warmte-ontwikkeling verontreiniging van de lucht",
+		"id": "0968d8e6-823c-4f88-8310-c9a6531eed6a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"c824e311-74c0-4212-995f-23dc50f224d2"
+		],
+		"title": "rook, roet vlam, vonk, warmte-ontwikkeling verontreiniging van de lucht",
+		"id": "cdc2c421-355d-4264-a6da-b89b3e44eab1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"c1f5a2c4-bf32-401a-8164-3db6caa6347c"
+		],
+		"title": "water, zand, schuim, koolstofdioxide, blusdeken",
+		"id": "6a1c7af9-d6f7-4bca-a7ff-83ffd3c85d50",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"9deef008-2606-4839-a4ba-8985e7c6b43e"
+		],
+		"title": "water, zand, schuim, koolstofdioxide, blusdeken",
+		"id": "89089caa-10e1-482f-9af7-433f60385b08",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"be60c84a-5a58-448b-90dd-3f1f1e6af8aa"
+		],
+		"title": "aardolie, aardgas, steenkool, bruinkool, cokes, aardgas, benzine, koolwaterstoffen, ontbrandings-temperatuur",
+		"id": "911e4057-c27a-4b19-b2b2-6d0d92708b54",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"777cfd03-7fb2-4867-a88a-68170fa7a9ed"
+		],
+		"title": "aardolie, aardgas, steenkool, bruinkool, cokes, aardgas, benzine, koolwaterstoffen, ontbrandings-temperatuur",
+		"id": "8d1b2c0d-a402-4b44-924b-98ef4ed1515d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"56863dc3-417a-4a4b-ae94-5ff2f8d3bac7"
+		],
+		"title": "Koolstofoxiden",
+		"id": "3a01ed9c-6f13-4541-9004-39871889ee7e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"8a022b4b-ae4a-4b90-9c1b-6882241e1099"
+		],
+		"title": "Koolstofoxiden",
+		"id": "5ba989e0-1ffb-454f-a2aa-11c37111ef02",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"9de91b8a-9edd-4bfc-afaa-19a5a551d25b"
+		],
+		"title": "SO2, NOx, CO2, CFK's, UV-straling, ozonlaag",
+		"id": "68132423-35b0-496a-9c60-f002dcf8277e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"8121a0ce-d8ac-462a-b8a9-d09c5beb5b10"
+		],
+		"title": "SO2, NOx, CO2, CFK's, UV-straling, ozonlaag",
+		"id": "d4bb50d0-8f4c-4e73-bf20-510ac5986a6e",
+		"unreleased": true
 	}
 ]
