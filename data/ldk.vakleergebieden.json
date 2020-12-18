@@ -59,5 +59,18 @@
 		"title": "Natuur- en scheikunde I",
 		"id": "65cd5755-ee19-4f61-a74e-fb3a34aae5d9",
 		"unreleased": true
+	},
+	{
+		"prefix": "nask2",
+		"vakleergebied_id": "428c0a27-1cc2-41f0-9f24-36c1d1f1a461",
+		"ldk_vakkern_id": [
+			"5010d338-ab9b-4136-b4a0-4a551ecef9f4",
+			"9037c2ac-8f86-4399-8bca-229bc459ad39",
+			"92ac7b4b-79a1-411b-a4d3-0d383f30d6dc",
+			"48e1a6fa-6a6a-4d8e-8321-02ee522e1c8a"
+		],
+		"title": "Natuur- en scheikunde II",
+		"id": "976e6a88-0d14-4627-8ce4-b1c1df9e6c94",
+		"unreleased": true
 	}
 ]
