@@ -826,5 +826,113 @@
 		"title": "Energie",
 		"id": "48e1a6fa-6a6a-4d8e-8321-02ee522e1c8a",
 		"unreleased": true
+	},
+	{
+		"prefix": "na/1",
+		"lpib_vakkern_id": "be811eac-f168-4c9a-bfe9-b82c44b89dd1",
+		"ldk_vaksubkern_id": [
+			"8069fd9a-5ddc-4b84-86a1-032b363070b5",
+			"519d1faf-746b-42f7-bb0b-03b13f094ee1",
+			"654fb7a8-b340-4b0c-8cce-f8930834a75f"
+		],
+		"doelniveau_id": [
+			"6d274fd7-ee0a-4079-aa9f-dea873d31915",
+			"16a5b44d-87cd-4aff-a03b-133842224479",
+			"381eb24f-15ab-4493-9eb4-1c98e7d8d49f",
+			"1acefaf3-4dc2-40b7-aa61-a0a6addf6a57",
+			"547607fa-07ad-4efa-b1a5-1689472c8181",
+			"59e692a0-231b-4229-a118-873e11ff0eea",
+			"f55cf047-def6-49f5-9398-1c2b69e26f85",
+			"afe6a548-1139-4d1c-b636-f26d365242d9",
+			"46f15ad1-cf78-431e-92e7-0bef184e3e2b",
+			"21e31996-5714-4c95-914c-af934640ec0a"
+		],
+		"title": "Materie",
+		"id": "0b3fd391-4066-4002-a76c-90f0e27311cf",
+		"unreleased": true
+	},
+	{
+		"prefix": "na/2",
+		"lpib_vakkern_id": "25f859f3-dcc5-41f4-aeca-38e56eef17e5",
+		"ldk_vaksubkern_id": [
+			"a99b25e8-4176-4aa5-910f-559c0da61b14",
+			"af1e0ce7-0e85-4288-aef0-2e579b943559",
+			"4abe2ab1-2a13-49ab-82ec-4725e1dac622",
+			"a2a7ea45-26e3-4596-a926-6d62c72e2478",
+			"b042d041-cedc-4cf4-b199-cb4b2c5949bc"
+		],
+		"doelniveau_id": [
+			"6d274fd7-ee0a-4079-aa9f-dea873d31915",
+			"f3a01548-bc97-4037-8bb2-d728650e17d1",
+			"381eb24f-15ab-4493-9eb4-1c98e7d8d49f",
+			"11b7b3de-4e2f-46f0-bd91-d027d9906a02",
+			"547607fa-07ad-4efa-b1a5-1689472c8181",
+			"76d98b21-38fb-4bab-97fa-0ac40b71a8f6",
+			"11dd72f6-4a5d-457c-91df-effd58e792d6"
+		],
+		"title": "Energie",
+		"id": "5a776a18-7380-4ad9-9836-fe8452dbba69",
+		"unreleased": true
+	},
+	{
+		"prefix": "na/3",
+		"lpib_vakkern_id": "f0b276d0-4c20-4cfc-b875-0385f332f699",
+		"ldk_vaksubkern_id": [
+			"8a43c7a0-7df1-4db5-83ec-77d948d49a59",
+			"2b543c7d-ca93-45f0-a1ce-cd1fd8913349",
+			"d7551f7a-7839-475c-bcac-e6ee9aa887cd",
+			"9e959aac-2b8b-4518-a707-ddbb627c598c"
+		],
+		"doelniveau_id": [
+			"6d274fd7-ee0a-4079-aa9f-dea873d31915",
+			"cd5ab74e-fb81-40ec-b19b-1ffacca6a307",
+			"381eb24f-15ab-4493-9eb4-1c98e7d8d49f",
+			"c81cbdd1-6bbf-442b-a07d-b31f7c79aa3b",
+			"547607fa-07ad-4efa-b1a5-1689472c8181",
+			"83dba68b-67bf-40a2-a2a0-935885b9c869",
+			"4fd32b01-59e8-46cf-a801-8f84d373bd7b"
+		],
+		"title": "Licht, geluid en straling",
+		"id": "c15332fe-ff10-4422-a702-a3050f937a63",
+		"unreleased": true
+	},
+	{
+		"prefix": "na/4",
+		"lpib_vakkern_id": "0a47ec81-5636-435d-8646-35dc517932ad",
+		"ldk_vaksubkern_id": [
+			"24b24446-ee59-4c00-96db-b0a6f93bb49e",
+			"bfd1c208-2c73-4b47-8eb7-166396da9cc6",
+			"1391416e-3103-43dc-8a52-1af6c6655520",
+			"e986d8cb-019a-4d1b-bf11-5ec4d37967a5"
+		],
+		"doelniveau_id": [
+			"6d274fd7-ee0a-4079-aa9f-dea873d31915",
+			"7785625a-9617-4e89-b10f-696b75343e2b",
+			"5846a598-2838-4fee-b1a4-7532b33c5867"
+		],
+		"title": "Kracht en beweging",
+		"id": "6f49d766-8696-4a32-baf7-051421bb10b7",
+		"unreleased": true
+	},
+	{
+		"prefix": "na/5",
+		"lpib_vakkern_id": "830a70ae-d543-4ce9-9577-0450e254cf7d",
+		"ldk_vaksubkern_id": [
+			"4d73f9d6-b921-4c4a-957f-d1beede03a1a",
+			"7dcc6d62-4b8b-4fac-bf95-750d5878d7d9",
+			"dee528a1-85a5-4f24-92ef-7f749cb1c772",
+			"cabf19fd-9741-461b-b132-c30504c25916"
+		],
+		"doelniveau_id": [
+			"6d274fd7-ee0a-4079-aa9f-dea873d31915",
+			"f8b17b76-8b6c-4f75-9713-13fd21d8c23a",
+			"381eb24f-15ab-4493-9eb4-1c98e7d8d49f",
+			"c5e6e663-1962-414d-b990-8907ee732aca",
+			"8f32eb40-6343-497e-ac5b-5af8379a5bc5",
+			"f6e05163-e42f-4e7b-a5db-ac953f31150f"
+		],
+		"title": "Ruimte",
+		"id": "e7b50d18-9250-4b58-a2f6-260daf1e4e71",
+		"unreleased": true
 	}
 ]
