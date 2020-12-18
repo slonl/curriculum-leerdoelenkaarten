@@ -72,5 +72,19 @@
 		"title": "Natuur- en scheikunde II",
 		"id": "976e6a88-0d14-4627-8ce4-b1c1df9e6c94",
 		"unreleased": true
+	},
+	{
+		"prefix": "na",
+		"vakleergebied_id": "e14b7d76-d5f5-4788-a9e1-bf35269a72d8",
+		"ldk_vakkern_id": [
+			"0b3fd391-4066-4002-a76c-90f0e27311cf",
+			"5a776a18-7380-4ad9-9836-fe8452dbba69",
+			"c15332fe-ff10-4422-a702-a3050f937a63",
+			"6f49d766-8696-4a32-baf7-051421bb10b7",
+			"e7b50d18-9250-4b58-a2f6-260daf1e4e71"
+		],
+		"title": "Natuurkunde",
+		"id": "1f277fe0-b40b-45aa-a239-fa5cf7d4e40b",
+		"unreleased": true
 	}
 ]
