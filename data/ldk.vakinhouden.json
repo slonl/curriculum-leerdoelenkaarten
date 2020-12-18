@@ -601,5 +601,308 @@
 		"title": "Voor het centraal examen gaat het daarbij om het opstellen van bedrijfseconomische werkwijzen, het uitleggen van bedrijfseconomische begrippen en grootheden en het analyseren van bedrijfseconomische relaties.",
 		"id": "a3c7c542-070e-4c06-8b9b-44d412facef1",
 		"unreleased": true
+	},
+	{
+		"prefix": "ak/1/1/1",
+		"lpib_vakinhoud_id": "c8c16e30-2288-4dc7-85cd-7fd5249080bb",
+		"doelniveau_id": [
+			"e53eebfa-71c6-40ea-9d39-a44b00269d9d"
+		],
+		"title": "Leefbaarheid in de eigen regio",
+		"id": "41ed6649-0642-4812-ac61-72ea43dfc8da",
+		"unreleased": true
+	},
+	{
+		"prefix": "ak/1/2/1",
+		"lpib_vakinhoud_id": "d8eab43f-626a-48cc-bb3d-a89227aa05ea",
+		"doelniveau_id": [
+			"481ad3b4-1b41-48f3-b858-db03bd700e9e"
+		],
+		"title": "Spreiding van culturen in Nederland",
+		"id": "9a6b73e8-696e-478d-a0b1-1ed3bf0eac12",
+		"unreleased": true
+	},
+	{
+		"prefix": "ak/1/3/1",
+		"lpib_vakinhoud_id": "64401e22-10bd-4962-afee-0c7b9be76a48",
+		"doelniveau_id": [
+			"90e050ee-320c-497f-9aec-3c4b8f0636a3"
+		],
+		"title": "Internationale samenwerking en mondiale kwesties",
+		"id": "350d573e-ba48-46d5-9291-78f4f5d98ffc",
+		"unreleased": true
+	},
+	{
+		"prefix": "ak/2/2/1",
+		"lpib_vakinhoud_id": "f6d38e24-63ec-403b-91b8-0034a646498a",
+		"doelniveau_id": [
+			"4f4b7103-3ee6-48cc-9a4a-2bb1b5b69583"
+		],
+		"title": "Natuurlijke hulpbronnen (water, voedsel en energie) in het dagelijks leven",
+		"id": "6655e715-24fa-41c8-b6bb-096d19f2f7b6",
+		"unreleased": true
+	},
+	{
+		"prefix": "ak/2/2/2",
+		"lpib_vakinhoud_id": "c175be56-3a20-4c4c-a84a-cb80f1a10685",
+		"doelniveau_id": [
+			"cfb00a86-1a8c-4b9d-a3fa-da6d1ebd43e5"
+		],
+		"title": "Voedselproductie en consumptie",
+		"id": "5ca36250-319e-494d-afb9-56ae852498a2",
+		"unreleased": true
+	},
+	{
+		"prefix": "ak/2/4/1",
+		"lpib_vakinhoud_id": "1c887f2d-f0ad-4223-9def-39179f4dc69e",
+		"doelniveau_id": [
+			"e32f28e4-2726-4dd7-a1a4-a9c21aee8efe"
+		],
+		"title": "Oorzaken en gevolgen van het broeikaseffect.",
+		"id": "7444fc6e-208d-499f-b3b4-a27784af37e7",
+		"unreleased": true
+	},
+	{
+		"prefix": "ak/3/1/1",
+		"lpib_vakinhoud_id": "9b934f43-6b56-472b-ba5e-bd8fcddfae10",
+		"doelniveau_id": [
+			"f379bd2a-35a0-4024-a2b5-b85595295447"
+		],
+		"title": "Demografische veranderingen op nationaal niveau",
+		"id": "e4bfb918-e01c-45dc-911e-acd8c1256c6b",
+		"unreleased": true
+	},
+	{
+		"prefix": "ak/3/1/b",
+		"lpib_vakinhoud_id": "f578c05c-316e-44d6-80de-e23a5f395535",
+		"doelniveau_id": [
+			"1e9de2c0-c2f0-4d30-b19c-a8043c5a8e73"
+		],
+		"title": "Bevolkingsspreiding en natuurlijke omgeving",
+		"id": "f34f9841-0aa0-4803-ba23-9dbda7c52fb3",
+		"unreleased": true
+	},
+	{
+		"prefix": "ak/3/2/1",
+		"lpib_vakinhoud_id": "80ed2f45-8fd3-43c1-88c3-142329a83a5e",
+		"doelniveau_id": [
+			"2436d5f0-36fb-428d-a8bd-f52915510d73"
+		],
+		"title": "Migratiepatronen van en naar Nederland",
+		"id": "32af1884-0233-4933-be8e-f7392cd6468a",
+		"unreleased": true
+	},
+	{
+		"prefix": "ak/3/3/1",
+		"lpib_vakinhoud_id": "3ea98dac-c9dc-48da-ad11-ba139eb0ef2a",
+		"doelniveau_id": [
+			"04e444d9-72e5-46c4-ac08-3cee7f4711f1"
+		],
+		"title": "Ruimtegebruik in Nederland",
+		"id": "f3346ec0-7f19-4041-bf13-1804f64c4002",
+		"unreleased": true
+	},
+	{
+		"prefix": "ak/4/1/1",
+		"lpib_vakinhoud_id": "26ee4cc1-b15c-45a1-9c82-2982af99c536",
+		"doelniveau_id": [
+			"eb5864e1-31f5-4345-91db-50e027800e00"
+		],
+		"title": "Infrastructuur en transport in Nederland",
+		"id": "8ef1455e-db72-465f-b56e-1f3717857705",
+		"unreleased": true
+	},
+	{
+		"prefix": "ak/4/2/1",
+		"lpib_vakinhoud_id": "7f697c42-6c64-463b-a08b-7e4866311ec9",
+		"doelniveau_id": [
+			"8ea85f3c-b702-4d1c-be4d-149a5bb48757"
+		],
+		"title": "Nederland en de wereldeconomie",
+		"id": "30455416-2f3e-435a-b7ba-08dce6b41597",
+		"unreleased": true
+	},
+	{
+		"prefix": "ak/4/3/1",
+		"lpib_vakinhoud_id": "d041a354-8185-4511-9064-57601f4a34a5",
+		"doelniveau_id": [
+			"6554c53c-fce9-4972-8b4e-2ee6848c4371"
+		],
+		"title": "Middelen van bestaan met name in Nederland",
+		"id": "01705d5d-d949-479c-b5a5-2941b95c71b8",
+		"unreleased": true
+	},
+	{
+		"prefix": "ak/4/3/b",
+		"lpib_vakinhoud_id": "0071d417-f855-4e9f-b10c-188928d83139",
+		"doelniveau_id": [
+			"ce31d087-8aff-45d6-a032-6d2c1a14249a"
+		],
+		"title": "Kennis over ontwikkelingslanden",
+		"id": "c581d457-e630-4da9-9393-396aede0b334",
+		"unreleased": true
+	},
+	{
+		"prefix": "ak/5/1/1",
+		"lpib_vakinhoud_id": "5c5b37fc-ae3c-48f9-b7d9-5568ea8910db",
+		"doelniveau_id": [
+			"339043c1-d210-4af9-9be0-53310e8b0c53"
+		],
+		"title": "Centrum-periferie, het proces en de kenmerken",
+		"id": "3c368396-0b54-44db-8bea-e7e3efa3fdfe",
+		"unreleased": true
+	},
+	{
+		"prefix": "ak/5/1/b",
+		"lpib_vakinhoud_id": "6fcd1334-d01c-40f3-acbc-23eaf4d99650",
+		"doelniveau_id": [
+			"61362b91-f85e-4ed8-b86a-d2f7c4406392"
+		],
+		"title": "Nederlandse vormen van ontwikkelingshulp",
+		"id": "c6f09670-227b-4553-8056-5bc8cc5bb8c2",
+		"unreleased": true
+	},
+	{
+		"prefix": "ak/6/1/1",
+		"lpib_vakinhoud_id": "13e7d89b-8dba-47c8-9e4b-ec1f9fa9858c",
+		"doelniveau_id": [
+			"6def399c-d777-487b-8b8c-ce157e8c0bd3"
+		],
+		"title": "Kenmerken en spreidingspatronen van cultuur en cultuurgebieden",
+		"id": "ac48e499-0f61-4684-9c15-f391a3e1d965",
+		"unreleased": true
+	},
+	{
+		"prefix": "ak/6/2/1",
+		"lpib_vakinhoud_id": "feaf5b74-57ef-4e31-92c6-751fce509b2a",
+		"doelniveau_id": [
+			"e1c6b2d3-4ca7-4feb-b660-a7990bd0c0c5"
+		],
+		"title": "Indelen van gebieden op basis van grenzen",
+		"id": "87cf7887-2c0a-415e-aec5-6e11d440e688",
+		"unreleased": true
+	},
+	{
+		"prefix": "ak/6/3/1",
+		"lpib_vakinhoud_id": "40f5d0a1-5bc9-47ad-a130-2d03610896cd",
+		"doelniveau_id": [
+			"98ef8e38-f870-497e-85da-f0791d35f586"
+		],
+		"title": "De betekenis van Europa en Europese Unie voor inwoners uit Europa",
+		"id": "9ec317fa-5989-415d-90e7-0fd3ff570426",
+		"unreleased": true
+	},
+	{
+		"prefix": "ak/7/4/1",
+		"lpib_vakinhoud_id": "c94bab41-ac3d-415b-9c10-616024f341f1",
+		"doelniveau_id": [
+			"fc0c13a2-e499-41eb-b469-d9cbf1282191"
+		],
+		"title": "Verschillen tussen klimaten op aarde",
+		"id": "ca9c4165-9049-4d72-8c76-80b5648bea0b",
+		"unreleased": true
+	},
+	{
+		"prefix": "ak/7/5/1",
+		"lpib_vakinhoud_id": "dee8bb7f-b539-4552-bdca-ce2040a2ae2c",
+		"doelniveau_id": [
+			"be2d865a-919a-46fe-8a08-70c7352dd610",
+			"f3fa4240-8873-4e13-b319-985ba03f680b"
+		],
+		"title": "Onderdelen van weer en klimaat en de werking van de atmosfeer",
+		"id": "6810ff24-c352-433f-bfbe-1b68fbb2b906",
+		"unreleased": true
+	},
+	{
+		"prefix": "ak/7/5/b",
+		"lpib_vakinhoud_id": "9ba485ab-9621-41f9-b48d-78b41d029dd8",
+		"doelniveau_id": [
+			"8da72a2e-8b72-4cd2-8c75-7102a54fe7eb"
+		],
+		"title": "De invloed van het weer op de samenleving",
+		"id": "be51c4de-b951-4244-a33f-4644ce0e81db",
+		"unreleased": true
+	},
+	{
+		"prefix": "ak/7/6/1",
+		"lpib_vakinhoud_id": "9621bb7d-488e-45ab-8c1a-11d808f2c4b8",
+		"doelniveau_id": [
+			"fe7b04ad-9544-4af5-8a4c-dd480dbe3190"
+		],
+		"title": "De werking van endogene krachten wereldwijd",
+		"id": "efe5029f-0286-4995-ba84-c4ed23afe753",
+		"unreleased": true
+	},
+	{
+		"prefix": "ak/7/6/2",
+		"lpib_vakinhoud_id": "a91132bd-ae7d-41a8-a436-89f67bcf1567",
+		"doelniveau_id": [
+			"69ffe73c-7e6b-4eb4-8e09-1d6cf77a4478",
+			"0bbc3ff7-d968-4afb-bed0-450f314c34a5"
+		],
+		"title": "Endogene krachten en menselijke activiteiten",
+		"id": "f0b0504f-4246-4f9a-83c6-3ed20564ae94",
+		"unreleased": true
+	},
+	{
+		"prefix": "ak/7/7/1",
+		"lpib_vakinhoud_id": "80fb2608-42b1-4b68-b61d-3b216add16f4",
+		"doelniveau_id": [
+			"82d86db8-e892-4c0c-864a-d9130b2d537b",
+			"b7874c3a-5da6-4f35-9380-6094cd3e958d"
+		],
+		"title": "Exogene krachten en landschapsvorming",
+		"id": "d9413649-d0ac-4c93-8b5e-01390c60204c",
+		"unreleased": true
+	},
+	{
+		"prefix": "ak/8/2/1",
+		"lpib_vakinhoud_id": "2c24ba60-8d24-4bfe-8648-f6e452905a05",
+		"doelniveau_id": [
+			"983cec83-c644-4392-bdfa-17a11cb29d6f"
+		],
+		"title": "Ontstaan en gevolgen van natuurrampen",
+		"id": "6f20a714-75b1-4e7a-a689-d41baa4d055a",
+		"unreleased": true
+	},
+	{
+		"prefix": "ak/9/1/1",
+		"lpib_vakinhoud_id": "906a8b30-2b25-4094-87be-bb42645c9c73",
+		"doelniveau_id": [
+			"c2e0cf60-8d2a-41b9-ab29-d338e5b2a545"
+		],
+		"title": "De werking van de waterkringloop",
+		"id": "3febafb7-48fa-4212-872f-eabb701f0d0b",
+		"unreleased": true
+	},
+	{
+		"prefix": "ak/9/2/1",
+		"lpib_vakinhoud_id": "2353d79d-1be1-46df-8040-cca73361422a",
+		"doelniveau_id": [
+			"6aa5e238-5361-4ded-a761-e36a454db925"
+		],
+		"title": "Watervraagstukken in de wereld",
+		"id": "840d95ca-3e07-43c0-b307-faaec2a1b68f",
+		"unreleased": true
+	},
+	{
+		"prefix": "ak/9/3/1",
+		"lpib_vakinhoud_id": "cde034e6-7254-4dcc-ba00-cdb574e59dc6",
+		"doelniveau_id": [
+			"c13225f5-c804-4e3c-b43d-e367002621c5"
+		],
+		"title": "Duurzaam gebruik van water",
+		"id": "f2881155-1628-4eb9-a929-ccde0d339231",
+		"unreleased": true
+	},
+	{
+		"prefix": "ak/9/3/2",
+		"lpib_vakinhoud_id": "545ea41d-ea4e-46d1-a8dc-adb718c94a49",
+		"doelniveau_id": [
+			"91aca5b5-26a3-41f0-a5d5-4b6ea150a40c"
+		],
+		"title": "Relatie tussen Nederland en het water",
+		"id": "c7b2c6f2-cb0c-46f7-bf06-2bb17f0b1814",
+		"unreleased": true
 	}
 ]
