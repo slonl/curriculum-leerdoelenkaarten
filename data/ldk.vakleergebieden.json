@@ -30,5 +30,20 @@
 		"title": "Aardrijkskunde",
 		"id": "fd47894c-a2c4-428e-b723-8041bea55501",
 		"unreleased": true
+	},
+	{
+		"prefix": "bio",
+		"vakleergebied_id": "41dd7292-3cce-411b-8097-11db8c875a89",
+		"ldk_vakkern_id": [
+			"e54b4bd2-f6bb-4d6c-91f9-449c6283db2c",
+			"aff75f4d-f98c-4bb3-9416-c580bc693e52",
+			"6f55977d-598f-46eb-9d69-40282827f0ef",
+			"afdd7caa-e9d7-4ee5-8dc7-e2f5500c1b47",
+			"098d6383-6fc7-46b5-bf8d-6bb4107285b3",
+			"a598abd0-68da-45f4-9fac-09b41b9309f2"
+		],
+		"title": "Biologie",
+		"id": "826b457d-6e3f-431a-ac4b-39ddc3110b8a",
+		"unreleased": true
 	}
 ]
