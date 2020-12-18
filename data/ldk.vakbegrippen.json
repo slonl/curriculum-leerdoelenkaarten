@@ -9877,5 +9877,2165 @@
 		"title": "biodiversiteitsverlies, rode lijst, versnippering, eutrofiering, versterkt broeikaseffect, exoot, invasieve soort",
 		"id": "540b82c9-fd40-4756-a240-98b1dc2be8d9",
 		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"79b2896f-f0c3-4899-840f-1e655fead8c0"
+		],
+		"title": "Soorten materialen, Hout, kunststof, textiel, metaal, steen, beton, glas, geleiding van warmte, elektriciteit en geluid, dichtheid, uitzettin en inkrimping, verspaanbaarheid, mogelijkheid tot verbinden en samenstellen, corrociebestendigheid, vervormen, \r\nontwerpen, bouwen en repareren ten minste van woningen, apparaten, meubels, kleding, voertuigen",
+		"id": "a02d677a-4bd1-46b0-b9c7-260245b77eaa",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"eba0c3fd-791d-4e0b-b85c-c084e04ad1b6"
+		],
+		"title": "Soorten materialen, Hout, kunststof, textiel, metaal, steen, beton, glas, geleiding van warmte, elektriciteit en geluid, dichtheid, uitzettin en inkrimping, verspaanbaarheid, mogelijkheid tot verbinden en samenstellen, corrociebestendigheid, vervormen, \r\nontwerpen, bouwen en repareren ten minste van woningen, apparaten, meubels, kleding, voertuigen",
+		"id": "6782783f-b50a-4025-807d-73b1c5702665",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"ab0ce197-9520-4c31-b801-46de9689a160"
+		],
+		"title": "Soorten materialen, Hout, kunststof, textiel, metaal, steen, beton, glas, geleiding van warmte, elektriciteit en geluid, dichtheid, uitzettin en inkrimping, verspaanbaarheid, mogelijkheid tot verbinden en samenstellen, corrociebestendigheid, vervormen, \r\nontwerpen, bouwen en repareren ten minste van woningen, apparaten, meubels, kleding, voertuigen",
+		"id": "ad482072-72f4-417d-80bd-f4b2aad98074",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"b05f457d-7c7f-4750-bf22-4a78e6fec05b"
+		],
+		"title": "Eigenschappen van stoffen: Fase(vast, vloeibaar of gasvormig), kleur, geur, oplosbaarheid in water, kookpunt, smeltpunt, geleiding van elektriciteit, dichtheid",
+		"id": "409db82c-19d0-4506-ae5e-bb46dc759e4f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"622e5485-aaca-409c-af03-d1296be5abb8"
+		],
+		"title": "Eigenschappen van stoffen: Fase(vast, vloeibaar of gasvormig), kleur, geur, oplosbaarheid in water, kookpunt, smeltpunt, geleiding van elektriciteit, dichtheid",
+		"id": "5a7b5c8b-1122-4338-ac06-840e282452d0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"e1172347-3d22-48e5-955f-dde90a68a8e3"
+		],
+		"title": "Eigenschappen van stoffen: Fase(vast, vloeibaar of gasvormig), kleur, geur, oplosbaarheid in water, kookpunt, smeltpunt, geleiding van elektriciteit, dichtheid",
+		"id": "6b0d391e-9178-49f5-b1bd-642f4529d86c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"567c9502-2d63-4524-9443-504735c986b7"
+		],
+		"title": "Eigenschappen van stoffen: Fase(vast, vloeibaar of gasvormig), kleur, geur, oplosbaarheid in water, kookpunt, smeltpunt, geleiding van elektriciteit, dichtheid",
+		"id": "dcacdb85-7d57-401a-9111-daed679a4d17",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"0586ce20-e87c-4807-8bad-c4cf0e670755"
+		],
+		"title": "Gevaarlijke stoffen, Veiligheidskaarten, Voorzorgsmaatregelen, Beschermingsbril, labjas, plastic handschoenen, Gifwijzer, Pictogrammen, Schadelijk, explosief, bijtend, ontvlambaar, giftig, niet mengen",
+		"id": "6237bb50-5f76-4262-8f2c-95dc9fcf56ab",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"d3ff04b8-aacf-48ee-9492-922f8787d889"
+		],
+		"title": "Gevaarlijke stoffen, Veiligheidskaarten, Voorzorgsmaatregelen, Beschermingsbril, labjas, plastic handschoenen, Gifwijzer, Pictogrammen, Schadelijk, explosief, bijtend, ontvlambaar, giftig, niet mengen",
+		"id": "33f25f03-b9d1-4fc1-bbce-1fa81b2d0489",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"a6c686f4-a99f-46ae-ab03-30fc2fb22372"
+		],
+		"title": "Gevaarlijke stoffen, Veiligheidskaarten, Voorzorgsmaatregelen, Beschermingsbril, labjas, plastic handschoenen, Gifwijzer, Pictogrammen, Schadelijk, explosief, bijtend, ontvlambaar, giftig, niet mengen",
+		"id": "e00775f9-0f2c-4cfd-ab5e-d711e9bba919",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"d8d098c9-2b4e-4e5e-853d-e9e6cc2f7c13"
+		],
+		"title": "Gevaarlijke stoffen, Veiligheidskaarten, Voorzorgsmaatregelen, Beschermingsbril, labjas, plastic handschoenen, Gifwijzer, Pictogrammen, Schadelijk, explosief, bijtend, ontvlambaar, giftig, niet mengen",
+		"id": "70faee0d-2b7d-4d6b-8f39-a902fa240d29",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"130a9ecf-5d5c-4d94-8da6-c2bc3ee44215"
+		],
+		"title": "dichtheid (massa, volume, p = m / V), zinken-zweven-drijven (dichtheid)",
+		"id": "54d0e040-a7e2-4152-8ad6-f09709f3746f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"a07590fd-cadf-4503-83ce-c739327f26dd"
+		],
+		"title": "dichtheid (massa, volume, p = m / V), zinken-zweven-drijven (dichtheid)",
+		"id": "7355c14e-d371-4269-a496-4741775d64c0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"3f91a0a7-c87c-4c65-b7df-99da76849ee1"
+		],
+		"title": "dichtheid (massa, volume, p = m / V), zinken-zweven-drijven (dichtheid)",
+		"id": "b63473d1-21df-4700-8eb2-e1d6b110e5a7",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"049681af-2809-48d7-b33c-65262a0c01eb"
+		],
+		"title": "Bouw van stoffen, atomen, moleculen",
+		"id": "4b359591-ec0d-4020-96d2-a627dab2e9fd",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"9df194ff-6f2d-4b00-ab71-473584a8b77c"
+		],
+		"title": "Bouw van stoffen, atomen, moleculen",
+		"id": "4efde157-a4e2-48ab-b2d2-74fadc7ad503",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"62200ae1-45f6-46e0-9e58-3b4f339dc2cf"
+		],
+		"title": "Bouw van stoffen, atomen, moleculen",
+		"id": "6f7ad5e4-6b1b-4f67-9d63-879b64d044ed",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"2349ced1-da0c-428c-8a30-b04a227909f0"
+		],
+		"title": "Bouw van stoffen, atomen, moleculen",
+		"id": "477ea0a8-a138-49e0-8f6b-c45053a965c4",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"372f9bbf-4e48-433d-a5ca-fee80faa26b5"
+		],
+		"title": "gedrag van atomen en moleculen, beweging, afstand, aantrekkingskracht, fasen",
+		"id": "f158c079-f82f-44d7-88e2-ecd332fe05fb",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"24065d4f-ec08-45b1-a38b-0eb6c1247b7a"
+		],
+		"title": "gedrag van atomen en moleculen, beweging, afstand, aantrekkingskracht, fasen",
+		"id": "cf8a9568-dd78-4c50-8267-8f7f8185a7c0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"db3d97b5-a449-48e5-84f7-9bfe58f31e41"
+		],
+		"title": "gedrag van atomen en moleculen, beweging, afstand, aantrekkingskracht, fasen",
+		"id": "00688950-a0ec-48ae-a033-c05c3ed4e61a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"bf5b2e85-f9e6-48e8-a04c-6982e7dac317"
+		],
+		"title": "gedrag van atomen en moleculen, beweging, afstand, aantrekkingskracht, fasen",
+		"id": "9a186572-e1e4-4f5f-9ea6-f31dbf078e89",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"2024f403-8afa-4481-b0ec-d16ad29aec32"
+		],
+		"title": "Gedrag van atomen en moleculen, beweging, afstand, aantrekkingskracht, fasen, vast, vloeibaar, gas",
+		"id": "44f0376e-5cd7-409e-893e-884ab4d4a45b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"005b1893-cd20-41fc-9556-01e9f42e1697"
+		],
+		"title": "Gedrag van atomen en moleculen, beweging, afstand, aantrekkingskracht, fasen, vast, vloeibaar, gas",
+		"id": "3bdb95b1-7d0b-4949-94ef-613cda5375b2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"15ec29f8-7b58-44d6-9ad2-190545ef18e3"
+		],
+		"title": "Gedrag van atomen en moleculen, beweging, afstand, aantrekkingskracht, fasen, vast, vloeibaar, gas",
+		"id": "67414343-a7c2-4614-977e-caed59d186a3",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"6fcde808-6993-4f84-9fe9-86c5e527140b"
+		],
+		"title": "Gedrag van atomen en moleculen, beweging, afstand, aantrekkingskracht, fasen, vast, vloeibaar, gas",
+		"id": "972dd543-3c68-43b4-9c33-799bd194c781",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"5312db56-db30-4e5e-8aa0-83a21513a59b"
+		],
+		"title": "kern, elektronen, schillen",
+		"id": "58dbf189-4db6-4c63-a6df-73e5a4670423",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"a6593ff6-8bb7-4cc6-a179-fd9c93c69610"
+		],
+		"title": "kern, elektronen, schillen",
+		"id": "b9d647bc-5319-4eef-97e0-0f92d88bab15",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"3ef78063-d9aa-433f-a2a7-073b634ecb21"
+		],
+		"title": "kern, elektronen, schillen",
+		"id": "26f59ccc-7533-4801-8412-30a5de8ec858",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"f502649a-4d4e-402b-9e1b-1a293185352a"
+		],
+		"title": "Grondstoffen, productie, transport, recycling, afvalverwerking, Gevolgen voor het milieu: Bodem-, lucht- en waterverontreiniging, lozing en verwerking, uitputting van natuurlijke bronnen, duurzaamheid",
+		"id": "40fdd881-ac34-40b5-a557-84d0e6bea143",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"5e383471-3365-44b2-bd6d-d06f97de3f04"
+		],
+		"title": "Grondstoffen, productie, transport, recycling, afvalverwerking, Gevolgen voor het milieu: Bodem-, lucht- en waterverontreiniging, lozing en verwerking, uitputting van natuurlijke bronnen, duurzaamheid",
+		"id": "9b8f14a6-4125-4696-8935-d95d45870269",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"4a15066f-d49b-4424-8095-cfc8a8e3bf98"
+		],
+		"title": "Grondstoffen, productie, transport, recycling, afvalverwerking, Gevolgen voor het milieu: Bodem-, lucht- en waterverontreiniging, lozing en verwerking, uitputting van natuurlijke bronnen, duurzaamheid",
+		"id": "56109557-a250-40ab-af65-e5220adb8861",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"512a1670-8adf-4121-a5f8-343fac5284d3"
+		],
+		"title": "Grondstoffen, productie, transport, recycling, afvalverwerking, Gevolgen voor het milieu: Bodem-, lucht- en waterverontreiniging, lozing en verwerking, uitputting van natuurlijke bronnen, duurzaamheid",
+		"id": "84495d08-4193-446e-9cd5-6226772cea58",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"0e0e4a16-21ab-409c-812e-707cf5b5184e"
+		],
+		"title": "afvalstoffen, scheiden en hergebruik, glas, batterijen, kleding, papier, gft, kca, composteren, storten, verbranden",
+		"id": "655a91b5-26a7-406a-835a-1d717e253755",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"f39b34f1-08c0-4b9f-86fb-5eb129f5fd2a"
+		],
+		"title": "afvalstoffen, scheiden en hergebruik, glas, batterijen, kleding, papier, gft, kca, composteren, storten, verbranden",
+		"id": "09fbd2f4-e574-4b70-9570-62f65c8ee212",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"abc8de5e-ff16-4e5c-ac1e-a1657b8d6b89"
+		],
+		"title": "afvalstoffen, scheiden en hergebruik, glas, batterijen, kleding, papier, gft, kca, composteren, storten, verbranden",
+		"id": "2b485cba-2ecf-4373-b7c1-738d9d8624a7",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"117f2bf0-addf-45a9-9121-2793a47055bc"
+		],
+		"title": "afvalstoffen, scheiden en hergebruik, glas, batterijen, kleding, papier, gft, kca, composteren, storten, verbranden",
+		"id": "3dfea8c9-42b4-4242-9728-91d695c068f3",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"066f85de-0301-4ccd-ad86-4e695f510c1e"
+		],
+		"title": "voedselbereiding, roesten, verbranding, uitharden van beton, lijmen, carbit",
+		"id": "cc65795c-bd2d-4fb7-968f-3c4798f12b31",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"9a746a59-fab7-41c8-bc0a-0fbdc1cd79f1"
+		],
+		"title": "voedselbereiding, roesten, verbranding, uitharden van beton, lijmen, carbit",
+		"id": "9f5b82ee-f7fe-4e70-9fcf-e04f3726ae62",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"b1b10413-d95e-4841-8c18-c1d417974c81"
+		],
+		"title": "voedselbereiding, roesten, verbranding, uitharden van beton, lijmen, carbit",
+		"id": "631ffaa9-eb5a-4e24-9a84-4a2a4a8c1472",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"500a15a9-d507-4a3d-ac1e-2edd22f6cca7"
+		],
+		"title": "voedselbereiding, roesten, verbranding, uitharden van beton, lijmen, carbit",
+		"id": "47b3440b-37c8-4444-b4de-925bc4f82ab3",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"127a8ddc-562e-46c5-842d-61ef88a9c1dc"
+		],
+		"title": "Warmtebronnen, kachel,  c.v., fornuis, vloerverwarming, gasbrander, elektrische kookplaat, elektrische dompelaar",
+		"id": "8a954002-bf64-4299-a225-c9c9b658468d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"b49d8f72-268a-47b3-9c2e-fee5a2729f19"
+		],
+		"title": "Warmtebronnen, kachel,  c.v., fornuis, vloerverwarming, gasbrander, elektrische kookplaat, elektrische dompelaar",
+		"id": "0e9c2646-8c14-4124-88d3-92e233e05883",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"9be3e187-17b0-4fbc-b63c-5ce876c8ba25"
+		],
+		"title": "Warmtebronnen, kachel,  c.v., fornuis, vloerverwarming, gasbrander, elektrische kookplaat, elektrische dompelaar",
+		"id": "e2e0631a-d9a9-49df-aed9-12173a080ba1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"4d6a3b2e-f6a7-4b2b-ab45-b513b10981e2"
+		],
+		"title": "Warmtebronnen, kachel,  c.v., fornuis, vloerverwarming, gasbrander, elektrische kookplaat, elektrische dompelaar",
+		"id": "2cd87006-629b-4503-8dff-51f3ae39b61f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"7711dd05-f76e-4dfb-9413-1f2f47f179b5"
+		],
+		"title": "Meetinstrumenten, thermometer, temperatuursensor",
+		"id": "c5524eb5-e6e2-4edf-9b79-d406d9d9269a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"4743ef0e-d02f-46b5-a5d1-3c87316739b9"
+		],
+		"title": "Meetinstrumenten, thermometer, temperatuursensor, Temparatuurschalen, Kelvin, Celsius, absolute nulpunt, Formule: T(K) = t (*C) + 273",
+		"id": "15b0b567-bfd1-49d3-ab61-2a748a4de2fe",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"71fa2127-5a8d-4c02-be50-749302f71ede"
+		],
+		"title": "Meetinstrumenten, thermometer, temperatuursensor, Temparatuurschalen, Kelvin, Celsius, absolute nulpunt, Formule: T(K) = t (*C) + 273",
+		"id": "4e8bb1c6-067e-44bd-a971-ddbd18051806",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"dffde064-85e9-4d06-8d74-b0b49497b67f"
+		],
+		"title": "Meetinstrumenten, thermometer, temperatuursensor, Temparatuurschalen, Kelvin, Celsius, absolute nulpunt, Formule: T(K) = t (*C) + 273",
+		"id": "b7b2a273-847c-43f0-809a-92216ad316ee",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"f8e17062-2033-4ccb-b5d8-0b6289a93928"
+		],
+		"title": "isoleerkan, spouwmuurisolatie, bouwmaterialen, radiatorfolie, handgrepen van pannen, dubbele beglazing",
+		"id": "afe2e1b6-83a6-42a0-aaf1-da51ea6ef6f0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"e7a3d63c-34b4-4db6-b665-1f78a3b969a4"
+		],
+		"title": "isoleerkan, spouwmuurisolatie, bouwmaterialen, radiatorfolie, handgrepen van pannen, dubbele beglazing",
+		"id": "9db3a5dc-a62c-44d5-9c6a-8ba94a8e1668",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"59c4ba28-d570-4fb4-9707-1ff9834d87e7"
+		],
+		"title": "isoleerkan, spouwmuurisolatie, bouwmaterialen, radiatorfolie, handgrepen van pannen, dubbele beglazing",
+		"id": "f19f87b0-2fbe-41bf-8a6e-4018cc06bd8f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"71234bd2-c920-45ad-bcad-eaa0311abb4f"
+		],
+		"title": "isoleerkan, spouwmuurisolatie, bouwmaterialen, radiatorfolie, handgrepen van pannen, dubbele beglazing",
+		"id": "9e5cb3cd-7203-47e3-aba3-b50728f27d7a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"83c21894-db1e-4f3d-a151-94de96163e32"
+		],
+		"title": "Warmtetransport door geleiding, stroming en straling",
+		"id": "e73ef98c-8ee7-4108-a5fc-77168bbcf954",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"9a5785a3-a274-452b-85ff-4d550f1edaf7"
+		],
+		"title": "Warmtetransport door geleiding, stroming en straling",
+		"id": "29bfb5de-65d2-4d71-8408-fb28f967fdc1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"0a97eb22-162a-4b33-bc9d-c4964caf2966"
+		],
+		"title": "Warmtetransport door geleiding, stroming en straling",
+		"id": "047fc096-aefb-428d-99bd-21791d4bc625",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"0f7e2924-20b0-4160-8f2c-bb344f7d6fe5"
+		],
+		"title": "Warmtetransport door geleiding, stroming en straling",
+		"id": "8c783fcf-c487-4401-8a4a-25eaaa4f5cf5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"8bb1e207-24cb-498b-9f67-20c7b73c57a9"
+		],
+		"title": "Verbrandingswarmte, Temperatuur, Formule: Eel = Pel.t",
+		"id": "6337668a-892e-4756-9f8b-00873cdddbfc",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"32caf193-3d5e-4e95-a52c-32e6ffbc0b73"
+		],
+		"title": "Verbrandingswarmte, Temperatuur, Formule: Eel = Pel.t",
+		"id": "f0445649-1717-4717-9316-4047efdf7dfa",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"2cd32462-61af-426e-a964-ada3df98bb87"
+		],
+		"title": "Verbrandingswarmte, Temperatuur, Formule: Eel = Pel.t",
+		"id": "f142614a-8f90-4600-a059-e83eb1c0aa79",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"efefa943-3351-470c-9cef-90bf8785621c"
+		],
+		"title": "Elektrische schakelingen, huisinstallatie, elektrisch circuit van voertuigen, spanningsbron en 'aarde', verbindingsdraden, Componenten, weerstand, NTC, LDR, LED en diode, schakelaar, drukschakelaar, reedcontact, relais, transistor als schakelaar, condensator, actuator, zoals motor of lamp, transformator",
+		"id": "58673ed2-e298-47aa-a5e5-83845f88178c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"2c7f0578-2a8b-4f9c-8b37-46ba0cee79b7"
+		],
+		"title": "Elektrische schakelingen, huisinstallatie, elektrisch circuit van voertuigen, spanningsbron en 'aarde', verbindingsdraden, Componenten, weerstand, NTC, LDR, LED en diode, schakelaar, drukschakelaar, reedcontact, relais, transistor als schakelaar, condensator, actuator, zoals motor of lamp, transformator",
+		"id": "f124dfc9-5f4d-4bce-b6af-7a87de107807",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"6d99b4a9-a58e-44f7-9c0d-1dc883ac69fe"
+		],
+		"title": "Elektrische schakelingen, huisinstallatie, elektrisch circuit van voertuigen, spanningsbron en 'aarde', verbindingsdraden, Componenten, weerstand, NTC, LDR, LED en diode, schakelaar, drukschakelaar, reedcontact, relais, transistor als schakelaar, condensator, actuator, zoals motor of lamp, transformator",
+		"id": "e86a6fde-f293-4d09-9853-34c77a82f4d5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"042daa6a-8edb-412b-864f-cc40ee2553cf"
+		],
+		"title": "Elektrische schakelingen, huisinstallatie, elektrisch circuit van voertuigen, spanningsbron en 'aarde', verbindingsdraden, Componenten, weerstand, NTC, LDR, LED en diode, schakelaar, drukschakelaar, reedcontact, relais, transistor als schakelaar, condensator, actuator, zoals motor of lamp, transformator",
+		"id": "a2b2d39c-0909-49b7-aa91-8ec9e9df67db",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"44577e2c-9d4a-4669-bb71-df5b1ea9a5bd"
+		],
+		"title": "Meetinstrumenten, spanningsmeter, stroommeter, multimeter, kWh-meter, vermogensmeter, Grootheden, spanning (V), stroomsterkte (A), vermogen (W)",
+		"id": "9bae396c-19f4-4700-94b0-8f3f7886da2f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"ec88ba1c-5fa0-4f6e-baed-e8d9362d637c"
+		],
+		"title": "Meetinstrumenten, spanningsmeter, stroommeter, multimeter, kWh-meter, vermogensmeter, Grootheden, spanning (V), stroomsterkte (A), vermogen (W)",
+		"id": "803d000e-d835-4b01-b159-4136030c1120",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"b31e9edc-9493-41fd-a053-6dbc43320beb"
+		],
+		"title": "Meetinstrumenten, spanningsmeter, stroommeter, multimeter, kWh-meter, vermogensmeter, Grootheden, spanning (V), stroomsterkte (A), vermogen (W)",
+		"id": "ebea4221-1e77-4ff6-b3a9-f23916ef3236",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"10ff52ff-e4d2-45f4-9b35-686d355d80ea"
+		],
+		"title": "Meetinstrumenten, spanningsmeter, stroommeter, multimeter, kWh-meter, vermogensmeter, Grootheden, spanning (V), stroomsterkte (A), vermogen (W)",
+		"id": "0f43a813-8c1a-428a-a3bd-0ddf41ee3393",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"d30bb18d-6f1f-4dc7-b861-0d4b04d7b75a"
+		],
+		"title": "Gesloten stroomkring, Parallel schakeling, Serieschakeling",
+		"id": "5788dce9-9e9c-42e1-8bc8-d80ccba1ecbb",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"c8df2d0a-5efc-4e32-a372-ae0b57eff4c1"
+		],
+		"title": "Gesloten stroomkring (Parallel schakeling, Serieschakeling, Formules: Rv = R1 + R2 + …, 1/Rv = 1/R1 + 1/R2 + ….",
+		"id": "d5813e67-8919-4bee-97df-c070dd5f6a40",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"75f9bde7-eb9a-4a78-be25-27d241418ee0"
+		],
+		"title": "Gesloten stroomkring (Parallel schakeling, Serieschakeling, Formules: Rv = R1 + R2 + …, 1/Rv = 1/R1 + 1/R2 + ….",
+		"id": "de58b93b-411e-48f5-aec5-9f2cb885df57",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"4ed42ace-19c0-488a-ab9d-f17364f83db4"
+		],
+		"title": "Gesloten stroomkring (Parallel schakeling, Serieschakeling, Formules: Rv = R1 + R2 + …, 1/Rv = 1/R1 + 1/R2 + ….",
+		"id": "60609fef-3314-44f5-94a4-56b58fc1258c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"501d5f51-739e-40d2-8e14-00294cd05c6f"
+		],
+		"title": "Schema's van schakelingen, inbrekersalarm, automatische deurbediening, elektronische temperatuursensor, schemerschakeling, dimmer, discolichten",
+		"id": "2241c3d9-ea82-4962-b9bf-9e18c454f539",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"412a2a6d-8439-4e26-aab1-8eda047dcc72"
+		],
+		"title": "Schema's van schakelingen, inbrekersalarm, automatische deurbediening, elektronische temperatuursensor, schemerschakeling, dimmer, discolichten",
+		"id": "0780af53-176e-45e1-8936-c19209e09f8b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"b79d52eb-aa84-4df7-a9ce-d91ff4d10a8f"
+		],
+		"title": "Schema's van schakelingen, inbrekersalarm, automatische deurbediening, elektronische temperatuursensor, schemerschakeling, dimmer, discolichten",
+		"id": "f5af339f-6f19-440c-966e-185a1fa76c67",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"0d608b1b-9cb4-4082-9af3-7469a8ac5eb3"
+		],
+		"title": "Schema's van schakelingen, inbrekersalarm, automatische deurbediening, elektronische temperatuursensor, schemerschakeling, dimmer, discolichten",
+		"id": "7cda290c-215b-4999-86cd-384c0ca38444",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"968f6302-9a2b-4b03-8ab6-1b3d5e203103"
+		],
+		"title": "Elektrische grootheden, spanning, stroomsterkte, weerstand, Formule: Spanning = Stroomsterkte * Weerstand",
+		"id": "cbba80cf-de4b-47f5-8a23-d3d31d4b24ce",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"bb9d85cb-0b0a-40f9-9893-5c500be05155"
+		],
+		"title": "Elektrische grootheden, spanning, stroomsterkte, weerstand, Formule: U = I * R",
+		"id": "e9b5efd4-3fb1-4da3-86a4-b8c21ca1e6fb",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"b59ecff1-7333-4b77-ac3d-ee1f36cb44ee"
+		],
+		"title": "Elektrische grootheden, spanning, stroomsterkte, weerstand, Formule: U = I * R",
+		"id": "94699abe-851a-44ca-b31e-2dc1b0d48732",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"673013b7-9243-425c-86e0-06f82bdafade"
+		],
+		"title": "Elektrische grootheden, spanning, stroomsterkte, weerstand, Formule: U = I * R",
+		"id": "085f92ce-deb2-434d-9b4c-88fc1194913d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"a6fa6b03-4539-4017-848d-379ea3ed2725"
+		],
+		"title": "Vermogen (kW), Elektrische energie , energiegebruik (kWh, J), Formules: Vermogen = spanning * stroomsterkte, Eneregiegebruik = Vermogen * tijd",
+		"id": "e770a82e-365f-4951-8d70-25ac5af04877",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"252246e6-9972-4fd0-9440-cbf852d086bb"
+		],
+		"title": "Vermogen (kW), Elektrische energie, energiegebruik (kWh, J), Formules: P = U * I, E = P * t",
+		"id": "bf30742c-4ae9-4771-bf0d-9ea418b448dc",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"f9f818d6-48b1-43d3-85fa-738ac6136d1b"
+		],
+		"title": "Vermogen (kW), Elektrische energie, energiegebruik (kWh, J), Formules: P = U * I, E = P * t",
+		"id": "494be7c3-0c22-4947-9393-624c90e5b4e0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"0ba53a71-3b6f-40b6-bc5c-0cc96718a0a5"
+		],
+		"title": "Vermogen (kW), Elektrische energie, energiegebruik (kWh, J), Formules: P = U * I, E = P * t",
+		"id": "32bacb45-139b-4332-8ca1-2c493233379b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"57240414-ac96-4980-ba7f-a03dc57334ea"
+		],
+		"title": "Beveiliging van een stroomkring, hoofdzekering, groepzekering, aardlekschakelaar, randaarde, dubbele isolatie",
+		"id": "6fb31e41-b082-4501-8c79-ddf8e5df828c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"b57cf1b7-3401-4da9-9447-b064ebdfd7f2"
+		],
+		"title": "Beveiliging van een stroomkring, hoofdzekering, groepzekering, aardlekschakelaar, randaarde, dubbele isolatie",
+		"id": "36a5a9a9-e38f-45d2-ad5e-1acdd0b820f0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"58d8cbd8-a9e5-4391-b557-6cabf6666d04"
+		],
+		"title": "Beveiliging van een stroomkring, hoofdzekering, groepzekering, aardlekschakelaar, randaarde, dubbele isolatie",
+		"id": "ddb650e2-2f9c-4984-a187-843388e02097",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"12ca9675-8917-41ee-bfb8-2545823a361b"
+		],
+		"title": "Beveiliging van een stroomkring, hoofdzekering, groepzekering, aardlekschakelaar, randaarde, dubbele isolatie",
+		"id": "cc720d46-0d1b-4535-997d-fa08c9108356",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"086c2ff4-d460-4118-b6ca-3a20de87359f"
+		],
+		"title": "Elektrische geleider, Elektrische isolator",
+		"id": "68fe8a17-a2fe-40f3-84b2-9aaf13e1530c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"8da87d06-5233-4469-a162-55262a147ba2"
+		],
+		"title": "Elektrische geleider, Elektrische isolator",
+		"id": "eea5e464-f25d-4e41-8dab-57d16e3e0e88",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"c4a1502a-ab08-4c7b-8199-6b6e6562129d"
+		],
+		"title": "Elektrische geleider, Elektrische isolator",
+		"id": "af9dc261-5ffd-448b-b37e-d84f8dfb33b3",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"9c9bcfac-77fc-4db9-8552-ef393dd0e0b9"
+		],
+		"title": "Elektrische geleider, Elektrische isolator",
+		"id": "1a131598-d30d-4135-b3cf-c5333892fd73",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"9249d3b4-beae-475b-ac63-2a6ff1182277"
+		],
+		"title": "Capaciteit accu, Verbruikstijd, Formule: C = I . t",
+		"id": "126035c8-48d7-403d-8aec-236b94ba6463",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"9d9427d0-286f-4ce3-850b-24053c50d798"
+		],
+		"title": "Capaciteit accu, Verbruikstijd, Formule: C = I . t",
+		"id": "843db606-56d3-405f-8e51-f816c49dbf0c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"5465b7ee-8ad6-4974-8c08-eddbd46e7cc9"
+		],
+		"title": "Capaciteit accu, Verbruikstijd, Formule: C = I . t",
+		"id": "171c06a7-4fa0-4212-8f50-5182e887f548",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"62562977-0b66-4c37-a37f-d00f2c282fd5"
+		],
+		"title": "Basisbegrippen magnetisme, permanente magneet, noord- en zuidpool, aantrekking en afstoting tussen polen, veldlijnen, spoel, weekijzeren kern, elektromagneet",
+		"id": "562d9af0-2843-4210-8bfc-75723dc284d9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"47c03037-a835-4087-ae80-ea1c251bd282"
+		],
+		"title": "Basisbegrippen magnetisme, permanente magneet, noord- en zuidpool, aantrekking en afstoting tussen polen, veldlijnen, spoel, weekijzeren kern, elektromagneet",
+		"id": "28d8e1b2-9ef2-47bd-b344-12eda69a42fe",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"aee5524b-0ec9-42ba-af3d-dd4611768715"
+		],
+		"title": "Basisbegrippen magnetisme, permanente magneet, noord- en zuidpool, aantrekking en afstoting tussen polen, veldlijnen, spoel, weekijzeren kern, elektromagneet",
+		"id": "31ceee7a-c2e6-470b-b4dd-bf60d38121b2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"1392d165-1bcf-4658-8b2c-86fd1d690333"
+		],
+		"title": "Magnetisme en toepassingen, dynamo, transfomator, luidspreker, relais, reedcontact",
+		"id": "d9feacff-e895-4117-b2a9-c6798b39f575",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"8d537e52-683a-4cb2-adf3-8e1b8f1870c3"
+		],
+		"title": "Magnetisme en toepassingen, dynamo, transfomator, luidspreker, relais, reedcontact",
+		"id": "33ddb251-4894-408c-b930-cea2e29e9431",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"ae284e4c-05f6-41c2-9809-82cf3028fb05"
+		],
+		"title": "Magnetisme en toepassingen, dynamo, transfomator, luidspreker, relais, reedcontact",
+		"id": "24e0709a-15a9-4042-96c2-7a7b113412a5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"ecc9049c-f3cf-403e-8daa-88a8cea4e664"
+		],
+		"title": "bewegingsenergie, elektrische energie, magneet, energieomzetting",
+		"id": "2a2ebcec-ccaf-4b77-8663-bca471ea8496",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"d0aeb772-a2d1-44c4-bfcb-745e0ac4b0c6"
+		],
+		"title": "bewegingsenergie, elektrische energie, magneet, energieomzetting",
+		"id": "1d9cacab-c19b-45df-89a1-cde5e12c58e7",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"9ff5d168-7b97-4d6d-9479-4a1309a09864"
+		],
+		"title": "bewegingsenergie, elektrische energie, magneet, energieomzetting",
+		"id": "52eef2b2-154e-4f90-965b-4d159345418d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"97b82228-8288-4acd-be7c-dfd0eba60222"
+		],
+		"title": "Transformator, primaire en secundaire kring, transformatie van spanning, overdracht van vermogen, toepassingen ten minste: adapter, halogeenverlichting, elektriciteitstransport, Formule: ηp / ηs = Up / Us",
+		"id": "432d3a5a-e376-42cc-a8a6-f0d3da7dd2fa",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"911e34d0-1fb3-431a-9dff-a881436730d6"
+		],
+		"title": "Transformator, primaire en secundaire kring, transformatie van spanning, overdracht van vermogen, toepassingen ten minste: adapter, halogeenverlichting, elektriciteitstransport, Formule: ηp / ηs = Up / Us",
+		"id": "0e36fbd4-20d6-41df-a493-4b059df64c34",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"0aa78325-ee57-49df-abed-4937bcdb0e54"
+		],
+		"title": "Transformator, primaire en secundaire kring, transformatie van spanning, overdracht van vermogen, toepassingen ten minste: adapter, halogeenverlichting, elektriciteitstransport, Formule: ηp / ηs = Up / Us",
+		"id": "8821f3a1-660b-4272-9fb9-880a4aa69048",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"76edd77e-23a3-4f4f-b951-2b7828bd1397"
+		],
+		"title": "warmte, elektrische energie, chemische energie, bewegingsenergie",
+		"id": "cecdbd16-97ec-4f91-97be-96521d132310",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"ac37ab01-422d-44ce-8f27-9f138dde63e7"
+		],
+		"title": "bewegings-, zwaarte, warmte-, elektrische-, chemische-, stralings-, kern-, veer- of elastische energie",
+		"id": "806d87e7-66e5-49f3-aaa5-fa4b0f08e0c8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"c973979c-c9a6-471d-a79e-d2874d3d74d3"
+		],
+		"title": "bewegings-, zwaarte, warmte-, elektrische-, chemische-, stralings-, kern-, veer- of elastische energie",
+		"id": "50f09f75-4b7c-4f5d-a756-310084328c79",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"361a18de-7dc2-43a6-91ff-86dcb1464375"
+		],
+		"title": "bewegings-, zwaarte, warmte-, elektrische-, chemische-, stralings-, kern-, veer- of elastische energie",
+		"id": "54bf65fe-13f5-4a80-9449-8dd574e4c521",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"4d52f8c0-8324-46f4-9ca8-a54a172f5b9b"
+		],
+		"title": "Energieomzettingen, Wet van behoud van energie",
+		"id": "15ad6335-cef5-4b26-86b0-5671cc58db53",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"c776bfbe-e2a4-4b96-8ae1-9a43f2833830"
+		],
+		"title": "Energieomzetting, Wet van behoud van energie, Verbrandingswarmte, Rendement, Vermogen, Formules: Ebew = ½ m.v2, Ez = m.g.h, Eel = Pel.t",
+		"id": "fbe50874-8186-4276-ac8d-46083bf66f52",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"82498fc5-119c-4592-9664-580ffec3fe85"
+		],
+		"title": "Energieomzetting, Wet van behoud van energie, Verbrandingswarmte, Rendement, Vermogen, Formules: Ebew = ½ m.v2, Ez = m.g.h, Eel = Pel.t",
+		"id": "c1e2da74-0ee1-494f-9543-727bd94419b6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"ab34ab52-99e4-42cc-aa16-f4e2cb480dbf"
+		],
+		"title": "Energieomzetting, Wet van behoud van energie, Verbrandingswarmte, Rendement, Vermogen, Formules: Ebew = ½ m.v2, Ez = m.g.h, Eel = Pel.t",
+		"id": "06880f43-279f-40ea-ba8f-a2aad3af7752",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"424885a4-4ac1-430c-a5ef-3483c06551cb"
+		],
+		"title": "Milieu-effecten, luchtverontreiniging, zure regen, broeikaseffect, thermische verontreiniging, Gezondheideffecten, irritatie en beschadiging van slijmvliezen, ogen en luchtwegen",
+		"id": "e87eef84-44bf-4f15-a283-500aef1e2399",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"cf51a539-fd9a-4d8d-9b22-de29f25d1e1d"
+		],
+		"title": "Milieu-effecten, luchtverontreiniging, zure regen, broeikaseffect, thermische verontreiniging, Gezondheideffecten, irritatie en beschadiging van slijmvliezen, ogen en luchtwegen",
+		"id": "f151e575-47d4-478f-805c-f21fc923f7ab",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"edbadd02-4638-43e9-8eb3-1ea06fc013d3"
+		],
+		"title": "Milieu-effecten, luchtverontreiniging, zure regen, broeikaseffect, thermische verontreiniging, Gezondheideffecten, irritatie en beschadiging van slijmvliezen, ogen en luchtwegen",
+		"id": "44ebfaad-22c0-420e-9b06-29dc442486db",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"ed3338ab-3b9d-448e-9a19-2b0c2ea4f9de"
+		],
+		"title": "Milieu-effecten, luchtverontreiniging, zure regen, broeikaseffect, thermische verontreiniging, Gezondheideffecten, irritatie en beschadiging van slijmvliezen, ogen en luchtwegen",
+		"id": "0b78b07d-195b-4ce9-9eae-2255c367c1f8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"b01e5982-4636-488b-b251-59a13111e6bb"
+		],
+		"title": "Elektrische apparaten, spaarlampen, leds, accu's, huishoudelijke apparaten, moderne apparaten, Rendement, Levensduur, Veiligheid",
+		"id": "063267bc-0f3a-4786-9231-e2ca6d1d533b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"1ecf20f2-e081-499b-8181-971ae22715d1"
+		],
+		"title": "Elektrische apparaten, spaarlampen, leds, accu's, huishoudelijke apparaten, moderne apparaten, Rendement, Levensduur, Veiligheid",
+		"id": "dbb0dfb5-02ca-49c2-b854-ed229ae17c61",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"25875e34-11a5-4053-9e25-f6b4e7c96add"
+		],
+		"title": "Elektrische apparaten, spaarlampen, leds, accu's, huishoudelijke apparaten, moderne apparaten, Rendement, Levensduur, Veiligheid",
+		"id": "a0e2b093-0437-4b32-ad89-bbafc6eb13f7",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"59c10397-379f-48b5-9306-ebef086091bc"
+		],
+		"title": "Elektrische apparaten, spaarlampen, leds, accu's, huishoudelijke apparaten, moderne apparaten, Rendement, Levensduur, Veiligheid",
+		"id": "056ee1af-2685-4f79-9902-ddd0f1275540",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"ac6483c3-b79a-470b-b2de-940ee4bd9cc8"
+		],
+		"title": "Energieomzetting, Rendement, Vermogen, Formule voor rendement: η = Eaf/Eop = Paf/Pop",
+		"id": "42ea3c81-fe1c-4b2a-877e-1ac9f364621f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"d6de7ff3-5415-4b18-9d10-cc8f4c306e32"
+		],
+		"title": "Energieomzetting, Rendement, Vermogen, Formule voor rendement: η = Eaf/Eop = Paf/Pop",
+		"id": "c59169fb-98c8-483d-8fb1-0522fd8fb464",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"bcbbfa12-3be1-4479-9141-058654ba5d6c"
+		],
+		"title": "Energieomzetting, Rendement, Vermogen, Formule voor rendement: η = Eaf/Eop = Paf/Pop",
+		"id": "38044a65-f72a-4d93-8988-0bfc4312ea03",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"831e9bf2-6a43-45bf-9ddb-ca85a3e068fe"
+		],
+		"title": "Lichtbronnen, zon, kunstlicht, Lichtstralen, rechtlijnigheid, lichtbundels, schaduwvorming",
+		"id": "5965dbfb-64ac-4dd6-943a-84750ddd0250",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"6fd240e8-be96-43c5-b54e-dca63d223e0e"
+		],
+		"title": "Lichtbronnen, zon, kunstlicht, Lichtstralen, rechtlijnigheid, lichtbundels, schaduwvorming",
+		"id": "bb3f4f49-d492-44ca-b52e-c95dcab186df",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"edc4dde0-e6e2-4e77-9c18-e01267916b4d"
+		],
+		"title": "Lichtbronnen, zon, kunstlicht, Lichtstralen, rechtlijnigheid, lichtbundels, schaduwvorming",
+		"id": "643d4200-fda6-498c-abdb-d7fa4d6bcaee",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"bc509645-52d9-41cc-baec-a4a7e8a5d46d"
+		],
+		"title": "Lichtbronnen, zon, kunstlicht, Lichtstralen, rechtlijnigheid, lichtbundels, schaduwvorming",
+		"id": "63a8ada8-324e-4ca4-ae1d-eecd257e718e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"f06df7a8-68ff-4024-9337-e971292bc983"
+		],
+		"title": "Vlakke spiegel, spiegelbeeld, construeren van spiegelbeeld",
+		"id": "110e3e6e-60a7-4e3a-8943-c4bb075e4152",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"9a17faf8-2ea2-41de-9995-4519671ba622"
+		],
+		"title": "Vlakke spiegel, spiegelbeeld, construeren van spiegelbeeld",
+		"id": "2adaa9f8-476c-4c22-b02d-104e0bdaa207",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"630aa476-aad8-489f-b76b-9a39631335b6"
+		],
+		"title": "Vlakke spiegel, spiegelbeeld, construeren van spiegelbeeld",
+		"id": "96e6ce4b-bcca-48ea-b91b-866bc1d279dd",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"a7ad78d8-a2c3-46c0-b216-b6960b9e1b25"
+		],
+		"title": "Vlakke spiegel, spiegelbeeld, construeren van spiegelbeeld",
+		"id": "5664f00b-f7fe-4e46-8265-8fffb3059643",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"80f84418-44ae-46be-a071-70e70af86605"
+		],
+		"title": "Bolle lens, convergeren van lichtstralen, brandpunt, brandpunt(safstand), voorwerp(safstand), beeld(afstand), constructie van het beeld, Holle lens, divergeren van lichtstralen",
+		"id": "f1b0db85-c1ee-40b9-9d62-fca8c1618fcd",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"40ab0ecd-b7be-43bd-a0d0-0052bb23c4b9"
+		],
+		"title": "Bolle lens, convergeren van lichtstralen, brandpunt, brandpunt(safstand), voorwerp(safstand), beeld(afstand), constructie van het beeld, Holle lens, divergeren van lichtstralen, Formule: 1/f - 1/b + 1/v",
+		"id": "624e4fd4-c59d-4a21-883a-521f864a5b19",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"8a7e0ab7-a09b-4ce3-9c61-caa1f2c14aae"
+		],
+		"title": "Bolle lens, convergeren van lichtstralen, brandpunt, brandpunt(safstand), voorwerp(safstand), beeld(afstand), constructie van het beeld, Holle lens, divergeren van lichtstralen, Formule: 1/f - 1/b + 1/v",
+		"id": "c1461a11-b6b7-4d7b-b12a-010deb8bdaa8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"ee9627a9-fdb6-4af3-807f-3bb3aaeb1a3d"
+		],
+		"title": "Bolle lens, convergeren van lichtstralen, brandpunt, brandpunt(safstand), voorwerp(safstand), beeld(afstand), constructie van het beeld, Holle lens, divergeren van lichtstralen, Formule: 1/f - 1/b + 1/v",
+		"id": "ccff249b-e47a-4096-9f39-87e0b4e1b296",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"8e05132b-1215-4cc1-a9c2-a64bb4563ef5"
+		],
+		"title": "Accommoderen, bijziend, verziend, pupil, netvlies, blinde vlek",
+		"id": "3b24acfc-a958-467c-9cd9-325df66282c8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"9b8048a4-74f7-4568-a6d5-bbf30f3dccc9"
+		],
+		"title": "Accommoderen, bijziend, verziend, pupil, netvlies, blinde vlek",
+		"id": "771561b7-3ffb-409d-8e0c-e272f2003437",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"c06e08cf-77ce-4e7d-badf-ee4e82d2a312"
+		],
+		"title": "Accommoderen, bijziend, verziend, pupil, netvlies, blinde vlek",
+		"id": "c7c5490b-00e1-4d80-b7ac-7f8e7054a18e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"5772d7e0-2d14-420b-be25-0a47050c1056"
+		],
+		"title": "Accommoderen, bijziend, verziend, pupil, netvlies, blinde vlek",
+		"id": "c11e2e0d-6d06-48fa-9b15-c08fce3d13bc",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"fd203bae-717d-445c-a17f-032f663a599d"
+		],
+		"title": "Prisma, primaire kleuren, kleurvorming",
+		"id": "7f61c0cf-52d0-49dd-9b37-52ce4d386506",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"34c64a1f-dc57-43c6-8801-7e813beb6ccf"
+		],
+		"title": "Prisma, primaire kleuren, kleurvorming",
+		"id": "b8ba2846-b165-4d71-854e-a511e66424cb",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"ce2116cb-f001-4227-a6f8-43359827e605"
+		],
+		"title": "Prisma, primaire kleuren, kleurvorming",
+		"id": "27c62bd5-800b-404c-a181-6b87cd973e77",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"948c66cc-2f1f-4970-9e76-1e7b46f9dd80"
+		],
+		"title": "Prisma, primaire kleuren, kleurvorming",
+		"id": "8c25e2ec-30e1-4ad1-aa54-81a19121e3f9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"db3a7a1b-7bcb-4e49-bc53-d99e2939169a"
+		],
+		"title": "Toonhoogte, geluidssterkte",
+		"id": "c8e1eebf-bc57-4c08-b0b0-e363aa7084d6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"bd11b956-64b1-4a55-be88-c9dd0ce77d13"
+		],
+		"title": "Toonhoogte, frequentie, amplitude, geluidssterkte",
+		"id": "23033d8a-4698-4e60-9b8f-6a87e68e5913",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"07ed0013-0c4c-47a5-af1d-b90c32801162"
+		],
+		"title": "Toonhoogte, frequentie, amplitude, geluidssterkte",
+		"id": "869cdb1b-75bb-429d-8395-42a80fe95cd2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"3942d3ed-cd71-4064-97bc-6a57ca2ef83e"
+		],
+		"title": "Toonhoogte, frequentie, amplitude, geluidssterkte",
+		"id": "04f3d62c-b13d-4a6f-b32f-edbf502cedf7",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"908bd9d2-f9c7-42ec-8e8e-475589305767"
+		],
+		"title": "Geluidsbronnen, Stemvork, muziekinstrumenten, luidspreker, oortelefoon, machines, verkeer, tussenstof, Lucht, water, geluidsontvanger, oor, microfoon, geluidssnelheid, echo, echolood, echoscopie",
+		"id": "6e1e6a01-a5c4-4186-885d-523e3eb07d65",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"2f1ad4b7-641e-4b8f-b5ae-cedfd19d275b"
+		],
+		"title": "Geluidsbronnen, Stemvork, muziekinstrumenten, luidspreker, oortelefoon, machines, verkeer, tussenstof, Lucht, water, geluidsontvanger, oor, microfoon, geluidsensor, geluidssnelheid, echo, echolood, echoscopie, geluidssnelheid: s = vgeleid . T",
+		"id": "ec7f1a68-b86b-45e9-a094-675be8ea4d50",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"fc08a898-b935-4445-aea9-5e2bdc1c39b9"
+		],
+		"title": "Geluidsbronnen, Stemvork, muziekinstrumenten, luidspreker, oortelefoon, machines, verkeer, tussenstof, Lucht, water, geluidsontvanger, oor, microfoon, geluidsensor, geluidssnelheid, echo, echolood, echoscopie, geluidssnelheid: s = vgeleid . T",
+		"id": "ad62a36f-bfea-430c-8fd8-80313ddaa487",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"ad824d88-d8d0-4846-94db-eddf27ad746f"
+		],
+		"title": "Geluidsbronnen, Stemvork, muziekinstrumenten, luidspreker, oortelefoon, machines, verkeer, tussenstof, Lucht, water, geluidsontvanger, oor, microfoon, geluidsensor, geluidssnelheid, echo, echolood, echoscopie, geluidssnelheid: s = vgeleid . T",
+		"id": "50eb7331-05c1-4b3c-a527-33e66bbfa34d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"1ce1bce4-eed0-48d6-b8a0-5e68e6e6a70d"
+		],
+		"title": "Snaarinstrument, toonhoogte, frequentie, snaarlengte, spankracht",
+		"id": "6353218e-7176-494c-a8b1-0a713c644bcc",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"dca15f00-ed11-4a81-b543-0e9485208118"
+		],
+		"title": "Snaarinstrument, toonhoogte, frequentie, snaarlengte, spankracht",
+		"id": "df5659a6-c03c-4358-a7b1-0522dcc63729",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"f122af7d-e24b-4122-86f1-3c1d2557d709"
+		],
+		"title": "Snaarinstrument, toonhoogte, frequentie, snaarlengte, spankracht",
+		"id": "4b9c72db-edd6-46dc-aa97-9e93f21dd62a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"3633e52b-4824-4c91-b7a9-4f09f9625aa0"
+		],
+		"title": "Snaarinstrument, toonhoogte, frequentie, snaarlengte, spankracht",
+		"id": "d3457f1d-a576-4d48-9e48-9442e67c74a5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"1da602fb-dfae-46e7-a058-92fe755c82a7"
+		],
+		"title": "Geluidssterktemeter, computermetingen, dB(A)-schaal, gehoorgrenzen (tussen 20 Hz en 20 kHz)",
+		"id": "2cfd5c6c-adf9-4a88-b077-3d74fe546403",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"78ea7d39-3b2e-4cd8-880d-ca65d9f1df27"
+		],
+		"title": "Geluidssterktemeter, computermetingen, dB(A)-schaal, gehoorgrenzen (tussen 20 Hz en 20 kHz)",
+		"id": "9d9af39f-f390-41b6-8960-19493d8c1b14",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"06e430b0-700c-4f7b-96f8-7acc9239b394"
+		],
+		"title": "Geluidssterktemeter, computermetingen, dB(A)-schaal, gehoorgrenzen (tussen 20 Hz en 20 kHz)",
+		"id": "5d9fe69a-1d38-4b49-a736-470142642ca8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"acfb769a-cc0e-4a6a-bfa0-84a75ffaa423"
+		],
+		"title": "Geluidssterktemeter, computermetingen, dB(A)-schaal, gehoorgrenzen (tussen 20 Hz en 20 kHz)",
+		"id": "1135af1b-70a2-4062-8842-2ec51b9b81aa",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"18b7805b-3a24-4d87-9cd7-278f3fa805ed"
+		],
+		"title": "Geluidswal, geluidsscherm, gehoorbeschermers, dubbele beglazing",
+		"id": "aa76e22b-777e-4638-addb-c43716b29730",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"8a43f019-c997-430d-8866-8c3bd06a88d2"
+		],
+		"title": "Geluidswal, geluidsscherm, gehoorbeschermers, dubbele beglazing",
+		"id": "1648f671-7b5e-4454-bb29-c3ee4e78c03e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"53e3d65a-5d8c-44ef-aeee-9aac823d00ee"
+		],
+		"title": "Geluidswal, geluidsscherm, gehoorbeschermers, dubbele beglazing",
+		"id": "28c86b0a-d1bb-4c5d-9236-ddea9f9e9c74",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"ab1bbee7-4db9-4f3b-9f20-ab2a4bdfb817"
+		],
+		"title": "Geluidswal, geluidsscherm, gehoorbeschermers, dubbele beglazing",
+		"id": "89f0b9b2-be4f-4a84-8228-1595bb9622fe",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"75412d9f-9020-465f-a43d-0704dc3da05d"
+		],
+		"title": "Oscilloscoopbeeld, Trillingstijd, frequentie, Formule: f = 1 / T",
+		"id": "f8a3661e-c9ab-46d3-9cab-4db1897619d3",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"8cf1e326-22d1-43c0-9b2c-31572d04d224"
+		],
+		"title": "Oscilloscoopbeeld, Trillingstijd, frequentie, Formule: f = 1 / T",
+		"id": "f2fdd151-1d2b-4bab-874d-0a538bd7bff6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"586057cb-c92e-4d9c-ba22-427b21392082"
+		],
+		"title": "Oscilloscoopbeeld, Trillingstijd, frequentie, Formule: f = 1 / T",
+		"id": "5e7e3141-1fb3-44b6-a291-b8610738551a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"4857a7f2-b92a-4a01-99d3-886956ad430d"
+		],
+		"title": "Conus, magneet, spoel",
+		"id": "4834ab42-f415-44c4-8bef-066795a0e5ba",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"64835db3-7be2-4559-bf3e-0ce46911074e"
+		],
+		"title": "Conus, magneet, spoel",
+		"id": "c1373cd3-667f-4d0b-8977-d0595c867c0a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"826c24e9-352f-4458-8c4a-35b01a8febda"
+		],
+		"title": "Conus, magneet, spoel",
+		"id": "305b3b5f-1413-4e7a-a713-36b1fe74e6d0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"74b28822-946d-41b1-a336-15d9ddccc870"
+		],
+		"title": "Alfa-, bèta-, gammastraling",
+		"id": "cf3071b8-7eb1-4659-a499-b22829ba748f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"1cacd904-7718-4407-aa1a-fe16b3a1ebc8"
+		],
+		"title": "Alfa-, bèta-, gammastraling",
+		"id": "cde346e6-f08f-4083-95ce-1eb04c3f2134",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"74684b49-cdd7-47af-8771-26294344d581"
+		],
+		"title": "Alfa-, bèta-, gammastraling",
+		"id": "e262a7d3-9c21-44f7-8bca-0ab3f35b7f65",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"3bbf7fb7-c901-476a-a612-96d46e252951"
+		],
+		"title": "Halveringstijd als maat voor de activiteit van een stof.",
+		"id": "1b34c9a4-5954-4253-933d-adbc2129ba32",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"f342e80d-5f11-4171-9b97-5dce4e6f8f0f"
+		],
+		"title": "Halveringstijd als maat voor de activiteit van een stof.",
+		"id": "08232379-7f4c-4179-8b10-c17b80ee06c4",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"20e2d76e-637d-40b6-b7bb-2439928d13ce"
+		],
+		"title": "Halveringstijd als maat voor de activiteit van een stof.",
+		"id": "9a94ab4c-5e6c-473c-8a0a-011e2a7c6033",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"4c388d1c-7910-4405-a607-0bcfbc086a0c"
+		],
+		"title": "Röntgenfoto, hoogtezon, rode lamp",
+		"id": "1e19aef3-44c0-4706-8b36-60a02d1bb6b6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"f81f4231-be1a-4947-921a-411bfd4d2a33"
+		],
+		"title": "Röntgenfoto, hoogtezon, rode lamp",
+		"id": "65d8c806-6708-4fa8-854c-512b1d1ce0f6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"e591f86d-ac44-493b-b58e-9fe09b4b2c0c"
+		],
+		"title": "Röntgenfoto, hoogtezon, rode lamp",
+		"id": "846afbe3-4186-41aa-859e-ff0695496d7c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"227072e6-a589-4f2f-96f0-45584a8a93f5"
+		],
+		"title": "Opslag kernafval, afscherming met lood",
+		"id": "41e9a7be-7318-4d75-b193-78592eccd31d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"fb923bc9-d0d3-482f-a998-06ed4b1a11b6"
+		],
+		"title": "Opslag kernafval, afscherming met lood",
+		"id": "25f0aa3e-08e4-481c-bf14-548d35faec46",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"1478863e-2800-485c-ae34-8917c55e38c9"
+		],
+		"title": "Opslag kernafval, afscherming met lood",
+		"id": "c48fc953-ad11-4951-89ad-ecddbe3ff376",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"8c014167-bce0-4cfb-b644-79bd70fc8de1"
+		],
+		"title": "Soorten krachten, spierkracht, veerkracht, spankracht, zwaartekracht, wrijvingskracht, magnetische kracht, elektrische kracht, Vectorvoorstelling, grootte en richting, Kracht meten, veerunster of krachtsensor",
+		"id": "b3ff90d5-4bd3-4323-a10b-ac357575bbfd",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"c030e248-2e82-499f-8f59-09b80bc47992"
+		],
+		"title": "Soorten krachten, spierkracht, veerkracht, spankracht, zwaartekracht, wrijvingskracht, magnetische kracht, elektrische kracht, Vectorvoorstelling, grootte en richting, Kracht meten, veerunster of krachtsensor",
+		"id": "f8273c95-8bcf-4c51-bb04-76b56884412a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"e060aaef-d407-465c-9797-3dfe783f23ac"
+		],
+		"title": "Soorten krachten, spierkracht, veerkracht, spankracht, zwaartekracht, wrijvingskracht, magnetische kracht, elektrische kracht, Vectorvoorstelling, grootte en richting, Kracht meten, veerunster of krachtsensor",
+		"id": "fbac741e-1ebb-449b-9ab1-f908f8105dbb",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"a32cae3a-9904-4e4c-9aaa-6660b2d13947"
+		],
+		"title": "Soorten krachten, spierkracht, veerkracht, spankracht, zwaartekracht, wrijvingskracht, magnetische kracht, elektrische kracht, Vectorvoorstelling, grootte en richting, Kracht meten, veerunster of krachtsensor",
+		"id": "e168c84a-b528-46dc-918e-177fa710d046",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"61c5e979-ceaf-4c83-a669-195a48a3ae2a"
+		],
+		"title": "Hefbomen, kracht, arm, evenwicht, tang, klauwhamer, breekijzer, steekwagen, steek/ringsleutel, momentsleutel",
+		"id": "fdb483a6-32df-453d-a3b4-0f347b1c9d7e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"2eb04f3d-1673-476c-9fb5-24575aabd17e"
+		],
+		"title": "Hefbomen, kracht, arm, evenwicht, tang, klauwhamer, breekijzer, steekwagen, steek/ringsleutel, momentsleutel",
+		"id": "0dafebdc-ead8-42f7-a014-d1a6590f6e4a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"a3239db4-e61e-4ef1-902b-a210117c7acf"
+		],
+		"title": "Hefbomen, kracht, arm, evenwicht, tang, klauwhamer, breekijzer, steekwagen, steek/ringsleutel, momentsleutel, Formules: M = F . L, Mlinksom = Mrechtsom",
+		"id": "60203215-1554-48b7-b9aa-24efdacab92f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"9ed273f5-5c8f-4133-9fd9-f9109d719a50"
+		],
+		"title": "Hefbomen, kracht, arm, evenwicht, tang, klauwhamer, breekijzer, steekwagen, steek/ringsleutel, momentsleutel, Formules: M = F . L, Mlinksom = Mrechtsom",
+		"id": "3243a15c-3e34-495e-b7fd-b52aa6e7e4e0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"bb4cc710-c81f-480f-90a5-3da195079675"
+		],
+		"title": "Soorten krachten, aandrijfkracht en remkracht, tegenwerkende krachten, zoals luchtwrijving en rolwrijving, nettokracht",
+		"id": "12806c2b-5483-4774-b5fd-903f175a1b26",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"b4125639-f58d-4889-83f0-0808751e7a96"
+		],
+		"title": "Soorten krachten, aandrijfkracht en remkracht, tegenwerkende krachten, zoals luchtwrijving en rolwrijving, nettokracht",
+		"id": "5e2af933-eaa2-4022-874c-bedf2b14c486",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"8d8de44d-ace9-40f5-8b05-1cef92e75342"
+		],
+		"title": "Soorten krachten, aandrijfkracht en remkracht, tegenwerkende krachten, zoals luchtwrijving en rolwrijving, nettokracht",
+		"id": "53b50ebe-db84-4f85-8761-462157610830",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"1c8a0ace-9bb2-4457-936a-129a7564bc14"
+		],
+		"title": "Soorten krachten, aandrijfkracht en remkracht, tegenwerkende krachten, zoals luchtwrijving en rolwrijving, nettokracht",
+		"id": "c0e81c26-5f2d-457b-b721-a7b94b99b5ec",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"daec0aa9-a700-42a9-829f-acd1941ce093"
+		],
+		"title": "Resultante, massamiddelpunt, zwaartekracht",
+		"id": "f72ff6f8-b1f3-4d99-8562-c19b205bff66",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"25414644-ebcc-40ef-bf52-e23faed4b7e4"
+		],
+		"title": "Resultante, massamiddelpunt, zwaartekracht",
+		"id": "9541bbcd-7854-4111-80b2-d17932a2223b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"32a846c7-184c-4f7c-90e7-709b46f7f50a"
+		],
+		"title": "Veiligheidsgordel, veiligheidshelm, rijplaten, rupsband, tractorbanden, mes, punaise",
+		"id": "c4437d9e-5e74-45e8-8858-861332075a5a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"a8801de7-08f4-4836-9c18-d47bd7734d4a"
+		],
+		"title": "Veiligheidsgordel, veiligheidshelm, rijplaten, rupsband, tractorbanden, mes, punaise, Formule: p = F / A",
+		"id": "319dec53-80b2-4a9c-9594-01a0ea616c45",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"63f73c5f-6884-4b00-9df4-1ef20196e2c7"
+		],
+		"title": "Veiligheidsgordel, veiligheidshelm, rijplaten, rupsband, tractorbanden, mes, punaise, Formule: p = F / A",
+		"id": "f10599c2-f891-4ee7-b223-f32ad16a0042",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"fb544e65-76ed-4d9d-aa74-e2b6209dafe3"
+		],
+		"title": "Veiligheidsgordel, veiligheidshelm, rijplaten, rupsband, tractorbanden, mes, punaise, Formule: p = F / A",
+		"id": "b2a40660-2def-4ad8-b094-ddd015324189",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"20213928-9518-419e-b2bb-cce7beaa730f"
+		],
+		"title": "Afstand, tijd, snelheid, Woordformule: gemiddelde snelheid = afstand/ tijd",
+		"id": "343a9085-1df9-44c3-9f8c-343708731904",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"fcfde10f-4388-4f60-b028-ce4d46387ccc"
+		],
+		"title": "Afstand, tijd, snelheid, Formule: v gem = s / t",
+		"id": "c5ea6493-7239-450f-b373-52d95a78bce1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"b2ddd375-12d4-4ec9-a013-6cec5cac493c"
+		],
+		"title": "Afstand, tijd, snelheid, Formule: v gem = s / t",
+		"id": "24f262b2-6710-4401-badc-ae435676ed92",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"dafb0ac2-cc35-4255-8825-6b0555b374c7"
+		],
+		"title": "Afstand, tijd, snelheid, Formule: v gem = s / t",
+		"id": "ab718c9e-4c14-4112-90bf-b6e6715b9dec",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"9eb1442f-12cb-491b-9c7c-e33c9d167fa9"
+		],
+		"title": "(s, t)- en (v,t)-diagrammen van bewegingen, constante snelheid, andere bewegingen.",
+		"id": "7bad9d98-453a-4ce9-bae9-7c95eb62808b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"029edb3d-47bf-4249-afc4-da0a18e1ea21"
+		],
+		"title": "(s, t)- en (v,t)-diagrammen van bewegingen, constante snelheid, eenparig versnelde beweging, eenparig vertraagde beweging, andere bewegingen",
+		"id": "62cbe772-bcab-4566-9cd3-32447ef72378",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"6d67283d-7234-408f-83ce-c598aaffebba"
+		],
+		"title": "(s, t)- en (v,t)-diagrammen van bewegingen, constante snelheid, eenparig versnelde beweging, eenparig vertraagde beweging, andere bewegingen",
+		"id": "f531103e-2b58-451d-acd4-e1e672453b76",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"074ad546-2daf-4ae4-af4d-8b90e313fdf8"
+		],
+		"title": "(s, t)- en (v,t)-diagrammen van bewegingen, constante snelheid, eenparig versnelde beweging, eenparig vertraagde beweging, andere bewegingen",
+		"id": "c8cfffc6-a1ef-4a46-9977-75a831c5a5ad",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"1e440fe1-db02-45f4-a2b4-5fa396d1dc39"
+		],
+		"title": "reactietijd, rijsnelheid, staat van de banden en het wegdek, weersomstandigheden, Woordformule: stopafstand = reactieafstand + remweg",
+		"id": "eddc0c4d-82e1-4553-8d42-6f72ed480a62",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"583956e8-dbec-4f71-a5a8-f61ba650ec86"
+		],
+		"title": "reactietijd, rijsnelheid, staat van de banden en het wegdek, weersomstandigheden, Woordformule: stopafstand = reactieafstand + remweg",
+		"id": "96b47bab-8653-4e70-9574-1c18d5598fe5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"93028d79-58f6-4da0-aaf0-155f8730cb8f"
+		],
+		"title": "reactietijd, rijsnelheid, staat van de banden en het wegdek, weersomstandigheden, Woordformule: stopafstand = reactieafstand + remweg",
+		"id": "6024235e-dcc3-40a1-a6e4-f051fbcb6e8a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"58215fda-45b7-448f-9744-1627b03a8db6"
+		],
+		"title": "reactietijd, rijsnelheid, staat van de banden en het wegdek, weersomstandigheden, Woordformule: stopafstand = reactieafstand + remweg",
+		"id": "b540b0e6-dbfe-44b0-b169-feaf556f87f5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"ebd5f531-0ed3-4c13-a30a-1dd6faab006a"
+		],
+		"title": "Grootheden, snelheid, vertraging/versnelling, kracht, arbeid, bewegingsenergie, zwaarte-energie, vermogen, Formules: s = v.t, a = Δv / Δt, F = m.a, W = F.s, Ebew = ½ m.v2, Ez = m.g.h, P = E / t",
+		"id": "f61fa95d-ce8e-4de7-be36-c07f5313a836",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"2c3c86c5-b525-4557-ae8c-44ab4b815f01"
+		],
+		"title": "Grootheden, snelheid, vertraging/versnelling, kracht, arbeid, bewegingsenergie, zwaarte-energie, vermogen, Formules: s = v.t, a = Δv / Δt, F = m.a, W = F.s, Ebew = ½ m.v2, Ez = m.g.h, P = E / t",
+		"id": "f97bd977-76d5-4892-9651-541696f3e4b5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"ab77a41b-4c9f-4742-8f6b-53cd7aab4a43"
+		],
+		"title": "Snelheidsverandering, traagheid",
+		"id": "068a9033-a970-43ae-a20a-31777604d383",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"f282bbfe-5f13-4df3-9125-138f87d588cb"
+		],
+		"title": "Snelheidsverandering, traagheid",
+		"id": "b9ca3432-4cbb-4073-b31e-fba13d3793c9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"74e38402-6d2b-4478-802b-7ecaf023e7f9"
+		],
+		"title": "Snelheidsverandering, traagheid",
+		"id": "30d75217-a2db-4120-aa04-35b29b23e35d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"58d34a65-69f6-4561-b9a7-0110bbdf32da"
+		],
+		"title": "foto, videoregistratie, computersimulatie, gegevensbestand, internetpagina, applet, tekening, resultaten van proeven, Verwerkingsactiviteit, meten, videometen, ontwerpen, berekenen, beredeneren, selecteren, tekenen, uitlezen",
+		"id": "c1c658fb-700e-442c-98cd-ae4f2fa9f5cb",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"b1ee7baa-7ecb-4db0-ac61-19503da5c05e"
+		],
+		"title": "foto, videoregistratie, computersimulatie, gegevensbestand, internetpagina, applet, tekening, resultaten van proeven, Verwerkingsactiviteit, meten, videometen, ontwerpen, berekenen, beredeneren, selecteren, tekenen, uitlezen",
+		"id": "6b34274e-76e3-428f-bd0c-a888bd92a43d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"b2189917-e528-485b-b965-38a5fcbf39ce"
+		],
+		"title": "veerkracht en zwaartekracht, spankracht, trekkracht, duwkracht, massamiddelpunt, moment van een kracht, momentenwet bij evenwicht, vector, nettokracht, krachten samenstellen en ontbinden, Contexten, woningbouw, voertuigen, bruggen, grote en kleine ophangsystemen",
+		"id": "7727579c-873d-45a2-b632-159594ff9335",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"becb0af0-3739-4a24-a681-df0da671978e"
+		],
+		"title": "veerkracht en zwaartekracht, spankracht, trekkracht, duwkracht, massamiddelpunt, moment van een kracht, momentenwet bij evenwicht, vector, nettokracht, krachten samenstellen en ontbinden, Contexten, woningbouw, voertuigen, bruggen, grote en kleine ophangsystemen",
+		"id": "c0d72cfb-420c-4340-a09c-a2e611bf65c6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"f998622d-8b19-4aed-a45b-113c478c4806"
+		],
+		"title": "Vaste katrol, losse katrol, takels",
+		"id": "6e490eaf-2cf0-4f04-99c6-7e9b4b49aca8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"89e50716-1e0b-4c2a-868b-f7d4d8d9221a"
+		],
+		"title": "Vaste katrol, losse katrol, takels",
+		"id": "ebf04999-e1fa-4321-9c36-b5144ce7c963",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"2ab1c586-4bcb-43dd-986f-d3bc510d66b8"
+		],
+		"title": "Vaste katrol, losse katrol, takels",
+		"id": "cc9f528a-a05d-486c-92dc-98ca533d03ae",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"5b9eb6cd-e8f1-4ebd-b51d-393fdec87a95"
+		],
+		"title": "Vaste katrol, losse katrol, takels",
+		"id": "e82322fd-673a-48ed-9971-d8e5e421bf4b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"ffdf1783-efae-4f80-ab3a-82fe7b148b06"
+		],
+		"title": "veiligheidsgordel, veiligheidshelm, kreukelzone, hoofdsteun, kooiconstructie, airbag",
+		"id": "865fc391-65f9-4e03-a2c4-a1b059f6d35f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"e8f75e20-b2f1-4d5d-bd4c-c533db9712bc"
+		],
+		"title": "veiligheidsgordel, veiligheidshelm, kreukelzone, hoofdsteun, kooiconstructie, airbag",
+		"id": "397f90b8-e6f6-4b63-85d6-351351832124",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"64d2d509-ffd4-443d-af1c-84fc2c62003f"
+		],
+		"title": "veiligheidsgordel, veiligheidshelm, kreukelzone, hoofdsteun, kooiconstructie, airbag",
+		"id": "48880a5e-b47d-47c9-b1b4-a996a09936b1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"52bda887-c7ac-4832-90ba-a092668ec2c3"
+		],
+		"title": "veiligheidsgordel, veiligheidshelm, kreukelzone, hoofdsteun, kooiconstructie, airbag",
+		"id": "d5b11d5f-96e6-45d2-a226-e45fe9ea2a7f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"cb44ee5a-2e40-4c4d-a0d1-9f67d769fd33"
+		],
+		"title": "Temperatuur, luchtdruk, meetapparatuur, thermometer, barometer, regenmeter, weersverwachting",
+		"id": "113b38b4-73c9-4bfe-8979-abc497840c7b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"6fc4209d-84d7-4d55-be52-08e07526fa47"
+		],
+		"title": "Temperatuur, luchtdruk, meetapparatuur, thermometer, barometer, regenmeter, weersverwachting",
+		"id": "56c61eb8-3c37-4a98-99d8-c61467c10017",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"6b16f8a8-4433-4997-b35d-93299c791f36"
+		],
+		"title": "Temperatuur, luchtdruk, meetapparatuur, thermometer, barometer, regenmeter, weersverwachting",
+		"id": "a58b3622-d960-418c-8d1b-029d492b1a7e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"94f51311-f4ff-442a-97a8-bf3e2f6d8322"
+		],
+		"title": "Stijgende en dalende lucht, condensatie, verdamping, ontlading",
+		"id": "8ebad22c-8fd4-4ea5-b976-08ef212228a2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"16bddf3a-d9d6-42b1-a7f4-b40cc34b9a08"
+		],
+		"title": "Stijgende en dalende lucht, condensatie, verdamping, ontlading",
+		"id": "a0167b73-9d16-4374-9262-cfb1a816b770",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"3cdc17d9-f220-49db-bbdc-aca1c0ca3c13"
+		],
+		"title": "Stijgende en dalende lucht, condensatie, verdamping, ontlading",
+		"id": "19f637c3-e13b-4679-8bdd-c0a82f33345e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"91d46acf-a211-461a-9101-f480941e4675"
+		],
+		"title": "Landbouw, recreatie, natuurverschijnselen, natuurrampen",
+		"id": "357cae77-ab24-47db-8c36-777f76acc949",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"69b3873a-6424-426d-8f98-c5deb19521bf"
+		],
+		"title": "Landbouw, recreatie, natuurverschijnselen, natuurrampen",
+		"id": "c8dac973-1f53-47e0-ada5-6449c50817d6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"1a64d937-f835-4a5b-8796-9330701c2ee3"
+		],
+		"title": "Landbouw, recreatie, natuurverschijnselen, natuurrampen",
+		"id": "618b38ae-ea16-468b-923b-7b2e431da52f",
+		"unreleased": true
 	}
 ]
