@@ -1,1 +1,3258 @@
-[]
+[
+	{
+		"ce_se": "CE; SE",
+		"doelniveau_id": [
+			"7a91687f-c5ce-4141-a844-64814e0ccfd9"
+		],
+		"title": "niet-financiële overwegingen, inveseringsvraagstuk",
+		"id": "c3818e3d-ceb3-4a84-8065-2e6b785155b2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"doelniveau_id": [
+			"b30f16b1-f3ec-4ef1-aa77-d006ba65b3cd"
+		],
+		"title": "verzekeren, sparen, lenen, beleggen",
+		"id": "a939542d-229f-4be4-b3b7-33e8c0126872",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"doelniveau_id": [
+			"d080e092-4784-4de0-ace8-05e2113376d6"
+		],
+		"title": "verzekeren",
+		"id": "5fb9b448-4552-43ed-9309-76539f2951ca",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"doelniveau_id": [
+			"a86f4e71-aa15-4132-96a2-170d2f12dd2f"
+		],
+		"title": "levensverzekering; schadeverzekering",
+		"id": "2ead59bb-9537-4ddf-adb3-88cc24a5a4b6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"doelniveau_id": [
+			"4d4a4d99-df32-4942-bd22-5f05e9b59f50"
+		],
+		"title": "lenen, rente- en aflossingsverplichtingen, financiële gevolgen",
+		"id": "a2648b99-3583-4f82-8865-b395b863d7ce",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"doelniveau_id": [
+			"dfa5d9ce-5529-4089-945b-28cc1ed24a2e"
+		],
+		"title": "schuldrest, periodieke interestbedragen, periodieke aflossingsbedragen, consumptief krediet, hypothecair krediet",
+		"id": "3b7e86ad-733f-4251-9d54-60be369a02b2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"doelniveau_id": [
+			"cd54b0ae-ebcb-4caf-bcaf-b67a83dfb7d5"
+		],
+		"title": "enkelvoudige interest, samengestelde interest",
+		"id": "ff545051-c4d2-4ffd-956d-362df9930f8f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"doelniveau_id": [
+			"1af919b8-c7cf-419f-8fee-195986466aa3"
+		],
+		"title": "enkelvoudige interest",
+		"id": "0a2af8a1-28dc-4ea5-8268-2cfe4a8a5f6b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"doelniveau_id": [
+			"dfb79801-1d0a-4723-86cd-27308320d519"
+		],
+		"title": "samengestelde interest, contante waarde, eindwaarde",
+		"id": "e2f685fd-798d-41b5-a54a-ed2714abfe35",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"doelniveau_id": [
+			"81172f70-1391-4a17-a0cd-30e53e553b4b"
+		],
+		"title": "vrijwillig sparen, verplicht sparen",
+		"id": "654a6a81-95ba-4a99-b7e2-c6469e2e8ef6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"doelniveau_id": [
+			"3d96f178-23f4-4690-b9f4-39b95afaae7b"
+		],
+		"title": "verplichte spaarvorm, bedrijfspensioen",
+		"id": "ae2ef8a8-6027-48f7-9c31-b2e7c022a99f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"doelniveau_id": [
+			"52259b9d-1190-4aca-a5a1-1118e7e9c353"
+		],
+		"title": "vrijwillige spaarvormen, direct opneembare spaartegoeden, niet-direct opneembare spaartegoeden",
+		"id": "4b1e1e87-ba5b-426d-b470-7c8fcb1fd602",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"doelniveau_id": [
+			"8e58e80b-4ac0-44bd-ab90-03e763edc847"
+		],
+		"title": "vermogenstitels, aandelen, obligaties, beleggingsfondsen, effectenbeurs",
+		"id": "db96c7d9-e92d-49ef-aba9-05c5b0c1b1d0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"doelniveau_id": [
+			"3d99e36b-145c-4593-ac22-76c39e8b9af6"
+		],
+		"title": "vermogenstitels, risico, rendement",
+		"id": "fb3fda45-eb7a-4f28-9cd4-19e740f6b53a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"doelniveau_id": [
+			"210f090b-a82c-4ee2-8e4d-e94709f7b77e"
+		],
+		"title": "huren",
+		"id": "f44dde52-797d-416c-90a2-1c17aa42866f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"doelniveau_id": [
+			"f6edd94c-d00e-45a6-a55f-2f5e36f5ef1c"
+		],
+		"title": "huren",
+		"id": "1e9d4e6c-36d2-435e-b153-b6622431f91f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"doelniveau_id": [
+			"84524d13-bc8e-4aa2-b483-ec522f05d14f"
+		],
+		"title": "partijen hupotheekmarkt, bank, hypotheekadviseur, makelaar, notaris",
+		"id": "3a2fc754-b8b3-4c33-a76f-affd9a56ecf6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"doelniveau_id": [
+			"e0fd491d-ea2c-4af7-b3fd-c2e8c2326f67"
+		],
+		"title": "hypothecair krediet, lineaire hypotheek, annuïteitenhypotheek",
+		"id": "c21cf059-4a32-4724-838f-862b09f408ef",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"doelniveau_id": [
+			"dcfce294-fbcd-4590-945c-1a6ac6613bd5"
+		],
+		"title": "renteverplichtingen, aflossingsverplichtingen, hypotheekgever",
+		"id": "a97339df-9f6c-49f8-baa5-8865d52a019f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"doelniveau_id": [
+			"721b7c72-b4d1-4c7f-8eb4-8250db50c234"
+		],
+		"title": "fiscale gevolgen, hypotheekgever",
+		"id": "9761117a-9de5-4d4f-b67e-34a656baee85",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"doelniveau_id": [
+			"a81476e2-0cca-4df0-9865-0bdb085c37e1"
+		],
+		"title": "samenwonen zonder samenlevingscontract, samenwonen met samenlevingscontract",
+		"id": "e07ba5b9-5604-401b-ad5c-02701e2b6788",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"doelniveau_id": [
+			"c3a974d4-4ba2-4015-8161-51449f93be58"
+		],
+		"title": "trouwen, geregistreerd partnerschap, in gemeenschap van goederen, op huwelijkse voorwaarden, partnerschapsvoorwaarden",
+		"id": "ea36890f-d7ff-40f7-a540-35636e67c235",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"doelniveau_id": [
+			"78693c75-6e44-4b6d-8c63-8bb4298fb8f9"
+		],
+		"title": "scheiden, scheidingsprocedure, partnerpensioenrechten, alimentatie, onderhoudsverplichting",
+		"id": "8024e00c-bdf3-4604-b1cc-a4a2799d287e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"doelniveau_id": [
+			"d6caa6a8-d499-4043-ab2f-a8b55549ac4b"
+		],
+		"title": "schenken, overeenkomst om niet, onder bewind, uitsluitingsclausule, schenkbelasting, belastingvrijstelling, vrijstellingen bij schenkingen aan ANBI",
+		"id": "39e09fb4-5563-4775-bfb1-309f2ccd217c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"doelniveau_id": [
+			"67165a30-6761-4f18-a776-1ca496e1d34f"
+		],
+		"title": "erven, testament, erfgenamen, onterven, legitieme portie, verwerpen, aanvaarding onder voorrecht van boedelbeschrijving, beneficiair aanvaarden, zuiver aanvaarden, successierechten",
+		"id": "78cd090c-6aac-4409-ab4a-4e3e011a347f",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"79715757-5c5d-44da-8b6e-ccbf2b03de38"
+		],
+		"title": "niet-financiële overwegingen, inveseringsvraagstuk",
+		"id": "81ca53a9-d1ec-455f-9e1a-fd77a1a2f1c0",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"971b3ea2-cbb5-4a0e-88ac-2b7faa09fb88"
+		],
+		"title": "verzekeren, sparen, lenen, beleggen",
+		"id": "bc6d275e-660b-48fe-9ba9-7ac2dfeb3893",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"192c0ea6-54f0-4a51-b6b4-e2bfaa81adc7"
+		],
+		"title": "verzekeren",
+		"id": "d60a1d8e-683a-4a0f-9c66-52f6f9dc15a3",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"76b5fb8a-9064-40fb-a0a0-89acb8569cf7"
+		],
+		"title": "levensverzekering; schadeverzekering",
+		"id": "498f5d83-c3b7-4601-afcb-c1db60033dfa",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"ebf5125c-cc7a-49d0-a8c8-7d60dac04a6b"
+		],
+		"title": "lenen, rente- en aflossingsverplichtingen, financiële gevolgen",
+		"id": "aefc0cd6-af4a-49e4-8142-6366e82a0ed9",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"27f5151d-3240-4204-98ab-2032b3dff987"
+		],
+		"title": "schuldrest, periodieke interestbedragen, periodieke aflossingsbedragen, consumptief krediet, hypothecair krediet",
+		"id": "2fe7570e-0458-4ff0-aff8-fe2a1ccde13e",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"fb6cdc98-0678-4068-b0e9-6f54f1d607ec"
+		],
+		"title": "enkelvoudige interest, samengestelde interest",
+		"id": "637cd454-bcab-4e41-aca0-323f3860671f",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"51206a30-8985-49c9-8c66-52cbdbd688cb"
+		],
+		"title": "enkelvoudige interest",
+		"id": "ba41e0ec-8778-4848-8b74-652fd6d745a2",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"e212fc07-d369-40b1-a523-5318661c9d48"
+		],
+		"title": "samengestelde interest, contante waarde, eindwaarde",
+		"id": "d9305d96-0dd6-440b-92d1-efe29191ffdf",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"f8589b24-2f04-4c04-b4a5-52517f00c061"
+		],
+		"title": "samengestelde interest, contante waarde, eindwaarde",
+		"id": "93167739-cd36-4d1b-ac2b-655efb75c5dc",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"881104cc-9f76-42aa-bb23-849978c41f41"
+		],
+		"title": "vrijwillig sparen, verplicht sparen",
+		"id": "41281032-c2d5-43f9-9970-b2a9e062f893",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"7689f048-3380-433a-8e09-aabc9c4fa968"
+		],
+		"title": "verplichte spaarvorm, bedrijfspensioen",
+		"id": "8ab2ee08-88cc-451b-8a8d-5657ce932bfa",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"b808b510-10e5-4bfb-835b-f64377c13f3f"
+		],
+		"title": "vrijwillige spaarvormen, direct opneembare spaartegoeden, niet-direct opneembare spaartegoeden",
+		"id": "9628b28e-a29d-45b9-83a5-1d6c7632f586",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"doelniveau_id": [
+			"25f3851a-c449-4b1c-b05b-e29228c41698"
+		],
+		"title": "vermogenstitels, aandelen, obligaties, beleggingsfondsen, effectenbeurs, call-opties, put-opties",
+		"id": "cb730fe1-4753-44fa-ab7d-1b2f1c8224d0",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"b1c6ef1b-3d30-41b7-b980-d6f23f5a00db"
+		],
+		"title": "vermogenstitels, risico, rendement",
+		"id": "c631552f-3401-43a8-b90d-23552505da84",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"ebbc1782-ea3c-4484-8d95-797ae13fc67b"
+		],
+		"title": "huren",
+		"id": "e3358960-9792-4d79-981f-4b3058d165e9",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"ba625777-02db-422a-8454-ef0d9dccfe62"
+		],
+		"title": "huren, huurverplichtingen, verhuurverplichtingen",
+		"id": "ee8e2f9c-c2cf-46fc-aabf-c5d73687b0b8",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"e8504a32-afb9-41f8-9055-8948807c6b57"
+		],
+		"title": "partijen hupotheekmarkt, bank, hypotheekadviseur, makelaar, notaris, taxateur",
+		"id": "2851be49-f701-4a0b-8c44-3354b74f3636",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"52fb4a93-5ed8-42f9-9b64-db8fefa9f7c2"
+		],
+		"title": "hypothecair krediet, lineaire hypotheek, annuïteitenhypotheek",
+		"id": "a23b6bff-fc69-4e4a-ba02-2fd9cf38118c",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"099911a2-e6e7-4ed9-88f0-a2b17e2504c4"
+		],
+		"title": "renteverplichtingen, aflossingsverplichtingen, hypotheekgever",
+		"id": "06e117b9-adbe-4e3f-88b5-c6020b078576",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"30e43416-9442-4c13-bcea-1a19b22e5836"
+		],
+		"title": "fiscale gevolgen, hypotheekgever",
+		"id": "4e1a4394-e9b1-49a7-8a45-1d3b5a81a9a7",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"c08b18aa-c023-4457-a0ba-0e4c7e1fdb93"
+		],
+		"title": "samenwonen zonder samenlevingscontract, samenwonen met samenlevingscontract",
+		"id": "97c8b9a2-eef4-4257-817d-bc8c4e3c54cd",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"3bc58679-7b16-4324-b1a9-8dc9334e3ce7"
+		],
+		"title": "trouwen, geregistreerd partnerschap, in gemeenschap van goederen, op huwelijkse voorwaarden, partnerschapsvoorwaarden",
+		"id": "464e7488-c767-417e-aace-efd137727fc8",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"1408b07e-c26a-4e79-a755-63e8b3e62319"
+		],
+		"title": "scheiden, scheidingsprocedure, partnerpensioenrechten, alimentatie, onderhoudsverplichting",
+		"id": "7e40cc94-f7fa-4082-904d-3db19bd2a2b3",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"8152810c-6c17-4f8a-93f8-633dbe4e227f"
+		],
+		"title": "schenken, overeenkomst om niet, schenkbelasting, belastingvrijstelling, vrijstellingen bij schenkingen aan ANBI",
+		"id": "75a2eda4-7de8-49c0-911f-586269d35cdf",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"e87c4ed7-5455-49b7-84b3-8f5aafdfe329"
+		],
+		"title": "erven, testament, erfgenamen, onterven, legitieme portie, verwerpen, aanvaarding onder voorrecht van boedelbeschrijving / beneficiair aanvaarden, zuiver aanvaarden, erfbelastingen en vrijstellingen.",
+		"id": "9d7f7163-f1b7-4b39-8b75-4d89518abb54",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"doelniveau_id": [
+			"be9d9af9-d03f-459b-a38b-687faad756fb"
+		],
+		"title": "arbeidsrelatie, zelfstandig ondernemerschap",
+		"id": "d15806f0-1fff-457b-af76-d931134044ca",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"doelniveau_id": [
+			"f286ccab-07ba-46e3-9021-97bf35e8fa54"
+		],
+		"title": "opdrichtingsproces",
+		"id": "5e1b979b-1cd7-458b-b128-3aa1afcac487",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"doelniveau_id": [
+			"7ef2997d-c902-4f0b-b24a-97cbf222d413"
+		],
+		"title": "causation, effectuation",
+		"id": "8ab3bcae-eb8f-4b21-89ab-5ba8594e7980",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"doelniveau_id": [
+			"b5cf0b3e-fa56-4532-9967-b78e06480ddc"
+		],
+		"title": "causation, marktdefinitie, segmentatie, positioneren",
+		"id": "9ecd7529-f702-4cbf-b1ff-22c7cc9bb783",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"doelniveau_id": [
+			"50ee297c-df36-4d94-a5c7-94c22f0b7cbe"
+		],
+		"title": "effectuation, nieuwe markten en uitgaan van beschikbare middelen, strategische partners, stakeholders",
+		"id": "095b97dc-33b7-45cc-82fe-c087b7c22513",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"doelniveau_id": [
+			"0c553a71-94f1-463d-b281-6950af5e7dac"
+		],
+		"title": "ondernemingsplan",
+		"id": "c72caf20-c0bf-4e49-9d2b-49af46f49145",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"doelniveau_id": [
+			"d3e2fa33-c4f5-4dae-b289-44f5680d2b64"
+		],
+		"title": "persoonlijk plan, persoonlijke gegevens, persoonlijke motieven, persoonlijke kwaliteiten",
+		"id": "7ccf7e07-8437-4aa4-8547-535ed3c76eb2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"doelniveau_id": [
+			"42761529-0c7d-4f50-b33a-58485a64fc84"
+		],
+		"title": "marketingplan, het idee, trends en ontwikkelingen, doelgroepen, concurrentie, SWOT analyse, product, prijs, promotie, plaats, doelstellingen",
+		"id": "6cf9d8ee-fc30-402e-903f-2c87d30b2dda",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"doelniveau_id": [
+			"f4c01ac5-c8aa-4f9c-9633-656f7bba8130"
+		],
+		"title": "financieel plan, investeirngsbegroting, financieringsbegroting, exploitatiebegroting, liquiditeitsbegroting",
+		"id": "8c12d910-de13-4b18-bc60-bb7c2358846c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"doelniveau_id": [
+			"e3846674-6425-437f-a13c-dc9cc0ff14ed"
+		],
+		"title": "oprichingseisen, inschrijving bij Kamer van Koophandel, registratie bij de Belastingdienst, vergunningen",
+		"id": "92cdcbbc-38b3-40c7-805c-55d3d79d97e8",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"d725bafe-8125-4531-b472-a9df179036ea"
+		],
+		"title": "arbeidsrelatie, zelfstandig ondernemerschap",
+		"id": "7c53a7c8-4ccc-4cf8-862b-1470864a6030",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"a52573ae-2bda-46f1-8f4a-d031d706ce68"
+		],
+		"title": "opdrichtingsproces",
+		"id": "a603b10d-51d2-413b-9756-6b619a2c3d3d",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"62d91e9d-6c1f-4ac9-b34b-f5d97cd342e1"
+		],
+		"title": "causation, effectuation",
+		"id": "12048300-fe6c-4e8c-8d08-3da4045a7d95",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"f233010e-d23f-4f6d-af8e-806501f20dfd"
+		],
+		"title": "causation, marktdefinitie, segmentatie, positioneren",
+		"id": "af965ed6-d6f0-4149-88ee-8aca1c1245e7",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"264f4e3f-f268-4b40-acde-1af1e56bad38"
+		],
+		"title": "effectuation, nieuwe markten en uitgaan van beschikbare middelen, strategische partners, stakeholders",
+		"id": "1e4664e4-5dd9-471d-883a-4028da10127c",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"7661a31f-d747-4af5-abc2-f32f73a43910"
+		],
+		"title": "effectuation en ondernemeingsdoelstelling, causation en ondernemingsdoelstelling",
+		"id": "eb0fa8ba-199b-48bf-9431-9ef740496dac",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"85a57dec-8485-4a24-8b9b-9d781a1a0192"
+		],
+		"title": "ondernemingsplan",
+		"id": "8fd7e2d0-afd6-4fc1-b20c-a0a9aa8f8341",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"4b1d3e0e-b6ac-4c91-9e35-581ce107d1e4"
+		],
+		"title": "persoonlijk plan, persoonlijke gegevens, persoonlijke motieven, persoonlijke kwaliteiten",
+		"id": "adedc6d3-39fd-4ef6-aaf6-3339230bfc98",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"08aff898-5ad6-49c3-ae63-488c79a86e75"
+		],
+		"title": "marketingplan, het idee, trends en ontwikkelingen, doelgroepen, concurrentie, SWOT analyse, product, prijs, promotie, plaats, doelstellingen",
+		"id": "25e2227c-4b40-4bb5-8950-9c48fb225ff4",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"24c20941-85ee-4909-8b3c-b69faae23010"
+		],
+		"title": "financieel plan, investeirngsbegroting, financieringsbegroting, exploitatiebegroting, liquiditeitsbegroting",
+		"id": "18eb5bdf-0234-4c00-86c5-cb93a2aba793",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"a55d1be6-1458-4ac2-9656-1a8c2a03cfa1"
+		],
+		"title": "oprichtingsverplichtingen: inschrijving bij Kamer van Koophandel, registratie bij de Belastingdienst, vergunningen",
+		"id": "b83b5036-364c-4108-ade3-73e69b6316f3",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"4db00b3d-4744-4bee-b75c-bfca18fc563e"
+		],
+		"title": "financieringsmogelijkheden",
+		"id": "922a279e-7c94-414c-8588-7cc75bccb7b6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"1bc789b7-a4c4-478d-b23b-9844943727ec"
+		],
+		"title": "financieringswijzen, banken, overige vermogensverschaffers, eigen inbreng",
+		"id": "afd6366c-94ad-43f4-9240-541f5cec5d62",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"f6aec6df-ac7a-41a9-baa0-ec3503581044"
+		],
+		"title": "financieringsvoorwaarden",
+		"id": "8735c125-bd6d-44d1-97e6-ab68be50abf8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"ba82d647-f3cf-4d02-80e7-6176240bd069"
+		],
+		"title": "vermogensmarkt, openbaar en onderhands vermogen",
+		"id": "53be9000-c46d-430b-b5c9-fbd78280c2f7",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"921b7e94-b7bd-4bbc-9acd-81f12825b582"
+		],
+		"title": "vermogensmarkt",
+		"id": "3fe022d5-0ba3-48d2-8fe4-5ddff7ad23c5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"5d0349cc-8ef7-4bdd-87b7-b89f2ec4c7f8"
+		],
+		"title": "vermogenstitels",
+		"id": "64ce02c8-ab30-421e-a13e-ab05439fec9d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"c21960bf-0f8d-412b-91cd-a74b71b698a9"
+		],
+		"title": "toezichthouders, AFM, DNB, ACM",
+		"id": "324bf599-6c97-4ecf-a26a-225d7d6e56d4",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"4d2d4411-5d42-4e2e-a48b-c547b69a5b68"
+		],
+		"title": "financieringsvraagstuk",
+		"id": "6d87a2d1-dd3a-4d9a-a59a-59a38ca3a099",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"255d36c0-dbe3-427d-aae0-b22d85efcfa3"
+		],
+		"title": "maatschappelijk aandelenkapitaal, geplaatst aandelenkapitaal",
+		"id": "ac19ad16-6da8-4f0b-b761-4afaa63126b4",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"295712ac-8821-47db-a8f2-9ed6ee0c96fb"
+		],
+		"title": "nominale waarde aandeel, beurskoers, emissiekoers, intrinsieke waarde aandeel",
+		"id": "42252a60-058a-43ed-83d0-5c2ed84ebf40",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"0adf0aca-9f4a-4259-9e96-170b83f75061"
+		],
+		"title": "koersbepalende factoren: koersverloop, beursklimaat, effectenbeurs, beleggingsfondsen",
+		"id": "9a8f86fc-101e-4fad-a8e8-f87bb0fa9dc5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"e07a1f4a-e8fd-4928-8646-6850b3fd9715"
+		],
+		"title": "agio",
+		"id": "391d1c05-6a3a-4730-9f85-ddcd64c4378c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"2eebb888-1936-4ca7-8b81-c694ca69d401"
+		],
+		"title": "hypothecaire lening, onderhandse lening, gewone obligatielening, obligaties",
+		"id": "15fdfc05-0393-458d-a70f-7e1531f6f207",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"99036881-1d94-499a-8a9a-9beaf0c79d43"
+		],
+		"title": "rekening courant krediet, leverancierskrediet, afnemerskrediet",
+		"id": "a97ea1cb-e7b6-429a-90bc-9b31e0e9052c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"65a68550-e443-4d13-856c-5b768f3e8e52"
+		],
+		"title": "financieringsvraagstuk",
+		"id": "073b3f8d-23aa-44f3-a0ec-19f877090812",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"1ee2c9dc-d4e2-4455-9e55-8549920c9c7c"
+		],
+		"title": "maatschappelijk aandelenkapitaal, geplaatst aandelenkapitaal",
+		"id": "78fad7ce-041c-4f2c-87a9-879868181f57",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"99eab68e-5824-44ab-99c3-248a0acf2fb2"
+		],
+		"title": "nominale waarde aandeel, beurskoers, emissiekoers, intrinsieke waarde aandeel, dividend, stockdividend, cashdividend, preferente aandelen",
+		"id": "6f7d8edf-8377-4aff-a590-2c66e51b27a5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"db06e8fd-d168-43cf-9d25-f1c305809e01"
+		],
+		"title": "koersbepalende factoren: koersverloop, beursklimaat, effectenbeurs, beleggingsfondsen",
+		"id": "c974aa98-7e15-434f-a018-4e14bdcd4502",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"0d48028c-8414-4b90-a469-78fd3d799632"
+		],
+		"title": "agio",
+		"id": "ba023f07-8a69-4369-b68b-6cc11721c10e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"e1c0cd60-6dbb-4ece-afa3-ace044be739c"
+		],
+		"title": "hypothecaire lening, onderhandse lening, gewone obligatielening, obligaties, converteerbare obligatielening",
+		"id": "34238840-11e8-4e69-aff5-b0c2ca27b34e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"581e8362-58f0-410a-a343-7c548e0d1a16"
+		],
+		"title": "converteerbare obligatielening, obligatielening",
+		"id": "90729b84-f586-4a87-a103-b897f4ccb294",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"564e8f76-5583-4787-ba18-7eb5c3e38af2"
+		],
+		"title": "nominale waarde obligatie, beurskoers obligatie, emissiekoers obligatie",
+		"id": "17ab8411-f3b0-4dd8-aa08-3f49fa8f3506",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"f319e617-d410-4904-8bf8-53f2fe789f85"
+		],
+		"title": "agio obligaties, disagio obligaties",
+		"id": "9a6fe3c4-0fda-468f-8157-affc54f80065",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"79593b9d-33f5-4296-8a82-c539449f5044"
+		],
+		"title": "rekening courant krediet, leverancierskrediet, afnemerskrediet",
+		"id": "484213c4-0b4e-4369-b3f9-77ee2504379f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"97fda83d-01bd-415a-af52-d058da70857e"
+		],
+		"title": "risico's financieringskeuze",
+		"id": "b4f97ced-3d92-4c61-9cdb-c28c897d62c4",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"1ce4a6be-d154-43cf-ae1f-2f62ce0c621b"
+		],
+		"title": "off-balance-sheet risico’s",
+		"id": "7939a374-02cd-44e2-bdb0-b4a9bbea6b46",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"b6bc76ba-191e-4032-a0d9-970f505ca071"
+		],
+		"title": "calloptie, putoptie, opties, termijncontracten, risico-hedging (risico afdekking)",
+		"id": "018504c0-6b92-4b82-a67e-e04524f0c114",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"61c93bb2-548e-429a-853e-05f886d8c826"
+		],
+		"title": "short posities, long posities.",
+		"id": "e9d89fc3-8cd9-4e50-a1b7-d4f92611dab1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"46ee038f-bf11-4127-8098-b7b6bcaca2ef"
+		],
+		"title": "winstverdeling: resultaat voor winstbelasting, vennootschapsbelasting, dividend (stock, cash, gewoon en preferent) in euro's, dividendbelasting, reservering",
+		"id": "b476eac0-c5dc-4ea8-8d0f-bc495bb26c45",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"12050d09-90c2-4b00-a571-d9702192c5a6"
+		],
+		"title": "financieringsmogelijkheden",
+		"id": "7898777e-2c76-403a-b5d2-107e55dd0f2c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"34ddd1c4-5d37-452d-9b4a-adf1b7ef26d8"
+		],
+		"title": "financieringswijzen, banken, overige vermogensverschaffers, eigen inbreng",
+		"id": "a10c2b28-93db-45f6-8685-721e5e259c9f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"b2cb3b49-27df-47c0-9992-c61b6965b9c5"
+		],
+		"title": "financieringsvoorwaarden",
+		"id": "c23c6ca0-3eed-4d77-9240-427705c4605f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"f8daa8b9-5a40-45c2-9251-8a8d6b40a37d"
+		],
+		"title": "vermogensmarkt, openbaar en onderhands vermogen",
+		"id": "dab04e69-590e-4a04-a8df-5c3f9113568c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"771b53fb-ba37-4b48-b1f9-9f0283b0a4dc"
+		],
+		"title": "vermogensmarkt",
+		"id": "f93d7862-37f9-4e26-b469-6dc427879603",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"575d1743-d4a9-4e28-b52f-6d89ccb2d143"
+		],
+		"title": "vermogenstitels",
+		"id": "1b1f9809-b6a7-45dd-add0-1281eb5d3cc9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"d257b999-cfc7-491e-b577-f0d00c06308e"
+		],
+		"title": "toezichthouders, AFM, DNB, ACM",
+		"id": "e2192aae-b309-4320-89a8-373c77dd11c6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"f86671e6-8403-485b-ba80-7df31b7f485a"
+		],
+		"title": "koersverloop, obligaties",
+		"id": "8e9aca5e-c622-44b0-ac6a-b69a6164c27a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"bbedddc4-8974-4bf9-ac7c-8e50fa49288e"
+		],
+		"title": "beurskoersen, marktefficiëntie, volatiliteit, , bedrijfsnieuws (financieel, niet-financieel), marktsentiment, marktrente",
+		"id": "0df67b6e-2c91-4f9e-8968-27661bc899dd",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"17c1df02-6ef1-49af-a903-af253d0b1439"
+		],
+		"title": "marktwaarde organisatie, netto contante waarde",
+		"id": "24a1d6a9-5ad4-4030-b917-9019ef5900d2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"b130e6c3-3162-4d00-8400-2ee41432f9cb"
+		],
+		"title": "verhouding ev/vv, risicodragend vermogen, vermogensstructuur, faillissementsrisico, hefboomwerking/ hefboomformule, geëist rendement / kostenvoet",
+		"id": "1a2be77f-81df-4622-834e-5b13373a8736",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"be5115b5-56ca-4ac6-a226-f73b82daa3de"
+		],
+		"title": "inkoop (en ontvangst) van goederen en diensten(contant en op  rekening), verkoop (en aflevering) van goederen en diensten (contant en op rekening), aflossen van schulden, afschrijving (op basis van aanschafwaarde), btw aangifte, privé, overige inkomsten per kas en bank, overige uitgaven per kas en bank",
+		"id": "fa024e24-5981-4eb1-903b-43f2b5e42295",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"2b4066b5-01d2-4f14-9874-fa729c5f6860"
+		],
+		"title": "kosten, opbrengsten, ontvangsten, uitgaven",
+		"id": "ec11059a-aee9-4d63-988f-c0c015f614b8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"8c46aeff-8048-4bcd-9f35-32a4b549c615"
+		],
+		"title": "interne verslaggeving, beginbalans, liquiditeitsbegroting, exploitatiebegroting, geprognosticeerde eindbalans, winst- en verliesrekening, omzet, afzet, verkoopprijs, kosten, overlopende posten, nog te betalen bedragen, nog te ontvangen bedragen, vooruit betaalde bedragen, vooruit ontvangen bedragen",
+		"id": "1b0c6a2b-1364-4084-89e5-94476a89a3b5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"664571bf-2206-424b-925c-554108a489e6"
+		],
+		"title": "financieringsresultaat, incidentele resultaat, resultaat voor winstbelasting, vennootschapsbelasting, inkomstenbelasting, resultaat na winstbelasting, eigen vermogen, mutatie liquide middelen, liquide middelen, gerealiseerde balans, voorraadgrootheden, stroomgrootheden",
+		"id": "fda1d7ae-2ec6-4a3b-a086-5f8bce0fc645",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"8cac006c-f159-46a6-b970-2382d32c1ce2"
+		],
+		"title": "financiële informatie, niet-financiële informatie",
+		"id": "52565664-1dca-4150-9d81-a39d3084083f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"584ab42c-d199-4773-926e-b7210ee05989"
+		],
+		"title": "assortiment, innovatiekracht, leveringstermijn, efficiency, kwaliteit processen/trainingsdagen, klanttevredenheid/klachten, communicatie/frequentie interne, communicatie",
+		"id": "08b6ff9f-26ed-4f2a-8bc7-bcaede8b612e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"c51497d8-6d08-4475-a17e-503a1ec40a0b"
+		],
+		"title": "kritische succesfactoren/prestatie-indicator",
+		"id": "5b79b4a1-da2c-4846-b8f2-946b88cca6df",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"1a55ce3a-4732-4943-86c7-b2911e2bca50"
+		],
+		"title": "omzet, verkoopprijs, afzet",
+		"id": "089435d2-2c03-479b-9b8e-adfb7b7df8c4",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"25c96683-7969-4ec0-97ba-33a594e4419a"
+		],
+		"title": "constante kosten, variabele kosten, proportioneel variabele kosten",
+		"id": "da32ee68-a68a-4f7c-b286-23a53b893477",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"6a69a62d-0757-42e9-aa01-dd066bd4229a"
+		],
+		"title": "break-even afzet, break even omzet, verkoopwinst",
+		"id": "5d657d2a-320e-4ad6-821a-fc5b82097b9d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"2ab4e266-fe67-4ab7-84ab-5c3be51f8b84"
+		],
+		"title": "verkoopprijs, te vorderen btw, af te dragen btw, te betalen btw",
+		"id": "2c6fcca4-54f6-40a8-b33e-5b91ff9f77c0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"8e46278b-66cf-4b0b-bdcc-945aeb575bba"
+		],
+		"title": "periodetoerekeningsstelsel, kasstelsel, kosten, uitgaven, opbrengsten, inkomsten",
+		"id": "95457444-549a-4f54-aee1-c3698db89a9f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"34b65e80-6191-46d2-9c1b-c27c0ab199db"
+		],
+		"title": "financiële opbrengsten, financiële kosten",
+		"id": "4b324c0b-9375-4ee7-8483-05f6893e7637",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"b80fc54d-c560-438d-a568-851ed394d9f0"
+		],
+		"title": "begrote bedrijfsresultaat, begrote resultaat voor belastingen, begrote resultaat na belastingen, vennootschapsbelasting",
+		"id": "d2c9b15a-7db6-4b1f-a66f-4b9d453977bb",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"dd989624-6bbf-4e8e-9c7e-48db82169585"
+		],
+		"title": "gerealiseerde bedrijfsresultaat, gerealiseerde resultaat voor belastingen, gerealiseerde resultaat na belastingen, vennootschapsbelasting",
+		"id": "ee2efe93-316e-4778-a9ab-205e836443fc",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"9370bb39-0091-4ef5-9f29-a28322f4100e"
+		],
+		"title": "begrote resultaten, begrote bedrijfsresultaat, incidenteel resultaat, financieringsresultaat",
+		"id": "515d0975-65ce-4d45-ba64-baa63406a7df",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"72829d9a-c69c-4e2a-88f7-43d7e4802f80"
+		],
+		"title": "ondernemingsinkomen, ondernemingsbeloning, ondernemersrisico, gewaardeerd loon, gederfde interest, inkomstenbelasting",
+		"id": "326357d8-0be0-4822-88d8-e9e871eda2ce",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"5fe5ed52-e7c6-4a2f-867c-c48ad8c2c90d"
+		],
+		"title": "inkoop (en ontvangst) van goederen en diensten(contant en op  rekening), verkoop (en aflevering) van goederen en diensten (contant en op rekening), aflossen van schulden, afschrijving (op basis van aanschafwaarde), btw aangifte, privé, overige inkomsten per kas en bank, overige uitgaven per kas en bank",
+		"id": "e5767364-f4f8-490e-ba94-ee551629a0ba",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"be41941e-2f4a-49a2-b2f8-a05df4319a63"
+		],
+		"title": "kosten, opbrengsten, ontvangsten, uitgaven",
+		"id": "02b10fcd-ad83-4c48-8240-7bfcffe0c6cd",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"532062a1-f11f-4b40-94dc-f8f46ba096af"
+		],
+		"title": "interne verslaggeving, beginbalans, liquiditeitsbegroting, exploitatiebegroting, geprognosticeerde eindbalans, winst- en verliesrekening, omzet, afzet, verkoopprijs, kosten, overlopende posten, nog te betalen bedragen, nog te ontvangen bedragen, vooruit betaalde bedragen, vooruit ontvangen bedragen",
+		"id": "ec8d1bbf-f61a-40bd-ac8d-1e125f4602d8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"d110cd8e-742e-4bcc-a07e-a5e44c6e7e65"
+		],
+		"title": "financieringsresultaat, incidentele resultaat, resultaat voor winstbelasting, vennootschapsbelasting, inkomstenbelasting, resultaat na winstbelasting, eigen vermogen, verandering liquide middelen, liquide middelen, gerealiseerde balans, voorraadgrootheden, stroomgrootheden",
+		"id": "5ee77acc-41be-4317-b0f9-89bcdabeac4a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"683a1727-249f-4b00-b3c5-c5a60c98f434"
+		],
+		"title": "financiële informatie, niet-financiële informatie",
+		"id": "7a552188-ef30-4d2d-9a0d-a24fa2ac588a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"ff2ed989-02cb-405c-ba0b-4f521645cf77"
+		],
+		"title": "assortiment, innovatiekracht, leveringstermijn, efficiency, kwaliteit processen/trainingsdagen, klanttevredenheid/klachten, communicatie/frequentie interne, communicatie",
+		"id": "266db876-4acd-43ac-96d4-cd47c58b2e87",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"6a97206b-aab7-4526-8e51-f784240e2b89"
+		],
+		"title": "kritische succesfactoren/prestatie-indicator",
+		"id": "eeabbaa5-37c4-45c9-ba41-751bc963b940",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"doelniveau_id": [
+			"3b4dbd15-7811-4102-bc64-f64a35b44204"
+		],
+		"title": "rechtsvorm",
+		"id": "579f0b5e-329c-424b-bb65-f6a92f4b94f4",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"doelniveau_id": [
+			"9d7ff77e-9288-4760-a7d9-6a5110f907fb"
+		],
+		"title": "rechtsvorm",
+		"id": "19bd8e30-b441-41d4-9e21-902e9df2e81c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"doelniveau_id": [
+			"a34593eb-d394-4488-98f2-66ce5f18b2ed"
+		],
+		"title": "rechtspersoon, natuurlijk persoon",
+		"id": "fb2b6b5a-33c4-4b42-985a-f9f38aa665ba",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"doelniveau_id": [
+			"31b0902e-1668-4051-a825-3d4d03cfd91a"
+		],
+		"title": "rechtsvorm: natuurlijk persoon, rechtspersoon, eenmanszaak, vennootschap onder firma (openbare vennootschap), besloten vennootschap, naamloze vennootschap,    stichting, vereniging",
+		"id": "b5808451-fd27-474f-8b4d-08a502bf655a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"doelniveau_id": [
+			"c3b7a55a-cee1-45bf-b1c8-8a85f48c1df1"
+		],
+		"title": "rechtsvorm",
+		"id": "a60ccf5d-ae99-4341-92e6-38061931d39b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"doelniveau_id": [
+			"56d6f3ad-47ed-4d36-ab1c-39fff56c1226"
+		],
+		"title": "organen binnen organisatie: directie, bestuur, raad van commissarissen, algemene ledenvergadering, algemene vergadering van aandeelhouders",
+		"id": "d10ba387-2433-4fac-a4ba-29bb48cf4e7d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"doelniveau_id": [
+			"a8250ba7-00e6-4f04-bd9e-23959540cf8f"
+		],
+		"title": "beëindigen organisatie:  surseance van betaling, faillissement, zonder bedrijfsopvolging, bedrijfsverkoop",
+		"id": "94e48003-d57b-4c5d-9165-c94c706f15e1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"doelniveau_id": [
+			"1a282e7c-187b-4fb3-8d14-a63362040dfd"
+		],
+		"title": "surseance van betaling, faillissement",
+		"id": "f3e3b470-a335-4640-8655-e1d8f0fa8309",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"doelniveau_id": [
+			"e8cb6ed2-2cc3-4b00-85a9-7a3a45bdd8ac"
+		],
+		"title": "surseance van bealing, stakeholders",
+		"id": "65bb706e-cda3-47aa-8425-8af0072e3e7d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"doelniveau_id": [
+			"080963f2-7e64-49a1-a0d3-2331a861f8d0"
+		],
+		"title": "faillissement",
+		"id": "1353096f-2d20-4ce3-bc7d-e3286c20925e",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"3f4f596f-a173-4a73-8104-81a5c62d05a3"
+		],
+		"title": "rechtsvorm, bestuurder",
+		"id": "694eb3af-38c2-445e-8bba-56e175354baa",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"d47c1301-83f0-447a-b5f8-3d1c18a00b66"
+		],
+		"title": "rechtsvorm",
+		"id": "9f998d7e-6c8f-4582-b76a-5732783c1e63",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"4e01f3bc-e16b-4b4b-a2f6-b445db067bed"
+		],
+		"title": "rechtspersoon, natuurlijk persoon",
+		"id": "44ff1e7f-2e84-4396-aa79-a3b6aae7fffb",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"688b190d-c960-49ce-8f26-3baf4966183c"
+		],
+		"title": "rechtsvorm: natuurlijk persoon, rechtspersoon, eenmanszaak, vennootschap onder firma (openbare vennootschap), besloten vennootschap, naamloze vennootschap,    stichting, vereniging",
+		"id": "87197438-292a-47df-8aa7-b2e3e2089c99",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"0da22b21-2cd5-4c4a-bfd2-b620b2d0e83a"
+		],
+		"title": "rechtsvorm",
+		"id": "6a2db295-81e9-4c03-beeb-c0a17617845b",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"496cbd58-bf7b-42f8-a6f1-e1698f893090"
+		],
+		"title": "organen binnen organisatie: directie, bestuur, raad van commissarissen, algemene ledenvergadering, algemene vergadering van aandeelhouders",
+		"id": "e30dc512-fb7c-40ec-9dde-a0d05114e565",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"6ff085f5-aeea-426c-95ab-d53fb1061e7d"
+		],
+		"title": "beëindigen organisatie:  surseance van betaling, faillissement, zonder bedrijfsopvolging, bedrijfsverkoop",
+		"id": "11811e47-9dc2-4012-af1d-9541ae22d15e",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"ab97dc06-da27-4f42-a434-8c7187fd4e22"
+		],
+		"title": "surseance van betaling, faillissement",
+		"id": "636caee6-318c-4386-be94-05d19641c7d4",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"749017a0-117a-4cbc-bf92-a1586534bbc1"
+		],
+		"title": "surseance van bealing, stakeholders",
+		"id": "d81d3cfc-61d4-4206-98f8-c1f3c7ecafbe",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"71171c4a-3ad4-4a6b-afa6-0ac8d97e896f"
+		],
+		"title": "faillissement",
+		"id": "a1aa4715-6bc0-499a-906f-5fbb72a18a59",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"c7358256-b19f-448a-a13b-8b5d18e1d82b"
+		],
+		"title": "organisatie",
+		"id": "991f63af-8ea6-4919-9716-ea2a70097556",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"9e948482-191a-4dc5-9a3a-459157112bb5"
+		],
+		"title": "missie, visie, doelstellingen",
+		"id": "b0424a37-552a-4aa8-a448-aba9392e3614",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"df9154f5-8001-4a8a-bf41-eea621a894db"
+		],
+		"title": "primaire processen, secundaire processen, bestuurlijke processen",
+		"id": "c6ca8113-19e0-4205-9d1e-6493d324f85f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"3d97e733-8e71-4649-b097-12b6911fb724"
+		],
+		"title": "arbeidsverdeling, delegeren, spanwijdte,",
+		"id": "3a0b225d-5ecd-47cc-9d5d-6f8d7635ef6e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"f29dfcf5-3862-4e1a-99c9-452aad64de2b"
+		],
+		"title": "organisatiestructuur, organogram",
+		"id": "63f0fb2c-d2d3-40dd-ab25-aebf1c81b6f8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"5188d74b-ba7c-4865-bcc0-1c4111d3a5fb"
+		],
+		"title": "horizontale taakverdeling, verticale taakverdeling",
+		"id": "9ea29139-1d6d-4d33-b390-f24a4db9bb83",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"c93ae85e-1264-426e-bbe2-83b086f8ad1c"
+		],
+		"title": "tijdelijke samenwerking",
+		"id": "6ee46723-d3cb-4141-9638-20569600cb16",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"b546edaa-b9cb-42d9-9ecb-e554a6ae261a"
+		],
+		"title": "configuratietheorie",
+		"id": "58e1dfc3-6257-472d-aab3-f8795d94d6c9",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"1c718bf8-5d72-4430-8378-e5c756e0ea89"
+		],
+		"title": "managementtaken",
+		"id": "d8449181-0d33-4aa7-ad3c-9a9d1f69019d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"a0b5679c-35d6-402f-b0a8-df627562254f"
+		],
+		"title": "leiderschapsstijlen, situationeel leiderschap",
+		"id": "5161d54b-d4b0-4b53-9e39-8e6ebbbdaf14",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"e70baf36-9be9-4b40-bec6-7216bc4d75dc"
+		],
+		"title": "organisatie",
+		"id": "eb9432d2-bb0a-4085-8a47-3e2e60ed53cc",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"7b094523-ce5a-4265-b4db-91814e1065b2"
+		],
+		"title": "missie, visie, doelstellingen",
+		"id": "c61c0292-2b79-4511-b998-c7dc2c4a3442",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"bb1adbd9-fa05-4dd0-b56c-4f5c06628589"
+		],
+		"title": "organisatietypen, lijnorganisaties, lijnstaforganisaties, projectorganisatie, matrixorganisatie",
+		"id": "8bdde5f9-4aa3-4dd2-ac4b-34915bd13916",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"3a55fde3-11b6-4559-8081-911085e997bf"
+		],
+		"title": "primaire processen, secundaire processen, bestuurlijke processen",
+		"id": "0046f1a7-15da-47f1-aa1a-824adf90795e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"19b7176e-f3a5-4ccf-958a-4bf54a192d3d"
+		],
+		"title": "arbeidsverdeling, delegeren, spanwijdte",
+		"id": "5228e315-6387-4016-be42-8f55361c2ce1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"86bed55b-6ea9-43b5-9819-c89c78b61e31"
+		],
+		"title": "grondslagen arbeidsspecialisatie",
+		"id": "c7ed268b-c76c-48b6-9d46-524b3d0634f7",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"21199227-9416-4c2a-8bda-9c91917be12e"
+		],
+		"title": "organisatiestructuur, organogram",
+		"id": "adc944da-8f22-4446-a217-cb8f7c90e207",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"a3e0e0f7-3632-4910-a80e-afea5cd5c6f0"
+		],
+		"title": "horizontale taakverdeling, verticale taakverdeling",
+		"id": "cedaed99-0b67-4108-9cb2-7a079ad97383",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"79023a51-9e90-4651-8411-546da35d2664"
+		],
+		"title": "opgelegde coördinatie",
+		"id": "3f3213a7-d575-42f9-9672-0b33042dbf6d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"6312a8b7-2022-4524-8bc2-4b7b01b7c047"
+		],
+		"title": "zelf coördinatie",
+		"id": "80153d2e-5273-40d7-b4eb-b26b6ea83d4f",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"50029c14-b900-4c42-99b8-9b82f06f91df"
+		],
+		"title": "organisatiecultuur",
+		"id": "3c318df9-b28b-4d09-b701-9b701a61944f",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"158c778a-04bc-431a-a5d0-258509e92f6c"
+		],
+		"title": "tijdelijke samenwerking",
+		"id": "88838333-a9c7-4457-a714-e26d8f72e6e3",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"3ad9ab74-51c5-488a-8608-db7632115640"
+		],
+		"title": "publiek-private samenwerking",
+		"id": "1560e876-ee3c-4a63-a5fe-8ff9e2fcb30e",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"8fb150a5-c9d6-4dce-aa25-e07208b4b543"
+		],
+		"title": "netwerkafspraken, circulaire economie, vendor rating",
+		"id": "c28c0dfa-be8e-4d15-a85a-d880be58130e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"f109991f-a79b-4ee0-ad47-02cdc2e9a880"
+		],
+		"title": "informatie als kapitaalgoed",
+		"id": "33d00107-c3d0-4121-92d5-d4b569cbf33e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"a42d96d9-30aa-4bbc-b66e-4a739b456e9c"
+		],
+		"title": "configuratietheorie",
+		"id": "ac712a54-ca0c-4c85-8940-8f57a2b7d8bf",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"900e5112-dc86-4e9b-9f27-304f9f4e4762"
+		],
+		"title": "immaterieel kapitaal",
+		"id": "92293b0e-86b3-42df-b4e1-168373e6cee5",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"44dec4a0-4002-4b0e-a860-8f4984691297"
+		],
+		"title": "managementtaken",
+		"id": "ed05e54b-9c0c-4715-879f-08c410e1f5dd",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"ed7e6d04-c580-45b4-ab34-c02963a014d0"
+		],
+		"title": "leiderschapsstijlen, situationeel leiderschap",
+		"id": "e240018e-422d-492f-b03d-3217ca8c304d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"819264b2-a745-42b3-90a2-ff42a749aeb7"
+		],
+		"title": "organisatietheorieën",
+		"id": "64608d20-8cd0-4b86-87dc-039298583833",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"76bccddc-722f-4d13-a803-99ee133e9400"
+		],
+		"title": "arbeidsrelatie, individuele arbeidsovereenkomst, zzp",
+		"id": "516419cc-dbd5-4310-8e4c-a91aaca7fc19",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"a6f071a4-0eee-4e67-bfaa-e84ce04053dc"
+		],
+		"title": "human capital",
+		"id": "ff4edfb4-8cd1-4537-a687-0a0154b84300",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"7f4a6050-e698-42e2-9a45-3cd4ead98d60"
+		],
+		"title": "voorwaarden individuele arbeidsovereenkomst, gezagsverhouding, arbeidsverplichting, loon",
+		"id": "1174d9a0-3b5e-47e3-a51d-fc39916ffdb9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"027d6bb0-304a-40eb-af8e-fcbbb68be6e8"
+		],
+		"title": "individuele arbeidsovereenkomst, onbepaalde tijd, bepaalde tijd, afroep, nul-uren",
+		"id": "d145112d-9516-4462-b5b2-134fdb478619",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"4947e5e5-5eb7-413b-b7c4-d1b05465852c"
+		],
+		"title": "individuele arbeidsovereenkomst, zzp",
+		"id": "e5e833b7-4d32-48fc-b042-59b77a0f1b03",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"66f681cb-48bf-4be3-89e7-992553cfcfa8"
+		],
+		"title": "wetgeving, ontslagrecht, Arbowetgeving",
+		"id": "d6757de4-3173-462e-b8e3-67a1ed55c41c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"948aa741-2d70-4270-8d48-a266e5ba0d04"
+		],
+		"title": "personeelsvertegenwoordiging, ondernemingsraad, vakbond",
+		"id": "f140362e-716f-4dc2-8127-cd1aee736b62",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"7e2affa1-c3ae-442e-964e-f6ca716b93be"
+		],
+		"title": "beloningsvormen (geld, aandelen, carrièreperspectief, mogelijkheden professionele ontwikkeling)",
+		"id": "53132c12-a544-4979-b915-13ca6fd7f37c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"b4af664f-db3c-4355-9c2e-849c3f26bee0"
+		],
+		"title": "arbeidsrelatie, individuele arbeidsovereenkomst, zzp",
+		"id": "67898164-289c-48ea-a131-7442b54c84c3",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"4610b7f8-5e89-45bb-868a-dbef409cf486"
+		],
+		"title": "human capital",
+		"id": "4ac99499-9e99-4583-b3cf-383f90ad7c6c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"f42d839e-d52d-45bb-885b-73163e2fcc23"
+		],
+		"title": "voorwaarden individuele arbeidsovereenkomst, gezagsverhouding, arbeidsverplichting, loon",
+		"id": "6da92507-533b-4844-9c6d-4509f5b9420e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"0d98a851-400a-46a7-8752-274c055e8f46"
+		],
+		"title": "individuele arbeidsovereenkomst, onbepaalde tijd, bepaalde tijd, afroep, nul-uren",
+		"id": "ba182645-6869-44a7-8dca-07c90751f9db",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"b94e0a47-17e1-478a-920b-40a044fe3988"
+		],
+		"title": "individuele arbeidsovereenkomst, zzp",
+		"id": "4cc40de4-ad1d-4e9e-b70b-b9d881ca2706",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"2d5878fc-0304-4b58-a3c7-b174f102f222"
+		],
+		"title": "wetgeving, ontslagrecht, Arbowetgeving",
+		"id": "44f5718a-6077-4e62-baa0-8e738e420d61",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"ae0a67da-1c05-4013-b03a-e5043b0e1b5e"
+		],
+		"title": "personeelsvertegenwoordiging, ondernemingsraad, vakbond",
+		"id": "9cb5ae1f-2cb2-499c-b514-3bac4f4e8c78",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"59f46541-844d-42c1-9cb6-464eb86299c5"
+		],
+		"title": "beloningsvormen (geld, aandelen, carrièreperspectief, mogelijkheden professionele ontwikkeling)",
+		"id": "ee02fe4c-553a-46aa-8d0c-7ee5452d557e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"80bac505-e387-499f-ab84-66d2bb94d126"
+		],
+		"title": "personeelsbeleid, functieprofielen, functiewaardering, personeelsplanning, werving en selectie, opstellen arbeidscontracten, functioneringsgesprek, beoordelingsgesprek, individuele beloningen, ontslagzaken, werkvergunningen, Arbo, Onderzoek personeelstevredenheid",
+		"id": "8d29c3ba-ccd4-48a3-bac1-05341e9d5038",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"ceba0d2c-a8a7-47e2-97ba-4f0fd2d48198"
+		],
+		"title": "loonkosten",
+		"id": "39e24be1-c0f6-4afe-8a73-0b0849bb3fac",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"662ac53c-fc87-4e0f-916d-361fd668bb15"
+		],
+		"title": "kwaliteit personeelsbestand, omvang personeelsbestand, samenstelling personeelsbestand",
+		"id": "2d951558-13db-4b11-b569-3a53b32490ca",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"aa9c3b6d-d041-41c4-8041-d60b92a36a4e"
+		],
+		"title": "kernwaarden",
+		"id": "2650adc1-0437-49f5-8ea0-7c417a9eb9c9",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"eaf5a5e2-7314-4add-9453-2affba38c6e8"
+		],
+		"title": "investeringsanalyse",
+		"id": "9fd19f0f-03a3-43fc-b27a-ff1ad1ebfa92",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"f1ac428f-1c0f-4546-87d9-572ef1dddb7b"
+		],
+		"title": "operationele kasstroom, restwaarde",
+		"id": "fc3fa8ed-dfa3-4ce3-b322-71f3755b3e01",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"e5a75c6f-ab09-4fd5-a124-817038d578cc"
+		],
+		"title": "meerjarig kasstroomoverzicht",
+		"id": "5afda8d4-f9b7-4350-8641-972c4e3fedd6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"23a06fea-22d8-48b7-a70d-c5da8ff00613"
+		],
+		"title": "disconteringsvoet",
+		"id": "997adc8d-699d-4847-a1cd-5bf61e9113e6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"fd6374ab-2780-47d0-81b7-602607965f78"
+		],
+		"title": "disconteringsvoet",
+		"id": "7ef1c890-4c1e-49d8-8b17-2e0b60bf5d19",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"b2f76ff4-c078-4d80-bee7-78b35eb575d5"
+		],
+		"title": "vervangingsinvesteringen, uitbreidingsinvesteringen",
+		"id": "27da4aa9-a318-43e9-93d6-27333f3c0098",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"ffae55df-28ad-447d-97f5-df1fd63e88cd"
+		],
+		"title": "investeringsselectiemethode, terugverdientijd, netto contante waarde",
+		"id": "ea4d18f6-6a56-4912-87c4-6b205fd572da",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"160fdcb9-5595-4b60-92ec-9ada1f160cc8"
+		],
+		"title": "terugverdientijd",
+		"id": "ee8916ff-48db-4471-aaaa-067b8e180b30",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"dbb0ad01-66f1-4a27-9f58-96a94e295a34"
+		],
+		"title": "netto contante waarde",
+		"id": "b8e3ec63-3e0b-4d9e-82f6-b52673d9e32a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"cfd78e0a-cd7f-4243-b5f2-0122373ff8c5"
+		],
+		"title": "investeringsselectiecriteria",
+		"id": "48caf1e0-304f-4f16-ba3c-190789725a88",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"b85545b5-dfc4-45c4-a8ff-c628dd25d5d2"
+		],
+		"title": "investeringsselectiemethode, terugverdientijd, netto contante waarde",
+		"id": "e21f1e43-6a51-4c28-8b6d-44d1b2fd7350",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"4b9aba8d-aaac-49ed-b447-299dc3b76c43"
+		],
+		"title": "niet-financiële argumenten",
+		"id": "c439599a-ce55-4b68-87c9-d2b65e6c8956",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"384ea86c-d3da-4b4c-b84d-95fbd4797947"
+		],
+		"title": "investeringsanalyse",
+		"id": "ef63b52f-bc37-4de3-b092-f3b4851fad74",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"5f847500-a438-41c9-b448-1dfca89251d6"
+		],
+		"title": "operationele kasstroom, restwaarde",
+		"id": "f838ea52-191a-434f-8625-947e06841525",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"3e92a6f4-3951-4fb3-80d5-86209af8e7d1"
+		],
+		"title": "meerjarig kasstroomoverzicht",
+		"id": "d2fa8d3e-ec31-4113-a04e-a94c49db534c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"637d5891-65bd-4d8f-80fd-952cf4d1bc50"
+		],
+		"title": "disconteringsvoet, geëist rendement",
+		"id": "690d69a9-b634-4e7b-b3e2-f308892b1b24",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"6e57e1a3-b90d-4659-a00b-e56d51c33ff2"
+		],
+		"title": "disconteringsvoet",
+		"id": "4a1fb710-6c91-49e7-ace7-f680b02771e3",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"4f473c95-c3d9-4168-bb87-e7f97e807bae"
+		],
+		"title": "vervangingsinvesteringen, uitbreidingsinvesteringen",
+		"id": "695acde8-8ea0-4923-b905-3b7e82cc0712",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"354e9878-c118-4c89-8ee1-ade9f891cd3f"
+		],
+		"title": "investeringen in materiële activa, investeringen in immateriële activa.",
+		"id": "2406570a-50bd-4c9e-89d5-0a8b7db46896",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"75085e2e-5ea4-43e8-bd2d-c4d2b2affc15"
+		],
+		"title": "gevoeligheidsanalyse, scenarioanalyse",
+		"id": "e419fefd-d8a5-4de5-8766-8d170ec64f04",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"0ec9e6b7-7bd6-4660-8472-fc1ef3f08f03"
+		],
+		"title": "investeringsselectiemethode, terugverdientijd, netto contante waarde",
+		"id": "5791d85c-978a-4078-9b8b-337017fb57cc",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"3c31b8e3-1579-4b37-8ef0-a3e894b19439"
+		],
+		"title": "terugverdientijd",
+		"id": "f8ecce5e-a964-45d8-b019-46fdd8d89bb8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"bdd94e79-1f92-4b86-8139-f22e51c16cb8"
+		],
+		"title": "netto contante waarde",
+		"id": "74fbade8-eb60-4d02-b8f9-86637f31a5f4",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"5089d39c-f640-4c78-8b8e-6e8239dd24a5"
+		],
+		"title": "investeringsselectiecriteria, rangordebepaling",
+		"id": "b3f79ab9-b132-435b-a563-ad7ba44007b9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"61a7348b-0f70-4640-b298-7c831f557b4a"
+		],
+		"title": "investeringsselectiemethode, terugverdientijd, netto contante waarde",
+		"id": "a20dad61-0b94-4eb3-9b27-6fb7778dfc0a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"6e29cfcf-e53e-4715-ad8f-368c6eaea208"
+		],
+		"title": "niet-financiële argumenten",
+		"id": "67018b0d-68fc-4151-a02a-24992f0bbb93",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"3b193eec-17b8-43c9-8e34-f13f098c3169"
+		],
+		"title": "marketinginstrumenten, marketingmix, productbeleid, prijsbeleid, plaatsbeleid, promotiebeleid",
+		"id": "3c479cfe-884d-4650-8f64-5b308400bc39",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"d98e6d43-3fc8-4bdf-a12a-fa2e7f0fb072"
+		],
+		"title": "marketinginstrumenten, marketingmix, productbeleid, prijsbeleid, plaatsbeleid, promotiebeleid",
+		"id": "8f9042ed-edee-4b6a-b339-a74587beec72",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"ab61f354-3926-469f-8810-d0350b89908b"
+		],
+		"title": "sponsoring",
+		"id": "3593add6-a735-49f7-97d8-48756621308c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"c4c33116-8731-4b06-984a-af0f37c552e4"
+		],
+		"title": "marketingstrategie, push-strategie, pull-strategie",
+		"id": "e176e75d-546f-4aac-9058-d100188d76ad",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"73903a63-142e-4aa3-b4cb-1f87ea7c06d1"
+		],
+		"title": "B2C (Business to Consumer), B2B (Business to Business), C2B (Consumer to Business), C2C (Consumer to Consumer)",
+		"id": "66cc5369-998d-4baa-892f-d6f81721697e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"9ef3aa50-efdf-48e9-aa58-e7a9a61837b8"
+		],
+		"title": "marketinginstrumenten, marketingmix: productbeleid, prijsbeleid, plaatsbeleid, promotiebeleid",
+		"id": "e9ef2d63-25fb-44c3-9d2e-40710ccc7141",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"12fcd26a-9354-4083-acce-4c255b8ab6ae"
+		],
+		"title": "marketinginstrumenten, marketingmix: productbeleid, prijsbeleid, plaatsbeleid (distributiebeleid), promotiebeleid",
+		"id": "9bc46711-8383-4aaa-b5eb-1adcfb00a7f0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"9853ea52-354e-4b55-8658-3fd162e0d903"
+		],
+		"title": "sponsoring",
+		"id": "c2e558d3-cd13-4b39-bb91-1205207d66e5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"bede5778-2280-4c43-94bf-70eb68ba7fdb"
+		],
+		"title": "marketingstrategie, push-strategie, pull-strategie, affiliatie, waardestrategie, vijfkrachtenmodel van Porter",
+		"id": "16852f6d-6353-4aae-b140-a4b9ab50525d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"43cfa7b7-5cc2-4e9b-8c1f-9b48b4cc0bfc"
+		],
+		"title": "B2C (Business to Consumer), B2B (Business to Business), C2B (Consumer to Business), C2C (Consumer to Consumer)",
+		"id": "af0d63c3-cf0b-4004-a59c-0d69c0234da9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"9d096b4c-ea18-466d-a7e5-a9efe5ef14ed"
+		],
+		"title": "jaarverslag, bestuursverslag, jaarrekening, balans, winst- en verliesrekening, kasstroomoverzicht",
+		"id": "3baefead-2f24-4a49-85d2-ad7ab0925c05",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"b1e9bdae-9589-4c32-82b1-76cbb86ce36c"
+		],
+		"title": "vaste activa, immateriële vaste activa, materiele vaste activa, financiële vaste activa, vlottende activa, voorraad, debiteuren, effecten, overlopende posten, liquide middelen, eigen vermogen, reserves, resultaat, schulden op lange termijn,  hypothecaire lening, onderhandse lening, voorziening, schulden op korte termijn,  crediteuren, rekening-courantkrediet, overlopende posten",
+		"id": "0edb518e-bbab-4df3-87bf-0aed4d42c219",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"057d4647-8222-44ff-8687-79382e7cb177"
+		],
+		"title": "winst- en verliesrekening,  omzet, kosten, resultaat",
+		"id": "8ca9f13b-59d0-46e4-8493-8ddf69395591",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"d73ccccb-93d6-414f-9b56-cfad584efda7"
+		],
+		"title": "niet uit de balans blijkende verplichtingen en risico's",
+		"id": "4a64b526-e9f8-40f0-9458-30a262038504",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"ca0d0a4f-9849-4759-85bd-a4f0c1059069"
+		],
+		"title": "financiële kengetallen, liquiditeitsratio: current ratio, quick ratio, solvabiliteitsratio, EV/VV, VV/TV, rentabiliteitsratio: resultaat per aandeel, cashflow per aandeel, REV, RTV, IVV",
+		"id": "706e6796-33ab-43ab-ad2e-4c2c077257f9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"7876df82-2c3c-423b-bd84-fa93e5f4c25f"
+		],
+		"title": "kengetallen",
+		"id": "355dffdb-cc85-4218-8fa4-0fcf3326cfae",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"1b0bb38c-f9a5-40a2-8238-2e88e69c2e5b"
+		],
+		"title": "financiële structuur, liquiditeit, solvabiliteit, rentabiliteit, cashflow",
+		"id": "0de901e1-6a14-4fe9-ae06-457265e2607a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"92afd6f9-9fba-4508-95cb-d25671ce2721"
+		],
+		"title": "controleverklaring van de accountant",
+		"id": "91f4165d-ab31-43bf-8e74-f918577e6072",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"3b659b57-a869-4814-af8f-341a1ef62223"
+		],
+		"title": "jaarverslag, bestuursverslag, jaarrekening, balans, winst- en verliesrekening",
+		"id": "f08d3c9a-20c1-47cf-b8f9-813b3240d9d9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"81002811-a10d-4efe-9487-b7aa1f58757d"
+		],
+		"title": "vaste activa, immateriële vaste activa, materiele vaste activa, financiële vaste activa, vlottende activa, voorraad, debiteuren, effecten, overlopende posten, liquide middelen, eigen vermogen, reserves, resultaat, schulden op lange termijn,  hypothecaire lening, onderhandse lening, voorziening, schulden op korte termijn,  crediteuren, rekening-courantkrediet, overlopende posten",
+		"id": "8a22e4c9-a1ca-48b9-aaaf-802229f292d9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"fb566405-75cc-4078-b372-ace3cd42c744"
+		],
+		"title": "winst- en verliesrekening: omzet, kosten, resultaat, EBIT(DA), resultaat voor belastingen, interest, afschrijving en amortisatie",
+		"id": "fb5dfac6-f0a1-44c8-8d15-b5feb35b7e3c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"eb5651fb-8fe9-481c-a5aa-f6d96ab91b88"
+		],
+		"title": "niet uit de balans blijkende verplichtingen en risico's",
+		"id": "166161bf-77c9-40bc-bd71-b776a79c40ee",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"51c19788-a03f-4c55-b840-ee30ca2834ab"
+		],
+		"title": "financiële kengetallen, liquiditeitsratio: current ratio, quick ratio, solvabiliteitsratio,  (EV/VV - EV/TV - VV/TV), rentabiliteitsratio, dividendrendement, beleggersrendement, resultaat per aandeel, cashflow per aandeel, REV, RTV, IVV, hefboomwerking, interestmarge",
+		"id": "08ec4072-8977-4b9d-8a2c-42280be455c5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"ce7927d4-d7c8-4b91-9609-669577317e70"
+		],
+		"title": "kengetallen",
+		"id": "2830f9ba-6a07-448b-8b42-81cffa037d1c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"20f134cf-5c99-4421-9d2c-a5c22ef2df7b"
+		],
+		"title": "financiële structuur, liquiditeit, solvabiliteit, rentabiliteit, cashflow",
+		"id": "121252d3-d3a1-42b6-b928-d5ebe63ac39b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"cf807d65-a664-49d0-b57e-82c3e1f4e744"
+		],
+		"title": "DuPont-schema, omloopsnelheid, resultaatmarge",
+		"id": "b0b0d406-25ab-477b-a4d1-e41ded56c444",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"b305d7d7-962b-4fe2-959c-43e8f1e8b8f8"
+		],
+		"title": "Financiële verslaggeving, niet-finaniciële verslaggeving",
+		"id": "8f71242a-d3bf-479f-a11d-5e6c6123c6d1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"f6433123-9df6-48a6-8076-b88702cf7030"
+		],
+		"title": "controleverklaring van de accountant, wet- en regelgeving",
+		"id": "a3af3569-1936-433a-89f9-197e745ed334",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"doelniveau_id": [
+			"572e44de-fca1-468d-96c5-795eb13cced2"
+		],
+		"title": "indelingscriteria",
+		"id": "8bc2ffd0-e4f1-4702-8ef6-dcec07af7ee1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"doelniveau_id": [
+			"dcb5e2c8-9b3d-4d0e-a797-cb3be811cf5a"
+		],
+		"title": "absolute omvang, relatieve omvang, marktaandeel (afzet en omzet)",
+		"id": "99e07dce-5f3c-4148-9be3-8a40e21654cb",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"doelniveau_id": [
+			"c7eb9218-1667-48b9-be67-55a71424ee80"
+		],
+		"title": "absolute omvang, relatieve omvang, marktaandeel (afzet en omzet)",
+		"id": "12b8d417-d7bb-4ae5-bf00-17f71f777706",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"doelniveau_id": [
+			"f9da9f37-3cd0-4abb-98f9-db113a41043a"
+		],
+		"title": "doelstelling, commercieel, niet-commercieel",
+		"id": "35fa0f7a-bb94-4fcf-b1ee-5e3ce12be7c6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"doelniveau_id": [
+			"6565e4b5-9b36-4459-8dfe-7b95fb516407"
+		],
+		"title": "maatschappelijke behoeften, product of dienst, werkgelegenheid, innovatie, belastingopbrengsten, inkomens",
+		"id": "a61b78aa-865c-4b1a-a5fc-2b83ff862b2a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"doelniveau_id": [
+			"6407f259-aea9-4b54-a47f-932c5b80e07e"
+		],
+		"title": "kansen, bedreigingen",
+		"id": "fcc36142-b71a-4673-bf76-fd3bb2c5a224",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"32707c9f-9bdd-462f-b850-7276436ba549"
+		],
+		"title": "controleverklaring, verslaggeving",
+		"id": "7e1f600d-58d8-4c7b-8ad1-06b032377767",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"1b63d460-44cd-4b35-a7cb-b35ec0f9034c"
+		],
+		"title": "indelingscriteria",
+		"id": "f23cb22d-e8d6-4af8-a2f5-5642e90179ce",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"06683442-b08e-4a91-a2c6-cc4c18344f65"
+		],
+		"title": "absolute omvang, relatieve omvang, marktaandeel (afzet en omzet)",
+		"id": "ccb36611-6558-4190-93c2-bd96449f28d2",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"b24b714c-2207-49f7-adf8-e4e00d095f55"
+		],
+		"title": "absolute omvang, relatieve omvang, marktaandeel (afzet en omzet)",
+		"id": "0acc4f64-9376-4315-b72a-32b733e6fae5",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"67cfd12d-dc05-4a2f-bb84-21ae1a66c994"
+		],
+		"title": "doelstelling, commercieel, niet-commercieel",
+		"id": "ff68c50d-e06e-4c1f-8987-3c94ccc219e6",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"bac8665a-9e57-4fb4-9941-c0bc391900d8"
+		],
+		"title": "maatschappelijke behoeften, product of dienst, werkgelegenheid, innovatie, belastingopbrengsten, inkomens",
+		"id": "1d81714a-e270-47bb-afe1-105bed5c362e",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"59a67e8f-3826-4e1c-987d-d4d783ef455f"
+		],
+		"title": "kansen, bedreigingen",
+		"id": "47cb6eb8-bd4d-4ccb-8fff-66b7eb2cda0b",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"a340d2fa-9f31-44da-9db9-212fd75f8962"
+		],
+		"title": "controleverklaring, verslaggeving",
+		"id": "f25eea5d-6a1c-415e-9d07-88871d0d70e1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"a1e91584-f321-4d0c-b0d5-16d84517a1c3"
+		],
+		"title": "ethisch perspectief",
+		"id": "883590cb-1d19-433e-bef3-2e2e5e916bfe",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"8ee1ce11-2e35-40b1-8705-c3d53f7c4cdb"
+		],
+		"title": "consumentenperspectief",
+		"id": "462e0c60-3202-4207-abe5-0d82e946d772",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"2bdd0b81-bfbc-4e65-91c6-88897c0edec4"
+		],
+		"title": "psychologische effecten",
+		"id": "40b464f6-56e7-4a32-a086-2a9b9ce4b670",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"45097559-41e8-476f-b169-cfb44f5c0727"
+		],
+		"title": "consumentisme",
+		"id": "5c7b2510-e18e-4685-9d25-5ac2b5be31ce",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"bc971667-733f-47ea-9886-cea147c3313f"
+		],
+		"title": "consument als machtsfactor",
+		"id": "0a6f277e-ec86-4159-9ca3-066665d14696",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"f93e8fb8-26de-45d5-8d38-849364c772f2"
+		],
+		"title": "consument als machtsfactor",
+		"id": "981a2b9f-67e0-4d6c-b599-218373af5cca",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"27a52854-883d-42c5-81a2-c70ef697a284"
+		],
+		"title": "consument als machtsfactor",
+		"id": "cd9557f4-25a1-42f4-92e0-1d174e46f49c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"ebe2e634-8612-4ab8-a98e-440214601d04"
+		],
+		"title": "ethisch aspecten",
+		"id": "e88f84d0-bd92-4a3b-8069-6900a4688963",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"9558bfa5-08a2-4bcc-8fe4-fb400384c06d"
+		],
+		"title": "marketingethiek",
+		"id": "dcdbcd2d-27ac-4658-aeaf-e0fca96af098",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"1edf1c05-76a3-43a3-a67b-0b0cce82c3a2"
+		],
+		"title": "juridische aspecten",
+		"id": "911ebf2a-27d6-4e3a-9965-733c0310ffe4",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"29765449-dce2-47cc-a02b-6f8d784ef971"
+		],
+		"title": "zelfregulering",
+		"id": "5ad28226-91ef-4113-8d0d-42caac18e97e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"c0bc3bd3-2998-4ccb-8683-5098b9c9b26a"
+		],
+		"title": "Reclame Code Commissie",
+		"id": "9c49bd1d-c2a1-41e4-83de-ab75947814b1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"fe8510c0-f27e-435a-9a2c-1f9b8b1ee684"
+		],
+		"title": "cultuurgebondenheid van marketing",
+		"id": "fd58d295-91a6-44d9-930c-e4c5f3ff9b18",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"162fdb4c-75b2-467d-8b63-a5a417efa9e1"
+		],
+		"title": "gepersonaliseerde marketing",
+		"id": "c55de868-d826-476e-822a-d8e776e6dfee",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"4f6fd1d3-2b42-497d-a74d-320308c3c96b"
+		],
+		"title": "personalized marketing",
+		"id": "789a9ec1-9566-49c1-adef-6545ce2f2fb3",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"f3dd3553-c608-492c-a2ea-1ad390de18ca"
+		],
+		"title": "marketingdoelen",
+		"id": "00e393b8-54c6-493d-b27c-8c0746c407a2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"8b7b67e6-5a4b-42e4-9a24-10469e53bdcf"
+		],
+		"title": "marketingdoelen",
+		"id": "c2c73d28-c79b-4d62-b8c5-6c1b9dfb7e16",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"160f4e98-d9aa-462e-b4d8-fc6fdc69e0b6"
+		],
+		"title": "marktcreatie, omzetgroei, groei marktaandeel, winstmarge",
+		"id": "a01b78b6-bc24-47ce-baf0-a72602799eb8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"2eb5ad61-e0e2-41fb-a21a-030f5a82ba82"
+		],
+		"title": "marktaandeel",
+		"id": "4d497bbc-d96d-4fc4-82af-5b53543f3300",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"ad381f95-1cb8-43b8-9f35-d538d07ecc6e"
+		],
+		"title": "doelgroepen",
+		"id": "1a60ccc9-6341-4e2b-bba1-9cafc634d02c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"bb7da2a6-fbc7-4d7e-96de-2cf72f951677"
+		],
+		"title": "informatieve reclame, overredende reclame, ideële reclame, themareclame, actiereclame",
+		"id": "72693851-3ef6-41c4-849a-393c8b492e13",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"da69e714-6ccb-4026-9369-01ef5ca77dfd"
+		],
+		"title": "geconcentreerde marketingstrategie, gedifferentieerde marketingstrategie, ongedifferentieerde marketingstrategie",
+		"id": "6f62df0c-8ad7-46c3-89f5-a8fdcda1c37d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"5589b335-faf8-440d-8f50-fa3001f7ca83"
+		],
+		"title": "klantwaardepropositie",
+		"id": "3b2e4dc7-3ebd-4318-af34-6d2f5dd15eb9",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"228c691a-712d-4318-b3dc-ac0c57604f4b"
+		],
+		"title": "marktonderzoek",
+		"id": "7642a21e-b0c5-49a2-bd79-28bef882bcc2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"f1694b8d-e835-44ce-8485-94492a54f487"
+		],
+		"title": "marktonderzoek",
+		"id": "1f398600-bd24-4667-b957-24f5d20b572f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"72268880-d87a-44e4-9037-07abaa5d9893"
+		],
+		"title": "marktonderzoek",
+		"id": "6e383e9e-d2da-4321-8a49-644a8cb276d4",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"e53eada1-5d94-4c78-a920-c352f957164b"
+		],
+		"title": "marktonderzoek",
+		"id": "362d54a8-190a-4a30-94f8-e43150bb5a1a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"443fae0b-49ab-4fbe-b250-9e94f061b9ed"
+		],
+		"title": "marktonderzoek",
+		"id": "741b49bc-4a94-40c5-aed3-b5c27ba95758",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"0b146bfe-f77c-4b18-881e-1716aa1a8eb7"
+		],
+		"title": "marktonderzoek",
+		"id": "d764acea-c6c6-4ecb-b2fb-a04a5d7fa8f3",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"33ad6640-6b60-4234-9abd-0eed4a9c17dc"
+		],
+		"title": "deskresearch, fieldresearch",
+		"id": "7e19a3d3-d819-4709-9f0f-fa752edd547e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"e0d71499-1da8-4a93-b8e3-30e70cbfea81"
+		],
+		"title": "deskresearch, fieldresearch",
+		"id": "b110932f-1704-4ff8-a838-847d68ec527f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"e6665ab5-3b09-49be-a6ad-359388c2f330"
+		],
+		"title": "deskresearch, fieldresearch",
+		"id": "1bca8989-6409-4a90-bfde-f816344bb822",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"ff3e7490-8abf-4921-b7b8-ea0faabeb225"
+		],
+		"title": "marktonderzoek",
+		"id": "0597513e-6a95-40bd-9f55-84ffcd0b278d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"57626890-d018-47b9-9624-424e43c1cc0b"
+		],
+		"title": "klanttevredenheid, herhaalaankopen, verkoopgrootte, verkoopfrequentie",
+		"id": "40278b86-a50f-4b26-a7c6-e0fe11ab0207",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"e4ff60ca-8de7-4553-9998-4e5c3e2daac1"
+		],
+		"title": "klantwaardepropositie",
+		"id": "9cf58323-56ce-42cb-977d-eef583ca7d04",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"89812bb4-66c0-4e92-aac2-6a254623d166"
+		],
+		"title": "marketingadviezen",
+		"id": "2139111d-11ee-40f4-a7b1-7f66b6b0df5a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"4925e473-b00e-45ac-9a5b-e0d7e7e2f2a2"
+		],
+		"title": "marketingdoelen",
+		"id": "b83b77c5-93c3-4f90-b36c-f8f0513163b4",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"6dcc821d-176b-4450-be7c-cb79927d2574"
+		],
+		"title": "marketingdoelen",
+		"id": "ed2538d3-9b30-4303-b21a-bb37e9ec2188",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"9f653d91-f658-4fe7-8527-022526686fb3"
+		],
+		"title": "marktcreatie, omzetgroei, groei marktaandeel, winstmarge",
+		"id": "46f220d9-5286-463a-8493-b440eacb7cde",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"f00d964f-cec9-4da5-bf43-d54d87865d9d"
+		],
+		"title": "marktaandeel",
+		"id": "58d0fcd0-4575-460b-b7d2-a254a473a7e7",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"3bcb4c00-0f0f-486c-8394-0f0c6d461827"
+		],
+		"title": "doelgroepen",
+		"id": "4818df0c-07f0-4701-b232-6eceece46fca",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"0a1e391e-a82a-48c9-9ae3-bba63c46592a"
+		],
+		"title": "informatieve reclame, overredende reclame, ideële reclame, themareclame, actiereclame",
+		"id": "b282e03b-c73e-42c0-ba9e-f9ae8e708991",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"e4fe61e3-df58-429a-8129-e386119200db"
+		],
+		"title": "prijselasticiteit, kruislingse prijselasticiteit",
+		"id": "20f6cc3d-4ece-424f-8aaa-e6218a71f1e8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"26197b37-2bda-4e60-a752-fbd50d462da8"
+		],
+		"title": "prijselasticiteit.",
+		"id": "c683d4d9-e76b-4e2d-81dd-2f4f35cbde2b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"c37be87e-2b80-4bcf-a0ff-f2b03741bdac"
+		],
+		"title": "prijselasticiteit.",
+		"id": "6fad477e-b7ae-4a45-9604-af7ed8eaa5da",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"dcbefdab-ec5c-48dc-b59e-4082f289042d"
+		],
+		"title": "toetreding barrière",
+		"id": "8183175c-7461-4443-8258-48a5321b033b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"a7682a07-c015-46e1-88be-2c4544e94485"
+		],
+		"title": "marketinginspanningen",
+		"id": "4b54b39c-6c98-4cc8-b0e1-bed80124d6cc",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"4a0cda1a-c3dd-4ebf-8175-7903212bde66"
+		],
+		"title": "geconcentreerde marketingstrategie, gedifferentieerde marketingstrategie, ongedifferentieerde marketingstrategie",
+		"id": "11a92952-a1b9-46ec-9214-8b2f74d69f11",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"e2662820-4df5-4029-a248-15bb271eba66"
+		],
+		"title": "positioneren",
+		"id": "1265f4d6-68db-4770-8365-d92e68f07308",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"4ab331b5-a735-47ba-bdea-89e78d0ca6d7"
+		],
+		"title": "klantwaardepropositie",
+		"id": "fbc0aa3b-911c-4c53-87a1-a7967c98486b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"a8dc4172-7062-4430-9060-164a32809041"
+		],
+		"title": "klantwaardepropositie",
+		"id": "d7c475a9-5d73-4d6e-9144-21395a4bca96",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"b9f82600-44f9-42a3-b048-24ff68145cbb"
+		],
+		"title": "marktonderzoek",
+		"id": "4999b904-6764-4997-a5da-8830da54d8c3",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"80ba02e1-5aa8-491a-a684-1af8a47b7d0a"
+		],
+		"title": "doelgroepen",
+		"id": "fe9850f4-1ab9-47f9-8c22-73833285b61c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"7c09dbfb-b6d3-4a18-b4a2-a7db568829b0"
+		],
+		"title": "marktonderzoek",
+		"id": "053c3ed2-4e24-438e-bdbd-71b50705404e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"25aa5439-641f-41ae-858a-8a8ac904c347"
+		],
+		"title": "marktondrezoek",
+		"id": "b12cd405-2508-43fe-85aa-9a9d10e891c9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"37caf09a-a35f-4db8-ac02-1feecbe47f43"
+		],
+		"title": "marktonderzoek",
+		"id": "bc9e6ce8-ca8d-46a3-afde-48167c030495",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"93f01e6c-ce29-45be-a337-f187ff105cef"
+		],
+		"title": "marktonderzoek",
+		"id": "ea47fd5b-65e9-40d7-9b60-5187af9625e0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"bf415916-a879-40a5-b358-966ef96d4a12"
+		],
+		"title": "marktonderzoek",
+		"id": "781d1594-23b2-4277-a0bd-f126013afbab",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"cdcdc25e-987e-404b-8f7a-7ef27259e283"
+		],
+		"title": "marktonderzoek",
+		"id": "e5b7b31a-811e-46b1-8dad-17c82d306556",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"52e60088-dd2b-4f3b-a6e1-d60a25b28bc0"
+		],
+		"title": "marktonderzoek",
+		"id": "66ea9b38-351f-4e07-bff2-929f9eab34c1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"b78e4321-5e34-4b4d-869d-ddf7ce7b9a7b"
+		],
+		"title": "marktonderzoek",
+		"id": "34adafea-a7f2-4019-a4b2-be8720bf2f2c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"2a064f89-b9c7-4cf5-a536-1c45abd986f0"
+		],
+		"title": "deskresearch, fieldresearch",
+		"id": "e91dbcf6-79cb-410b-9818-5907cfeaab2f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"9bbaf8d7-4580-45b1-a2a3-83a7e08f4d12"
+		],
+		"title": "deskresearch, fieldresearch",
+		"id": "709466e2-5eb5-4036-ad96-0e8e34380f08",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"62d7b6b4-bf64-4cb3-858b-bdd00628297d"
+		],
+		"title": "deskresearch, fieldresearch",
+		"id": "b48df8f1-d60e-4664-89ed-c54f40266861",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"516603d1-a012-466f-897b-6055512a0238"
+		],
+		"title": "marktonderzoek",
+		"id": "90826d2a-d9d3-42d5-80c6-8bf3a57d7a08",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"d039076d-13a7-415a-86c3-169698fcf2c0"
+		],
+		"title": "klanttevredenheid, herhaalaankopen, verkoopgrootte, verkoopfrequentie",
+		"id": "9da414dc-5a08-4cda-898a-076df0805c31",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"fdce420e-9ecd-4521-aeda-5f9623582785"
+		],
+		"title": "klantwaardepropositie",
+		"id": "b607c02f-6d7f-423f-92e9-2bb47823631c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"2c853587-7312-47f3-8593-7c0f4f83e1e2"
+		],
+		"title": "marketingadviezen",
+		"id": "bc39170b-7fcb-4aa6-8093-acb9e30536d5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"d07d34b3-3d43-495e-a793-4d80a61c02c1"
+		],
+		"title": "constante kosten, variabele kosten, proportioneel variabele kosten",
+		"id": "0027f012-0146-4300-a012-636d9a0a1f71",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"a409e952-ee2c-48e3-8de4-98608735e509"
+		],
+		"title": "kostensoorten",
+		"id": "42995d2a-b5a3-4521-8480-99987adf2b9b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"f1c784a6-9e83-4be1-ae25-7f3f3a73aa0f"
+		],
+		"title": "categoriale kostensoorten",
+		"id": "7aa73067-97ff-4122-ad9c-17799e66e728",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"d6366779-f8f8-4eca-9825-40c7a3a15978"
+		],
+		"title": "break-even analyse",
+		"id": "d6efbe20-a83a-4d2a-960d-280639596688",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"e888bee6-ad59-459f-89d3-8b04a3ab643c"
+		],
+		"title": "break-even afzet, break even omzet, dekkingsbijdrage",
+		"id": "fe6508f3-9a8e-46e2-9526-f5ba26e64123",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"b0f724cb-76a8-411e-b590-103a1f0b7f57"
+		],
+		"title": "totale opbrengsten, totale kosten, totale resultaat",
+		"id": "9dd38629-a00d-4382-992b-7c939ee5165e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"d00e6461-4fee-4478-a110-95bd98eb9d9e"
+		],
+		"title": "grafische breau-even analyse",
+		"id": "75f5d4fb-6e72-4571-9bcf-e7db5ccac97f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"f7a3b0d1-8760-4f05-8eea-67306f18258a"
+		],
+		"title": "verkoopprijs, te vorderen btw, af te dragen btw, te betalen btw",
+		"id": "1b073ecd-7a80-40ff-aadb-c99f3906ef5c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"aae064e2-54a8-4ba1-a245-5fac41aed5d4"
+		],
+		"title": "winstopslag, winstmarge",
+		"id": "39b85908-39a0-4a97-ad2d-35a4de4856e5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"b8d88a1a-6aa1-4865-a0b2-65e65096bcbb"
+		],
+		"title": "transfer pricing, kostenallocatie",
+		"id": "109c17e2-82a9-4d89-8cd2-67abf4534b5f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"dc96b8c3-a476-49dc-b52e-beab33c2d722"
+		],
+		"title": "toegerekende kosten, periodekosten",
+		"id": "50326b40-d574-4214-8490-ef7ca7dfaaf4",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"702c7a9a-f5be-4fb2-8c23-7741f9643412"
+		],
+		"title": "kosten per geleverde dienst, kostenmethoden",
+		"id": "30eb69e7-7ee8-4487-9705-a012417bb3ca",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"8491ff5a-8e0e-49c2-a096-3726bc471bab"
+		],
+		"title": "opslag constante kosten, verbijzondering variabele kosten",
+		"id": "ddc51a6b-5153-4836-8696-fddc51fa7d41",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"a0f940d3-eb0c-42d2-af3c-09cd89a167a1"
+		],
+		"title": "variabele kostencalculatiemethode",
+		"id": "894421e4-55b7-4b5d-8022-b632e5e74240",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"c9880a42-e0cc-49e7-bdbd-b932970382bc"
+		],
+		"title": "voorcalculatorische winst- en verliesrekening, nacalculatorische winst- en verliesrekening,",
+		"id": "435fc9e1-5baa-4725-b6e2-22e12f761168",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"b2993365-35b5-4ce5-a875-49ac60d72564"
+		],
+		"title": "voorcalculatorische grootheden, toegestane grootheden, nacalculatorische grootheden, gerealiseerde grootheden,",
+		"id": "4d55e341-31ad-45ee-bcbe-f9e646b07612",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"1dc6656d-8e64-4498-b10b-3f3b48db23da"
+		],
+		"title": "voorcalculatorische resultaat, gerealiseerde resultaat, verschillenanalyse",
+		"id": "dd5b1bed-878e-4343-b864-dce600fcf268",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"bc5b39a8-0682-4f69-9b1f-24a1f5113474"
+		],
+		"title": "verschillenanalyse: verkoopresultaat, budgetresultaat, prijsresultaat, efficiencyresultaat, bezettingsresultaat",
+		"id": "189bc770-bcfc-4866-8a7b-e449cd128cc2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"060a4cbf-2c20-4853-821a-cd93c41ee554"
+		],
+		"title": "cash flow",
+		"id": "b17375b6-6f53-4a0a-b928-e92af21e65d7",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"aad728c0-d7d0-4a0a-baae-af5e948c5ca8"
+		],
+		"title": "afschrijvingssysteem vaste activa, vast percentage aanschafwaarde, waarderingsgrondslag activa, historische kosten, actuele waarde, herwaardering zonder inhaalafschrijving",
+		"id": "d53a3084-6b83-4fdd-a09b-5bf0cbb9bb3f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"80b391ea-47b7-4bcc-a8b2-5ba18b2c5e71"
+		],
+		"title": "voorraadwaardering goederen: vaste verrekenprijs, prijsverschil bij inkoop",
+		"id": "61ab77ba-6637-4f92-ae1d-6e09d0cf59a6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"63176b3f-d337-4d10-8a6d-998221e3077c"
+		],
+		"title": "resultaten financiële informatiecategorie, resultaten niet-financiële informatiecategorie",
+		"id": "a26ca845-c844-44f7-8ea1-0962d52de8c3",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"13e6662d-d94d-463f-bb3d-cb0bf39f72b8"
+		],
+		"title": "social accounting, niet-financiële informatie",
+		"id": "7b9bff39-12de-402b-85ca-baae19de697d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"cb7f4f4f-aca7-4401-9454-83ce319ec460"
+		],
+		"title": "risicomanagement",
+		"id": "5b2c0899-25fd-40a7-bd48-fd7e116ce64a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"8158ed8b-438e-4e45-b042-12f9372a67d3"
+		],
+		"title": "waarde immateriële activa",
+		"id": "5575baba-bfe2-4a6b-b4f1-0e1ead46790f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"1f3b2e5d-b734-4b2c-ba4f-723fe0c01937"
+		],
+		"title": "informatiebehoefte",
+		"id": "e1ef9ff1-325a-45a9-97e5-0de73b6eff54",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"2ec75980-015d-41c4-9b09-a4aa10d6ef64"
+		],
+		"title": "informatiebehoefte",
+		"id": "422da59d-9df8-4105-8c51-c4ca9029ef15",
+		"unreleased": true
+	}
+]
