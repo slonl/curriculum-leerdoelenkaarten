@@ -3598,5 +3598,404 @@
 		"title": "Weer",
 		"id": "e0a35080-786b-4416-a4b1-4064a76f918a",
 		"unreleased": true
+	},
+	{
+		"prefix": "nask2/1/1",
+		"lpib_vaksubkern_id": "c31b845c-9551-4410-9025-4915511b57cb",
+		"doelniveau_id": [
+			"5eea6545-a394-4319-8cb3-1ae29abbdd1c",
+			"2b5945b2-7d65-4de3-b99c-a6dc7ea45ab8"
+		],
+		"title": "Bouw van stoffen",
+		"id": "068ca82e-cd28-4d27-a04d-a6fbc676587a",
+		"unreleased": true
+	},
+	{
+		"prefix": "nask2/1/2",
+		"lpib_vaksubkern_id": "10b15d95-9ddf-4004-ace7-508af8432d20",
+		"doelniveau_id": [
+			"1e997f1f-1e7f-41ae-b132-70fdbed032df",
+			"b7019c29-d22d-482a-9ca2-a55a236e6d47"
+		],
+		"title": "Periodiek systeem",
+		"id": "85f896e2-8d95-4718-808b-c7c0f74270de",
+		"unreleased": true
+	},
+	{
+		"prefix": "nask2/1/3",
+		"lpib_vaksubkern_id": "c4bbece3-b74c-4076-85ae-b45caa215400",
+		"doelniveau_id": [
+			"46321652-6477-4858-a343-6b3571cbe4c0",
+			"b6347735-475c-493b-b982-6aa08806affd"
+		],
+		"title": "Zout en ionen",
+		"id": "75dded09-16bf-48dc-8d9e-920e6cc70dbb",
+		"unreleased": true
+	},
+	{
+		"prefix": "nask2/1/4",
+		"lpib_vaksubkern_id": "c02479fe-b6bf-4a89-9fb9-61ab746781fb",
+		"doelniveau_id": [
+			"943be500-3499-46b6-8b2e-5689ffb88235",
+			"e9c3bb64-1b1a-44b1-8cd9-c5784d69a8ba"
+		],
+		"title": "Molecuulformule",
+		"id": "96219647-8635-43cd-9146-089ce69a3e10",
+		"unreleased": true
+	},
+	{
+		"prefix": "nask2/1/5",
+		"lpib_vaksubkern_id": "5eb982b7-c7c3-4bc3-bc9a-f68fdd5eb4ee",
+		"doelniveau_id": [
+			"98764887-5bde-4c75-890e-629c547fe5b5",
+			"fa1da076-a49c-4d29-9abe-77b624f65272"
+		],
+		"title": "Scheikundige reactie",
+		"id": "efd99892-fb58-431e-8a7f-d9a4f5b5e706",
+		"unreleased": true
+	},
+	{
+		"prefix": "nask2/1/6",
+		"lpib_vaksubkern_id": "10b15d95-9ddf-4004-ace7-508af8432d20",
+		"doelniveau_id": [
+			"2f749fce-bd91-4672-bf8c-44cc04433dfb",
+			"666574d0-332f-4056-9294-15986cc40ed6",
+			"e6a96de7-3094-4ecb-ae84-4dd92a8fc125",
+			"fabc43e4-e8ac-4518-b874-2db50d2a7103",
+			"3e8386f9-c359-41fa-a265-43603ae985c0",
+			"192591b0-9460-4a55-91b1-21315446e6f4"
+		],
+		"title": "Periodiek systeem",
+		"id": "ff3707f2-b8ea-440b-b7e2-01194fe2f469",
+		"unreleased": true
+	},
+	{
+		"prefix": "nask2/1/7",
+		"lpib_vaksubkern_id": "c4bbece3-b74c-4076-85ae-b45caa215400",
+		"doelniveau_id": [
+			"a4bde6ba-a665-4bf2-9b6b-ad4a4f691fac",
+			"1187ebaf-04d3-4859-a502-e6216c0b5b4c"
+		],
+		"title": "Zout en ionen",
+		"id": "26f0d70b-8889-41ff-8ac1-66e219f611a8",
+		"unreleased": true
+	},
+	{
+		"prefix": "nask2/1/8",
+		"lpib_vaksubkern_id": "164e5d54-ca1f-4d30-a70e-b52e28f7dcd8",
+		"doelniveau_id": [
+			"8602a44c-c7c3-4667-9b54-43d6086c744a",
+			"689cb985-65e8-4c1e-8c01-0d5c0e155981",
+			"75fb676e-d170-4684-9e72-915b3365d53e",
+			"843ba775-f648-48ad-85c2-4c766ac33c42",
+			"cf3c2d0a-f419-4b79-a8d9-49f97295f082",
+			"3047b3f4-f82a-491c-8cb0-c2e002236c49"
+		],
+		"title": "Chemische processen",
+		"id": "f48224c9-3edb-4faf-af65-934863ab1c38",
+		"unreleased": true
+	},
+	{
+		"prefix": "nask2/1/9",
+		"lpib_vaksubkern_id": "d7c4657e-0d0b-425d-b013-5823134519c5",
+		"doelniveau_id": [
+			"60a9ff91-f115-47c4-a690-6467e781e795",
+			"88d711ba-e38b-4935-b04d-00378dd185ef"
+		],
+		"title": "Stofeigenschappen",
+		"id": "c17e7bab-243d-472f-939a-8fe5ac0dcde3",
+		"unreleased": true
+	},
+	{
+		"prefix": "nask2/1/10",
+		"lpib_vaksubkern_id": "3cff3b63-a8c1-49d7-8c11-f52e504a91a0",
+		"doelniveau_id": [
+			"b01bcd1d-de37-4967-b5c1-f921a42366c9",
+			"9ac5808d-e3f6-4616-9ee6-b6c60ed7a944",
+			"1ef9d7cf-d1af-4203-9ef8-6bc16b2d24e5",
+			"00618390-a012-4b12-b6cc-0b069dfa84a6",
+			"97c5d72a-fe09-4ad1-bef8-e7637ff37a92",
+			"86c88a0d-296b-4bbd-be18-66f3f7e483c0",
+			"bb8a714f-d937-4913-bad4-75a1ce7834dd",
+			"267a797b-0224-4236-8fc1-e0ab039bdf6c",
+			"0d31eb19-bb1e-4b2d-9aca-6a9b98e7344e",
+			"306c9908-6057-4beb-9506-d5dbebe2a421"
+		],
+		"title": "Zuiver of gemengd",
+		"id": "8ae39be9-7b9d-4e21-9d11-94f66078fe2f",
+		"unreleased": true
+	},
+	{
+		"prefix": "nask2/1/11",
+		"lpib_vaksubkern_id": "f829c7ff-eb82-4f99-9777-459d4d2cad2e",
+		"doelniveau_id": [
+			"d63a8179-3731-45f4-a492-b01251d232ac",
+			"48df766b-b222-4065-8f9a-8428592b89da",
+			"0ab3a777-06bc-4cf2-9b97-09f0731358f8",
+			"8e8a1457-e5fd-4991-b630-3ba15c739701"
+		],
+		"title": "Gevaarlijke stoffen en veilig werken",
+		"id": "30838696-ba1f-459f-aa39-afaf0abbc66e",
+		"unreleased": true
+	},
+	{
+		"prefix": "nask2/1/12",
+		"lpib_vaksubkern_id": "8de520d8-9b2a-4b43-bb76-508fa502084d",
+		"doelniveau_id": [
+			"a720e7fb-e723-4843-ae63-9adbcbf6a79c",
+			"d69d1629-2d6c-4f57-ae0e-001bb75630bd"
+		],
+		"title": "Straling en veilig werken",
+		"id": "e3db3b6f-a439-430d-ad64-c0d1a8d2db91",
+		"unreleased": true
+	},
+	{
+		"prefix": "nask2/1/13",
+		"lpib_vaksubkern_id": "e794a2af-4335-4559-aa50-003258ef5264",
+		"doelniveau_id": [
+			"b842112e-7558-480d-af96-053c24f8b779",
+			"35630614-653c-469d-a58c-442ded585b59",
+			"93fb4b9f-fd88-4bce-bb33-5487c2fb3635",
+			"c71b50eb-2c38-4196-bceb-63063301dc87",
+			"47e688df-070f-47bc-927f-844269b48d01",
+			"19279d32-972e-438a-905d-3fa7924b967e",
+			"b431732f-a2b0-4283-bec0-d26c245715b8",
+			"5854242a-f1a8-4413-a058-69d3f3c7f1f8",
+			"1aad68f3-5532-4302-bb26-2e8d1fe32f56",
+			"56913127-8715-4264-b313-34eaf9ccbb41",
+			"3a457240-3ad1-4084-b08b-c3a14f4233c1",
+			"226c84e8-d118-406e-b539-59989addb311"
+		],
+		"title": "Water",
+		"id": "69eaef05-521b-4048-8561-b27b8891b98f",
+		"unreleased": true
+	},
+	{
+		"prefix": "nask2/2/1",
+		"lpib_vaksubkern_id": "a1801573-5e66-4786-b4a2-fcc76ddc8bb9",
+		"doelniveau_id": [
+			"77935fda-ad56-4396-947e-d4f38636cbf1",
+			"28b068b5-5c22-4b01-b470-234215e31f0e"
+		],
+		"title": "Reactiesnelheid",
+		"id": "83b76eb8-eba3-411e-9668-9825769234d4",
+		"unreleased": true
+	},
+	{
+		"prefix": "nask2/2/2",
+		"lpib_vaksubkern_id": "4b1fd8b8-3624-415d-8ab9-66d0a2614c67",
+		"doelniveau_id": [
+			"d97fee0f-2e7e-4694-921e-ea6cf084a1c1",
+			"136e205c-02b2-451f-8723-18f8ef44dada"
+		],
+		"title": "Massa",
+		"id": "ed75f049-191b-42cc-9427-ec78eaa48d1c",
+		"unreleased": true
+	},
+	{
+		"prefix": "nask2/2/3",
+		"lpib_vaksubkern_id": "7e0e3da3-3edf-47a4-a959-7888cf4668e1",
+		"doelniveau_id": [
+			"69a285a0-f246-4151-8298-06f980bc541b",
+			"393e3467-0c6e-420c-9c03-bd81386b666d"
+		],
+		"title": "Productieprocessen",
+		"id": "1a9b0d5b-37d7-4292-bd2e-9bc21be33c8d",
+		"unreleased": true
+	},
+	{
+		"prefix": "nask2/2/4",
+		"lpib_vaksubkern_id": "9fddc684-31e1-4ce8-a971-55e8a1233763",
+		"doelniveau_id": [
+			"6e62997b-4841-456a-a143-0a96a49e3ccf",
+			"beb170ca-e197-432c-9d00-0d463aef9e2d",
+			"86e5f555-afd8-4c4c-8a53-bd31de67d9e9",
+			"2241f618-652e-43fe-ab6b-cd52d3cf2584",
+			"b0534046-da82-40eb-a374-919c8333d921",
+			"deea9fb9-f46e-465a-9476-40f00138a33d",
+			"838a70e4-5c01-40a6-bde1-72811faaba29",
+			"f64cea65-c6d4-4d2f-a7be-2a4d9bfe717e",
+			"5efe01c0-1002-4072-85a8-46a19c02b329",
+			"2048b4e5-089f-498d-a9ca-05b9fa699ca9",
+			"cab8927f-d41a-49df-a1b3-2d3f5332ca79",
+			"ae93fc89-3255-4538-b440-d248c0017c6a",
+			"5569349e-9f67-4310-b8bb-eb08dfce2ec8",
+			"348ec1fb-2c6b-4fc1-b52a-71a79ab13581",
+			"426f3c7e-64b5-4b29-ba77-8f4d0f344c93",
+			"3f607c62-e0d1-45d8-aede-e6159936062f",
+			"59c98431-a0d6-4212-a26b-c994857c25d5",
+			"21599372-5ad2-4c63-a223-005f20ad1a0e",
+			"3bd418ff-0a38-4860-a927-8d8024f2c918",
+			"9dd6e70f-1732-4804-8ade-6fa5f79c3e9d"
+		],
+		"title": "Productonderzoek",
+		"id": "219d9071-e275-485e-940b-9919bb4ce6c8",
+		"unreleased": true
+	},
+	{
+		"prefix": "nask2/3/1",
+		"lpib_vaksubkern_id": "22b8339f-5fbc-40bc-b278-93964f2b2817",
+		"doelniveau_id": [
+			"4f32aefd-0dea-42de-8538-3c089af74231",
+			"ed15a76f-bc4d-4a90-a6fb-e728a612cb77",
+			"2d13bc9b-088a-4d59-85c0-ea33e84061cd",
+			"04e8fcba-4632-497f-a6b0-5fbfdacbf71d",
+			"a5a44aaf-cad0-4b42-b41c-bcb6a2fa1a1e",
+			"e0c3d50e-092d-4a80-a4a3-d77e883a0779",
+			"0878c02b-d813-4de5-b687-d7ba6c68ea61",
+			"f83b9f03-8393-4c75-a18b-ae6ec82e30cc"
+		],
+		"title": "Chemische reacties",
+		"id": "a4c6e513-9c1a-4c56-a069-48919b7ce00e",
+		"unreleased": true
+	},
+	{
+		"prefix": "nask2/3/2",
+		"lpib_vaksubkern_id": "85f7ab22-4f7a-4d47-9104-5eb569c3c2c7",
+		"doelniveau_id": [
+			"933f6d24-191d-44dd-9d16-11b2736afc67",
+			"8cb47c7b-cf6f-4ede-9555-659a1a918624",
+			"2a1b8605-be74-465f-8cc2-cceb0f9e8dee",
+			"93ea7f7c-da6f-4284-b0cb-6faf3913ca21",
+			"1f596379-1949-4fbb-badf-fc92d8a79174",
+			"45ebd32d-dcdc-4584-ac05-2ebdfb7e07c8",
+			"6cdc2dc2-7582-407a-a41b-087fa42f39c9",
+			"b61856f5-d0fb-4361-9e68-a4d16387ae89",
+			"5543ce88-57ea-4b6c-bea8-bf82bfd914e9",
+			"7be86206-25a8-46ff-b484-72bac911caab",
+			"fe8a7499-69a5-47c6-b969-f7afb3fa0bb4",
+			"0f2f05df-bd07-4c8f-bb82-c14606df824c",
+			"dfd0a291-fc98-44c1-906b-22c2c2a88a84",
+			"f4298e1b-2e13-44fc-9dbe-a0dcf26cb679"
+		],
+		"title": "Zuren en basen",
+		"id": "1c121b53-ba39-4238-92ad-374975c24d23",
+		"unreleased": true
+	},
+	{
+		"prefix": "nask2/3/3",
+		"lpib_vaksubkern_id": "4ec698de-cd2c-4d20-89aa-c6d55e5f1586",
+		"doelniveau_id": [
+			"d2a9a08b-9744-467d-b9f1-c506c1ce5a4b",
+			"6befa6cd-df4e-45a4-bc94-d39a39bc4b65",
+			"37f6046b-acb4-4aa1-a559-06514597b006",
+			"425b5140-4b27-4893-a174-83b39061f4c1"
+		],
+		"title": "Reiningingsmiddelen",
+		"id": "57436d31-8b27-48ec-a039-1c4441b52b0e",
+		"unreleased": true
+	},
+	{
+		"prefix": "nask2/3/4",
+		"lpib_vaksubkern_id": "968623b5-70a3-49ee-8d80-13c3e5e47bc0",
+		"doelniveau_id": [
+			"2771dc9e-fe74-46d3-9d18-d4186f76cdc6",
+			"5494d9dc-50c9-49e0-86bb-649ec834fe64"
+		],
+		"title": "Oplosmiddelen",
+		"id": "fcf9577e-3c53-4ce3-b057-e36a89b2301f",
+		"unreleased": true
+	},
+	{
+		"prefix": "nask2/3/5",
+		"lpib_vaksubkern_id": "539d381a-013a-4f55-8936-0861858e8212",
+		"doelniveau_id": [
+			"68da59eb-507b-42ed-a8a8-d0b49d170561",
+			"139a7659-a59b-42e9-a106-ae1791203423"
+		],
+		"title": "Cosmetische producten",
+		"id": "3285a7c8-2456-4b2e-a87a-3fbff3a92383",
+		"unreleased": true
+	},
+	{
+		"prefix": "nask2/3/6",
+		"lpib_vaksubkern_id": "4fb075d3-3eb8-47aa-9db5-128561e6804f",
+		"doelniveau_id": [
+			"8bd9317d-787e-49a3-8ea4-7d1f05f65dbe",
+			"6a052179-5fd3-45b9-a80d-b7142b740789",
+			"826c4791-33b3-41f5-91d9-30a2f5b15058",
+			"ee78927d-86ac-4431-a28d-a85b3f903b6f",
+			"97f98803-44c0-4372-8d6d-64ba3144d026",
+			"3e1b0632-f0e2-4928-877d-589616683be3",
+			"01540673-0033-491b-83a6-aca7b87b260d",
+			"05265ea8-30c5-47bd-aca7-c5157e0368b0"
+		],
+		"title": "Chemie en industrie, metalen",
+		"id": "b280e777-7efe-43f2-8592-9844343b0c93",
+		"unreleased": true
+	},
+	{
+		"prefix": "nask2/3/7",
+		"lpib_vaksubkern_id": "f7a5c8fa-68a6-43c4-afcd-155322aa3552",
+		"doelniveau_id": [
+			"3d4702a1-cf29-40af-9fe9-237071c101b9",
+			"0bd57d56-464c-4358-a4d6-428f8c0efd18"
+		],
+		"title": "Aardolie",
+		"id": "6230231a-10d6-4d2e-9603-2d42ca040509",
+		"unreleased": true
+	},
+	{
+		"prefix": "nask2/3/8",
+		"lpib_vaksubkern_id": "90e07024-3ecb-40a7-a68d-efc5bd9626d3",
+		"doelniveau_id": [
+			"d26d2669-2f27-4497-91da-f696b5da779b",
+			"1a9a3209-192b-4528-9088-eb2b9a7edf8c",
+			"af7ab248-5c91-45f2-a3c1-2c8f43256a0d",
+			"925e14ca-f769-429c-9461-304536b2e2a9",
+			"ebf41b4c-aefe-4c9d-b5fa-62c95d8098e3",
+			"53e29497-8abc-4b64-a426-86a4acf2de83"
+		],
+		"title": "Polymeren",
+		"id": "39d3d11d-ee6e-495e-a79b-026461177f8c",
+		"unreleased": true
+	},
+	{
+		"prefix": "nask2/4/1",
+		"lpib_vaksubkern_id": "64e55788-d624-4582-af11-d13c5664630c",
+		"doelniveau_id": [
+			"bc17b170-2c2e-4a94-9e23-d901b6db8364",
+			"c824e311-74c0-4212-995f-23dc50f224d2"
+		],
+		"title": "Verbranding",
+		"id": "72f94c21-22e8-4faa-99cd-75fa284c5345",
+		"unreleased": true
+	},
+	{
+		"prefix": "nask2/4/2",
+		"lpib_vaksubkern_id": "81fb89ad-b1b3-4f98-9147-c60ad6082240",
+		"doelniveau_id": [
+			"c1f5a2c4-bf32-401a-8164-3db6caa6347c",
+			"9deef008-2606-4839-a4ba-8985e7c6b43e"
+		],
+		"title": "Brand blussen",
+		"id": "48dc0869-7001-4bd7-bfe9-e858d9a309f8",
+		"unreleased": true
+	},
+	{
+		"prefix": "nask2/4/3",
+		"lpib_vaksubkern_id": "71951487-84e0-41ac-96e7-722039c5d27c",
+		"doelniveau_id": [
+			"be60c84a-5a58-448b-90dd-3f1f1e6af8aa",
+			"777cfd03-7fb2-4867-a88a-68170fa7a9ed",
+			"56863dc3-417a-4a4b-ae94-5ff2f8d3bac7",
+			"8a022b4b-ae4a-4b90-9c1b-6882241e1099"
+		],
+		"title": "Voorwaarden voor verbranding",
+		"id": "3fbedafc-6d27-4322-87c9-63478c8ebcdb",
+		"unreleased": true
+	},
+	{
+		"prefix": "nask2/4/4",
+		"lpib_vaksubkern_id": "85321aff-1b23-4633-acf3-4d4505afa396",
+		"doelniveau_id": [
+			"9de91b8a-9edd-4bfc-afaa-19a5a551d25b",
+			"8121a0ce-d8ac-462a-b8a9-d09c5beb5b10",
+			"acbdebb7-b507-414a-8e68-5468e4d47bf5",
+			"d4675e7f-1ae6-471a-b7bb-cfb473ff04a3"
+		],
+		"title": "Energiegebruik",
+		"id": "695c9713-1b19-4c47-bbbf-dd5f96e53f89",
+		"unreleased": true
 	}
 ]
