@@ -761,5 +761,70 @@
 		"title": "Ruimte",
 		"id": "0a72abfd-3d04-48f8-8b32-4405f75c29ee",
 		"unreleased": true
+	},
+	{
+		"prefix": "nask2/1",
+		"lpib_vakkern_id": "0f96c277-f3bf-4f6c-a526-21072e408192",
+		"ldk_vaksubkern_id": [
+			"068ca82e-cd28-4d27-a04d-a6fbc676587a",
+			"85f896e2-8d95-4718-808b-c7c0f74270de",
+			"75dded09-16bf-48dc-8d9e-920e6cc70dbb",
+			"96219647-8635-43cd-9146-089ce69a3e10",
+			"efd99892-fb58-431e-8a7f-d9a4f5b5e706",
+			"ff3707f2-b8ea-440b-b7e2-01194fe2f469",
+			"26f0d70b-8889-41ff-8ac1-66e219f611a8",
+			"f48224c9-3edb-4faf-af65-934863ab1c38",
+			"c17e7bab-243d-472f-939a-8fe5ac0dcde3",
+			"8ae39be9-7b9d-4e21-9d11-94f66078fe2f",
+			"30838696-ba1f-459f-aa39-afaf0abbc66e",
+			"e3db3b6f-a439-430d-ad64-c0d1a8d2db91",
+			"69eaef05-521b-4048-8561-b27b8891b98f"
+		],
+		"title": "Materie",
+		"id": "5010d338-ab9b-4136-b4a0-4a551ecef9f4",
+		"unreleased": true
+	},
+	{
+		"prefix": "nask2/2",
+		"lpib_vakkern_id": "33e606c4-5386-4781-9e04-0d92eae38244",
+		"ldk_vaksubkern_id": [
+			"83b76eb8-eba3-411e-9668-9825769234d4",
+			"ed75f049-191b-42cc-9427-ec78eaa48d1c",
+			"1a9b0d5b-37d7-4292-bd2e-9bc21be33c8d",
+			"219d9071-e275-485e-940b-9919bb4ce6c8"
+		],
+		"title": "Schaal, verhouding en hoeveelheid",
+		"id": "9037c2ac-8f86-4399-8bca-229bc459ad39",
+		"unreleased": true
+	},
+	{
+		"prefix": "nask2/3",
+		"lpib_vakkern_id": "89c425d5-605d-4df8-a1a4-7e870e55649c",
+		"ldk_vaksubkern_id": [
+			"a4c6e513-9c1a-4c56-a069-48919b7ce00e",
+			"1c121b53-ba39-4238-92ad-374975c24d23",
+			"57436d31-8b27-48ec-a039-1c4441b52b0e",
+			"fcf9577e-3c53-4ce3-b057-e36a89b2301f",
+			"3285a7c8-2456-4b2e-a87a-3fbff3a92383",
+			"b280e777-7efe-43f2-8592-9844343b0c93",
+			"6230231a-10d6-4d2e-9603-2d42ca040509",
+			"39d3d11d-ee6e-495e-a79b-026461177f8c"
+		],
+		"title": "Reactiviteit",
+		"id": "92ac7b4b-79a1-411b-a4d3-0d383f30d6dc",
+		"unreleased": true
+	},
+	{
+		"prefix": "nask2/4",
+		"lpib_vakkern_id": "b01acef9-436e-40ab-940a-7984363fd307",
+		"ldk_vaksubkern_id": [
+			"72f94c21-22e8-4faa-99cd-75fa284c5345",
+			"48dc0869-7001-4bd7-bfe9-e858d9a309f8",
+			"3fbedafc-6d27-4322-87c9-63478c8ebcdb",
+			"695c9713-1b19-4c47-bbbf-dd5f96e53f89"
+		],
+		"title": "Energie",
+		"id": "48e1a6fa-6a6a-4d8e-8321-02ee522e1c8a",
+		"unreleased": true
 	}
 ]
