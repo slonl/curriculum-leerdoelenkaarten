@@ -1267,5 +1267,86 @@
 		"title": "Analyse",
 		"id": "c3e80b4b-cac9-4063-9ece-b05c0941c7cf",
 		"unreleased": true
+	},
+	{
+		"prefix": "wisC/1",
+		"lpib_vakkern_id": "cadc8a72-981d-4009-a930-12685cb46f41",
+		"ldk_vaksubkern_id": [
+			"e307ca3a-0aee-42e7-aba7-cdd94931d4d9",
+			"7c4c023c-612a-4fda-9c78-48dd68ef3fd2",
+			"2f6f6463-6e72-43d2-83b7-57541d11c9bc",
+			"400c5396-c23e-41a2-8883-532c3a0b9866"
+		],
+		"title": "Inzicht en handelen",
+		"id": "abed6b42-a345-44a3-a4b4-b91235ee623f",
+		"unreleased": true
+	},
+	{
+		"prefix": "wisC/2",
+		"lpib_vakkern_id": "4fd04386-767b-4883-959f-abd5efe9f16d",
+		"ldk_vaksubkern_id": [
+			"c8c4e858-44f9-4986-9dc6-7296830ec32a"
+		],
+		"title": "Logisch redeneren",
+		"id": "14cdc467-8a01-4ef7-8588-1bf8a2dbd92e",
+		"unreleased": true
+	},
+	{
+		"prefix": "wisC/3",
+		"lpib_vakkern_id": "2421fcdf-4839-4d95-8c40-564f45388b60",
+		"ldk_vaksubkern_id": [
+			"acd55814-6d65-4525-ad70-7da8bf8f2d3d",
+			"f1c5a429-b594-4c97-a6d4-d2725bfd6475",
+			"e5cd87e9-b075-4170-9511-26756fe6f2cc"
+		],
+		"title": "Getallen en variabelen",
+		"id": "b5b4933c-7b3f-4463-8cbb-6592faea276e",
+		"unreleased": true
+	},
+	{
+		"prefix": "wisC/4",
+		"lpib_vakkern_id": "23428d9e-8bdc-411b-88d4-fc80bb4ed52b",
+		"ldk_vaksubkern_id": [
+			"6396fa36-a78a-4985-9160-d91bf5191c0a"
+		],
+		"title": "Meten en meetkunde",
+		"id": "cf10445f-6314-4721-8e3e-ed98ebefbda7",
+		"unreleased": true
+	},
+	{
+		"prefix": "wisC/5",
+		"lpib_vakkern_id": "b2b0a114-9e28-4769-9a14-1da57ef66793",
+		"ldk_vaksubkern_id": [
+			"e64f94ab-5f12-4864-b10d-f0ab6dd12dba",
+			"50843c01-6346-4340-80b9-961a1177fae5",
+			"a48d38a2-f174-4193-8a1a-6702b78265f8",
+			"0b1d9e4f-4426-4bca-a4d3-2a0356358b0c"
+		],
+		"title": "Verbanden en formules",
+		"id": "e17a13b2-64bc-45f0-b638-35af3e7fffe6",
+		"unreleased": true
+	},
+	{
+		"prefix": "wisC/6",
+		"lpib_vakkern_id": "2f982e36-af2e-41b9-89cd-70d7c51ed92d",
+		"ldk_vaksubkern_id": [
+			"7097f689-cb52-4594-9887-4e41ebcba949",
+			"454bd698-a3de-493c-ab38-0a86345ea9f8"
+		],
+		"title": "Analyse",
+		"id": "b522b789-f467-420b-b26f-1d1b03404e08",
+		"unreleased": true
+	},
+	{
+		"prefix": "wisC/7",
+		"lpib_vakkern_id": "ba6c0d53-c5fc-4447-b56f-970de78ebe4f",
+		"ldk_vaksubkern_id": [
+			"e4354179-ab88-4105-91df-b6a19cfdd606",
+			"cc6a8ebc-6388-4397-a875-924430a690fc",
+			"cdbb70c7-5551-46ab-9183-5cbab2d34fda"
+		],
+		"title": "Informatieverwerking en onzekerheid",
+		"id": "4619b78b-e4df-4dac-8c32-a2806051cbe2",
+		"unreleased": true
 	}
 ]
