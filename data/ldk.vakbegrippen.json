@@ -13908,5 +13908,3453 @@
 		"title": "stralingssoorten: gammastraling, röntgenstraling, ultraviolet, (zichtbaar) licht, infrarood, radiogolven, microgolven\r\ninstrumenten: optische telescoop, radiotelescoop, ruimtetelescoop",
 		"id": "d8886e4e-a8a1-445e-9b7b-cfe502ee26d8",
 		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"d4c373ea-7f61-40e8-a4a0-b9e77618d93f"
+		],
+		"title": "stofeigenschappen op macro niveau",
+		"id": "5ea765d7-5290-4820-8536-10d8548aac60",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"75950184-f3c7-4301-9dc7-20c0c8ebc7c4"
+		],
+		"title": "zuivere stoffen: smeltpunt, kookpunt, mengsels: smelttraject, kooktraject.",
+		"id": "605c27d6-0469-4874-89ad-6b6fa29a2a78",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"6c9bf7b6-62d7-43d6-9437-45973cc6392f"
+		],
+		"title": "zuivere stoffen, mengsels",
+		"id": "8e78ae8a-9bc8-4f5e-8c33-62ca90fc939a",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"b010856b-d687-46d8-83e5-e5d6b1150be6"
+		],
+		"title": "ontleedbare en niet-ontleedbare stoffen",
+		"id": "9901e04c-b64c-462a-bd0c-00812b3e75fd",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"663e594f-80c0-4d00-ac92-867ec6b0e13d"
+		],
+		"title": "moleculaire stof, zout",
+		"id": "17633935-1841-43d1-85d7-9c31e5943c37",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"b4aba2ca-06f7-446f-ad70-e4a43f3e40b4"
+		],
+		"title": "oplosbaarheid zouten",
+		"id": "242901f5-2fb0-4a0c-ae4e-e28bc340f774",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"f7937944-a0b2-486d-b74a-7e8f910e98f1"
+		],
+		"title": "stofeigenschappen op macro niveau",
+		"id": "954f02f0-140a-49de-a95d-05e579f9f4b1",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"c82142a6-17f6-4a9f-8fa0-1015efbb294b"
+		],
+		"title": "zuivere stoffen: smeltpunt, kookpunt, mengsels: smelttraject, kooktraject.",
+		"id": "23644c64-deb8-4813-80f8-16c1724f2e3a",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"5687793d-d016-45aa-a4ae-bb007c5c30f1"
+		],
+		"title": "zuivere stoffen, mengsels",
+		"id": "3039fd15-8df6-4596-9bf0-711ae3cf324c",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"cbf3d8dc-2a26-45ac-9dba-0ec95e6b42f5"
+		],
+		"title": "ontleedbare en niet-ontleedbare stoffen",
+		"id": "2d983e44-c224-4a6f-ba4d-3df2de8f7221",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"4ec3703c-21d7-4818-af6c-c2e3b2bab95b"
+		],
+		"title": "moleculaire stof, zout",
+		"id": "f479653e-c361-4f37-bbc4-9cefa40fb5d8",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"78ea6862-8afe-41a7-9830-ee3ae94c4fd8"
+		],
+		"title": "stofeigenschappen",
+		"id": "db376eb6-b08e-4505-a1fc-b35ce66bc26d",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"da389a20-e35a-4dd6-a813-c422f395841c"
+		],
+		"title": "oplosbaarheid zouten",
+		"id": "822724cb-5831-4a91-b233-db06e0c166d9",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"aef7fe05-4db4-4ccc-8884-f6eb57544558"
+		],
+		"title": "moleculaire stof, zouten, metalen, massagetal, atoomnummer, isotopen, kernreacties",
+		"id": "04eee04f-6c9a-40b4-8961-a4688a0ca80a",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"d2c5206b-0ef7-4535-a91e-6a72846157c1"
+		],
+		"title": "moleculaire stof, zouten, metalen, massagetal, atoomnummer, isotopen, kernreacties",
+		"id": "281f9b2d-5d6d-44ef-8cec-7a0db144e5ce",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"9eb7f281-be51-4202-bd28-bab09bbf208e"
+		],
+		"title": "kern, elektronenwolk, proton, neutron, schillen, K-schil, L-schil",
+		"id": "1d3adddc-dde5-461b-baf5-014e7e1dd142",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"51f6b75d-da5c-4b3e-8ea0-5635d1827e67"
+		],
+		"title": "Periodiek systeem: groepen, trends, covalentie",
+		"id": "abe61937-68f2-4cea-ab49-7067a86bb718",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"e963c559-e243-4459-ad1f-fcec8c856c83"
+		],
+		"title": "moleculaire stof, zouten, metalen, massagetal, atoomnummer, isotopen, kernreacties",
+		"id": "de1c0b9d-63c3-4493-9af7-c161ab71681d",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"8ea08f8d-18ec-46c2-bd30-d2699db893b3"
+		],
+		"title": "moleculaire stof, zouten, metalen, massagetal, atoomnummer, isotopen, kernreacties",
+		"id": "603cf7e4-a0b6-48b3-95d0-907e10c29a7b",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"fac93156-6b47-4edc-8d07-22a5e14c189b"
+		],
+		"title": "kern, elektronenwollk, proton, neutron, schillen, K-,L-,M-schil, oktetregel, valentie elektronen",
+		"id": "affee5db-67b5-4f38-8d04-4994d44a69fe",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"118abf39-424c-480f-8834-23ebdd8249fc"
+		],
+		"title": "Periodiek systeem: groepen, trends, covalentie",
+		"id": "0483222c-29a0-45ab-8146-8efe1a99b449",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"bb13aec6-1213-433b-9bba-d796b4f7a5a9"
+		],
+		"title": "argon, broom, chloor, fluor, fosfor, helium, jood, koolstof, neon, silicium, stikstof, waterstof, zuurstof, zwavel",
+		"id": "9c5a0861-d12d-4bfb-a985-17e657491c00",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"9068bdc2-a91c-4a55-825d-bddb9ef164d9"
+		],
+		"title": "aluminium, barium, calcium, cadmium, chroom, goud, kalium, kobalt, koper, kwik, lithium, lood, magnesium, mangaan, natrium, nikkel, platina, tin, uraan, ijzer, zilver, zink",
+		"id": "0442cb31-38fa-41cd-9ed4-31a120b212f8",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"51b8c38a-fe3c-47e1-8a97-3331b4d3b4d0"
+		],
+		"title": "Ag+, Al3+, Au+, Au3+, Ba2+, Ca2+, Cu2+, Fe2+, Fe3+, Hg+, Hg2+, K+, Li+, Mg2+, Na+, NH4 +, Pb2+, Pb4+, Sn2+, Sn4+, U3+, U6+, Zn2+; Br– , CH3COO– , Cl– , CO3 2– , F– , HCO3 – , I– , NO3 – , NO2 – , O2– , OH– , PO4 3– , S2– , SO3 2– , SO4 2–",
+		"id": "5e00daa8-f6e2-4d9b-89ba-5a40b5e82129",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"bfc7163a-0915-4614-a726-d5b9b16e0d22"
+		],
+		"title": "HCl , H2SO4 , HNO3 , H2O + CO2 / 'H2CO3', H3PO4 , CH3COOH; NH3 , OH–, CO32–, O2–, HCO3–",
+		"id": "de7bfc1c-a39f-4cd7-a2dd-33cfc7ea6f08",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"564e6bb5-6b55-40cd-97d2-522e21cd0c0a"
+		],
+		"title": "Moleculen van organische verbindingen functionele/ karakteristieke groepen: C=C; OH groep (hydroxyl); COOH groep (carboxyl); NH2 groep (amino); COOC groep (ester); CONHC groep (peptide/amide); C-X (X= F, Cl, Br, I).",
+		"id": "91e10798-24bd-4ec1-b341-20df32c7428e",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"d0790875-f4ea-41b6-92df-8767d998ed08"
+		],
+		"title": "alkanen; alkenen; alkanolen; alkaanzuren; alkaanaminen; halogeenalkanen.",
+		"id": "0fd36f31-2a20-4c30-861b-6857bbb41441",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"a819b7e8-cd0e-4d73-bae0-ea70c5c00276"
+		],
+		"title": "zoutzuur, ammonia, natronloog",
+		"id": "15f75be2-1b6c-495b-9c35-eaee9055b5a5",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"7610f3c4-942d-4074-9f8a-b06bf3e46f05"
+		],
+		"title": "ammoniak, azijnzuur, fosforzuur, glucose, koolstofdioxide, koolstofmono-oxide, salpeterzuur, stikstofdioxide, stikstofmono-oxide, water, waterstofchloride, waterstofperoxide, zwaveldioxide, zwaveltrioxide, zwavelzuur",
+		"id": "f52a18ef-bbd6-43da-88b7-717949ae6c50",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"3004c34b-c955-49be-9271-26ccceb5c031"
+		],
+		"title": "argon, broom, chloor, fluor, fosfor, helium, jood, koolstof, neon, silicium, stikstof, waterstof, zuurstof, zwavel",
+		"id": "57533257-026d-498f-8bc4-88ab4740389c",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"af32d49d-7fbe-48c3-9ee4-5d7afc4bd975"
+		],
+		"title": "aluminium, barium, calcium, cadmium, chroom, goud, kalium, kobalt, koper, kwik, lithium, lood, magnesium, mangaan, natrium, nikkel, platina, tin, uraan, ijzer, zilver, zink",
+		"id": "b3ebfb2e-ce32-4b5d-bf62-78086b65ce13",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"bacf91cb-2e09-4b54-b263-f969379a0a6c"
+		],
+		"title": "Ag+, Al3+, Au+, Au3+, Ba2+, Ca2+, Cu2+, Fe2+, Fe3+, Hg+, Hg2+, K+, Li+, Mg2+, Na+, NH4 +, Pb2+, Pb4+, Sn2+, Sn4+, U3+, U6+, Zn2+; Br– , CH3COO– , Cl– , CO3 2– , F– , HCO3 – , I– , NO3 – , NO2 – , O2– , OH– , PO4 3– , S2– , SO3 2– , SO4 2–",
+		"id": "9d03acec-b7ef-41ff-9fc7-3e45fc7b6ee2",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"a6a58cec-02fa-4b5d-966c-84d38bafa277"
+		],
+		"title": "HCl , H2SO4 , HNO3 , H2O + CO2 / 'H2CO3', H3PO4 , CH3COOH; NH3 , OH–, CO32–, O2–, HCO3–",
+		"id": "1f0dc8c4-4bc0-4139-bc77-71e491f4a28c",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"85a4bec7-94de-4516-8a8c-169becbf82cf"
+		],
+		"title": "Moleculen van organische verbindingen functionele/ karakteristieke groepen: C=C; OH groep (hydroxyl); COOH groep (carboxyl); NH2 groep (amino); COOC groep (ester); CONHC groep (peptide/amide); C-X (X= F, Cl, Br, I).",
+		"id": "689c8622-115b-4dba-a375-365cd8b3371b",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"54d12890-5a99-43cb-b782-cb82bbfbc714"
+		],
+		"title": "alkanen; alkenen; alkynen; alkanolen; alkanalen; alkanonen; alkaanzuren; alkaanaminen; halogeenalkanen; cycloalkanen; benzeen en benzeenderivaten; alkoxyalkanen; alkylalkanoaten.",
+		"id": "cd977bad-05b7-4a10-833d-a27f82dd32ef",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"a8ab5e1d-9113-4bea-8046-570971765e68"
+		],
+		"title": "zoutzuur, ammonia, natronloog",
+		"id": "5d083004-7677-4c57-8d16-478501597867",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"3777da60-119a-4b3f-9c3c-eac41f6fcd6f"
+		],
+		"title": "ammoniak, azijnzuur, fosforzuur, glucose, koolstofdioxide, koolstofmono-oxide, salpeterzuur, stikstofdioxide, stikstofmono-oxide, water, waterstofchloride, waterstofperoxide, zwaveldioxide, zwaveltrioxide, zwavelzuur",
+		"id": "cd688bb2-8895-4fc1-abbd-f6a99ccf84a4",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"e8d5bb96-3075-4c97-b5e7-6bf98f9dddbc"
+		],
+		"title": "metaalbinding, ionbinding, vanderwaalsbinding, waterstofbrug, atoombinding/covalente binding,polaire atoombinding, gemeenschappelijk elektronenpaar",
+		"id": "1e5ed2c8-981c-447e-91e7-0da4a1c23758",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"d1545327-6ac2-444f-84fb-339fac9da81c"
+		],
+		"title": "dubbele bindingen (C=C)",
+		"id": "a5799e76-b75e-4ea3-8aa8-cefe1ad13eff",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"4f9c3ede-5ac2-4fab-ba94-99858c54cfa5"
+		],
+		"title": "meervoudige bindingen",
+		"id": "5dbe5194-4999-4d82-b279-3bcd6119e42d",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"a16deb5c-8d50-476a-87a6-765e4bb51b2b"
+		],
+		"title": "dubbele bindingen (C=C)",
+		"id": "fe5ac689-fbc5-4d8c-beba-d982be76c8f7",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"215ec4d0-5fc7-4d82-9fdf-2aa2bc10a36f"
+		],
+		"title": "metaalbinding, ionbinding, vanderwaalsbinding, waterstofbrug, dipool-dipool binding atoombinding/covalente binding,polaire atoombinding, gemeenschappelijk elektronenpaar",
+		"id": "9c4c128e-c412-4a62-8d10-d8c3f2683384",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"77ae4abe-5cfc-4fee-8e22-a4f356fd78b1"
+		],
+		"title": "attractie, repulsie, VSEPR",
+		"id": "e7b4703f-d042-4f10-b42b-733c95838fc4",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"f0747e1a-dbb4-4b91-bcde-30e091ce6be1"
+		],
+		"title": "dipool-dipool interactie",
+		"id": "9ba3fddd-7766-48e0-a7f5-f6ef6c037750",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"db917881-2e82-4e57-aa3d-caba1c04e24a"
+		],
+		"title": "metaalrooster, ionrooster, molecuulrooster, atoomrooster",
+		"id": "85defaae-2e8e-4aa5-bbee-ceaaa7df261e",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"42a7a2d5-aae9-4e7a-9a26-db027fd8f1b8"
+		],
+		"title": "vrij elektronenpaar",
+		"id": "b855c70c-2a29-4d09-913f-be10969d146e",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"f4679a21-bf68-4ea7-9660-028a9ec9a042"
+		],
+		"title": "dubbele bindingen (C=C)",
+		"id": "2f9267bd-74e6-4ab6-85c6-884e30aa2adc",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"de38384b-15ee-4119-9dc1-835fdd931e36"
+		],
+		"title": "meervoudige bindingen",
+		"id": "3b1766a8-439c-4ef8-a066-f274fc62041d",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"3f30a3e7-47eb-40e1-88e3-cc1985efe266"
+		],
+		"title": "meervoudige bindingen",
+		"id": "07e01d92-8088-4006-9fcb-7573a24c092e",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"d96750bf-6368-4c16-9066-1c4c71bb7881"
+		],
+		"title": "massa, massabalans, massabehoud",
+		"id": "592d3be5-53a8-4beb-9685-3f36f2181c78",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"f20f4bce-d219-4413-a88c-de3c2cfc9a42"
+		],
+		"title": "massa, massabalans, massabehoud",
+		"id": "e02c8f4e-f088-45ad-8e37-75cfafc0dd87",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"de566e32-d336-4ef8-b9d0-4a56ebc885e5"
+		],
+		"title": "massa, massabalans, massabehoud",
+		"id": "bbdaf21c-6e24-4c6b-8fe7-3bef3b771d2b",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"f9d7deb1-bcb3-4cb1-a23d-1703fff9c26f"
+		],
+		"title": "massa, massabalans, massabehoud",
+		"id": "91866396-a4f2-48c8-90d3-757ad8ceb37e",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"43431ffc-d686-468d-9700-38efa56e47d9"
+		],
+		"title": "massa, massabalans, massabehoud",
+		"id": "dfd9305c-34ed-4771-b995-f502462982f8",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"860bb04d-8b01-41c6-b862-f136d2fa062c"
+		],
+		"title": "massa, massabalans, massabehoud",
+		"id": "0c3e6fb5-4e57-42ce-8eff-871ee3b36ada",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"6efcbefd-5b41-426b-b853-e3a2114bbc8b"
+		],
+		"title": "positieve lading, negatieve lading, neutraal",
+		"id": "4df7407c-cdb1-4a43-980d-5520c1ae14b3",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"fabc34ef-3987-44ef-83a5-3b9daa41cb0c"
+		],
+		"title": "positieve lading, negatieve lading, neutraal",
+		"id": "8fc79594-280c-4003-a184-6eb724f4ee42",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"c69e0ef0-1af5-450e-bb93-499a53bf1a16"
+		],
+		"title": "partiële lading, formele lading",
+		"id": "a2f3fa7b-9697-475d-a4de-150e8a684182",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"3fa3267f-8ac1-43c0-985e-a81fcfda6b95"
+		],
+		"title": "positieve lading, negatieve lading, neutraal",
+		"id": "3e600adc-1bfb-4ff8-b151-98fcfec23750",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"4c68bf7a-42c7-4d7c-8681-f0d7950510fb"
+		],
+		"title": "positieve lading, negatieve lading, neutraal",
+		"id": "8dc6a031-4535-4165-bddf-51fa072de9af",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"1209d2a3-bcbc-4460-8e01-4b32e41f370e"
+		],
+		"title": "positieve lading, negatieve lading, neutraal",
+		"id": "e2582aeb-27da-4e8b-999a-9a0f649ef992",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"5c6fa8f6-acff-4657-b6ba-f6d63996d723"
+		],
+		"title": "partiële lading, formele lading",
+		"id": "b32f73d9-9ed7-4979-81ea-c4b970fb90f0",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"897bcfd2-54a2-4d31-aeee-9c3972beeb31"
+		],
+		"title": "massa, volume, dichtheid, (relatieve) molecuulmassa, atoommassa (g/mol of u, atomaire massaeenheid, chemische hoeveelheid (mol), concentratie, molariteit, gehalte, massa percentage, volume percentrage, massa-pm, massa-ppb, zuurgraad, pH, massaverhouding, molverhouding, stoichiometrische verhouding, rendement",
+		"id": "ae163db4-5f25-48d1-b667-1e04ea3d6882",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"fc8cd41f-4948-4a33-b2b2-59945a2fdb03"
+		],
+		"title": "massa, volume, dichtheid, (relatieve) molecuulmassa, atoommassa (g/mol of u, atomaire massaeenheid, chemische hoeveelheid (mol), concentratie, molariteit, gehalte, massa percentage, volume percentrage, massa-pm, massa-ppb, zuurgraad, pH, massaverhouding, molverhouding, stoichiometrische verhouding, rendement",
+		"id": "bcf437cb-cc69-4d83-9433-c959d6ce01c1",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"e2bd6717-d20f-41a8-bf3f-7c42ed81272f"
+		],
+		"title": "massa, volume, dichtheid, (relatieve) molecuulmassa, atoommassa (g/mol of u, atomaire massaeenheid, chemische hoeveelheid (mol), concentratie, molariteit, gehalte, massa percentage, volume percentrage, massa-pm, massa-ppb, zuurgraad, pH, massaverhouding, molverhouding, stoichiometrische verhouding, rendement",
+		"id": "5909dcdc-500b-4e78-b0d6-c04cc1da01ba",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"09b067af-8844-4287-ac5f-d9c3f5a51170"
+		],
+		"title": "overmaat, ondermaat",
+		"id": "0d39881f-9633-4ce0-af6a-317acd67875c",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"d4017a53-7545-42e1-973e-6b9e639afc02"
+		],
+		"title": "overmaat, ondermaat",
+		"id": "983f45b1-eda0-40d2-b0ed-89e926ba659f",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"292d9d4f-0047-4c78-beb4-5fa29d49a4a7"
+		],
+		"title": "overmaat, ondermaat",
+		"id": "f63dead4-472d-41f6-a2c5-cb240de60ac1",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"680c597a-18d1-450e-b464-14bea6476822"
+		],
+		"title": "ADI-waarde, LD-50",
+		"id": "e5d08dd9-3895-484a-a326-97e69a72d93e",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"9f2a1efb-a496-4708-b164-c7ba1197f804"
+		],
+		"title": "grenswaarde",
+		"id": "a3fe0e39-d2c2-4208-82f0-5d785e95020c",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"f23b8340-a9fa-44c0-9c83-1917f42d2aa0"
+		],
+		"title": "molair volume",
+		"id": "cf335167-24b4-43b2-85cd-0da3a3e8bd18",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"f6574ef6-8c2a-4d59-b05e-af60456e133c"
+		],
+		"title": "reactiesnelheid",
+		"id": "cb5e6596-f82c-4140-96a2-13c740f3300c",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"2ba30a23-e5e1-4906-812b-c66da574f855"
+		],
+		"title": "massa, volume, dichtheid, (relatieve) molecuulmassa, atoommassa (g/mol of u, atomaire massaeenheid, chemische hoeveelheid (mol), concentratie, molariteit, gehalte, massa percentage, volume percentrage, massa-pm, massa-ppb, zuurgraad, pH, massaverhouding, molverhouding, stoichiometrische verhouding, rendement",
+		"id": "a2bb74fe-5e92-4fb3-a9f7-efe495602361",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"0c80dfa6-f956-4bbe-8376-a10d4c8c05d0"
+		],
+		"title": "massa, volume, dichtheid, (relatieve) molecuulmassa, atoommassa (g/mol of u, atomaire massaeenheid, chemische hoeveelheid (mol), concentratie, molariteit, gehalte, massa percentage, volume percentrage, massa-pm, massa-ppb, zuurgraad, pH, massaverhouding, molverhouding, stoichiometrische verhouding, rendement",
+		"id": "ffccbf42-c090-4fb3-865c-59f0d95fa1db",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"4a97675f-9137-40e5-81e6-aa4c0966127f"
+		],
+		"title": "massa, volume, dichtheid, (relatieve) molecuulmassa, atoommassa (g/mol of u, atomaire massaeenheid, chemische hoeveelheid (mol), concentratie, molariteit, gehalte, massa percentage, volume percentrage, massa-pm, massa-ppb, zuurgraad, pH, massaverhouding, molverhouding, stoichiometrische verhouding, rendement",
+		"id": "5ebd00fe-f8a6-4097-aaa2-96a86315f18f",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"59578412-bc10-4a8c-b353-dcb5dfe3f9cb"
+		],
+		"title": "overmaat, ondermaat",
+		"id": "962353e4-e8b8-4088-bab4-78eaec7657ed",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"2d613030-9714-4752-9624-0ed9990f82eb"
+		],
+		"title": "overmaat, ondermaat",
+		"id": "22818270-bded-44da-87f7-3a17763620b0",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"86f44335-6b75-4076-b29f-5bfda5a711ce"
+		],
+		"title": "overmaat, ondermaat",
+		"id": "cbaab652-4422-474c-a9da-ca5fb9d5aa2f",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"c7d601d2-9c6d-4ce5-8f21-c75d2369cfa7"
+		],
+		"title": "grenswaarde",
+		"id": "94129ea4-813d-480f-949f-c32277442fd3",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"97ef0912-cb78-4978-80dc-7a6c6e06ae6b"
+		],
+		"title": "molair volume",
+		"id": "ec7c4189-5c71-4c0d-a1f2-a21a549ba63e",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"42e4529f-dd0f-4a3b-8249-d980632c2956"
+		],
+		"title": "reactiesnelheid",
+		"id": "cdd0e924-0433-49dc-9051-0921ee407ec2",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"641af893-6a84-442e-870e-27c7f5ea718f"
+		],
+		"title": "vormingswarmte",
+		"id": "63557bbb-af6e-4338-b1a9-efea7f3db56b",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"da733484-780f-476f-b4aa-e91a2619b439"
+		],
+		"title": "behoudswet",
+		"id": "ac426f66-e257-453a-a631-51106cc061c9",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"b533f5e1-602c-4355-b51c-759078ac952b"
+		],
+		"title": "vormingswarmte",
+		"id": "f9430962-0740-4491-be97-7c2d5897d795",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"d0172df7-175d-4191-bdba-2371a6cbd151"
+		],
+		"title": "behoudswet",
+		"id": "d4a9336d-db2e-4625-807b-cc809093ffed",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"3f2d3d1e-d6f9-45fc-8970-b93aeb521a6a"
+		],
+		"title": "behoudswet",
+		"id": "c439115a-b991-4008-9bb2-30185951706e",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"c2111e32-0474-4e3a-8fc8-802697991cf7"
+		],
+		"title": "chromatografie",
+		"id": "7fecd832-c1cd-4141-ab69-a04b61434369",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"10307898-35e5-4944-a3f8-b7b262e874c4"
+		],
+		"title": "ijklijn, reagens, titratie, loopvloeistof, oplosmiddel, indicator",
+		"id": "5cc333b6-e201-47de-ab72-a277c6e8feb2",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"51329342-d4e3-4bcb-a1e1-79d01cc386f7"
+		],
+		"title": "chromatografie",
+		"id": "b2856284-6252-4dbc-b766-0361aae2f5f3",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"e75d9241-33b8-493a-a61d-e0eb012407ee"
+		],
+		"title": "massaspectrometrie, massaspectra",
+		"id": "9228c476-c078-4616-aef4-1b5edac6a4a9",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"7a6356b6-2987-4ac7-8323-4dd5d2ebedaa"
+		],
+		"title": "piekhoogte, piekoppervlakte",
+		"id": "13c596f0-83dd-4eb3-932b-264ae5f18f57",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"26db1b79-18a9-45de-bbeb-cdd2641a3180"
+		],
+		"title": "wet van Lambert-Beer, piekhoogte, piekoppervlakte",
+		"id": "4c09a982-56af-45a7-9e24-df4fdc1cc79c",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"71e3f4ea-338e-469f-9c46-51fd3b0bb135"
+		],
+		"title": "retentietijd",
+		"id": "d8231b7c-3923-49f9-bd40-529060ebcdfa",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"9819f275-92e1-49ab-9bc9-e8e01575eb6c"
+		],
+		"title": "retentietijd",
+		"id": "d1560cce-88d5-4152-8edd-68eec22ed052",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"c7ed0c1f-f4d7-4b23-9e07-6a5639021b2d"
+		],
+		"title": "ijklijn, reagens, titratie, loopvloeistof, oplosmiddel, indicator",
+		"id": "d3b3d58e-39e3-462d-99d7-0592af9574c3",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"5f9ced7e-c8a4-4669-883f-36da03b91553"
+		],
+		"title": "donor, acceptor, halfreactie, beginstof, reactant, reactieproduct, reactievergelijking",
+		"id": "128fc8e3-5584-428f-9bd0-4423a7ac35c1",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"adc4db1c-1020-494f-af57-43ebbd7afaa3"
+		],
+		"title": "synthese",
+		"id": "2472c7f2-8ed8-4f6a-b41f-18a9f66ed905",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"6d8ee533-6b85-442f-af8d-2542f03446d9"
+		],
+		"title": "aantoningsreacties",
+		"id": "b9fd6530-9811-4a6a-aca3-2c588f0cb521",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"8393bc91-e972-4740-9008-c86ca51e38e2"
+		],
+		"title": "omzetting",
+		"id": "dc853e63-1899-4503-8631-aed00b04833e",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"6453ca6e-454a-4fe1-acf8-22c2eaf7fbbc"
+		],
+		"title": "zuur-base reactie, hydratatie",
+		"id": "da282e93-0005-455e-bb5e-1618afd2f938",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"0e77f2d1-11ca-441d-b923-cfc16a46118c"
+		],
+		"title": "redoxreactie, halfreactie, oxidator, reductor, verbranding, onvolledige verbranding",
+		"id": "5da3c00a-630b-4ce6-8352-acb1970fbcf9",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"f31e69c4-f05c-4569-98f9-780fa432820c"
+		],
+		"title": "evenwichtsligging, insteltijd, omkeerbare reactie,",
+		"id": "30b3720e-3d7e-431a-b5e4-ffa548f44e89",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"1a8615e7-0fd0-4f77-99b6-8380d1763200"
+		],
+		"title": "katalyse, katalysator, biokatalysator, enzymwerking",
+		"id": "706a41ef-8dd6-4b7b-9935-a4c5da2c8f03",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"df6cb571-610e-4cec-b33b-0e0a877602ec"
+		],
+		"title": "katalyse, katalysator, biokatalysator, enzymwerking",
+		"id": "ebd60a48-1696-49dd-9839-1609ac4b7021",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"b4d1fc8a-ebb5-4b71-9034-cd43425f77ea"
+		],
+		"title": "katalyse, katalysator, biokatalysator, enzymwerking",
+		"id": "d63c5780-d27c-4427-ac70-17db4901e47e",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"9f8cadce-94b9-47c5-b1e9-faa8d9ea55b8"
+		],
+		"title": "verdelingsgraad, concentratie",
+		"id": "1a220054-3f6e-4b4c-8808-ce06b4d7db9a",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"05397b14-0795-4fcb-9815-3538f9330cf2"
+		],
+		"title": "activeringsenergie, temperatuur",
+		"id": "b59d7192-bf49-4619-a420-1583e8bd5f8a",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"fee70cb3-81af-4ecc-ba5a-ea1935411a0c"
+		],
+		"title": "reactiesnelheid, botsende deeltjes model",
+		"id": "028092dd-6d6d-4b4c-8251-9f6d7eba946f",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"a57a1e21-39c6-44ba-b956-19e49baec0e7"
+		],
+		"title": "reactiesnelheid,  mol L-1s-1, reactie",
+		"id": "aae43113-4dde-4fb4-84b9-94f44828bbea",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"d5ba28d7-d7a3-4d34-8829-31c730136c9c"
+		],
+		"title": "donor, acceptor, halfreactie, beginstof, reactant, reactieproduct, reactievergelijking",
+		"id": "c089f9f4-cca8-4485-90d6-91b3089dd580",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"00adbfef-cfb5-407a-8ef8-6d0972147fb9"
+		],
+		"title": "synthese",
+		"id": "4a176e5b-9852-42dc-b069-3d1d75f246f4",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"2f8214fa-2c96-44f6-8082-9cd44ab078f6"
+		],
+		"title": "synthese",
+		"id": "1dd8d35e-ebb3-4c39-9340-b156c93ffa07",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"a889ad1e-dac4-43c2-be54-5bc8a3c7db96"
+		],
+		"title": "aantoningsreacties",
+		"id": "049c3234-1354-4860-810c-e226b9db28ce",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"9683936f-21b5-4625-931a-317fd8d7b9c8"
+		],
+		"title": "selectiviteit, specifiteit",
+		"id": "0ad3fa30-5356-4bba-a580-dd0dd974e3e6",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"9f283ed2-7abc-4b05-bb18-a9df85c1e19e"
+		],
+		"title": "omzetting",
+		"id": "06a302e0-d2e5-4e94-ad71-d5351eab74cc",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"914dcc05-b0b2-449a-a04c-c1c8d6133b87"
+		],
+		"title": "zuur-base reactie, hydratatie",
+		"id": "cfc7fb8d-4123-41cf-85d7-6edae968f6a9",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"fbaf6590-3ff3-45fe-8566-aa68aa145209"
+		],
+		"title": "redoxreactie, halfreactie, oxidator, reductor, verbranding, onvolledige verbranding",
+		"id": "2a3b5d2b-6229-4565-bb3a-83ce37701d5a",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"a8cefc65-452b-4da8-bf39-840ddf1912c9"
+		],
+		"title": "zwakke zuren, sterke zuren",
+		"id": "4f95071f-7342-4418-a81b-7ca31de41fd1",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"5eef5cdd-38c6-4d05-bc6f-d777188bc757"
+		],
+		"title": "zwakke zuren, sterke zuren",
+		"id": "6dcde9f2-3406-4a9d-9dd2-b1e0f932eb68",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"43f1fe84-422c-4297-9a48-37bf235ed705"
+		],
+		"title": "eenwaardig zuur, eenwaardige base",
+		"id": "3f93f423-ddf9-49ef-b921-c5eb24fb85ea",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"e7173e13-0d7b-4122-9a4d-9be53e987838"
+		],
+		"title": "buffer",
+		"id": "cb0f58c2-9113-4aaf-8a47-01ca2719e5f3",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"441dbc21-76cd-4a8a-8923-b9bca57d3dee"
+		],
+		"title": "elektrodepotentiaal oxidatorsterkte, reductorsterkte, redoxkoppel",
+		"id": "a1411c5a-69a1-44c6-a165-d69d2f4e3a2a",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"ccd8dcc5-68c6-43ec-b66d-11a0a55e447f"
+		],
+		"title": "elektrodepotentiaal oxidatorsterkte, reductorsterkte, redoxkoppel",
+		"id": "e8b41292-e94b-4553-9811-0af3606a4914",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"76504307-3b2a-4119-b408-37c71f5aface"
+		],
+		"title": "elektrodepotentiaal oxidatorsterkte, reductorsterkte, redoxkoppel",
+		"id": "29a9033f-75f4-426b-b223-10d525d399a2",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"5ef5cb85-ead6-4ba9-ba98-59b6baaf4397"
+		],
+		"title": "opladen batterijen, productie waterstof",
+		"id": "d61f4b45-5c14-45fb-9eae-19c3d7f3c3f7",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"8b18c556-1735-4b5e-83b5-adc32b0d15f0"
+		],
+		"title": "kringloop, stofkringloop, elementkringloop, recycling",
+		"id": "4e1edf34-7052-4cdd-a1e1-cf1125bb80fe",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"96bfa007-1753-4171-b020-97bde408f7b9"
+		],
+		"title": "vulkaniseren",
+		"id": "5aae2db5-0851-47b0-920c-602d00b6cdff",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"c0b2c656-0fb8-4932-a1b9-06b9c5d3818f"
+		],
+		"title": "fermentatie, vergisting",
+		"id": "ccd1669b-482e-4421-a3fa-dadcef8ba0d1",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"7c1a6426-2117-4173-b96b-6e0b6b76601c"
+		],
+		"title": "olieraffinage",
+		"id": "9313ac64-54fd-4d88-9d62-456c49e3708b",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"9c85bc13-cb90-4abe-b8c6-7b7c481eea28"
+		],
+		"title": "eutrofiëring, uitspoelen, zure depositie, smogvorming",
+		"id": "5f809841-58aa-4820-8977-48ed9e95afc2",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"16af37cd-d888-4449-bb38-9804f166e645"
+		],
+		"title": "ketenanalyse",
+		"id": "d821b9c5-782a-4643-8123-6609aa8d0808",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"091214c3-0b01-4b13-be55-41531695fdc6"
+		],
+		"title": "kolencentrale, aardgascentrale, kolenvergasser",
+		"id": "e27be49f-d86f-49f8-bbe0-1c472dbc9163",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"2097fc31-c18d-44f5-bde7-383114c7ae58"
+		],
+		"title": "gegeven reactie, reactie met analoge verbindingen",
+		"id": "1dde01ac-e08e-4d4f-903e-efb4e33ce9d4",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"109c0907-bf0c-4e12-a659-ad21b458d975"
+		],
+		"title": "kringloop, stofkringloop, elementkringloop, recycling",
+		"id": "f82cb68f-c55f-46b5-801c-79a9a0983816",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"131cef43-225a-47f7-8546-fdbc92a21ab5"
+		],
+		"title": "fermentatie, vergisting",
+		"id": "14e630e6-75e7-40d0-835f-a60278fb587d",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"acdce9fd-ebe2-4bf2-9365-d74cc94466e1"
+		],
+		"title": "kolencentrale, aardgascentrale, kolenvergasser",
+		"id": "08713e46-6d00-4b31-8819-ca84c5cdff16",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"76268ce0-c42e-445a-9044-9d0f9f978a15"
+		],
+		"title": "gegeven reactie, reactie met analoge verbindingen",
+		"id": "d3faf9f4-74fe-4ce7-9a29-fb6500f7cb41",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"6ec5a66f-2bee-4e69-becc-6031ce71ff11"
+		],
+		"title": "scheidingsmethoden, adsorberen, bezinken, indampen, filtreren, centrifugeren, destilleren (incl. gefractioneerde destillatie), extraheren, wassen.",
+		"id": "2c585ba7-010f-4e83-b73c-1cc4322291c5",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"0b291140-9aee-4945-9016-7a6e278b3dfa"
+		],
+		"title": "behoudswet",
+		"id": "71d2f54a-184c-4c35-878c-0c14ae46f5da",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"0b291140-9aee-4945-9016-7a6e278b3dfa"
+		],
+		"title": "Type bindingen: verdampen, condenseren, smelten, stollen",
+		"id": "5ba97594-fc27-423e-b799-425730f6381a",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"66ee7821-6e64-453c-8d6b-a869457b42da"
+		],
+		"title": "destillaat, extractiemiddel, residu, filtraat",
+		"id": "a999617e-8602-4771-a4e4-47b72d853884",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"d524a9b8-3367-4f2f-a293-a7ca66fcd626"
+		],
+		"title": "verzadigde oplossing, onverzadigde oplossing",
+		"id": "22655034-37f1-460d-a98b-a3294cc416b0",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"a7ee2a49-23bf-4a8b-a5d3-561584a2f815"
+		],
+		"title": "stoomopwekking",
+		"id": "d825fffb-41d5-4649-8003-c8ba4f9461d1",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"3d46ec6c-586e-4893-9181-8f439bcbb4db"
+		],
+		"title": "warmtetransport, stoftransport",
+		"id": "76382124-eaa8-4184-983a-f69b0b817c59",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"eee2f56f-1aa1-4f4a-bb77-00928a1a31de"
+		],
+		"title": "destillaat, extractiemiddel, residu, filtraat",
+		"id": "d4801bd0-7145-4eca-9032-c865d61625e0",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"7a991908-b63c-42f7-95c6-79336bf68ed5"
+		],
+		"title": "aggregatietoestanden",
+		"id": "a73fc793-fdcb-4298-9a02-a90025175369",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"f562d5b5-785d-4816-9699-0cd4eb70d7f6"
+		],
+		"title": "scheidingsmethoden, adsorberen, bezinken, indampen, filtreren, centrifugeren, destilleren (incl. gefractioneerde destillatie), extraheren, wassen.",
+		"id": "b3d1d445-b849-4cd4-b9e6-e6ba70e67cc4",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"9481c987-4528-4f0b-ad65-81d717caeba0"
+		],
+		"title": "Type bindingen, verdampen,  condenseren,  smelten,  stollen",
+		"id": "6eec237a-ab80-4f77-934e-f1b5db49954c",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"edccc294-0058-4d03-ac75-4bf628b0f3f3"
+		],
+		"title": "Scheidingsprocessen, destillatie, adsorptie",
+		"id": "4160dca7-07bf-4260-9b2b-0dd6599d3902",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"d06cf333-eb7c-4d13-b675-0c58302cf1be"
+		],
+		"title": "destillaat, extractiemiddel, residu, filtraat",
+		"id": "b00e8d46-e1c9-454c-ac6c-865d4a41bfe3",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"02624b2e-7877-4718-959f-01f4b167451d"
+		],
+		"title": "gefractioneerde destillatie",
+		"id": "ffa3235c-b16d-40c0-9b48-526479cd260c",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"dba992b6-5974-4361-bae1-d581f36adaf5"
+		],
+		"title": "verzadigde oplossing, onverzadigde oplossing",
+		"id": "2adc9ad7-6c82-4fed-b7b9-b80eb44427f7",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"d1f66b8e-0aa8-4222-ad0f-6c5c9b8c492d"
+		],
+		"title": "stoomopwekking",
+		"id": "6533ce05-65aa-431a-8de5-872b79522e83",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"8d10d0da-6227-4a7e-8c16-b06d5ca64482"
+		],
+		"title": "warmtetransport, stoftransport",
+		"id": "19c9cddc-8690-4b89-91a0-fd3f651461f5",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"6f464db2-c833-4a9f-af07-86780e1dd104"
+		],
+		"title": "destillaat, extractiemiddel, residu, filtraat",
+		"id": "df9ff0e2-7dae-4a2c-9808-90fb0aeeeb8e",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"ac4efcf4-265d-4e69-8ddd-89cdb175d7f9"
+		],
+		"title": "aggregatietoestanden",
+		"id": "a1c47121-d50d-4d61-83d1-edb156920b28",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"f0eee174-cf11-4f65-8971-0f79e65e843c"
+		],
+		"title": "spuitgieten, extruderen, blazen, persen, gieten, walsen, mal, vulstoffen",
+		"id": "f00e44c3-59c8-4fbd-8cf9-3f75f013faf6",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"e88f8467-7fba-4596-9b4d-093bcc4aa8e4"
+		],
+		"title": "spuitgieten, extruderen, blazen, persen, gieten, walsen, mal, vulstoffen",
+		"id": "7a61e6f1-b618-42d8-8a43-089c93bc0431",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"660c7679-e260-4c3e-b61d-79fb7fad592c"
+		],
+		"title": "weekmakers",
+		"id": "e5be7f6f-c8b2-4db0-848b-582d3258205b",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"7d017859-51c9-46ef-b5b8-30552ccbe15d"
+		],
+		"title": "weekmakers",
+		"id": "5589b4dc-8f07-429f-8438-ef590781eb00",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"71a2f143-1ec6-494e-9002-79d4c9343513"
+		],
+		"title": "stofstromen, recirculatie, scheidingsinstallaties, warmtewisselaar, continuproces, batch proces, bulkchemie, fijnchemie",
+		"id": "8b6dc22d-6c3f-49fb-9065-d915eb4d5fd2",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"e1a5c969-4f8b-4ed0-ba2e-4b524033cc18"
+		],
+		"title": "nevenreacties, bijproducten",
+		"id": "ec82ff09-fa47-4517-b0e8-8b86e4e3146e",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"36f4134b-0ab1-4c12-8295-86d3dc3dc836"
+		],
+		"title": "emissies",
+		"id": "5ba6e351-6241-41e6-8fc2-3761be5ad5cd",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"c93783f0-9029-43e7-9f6f-e25003e26c31"
+		],
+		"title": "blokschema",
+		"id": "6b63058d-d4ee-4dfb-a05d-77b65222cc61",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"9c29386d-4cea-473c-b5e7-3ffb0154ae87"
+		],
+		"title": "E-factor, atoomeconomie",
+		"id": "80d8be20-0ebc-4b09-9787-48a8c18c52e8",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"2a1f0ea8-38b1-4023-80ec-8f2314bfee9f"
+		],
+		"title": "schaal",
+		"id": "84ccfdea-18a9-4a8e-93b3-e4636916c45f",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"ffcf907c-9694-4c55-aa33-b5d580ec0de4"
+		],
+		"title": "reactor",
+		"id": "65c8f515-6bdb-4755-b8d0-c7f630c2e2d3",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"ba759e02-d244-4cde-89b5-613de58efe8c"
+		],
+		"title": "schaalvergroting, warmtehuishouding, nanoprocessen",
+		"id": "83c9221b-eb83-4471-993c-e9182ec2c2c3",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"f1760eb3-e573-4a98-a611-277d0503aef7"
+		],
+		"title": "lab-on-a-chip",
+		"id": "ce6fdc10-8ffe-47e7-a12f-b2acd7ceb00d",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"7ceb8d69-4172-44f1-b55a-f4cddecf58fc"
+		],
+		"title": "risico, veiligheid",
+		"id": "208cc14d-188c-4669-b8d7-972d1b09e8c0",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"7b9909ac-4d3d-459f-85cd-39345a378782"
+		],
+		"title": "gefractioneerde destillatie",
+		"id": "dd22fa86-322b-4c4b-9abb-de7439ad2ebe",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"4f4f0acd-cc05-40b5-99cd-64822fce85e4"
+		],
+		"title": "weekmakers",
+		"id": "27a84afd-3a8d-4bec-ac4a-81f4fc84f96a",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"cf5150f2-180d-49e8-9118-f2dd5963b7a0"
+		],
+		"title": "weekmakers",
+		"id": "ec70eb47-b94d-4e94-9acc-afd5c36a3220",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"ef4425dc-9457-4bd6-8f66-4e85c97f64b7"
+		],
+		"title": "stofstromen, recirculatie, scheidingsinstallaties, warmtewisselaar, continuproces, batch proces, bulkchemie, fijnchemie",
+		"id": "2569762d-c399-4182-8dbe-3ae9a653e942",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"131f56d6-2d67-43fb-8d98-739c33c16d47"
+		],
+		"title": "nevenreacties, bijproducten",
+		"id": "23462b9e-998f-4025-9a04-3aa2abcd7569",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"921122b5-c928-4df3-a3c0-04f7d29497b1"
+		],
+		"title": "emissies",
+		"id": "cf250df0-5b5c-4c96-982e-b090dc18cdcc",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"6affc429-108e-42bf-bf14-3f62138fb0d9"
+		],
+		"title": "blokschema",
+		"id": "ca57ec30-131a-4626-9fba-93bc876bc382",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"6744eff4-6f4f-4ba3-8490-2982aed5fd24"
+		],
+		"title": "E-factor, atoomeconomie",
+		"id": "9866ccbd-048d-400d-bb12-74029a10da75",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"a5a2fba1-854a-4265-a4c2-1620950818f9"
+		],
+		"title": "schaal",
+		"id": "058722ba-9bca-42cd-9160-4b92735ec470",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"238d38e7-c34f-4a25-9452-aee184afebd6"
+		],
+		"title": "reactor",
+		"id": "2d41d5aa-4d29-4bb9-8be6-69a1ecb4bf0a",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"5e0cb989-1d0b-42f7-a368-3b5ef3d561e0"
+		],
+		"title": "schaalvergroting, warmtehuishouding, nanoprocessen",
+		"id": "a1cce9c9-92e7-45e1-addc-8f47d7909d31",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"56972d14-e595-4a32-90a0-dfcf9b49408e"
+		],
+		"title": "lab-on-a-chip",
+		"id": "3b9a21af-88d1-4bc2-9cf9-f8f8d9863d85",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"55879836-acbb-4ab8-a2cd-ef64e943e564"
+		],
+		"title": "lab-on-a-chip",
+		"id": "e84d2b0c-449f-4ab8-af88-9ca78b72be90",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"a0748776-93a0-4749-af1a-9f0295bfca71"
+		],
+		"title": "risico, veiligheid",
+		"id": "70d35f6f-4205-4d22-8cf1-e7ebde75ac27",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"d3b9ff38-e759-4258-97e0-d611f33bb0be"
+		],
+		"title": "omestering, kraken, reformen",
+		"id": "0eb5cef2-446a-4886-8e3b-07fb19e3b248",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"fd5879a1-7335-4ae5-ae68-bfc430903aaa"
+		],
+		"title": "substitutiereactie, condensatiereactie,",
+		"id": "8d7f83b1-0dc6-4afb-af30-7b129d5a9b2e",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"3e1dd85f-892e-409f-bf38-6ce1e70122bd"
+		],
+		"title": "additiereactie, condensatiereactie, hydrolysereactie, polymerisatiereactie",
+		"id": "df724130-c61c-43e9-b90e-f967fb24c55d",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"309b415e-a382-48d5-bf71-215fcbd727fa"
+		],
+		"title": "hydrolysereactie",
+		"id": "0bc2580c-8b98-47aa-b9eb-a2b8e4878cd7",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"31ecdd07-c51c-4227-b172-3ab62fc5d42e"
+		],
+		"title": "polymerisatiereactie, poly-additie, polycondensatie",
+		"id": "e29974c2-2005-4d60-a1a1-006c92a0af79",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"51024780-1764-4eba-8e31-0ba36d24f19b"
+		],
+		"title": "Initiatiestap",
+		"id": "0bfba9f4-e10f-4f81-ae4b-0f148a668281",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"15ac7724-dbe0-45d1-8621-eebd2e15d1fc"
+		],
+		"title": "crosslinks",
+		"id": "6ee5e920-5ebb-4e3c-8d62-33d1e811e407",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"83f5e29a-6014-4542-9615-6b6a3db8c557"
+		],
+		"title": "crosslinks",
+		"id": "199a3da0-924b-470b-8709-4a89d8b91ca6",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"f817e9b0-2147-4d7a-a211-43cf4a22cee7"
+		],
+		"title": "substitutiereactie, condensatiereactie,  1,2- additiereactie,1,4-additiereactie",
+		"id": "84f7e3a7-8f00-419b-92bf-78b6e6c50263",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"2d11c6c9-0616-412e-9e29-6b4f95b0af1a"
+		],
+		"title": "omestering, kraken",
+		"id": "f387d632-87b2-4e46-885b-c30aab47d089",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"873a8e38-a2d3-4548-9f09-fec1d3191447"
+		],
+		"title": "hydrolysereactie",
+		"id": "cbed649e-ace1-4eb1-9986-5e2ff5669091",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"211649b4-eff4-4459-a5aa-52b3ef200dd4"
+		],
+		"title": "polymerisatiereactie, poly-additie, polycondensatie",
+		"id": "08e5584a-d42d-454e-9cc3-c487d0ce4f61",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"ec1a44d6-8b92-4d7a-9250-f51bf02f976b"
+		],
+		"title": "nucleofiel, elektrofiel, radicaal",
+		"id": "57a9084b-0f24-4edd-a976-77ebcb198511",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"8de8285b-e44b-4aea-bf2b-375a3a08f65e"
+		],
+		"title": "Initiatiestap, propagatie, terminiatie, ketenlengte, polymerisatiegraad",
+		"id": "9518ffa4-7e2f-4113-9aa6-63b7a2ea6561",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"afba1150-2616-47d7-bfc7-829e259143f2"
+		],
+		"title": "crosslinks",
+		"id": "4231f44a-7166-49da-be15-376f881444de",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"8fcaf0b5-c96f-4114-9eb5-b3b6ab48d390"
+		],
+		"title": "gevarensymbolen, GHS-systeem",
+		"id": "cebdec6e-f268-4815-8afc-06bd84513c44",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"cea2e0a8-010e-4aa2-9f21-cf9e0f0febfc"
+		],
+		"title": "veiligheidszinnen, pictogrammen, open systeem, gesloten systeem, energiestroom",
+		"id": "cd541211-e73b-4350-b7a1-86b6f1b80d65",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"24cadbec-81b4-4877-9c29-41a75b6baa6f"
+		],
+		"title": "milieueffectrapportage",
+		"id": "842501ac-e8ec-491b-9f3d-28b0a2e9af3e",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"595449bb-c7c8-4e28-a10d-ea307888bae1"
+		],
+		"title": "H- en P-zinnen",
+		"id": "f5e5863e-795b-4dfb-9cb8-53b6543b0d7e",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"fa688660-90bc-41bc-808d-25d70e7f79e1"
+		],
+		"title": "toxiciteit",
+		"id": "1b4bce91-4241-4b55-a5ec-4b55fd7872a2",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"19b1cb46-d8f7-46f0-a48c-9b3dabd311b6"
+		],
+		"title": "gevarensymbolen, GHS-systeem",
+		"id": "95825e04-1c5f-465f-81cc-f711b1daaf40",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"3221538b-b78a-482a-b7a8-6436a5ce7b67"
+		],
+		"title": "veiligheidszinnen, pictogrammen, open systeem, gesloten systeem, energiestroom",
+		"id": "4c193bc1-5680-4cf8-b537-cc7dc9989c4f",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"9a0e07d7-f0cf-4942-929b-cc9d1e867264"
+		],
+		"title": "milieueffectrapportage",
+		"id": "4e6731fe-4206-4b58-aebc-ad030eaf0d84",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"0f65dcd0-4ecb-4ebd-8e8d-a775ecf29f1b"
+		],
+		"title": "H- en P-zinnen",
+		"id": "d029bb95-a03f-4a07-96f2-a9d811cda67f",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"f96d6e8a-9987-4b05-92e9-258426253cbc"
+		],
+		"title": "toxiciteit",
+		"id": "75ac9541-bd17-487a-b8d6-48f4029d629a",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"659abb01-fb32-43b0-9442-17fb802095c8"
+		],
+		"title": "evenwichtsligging, insteltijd, omkeerbare reactie,",
+		"id": "bbbd3e62-ef0d-4732-844d-e9ef192feaa5",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"d9c78f77-5502-43eb-b4b1-5761ce560a9f"
+		],
+		"title": "aflopende reactie, concentratiebreuk, evenwichtsvoorwaarde: Kz, Kb, Kw",
+		"id": "b017eddc-13f9-4656-a2cf-3bb2328b3fd2",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"54569582-a77b-4d7a-8cd2-f7e16c91005c"
+		],
+		"title": "katalyse, katalysator, biokatalysator, enzymwerking",
+		"id": "458978be-46c1-4508-97aa-b4a6fd635d3f",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"6ac94c02-beb4-49eb-9d8f-48608f2b3917"
+		],
+		"title": "katalyse, katalysator, biokatalysator, enzymwerking",
+		"id": "ca768a92-c382-4dc9-be4b-1ba22297e139",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"882e8a7a-00c4-439b-af6e-27d10a3e9134"
+		],
+		"title": "katalyse, katalysator, biokatalysator, enzymwerking",
+		"id": "b696621d-1c91-40ef-8b79-769633c83530",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"c327fb9b-9b5b-4087-81ed-ef0b419a83bf"
+		],
+		"title": "katalyse, katalysator, biokatalysator, enzymwerking",
+		"id": "83028f1a-e8c8-4c56-9f87-ccfeeed8142e",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"7cebb970-8528-4e93-a9bc-99cc97b0caf8"
+		],
+		"title": "verdelingsgraad, concentratie",
+		"id": "dda7d3f5-a585-4779-8f67-187700186de1",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"94b7a706-2cbd-41a0-b0ba-0784e0f6bf3a"
+		],
+		"title": "activeringsenergie, temperatuur",
+		"id": "07ad6c9f-829b-4750-b298-7c31bde875a2",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"42bbd33c-9697-4e91-98aa-d6b5ceae53fe"
+		],
+		"title": "activeringsenergie, temperatuur",
+		"id": "e5900404-d8aa-4ccf-83f3-e33aaeead406",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"bc507754-e476-4590-8c21-fcde71e164e1"
+		],
+		"title": "activeringsenergie, temperatuur",
+		"id": "352911e9-80ce-4256-8375-d7c6da75efb0",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"37ce8efc-04fb-4054-bb7a-593fe1c8926c"
+		],
+		"title": "reactiesnelheid, botsende deeltjes model",
+		"id": "dbba84eb-3ac6-4326-8d29-db7f4d74ea3c",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"712b41f7-2b0f-4318-a34c-b9db687336f4"
+		],
+		"title": "snelheidsbepalende stap, reactiesnelheid, reactiesnelheidsvergelijking",
+		"id": "28e69f26-5bbc-4e3b-b076-dd0a6c981c7c",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"453e7f86-7ae2-43cd-a823-978378d30f70"
+		],
+		"title": "reactiesnelheid,  mol L-1s-1, reactie",
+		"id": "dc307a51-fc50-4f15-86f7-fe54792e04c3",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"c2d10bb0-40ac-4b0e-827d-1d7e8ae17792"
+		],
+		"title": "energie-effect",
+		"id": "f24bb21b-51c0-4a5a-8a40-10357ef9be95",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"dc50a990-eb44-4856-9b81-fa75de0ebc9a"
+		],
+		"title": "energie-effect",
+		"id": "8c8ae98b-45d3-496f-99b4-2c1a5ff7e94d",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"c6c73471-7efe-42c6-9f14-bcfa2e320ff7"
+		],
+		"title": "vormingswarmte, energie-uitwisseling, reactiewarmte",
+		"id": "fcb5b88c-dbf1-42eb-bf77-1e7bb5982b7b",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"c83519cf-0fb9-42af-a7cb-0ddd66f3d267"
+		],
+		"title": "rendement",
+		"id": "c2a5b025-6278-4cdd-b47c-3b9668cd1a08",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"425232d6-260a-411c-b979-61e6ca80b2d6"
+		],
+		"title": "rendement",
+		"id": "89edccec-3500-471e-a447-b36d033f9e71",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"6a51e884-fc65-4e4f-b892-973559c677db"
+		],
+		"title": "fotosynthese, vastleggen koolstofdioxide en productie zuurstof",
+		"id": "9bd20f5d-2b71-4c34-a3a6-9925bff74f64",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"c37a8a11-f47f-4869-8a58-dfb868b2ae52"
+		],
+		"title": "elektrische energie, elektrochemische cel, brandstofcel, batterij, elektrolyt, elektroden, positieve pool, negatieve pool",
+		"id": "72f8b633-117d-4f23-8994-4c2bf5edd852",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"ca20e7f0-96dd-4dd2-afc1-fa837b4e00eb"
+		],
+		"title": "elektrische energie, elektrochemische cel, brandstofcel, batterij, elektrolyt, elektroden, positieve pool, negatieve pool",
+		"id": "f04b2a9a-2bc4-4f28-977a-72a9c76275ac",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"dab70f5d-7a56-40b6-89b3-2f6c7c0a6571"
+		],
+		"title": "dynamo",
+		"id": "69c1a324-8deb-451b-89fa-11805470839c",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"f931dc83-e252-4ad2-a73c-4850182cadeb"
+		],
+		"title": "energiediagram, overgangs/geactiveerde toestand, katalysator",
+		"id": "fe548123-9492-4d82-8f58-78e089ab5791",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"fe9e8c4e-164f-4e76-858e-faa91c3b17b5"
+		],
+		"title": "katalysator",
+		"id": "6a38db1a-af1e-4ad1-95fd-8eea3f625780",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"d25dd5d0-69f6-42af-b4ad-82c968e8a054"
+		],
+		"title": "katalysator",
+		"id": "863cd858-cda9-4e60-8968-1a448c739efd",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"023c6d4a-3541-4c21-a3db-9cd8d4e9739e"
+		],
+		"title": "katalysator",
+		"id": "400b56e4-c1e3-41b2-9a97-9aa80b77edd2",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"1768bd3a-559d-4a90-8a62-b06bcabfb585"
+		],
+		"title": "stoffen niet aangemaakt door het lichaam:  - essentiële aminozuren; - essentiële vetzuren; voeding",
+		"id": "249a7054-7f69-4980-a1ac-10fea36e97b9",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"d8849b1e-3820-4d81-aeed-71f488c47f72"
+		],
+		"title": "spanning, stroomsterkte, straling, licht, kracht, druk, radioactiviteit",
+		"id": "24c80655-3281-46bb-a140-5f58624ad114",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"9b820a09-65fe-4a52-a42c-515b874ed6ca"
+		],
+		"title": "energie-effect",
+		"id": "eda1d6cc-2d93-4c7c-8e29-48a6cfe7c042",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"ba420433-b9f1-4b6c-97dc-4dd36e1c9dc3"
+		],
+		"title": "energie-effect",
+		"id": "3f6b6280-10c5-4f52-9380-a571d919b1a7",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"c0b40cbc-e588-423e-b27d-a5228db6b967"
+		],
+		"title": "energie-effect",
+		"id": "9381508e-7c5f-43c5-afdc-e2fd310a767f",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"290ce207-f092-4d67-b53a-308f3708d8ac"
+		],
+		"title": "vormingswarmte, energie-uitwisseling, reactiewarmte",
+		"id": "c718ce42-64e1-4d1d-8c99-163e1e8d49f4",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"31432279-c8d7-48aa-b60d-7716504e0246"
+		],
+		"title": "rendement",
+		"id": "0192b80f-2fde-43e2-8c51-b3cf7abe5e36",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"88f63c44-61a1-4e64-a471-3c6561bddc93"
+		],
+		"title": "rendement",
+		"id": "408b0c06-9212-4fab-b3fb-bfc3c8398552",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"4a11c1e3-7bdd-4ae0-b3c4-ab96508e350d"
+		],
+		"title": "fotosynthese, vastleggen koolstofdioxide en productie zuurstof",
+		"id": "6ef0d192-50f7-4847-aa38-c2eed4da791d",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"9ff9b33c-6a03-4188-b7f5-c29ee9b7db47"
+		],
+		"title": "elektrische energie, elektrochemische cel, brandstofcel, batterij, elektrolyt, elektroden, positieve pool, negatieve pool, membraan",
+		"id": "922e58cd-9b62-42e4-a948-77e11c58d730",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"40b088b0-a492-414f-9eed-0b79293c15df"
+		],
+		"title": "elektrische energie, elektrochemische cel, brandstofcel, batterij, elektrolyt, elektroden, positieve pool, negatieve pool, membraan",
+		"id": "798d06a8-1b21-4296-8c7d-f033ec902f68",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"d59f83d5-d7ee-43d8-beb5-4eabc261c350"
+		],
+		"title": "elektrochemische cel, brandstofcel, batterij",
+		"id": "7248e837-ab39-4f21-a027-f732fff8dde2",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"801b4206-dde6-45d4-a2d3-880f682f32ac"
+		],
+		"title": "dynamo",
+		"id": "2ce74a45-3235-4906-980f-413d3ac4dece",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"0677cfec-8039-4e63-9e4a-59fb0cec47d7"
+		],
+		"title": "energiediagram, overgangs/geactiveerde toestand, katalysator",
+		"id": "7164f377-b79e-41fe-8e06-953dee51e05c",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"f4e2214c-c577-417d-abe8-30ecea015453"
+		],
+		"title": "katalysator",
+		"id": "a6a1d5e8-1dc1-48a3-b7a4-4a6ebd070356",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"1ac1a4ad-4981-4969-ab04-6decd5b54fa8"
+		],
+		"title": "katalysator",
+		"id": "066d0bca-6a66-4c98-adbf-e74ae079807d",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"30ea29f9-42c1-4083-8d82-fe7367a7718e"
+		],
+		"title": "katalysator",
+		"id": "f7f0f9d4-8c5a-4c17-88af-5ac5217105e5",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"78d347d2-e68b-4418-accc-bc79e7d68f6b"
+		],
+		"title": "stoffen niet aangemaakt door het lichaam:  - essentiële aminozuren; - essentiële vetzuren; voeding",
+		"id": "b0061091-3ca3-46d4-ac28-559b09def724",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"fcc761ba-cd58-4e54-a445-f2934c700ec4"
+		],
+		"title": "gibbs energie",
+		"id": "1b7b2a5e-b543-4cdc-b4de-c62d5f9c4fab",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"fc514421-f586-44f8-893a-24cd385d1261"
+		],
+		"title": "warmtekrachtkoppeling",
+		"id": "44987bf1-dde4-4cc2-a8da-982e6d3a5e1b",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"cc779d8b-836e-4c86-a2d4-1a265496fdde"
+		],
+		"title": "spanning, stroomsterkte, straling, licht, kracht, druk, radioactiviteit",
+		"id": "855d8934-7a23-45ed-bdd6-0bfe3396734d",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"52177648-d35e-439b-9803-699f10699f97"
+		],
+		"title": "massabehoud, massabalans, elementbehoud, energiebehoud, energiebalans, ladingsbehoud, ladingsbalans, kringloop",
+		"id": "09962a45-04d7-46bb-afd3-257d9bfb1b40",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"c4c0644c-8267-493d-a0fc-341489dbc99a"
+		],
+		"title": "massabehoud, massabalans, elementbehoud, energiebehoud, energiebalans, ladingsbehoud, ladingsbalans, kringloop",
+		"id": "92120334-2c56-48c1-be00-10c55ec5bdf8",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"885d2f68-2381-45cc-af78-ca279bc991ec"
+		],
+		"title": "biobrandstoffen, bioethanol, biogas, biodiesel",
+		"id": "98f62279-4b3e-450b-b2d0-f66cfd9e4b9c",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"d6dbea3c-fb29-4e01-8242-a9d63ed5f2d8"
+		],
+		"title": "biobrandstoffen, bioethanol, biogas, biodiesel",
+		"id": "8066fa46-7796-4c0d-9cf5-d68690127c43",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"ba2d4d22-bfcc-44e7-aa74-45e354f0b39b"
+		],
+		"title": "kringlopen",
+		"id": "5260f3d7-6e71-4ff1-b8a2-d7cda03a5723",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"26f46b9d-ed93-460b-a0e4-61921cefc67f"
+		],
+		"title": "cradle-to-cradle",
+		"id": "ae3002cf-5792-47b3-96e3-7b2c55a0a1a4",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"cccafb75-8e81-4267-a3e4-fb9d8c6d8459"
+		],
+		"title": "cradle-to-cradle",
+		"id": "79f3eca5-40f6-452e-bb42-2186bbeb7c3b",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"ada622ed-99c4-4ad9-a7f3-b8b8b2dd2b22"
+		],
+		"title": "biomassa",
+		"id": "5e13f403-c155-4e70-930a-7f9dbabc750f",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"6f0f8d7f-53f5-4d86-aaef-da4e4b5a3413"
+		],
+		"title": "biomassa",
+		"id": "c08eb533-ae74-42d4-8325-defd6961c0d0",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"153fa8ac-f3f7-48d3-b4ce-91b00030bae1"
+		],
+		"title": "biopolymeren, bioplasics",
+		"id": "2d527d4c-0e64-4778-a80a-ce03a107cc82",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"179fe314-9fd4-4131-80a2-27aa425be947"
+		],
+		"title": "groene chemie",
+		"id": "b996b71e-34ab-469b-a6ca-2e564c4b2d5e",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"1f91899d-ea8a-4cf5-ab9d-f5e9f4ce2d6e"
+		],
+		"title": "groene chemie",
+		"id": "54b48c69-0cbd-4d5f-a9fb-260c8ec1a624",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"bb4bda8a-870c-429c-b678-36f37c46d40f"
+		],
+		"title": "mineraalbalans eutrofiering uitspoelen",
+		"id": "a3eac3dd-b3b9-4bc9-b465-f4bc586efa8b",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"ebbbeda0-ac04-4cd1-8467-8e252d152eab"
+		],
+		"title": "kwaliteit van voeding, lucht, water en bodem",
+		"id": "767ba75d-11ed-4b45-8ff4-09a0d244a1d3",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"f4355c28-dc53-4514-b047-efe920a4a806"
+		],
+		"title": "Ae factor, E factor",
+		"id": "c7c0b19b-2571-4c2d-a6c4-68b0644110d2",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"86220484-f203-4c6d-a751-6fc8daadda5e"
+		],
+		"title": "broeikaseffect, rookgassen, fijnstof, waterbehandeling",
+		"id": "3cb456e6-0428-49e2-aad5-84e17b83bffe",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"5fc0384a-d6b1-4902-ac10-1088ce6a99ab"
+		],
+		"title": "afvalstroom, rookgasbehandeling, ozonlaag",
+		"id": "50bf1b4f-f974-4c99-ace5-6eb3cecdbf9b",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"e111a88c-acbc-4c77-b9fe-99fae1141216"
+		],
+		"title": "vervuilingsfactor, vervuilingscoëfficiënt, Q-factor",
+		"id": "6849edd2-09c8-4a81-bc68-720272b67b82",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"a3dddb5d-ca3d-48d2-8295-68f7d6621e51"
+		],
+		"title": "kwaliteit van energie",
+		"id": "9660158a-a846-4c9f-bd04-f6497ad47887",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"afcd239b-8c1a-43ad-999b-3ebc3ab71c43"
+		],
+		"title": "biobrandstoffen, bioethanol, biogas, biodiesel",
+		"id": "485ef61a-b911-43de-830b-e65657926455",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"454622f2-b2b3-4d0a-8dae-0d361b7336e2"
+		],
+		"title": "biobrandstoffen, bioethanol, biogas, biodiesel",
+		"id": "be958c20-8cd1-4b40-922c-c3bc64e16836",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"ce485304-a687-4092-81b0-cd050c6b87a7"
+		],
+		"title": "biobrandstoffen, bioethanol, biogas, biodiesel",
+		"id": "c9501b17-0184-4e09-8e80-d19dcfeb5f96",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"db269fe3-b3bc-42b2-9897-8101b9c249f8"
+		],
+		"title": "kringlopen",
+		"id": "0323bd53-bca1-4d13-96fb-573d72b6ea08",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"baa3557b-85bd-4024-b0c1-da879470c79e"
+		],
+		"title": "cradle-to-cradle",
+		"id": "92d06c30-55ac-4763-a928-315f3a8cd70f",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"83a6b802-594d-4e19-987c-fdd68994fb34"
+		],
+		"title": "biomassa",
+		"id": "14da9148-6766-4f53-a685-ed17845d9ddd",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"b7c95a87-b258-411f-8b1b-887ed8fafef8"
+		],
+		"title": "biomassa",
+		"id": "420a8285-e29f-4dfa-a683-3055e3c55c69",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"8f37f3e4-0c31-4659-ba54-303ab4952c6b"
+		],
+		"title": "biomassa",
+		"id": "d0155317-441f-4c09-9fec-d219470cbb6d",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"20884a0e-98d8-40d9-ae72-499eb8bee142"
+		],
+		"title": "groene chemie",
+		"id": "1b1d52bd-a3ba-4850-a0c8-3e28e4a4d686",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"64e888cd-a247-4ea9-a5b0-7b2c23700552"
+		],
+		"title": "atoomefficiëntie",
+		"id": "028a495f-f065-4fb8-8eac-6a57e69ed095",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"024176f8-1400-4097-a14e-ea1dbf86198f"
+		],
+		"title": "kwaliteit van voeding, lucht, water en bodem",
+		"id": "23e47f80-b757-4b08-b70f-5294e06d15e6",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"d2bf1281-f165-4e91-90cb-ff17679bce7d"
+		],
+		"title": "Ae factor, E factor",
+		"id": "0b833831-2d7d-4bcc-a160-191fb03b077f",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"611ed9cb-d720-4c04-93e5-1a0b7e78aa98"
+		],
+		"title": "vervuilingsfactor, vervuilingscoëfficiënt, Q-factor",
+		"id": "cc72e182-a057-4ff2-b6e1-f92bf49b446c",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"89944224-c73c-4ccb-8baf-e3ea52e67785"
+		],
+		"title": "vervuilingsfactor, vervuilingscoëfficiënt, Q-factor",
+		"id": "cc17c65b-17f0-44a7-9905-5332cdaf3ff7",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"573123f2-1496-4d62-99c1-4c046041b09a"
+		],
+		"title": "kwaliteit van energie",
+		"id": "926349bf-c939-4d6f-91e5-3eea9d688a96",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"27da6e64-b9fd-4bd6-b4ea-7b0d6d07d319"
+		],
+		"title": "duurzaamheid",
+		"id": "8926f2cb-214e-487c-b6eb-5076652ba20a",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"dd4c6721-b4fa-4599-aa6e-27e2358fe2ad"
+		],
+		"title": "primaire structuur van een eiwit",
+		"id": "6923f1a7-c6d4-448b-a61e-3b51aedacb63",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"d0888ef4-d55f-496b-9cc5-9cdcd896c957"
+		],
+		"title": "roosteropbouw",
+		"id": "4891fdfe-c169-47f0-8656-068f3242ddc0",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"5116f56e-832c-4a8c-9977-cdc526682276"
+		],
+		"title": "roosteropbouw",
+		"id": "7d5c0c30-1f4c-42df-b3c0-f2727a4fdaa4",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"680073a5-ecfa-4c6b-8acf-4298a71627a8"
+		],
+		"title": "molecuulrooster",
+		"id": "213d2b81-6e9c-4029-8229-c93409681b37",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"f013fc5b-6a69-4d06-815f-5cc5f4805190"
+		],
+		"title": "metaalrooster",
+		"id": "485da946-e47f-4fc8-9e94-845bc9143fa2",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"f3907ce9-4b25-47d7-b3d7-be6ff9edcfaf"
+		],
+		"title": "metaalrooster",
+		"id": "4ed7b402-3b14-4200-b4f5-fe5656f44178",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"5041f4c5-962e-48d0-b6e5-d662628ef87f"
+		],
+		"title": "roosterfouten",
+		"id": "3edac29e-9d01-49cf-93ea-36d437a8e8c9",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"8bd36c81-6ee3-4ccb-9e98-2e92a31d3971"
+		],
+		"title": "ionrooster",
+		"id": "e6b819be-0e0a-45c8-b2ad-7199aace97d7",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"f941256f-9006-4710-b4c6-81a4df33e5cb"
+		],
+		"title": "kristalwater, hydraat",
+		"id": "51457bd9-7caf-48f5-b10d-5d46d2959990",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"6f88f7ff-a26d-4443-8e4c-3f79fa8ee667"
+		],
+		"title": "hydratatie",
+		"id": "35308555-049f-4216-b55c-71eee4f80d5e",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"6502dd73-fd9b-4088-af83-fc0a99f58681"
+		],
+		"title": "copolymeer",
+		"id": "4544a59b-1189-418d-b8cf-3ad176928fdb",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"0ccadfdb-3d3e-4a15-a14e-e642c82cba8b"
+		],
+		"title": "monosacharide, disacharide, polysacharide",
+		"id": "9d8ed44e-510f-43f1-b4fd-e030371c7ff4",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"5c2b01d8-0c3e-4eb8-9b5a-0291ef4f22f0"
+		],
+		"title": "legering",
+		"id": "b6610b2c-da7c-4601-b7b7-12f79ae2e98a",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"8f5e32d4-dc2c-4fc7-bb0e-3d3d9f60cb09"
+		],
+		"title": "legering",
+		"id": "dd035358-feb2-4e28-810e-c2fe3388bf53",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"d0a5c648-363b-436e-8f65-1b1d63a4ae57"
+		],
+		"title": "ketenlengte",
+		"id": "055bf748-5273-49da-b7d4-6f0f7d7c308d",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"0158b322-8b2f-4811-9e54-29ec14dfd89f"
+		],
+		"title": "monomeer",
+		"id": "87cf2f38-cce7-4b2a-bee5-bcb643733c94",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"4d138da5-2ee7-4cae-8be7-6243ab09cc6e"
+		],
+		"title": "crosslinks",
+		"id": "af9a9800-5138-44fb-a400-2ca3a27cb80e",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"d228b99c-fb03-4512-8b31-81dda63697cc"
+		],
+		"title": "crosslinks",
+		"id": "4f1163f4-25a2-4dda-b9e5-59808423bf92",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"5f77f76a-3c57-4b30-b6a6-d5734ed4b8a0"
+		],
+		"title": "structuurisomerie",
+		"id": "27f9c338-cb34-4cc9-9e91-2e1e73c86b2e",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"7d4d71d3-71e2-4797-991b-6838e4072156"
+		],
+		"title": "weekmaker",
+		"id": "9ab2e195-9fb3-43f9-b52f-8f16ed48634f",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"b1ec6e11-4cc8-47ea-ad26-2e2e27052e5b"
+		],
+		"title": "weekmaker",
+		"id": "decc0ef3-f945-4ee6-a933-7e61c3b89e76",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"c0109475-7528-498d-8cb8-43b964f4a4df"
+		],
+		"title": "structuurformule",
+		"id": "eeb7d7c5-2466-47df-bc98-7921d1a56b31",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"25c2a69d-636d-4b89-931f-51bdfc744103"
+		],
+		"title": "structuurformule",
+		"id": "115b9753-c6ea-4238-87f2-516d72aac796",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"5ff1e3ca-14ae-4144-aee8-1749ab062706"
+		],
+		"title": "celmembraan",
+		"id": "596c59f9-a481-4890-b959-728dcac44c51",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"f6008198-f534-4fe8-8e08-22a36e10eb15"
+		],
+		"title": "cis-vetzuren, trans-vetzuren",
+		"id": "c257e23e-40cc-43eb-85ec-009268d735cc",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"4c995c77-0a78-4e14-82f6-6fc1916517b3"
+		],
+		"title": "C=C;  OH groep (hydroxyl);  COOH groep (carboxyl); NH2 groep (amino);  COOC groep (ester); CONHC groep (peptide / amide); C-X (X= F, Cl, Br, I).",
+		"id": "b2f379a1-4a9a-4d03-ae20-1779bbdd2249",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"20ecd431-f75f-4553-83cd-55323867d4ca"
+		],
+		"title": "karakteristieke groepen",
+		"id": "5b014983-2eba-456d-bc1b-0d59515b00e1",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"42db60b8-afee-44d0-b9c5-fbb0e5dd1d6b"
+		],
+		"title": "moleculaire structuur",
+		"id": "dec3565e-e449-4a93-aaf4-532188e8ce9f",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"2a337614-4a42-479c-9501-7f1fa1b85a9b"
+		],
+		"title": "cel, celmembraan, ecosysteem, organisme, spijsvertering, ademhaling, bloed",
+		"id": "22e3809a-b395-4bdb-a262-efb1d06dfffd",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"23a730f7-1aab-442b-bad0-dfa4105bbdf4"
+		],
+		"title": "primaire, secundaire, tertiaire structuur van een eiwit, eiwitsynthese, enzymsubstraat-complex",
+		"id": "8d31e28a-9e79-47f4-b914-65b10f122a8c",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"14e89bfa-03b2-4c4e-85eb-10670c186518"
+		],
+		"title": "primaire, secundaire, tertiaire structuur van een eiwit, eiwitsynthese, enzymsubstraat-complex",
+		"id": "bec52691-f978-423c-b658-318b4df24bec",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"b7d3cbd0-73cd-46b3-b9f7-02be01cc33cd"
+		],
+		"title": "roosteropbouw",
+		"id": "98d9b521-26ef-46ea-bd27-ef9c3a605e63",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"b0527412-66f8-4742-8f9f-9455a9b23b2f"
+		],
+		"title": "roosteropbouw",
+		"id": "c9e7624b-74cc-43f2-a2ce-6981d55ae356",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"348a7751-c93c-4e6c-a217-a6092fe71239"
+		],
+		"title": "molecuulrooster",
+		"id": "d100cf7b-5dae-4da1-ae4b-2d6d1f2a60bf",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"4f9e3d1d-ea07-458f-8bea-70ab92679c16"
+		],
+		"title": "atoomrooster",
+		"id": "37cbaa9e-2b1f-4ca7-b9aa-50a470e77ab1",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"ba3cecff-b19d-4923-a507-667fc8445085"
+		],
+		"title": "atoomrooster",
+		"id": "3f3fb169-ceda-422e-8329-16242358b34a",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"1e39db29-aa04-42f1-be18-4c5c414a5920"
+		],
+		"title": "metaalrooster",
+		"id": "7ff4e112-0eb7-4358-b0e7-7982a6d952b1",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"ad1a8806-e07d-44c4-9b14-fef49759cf61"
+		],
+		"title": "metaalrooster",
+		"id": "a7869e4b-5723-44ae-a64e-a3d6688b21e5",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"2c64cabd-e398-4009-8729-7b66aa098acc"
+		],
+		"title": "roosterfouten",
+		"id": "4309deb6-9ad5-477c-9452-3519bc5e28cf",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"53dc4424-d362-46ad-a85c-fe33c3a45414"
+		],
+		"title": "roosterfouten",
+		"id": "7d3267ef-8176-4426-8a8b-5df687aa9590",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"d17b82f9-d20d-4f80-89dc-3b9e514435f8"
+		],
+		"title": "ionrooster",
+		"id": "001d4084-1abe-4c7b-a929-656b6052fffc",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"2d1898f6-ed0e-45c7-9a77-ece7b75e9598"
+		],
+		"title": "kristalwater, hydraat",
+		"id": "a13b04b2-9b4d-40a3-aa23-2320bdee90ae",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"b705c6bf-fff8-45c9-a971-de2c08d9fee2"
+		],
+		"title": "hydratatie",
+		"id": "6ed2acd2-d8b4-44d3-8bac-542d3ba60ed6",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"3fc9eeca-c83a-416e-b8c7-d4413417b4f1"
+		],
+		"title": "copolymeer",
+		"id": "6f550174-9a6c-4680-9cad-b8521c77dd9c",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"d919d214-822b-42c9-9156-1241aabf443b"
+		],
+		"title": "monosacharide, disacharide, polysacharide",
+		"id": "01771ab3-37fc-4b00-aa17-cdcce6b7bd26",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"814e1566-93d7-43cf-b399-eba6afabdbed"
+		],
+		"title": "kristalstructuur",
+		"id": "229f3db4-1a07-40b6-8e02-46941353cd69",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"3942f461-0a57-421e-ba94-dea9dbe4d607"
+		],
+		"title": "legering",
+		"id": "9a2b382c-ac74-4537-b8ff-17cf078dd323",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"0e64f571-15b1-4ff9-8dcb-117f198b12f7"
+		],
+		"title": "legering",
+		"id": "d9f858d9-9a80-4b1a-b4fe-6fa4008f4cd6",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"d18380c0-8bd4-40bd-9530-0be6c03e506f"
+		],
+		"title": "ketenlengte",
+		"id": "5791f83c-de06-4d33-9799-b0a31369b8fe",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"48a2b591-9851-4785-b68d-3ad8755d3918"
+		],
+		"title": "ketenlengte",
+		"id": "e8a7178c-96e2-4ca5-b0b8-ce0cfec02f36",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"750aa897-f025-4dfb-aebd-56994c323fd7"
+		],
+		"title": "monomeer",
+		"id": "b6eacead-2bdb-4d45-9e2c-64bc3ed6e40e",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"f6792ed8-85bc-4e6a-bff4-8f95a999c6ff"
+		],
+		"title": "monomeer",
+		"id": "94cb188c-151e-4e64-832f-74e5216cd74b",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"b1f65a0a-ba7a-481f-8cfc-ef7d58da60f9"
+		],
+		"title": "crosslinks",
+		"id": "b4794e6b-000b-4641-b77c-640499de4642",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"98ebfc63-e935-4298-9904-2d7817b9534a"
+		],
+		"title": "crosslinks",
+		"id": "c7b3d668-da4f-4331-8edf-632501e9c305",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"7553d10c-4e38-4056-a7a6-b1ffdd886884"
+		],
+		"title": "structuurisomerie",
+		"id": "85ceeadf-7f82-4d95-aa67-eae7c597c712",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"b5f1cd48-6bf0-4fd3-a3cc-f3e7465eeaac"
+		],
+		"title": "weekmaker",
+		"id": "3d374c9c-4043-417c-8efd-8641bad0eba3",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"b33c05b9-d48e-42fa-865b-9cd8651e93c6"
+		],
+		"title": "weekmaker",
+		"id": "0576851b-d211-4b72-ab6d-0c3006561ab6",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"168d23ae-d5c1-4097-8e5b-8570281a43f0"
+		],
+		"title": "structuurformule",
+		"id": "ec9ea223-02c1-40e7-b3ee-b73ea215ecd4",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"3a37dcb7-6c2e-45b3-b349-6fd90ea9295d"
+		],
+		"title": "celmembraan",
+		"id": "6da6804d-be9d-4f2a-a1d1-6410999cb1a6",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"cbc1ee3e-05aa-4d5b-8df3-127fdd5bb520"
+		],
+		"title": "celmembraan",
+		"id": "240ccc6c-74fc-4a66-a671-19e9ea127b99",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"f42d73d9-77ac-40c8-bbe6-c4e5f7c4f0d7"
+		],
+		"title": "celmembraan",
+		"id": "4dd1d5cb-733c-4502-88d0-d48c36168db8",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"19bd0551-611f-41f6-acf8-94f920ec7430"
+		],
+		"title": "spiegelbeeldisomerie, cis/trans-isomerie, asymmetrisch koolstofatoom",
+		"id": "61fc6efa-f44c-487f-976c-034fca82fa51",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"506d4ec2-8a77-45a3-9dcb-6d8896ca9fa0"
+		],
+		"title": "C=C; C≡C; OH groep (hydroxyl); C=O groep (aldehyde en keton); COOH groep (carboxyl); NH2 groep (amino); COC groep (ether); COOC groep (ester); CONHC groep (peptide / amide); C-X (X= F, Cl, Br, I).",
+		"id": "cfbd633f-66df-4809-b769-aec13663246a",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"fce534aa-469e-453c-bdc1-2d90396ca4f4"
+		],
+		"title": "karakteristieke groepen",
+		"id": "b3fe1bb5-c05b-4124-ba20-1a852ca59f3f",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"67e5039f-867d-4190-86aa-329e4c2201d2"
+		],
+		"title": "omringingsgetal omringingsgetal 2, 3 en 4;\r\n- 4 omringing: tetraëder, bindingshoek ongeveer 109o;\r\n- 3 omringing: plat vlak, bindingshoek ongeveer 120o;\r\n- 2 omringing: lineair, bindingshoek 180o",
+		"id": "bafc05c5-1f17-422e-8f59-dc0a0c0cacec",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"d78de00f-3d13-4938-b887-bf1f3ab70646"
+		],
+		"title": "homogeen mengsel, heterogeen mengsel",
+		"id": "37d24f35-930c-4ba7-b180-8e98b3d38638",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"a5a31e29-7caf-4fc4-854c-df6fee06deea"
+		],
+		"title": "mesomere grensstructuur",
+		"id": "62a9d0e4-04c5-4d09-b34c-9f72448938e9",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"f792d33f-7cdb-46de-b6e5-95283a31757e"
+		],
+		"title": "mesomere grensstructuur",
+		"id": "f8db0950-eb36-4973-8bdd-961f7765a538",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"f541719f-a06d-40c4-a603-9b1f0a9d0c8b"
+		],
+		"title": "mesomere grensstructuur",
+		"id": "b146d201-2285-48e0-bfe4-4f41f7c698cd",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"61b281c0-60cb-43af-893e-80fbe3a461bd"
+		],
+		"title": "dipool-dipool binding",
+		"id": "7f1558c6-bd15-45e0-bbb6-ebd9c45141de",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"4e9051dd-73d2-4aef-8da1-d9e7a3d2d0ba"
+		],
+		"title": "dipool",
+		"id": "1a3a3b4a-b7a4-49bf-95ae-4968bb80f37d",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"3284147e-358f-4872-86dc-cbfe5b3234fa"
+		],
+		"title": "formele en partiele lading",
+		"id": "ee963188-7ca0-4543-b7f4-0753fa2e4549",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"cf2b50d9-8225-4524-ba50-203294809b30"
+		],
+		"title": "lewisstructuur",
+		"id": "ea2f2204-e8bf-4ea8-ae57-59bc78399606",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"c4b4df5d-6f2a-4460-b351-c55e14baae47"
+		],
+		"title": "radicaal",
+		"id": "a977c3a7-049b-45f6-9b26-ad513db990de",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"0218d3c3-8136-4575-bb20-ddb2742a477e"
+		],
+		"title": "radicaal",
+		"id": "893749e7-1977-4b6c-898f-3ddd3dd1cfdd",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"4a83566f-bfb3-4a99-be13-a4c49585400b"
+		],
+		"title": "radicaal",
+		"id": "c99bd6a5-0297-46f1-8914-1f6762c801f5",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"d14c1007-303c-4a1e-a8ec-c070974ae237"
+		],
+		"title": "actieve plaats",
+		"id": "1a42900a-b9fc-4237-b628-19c23507722e",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"a569fe5e-bd6e-465a-922d-68ac64a29cef"
+		],
+		"title": "genetische code",
+		"id": "c1d20951-77c1-4aa6-8d36-25b73b5b9dc5",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"65adb367-7a76-4b36-9f0d-d88de843790f"
+		],
+		"title": "moleculaire structuur",
+		"id": "63c3c96c-3048-4ceb-891c-27a1adae890e",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"90c15ed7-226d-41c6-9119-f8253a86e390"
+		],
+		"title": "cel, celmembraan, ecosysteem, organisme, spijsvertering, ademhaling, bloed",
+		"id": "52d6ab8d-ce12-4220-a0a6-61a6748858b0",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"838860e3-7bea-4e6d-bdc7-224ddd062718"
+		],
+		"title": "thermoplast, thermoharder",
+		"id": "cfa2b4ad-2695-470f-a963-f71827b36694",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"4af57509-5772-4a64-b8db-e9bdc0a4cfa2"
+		],
+		"title": "thermoplast, thermoharder",
+		"id": "ef272771-33f5-40fb-870d-d082164d43f2",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"dc551ac2-3e89-41c1-a852-a60b9af8876b"
+		],
+		"title": "hardheid, brosheid",
+		"id": "80a6e62a-5288-45a3-8624-c639909628ff",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"c8a35335-55e7-4d05-9d2d-d0f58c24992c"
+		],
+		"title": "vervormbaarheid",
+		"id": "e32a822d-d2ba-43b0-a802-5d152284aeec",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"5fc3d847-f5de-4c65-9baf-59ab2a9bcbce"
+		],
+		"title": "vervormbaarheid",
+		"id": "b74d8c70-efaa-4726-964b-57906e13ca11",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"e3daa1b9-f2dd-4a34-94da-84ea9211c2bf"
+		],
+		"title": "vervormbaarheid",
+		"id": "44cd0ef1-22c8-4a7d-8596-e6eda2b0cb82",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"6f5ee2ca-6473-48b1-8202-b62f866d0647"
+		],
+		"title": "biodegradeerbaarheid",
+		"id": "c2ac0936-bba8-477c-9b58-e1ab3b912c12",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"68ad4301-2730-44ef-8821-8538230f69a3"
+		],
+		"title": "waterafstotenheid, waterbindend vermogen, elektrisch geleidingsvermogen",
+		"id": "636df1af-3cf5-44dc-97c3-3cc059eeadc5",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"c0a7d680-d10d-484e-ac0d-6e2b151495d4"
+		],
+		"title": "sterkte",
+		"id": "8eab51a4-6d93-4c62-af43-f386535de26d",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"a91a5e56-efa4-4787-bffa-59ea2da56b39"
+		],
+		"title": "zuren, basen",
+		"id": "fe765681-18c4-409a-92ef-079a54a5b501",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"ae99838c-857a-497a-a910-0615b4bb061d"
+		],
+		"title": "Hydrofiel, hydrofoob",
+		"id": "5f2feb54-476b-44d9-95e8-7d73bdc5bb4f",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"9ddb448c-be92-4cd6-a5c4-e41cf7c65425"
+		],
+		"title": "Hydrofiel, hydrofoob",
+		"id": "3a39c4ba-916c-4338-93c8-c6508cd3ae70",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"123a72f9-80d3-406e-9f44-986c3aec3a3f"
+		],
+		"title": "brandbaarheid",
+		"id": "dfd4ad58-d049-47a5-ba6f-a1bd11281730",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"9d004303-c472-44a3-997f-cc0edd202a0c"
+		],
+		"title": "corrosiegevoeligheid",
+		"id": "875a3d6f-626e-47c4-9d73-d818d7a0785d",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"87ee9898-9a45-4d3c-98b4-15671d784720"
+		],
+		"title": "corrosiegevoeligheid",
+		"id": "cd1eb741-8d13-490f-8c9e-bc656bc4521e",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"813a37ed-dea4-48db-b3b5-e02da4fa8d03"
+		],
+		"title": "edelheid",
+		"id": "835e09fd-72d1-42ce-81b9-750ee378c2a8",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"9f87812f-95ed-4e74-abfa-2778dd791e37"
+		],
+		"title": "optische activiteit, racemisch mengsel",
+		"id": "365900e0-a2fd-4f12-ac33-9ed00b2e6fa8",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"64d49965-06ca-4c3f-9ae9-f9275f2c0cd5"
+		],
+		"title": "enzym-specifiteit, pH-optimum, temperatuur-optimum",
+		"id": "c5c858a9-e4db-4e10-ba07-6dc98baa5c9a",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"a7bcf937-e931-4036-b9d5-ba2d8c976521"
+		],
+		"title": "OH/NH-groepen en oplosbaarheid, hydrofyl/hydrofoob",
+		"id": "406c00c0-817e-4bfc-9ed7-24233c33d0e1",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"8a86d2cf-ab90-4c68-8b02-c353e5091162"
+		],
+		"title": "OH/NH-groepen en oplosbaarheid, hydrofyl/hydrofoob",
+		"id": "0a1437fb-bbc2-4d87-815e-3c945117bc6c",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"d7012a68-d1d1-4bd2-af8f-f957ad6ae06a"
+		],
+		"title": "ontbrandingstemperatuur",
+		"id": "6fe0bcd2-2d63-458c-b110-346350dd562e",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"ddbbf2ea-a3f8-4f36-a12c-d7fa46057474"
+		],
+		"title": "erfelijkheid",
+		"id": "8b7de836-5c11-447f-b46d-2781afa6174f",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"64568a26-152b-440e-bf07-5f12c06b0b8e"
+		],
+		"title": "thermoplast, thermoharder",
+		"id": "cd240b9f-7cdc-465c-8614-ca1642911bf8",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"28d93a3d-9dea-464b-bd5a-e06181a5e407"
+		],
+		"title": "hardheid, brosheid",
+		"id": "22ab9d0d-23f2-42ff-ad41-255e0f1b3390",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"b3766a42-cf2f-46fa-b11f-fd5ebdc2fe39"
+		],
+		"title": "vervormbaarheid",
+		"id": "760f0691-de3d-4993-8fa6-826b75df5d43",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"8138f8d3-3016-4583-aa5e-f76e8df3b9f5"
+		],
+		"title": "vervormbaarheid",
+		"id": "2524422c-e7fd-46f1-96fa-9f9353b73198",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"9b688c17-cd94-4d09-9c0d-6684ecf9a110"
+		],
+		"title": "vervormbaarheid",
+		"id": "6b7c40d1-82e0-4f55-9eed-6ac9f3c85fbb",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"d3fe605c-8bab-4255-9000-976495181ada"
+		],
+		"title": "biodegradeerbaarheid",
+		"id": "96011ca2-1cd8-43ee-94a5-499da7de439e",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"1a4a86de-d3d0-434c-849f-247b40b6db19"
+		],
+		"title": "waterafstotenheid, waterbindend vermogen, elektrisch geleidingsvermogen",
+		"id": "55f75696-b303-4ab6-881a-77cfbba9e800",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"602eee23-9475-49a8-89c5-9ef0b9018a75"
+		],
+		"title": "sterkte",
+		"id": "af942476-89a0-4c62-bd3c-1d5471b86748",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"7036b6ac-2a5d-4153-b848-b6d1c6b6a109"
+		],
+		"title": "zuren, basen",
+		"id": "83e7ff4e-03e7-4a42-9883-39af54202913",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"887878b9-7aa5-424d-bb13-66d142bc3a44"
+		],
+		"title": "sterke en zwakke zuren, sterke en zwakke basen",
+		"id": "d25bf031-38bc-40a5-85c7-0aa18f7f3ade",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"029bee71-0fe8-4509-92a0-ec13af7e9ef4"
+		],
+		"title": "sterke en zwakke zuren, sterke en zwakke basen",
+		"id": "1930c5d4-98a9-45be-b7e7-b73621222a94",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"e5e19888-7303-40ec-8a61-905aa8bd67b3"
+		],
+		"title": "Hydrofiel, hydrofoob",
+		"id": "9dfda791-8aa8-42a7-a611-7025c518f101",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"b5e552d1-f204-40ec-9ae2-2c04a6f95a91"
+		],
+		"title": "ruimtelijke structuur, molecuul, dipool",
+		"id": "3cfb97ee-07a4-4909-8f43-16bf7a964ab1",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"be819aa2-f864-43bf-8ed0-6ac263cd637f"
+		],
+		"title": "Hydrofiel, hydrofoob",
+		"id": "3dad4c64-f237-4e77-a478-aa768318cafa",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"99e946b3-7166-4004-bfd4-5d5d56a811a0"
+		],
+		"title": "Hydrofiel, hydrofoob",
+		"id": "c23ea347-9069-4616-bd60-576ddfa3c2be",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"da6b1965-1c80-46d0-b496-565f2e27f381"
+		],
+		"title": "brandbaarheid",
+		"id": "33f7c107-5710-4a7d-b2e1-3fde1f4cc376",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"420dba04-c722-4b19-bdbe-56b5519c22fa"
+		],
+		"title": "corrosiegevoeligheid",
+		"id": "c0ce6acf-5f58-422b-912a-7b7d27321322",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"84dbaedf-9821-45be-9f92-04a25b81e917"
+		],
+		"title": "corrosiegevoeligheid",
+		"id": "c68f2832-d0b0-4e5c-82f5-850738a4c810",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"405d1709-1090-4820-99aa-13b6b873bfa0"
+		],
+		"title": "edelheid",
+		"id": "87b1c81d-5cad-4b1b-9071-8f3fb9e95af7",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"d19d439f-34ad-4d6a-83cf-35d224960f4d"
+		],
+		"title": "optische activiteit, racemisch mengsel",
+		"id": "590a5213-042c-4880-8dd4-163eef0887bc",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"dbbab63c-39ca-42df-acc3-af384a2f3a6b"
+		],
+		"title": "enzym-specifiteit, pH-optimum, temperatuur-optimum",
+		"id": "26562d4b-4036-4b8e-bed7-0a563bedc9a8",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"4d131079-b0eb-4066-9c07-15b5f7eb19b5"
+		],
+		"title": "OH/NH-groepen en oplosbaarheid, hydrofyl/hydrofoob",
+		"id": "f8870435-e8a5-449c-8532-dc6366fd75bc",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"d4641150-d38d-47a1-8fc3-8be99366384e"
+		],
+		"title": "OH/NH-groepen en oplosbaarheid, hydrofyl/hydrofoob",
+		"id": "e0570a32-cb79-4726-945a-8ae3ba2af7a5",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"dbe866be-f649-4ca3-bdf5-8a74b8c9e8ce"
+		],
+		"title": "ontbrandingstemperatuur",
+		"id": "6341e65e-3685-454c-ac67-e69f7693c677",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"790ce3fa-ecb1-4d61-9b78-da2c9364f2b3"
+		],
+		"title": "erfelijkheid",
+		"id": "40f15d61-fd49-4352-87e0-db51161532ab",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"46757076-d6cc-4565-8aa5-848a95ff47c1"
+		],
+		"title": "rooster en vervormbaarheid, temperatuur, weekmakers, ketenlengte, crosslinks, soort monomeer",
+		"id": "fe30a08b-faef-401c-8b06-d511793b3af4",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"f91698ac-492b-42b5-9f5a-ed8e7077c333"
+		],
+		"title": "rooster en vervormbaarheid, temperatuur, weekmakers, ketenlengte, crosslinks, soort monomeer",
+		"id": "a1469ab9-4f53-4f70-9729-4283a08dcc6a",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"55d65d12-115a-4028-8a10-6a67339f4df3"
+		],
+		"title": "bewegelijkheid ladingdragers en geleidbaarheid",
+		"id": "14d26a8d-6be7-4502-86d4-b0693af686a1",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"b5c79ae5-f0f8-431d-b268-d413337df17f"
+		],
+		"title": "bewegelijkheid ladingdragers en geleidbaarheid",
+		"id": "98c89f0e-b0be-4d5d-be86-b983df9031bc",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"e2d1d554-8660-452b-b14c-f9c4694170d6"
+		],
+		"title": "rooster en vervormbaarheid, temperatuur, weekmakers, ketenlengte, crosslinks, soort monomeer",
+		"id": "21c5f4a6-14cb-4c27-89a1-a90a2e127f5f",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"4902c923-764c-4103-8306-c0048bbb4438"
+		],
+		"title": "rooster en vervormbaarheid, temperatuur, weekmakers, ketenlengte, crosslinks, soort monomeer",
+		"id": "3332fdb0-d08d-4663-8225-e39c429fe7a1",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"5b189154-e4ad-47d1-95f8-38eeec8b330f"
+		],
+		"title": "bewegelijkheid ladingdragers en geleidbaarheid",
+		"id": "3af43ad4-a0a2-4705-a93d-ef12266f055d",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"488bb4f8-3647-4c04-b6da-bb60cd4c4902"
+		],
+		"title": "bewegelijkheid ladingdragers en geleidbaarheid",
+		"id": "c0deae83-7541-4336-a173-3610d6062a1e",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"7401b586-9d8b-461b-942a-b172e7664b28"
+		],
+		"title": "ruimtelijke structuur en olie, vet",
+		"id": "b0cd2420-2ee2-4e92-ae8c-ddab009d271b",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"959bb807-8329-4a7c-900b-3c3dc4cdbbfe"
+		],
+		"title": "ruimtelijke structuur en eiwit",
+		"id": "d922b914-b30a-4e42-a1e2-60be054b531f",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"dc5d733a-a9d0-4b5e-9616-4cef3de28435"
+		],
+		"title": "ruimtelijke structuur en eiwit",
+		"id": "0d0c832e-5cd8-4429-8002-61245b38cec9",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"9ec5f7d4-a258-4cc2-b363-3b9d2c9b320f"
+		],
+		"title": "karakteristieke groepen en reactiviteit, vrij elektronenpaar, radicaal, meervoudige atoombinding, dipool, polaire atoombinding",
+		"id": "3ce87522-3199-4c20-903a-ed1e172d2467",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"3be16838-b10c-4b7f-ac6d-6ca7f9fa6580"
+		],
+		"title": "Stoftransport en pH, polair, membraan",
+		"id": "491fa255-edaf-4eed-a59b-942dc82c4aa5",
+		"unreleased": true
 	}
 ]
