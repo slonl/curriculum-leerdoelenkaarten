@@ -17707,5 +17707,230 @@
 		"title": "afgeleide, inclusief notaties, somregel, verschilregel, productregel, quotiëntregel, kettingregel, raaklijn",
 		"id": "0e5bb3e7-82ed-43e8-91d2-1e884cb29add",
 		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"75271b11-598d-4c17-b03b-7fc25c6d0001"
+		],
+		"title": "contradictie, paradox",
+		"id": "0dbe9d21-4e57-47d9-97b2-1cc705dc4a44",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"a8b78241-11d6-4280-b493-296c5e5395f4"
+		],
+		"title": "als-dan redenering, hier-uit-volgt-conclusie",
+		"id": "09190a18-58f3-44d2-b6df-c93dc1554134",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"0e3d0955-088c-4050-8242-eb956b9e9148"
+		],
+		"title": "venn-diagram",
+		"id": "a0a5cfd9-d02f-470e-a039-17663f8d0f32",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"7155c9b3-61d6-4eb4-93af-6fcbc9ad9de8"
+		],
+		"title": "nodige, voldoende voorwaarde",
+		"id": "ead98e6e-c1ec-4f8d-8c50-9710be040964",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"af9b9ffc-2c7a-4f2c-a59b-f208ba5d53b6"
+		],
+		"title": "tegenvoorbeeld",
+		"id": "60f20c23-0774-4fe6-9a89-b172b35f5c72",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"84a41711-e93c-4acc-afa3-b2de75f2a298"
+		],
+		"title": "absoluut, relatief",
+		"id": "6cd5d4bd-8372-4795-880f-e68e4b78c23b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"78ca1883-7c9c-4cfa-a188-ef38e9a6f380"
+		],
+		"title": "permutaties, combinaties",
+		"id": "db34503a-1e82-4abc-8931-af12bb1b7f03",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"db082af6-a98d-4e0b-8de8-6988c0908ba9"
+		],
+		"title": "boomdiagram, wegendiagram, rooster, driekhoek van Pascal",
+		"id": "c4e3e7dc-97b7-40f3-b550-6c343622734b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"3172e412-01a2-4c5a-9598-467f876c8521"
+		],
+		"title": "stelling van Pythagoras, gulden snede",
+		"id": "8659d13d-c72b-428a-8e87-878e26555320",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"2760f9ff-fb70-4332-abe0-5d4a9e18c496"
+		],
+		"title": "horizon, oogpunt, verdwijnpunt, regelmatige veelhoek, afstand",
+		"id": "45ea09b9-56f1-407b-8ab0-cca9bff74ff3",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"31103013-6dfc-424d-885a-2942cb671927"
+		],
+		"title": "aanzicht",
+		"id": "9c35fd1b-e26b-4cd2-9a23-9ea41aef10c2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"41d923e0-eb6a-480e-9264-0f90e83e062f"
+		],
+		"title": "perspectieftekening, éénpuntsperspectief, tweepuntsperspectief",
+		"id": "207a1086-2cd6-424d-b9e7-8eda8ea327a6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"64488ce2-9027-4411-8eb1-1e616169f889"
+		],
+		"title": "vergrotingsfactor",
+		"id": "e8b8cec1-0877-40a9-868f-f21310ce6dee",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"1a828031-24c8-4218-850f-3bdd895c1db5"
+		],
+		"title": "symmetrie",
+		"id": "a7e6859d-5152-4727-a388-7264800a8046",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"dc13fa59-a37a-4460-af47-97dafc7082cc"
+		],
+		"title": "gelijkvormigheid",
+		"id": "08ced673-c400-434c-962e-47eaaa944392",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"e94d1c1e-c83b-4f19-99d6-ea07f020580a"
+		],
+		"title": "evenredigheidsverbanden, recht evenredig, evenredig, omgekeerd evenredig",
+		"id": "4194e62a-e35f-48aa-8511-7da2bb97d108",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"309346de-80c1-445c-9ac0-98b28d7f2e16"
+		],
+		"title": "logaritmische schaalverdeling, logaritme",
+		"id": "6c61f37f-9ba0-48b7-a484-25926ddd1827",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"f24d254f-41e0-49ed-aaec-0e9a2f4099ce"
+		],
+		"title": "standaardverbanden, lineair verband, exponentieel verband, machtsverband, logaritmisch verband",
+		"id": "3479dd8d-770b-41e8-962e-d9eca099ed4f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"311e5aaa-65dd-43db-acc3-cbd7be6cb446"
+		],
+		"title": "maximum(waarde), minimum(waarde), constant, toenemend of afnemend) stijgen, (constant, toenemend of afnemend) dalen",
+		"id": "d737ff98-67f7-41e5-bfe2-98593d559832",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"32a019c6-a1e7-4e9f-926d-16fc4d745d8e"
+		],
+		"title": "snijpunt(en) met de x-as en y-as, top",
+		"id": "7c0f3b70-aa86-4b4d-98e9-541eeab32535",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"c0a8848b-77da-499e-a33a-0b71fa8e1b96"
+		],
+		"title": "verschuiving, herschalen",
+		"id": "ce343086-9be5-45f1-b65f-d7c59a683607",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"6896ed75-ec23-4c52-a427-2f30685b16ca"
+		],
+		"title": "periode, amplitude, evenwichtsstand",
+		"id": "5bb15d43-7037-46fe-aa7d-5b18db105b55",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"438dc71a-c455-47a5-a59a-c220ad56f858"
+		],
+		"title": "halveringstijd, verdubbelingstijd",
+		"id": "c6b11433-020f-46c9-8488-4d281bbccfdd",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"e00d393d-6a91-4879-9dfd-c26c78b38784"
+		],
+		"title": "rijen, inclusief notaties, directe formule, recursieve formule",
+		"id": "db6d43b1-1968-480d-a6fd-228d2fc2de8b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"6b2208dc-dd0d-464c-b83d-6e9403327c58"
+		],
+		"title": "interval, gemiddelde verandering, helling",
+		"id": "eb7f0321-8514-4c93-bfeb-6c7963f6d9aa",
+		"unreleased": true
 	}
 ]
