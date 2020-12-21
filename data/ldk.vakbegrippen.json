@@ -17932,5 +17932,1357 @@
 		"title": "interval, gemiddelde verandering, helling",
 		"id": "eb7f0321-8514-4c93-bfeb-6c7963f6d9aa",
 		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"f504bf3c-4a48-43c7-aae8-4b1045a41c65"
+		],
+		"title": "tientallig stelsel, gehele getallen",
+		"id": "b7101da8-1ba9-410b-8fbb-fcfe75f95667",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"567b6cfa-11bc-4881-bfce-7fdc3bc5a6a4"
+		],
+		"title": "tientallig stelsel, gehele getallen",
+		"id": "a74dd40e-8039-40d2-86a1-e2e62407e5d3",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"37695187-6733-4487-bba0-b7a3103a74a1"
+		],
+		"title": "tientallig stelsel, gehele getallen",
+		"id": "72ea26fa-16ff-4253-9254-f7819e472bab",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"88498fbf-bb28-4994-88f0-8311b5ec3858"
+		],
+		"title": "tientallig stelsel, gehele getallen",
+		"id": "78f071d0-58b1-4c32-8b96-84a6b7ef2843",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"7add1ea0-0864-44ac-9342-feda05adf627"
+		],
+		"title": "tientallig stelsel, gehele getallen, natuurlijke getallen",
+		"id": "5c3f07de-ec32-4a85-be08-bf052a60b215",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"41e8a2b2-b5b5-420f-843d-793bd0d42fc7"
+		],
+		"title": "tientallig stelsel, gehele getallen, natuurlijke getallen",
+		"id": "89d230b6-55a3-4188-b4ad-91a019457cac",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"2ec30118-6a53-4f96-820f-3218b2ea8338"
+		],
+		"title": "tegengesteld, groter dan, kleiner dan, gelijk aan, ongelijk aan, >, <, ≤, ≥, ≠, ≈, =",
+		"id": "05803918-b858-4687-9641-4a7dcdaf77d4",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"779f227b-3f73-4bf1-9fcd-42997f6de946"
+		],
+		"title": "tegengesteld, groter dan, kleiner dan, gelijk aan, ongelijk aan, >, <, ≤, ≥, ≠, ≈, =",
+		"id": "2b0f5d85-785a-4dcd-a79f-881203fa621e",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"5ec0de9d-25c3-4816-befc-b527069cbf41"
+		],
+		"title": "tegengesteld, groter dan, kleiner dan, gelijk aan, ongelijk aan, >, <, ≤, ≥, ≠, ≈, =",
+		"id": "3b2c9e51-c14d-4e61-badb-1b346b15d132",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"2123e55b-3bf4-411b-81cc-dc71caf02af4"
+		],
+		"title": "tegengesteld, groter dan, kleiner dan, gelijk aan, ongelijk aan, >, <, ≤, ≥, ≠, ≈, =",
+		"id": "c4986457-20a2-4b32-85ed-1f3d6a61acf8",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"7a9b6a87-e19e-463d-8356-34720673efa4"
+		],
+		"title": "tegengesteld, groter dan, kleiner dan, gelijk aan, ongelijk aan, >, <, ≤, ≥, ≠, ≈, =",
+		"id": "920e972f-d49d-438c-9560-f906df132397",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"7a9b6a87-e19e-463d-8356-34720673efa4"
+		],
+		"title": "tegengesteld, groter dan, kleiner dan, gelijk aan, ongelijk aan, >, <, ≤, ≥, ≠, ≈, =",
+		"id": "ad5f5184-d814-40f9-a2af-9ecdee0f0260",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"cc2035c5-1056-42c1-b0af-45167102e85a"
+		],
+		"title": "even, oneven, veelvoud, deler",
+		"id": "3662ef2c-a2fd-4def-8143-b1c9ec24c6a3",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"663ea34c-e973-441c-803b-89a28d405a8c"
+		],
+		"title": "even, oneven, veelvoud, deler",
+		"id": "31f72171-bf57-4e1f-9a54-2d154cfc9dd4",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"5daa234a-b57b-4412-9b77-06b3311f5675"
+		],
+		"title": "even, oneven, veelvoud, deler",
+		"id": "bf726d43-8570-401a-800c-1279da8db229",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"e5841108-e078-440a-89fa-9a9eb075e505"
+		],
+		"title": "even, oneven, veelvoud, deler",
+		"id": "6feba45f-d19e-419d-a140-e374ed4d79ce",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"82c9a10d-6d3e-47e1-9749-801326403eed"
+		],
+		"title": "deelbaar, even, oneven, veelvoud, deler, priemgetal",
+		"id": "80ab87c0-685e-45b9-80a1-35b9468e233b",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"5941bbc3-e5cb-46e5-ae83-e4c5d8eedc88"
+		],
+		"title": "deelbaar, even, oneven, veelvoud, deler, priemgetal",
+		"id": "7414bc52-f7e0-43e5-b0d1-6f47bf1150d6",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"f7246148-05f1-4169-baaf-479c61d65ba3"
+		],
+		"title": "wortel, kwadraat, macht, breuk, teller, noemer, deelstreep, positief, negatief, decimaal",
+		"id": "6c470ee9-b43a-479b-896d-dbe8d506b8af",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"e9e183e4-1472-48f0-896f-3af74a3f19d0"
+		],
+		"title": "wortel, kwadraat, macht, breuk, teller, noemer, deelstreep, positief, negatief, decimaal",
+		"id": "abb0bc07-c98c-4457-b0c1-75259e0b16ed",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"a6a323d5-7868-46b9-a3e9-97f2702c69f6"
+		],
+		"title": "wortel, kwadraat, macht, breuk, teller, noemer, deelstreep, positief, negatief, decimaal",
+		"id": "d4b191bc-cc4e-42b8-ae6a-66a376915c41",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"5ffa744e-28cf-461e-bf5f-08e098e9ab2b"
+		],
+		"title": "wortel, kwadraat, macht, breuk, teller, noemer, deelstreep, positief, negatief, decimaal",
+		"id": "ea174e42-c5af-4794-9dc0-f22864581fb6",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"e76e5256-5d87-4cee-a76f-56042bf57ec1"
+		],
+		"title": "wortel, kwadraat, macht, grondtal, exponent, breuk, teller, noemer, deelstreep, positief, negatief, decimaal",
+		"id": "7c2d2260-20f1-4b95-9d9c-9ffccbfd55d4",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"e5e59568-c1c3-463d-978c-a3e126a9bd02"
+		],
+		"title": "wortel, kwadraat, macht, grondtal, exponent, breuk, teller, noemer, deelstreep, positief, negatief, decimaal",
+		"id": "dafd0a09-c37e-48a6-8102-0a679dd75162",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"c43ae9c2-2713-4f43-8050-b99ebbe396c7"
+		],
+		"title": "negatieve getallen",
+		"id": "8eea8de2-0384-4a92-ab3b-8188770147f3",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"b69d0f87-eaef-4192-9aca-c2e947062d4c"
+		],
+		"title": "negatieve getallen",
+		"id": "a0034214-af13-4bc4-8f4d-5462f40a8543",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"f7a96271-91ba-404a-b785-21d49194cd63"
+		],
+		"title": "negatieve getallen",
+		"id": "ebf7a61f-5e06-44e1-adc9-2097cb4535e4",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"38f83bbb-cb8f-46a0-98b9-1d08fe548754"
+		],
+		"title": "negatieve getallen",
+		"id": "d39613bb-5d91-4c2d-933b-2ddbbcd6a8db",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"1f1e8038-3d05-4964-9636-fd1c89522257"
+		],
+		"title": "negatieve getallen",
+		"id": "5199db8d-9e73-4c10-842e-bad892938c3c",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"bda35360-530e-4645-beed-2503f22f7589"
+		],
+		"title": "negatieve getallen",
+		"id": "1300666d-f7b8-43be-b1d6-7d48533cde0d",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"f1439c64-d3f3-46d3-9206-d155fde2b859"
+		],
+		"title": "π",
+		"id": "9734ab6a-633c-4ba5-855e-c110c058b254",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"84462a6d-9509-4a95-b918-98eb62a33d21"
+		],
+		"title": "π",
+		"id": "7c39e745-3a54-4f0d-82f8-1384b3c37754",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"9b21dc52-b42c-4afd-bf79-d3dd85c2db85"
+		],
+		"title": "π",
+		"id": "be97b5c7-8181-4dc3-a906-ad9c7b32f398",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"e3dbad85-953b-453a-9721-01480968e4b1"
+		],
+		"title": "π",
+		"id": "c99e79f1-7a6b-4d2a-80de-cb943e946b2c",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"6e4e993c-cf4c-4082-a963-1cfe5a5fc514"
+		],
+		"title": "π",
+		"id": "4e5a39d8-b5db-4cd0-a2c9-862cfe5ff482",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"a96230ef-ab00-4321-ae48-a01cae1a34f0"
+		],
+		"title": "haakjes, som, product, quotiënt",
+		"id": "e8b06243-24f4-41f3-8e7a-ad21f4da9040",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"d83f7320-867c-4a1c-a884-f60aac045978"
+		],
+		"title": "haakjes, som, product, quotiënt",
+		"id": "d7bdb130-76d4-4aa4-88d2-759f92a2ac7d",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"04f31d4a-3afc-462a-a5a5-9562ab440425"
+		],
+		"title": "haakjes, som, product, quotiënt, verschil",
+		"id": "94ff996a-f9b0-43d6-929f-60337d247dda",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"a31d1873-89ed-4efb-94d5-cd98ea52f25b"
+		],
+		"title": "haakjes, som, product, quotiënt, verschil",
+		"id": "8ea148ee-2df6-4a44-87f5-2e1b03f7d48b",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"20870141-b00e-4f6a-9123-a9d9d8926107"
+		],
+		"title": "haakjes, som, product, quotiënt, verschil",
+		"id": "59354656-faa5-45a7-bbb2-1ec43a1e691d",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"83bd345f-cfde-44ea-bd6f-254aff3a6506"
+		],
+		"title": "haakjes, som, product, quotiënt, verschil",
+		"id": "8eb38601-bef6-477b-8526-a1b377eba3d9",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"00bf391c-cee1-4e95-a6a4-d5f90a85c88a"
+		],
+		"title": "afronden, schatten",
+		"id": "a76523b1-4f30-41d9-abae-f7f6231db905",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"47339586-d6fb-4287-93d5-17611f00b3af"
+		],
+		"title": "afronden, schatten",
+		"id": "03114bc8-cc4f-4087-9fe4-674c84635dad",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"36a2ad26-769b-4769-b15d-8ae66f84c9b9"
+		],
+		"title": "afronden, schatten",
+		"id": "f6594e6d-0d45-494c-9390-90da98f90f08",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"28971e8b-23ab-4179-9dbb-9351b8ac6645"
+		],
+		"title": "afronden, schatten",
+		"id": "59db4e75-2270-4cdc-ac6e-d6f30ca11307",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"fea04582-4fb6-4ad6-8b62-87d814b41b69"
+		],
+		"title": "afronden, schatten",
+		"id": "89a9cd8d-e995-4d22-a721-01564edf73fd",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"836170b5-fd7b-4262-8d6c-b2df56dbdd7a"
+		],
+		"title": "afronden, schatten",
+		"id": "d6088d17-8e12-4c4b-a63a-84522dcfc43e",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"1060d7e3-6c9e-4553-a2e8-c5554fff6139"
+		],
+		"title": "verschil - en (-)",
+		"id": "94ba25d2-0376-48a5-8600-a4946236dbe9",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"e690f952-2f59-40ee-9271-7807f719f7af"
+		],
+		"title": "verschil - en (-)",
+		"id": "c2a2da5a-6f5b-4c8e-a48e-c9d82c9b22a3",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"54ce0c5c-3eaa-4dba-ab4d-aa45a97ac16b"
+		],
+		"title": "verschil - en (-)",
+		"id": "0de3cb1f-49b3-4999-bfc3-bbf1bdef0fbe",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"895b6b7d-ef61-46bd-b968-d6fbb38bfa33"
+		],
+		"title": "verschil - en (-)",
+		"id": "8c7f73fd-8019-4765-a791-5a6149bfcd3e",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"f7689782-7c68-4977-9c2c-5678213b28c0"
+		],
+		"title": "verschil - en (-)",
+		"id": "53543b88-6656-4825-985c-27aaa2e5bb3e",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"bdf29335-48ef-44f3-b164-3c5c53cdc50b"
+		],
+		"title": "verschil - en (-)",
+		"id": "9e94445c-a881-4b2a-a847-042093b03f22",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"5e92af49-ce8e-47a4-9c4d-0c894fee1280"
+		],
+		"title": "wetenschappelijke notatie",
+		"id": "c984d954-d23f-4a52-9c08-0e60bb8e2ae4",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"a3d6e06c-1564-48a6-a9fe-358ccbbf51f4"
+		],
+		"title": "wetenschappelijke notatie",
+		"id": "0595a8ed-d5b8-4d7a-a6f2-e5fabca78a16",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"5208fb5b-bc96-4e3b-88e9-f539a41f5c30"
+		],
+		"title": "substitueren",
+		"id": "d0b68d42-f193-4b1c-afc2-c8713a83594f",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"772fd6b3-c6a3-479a-97b9-811bfc2850dd"
+		],
+		"title": "substitueren",
+		"id": "37762fc3-2216-4fd7-9101-c9a7e529cbdc",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"36692aa4-c3d6-4288-8cd8-af5800513d2e"
+		],
+		"title": "gelijkwaardig met, term, factor, variabele",
+		"id": "4a9f6b47-3b00-468a-8917-9ca760493b30",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"69814c4e-e814-479f-9ae3-2bddb34a398c"
+		],
+		"title": "gelijkwaardig met, term, factor, variabele",
+		"id": "10363d7b-1fad-4c19-987b-19452eb5daf8",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"e266472b-e0e5-4eb5-83a9-1cfc38d46037"
+		],
+		"title": "herleiden, ontbinden, vereenvoudigen",
+		"id": "65864044-064c-4e8b-9220-920cf2449192",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"898b89dc-63d2-41d1-ae59-f48d75decc70"
+		],
+		"title": "herleiden, ontbinden, vereenvoudigen",
+		"id": "9f764731-779c-4801-9274-039f07dafa9e",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"e90da60b-01b7-416a-accf-d6299f1e6841"
+		],
+		"title": "merkwaardig product",
+		"id": "292d9c88-08fa-49cd-a2d1-78d94a6d0e07",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"21528120-04b4-4e10-8d8c-950064d4aee9"
+		],
+		"title": "merkwaardig product",
+		"id": "877444c8-2ced-4a88-b702-0c8b5abeb45c",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"56b1feab-1739-4364-8bb2-c9e539f120cb"
+		],
+		"title": "per, deel van, op de, van de, staat tot, procent, percentage, in verhouding",
+		"id": "6bb8ce3b-8b66-4e80-a338-56fa052da92d",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"aaf67b9a-0f74-426b-b5ac-ad35d4f0c8d0"
+		],
+		"title": "per, deel van, op de, van de, staat tot, procent, percentage, in verhouding",
+		"id": "cbb18450-1066-4424-b8c6-68b7ab11df9b",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"666bc8bd-418c-4a82-b5c8-271671723c71"
+		],
+		"title": "per, deel van, op de, van de, staat tot, procent, percentage, in verhouding",
+		"id": "f4ed6157-c18c-4dbd-b1b9-716f609c224f",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"8d134118-40ab-4ffe-9a9b-a3299fab874c"
+		],
+		"title": "per, deel van, op de, van de, staat tot, procent, percentage, in verhouding",
+		"id": "c02e85c2-f47a-4b56-b1d1-ccf4cea94316",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"c0ecfc50-7444-4d14-a176-6c2672d56f45"
+		],
+		"title": "relatief, absoluut, per, deel van, op de, van de, staat tot, procent, percentage, evenredigheid, in verhouding",
+		"id": "ab01b83e-ef66-4657-b7a6-9c33a786ac65",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"f826ad8d-acad-44ed-96ab-8fc02fc8ffa9"
+		],
+		"title": "relatief, absoluut, per, deel van, op de, van de, staat tot, procent, percentage, evenredigheid, in verhouding",
+		"id": "7fb0991e-9ae3-4890-8100-d933dee7bb72",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"48155653-2b16-49e1-90b7-7ded90a32ea2"
+		],
+		"title": "schaal",
+		"id": "4f07d15f-0526-47fd-b7a6-fc0405058308",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"c9cf9a2c-4cbe-4b63-9d5d-12faae276a6e"
+		],
+		"title": "schaal",
+		"id": "23827cc4-852a-4328-b05a-da4fd5ad22e4",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"dd922ca3-076a-4059-9c36-9f07440b65bb"
+		],
+		"title": "schaal",
+		"id": "da0bb309-8cfd-4157-baf7-73337abf5aa5",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"707b3b44-423a-4269-8460-c7ddf4c47594"
+		],
+		"title": "schaal",
+		"id": "29ba3b6e-3f1c-4f7c-86d2-98e7bfe4268b",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"685536d4-e8a0-49b8-937a-1db2dab8bc61"
+		],
+		"title": "schaal",
+		"id": "da31aa57-8f46-4fbe-a385-b27a6b379f72",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"52254424-c2ff-4153-8966-3e8d3f0b0f5e"
+		],
+		"title": "schaal",
+		"id": "c6e8ff98-425d-465f-b0e4-5b2491c6ad64",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"07ba3fba-ce35-48bf-b961-b50b46152155"
+		],
+		"title": "vergrotingsfactor, (verhoudings)factor, verhoudingstabel",
+		"id": "35a6f106-6f3a-4dbf-91c6-68a037017ce9",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"b6bf6ee6-ef55-423f-b050-b1fd3ff73fb6"
+		],
+		"title": "vergrotingsfactor, (verhoudings)factor, verhoudingstabel",
+		"id": "ae85e862-9c40-4f78-a647-f949efd001a3",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"3fa4cf61-80f9-4e4d-ae21-774cef1e78bf"
+		],
+		"title": "vergrotingsfactor, (verhoudings)factor, verhoudingstabel",
+		"id": "f0d43749-c3d3-4c6d-a09e-79adfc5bbd1a",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"7415aa7b-8280-4952-90f5-1b83a93aebf4"
+		],
+		"title": "vergrotingsfactor, (verhoudings)factor, verhoudingstabel",
+		"id": "54c69837-4e2d-4751-afa6-1ee78c2556bd",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"3d2e93c9-4343-4b6f-b45d-2fc552c9d632"
+		],
+		"title": "vergrotingsfactor, (verhoudings)factor, verhoudingstabel",
+		"id": "f34a22d1-5776-411d-85d2-77d8a9f283de",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"16e92287-bcbd-4a7a-a733-de5c8fe6ed3c"
+		],
+		"title": "vergrotingsfactor, (verhoudings)factor, verhoudingstabel",
+		"id": "73937cbb-a9db-48d3-a89b-bdc1833d6424",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"cf0d36b2-341e-422f-9b68-dbd242dff5dc"
+		],
+		"title": "(vermenigvuldigings)factor",
+		"id": "97790801-2c18-4721-94df-ff58df8e1a69",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"341eda9b-18d5-48e1-85c2-cb66f851ee1b"
+		],
+		"title": "(vermenigvuldigings)factor",
+		"id": "67941fb4-978b-4789-9fb5-349023c4bcdd",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"576bc8f8-ec97-49e1-9bb0-ca3e7e245054"
+		],
+		"title": "(vermenigvuldigings)factor",
+		"id": "ef23bc59-06b6-4765-b922-ae03a2c56590",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"4364b853-8aad-4f4d-b387-e157d9ca65d5"
+		],
+		"title": "(vermenigvuldigings)factor",
+		"id": "30173866-7acd-434a-9562-5d0f40706285",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"36c62676-f100-4144-bf2c-26c864effe9b"
+		],
+		"title": "(vermenigvuldigings)factor",
+		"id": "df7e950c-ab10-46fd-984e-41818e677c19",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"5647ed84-84a5-4c05-88de-94b46d88b95b"
+		],
+		"title": "rechte hoek, stompe hoek, scherpe hoek, gestrekte hoek, graden, <, ∟, (┐),⁰,",
+		"id": "3693f882-6787-47f0-ad1d-68d32486bf96",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"231def6d-50d1-43c7-9220-c0e9951a5f7a"
+		],
+		"title": "rechte hoek, stompe hoek, scherpe hoek, gestrekte hoek, graden, <, ∟, (┐),⁰,",
+		"id": "2fa09fa8-b235-4d17-8831-03490f00cde9",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"dc4d197e-04d2-40ae-bc5e-2e5b69dcf0ad"
+		],
+		"title": "rechte hoek, stompe hoek, scherpe hoek, gestrekte hoek, graden, <, ∟, (┐),⁰,",
+		"id": "aa6db033-6b08-4a5b-98b8-e60d6943d875",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"3c00dc56-dcf7-4af1-947c-317abf152199"
+		],
+		"title": "rechte hoek, stompe hoek, scherpe hoek, gestrekte hoek, graden, <, ∟, (┐),⁰,",
+		"id": "31adde51-4900-44b4-8cfe-de2922c16cdf",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"f9c9fd20-7f6c-44e7-a67a-21cbc79dc122"
+		],
+		"title": "rechte hoek, stompe hoek, scherpe hoek, gestrekte hoek, graden, <, ∟, (┐),⁰,",
+		"id": "f0aabc49-c8f6-4f2c-bdf3-ce5a0345b493",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"bff1868a-62b9-4c8b-a1db-891fa49be55e"
+		],
+		"title": "rechte hoek, stompe hoek, scherpe hoek, gestrekte hoek, graden, <, ∟, (┐),⁰,",
+		"id": "d041d5ec-4d18-45d1-a2d1-74c923262829",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"ff2f4f01-b037-4f74-9106-4b72238abd24"
+		],
+		"title": "afstand, omtrek, oppervlakte, inhoud",
+		"id": "b70df1e5-798f-4d24-bf5d-d222f46bc6b7",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"ea6855ad-e5dd-497f-96c1-30884e514b25"
+		],
+		"title": "afstand, omtrek, oppervlakte, inhoud, stelling van Pythagoras",
+		"id": "9219facc-a793-48be-9e61-5daaed2b92ba",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"84b0aeb2-c72c-4c85-8290-699604f3a7b6"
+		],
+		"title": "afstand, omtrek, oppervlakte, inhoud, stelling van Pythagoras",
+		"id": "c1b6cc53-030c-46eb-a0ec-d9faa447c40b",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"4a65fb21-67d6-46ea-8973-3f30cfb12574"
+		],
+		"title": "afstand, omtrek, oppervlakte, inhoud, stelling van Pythagoras",
+		"id": "2bedb3db-efb7-4a0c-a330-71d3d8a58abd",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"2f3c2868-a7bc-49d8-b366-98c8a4ca2ba1"
+		],
+		"title": "afstand, omtrek, oppervlakte, inhoud, stelling van Pythagoras",
+		"id": "e1827d7e-85ba-49b7-9895-96a84f678e36",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"d96d367e-d381-4d89-b43f-c2e7c6f50785"
+		],
+		"title": "afstand, omtrek, oppervlakte, inhoud, stelling van Pythagoras",
+		"id": "ef5f9ee5-7f91-4e5b-b4ee-1b81c98f3667",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"229e510b-7dd9-4c41-b26d-4a26dd018ca2"
+		],
+		"title": "F-hoeken, Z-hoeken, overstaande, hoeken, goniometrische verhoudingen, sinus, cosinus, tangens, hellingshoek",
+		"id": "57003548-9ef2-4513-9203-fbb39035d66f",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"5ed39b45-9da7-4994-9ab8-bfe00fa5bb7f"
+		],
+		"title": "F-hoeken, Z-hoeken, overstaande, hoeken, goniometrische verhoudingen, sinus, cosinus, tangens, hellingshoek",
+		"id": "c8b1e34c-9b9f-473e-8aec-608d6faf7419",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"2dab6e2e-6cdb-414e-989e-14a8ebb72a91"
+		],
+		"title": "kijklijn, aanzicht, uitslag, lijnsymmetrie, doorsnede, plattegrond",
+		"id": "928eea41-b585-4137-95a3-794f17c3cd32",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"842e5d9c-cb32-43fe-910a-8820fa97c2c6"
+		],
+		"title": "kijklijn, aanzicht, uitslag, lijnsymmetrie, doorsnede, plattegrond",
+		"id": "78d36303-21ec-4bfc-9f71-eb53dc8ff027",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"2b9e7e0c-7db5-4341-bbb9-e321d126ba9f"
+		],
+		"title": "kijklijn, aanzicht, uitslag, lijnsymmetrie, doorsnede, plattegrond",
+		"id": "cfed0951-de37-47b9-a57c-8c501e008f87",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"267a2020-6138-4dda-870f-896b5cad5042"
+		],
+		"title": "kijklijn, aanzicht, uitslag, lijnsymmetrie, doorsnede, plattegrond",
+		"id": "bbb3ef28-7789-4b4c-aa26-a5e4b48126c8",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"8f87fb93-0b9a-467f-a066-ec253b704c9f"
+		],
+		"title": "kijklijn, aanzicht, uitslag, draai-, lijn- en puntsymmetrie, meetkundige constructie, doorsnede, plattegrond",
+		"id": "872536f9-2f7c-4581-84a4-b74945833750",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"91c663ab-14bb-4c31-8799-f3e0c14d0fe6"
+		],
+		"title": "kijklijn, aanzicht, uitslag, draai-, lijn- en puntsymmetrie, meetkundige constructie, doorsnede, plattegrond",
+		"id": "5c87a7dd-f70d-4e6f-8a2b-6502a608af95",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"e2cc5c27-792e-4120-8b25-3b7c9958f619"
+		],
+		"title": "driehoek, parallellogram, vierkant, rechthoek, ruit, cirkel, kubus, balk, prisma, piramide, cilinder, kegel, bol",
+		"id": "bc62421d-a347-42eb-9d05-5d68f0df3f8c",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"c70257b4-913f-4dc5-a1c0-5ef2f7b96064"
+		],
+		"title": "driehoek, parallellogram, vierkant, rechthoek, ruit, cirkel, kubus, balk, prisma, piramide, cilinder, kegel, bol",
+		"id": "15b5aa86-008e-4b2f-8104-e33a361ae509",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"b929d963-412e-4707-b8e4-8ec5ee1bb92b"
+		],
+		"title": "driehoek, parallellogram, vierkant, rechthoek, ruit, cirkel, kubus, balk, prisma, piramide, cilinder, kegel, bol",
+		"id": "20dd62fb-dde8-45fb-9688-327105ef9be3",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"d4b32e02-5bfc-4be3-a7b0-44fa02ad0abb"
+		],
+		"title": "driehoek, parallellogram, vierkant, rechthoek, ruit, cirkel, kubus, balk, prisma, piramide, cilinder, kegel, bol",
+		"id": "96ffc7b0-10a6-4763-8615-38a5e27d063c",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"5bd110b6-89fc-4179-8f66-c1110f3e4654"
+		],
+		"title": "driehoek, parallellogram, vierkant, rechthoek, ruit, cirkel, kubus, balk, prisma, piramide, cilinder, kegel, bol, trapezium, veelhoek",
+		"id": "6be8eb82-9003-41bc-8b6e-8785b9520cee",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"f970eb98-c229-4a4e-925e-fa3aeeea95cf"
+		],
+		"title": "driehoek, parallellogram, vierkant, rechthoek, ruit, cirkel, kubus, balk, prisma, piramide, cilinder, kegel, bol, trapezium, veelhoek",
+		"id": "9fd97a8c-b175-4ad4-9d92-1316cefed159",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"603b86a5-d03f-4650-a441-e397628fff6f"
+		],
+		"title": "straal, middelpunt, diameter, middellijn, gelijkbenig, gelijkzijdig, rechthoekig, hoogtelijn, uitslag, zijvlak, ribbe, hoekpunt, loodrecht, evenwijdig, // en Δ",
+		"id": "899f7002-7156-44da-8e19-33665a6fe156",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"ac5adca7-4270-4ee7-942b-d9999be4977c"
+		],
+		"title": "straal, middelpunt, diameter, middellijn, gelijkbenig, gelijkzijdig, rechthoekig, hoogtelijn, uitslag, zijvlak, ribbe, hoekpunt, loodrecht, evenwijdig, // en Δ",
+		"id": "1835ddb5-4564-43f1-a459-e2a5b7e118d3",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"ab772651-4238-4868-85ea-7cf4793cd06e"
+		],
+		"title": "straal, middelpunt, diameter, middellijn, gelijkbenig, gelijkzijdig, rechthoekig, hoogtelijn, uitslag, zijvlak, ribbe, hoekpunt, loodrecht, evenwijdig, // en Δ",
+		"id": "44109237-222d-43e9-9121-f691bffe9636",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"8a0d0a7a-5b80-44ce-8850-8010ac456a2d"
+		],
+		"title": "straal, middelpunt, diameter, middellijn, gelijkbenig, gelijkzijdig, rechthoekig, hoogtelijn, uitslag, zijvlak, ribbe, hoekpunt, loodrecht, evenwijdig, // en Δ",
+		"id": "438cf6c2-ff63-472d-a5bd-0a4c0144de1e",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"26e83897-b619-417e-97a5-a6d19197e6cf"
+		],
+		"title": "straal, middelpunt, diameter, middellijn,\r\ngelijkbenig, gelijkzijdig, rechthoekig,\r\n(lichaams)diagonaal, diagonaalvlak, loodlijn,\r\nmiddelloodlijn (van een zijde), deellijn (van een hoek), zwaartelijn, zwaartepunt, hoogtelijn (in een driehoek), symmetrieas, uitslag, zijvlak, ribbe, hoekpunt, loodrecht, evenwijdig, // en Δ",
+		"id": "e25c37fa-28d8-4157-a5fa-828d3faff923",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"002b8790-6449-47f6-be6f-dde5a059c15f"
+		],
+		"title": "straal, middelpunt, diameter, middellijn,\r\ngelijkbenig, gelijkzijdig, rechthoekig,\r\n(lichaams)diagonaal, diagonaalvlak, loodlijn,\r\nmiddelloodlijn (van een zijde), deellijn (van een hoek), zwaartelijn, zwaartepunt, hoogtelijn (in een driehoek), symmetrieas, uitslag, zijvlak, ribbe, hoekpunt, loodrecht, evenwijdig, // en Δ",
+		"id": "430c0219-98a0-4328-a83b-7830e9c0e05c",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"38ff1ed9-8ea8-4a05-a5b4-ab8b12da0ddd"
+		],
+		"title": "in- en omgeschreven cirkel van een driehoek, de deellijn van een hoek, de loodlijn op een lijnstuk",
+		"id": "81a1f49c-2564-4d8d-a60f-02339c69c090",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"b9d76341-2e25-4759-b605-c9102d2b8908"
+		],
+		"title": "in- en omgeschreven cirkel van een driehoek, de deellijn van een hoek, de loodlijn op een lijnstuk",
+		"id": "60420e83-6b46-46e2-8a22-19af5ceeef97",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"64be77ef-260f-4c52-bf10-ba0e86dba949"
+		],
+		"title": "evenwijdige lijnen, snijdende lijnen, richting, afstand, gelijkvormigheid",
+		"id": "83cd175d-f502-4ede-9d1f-23bf350dfc6a",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"93b13ebc-78ca-4e23-ade9-2c3385f71e4c"
+		],
+		"title": "evenwijdige lijnen, snijdende lijnen, richting, afstand, gelijkvormigheid",
+		"id": "0206cf7d-6058-411d-9663-f39ca45ff3cd",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"1e7458d9-aba8-4ad9-80fe-e122ed55731e"
+		],
+		"title": "tabel, (woord)formule, grafiek",
+		"id": "a0469e5b-e11a-4013-90ac-0ce9bb6ebc84",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"4d5a801a-85b3-48f1-a28d-1390ba7a8179"
+		],
+		"title": "tabel, (woord)formule, grafiek",
+		"id": "65031493-7126-4b50-9c1f-b7298695f900",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"467e69e2-2463-49cc-ad68-9f4f001ab916"
+		],
+		"title": "tabel, (woord)formule, grafiek",
+		"id": "51921c18-8f87-4ee2-b0a9-b4b25b100278",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"28f5a791-f55d-447b-99dc-0a60dfe887e9"
+		],
+		"title": "tabel, (woord)formule, grafiek",
+		"id": "be489f07-abbc-4b58-8980-9e7252f5cbef",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"16e23f4e-a0fd-4382-879a-512ca310d17a"
+		],
+		"title": "tabel, (woord)formule, grafiek",
+		"id": "bb69b023-0bba-4cf8-afc3-4bf04563caf8",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"bd2fe932-30e9-4c07-b5d5-63f8185db487"
+		],
+		"title": "tabel, (woord)formule, grafiek",
+		"id": "779700d2-22ac-4136-9011-74186e2f68f1",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"0b796ce9-5750-4a9c-82c8-6c3ba9a58850"
+		],
+		"title": "stijgen, dalen, constant, minimum, maximum, periodiek",
+		"id": "15081a53-2fd3-4d23-b7c6-cffa76818240",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"42f5deb7-c242-4c97-ad9f-87ffecdd010a"
+		],
+		"title": "stijgen, dalen, constant, minimum, maximum, periodiek",
+		"id": "cb7b59b5-376e-487b-965a-05ea362f7f91",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"328fa062-3d04-4d62-a0c1-3aa85313b866"
+		],
+		"title": "stijgen, dalen, constant, minimum, maximum, periodiek",
+		"id": "cbeecc10-a907-47f2-b0a3-e1bc3e992280",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"8ee65bd0-e55a-4c1d-9871-6cc5a02f5c1f"
+		],
+		"title": "stijgen, dalen, constant, minimum, maximum, periodiek",
+		"id": "970e1041-ecec-4658-a8fa-08eadf669ce6",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"35c91ec4-c304-4378-be97-3b0aae43212e"
+		],
+		"title": "stijgen, dalen, constant, minimum, maximum, top, dal, helling, periode, amplitude, evenwichtsstand",
+		"id": "22452d75-d844-4db1-a859-f9092113e5c4",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"03818843-307a-4e2c-a385-486527276510"
+		],
+		"title": "stijgen, dalen, constant, minimum, maximum, top, dal, helling, periode, amplitude, evenwichtsstand",
+		"id": "57b2536b-0e95-4c3d-8b08-121b4e195918",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"bae39a5a-4ab2-4756-a7ff-bbdcca3e371f"
+		],
+		"title": "snijden, snijpunt, assen(stelsel), coördinaten, eenheid",
+		"id": "a4d662e0-92fe-476f-9f7b-d45f7148a6a8",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"93b870b0-9080-4ead-bd1a-4517839d10b1"
+		],
+		"title": "snijden, snijpunt, assen(stelsel), coördinaten, eenheid",
+		"id": "fc114e14-ed5c-4b41-91d4-4a3296175178",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"279fa01c-09cd-40af-bcd7-361efe218fea"
+		],
+		"title": "snijden, snijpunt, assen(stelsel), coördinaten, eenheid",
+		"id": "8b7ee98a-a50c-4733-9c5f-10f2df558a08",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"21c44809-63f1-4e1f-8394-d5045ce99b32"
+		],
+		"title": "snijden, snijpunt, assen(stelsel), coördinaten, eenheid",
+		"id": "b3b7948e-c863-499c-87d1-b2f9efb5b778",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"a384894d-8fbc-4650-a132-8250dfa49eb7"
+		],
+		"title": "snijden, snijpunt, assenstelsel, coördinaten, afhankelijke en onafhankelijke variabele, grootheid, eenheid",
+		"id": "65ea8bd3-406a-4734-b6bc-c094678a41fe",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"1c896596-c243-4233-87f5-c62956b77dd4"
+		],
+		"title": "snijden, snijpunt, assenstelsel, coördinaten, afhankelijke en onafhankelijke variabele, grootheid, eenheid",
+		"id": "21af51ce-6093-4bd2-a347-f995e9057bf4",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"a769bd96-dbfb-4599-9707-f2d7e532bb12"
+		],
+		"title": "omgekeerd evenredig, hyperbool, wortelformule, machtsverband, periodiek",
+		"id": "47927b14-585e-4eb4-86f5-44e5cc5af31d",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"acc7edeb-88e6-4b4c-8bda-d10911a18492"
+		],
+		"title": "omgekeerd evenredig, hyperbool, wortelformule, machtsverband, periodiek",
+		"id": "1a16c045-a621-4728-b253-b8d3769f307b",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"a3d75c82-5a2a-4029-86ae-2980bf26f724"
+		],
+		"title": "steilheid, rechte lijn, startgetal (vast deel), richtingscoëfficiënt of helling (variabel deel)",
+		"id": "0a234b37-fee5-4744-aba5-f48f9989154a",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"73f516c3-de28-447c-ae43-a5f1c2c46de6"
+		],
+		"title": "steilheid, rechte lijn, startgetal (vast deel), richtingscoëfficiënt of helling (variabel deel)",
+		"id": "0aee3759-864a-4a08-b395-55bb88bfc8f7",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"db542a0b-81e2-4dc8-a6a7-234ca7dcc1c4"
+		],
+		"title": "steilheid, rechte lijn, startgetal (vast deel), richtingscoëfficiënt of helling (variabel deel)",
+		"id": "c407a513-729b-40f4-a99c-2702d312b666",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"d8d4592b-dc6e-41f1-8207-8236b37645b6"
+		],
+		"title": "steilheid, rechte lijn, startgetal (vast deel), richtingscoëfficiënt of helling (variabel deel)",
+		"id": "cd186b3f-a943-4c74-9724-a2d6e7bc49cd",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"d15df33d-9256-42ae-80b5-5a660373391e"
+		],
+		"title": "steilheid, rechte lijn, startgetal (vast deel), richtingscoëfficiënt of helling, (variabel deel), lineair",
+		"id": "579ca859-68a2-4bae-af1e-92c0211ae560",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"394bfc56-c07b-45c3-add1-54cccf7657a7"
+		],
+		"title": "steilheid, rechte lijn, startgetal (vast deel), richtingscoëfficiënt of helling, (variabel deel), lineair",
+		"id": "6c1280d0-5501-42e4-8932-355f536b4823",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"ce65fd1d-ab15-43c1-aea9-193bac11392e"
+		],
+		"title": "(recht) evenredigheid",
+		"id": "b4d6541f-94d0-4758-be93-1591f6d30981",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"8f29dedd-2f45-4a5c-bda6-9636fd2de3b0"
+		],
+		"title": "(recht) evenredigheid",
+		"id": "a8595052-1d9d-4619-9469-c802a1f9805b",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"5cef7303-2f82-4b5a-a8c6-ff04cb8fa9a3"
+		],
+		"title": "groeifactor, beginhoeveelheid, exponentieel",
+		"id": "91d154ec-6410-494a-8d58-71047eb97a8c",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"29f67b50-83b2-47a3-a201-e37bd82e569c"
+		],
+		"title": "groeifactor, beginhoeveelheid, exponentieel",
+		"id": "0b72839b-4fd7-4cf9-ac7d-8a5a33ac4a48",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"d6239b31-be42-43d1-bf5e-017556270844"
+		],
+		"title": "dalparabool, bergparabool, symmetrieas, top, kwadratisch",
+		"id": "3d25c7a0-c4eb-40bb-8de6-c2782682c6e2",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"4ad4ea4d-3dc4-435d-8f05-0e288fcc4da8"
+		],
+		"title": "dalparabool, bergparabool, symmetrieas, top, kwadratisch",
+		"id": "e438638b-672f-47ee-bf99-f3d7bbd646a8",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"5f08c33e-aa6c-40c2-843e-9251c14cfe5a"
+		],
+		"title": "vergelijking",
+		"id": "80fa3dbb-bd52-431a-bc5d-ff217ea57c67",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"6f6c406b-2056-4d6f-b546-adad0abcb64d"
+		],
+		"title": "vergelijking",
+		"id": "a947b935-0f7f-46f1-8aa0-c00944bcb082",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"88f64a1b-a1f6-4f75-b1c5-b3057847601f"
+		],
+		"title": "vergelijking",
+		"id": "c6ef00fb-f9fe-4a4a-b805-82716c7ab7b1",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"d0075dfe-0acf-4823-825e-6af0aacd8945"
+		],
+		"title": "vergelijking",
+		"id": "7f2d2b5f-3335-4f43-b1f5-e5a44395120b",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"032f3579-cbac-4e49-972f-bd95793673d3"
+		],
+		"title": "vergelijking",
+		"id": "87755a9a-9101-4924-8adc-366c564dc51d",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"97c4409e-1983-4163-b81e-a6138b4c065d"
+		],
+		"title": "abc-formule",
+		"id": "d4d341d0-28b4-4a5f-b359-6ca4463fc778",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"7a32d1a4-49f0-47f2-a4e1-f40df89a7f45"
+		],
+		"title": "abc-formule",
+		"id": "cf92c628-3006-4cc1-9c94-1ab362a1cfd9",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"177b5063-1953-4729-b0a6-c04d9f5bcdb1"
+		],
+		"title": "derdemachtswortel",
+		"id": "a4f6ab29-0fd0-436e-a7cf-7f11c2109f99",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"0933028d-8fa8-4e2a-8f96-be36059385d5"
+		],
+		"title": "derdemachtswortel",
+		"id": "9440a0c1-c834-43f7-958d-6b0a8129f2b8",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"616992f2-5c01-4b9c-8e08-677c916b1430"
+		],
+		"title": "ongelijkheid",
+		"id": "772cdddb-c4dd-4294-9e5e-f7fd83d9ef86",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"c10763ab-d962-44c4-943d-2c39f573a52a"
+		],
+		"title": "ongelijkheid",
+		"id": "c5b5af35-0335-4ead-b123-685731270a2c",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"c68b701f-0332-449d-aeb3-9458a5c028bc"
+		],
+		"title": "gemiddelde, modus, mediaan, kwartielafstand, spreidingsbreedte",
+		"id": "f7fb8dbc-47fc-4701-ba98-b940add10919",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"e5feacea-929e-4502-948f-43a274fd6957"
+		],
+		"title": "gemiddelde, modus, mediaan, kwartielafstand, spreidingsbreedte",
+		"id": "6e21ff71-dc0d-444e-b91f-b6961cd17047",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"7d3e50f7-c0df-4e1c-a892-d9e41db61826"
+		],
+		"title": "absolute en relatieve frequentie, frequentietabel, staafdiagram, cirkeldiagram, boxplot, steel-bladdiagram, histogram, lijndiagram, klassenbreedte,  klassenmidden",
+		"id": "28f6f7e8-23ce-4ce3-9b07-609d719077e5",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"6c56dc5e-71aa-4327-8305-5b80ca47b020"
+		],
+		"title": "absolute en relatieve frequentie, frequentietabel, staafdiagram, cirkeldiagram, boxplot, steel-bladdiagram, histogram, lijndiagram, klassenbreedte,  klassenmidden",
+		"id": "3600a1d6-94da-4a71-85ca-ad76be5017a7",
+		"unreleased": true
 	}
 ]
