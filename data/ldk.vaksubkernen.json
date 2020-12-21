@@ -5669,5 +5669,389 @@
 		"title": "Reflectie",
 		"id": "69939c06-7c0e-4e1d-b849-d649b8cad96d",
 		"unreleased": true
+	},
+	{
+		"prefix": "wisA/1/1",
+		"lpib_vaksubkern_id": "3dbb5859-604c-499c-a97b-5eed8c73e344",
+		"doelniveau_id": [
+			"0b953636-13c2-482c-82fb-6d49f28a8437",
+			"b892336e-4d01-488d-a19e-78dc8b040efa",
+			"e9d0f5ec-402b-4bb7-93b5-4d583459503f",
+			"43b15b00-b78d-4929-b57f-0788dc51bc33",
+			"c4189f68-68a5-4723-90bf-cf8d15fd4e15",
+			"d79ba2cf-e712-402c-9fda-f938a7e1e897",
+			"a745870f-09fd-4684-96f4-53961fc37a9e",
+			"8ae35bfd-ba5a-48eb-b1d7-9b31797554b2"
+		],
+		"title": "Wiskundige informatie",
+		"id": "17a69d94-74a1-4517-bdfd-449579923ff6",
+		"unreleased": true
+	},
+	{
+		"prefix": "wisA/1/2",
+		"lpib_vaksubkern_id": "8c85d214-9434-43fa-b35e-6b67c4b088d9",
+		"doelniveau_id": [
+			"740e0a49-e551-4559-aed6-2c49ec967801",
+			"2ea89f65-03ac-41eb-9da1-499e45df3cba",
+			"809f6b8c-3f13-4d77-b6c7-ed2db5f73cd4",
+			"62c4a261-ab1a-40eb-9d41-284b70fac8c5",
+			"b4674f8b-0fa5-419e-9e44-886a9bb02558",
+			"393ee143-42ff-4e98-a36d-2ef7630067c0",
+			"bce2789a-a24b-4389-8b78-2aa376a6720a",
+			"72f922da-3d05-4597-a53d-47751b88dc3a",
+			"3019af1a-9adf-44d0-9ee3-27d80edcabd6",
+			"bef8a40d-3142-4a4f-9383-fd9e24b6fb36",
+			"41135b20-9ff1-4f99-b04c-5dda50ba1a11",
+			"291babdf-7897-4ca5-a205-d271334ea605",
+			"6c7cc6e1-8425-4e04-8916-2ff643fbd532",
+			"cb61fd78-e5bb-4ba7-951b-b60dd32c4f5a",
+			"5414b2b1-323c-4f71-a10d-569a3179f921",
+			"cfecd018-66bd-498f-806a-a5ec4d782c8a",
+			"74c2153c-d1d6-4008-8304-10804991c60f"
+		],
+		"title": "Wiskundige communicatie",
+		"id": "bf8e4fc2-76cf-4fcf-bb9a-8a6dc44d09cb",
+		"unreleased": true
+	},
+	{
+		"prefix": "wisA/1/3",
+		"lpib_vaksubkern_id": "91672d8a-640c-4ae6-af6d-d2ae041d0d13",
+		"doelniveau_id": [
+			"4ef3534f-ecf0-439c-bcb6-592468d52500",
+			"7cea6a9c-92f3-43f1-bccb-ee9a1b2822f2",
+			"fc9037fd-524f-4407-ae00-3c7fce52ebd0",
+			"3f0aa6d7-e38a-4a6f-92c6-9e76229a5698",
+			"a3ec5b6a-74be-4ae0-8549-0e28df60ca7c",
+			"f7fbb47a-4821-4e8c-8b81-e20ea30cd520"
+		],
+		"title": "Wiskundig redeneren",
+		"id": "674a6337-2794-488e-9b47-1a03f032fc86",
+		"unreleased": true
+	},
+	{
+		"prefix": "wisA/1/4",
+		"lpib_vaksubkern_id": "ec3cbfbd-1a9b-4355-a284-8ac3ad887395",
+		"doelniveau_id": [
+			"d2b4e6ab-380d-4fdc-af73-a6b7ee2c493f",
+			"dfc3590f-593c-4937-980a-fab726007342",
+			"6ae1a457-00ee-41ff-8ab6-95ef9b607af0",
+			"6d31a3fd-dc4a-4bbe-aa0c-2c89cffc9650",
+			"856feaf2-0fc4-4948-ad71-968a6d28e738",
+			"7a8e6939-e058-43cb-9833-a8be75e33502",
+			"c82647ad-e4ab-436f-b295-a33d28e8d8bd",
+			"aacb5b3a-da1d-41d7-be84-b778f571dc8e",
+			"036be694-de14-46e1-a467-86cc6ddb057d",
+			"b6bcd783-7578-4f4e-97ce-c8ad5ad7a1a3",
+			"b9afcb3f-b33b-456c-a6ac-8b52fa38f9ab",
+			"852df6a9-f751-467f-a9af-ec0ff856b692",
+			"6dfdd0e8-d6e6-4bd7-93d6-7024467875b2",
+			"d560b996-eb8c-45be-a6ae-33c090d05c8a",
+			"af74e79c-c7df-4e89-a381-5392f48d192c",
+			"824d0729-1559-4df2-a239-f10a97676086"
+		],
+		"title": "Wiskundige vaardigheden",
+		"id": "4fb8497e-2387-488f-b0ae-0c2af346e4ec",
+		"unreleased": true
+	},
+	{
+		"prefix": "wisA/2/1",
+		"lpib_vaksubkern_id": "5b12b579-6de7-4d85-bcac-3f85dd3ace07",
+		"doelniveau_id": [
+			"786053ed-fa75-46b1-8b81-6af0c90c3e3d",
+			"c935bb02-13e7-4e68-ac73-9dc09d60b7cd",
+			"23412515-3470-4c16-8546-cd8e2c2f9b5c",
+			"7cb1c9f1-b689-411f-b005-c3ee3e035aad",
+			"53e7e698-9b0a-4c8c-89c2-f88e4a0e0155",
+			"35dfd018-9d74-46ef-8209-cb3bc9882f7a",
+			"6e214f60-f189-4a41-94b5-fda6cb0d4da0",
+			"12bc100f-0ef7-438a-839b-4b93cab1a88f",
+			"6c4fab18-1fc9-4365-b11b-87c0a0af68ca",
+			"a7a6d4a4-7632-4bc8-a4e2-2b3d2e2facbb",
+			"0069c611-0ce5-447b-b025-3eeacfac88e3",
+			"0c0d6f90-e40a-4143-999b-df2928423a95",
+			"2a696296-1f11-4fee-91d9-c5e513813f66"
+		],
+		"title": "Rekenen met getallen",
+		"id": "87ed687c-a80b-451a-8491-13d9760bf46c",
+		"unreleased": true
+	},
+	{
+		"prefix": "wisA/2/2",
+		"lpib_vaksubkern_id": "8c013694-246e-4492-9b2c-b675d4870b1f",
+		"doelniveau_id": [
+			"08554907-b880-4d2c-a455-23aa07042e61",
+			"ca3f0e65-652c-4f36-bd7f-78bd9522fad4",
+			"119db1b6-4997-411e-ac6b-d8f40f58a06d",
+			"c99cf960-c28f-4cfb-8b44-4d2fbd9e7553",
+			"e8e85321-d8d5-4873-8a23-10e6925b9c98",
+			"50ba02ed-f751-4c0c-8246-caf9f69678ff"
+		],
+		"title": "Rekenen met variabelen",
+		"id": "f06d0bec-9dde-431c-935d-9734f2f4e35c",
+		"unreleased": true
+	},
+	{
+		"prefix": "wisA/2/3",
+		"lpib_vaksubkern_id": "0c24833e-2efd-46b1-b232-ce140806d85d",
+		"doelniveau_id": [
+			"f9b6d406-8ac5-448c-bd05-2a03a627b7ad",
+			"2805ba4a-7367-47ef-b3b9-63f15277c729",
+			"47f5a00f-2439-4cff-8fdd-8c4bfea6aa1e",
+			"95f96dad-0c62-420e-a6e3-8c2b54932b11",
+			"485a70b8-a40e-4d6b-a096-8b94ecf60285",
+			"e60ceb5d-a455-4e63-93b6-5498b4a4c140",
+			"fac340e2-9942-4088-b39c-339c78654291"
+		],
+		"title": "Tellen",
+		"id": "e7bca235-c112-4c8a-ab50-0de16318c031",
+		"unreleased": true
+	},
+	{
+		"prefix": "wisA/3/1",
+		"lpib_vaksubkern_id": "0d0dfa1d-b658-4967-aade-b2c06a01d791",
+		"doelniveau_id": [
+			"9ef7949b-0b92-4b45-99b5-be580beed917",
+			"b22376a0-6e96-407d-ad79-ed08979b7e34",
+			"338cf0dc-e93a-4bdd-a2d5-63a4b3356a38",
+			"e962d302-f30e-40e5-93cd-e55a83785d01",
+			"f57f471a-5ead-47d5-99a1-09b745ce6b94",
+			"184a0189-b0b3-4f15-8b2f-317b5b36f17e",
+			"d5930e28-7f9d-45dd-9b77-d98fdfedd871",
+			"bf11e82f-9b9d-44ae-986c-3d9fe2dfcb1e",
+			"8e38a691-54f0-41e3-a2eb-918aa89d7b7b",
+			"f6651d8e-a47c-4a49-9275-14d59ab5e1db",
+			"6fbccda0-fa89-48fa-a1b3-900fe4c9561b",
+			"12418d7d-9480-4376-98b2-b272675d3bb6",
+			"60bc0630-6ab7-4726-a3a2-a545b3e1c3fa",
+			"37dc51c4-bffb-4bf0-9d5e-7410ae988e01",
+			"0ae2bbe0-71d6-4288-9fc6-9ea78d644256",
+			"63e40de0-f9f4-46c3-8f63-ae270a2621e6",
+			"0ee60249-29b8-4268-8753-4726c3eff9cf",
+			"bed58bc5-4e51-4210-8082-8c2ce4908bd2",
+			"10e1a8c2-fd0d-4d00-977d-90b7824d3db5",
+			"73c8b7a7-be05-44b2-9abb-3c5462b96b42",
+			"463f379b-c5ac-422f-a8e5-152f0a40505d",
+			"826e4679-21b7-4722-a6c3-f86b9ee670fc",
+			"6854bd46-3dc0-4cf8-9427-d48d9dda937a",
+			"c0915e53-e0a1-4435-be2a-3ac351b0789f",
+			"efd63e5f-dbee-434c-beda-f77492f4318d",
+			"27067698-8421-4bbd-91ba-e777ee636dfa",
+			"2e475e5b-89c7-4d6a-87c2-a6258b202a6f",
+			"88e0e545-bf49-481d-b608-3a919c05a993",
+			"e38aa69b-63e7-4af4-b9ba-c1ea4887c923",
+			"91a3c5b5-11e7-4c00-b65f-f28266be76fa",
+			"e5602a9e-3061-41d8-bfb9-b3b966943239",
+			"a63e911d-7b3f-4633-8a1a-ed6315c3067d",
+			"4310d4fd-3f4c-42e6-a19b-02cabd9f1c05",
+			"feabc96a-bfda-4997-970c-d920eef708eb",
+			"60d47f54-643f-467d-a420-a3f851793128",
+			"c22e3cbd-f070-466a-9b7c-098e86fceccc",
+			"5c2b6529-fa93-40a8-8ed9-4b2eab95eb6b",
+			"5db8d861-2b35-44e0-ac5e-4f4fc14cadd7",
+			"7c4c7f00-dfea-4fc6-ad31-c4fb5ae7ddc3",
+			"f167bdbd-06de-4bce-a21e-2d1751f52b52",
+			"75095b4a-c6d1-4a5f-89ee-755674a382e4",
+			"17febf20-80cf-4d01-b9f3-bbcfe00d8f8b",
+			"2f3c7bb5-1810-4539-9fb9-84e87cfb81b8",
+			"fd7efbb9-50be-43bb-927d-827d20c6c59a",
+			"e1b6d302-9ecd-4658-a98a-29c5a95c331b"
+		],
+		"title": "Grafieken, tabellen, verbanden en formules",
+		"id": "6f5890ce-d0cc-45f7-83ae-91e167020ec1",
+		"unreleased": true
+	},
+	{
+		"prefix": "wisA/3/2",
+		"lpib_vaksubkern_id": "cde423bc-4642-495f-b4a6-9b1ef6800d35",
+		"doelniveau_id": [
+			"f3cd6bbb-1850-48c4-a16d-5e05e1fd782b",
+			"decde5f8-7c09-4edd-891f-4fb319fae296",
+			"dab721b0-fd22-42eb-bd58-cd25562f1abf",
+			"707ccabd-ce37-48a9-af6a-3f304fdad341",
+			"753c5c9b-043e-4bff-a82d-602c0253fc2f",
+			"6ad7844c-0b86-439c-847e-5cd6a1b84e41",
+			"4bc6be69-d7cb-475a-8f78-491ca61db5ad",
+			"d108642b-a0d3-408d-8f83-69baf79156dd"
+		],
+		"title": "Lineaire verbanden",
+		"id": "d24f109b-3322-4413-aa73-6561cb4e0277",
+		"unreleased": true
+	},
+	{
+		"prefix": "wisA/3/4",
+		"lpib_vaksubkern_id": "a71e134c-abc4-4798-8019-67e1c1487814",
+		"doelniveau_id": [
+			"24e507ac-d768-42ce-90ee-afb00f9e4b7c",
+			"99706385-e2d4-4210-9f05-9f42d0acc3bf",
+			"06e7a1af-5487-4048-9755-d81636b31298",
+			"d07b2f53-12ae-4b18-9dff-dfec8381a8ea",
+			"b7d4b728-24ca-48fd-8fec-52777c4e4f85",
+			"d736b1d3-39bd-498e-b15f-d17029e29083",
+			"0acade28-66a0-4a09-8dcd-4f71c5610c16",
+			"ed1da01d-b412-46e5-ac7a-4cc17f52b201"
+		],
+		"title": "Exponentiële verbanden",
+		"id": "0ab62196-e78e-4fbe-9e2e-401e0277d5e8",
+		"unreleased": true
+	},
+	{
+		"prefix": "wisA/3/3",
+		"lpib_vaksubkern_id": "9f238105-a980-4dc0-96ad-2de67000b8d0",
+		"doelniveau_id": [
+			"81422c14-9428-4dd1-94a2-24f87cd60edc",
+			"ec55fa4e-e27a-45b3-966a-dd5d79d10f2b",
+			"cf78bdfa-5069-490e-8656-ef89a65e9dc2",
+			"3095b0cc-59ca-4834-9c1a-ccfdc511ef9b",
+			"53bff758-c3e6-42de-822c-b26bb2b43bed",
+			"d08e1b83-c8bb-4cec-b9fe-e301979a7e30",
+			"bf5f8b73-eb8e-400f-94ae-37bae0098740",
+			"1053fc83-2fed-484f-b0f3-2c612345902b"
+		],
+		"title": "Vergelijkingen en ongelijkheden",
+		"id": "463aa4b6-a66e-4ca8-b925-bf9e9006eac6",
+		"unreleased": true
+	},
+	{
+		"prefix": "wisA/4/1",
+		"doelniveau_id": [
+			"59bb80d1-ce03-4f36-ae11-e08fe2113694",
+			"e517f15d-2ddb-40d8-b521-958cd7b64906",
+			"8d16c3b1-5dad-4c36-8661-932aeed5ff20",
+			"aac5a975-a1f6-444a-a3f4-143d1007a221",
+			"13d16533-1623-42a7-ab19-fbdcff8c1bb2",
+			"a17f2e3c-e06c-4e0b-9fa6-0000cc5b6e82",
+			"0a0688b2-fd91-46b7-81be-adeb4adfb932",
+			"97b4bf65-eee2-46bd-bf02-45892d7fd743",
+			"88febf37-09d3-438b-a4de-1917dac0f207",
+			"d3ff73bd-28bf-4c42-ac9a-c492110dcce4",
+			"a21c2c83-d298-4c25-85f3-2913985bc764",
+			"681ace12-1c50-48e9-aab6-6c8d64d567b0",
+			"c6895250-a245-4d50-89f9-1adbddc8be3e",
+			"2e8ba93a-ab5c-45ac-b2ef-24e823f20a76",
+			"b526f926-0ff9-47a1-bb54-ebe077968d78",
+			"02cb98f9-eaef-453d-9e9e-64beb8305c85",
+			"7f5beb54-fe1e-4031-b3f8-4e997a670be6",
+			"307f79d0-5e39-4aa8-bd93-3eedb89a0bb7"
+		],
+		"title": "Informatieverwerking",
+		"id": "28d51797-91b3-49bd-bff2-62780154f4e3",
+		"unreleased": true
+	},
+	{
+		"prefix": "wisA/4/2",
+		"lpib_vaksubkern_id": "868ad6cb-4131-48ab-ba3e-f07ebf8f06de",
+		"doelniveau_id": [
+			"2297d787-07b9-4c74-a809-827d2c84f387",
+			"e43a2628-42dd-4659-820b-849b59b61ee6",
+			"f4410987-b3c6-464f-8f2d-80cdea42c013",
+			"2d10a03c-aa94-4bb1-805b-2cc9be76467b",
+			"631129d1-a509-4bf5-8965-dbd45f696aad",
+			"f0e3d3d4-7a1d-4996-9ad4-4df9410519a4",
+			"978cdd14-de95-4811-bbc4-0229826b91c4",
+			"dd22b015-4e87-4492-ad0f-7729670a524e",
+			"ee72aff0-22f1-41d1-b1d5-3e6e379b254d",
+			"3bbb16ba-58b0-4493-9ee2-383a60fa710c",
+			"33073c6e-ad04-4e13-85fc-6141f7be8856",
+			"29b32839-34b6-4158-ae1b-728e8e4a8843",
+			"278426fc-fa59-4382-98da-b67cd48ba7f3",
+			"5793c2d1-391b-4d18-8fe5-6abad55b01c2",
+			"87804d00-7905-4557-9eef-2c92ce3b567b"
+		],
+		"title": "Statistiek",
+		"id": "f5478664-0d0d-4433-97bd-7dccc5c7ff2f",
+		"unreleased": true
+	},
+	{
+		"prefix": "wisA/4/3",
+		"doelniveau_id": [
+			"e9c412f9-0be9-43a5-989f-cbf60adc88c8"
+		],
+		"title": "Veranderingen",
+		"id": "14bb3261-e693-4208-9cc5-721066886314",
+		"unreleased": true
+	},
+	{
+		"prefix": "wisA/4/4",
+		"lpib_vaksubkern_id": "22268b88-d753-42b4-9792-933c68b3682b",
+		"doelniveau_id": [
+			"2283abc8-5418-468c-869d-06523d373460",
+			"0ff93f8d-f3a0-4397-bc7c-f3935b67ee78"
+		],
+		"title": "Kansen en Kansverdelingen",
+		"id": "ef2e24b4-3c6a-4ffe-be47-f1e02694a106",
+		"unreleased": true
+	},
+	{
+		"prefix": "wisA/5/1",
+		"doelniveau_id": [
+			"728ce8c2-5275-44fb-849b-1101dd0c685c",
+			"2ae84a9f-c72e-4c90-a6e6-50055d459b0f",
+			"6d23a8d4-966d-4770-bb1b-00071db0e4b8",
+			"fb0778b2-9960-46e8-bbd8-b435ee776899",
+			"891b9d47-f1d7-44c8-a6ea-f23efdddea7f",
+			"f8bbea06-75ca-4b88-9f54-a999ed5c06cb",
+			"69e05ac5-0106-457f-9a68-038687698d05",
+			"e237d821-d7ca-425f-befe-270ce0add792"
+		],
+		"title": "Analyse",
+		"id": "725d5283-c996-4224-8ee5-8ad91d501417",
+		"unreleased": true
+	},
+	{
+		"prefix": "wisA/5/2",
+		"lpib_vaksubkern_id": "985bc535-bf11-461b-bb66-06ebe728e1e3",
+		"doelniveau_id": [
+			"1730d494-e60b-45f2-b2ad-c0303e222a2b",
+			"6d4ee1b5-d0ad-46eb-8f8d-e15aae49717b",
+			"fa2f3538-ba91-4687-9046-1a661b132bd9",
+			"742307dd-61cd-4e95-8a9c-1c03b5eedfbe",
+			"e93cfbf8-894c-45db-bb1e-75564c0070a8",
+			"6e7053f1-f58a-4d1f-8426-d9b8d5040a2c",
+			"112462d4-efa2-470d-8e34-6e4f209286ca",
+			"67234f5e-d999-4a83-9c85-a0d968acc81b",
+			"b82bed0f-493c-4b21-adf6-52ee27eb4288",
+			"1a48ed16-8d55-4db1-b72c-b6eb006b7774"
+		],
+		"title": "Veranderingen",
+		"id": "892d5d79-9979-483b-ba2c-0d6ba69a3b7f",
+		"unreleased": true
+	},
+	{
+		"prefix": "wisA/5/3",
+		"lpib_vaksubkern_id": "0ce98657-6f71-435e-8a22-dc6a87bc9826",
+		"doelniveau_id": [
+			"503e1125-f5ad-4431-a868-372476565af0",
+			"294e0057-56ed-4fab-9174-2e4b6a54338a",
+			"4062da07-564a-4658-92e0-2a706fd736cb",
+			"7c3c6893-a5df-4501-8fba-982e83d98402"
+		],
+		"title": "Afgeleide functies",
+		"id": "3f399b71-45d0-45e6-a554-211741923616",
+		"unreleased": true
+	},
+	{
+		"prefix": "wisA/5/4",
+		"lpib_vaksubkern_id": "9cb12547-35b9-4071-9f0d-71c54e23c9b6",
+		"doelniveau_id": [
+			"3871f06c-f21c-4cad-813c-741f7360c6ef",
+			"08543144-2787-4b94-b0cf-5757792197d3",
+			"d3c69776-6fad-4ad8-aad3-8bc7bf2434cb",
+			"f7ed9a75-3b97-4e48-805f-b0df23c27ab7"
+		],
+		"title": "Differentiëren",
+		"id": "fff7fbc2-f872-4ae4-a615-0322f733ffc0",
+		"unreleased": true
+	},
+	{
+		"prefix": "wisA/5/5",
+		"lpib_vaksubkern_id": "c75b99d2-832b-4428-9f8d-e9f73eb50a27",
+		"doelniveau_id": [
+			"853b0b77-7774-43cf-b609-f117ee69760e",
+			"7f738f4f-2622-4629-98d3-b499ab029b90",
+			"e12b4140-0b9d-46e1-b414-88ae9c7f1364"
+		],
+		"title": "Optimaliseren",
+		"id": "9adbfa9a-2bba-40ab-844d-bddb43f26912",
+		"unreleased": true
 	}
 ]
