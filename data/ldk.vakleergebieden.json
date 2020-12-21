@@ -115,5 +115,19 @@
 		"title": "Techniek",
 		"id": "27d64b3d-8dca-4972-8b33-1a49564ffb1e",
 		"unreleased": true
+	},
+	{
+		"prefix": "wisA",
+		"vakleergebied_id": "5c1c7ee9-7fbc-4554-be0a-fb872b31b8ba",
+		"ldk_vakkern_id": [
+			"a61dcc34-2b37-40d0-a404-536ac5d47a30",
+			"2587a313-d2c9-4bea-b9a4-7147c2a4b404",
+			"754a2c77-d424-45cc-8b20-f580d9c89348",
+			"90723117-0a74-470b-b363-52c0dc114aad",
+			"c3e80b4b-cac9-4063-9ece-b05c0941c7cf"
+		],
+		"title": "Wiskunde A",
+		"id": "d15073fc-56b7-412d-913f-5da37818fbc0",
+		"unreleased": true
 	}
 ]
