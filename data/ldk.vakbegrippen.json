@@ -19284,5 +19284,545 @@
 		"title": "absolute en relatieve frequentie, frequentietabel, staafdiagram, cirkeldiagram, boxplot, steel-bladdiagram, histogram, lijndiagram, klassenbreedte,  klassenmidden",
 		"id": "3600a1d6-94da-4a71-85ca-ad76be5017a7",
 		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"doelniveau_id": [
+			"d047fd8c-6ef8-4f9c-b876-2437c97323d1"
+		],
+		"title": "variabele, grootheid, eenheid",
+		"id": "a008b011-a5b7-4963-b1ec-12c3a31bb893",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"doelniveau_id": [
+			"4e4985d8-1d05-4ba0-a092-4c9d31f0caaf"
+		],
+		"title": "variabele, grootheid, eenheid",
+		"id": "29868e6c-5059-47cf-9760-446b5063b442",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"doelniveau_id": [
+			"52e09d80-4274-4db5-a22e-09206a161b8a"
+		],
+		"title": "variabele, grootheid, eenheid",
+		"id": "6b8832b8-f772-4bc4-a895-cc41747a92fb",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"doelniveau_id": [
+			"602a1c19-a421-484c-b534-d262c75376ca"
+		],
+		"title": "variabele, grootheid, eenheid",
+		"id": "ceb8c85b-37aa-4721-81c7-560ac09f4c04",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"af3d37c4-5a41-4a1d-8d1f-ec9020367e27"
+		],
+		"title": "afstand, stelling van Pythagoras, gelijkvormigheid goniometrische  verhoudingen, sinusregel, cosinusregel",
+		"id": "712f1295-c7ba-4768-a784-5f8d41d876cb",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"3d7b99e2-ba09-4cab-8024-5ea66268c61e"
+		],
+		"title": "afstand, stelling van Pythagoras, gelijkvormigheid goniometrische  verhoudingen, sinusregel, cosinusregel",
+		"id": "58e6a376-8144-4f1c-ab93-c5b48fe1d7d8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"e014bcba-1c78-44ce-9ddf-c6012a9dee22"
+		],
+		"title": "afstand, stelling van Pythagoras, gelijkvormigheid goniometrische  verhoudingen, sinusregel, cosinusregel",
+		"id": "45fa1ad9-44f2-4369-a663-716ca40122e3",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"bbca232e-60ba-48f7-af5e-116cc3d30484"
+		],
+		"title": "afstand, stelling van Pythagoras, gelijkvormigheid goniometrische  verhoudingen, sinusregel, cosinusregel",
+		"id": "08495124-25f1-41d0-8db5-2444429b5858",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"1db698e0-f2ab-4f8f-a697-b7bc82283342"
+		],
+		"title": "vergelijking van een lijn",
+		"id": "898213dd-45c5-4145-8f86-9a897885c77b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"c84690f8-b0a3-4c7b-a6cf-e1245a7b5d8f"
+		],
+		"title": "vergelijking van een lijn",
+		"id": "a6c80c44-0687-4af4-ad71-eb03ea831a94",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"33cca268-fc2e-4922-b5e6-4451558e73b2"
+		],
+		"title": "stelsel vergelijkingen",
+		"id": "50ddd3fb-885f-47d5-adf2-d881e935f2dd",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"f0c777a8-2fc3-4e3f-83b9-36a232b9088b"
+		],
+		"title": "vergelijking van een cirkel",
+		"id": "eb1cea09-8523-4bd4-94d0-cf5218bff544",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"975e59f7-ff84-4775-aa9e-044574ab354d"
+		],
+		"title": "stelsel vergelijkingen",
+		"id": "d8e346ad-d00e-4782-ace2-90c09f50b9d4",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"7ed91a25-bf12-416a-8762-2084603a87b9"
+		],
+		"title": "vergelijking van een lijn",
+		"id": "37e83805-d0c7-4dad-9c5a-50c40ca5af2d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"1d9542a3-4876-46bb-96c5-3d0b7c6fc2fd"
+		],
+		"title": "vergelijking van een lijn",
+		"id": "fee8bdfd-f1c2-4c93-af9f-fc125bf7e5f7",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"7f0b3ca5-9aab-4c02-8a0c-cda058ba5652"
+		],
+		"title": "stelsel, strijdig stelsel, afhankelijk stelsel",
+		"id": "952f8355-c6d8-4c0e-a9f5-5e0aed6680de",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"d9705b56-5f69-41c6-8419-54de3f3a85e9"
+		],
+		"title": "vergelijking van een cirkel",
+		"id": "6c72ebd3-7bbf-47d5-a758-cd29d6bc1214",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"0c07b82b-7ccb-41f3-a95e-b65e1548342a"
+		],
+		"title": "stelsel vergelijkingen, strijdig stelsel, afhankelijk stelsel",
+		"id": "5b3d82e0-95df-4f1f-bee7-7992652f9885",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"1ac944ac-3203-4409-ba78-15ef67896572"
+		],
+		"title": "vector",
+		"id": "cb1d135b-5545-4001-b037-2abeb69ed888",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"2a66c1e3-d356-4cb5-9ebb-8cadbb1e746f"
+		],
+		"title": "vector",
+		"id": "ad9b7c01-cc97-4a08-8f1a-aae2abcb7daf",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"54eb50b0-fc31-4c5e-b9c5-ea4181af19e4"
+		],
+		"title": "lengte, richtingsshoek, kentallen, componenten van een vector",
+		"id": "1db32f39-c753-4efe-8728-5236c80b911e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"2376a63b-09df-4f15-8828-2706e34f1b36"
+		],
+		"title": "inproduct of inwendig inproduct",
+		"id": "67735f09-8be9-4449-9a14-b00337aa02dc",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"e83e9019-00ae-46f4-be59-b14e7dc31858"
+		],
+		"title": "vectorvoorstelling van een lijn, steunvector, richtingsvector",
+		"id": "3c9af781-466b-4f73-93f9-3d0fb2c77af5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"0cc6cfac-90cf-4a17-94ec-027371b73697"
+		],
+		"title": "zwaartepunt",
+		"id": "a9ef5ab5-45ee-4f43-ab02-ba4324fa1563",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"c24e95e6-f790-44ad-abc2-b0e78edebdbc"
+		],
+		"title": "omgeschreven cirkel",
+		"id": "f20aa136-7a9c-4797-9d06-5217fa547341",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"c4aaccf8-4c5c-4ac6-93db-0fae36bd41c2"
+		],
+		"title": "grondtal, exponent, beginwaarde, groeifactor",
+		"id": "24891712-c757-4ccc-933c-c27ef0e9b4c6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"fd36248b-c5c5-4226-aeb8-36198169b25f"
+		],
+		"title": "grondtal, exponent, beginwaarde, groeifactor",
+		"id": "cf4a7bc8-7588-4ff1-94b7-ec0eb9ffaae0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"d3ae3037-0097-4a9d-a141-90bd0916d59d"
+		],
+		"title": "grondtal, exponent, beginwaarde, groeifactor, groeipercentage, halveringstijd, verdubbelingstijd, logaritme, natuurlijke logaritme",
+		"id": "9f327299-ba48-4c8d-b5a2-2541c541f30c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"2e5f756e-3b37-4569-811f-29522b33ee8a"
+		],
+		"title": "evenredigheidsverbanden, recht evenredig, evenredig, omgekeerd evenredig, evenredig met een macht, evenredigheidsconstante",
+		"id": "c15b3bdc-88af-4689-951f-97cfddcdb60b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"ee3529d3-eae1-4621-a367-80427bcfe613"
+		],
+		"title": "periodiek verschijnsel, sinusoïde, radiaal, periode, amplitude, evenwichtsstand",
+		"id": "8e72d853-d0cd-48af-b9ad-10b38cf150ed",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"e68a37a4-1a5f-4a4f-b0d5-f719a71c0c4d"
+		],
+		"title": "periodiek verschijnsel, sinusoïde, radiaal, periode, amplitude, evenwichtsstand",
+		"id": "ebbea5ec-c874-451c-afe6-e4bac6e9f145",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"51419e8b-ea94-4eb9-93d7-6676e46ce538"
+		],
+		"title": "periodiek verschijnsel, sinusoïde, radiaal, periode, amplitude, evenwichtsstand, freqeuntie, trillingstijd, sinusmodel, harmonische trilling, som-, verschil- en verdubbelingsformules",
+		"id": "93dc2b61-3e51-490f-95f4-efe373229c33",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"fd74cdf3-bc21-4bea-b4d8-757836f160ad"
+		],
+		"title": "vergelijkingen, ongelijkheden, lineaire of eerstegraadsvergelijking, kwadratische of tweedegraadsvergelijking,  abc-formule",
+		"id": "8829c0ac-db61-4ed8-8644-f967685714bd",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"4f3ecb92-bda3-4709-8bbb-403e50966757"
+		],
+		"title": "vergelijkingen, ongelijkheden, lineaire of eerstegraadsvergelijking, kwadratische of tweedegraadsvergelijking,  abc-formule",
+		"id": "98ad7a78-b4dc-42bc-98a1-49ff374d92e6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"117ca114-b5ec-41de-a5c7-35bf13696505"
+		],
+		"title": "parameter",
+		"id": "a3f7712a-ba07-4bf7-911a-51f7df36d31e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"3a097267-71d8-4a65-bb3c-161b511701f0"
+		],
+		"title": "vergelijkingen, ongelijkheden, lineaire of eerstegraadsvergelijking, kwadratische of tweedegraadsvergelijking,  abc-formule",
+		"id": "fc071c62-572f-428b-b782-4f2ada35d1cc",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"ebe96f46-e909-4753-9855-f2161ddf1abf"
+		],
+		"title": "parameter",
+		"id": "7a85921b-3a10-491f-867f-17c560e52b83",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"6b4240a8-8b4b-43ea-aba3-487979b727b9"
+		],
+		"title": "karakteristieke eigenschappen van een functie en van een grafiek, standaardfuncties, lineaire of eerstegraads functies, richtingscoëfficient, kwadratische of tweedegraads functies, parabool, machtsfuncties, wortelfuncties, exponetiële functies, logaritmische functies, goniometrische functies, gebroken lineaire functies, hyperbool",
+		"id": "190a9425-fc89-4a7f-bbf9-1647f9e41dc9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"f0d70b3a-fca1-4936-a739-d2f6aebb66c2"
+		],
+		"title": "karakteristieke eigenschappen van een functie en van een grafiek, standaardfuncties, lineaire of eerstegraads functies, richtingscoëfficient, kwadratische of tweedegraads functies, parabool, machtsfuncties, wortelfuncties, exponetiële functies, logaritmische functies, goniometrische functies, gebroken lineaire functies, hyperbool",
+		"id": "4bbcf1c6-93d9-48d2-95da-aea3cf58378c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"9264e8d8-a568-41b0-a11e-b32b5d5300cf"
+		],
+		"title": "domein, bereik, nulpunt, extreem, minimum, maximum, stijgen, dalen, constant stijgen, toenemend stijgen, afnemend stijgen, constant dalen, toenemend dalen, afnemend dalen",
+		"id": "6665e2ac-650d-44fc-8d39-04926e68a8a9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"c12fa9ff-2f13-4b40-a92b-b8a3c597b6ba"
+		],
+		"title": "translatie, verschuiving, vermenigvuldiging t.o.v x-as of y-as",
+		"id": "a6352b17-1e1f-43ef-a1db-14066a5a9386",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"2f4f3506-8f91-47fe-86a6-eb7007bf6e2c"
+		],
+		"title": "somfunctie, verschilfunctie, samengestelde functie, ketting van functies",
+		"id": "01c4a4e7-c69d-4a1c-9ab0-3d35d2368006",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"ac16837b-ebf6-41bb-b8d2-206382a22819"
+		],
+		"title": "domein, bereik, nulpunt, extreem, minimum, maximum, stijgen, dalen, constant stijgen, toenemend stijgen, afnemend stijgen, constant dalen, toenemend dalen, afnemend dalen",
+		"id": "91bd0dc3-67ed-499c-b34b-1713d51478cb",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"8fd74ed3-7ec4-447a-a1b0-f7de2837c666"
+		],
+		"title": "snijpunt x-as, snijpunt y-as, top, symmetrie, asymptotisch gedrag, horzontale en verticale asymptoot, buigpunt, scheve asymptoot",
+		"id": "0d7d7467-0437-45d3-9c54-6e02270f18b4",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"c6422867-891e-4a82-a4b0-0abedb630381"
+		],
+		"title": "translatie, verschuiving, vermenigvuldiging t.o.v x-as of y-as",
+		"id": "13912c27-d193-4284-a484-ded46aee186a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"92bb33ec-4262-4ed5-9b45-17c077097f43"
+		],
+		"title": "somfunctie, verschilfunctie, productfunctie, quotiëntfunctie, samengestelde functie, ketting van functies",
+		"id": "b145dfd5-83a0-4521-8338-8a7442c34819",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"c1fb7346-de1c-49e2-a127-defa55297ec9"
+		],
+		"title": "Inverse functies",
+		"id": "3531c3e1-7e46-4852-9bcd-ae4e8677b63a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"d31804a6-36ff-4f91-9ef1-ea3637c9bb77"
+		],
+		"title": "limiet, linkerlimiet, rechterlimiet, perforatie",
+		"id": "5e7b9db8-1cfc-4695-af00-288d9404ca08",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"doelniveau_id": [
+			"e9f3da61-dfe1-4470-9641-3a15bceae293"
+		],
+		"title": "interval, intervalnotaties, de Δ-notatie, differentiequotiënt, , toenamediagram, helling, steilheid",
+		"id": "881fca3b-6a30-4c42-a5e9-99ccdec23ebe",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"doelniveau_id": [
+			"6ea3b96b-7c21-4478-b5f4-ee6400862eab"
+		],
+		"title": "interval, intervalnotaties, de Δ-notatie, differentiequotiënt, , toenamediagram, helling, steilheid",
+		"id": "d436bb40-b939-44fb-ba83-525244fcfeb1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"doelniveau_id": [
+			"c4238b22-2787-4179-ab72-d276bfbd696e"
+		],
+		"title": "interval, intervalnotaties, de Δ-notatie, differentiequotiënt, , toenamediagram, helling, steilheid",
+		"id": "49f8de5e-7e08-4694-8024-9e59ba6a2c07",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"doelniveau_id": [
+			"23c7e79e-5e88-4510-b1fe-1ac2edea48ff"
+		],
+		"title": "interval, intervalnotaties, de Δ-notatie, differentiequotiënt, , toenamediagram, helling, steilheid",
+		"id": "85a7c4b4-63cb-42ab-93dc-cfa9291ad5a3",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"doelniveau_id": [
+			"8741bff8-1c24-46f3-afd8-8c0fab39ddab"
+		],
+		"title": "afgeleide functie, inclusief notaties",
+		"id": "ba4f85ce-4f13-459f-bed2-622c3e43fdb7",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"doelniveau_id": [
+			"ed1f48c2-a0f3-4f7c-a67e-7db2e9dd5248"
+		],
+		"title": "raaklijn",
+		"id": "16c9f1c3-9a3d-4a63-9383-934ae81c17f3",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"8f175b42-20d4-4ad3-bde8-5b4933f28284"
+		],
+		"title": "afgeleide functie, inclusief notaties, tweede afgeleide, inclusief notaties",
+		"id": "bcf726d4-d516-4ebe-98d8-f4088ed703ce",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"93b2bad4-263c-4169-8605-4d5a2610cee2"
+		],
+		"title": "raaklijn",
+		"id": "3ae15e5f-73d1-45ac-a063-f0b1c74211ca",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"doelniveau_id": [
+			"035a38b8-770c-44cf-953f-e41563471815"
+		],
+		"title": "differentiëren, somregel, verschilregel, kettingregel",
+		"id": "d421dcbf-cea4-4e4a-a954-239240ef30bf",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE; SE",
+		"doelniveau_id": [
+			"51b26e5b-78bd-4935-967c-5f83532b8ca9"
+		],
+		"title": "differentiëren, somregel, verschilregel, kettingregel",
+		"id": "29235217-5d16-46cb-9e0e-f045eb2fc5a9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"b3594a36-25d6-48e7-bba0-1a98767320e1"
+		],
+		"title": "differentiëren, somregel, verschilregel, kettingregel, productregel, quotiëntregel",
+		"id": "de73b849-1746-4b94-b2d1-403ce1f69f20",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"e7f98729-3fdd-4b5d-9ff8-523d714e3c40"
+		],
+		"title": "integrand, primitieve functie, bepaalde integraal, omwentelingslichaam, baansnelheid, baanversnelling",
+		"id": "b177530c-42d5-4432-b15a-d37309ffbde6",
+		"unreleased": true
 	}
 ]
