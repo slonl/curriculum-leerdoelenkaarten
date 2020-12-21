@@ -144,5 +144,20 @@
 		"title": "Wiskunde C",
 		"id": "0804d7ca-6d82-47a9-9a57-e8e5956b4955",
 		"unreleased": true
+	},
+	{
+		"prefix": "wi",
+		"vakleergebied_id": "12209d8b-24d3-440a-8e2e-e85bfebc1e13",
+		"ldk_vakkern_id": [
+			"d6ca8385-20a5-4bd9-b5d4-edf0d469f4a4",
+			"7cf83c87-dc3d-46e4-9d9a-4c1c67f66728",
+			"4bfcab2d-913d-4b07-8ef5-b5c87bb6b289",
+			"89284c91-aabb-4244-b3de-4ef61d8858e0",
+			"f453ee24-2a74-4746-8c83-36275e4eebff",
+			"9c771506-2e1d-4e63-8a9a-c82a2fdecb4e"
+		],
+		"title": "Wiskunde",
+		"id": "e37c6ecd-fd04-42d9-9e7f-a87dd6269f2f",
+		"unreleased": true
 	}
 ]
