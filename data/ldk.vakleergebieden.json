@@ -159,5 +159,19 @@
 		"title": "Wiskunde",
 		"id": "e37c6ecd-fd04-42d9-9e7f-a87dd6269f2f",
 		"unreleased": true
+	},
+	{
+		"prefix": "wisB",
+		"vakleergebied_id": "ccda2b02-3aa8-44bc-adfa-844565c292d0",
+		"ldk_vakkern_id": [
+			"24329f22-1195-4da9-9690-399b48524c59",
+			"0cc63cea-db83-4c37-aa93-b35802caf614",
+			"92753ef3-e164-4d05-b34f-61d8e9a31922",
+			"89aa3ee2-5368-4b59-9462-b2a9e65533bc",
+			"5fbaaaf3-bd6e-49a1-bf6a-fbbefbe5bf3e"
+		],
+		"title": "Wiskunde B",
+		"id": "3ea6a1fb-3f1e-4561-b495-2a4679710304",
+		"unreleased": true
 	}
 ]
