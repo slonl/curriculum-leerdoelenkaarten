@@ -129,5 +129,20 @@
 		"title": "Wiskunde A",
 		"id": "d15073fc-56b7-412d-913f-5da37818fbc0",
 		"unreleased": true
+	},
+	{
+		"prefix": "wisC",
+		"ldk_vakkern_id": [
+			"abed6b42-a345-44a3-a4b4-b91235ee623f",
+			"14cdc467-8a01-4ef7-8588-1bf8a2dbd92e",
+			"b5b4933c-7b3f-4463-8cbb-6592faea276e",
+			"cf10445f-6314-4721-8e3e-ed98ebefbda7",
+			"e17a13b2-64bc-45f0-b638-35af3e7fffe6",
+			"b522b789-f467-420b-b26f-1d1b03404e08",
+			"4619b78b-e4df-4dac-8c32-a2806051cbe2"
+		],
+		"title": "Wiskunde C",
+		"id": "0804d7ca-6d82-47a9-9a57-e8e5956b4955",
+		"unreleased": true
 	}
 ]
