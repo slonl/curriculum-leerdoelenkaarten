@@ -1465,5 +1465,68 @@
 		"title": "Informatieverwerking en onzekerheid",
 		"id": "9c771506-2e1d-4e63-8a9a-c82a2fdecb4e",
 		"unreleased": true
+	},
+	{
+		"prefix": "wisB/1",
+		"lpib_vakkern_id": "ce6456bf-2fe9-4de9-9fc4-932fb36a875a",
+		"ldk_vaksubkern_id": [
+			"42153ba4-8635-47b0-a00b-92eb65af71f7",
+			"9217d29e-cd2f-44e2-8ad5-84775ba3cabc",
+			"efcc2836-c2e0-44a3-a9f6-c2c77c5f7cc6",
+			"7885ccf0-bda3-41cc-a1b2-169598d3eaee"
+		],
+		"title": "Inzicht en handelen",
+		"id": "24329f22-1195-4da9-9690-399b48524c59",
+		"unreleased": true
+	},
+	{
+		"prefix": "wisB/2",
+		"lpib_vakkern_id": "421722e5-319f-49ff-b08c-5d0c81e17967",
+		"ldk_vaksubkern_id": [
+			"19533122-f1bb-460b-9616-aa688a9622d7",
+			"ad244c17-1253-4afd-afa6-bc96948dd321"
+		],
+		"title": "Getallen en variabelen",
+		"id": "0cc63cea-db83-4c37-aa93-b35802caf614",
+		"unreleased": true
+	},
+	{
+		"prefix": "wisB/3",
+		"lpib_vakkern_id": "86f20a8b-8584-4f3b-bf57-ad1fefcedbef",
+		"ldk_vaksubkern_id": [
+			"bc4767e0-3e87-42c7-834b-8386cf8d521e",
+			"c978a2f4-dbd9-488a-965e-5c1f8b9c3a67",
+			"6d23e898-c09b-48be-981f-11dd7a983f81",
+			"c3b11441-ddf0-465b-affc-cafb8b70472b"
+		],
+		"title": "Meten en meetkunde",
+		"id": "92753ef3-e164-4d05-b34f-61d8e9a31922",
+		"unreleased": true
+	},
+	{
+		"prefix": "wisB/4",
+		"lpib_vakkern_id": "88c79dcc-74cf-43fb-84ab-8711f63943ab",
+		"ldk_vaksubkern_id": [
+			"dc2950fd-f0a6-404d-a6aa-337d6e3f3fe8",
+			"e8b00f3c-546b-4768-8a9a-280a7cb43408",
+			"03a61cf4-aaf0-4771-897e-607f2a1ec4b6",
+			"d97cd68a-06e2-4a7a-922e-8652f73722d4"
+		],
+		"title": "Verbanden en formules",
+		"id": "89aa3ee2-5368-4b59-9462-b2a9e65533bc",
+		"unreleased": true
+	},
+	{
+		"prefix": "wisB/5",
+		"lpib_vakkern_id": "66f9ff8e-2bbf-4ab7-a7dd-3a13ac2100cf",
+		"ldk_vaksubkern_id": [
+			"97d2ac9d-ca30-4c5a-9009-3329c3a96e47",
+			"bc78f543-f3b9-44d5-aa56-2de557750005",
+			"6a0dc330-79b0-414b-858b-a111ba34bb87",
+			"0b2d6e2f-58e7-4f20-a75b-126adbb1056b"
+		],
+		"title": "Analyse",
+		"id": "5fbaaaf3-bd6e-49a1-bf6a-fbbefbe5bf3e",
+		"unreleased": true
 	}
 ]
