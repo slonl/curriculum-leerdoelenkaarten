@@ -86,5 +86,19 @@
 		"title": "Natuurkunde",
 		"id": "1f277fe0-b40b-45aa-a239-fa5cf7d4e40b",
 		"unreleased": true
+	},
+	{
+		"prefix": "sk/ldk",
+		"vakleergebied_id": "364c2519-7d9e-47d8-b3bd-371cee8583df",
+		"ldk_vakkern_id": [
+			"574742f7-fceb-4e60-bbea-0711dfa042ab",
+			"233fdc4b-10fa-427c-8a31-2bbfdf7bff39",
+			"f26ea536-9fae-4769-9de2-03ae41086491",
+			"387ea678-fd2c-4b85-b3c5-ace8074f4ce4",
+			"6fb11f8a-de4b-4278-8f13-3f29af233294"
+		],
+		"title": "Scheikunde",
+		"id": "89c4f9cf-be21-4881-b582-c1760459bb15",
+		"unreleased": true
 	}
 ]
