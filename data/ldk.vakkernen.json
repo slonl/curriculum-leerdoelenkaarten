@@ -1202,5 +1202,70 @@
 		"title": "Ontwerpen",
 		"id": "d82a7e66-ab25-4650-8b66-365c85b1927f",
 		"unreleased": true
+	},
+	{
+		"prefix": "wisA/1",
+		"lpib_vakkern_id": "97abf32d-c062-4dc6-b1d3-b15cb6f64874",
+		"ldk_vaksubkern_id": [
+			"17a69d94-74a1-4517-bdfd-449579923ff6",
+			"bf8e4fc2-76cf-4fcf-bb9a-8a6dc44d09cb",
+			"674a6337-2794-488e-9b47-1a03f032fc86",
+			"4fb8497e-2387-488f-b0ae-0c2af346e4ec"
+		],
+		"title": "Inzicht en handelen",
+		"id": "a61dcc34-2b37-40d0-a404-536ac5d47a30",
+		"unreleased": true
+	},
+	{
+		"prefix": "wisA/2",
+		"lpib_vakkern_id": "52f496a9-f6ce-4822-b9ce-165d8256be3f",
+		"ldk_vaksubkern_id": [
+			"87ed687c-a80b-451a-8491-13d9760bf46c",
+			"f06d0bec-9dde-431c-935d-9734f2f4e35c",
+			"e7bca235-c112-4c8a-ab50-0de16318c031"
+		],
+		"title": "Getallen en variabelen",
+		"id": "2587a313-d2c9-4bea-b9a4-7147c2a4b404",
+		"unreleased": true
+	},
+	{
+		"prefix": "wisA/3",
+		"lpib_vakkern_id": "a337989c-f3de-429a-9537-fd5daa62098a",
+		"ldk_vaksubkern_id": [
+			"6f5890ce-d0cc-45f7-83ae-91e167020ec1",
+			"d24f109b-3322-4413-aa73-6561cb4e0277",
+			"0ab62196-e78e-4fbe-9e2e-401e0277d5e8",
+			"463aa4b6-a66e-4ca8-b925-bf9e9006eac6"
+		],
+		"title": "Verbanden en formules",
+		"id": "754a2c77-d424-45cc-8b20-f580d9c89348",
+		"unreleased": true
+	},
+	{
+		"prefix": "wisA/4",
+		"lpib_vakkern_id": "7c8f4928-a65e-48f9-81ca-fc1bc2c7fe2a",
+		"ldk_vaksubkern_id": [
+			"28d51797-91b3-49bd-bff2-62780154f4e3",
+			"f5478664-0d0d-4433-97bd-7dccc5c7ff2f",
+			"14bb3261-e693-4208-9cc5-721066886314",
+			"ef2e24b4-3c6a-4ffe-be47-f1e02694a106"
+		],
+		"title": "Informatieverwerking en onzekerheid",
+		"id": "90723117-0a74-470b-b363-52c0dc114aad",
+		"unreleased": true
+	},
+	{
+		"prefix": "wisA/5",
+		"lpib_vakkern_id": "ae04af78-0e74-4856-9de5-01d4d325de64",
+		"ldk_vaksubkern_id": [
+			"725d5283-c996-4224-8ee5-8ad91d501417",
+			"892d5d79-9979-483b-ba2c-0d6ba69a3b7f",
+			"3f399b71-45d0-45e6-a554-211741923616",
+			"fff7fbc2-f872-4ae4-a615-0322f733ffc0",
+			"9adbfa9a-2bba-40ab-844d-bddb43f26912"
+		],
+		"title": "Analyse",
+		"id": "c3e80b4b-cac9-4063-9ece-b05c0941c7cf",
+		"unreleased": true
 	}
 ]
