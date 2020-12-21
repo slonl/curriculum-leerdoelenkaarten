@@ -100,5 +100,20 @@
 		"title": "Scheikunde",
 		"id": "89c4f9cf-be21-4881-b582-c1760459bb15",
 		"unreleased": true
+	},
+	{
+		"prefix": "tech",
+		"vakleergebied_id": "977fea53-fb3b-4349-a81a-7bf903a152af",
+		"ldk_vakkern_id": [
+			"f728364d-0655-4647-89cb-c06e1348b9a4",
+			"63a2bfb8-a0fa-453e-822c-22d269097c20",
+			"c227a598-5647-4565-a777-4231fbb7193e",
+			"a09fb45b-80cd-479a-b4b1-2c2539bb3a2e",
+			"1fae9407-c8d3-466b-a113-a134779e9aaa",
+			"d82a7e66-ab25-4650-8b66-365c85b1927f"
+		],
+		"title": "Techniek",
+		"id": "27d64b3d-8dca-4972-8b33-1a49564ffb1e",
+		"unreleased": true
 	}
 ]
