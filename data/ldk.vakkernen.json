@@ -1054,5 +1054,153 @@
 		"title": "Systeem",
 		"id": "6fb11f8a-de4b-4278-8f13-3f29af233294",
 		"unreleased": true
+	},
+	{
+		"prefix": "tech/1",
+		"ldk_vaksubkern_id": [
+			"aa651c1d-7a87-45df-bbb7-eba7e7196106"
+		],
+		"doelniveau_id": [
+			"f1cd2f90-076b-49da-a0b4-a23b3fe42e86",
+			"8dd1f660-f3fe-48df-990b-e23bf6e355f3",
+			"547607fa-07ad-4efa-b1a5-1689472c8181",
+			"597b247b-f125-4932-937d-8567bb90dd2f",
+			"4fb316e2-7bd9-4813-bf4a-1b6ca21d6098",
+			"e037a36b-2102-4ee4-a08b-be69980eaa56",
+			"bb2de8be-a8e2-4ff4-8347-89616123afa1",
+			"72543ebf-8556-4deb-99e7-d8d75c3c38aa",
+			"83242575-ed3b-4f96-be61-bc62a7ee4dd5"
+		],
+		"title": "Kennismaking met techniek",
+		"id": "f728364d-0655-4647-89cb-c06e1348b9a4",
+		"unreleased": true
+	},
+	{
+		"prefix": "tech/2",
+		"ldk_vaksubkern_id": [
+			"7cabe0f8-903a-4dcf-ade1-df9463a4d88d",
+			"ef0a9f2c-8682-4dd9-a142-94227e8d6209",
+			"a6dcda6e-a2c9-47f4-975c-6d3961b677f6",
+			"3b251960-0d56-47a4-83e5-6fe1ad271434"
+		],
+		"doelniveau_id": [
+			"6d274fd7-ee0a-4079-aa9f-dea873d31915",
+			"e9f2e83d-6832-4972-8ed9-47a3947d7d7e",
+			"5846a598-2838-4fee-b1a4-7532b33c5867",
+			"f9b751a0-d0a4-4ad2-8dcc-c64e702e5e11",
+			"0d58a0b9-cde5-4cff-8ada-4041d028a5dc",
+			"4299e1bf-05b4-4cfb-b5e3-a69bd7849ba0",
+			"7a52dcec-0e24-40b9-8d16-2a0fb4e5514c",
+			"5eb8af56-3cdc-48c1-aba4-b3b9b3027c58",
+			"77c507f7-8175-4541-948d-8c056aafb401",
+			"15f1a487-7eec-42bd-829d-1322aede5925"
+		],
+		"title": "Materialen",
+		"id": "63a2bfb8-a0fa-453e-822c-22d269097c20",
+		"unreleased": true
+	},
+	{
+		"prefix": "tech/3",
+		"ldk_vaksubkern_id": [
+			"1bdf7a09-4950-4087-bf2c-730e2d5120ab",
+			"afd48e2e-7ca9-449f-bece-309916c109bc",
+			"abf0c4c5-9810-41fa-b0f5-6d0e56ff3ee9",
+			"cb961f21-83a5-4489-aad0-8bcfe80cd981"
+		],
+		"doelniveau_id": [
+			"6d274fd7-ee0a-4079-aa9f-dea873d31915",
+			"2786c4f5-b3c3-431e-a26d-61522c89911c",
+			"5846a598-2838-4fee-b1a4-7532b33c5867",
+			"70e157a2-1517-4b5e-a549-bf84eb7e9774",
+			"38d374e4-d129-4de2-96e6-f058a04f0a43",
+			"ea680f14-1eb2-459e-98e6-f51172ba0741",
+			"1493902a-d8cd-4d5f-98b0-33aaf7dc62a6",
+			"7bfd87be-540e-489b-8a8c-e09c13fed80c",
+			"a6c6ea83-c8ff-4680-b28e-3ca8bf188503",
+			"25e62e15-f704-45b3-96ba-4ea82a0f62e9"
+		],
+		"title": "Energie",
+		"id": "c227a598-5647-4565-a777-4231fbb7193e",
+		"unreleased": true
+	},
+	{
+		"prefix": "tech/4",
+		"ldk_vaksubkern_id": [
+			"0515c058-4457-4393-95b2-d3bee5478007",
+			"e7501c2e-a414-4b8b-a5cd-26e40e626f2d",
+			"6659fc20-3aed-4b33-92fc-04c5cc1a3dfa",
+			"c3b2d8f8-61b9-4d4f-9cfa-c4f76845ad5a",
+			"02879cc9-a134-4ff2-abb3-dca53cb63103",
+			"f11e305b-171f-40e9-b9cd-7e05a01435ad",
+			"a57b9cfb-18a5-4670-9865-fc5eaf066ba4",
+			"12a894f9-5c28-4485-9224-8b93b28418bc"
+		],
+		"doelniveau_id": [
+			"6d274fd7-ee0a-4079-aa9f-dea873d31915",
+			"a1ec3ea9-d4a7-4c63-8be2-06ecafaf32bf",
+			"5846a598-2838-4fee-b1a4-7532b33c5867",
+			"edda5c54-f2dd-4c26-8f33-fbfc6beab1dd",
+			"6a818876-aec4-4e62-aa2f-929f71616e25",
+			"99d0cec7-733c-485c-9378-4152979bb49c",
+			"460ffa72-ef25-4414-a022-7d06d07a3ffb",
+			"660786e6-a513-4c56-8b99-b62356d489c0",
+			"597a0d28-eb84-4808-b886-f7c3c206414f",
+			"2eeb0eae-b0e4-4500-a3d8-babcdb8e41f4"
+		],
+		"title": "Technische systemen",
+		"id": "a09fb45b-80cd-479a-b4b1-2c2539bb3a2e",
+		"unreleased": true
+	},
+	{
+		"prefix": "tech/5",
+		"ldk_vaksubkern_id": [
+			"509b28a1-4e9b-4aee-8526-d4a4b1d033cc",
+			"ccbbbbff-8c69-41e7-8cea-15453dbdc720",
+			"24a2150d-0605-4080-bbd3-c662b6928d60",
+			"9d8a742e-1d1f-4a13-987e-de35efa82971",
+			"dbcd5a1f-66c5-4f82-a9e7-c3773728be32"
+		],
+		"doelniveau_id": [
+			"6d274fd7-ee0a-4079-aa9f-dea873d31915",
+			"9379aa09-1edb-4df3-bf5d-3da106dba15a",
+			"5846a598-2838-4fee-b1a4-7532b33c5867",
+			"bbed3e07-d302-4aa6-9ff5-645232930b15",
+			"98bd3051-ceea-4e64-8b37-a73f10338df4",
+			"3848bf39-cf8f-47ac-ac9e-884f7f0b17fc",
+			"80698934-f6fb-48f9-a333-2f067da3af08",
+			"e931e140-84b8-47f6-ad1b-28c118bebb09",
+			"6288f6aa-0273-48ac-bb10-4fc5e0bffefd",
+			"08a73218-a4fa-4ce9-818f-a05634eeef47"
+		],
+		"title": "Wisselwerking technologie, natuurwetenschap en samenleving",
+		"id": "1fae9407-c8d3-466b-a113-a134779e9aaa",
+		"unreleased": true
+	},
+	{
+		"prefix": "tech/6",
+		"ldk_vaksubkern_id": [
+			"48f5340d-9a46-4089-aced-b0d9b142cfb3",
+			"35a33d7b-3126-4ff6-85b6-d6d37bfdb104",
+			"dbbd91b4-76b4-4071-b3d2-94b956ecca81",
+			"cdf7c375-b3ab-4ec9-b17c-bc8959a2ebda",
+			"47456e85-6e05-4c6c-8703-b28989522852",
+			"c8cf98c2-e8b5-4820-928c-903a3a77f234",
+			"032d56f0-9c98-4061-baff-e7e5824e6333",
+			"69939c06-7c0e-4e1d-b849-d649b8cad96d"
+		],
+		"doelniveau_id": [
+			"6d274fd7-ee0a-4079-aa9f-dea873d31915",
+			"e2ef163f-a723-4605-9230-3cd73bcd2c6d",
+			"5846a598-2838-4fee-b1a4-7532b33c5867",
+			"8bd86b4d-ec8b-4688-9ecb-5a0623d6f097",
+			"c731b120-ce63-4875-885c-25739f18b106",
+			"3bd9b836-3ae0-43e0-aca3-8c4febea5cb5",
+			"834c897c-c7ec-404f-bb98-dd0e3ffffc59",
+			"0f8f0018-2299-405c-bde6-7daa10ea28df",
+			"fcb5c4b2-51f1-4cdc-aa66-012c9f73ee34"
+		],
+		"title": "Ontwerpen",
+		"id": "d82a7e66-ab25-4650-8b66-365c85b1927f",
+		"unreleased": true
 	}
 ]
