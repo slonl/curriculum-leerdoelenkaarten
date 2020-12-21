@@ -1348,5 +1348,122 @@
 		"title": "Informatieverwerking en onzekerheid",
 		"id": "4619b78b-e4df-4dac-8c32-a2806051cbe2",
 		"unreleased": true
+	},
+	{
+		"prefix": "wi/1",
+		"lpib_vakkern_id": "9caab715-e38c-4d4c-80bd-d94f7f26e306",
+		"ldk_vaksubkern_id": [
+			"34b37ad0-6222-4422-9f63-fdf36a5bda17"
+		],
+		"doelniveau_id": [
+			"a5efb844-80cb-4875-b783-0cfc67b3a8d3",
+			"196c0b9c-ea25-40e9-98c4-4d5c1da64977",
+			"f5be3534-b25e-4c4a-aade-01045244307c"
+		],
+		"title": "Inzicht en handelen",
+		"id": "d6ca8385-20a5-4bd9-b5d4-edf0d469f4a4",
+		"unreleased": true
+	},
+	{
+		"prefix": "wi/2",
+		"lpib_vakkern_id": "47c83563-0e48-42db-92da-e9b937a53421",
+		"ldk_vaksubkern_id": [
+			"c504d35a-1e6e-4ef3-9394-ba3f1d51363b",
+			"9a0bbda2-a4a3-421f-8358-b0f2f7d6e5a2",
+			"11560d11-41f7-401f-81a5-f30630ee7949",
+			"3b377f8c-37ae-4c5a-94fc-b6e8ab805b2a"
+		],
+		"doelniveau_id": [
+			"25b72474-3a6d-45c5-bb4c-66c4f1d92161",
+			"4670d05e-023b-4a03-858d-43843e9ca800",
+			"b2eb91ad-48aa-4289-a5d8-86a212d9c6f9",
+			"b9e10efa-be7d-4376-8ed9-58aec277d216",
+			"9275f4ee-73f6-41b7-964f-899162067700",
+			"5037cfe6-3d1f-4717-b3fa-6f78300d39b5",
+			"dd9a0de3-622c-4dc8-8240-49c3f4655fe1",
+			"f6afaee1-3411-4803-a752-901f8123f9c0"
+		],
+		"title": "Getallen",
+		"id": "7cf83c87-dc3d-46e4-9d9a-4c1c67f66728",
+		"unreleased": true
+	},
+	{
+		"prefix": "wi/3",
+		"lpib_vakkern_id": "39b37b0c-217a-47ed-89be-25051737e780",
+		"ldk_vaksubkern_id": [
+			"2b5fbf1f-d39d-49f3-88dc-f3fc26a70af1"
+		],
+		"doelniveau_id": [
+			"dd9a0de3-622c-4dc8-8240-49c3f4655fe1",
+			"e58184d4-cbea-4a0e-886c-4d6b839edd49",
+			"98068a2d-6878-47a5-b1df-9d33355e45f7",
+			"c77120e7-b9fd-4e14-9dc5-7540c6777450",
+			"1888ca04-d8e2-45d5-b647-162ff27e62e4",
+			"a2f554a0-3eee-4446-938f-d7d5ee9192ed",
+			"fd6d45b1-9d98-49cd-907c-ed1d8c5ed1a0"
+		],
+		"title": "Verhoudingen",
+		"id": "4bfcab2d-913d-4b07-8ef5-b5c87bb6b289",
+		"unreleased": true
+	},
+	{
+		"prefix": "wi/4",
+		"lpib_vakkern_id": "3a85224b-ab8e-4168-ab7f-019fc45cfeaf",
+		"ldk_vaksubkern_id": [
+			"c8b0bcaa-51d7-4579-808f-9929d475ac5a",
+			"8b27f3b9-4567-4059-89c9-2a88f3ef9d5a"
+		],
+		"doelniveau_id": [
+			"e998151c-6074-4def-8a33-a1ce82d1e8aa",
+			"f42934b1-1ba6-42e2-a713-b539abdafc5d",
+			"33adef77-e97e-47d1-8d93-60f5cb72889b",
+			"82c4d53c-d7fc-48b5-9bc8-1dba9b8bb4a7",
+			"dfd5ad9d-2005-4b25-a249-ffb65f7be9ff",
+			"46a62657-5c8c-4508-b350-ab8eb0f29c42",
+			"89c6125f-5652-4b77-aafb-67dea2a61190",
+			"d1a89cbe-eaf3-4a5e-af03-ec354c6b97cf"
+		],
+		"title": "Meten en meetkunde",
+		"id": "89284c91-aabb-4244-b3de-4ef61d8858e0",
+		"unreleased": true
+	},
+	{
+		"prefix": "wi/5",
+		"lpib_vakkern_id": "aefdd771-208d-40e1-9e09-4cba6dfc406a",
+		"ldk_vaksubkern_id": [
+			"ed5ddd51-67c3-47d7-8c36-5d5d92359812",
+			"bfc930eb-6269-41db-b33c-6dc93732ed9d",
+			"e6ad35a7-d9c2-42fa-98c6-5270ed386d27",
+			"91512489-3e18-4210-8686-e3a11a2a10b1",
+			"478ada71-52f6-418f-b73a-10fb4732d552",
+			"6f0eada6-e8e9-458b-88ae-43bc594ed524"
+		],
+		"doelniveau_id": [
+			"d6b2d2ca-b525-4e05-b97a-6bc6c06abbd4",
+			"162d8db1-e792-4e1a-8f48-45eb61c3f686",
+			"a2e39665-c0e0-446b-afbf-8155a51f1e4a",
+			"9ebe2cbb-91b7-4792-a47d-62457520fdbb",
+			"87e5c583-8b0e-448f-81e3-7e48fa31eefe",
+			"2f604535-380b-4334-94fb-8058322c2bb8",
+			"8545dc42-da8a-4a85-b3a9-5f8362442491"
+		],
+		"title": "Verbanden en formules",
+		"id": "f453ee24-2a74-4746-8c83-36275e4eebff",
+		"unreleased": true
+	},
+	{
+		"prefix": "wi/6",
+		"lpib_vakkern_id": "ac408e1d-99db-4286-b8c6-583615b7e198",
+		"ldk_vaksubkern_id": [
+			"9adf7afd-169a-4697-8ab5-a79fd214afbf"
+		],
+		"doelniveau_id": [
+			"07a26f62-548e-47bb-941a-e45f5c35b577",
+			"6440f478-6c8e-4651-85b3-722b115f867f",
+			"5ea701cd-addc-46e7-95c0-7a2f8fbfa278"
+		],
+		"title": "Informatieverwerking en onzekerheid",
+		"id": "9c771506-2e1d-4e63-8a9a-c82a2fdecb4e",
+		"unreleased": true
 	}
 ]
