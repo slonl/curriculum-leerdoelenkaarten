@@ -17356,5 +17356,356 @@
 		"title": "Stoftransport en pH, polair, membraan",
 		"id": "491fa255-edaf-4eed-a59b-942dc82c4aa5",
 		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"50ba02ed-f751-4c0c-8246-caf9f69678ff"
+		],
+		"title": "logaritme",
+		"id": "14198366-9504-4b44-b99e-5a67fb4e4de6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"f9b6d406-8ac5-448c-bd05-2a03a627b7ad"
+		],
+		"title": "permutaties, combinaties",
+		"id": "984a6ec8-69fa-40a9-8fc6-0b6b78683f86",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"2805ba4a-7367-47ef-b3b9-63f15277c729"
+		],
+		"title": "permutaties, combinaties",
+		"id": "94573cde-e518-43ec-9517-055cbf61ea44",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"47f5a00f-2439-4cff-8fdd-8c4bfea6aa1e"
+		],
+		"title": "boomdiagram, wegendiagram, rooster",
+		"id": "a3787f0a-3c06-47e9-b434-f76dfcc96c46",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"9ef7949b-0b92-4b45-99b5-be580beed917"
+		],
+		"title": "variabele, verband",
+		"id": "50037632-d351-4ba5-a80d-5707d90b934b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"b22376a0-6e96-407d-ad79-ed08979b7e34"
+		],
+		"title": "variabele, verband",
+		"id": "fed72df4-dc67-4e56-a941-6f6629eea51c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"338cf0dc-e93a-4bdd-a2d5-63a4b3356a38"
+		],
+		"title": "variabele, verband",
+		"id": "521e6014-ce5e-4164-8793-012c87542750",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"f6651d8e-a47c-4a49-9275-14d59ab5e1db"
+		],
+		"title": "evenredigheidsverbanden, recht evenredig, evenredig, omgekeerd evenredig",
+		"id": "2a001445-6752-4eb9-a0d6-a0c9b3dc5e44",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"12418d7d-9480-4376-98b2-b272675d3bb6"
+		],
+		"title": "logaritmische schaalverdeling",
+		"id": "2f1b1539-035d-429b-8a55-b97ae8587f64",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"efd63e5f-dbee-434c-beda-f77492f4318d"
+		],
+		"title": "standaardverbanden, lineair verband, exponentieel verband",
+		"id": "b1bc6fd8-1fb7-43b3-9e4a-fb3588b0bd10",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"27067698-8421-4bbd-91ba-e777ee636dfa"
+		],
+		"title": "maximum(waarde), minimum(waarde), (constant, toenemend of afnemend) stijgen, (constant, toenemend of afnemend) dalen",
+		"id": "b6b6d21d-2ae3-42c5-87b6-6ac4bad56774",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"2e475e5b-89c7-4d6a-87c2-a6258b202a6f"
+		],
+		"title": "snijpunt(en) met de x-as en y-as",
+		"id": "7869b59d-54bb-42d7-a5e6-667e571dbcfc",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"4310d4fd-3f4c-42e6-a19b-02cabd9f1c05"
+		],
+		"title": "logaritmische schaalverdeling, logaritme",
+		"id": "f1d23201-c721-4fd7-9450-b34d7d734b5a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"feabc96a-bfda-4997-970c-d920eef708eb"
+		],
+		"title": "evenredigheidsverbanden, recht evenredig, evenredig, omgekeerd evenredig",
+		"id": "be3436e6-5caf-40c0-824f-9bf880a73789",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"5db8d861-2b35-44e0-ac5e-4f4fc14cadd7"
+		],
+		"title": "standaardfuncties, lineaire of eerstegraadsfunctie, kwadratische of tweedegraadsfunctie, machtsfunctie, logaritmische functie, sinusfunctie, natuurlijke logaritme",
+		"id": "1023208e-fae3-4bee-b276-23e8f3cb48fa",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"7c4c7f00-dfea-4fc6-ad31-c4fb5ae7ddc3"
+		],
+		"title": "maximum(waarde), minimum(waarde), constant, toenemend of afnemend) stijgen, (constant, toenemend of afnemend) dalen",
+		"id": "bc8a18bf-b05d-4df0-bb10-30d2963694cb",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"f167bdbd-06de-4bce-a21e-2d1751f52b52"
+		],
+		"title": "snijpunt(en) met de x-as en y-as, top",
+		"id": "bcf26287-e3ec-4614-ad34-232f268bcb9c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"fd7efbb9-50be-43bb-927d-827d20c6c59a"
+		],
+		"title": "verschuiving, herschalen",
+		"id": "a0ac05d6-ac1d-4a62-96ab-f63d31ea7876",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"e1b6d302-9ecd-4658-a98a-29c5a95c331b"
+		],
+		"title": "periode, amplitude, evenwichtsstand",
+		"id": "40f68a45-5f0a-4e22-bff0-3580fab9702c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"decde5f8-7c09-4edd-891f-4fb319fae296"
+		],
+		"title": "lineair (of eerstegraads), richtingscoëfficient",
+		"id": "73794911-5d64-4129-97f1-854f4eaa585a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"dab721b0-fd22-42eb-bd58-cd25562f1abf"
+		],
+		"title": "vergelijking van een lijn",
+		"id": "97089574-80b8-4218-8377-c6d676a36e7e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"99706385-e2d4-4210-9f05-9f42d0acc3bf"
+		],
+		"title": "exponentieel, grondtal, exponent, beginwaarde, groeifactor, groeipercentage",
+		"id": "d417161b-d57b-4dd3-9967-0e830ff9979b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"b7d4b728-24ca-48fd-8fec-52777c4e4f85"
+		],
+		"title": "halveringstijd, verdubbelingstijd",
+		"id": "84912ed8-8678-4573-b3b4-43d516c98728",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"0acade28-66a0-4a09-8dcd-4f71c5610c16"
+		],
+		"title": "exponentieel, grondtal, exponent, beginwaarde, groeifactor, groeipercentage",
+		"id": "ab99e77d-4b66-457f-8132-c5308b0de9cc",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"ed1da01d-b412-46e5-ac7a-4cc17f52b201"
+		],
+		"title": "exponentieel, grondtal, exponent, beginwaarde, groeifactor, groeipercentage",
+		"id": "2175ca94-c915-41b7-bb90-85b13b76b95e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"81422c14-9428-4dd1-94a2-24f87cd60edc"
+		],
+		"title": "vergelijking, ongelijkheid, lineaire of eerstegraadsvergelijking",
+		"id": "a8011185-d69c-4ee5-a25f-2093be215b29",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"ec55fa4e-e27a-45b3-966a-dd5d79d10f2b"
+		],
+		"title": "vergelijking, ongelijkheid, lineaire of eerstegraadsvergelijking",
+		"id": "a4414ed5-75ac-4ba1-b822-339b101d8940",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"59bb80d1-ce03-4f36-ae11-e08fe2113694"
+		],
+		"title": "data, discreet, continu, kwantitatief, kwalitatief, nominaal, ordinaal, frequentie, groepen, kenmerk, klasse, klassenindeling,  centrummaat, centrum, gemiddelde, mediaan, modus, modaal, , spreidingsmaat, spreiding, interkwartielafstand, standaardafwijking, spreidingsbreedte",
+		"id": "c95c0fc6-d674-40e7-9f00-008d711fa00d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"e517f15d-2ddb-40d8-b521-958cd7b64906"
+		],
+		"title": "data, discreet, continu, kwantitatief, kwalitatief, nominaal, ordinaal, frequentie, groepen, kenmerk, klasse, klassenindeling,  centrummaat, centrum, gemiddelde, mediaan, modus, modaal, , spreidingsmaat, spreiding, interkwartielafstand, standaardafwijking, spreidingsbreedte",
+		"id": "92c28344-59cd-4aa4-841d-5ee90b8a4968",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"d3ff73bd-28bf-4c42-ac9a-c492110dcce4"
+		],
+		"title": "representatie, presentatie, dotplot, staafdiagram, cirkeldiagram, steelbladdiagram, lijndiagram, (cumulatief/relatief) frequentieplygoon. Boxplot, (cumulatieve) frequentietabel, kruistabel, puntenwolk, spredingsdiagram",
+		"id": "e65868b8-14ba-4393-af24-e46fb72449d2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"2297d787-07b9-4c74-a809-827d2c84f387"
+		],
+		"title": "verdeling, klokvormig, meertoppig, uniform, scheef, staart, uitschieter, normale verdeling, de drie vuistregels, populatie, populatiegemiddele, populatieproportie,",
+		"id": "366185c7-40a2-4c59-bbf2-b62dc4e03cf3",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"631129d1-a509-4bf5-8965-dbd45f696aad"
+		],
+		"title": "betrouwbaarheid, betrouwbaarheidsinterval, steekproef, aselect, representatief, steekproefomvang, steekproefverdeling. Steekproefgemiddelde, steekproefproportie",
+		"id": "3748b11d-7469-49bf-a5b5-8b86467d79ff",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"5793c2d1-391b-4d18-8fe5-6abad55b01c2"
+		],
+		"title": "betrouwbaarheid, betrouwbaarheidsinterval, steekproef, aselect, representatief, steekproefomvang, steekproefverdeling. Steekproefgemiddelde, steekproefproportie",
+		"id": "496c34a1-10b3-4ddb-ac6c-81dd00e2ec27",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"728ce8c2-5275-44fb-849b-1101dd0c685c"
+		],
+		"title": "rijen, inclusief notaties, directe formule, recursieve formule, rekenkundige rij, meetkundige rij, somrij, Σ-teken",
+		"id": "c1bed10f-be7b-4001-b0bc-9a9151c612b4",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"2ae84a9f-c72e-4c90-a6e6-50055d459b0f"
+		],
+		"title": "rijen, inclusief notaties, directe formule, recursieve formule, rekenkundige rij, meetkundige rij, somrij, Σ-teken",
+		"id": "042ee56d-570a-419c-a79e-c52ddcf85685",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"1730d494-e60b-45f2-b2ad-c0303e222a2b"
+		],
+		"title": "interval, gemiddelde verandering, helling, differnetiequotiënt, toenamediagram, hellinggrafiek, extreem, extreme waarde",
+		"id": "7c751db6-fbd1-4893-9b53-ca1e65e0a98a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"6d4ee1b5-d0ad-46eb-8f8d-e15aae49717b"
+		],
+		"title": "interval, gemiddelde verandering, helling, differnetiequotiënt, toenamediagram, hellinggrafiek, extreem, extreme waarde",
+		"id": "664d8e65-12be-4d52-a168-e998b6b66c4a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"503e1125-f5ad-4431-a868-372476565af0"
+		],
+		"title": "afgeleide, inclusief notaties, somregel, verschilregel, productregel, quotiëntregel, kettingregel, raaklijn",
+		"id": "353f9f53-1383-4a6c-91cd-7d729dea4f51",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"294e0057-56ed-4fab-9174-2e4b6a54338a"
+		],
+		"title": "afgeleide, inclusief notaties, somregel, verschilregel, productregel, quotiëntregel, kettingregel, raaklijn",
+		"id": "0e5bb3e7-82ed-43e8-91d2-1e884cb29add",
+		"unreleased": true
 	}
 ]
