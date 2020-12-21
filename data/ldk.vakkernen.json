@@ -934,5 +934,125 @@
 		"title": "Ruimte",
 		"id": "e7b50d18-9250-4b58-a2f6-260daf1e4e71",
 		"unreleased": true
+	},
+	{
+		"prefix": "sk/1",
+		"lpib_vakkern_id": "99c06a9b-fce9-4f6e-ac03-aad707ba66dd",
+		"ldk_vaksubkern_id": [
+			"8e20e826-a284-42d8-8385-a679b127a02f",
+			"b7157315-e99d-446f-8bef-977c0bacb81b",
+			"78e5e393-f8ce-4250-bd23-ccdd709f17d2",
+			"650359c5-9e3e-4efc-8bd8-50edc6ee0060",
+			"be3364f4-b02d-4d96-bedf-9c822eec2523",
+			"58a7cb68-f895-423d-bae4-09218583d8ea",
+			"f952884e-d3aa-4cea-a54d-7a1b662a49cc",
+			"f72e3743-f491-4870-acbb-eaad734a8143",
+			"e179f4f6-204f-4da1-91ed-bebb7031a5a8",
+			"445ea2f1-29f5-4620-90c8-b2cf1abec33a"
+		],
+		"doelniveau_id": [
+			"bcd41fe7-ecdd-449d-ad57-2097f448dcf1",
+			"4c49be82-c811-4514-a6e1-64ebd065903b",
+			"6d274fd7-ee0a-4079-aa9f-dea873d31915",
+			"63fb9159-cd20-4a3e-a1b9-9a15ac382e90",
+			"5846a598-2838-4fee-b1a4-7532b33c5867",
+			"d0e6350b-8c70-482e-b4ac-0f7bd5441d0e",
+			"9e87509b-1a51-41e3-8dce-3a1159aa56dc"
+		],
+		"title": "Materie",
+		"id": "574742f7-fceb-4e60-bbea-0711dfa042ab",
+		"unreleased": true
+	},
+	{
+		"prefix": "sk/2",
+		"lpib_vakkern_id": "481c144f-7d82-492d-be54-b67b4cf54d4d",
+		"ldk_vaksubkern_id": [
+			"40e71b27-bd24-418c-bffe-3f02430f6b14",
+			"42818f43-2d6d-4cdd-ac95-8b3af3cf1f3a",
+			"4423140a-9b3a-400b-bf28-2ba505936e48",
+			"4a7b2b3d-2879-4c2d-9ebb-4885e68583f0",
+			"7abb92ef-cf61-4f82-88c5-70cec9e0fcc1",
+			"abcd5f29-b6be-4f26-b8f3-dd55a2199184"
+		],
+		"doelniveau_id": [
+			"c8d8dcb0-9326-4e70-9762-765fca02b7a5",
+			"4aa74254-eb43-4339-aca0-d9ad58802d6e",
+			"6d274fd7-ee0a-4079-aa9f-dea873d31915",
+			"5a50ef84-c5e1-4d4b-8d81-b435c2456acb",
+			"5846a598-2838-4fee-b1a4-7532b33c5867",
+			"5dcfaec4-6bdd-45f7-8714-ef82d7457dc1",
+			"d78cec63-6d48-450d-b209-235304f98179"
+		],
+		"title": "Schaal, verhouding en hoeveelheid",
+		"id": "233fdc4b-10fa-427c-8a31-2bbfdf7bff39",
+		"unreleased": true
+	},
+	{
+		"prefix": "sk/3",
+		"lpib_vakkern_id": "39d7b775-88ef-4e20-bee5-b3a160d022a9",
+		"ldk_vaksubkern_id": [
+			"ae47dc12-1c82-4a76-adce-de7d9139c7f3",
+			"f64c750d-0bfa-4a80-8024-3cf8b9b54884",
+			"743548ee-2085-4aee-bf9c-573bf441a1bf",
+			"497ff153-2124-493a-82d1-56c207cdf879",
+			"23a52b02-9a60-4a40-83d5-aeb3274279c2",
+			"76bca715-92b3-46de-95e1-320c34f3cf54",
+			"c7d5f137-1ab9-486c-b0b0-a31a1454ad00",
+			"168a0273-a2df-4366-8854-57ffe35231c4",
+			"67fedfee-3914-467e-aefd-915d18e399fd",
+			"76adb9e4-245d-42f6-87a7-d5549b6fe1fb",
+			"e0eb95cf-b648-41a5-bba8-1a26490d235c"
+		],
+		"doelniveau_id": [
+			"698a54a7-c00b-43d7-9627-756a46df9d72",
+			"42f12283-ff10-4674-bc7d-904f3b6a6b5d",
+			"6d274fd7-ee0a-4079-aa9f-dea873d31915",
+			"cfa0ef42-dd68-479d-b07a-0ac29e25cbb9",
+			"5846a598-2838-4fee-b1a4-7532b33c5867",
+			"9e1cf0d0-59b2-454f-ab37-72d11960bfee",
+			"b9799cc3-15a3-423f-aa81-649e366e4dd1"
+		],
+		"title": "Reactiviteit",
+		"id": "f26ea536-9fae-4769-9de2-03ae41086491",
+		"unreleased": true
+	},
+	{
+		"prefix": "sk/4",
+		"lpib_vakkern_id": "5b545ebf-f228-433d-ae18-49bc512d97cd",
+		"ldk_vaksubkern_id": [
+			"37479d38-c0c8-4674-b0d1-1d96940b6384",
+			"fbd8abbf-06c5-48a6-86d7-be60b0f8353d",
+			"176b9d23-c47b-4ad2-888f-038bea986cdb",
+			"24364cca-b572-4d86-90a9-98aa888010cd"
+		],
+		"doelniveau_id": [
+			"2002a334-e4bd-4f8b-9988-f865043c93ac",
+			"c4311b33-cbcf-4388-b7e5-4c3471be0a4e",
+			"6d274fd7-ee0a-4079-aa9f-dea873d31915",
+			"5e3ed8e2-5877-45bf-ae5e-c12c9c102e98",
+			"5846a598-2838-4fee-b1a4-7532b33c5867",
+			"d8232a86-a0db-44bc-9a23-9bd00c80c3a5",
+			"edaef783-5778-42da-9274-bdb460419749"
+		],
+		"title": "Energie",
+		"id": "387ea678-fd2c-4b85-b3c5-ace8074f4ce4",
+		"unreleased": true
+	},
+	{
+		"prefix": "sk/5",
+		"lpib_vakkern_id": "90d2e1b2-1c2f-4281-9e1b-31281774de3c",
+		"ldk_vaksubkern_id": [
+			"b0c1a3ae-41aa-4389-a8cf-75f17715b849",
+			"0c0e971c-60de-4a54-924f-9b3d2c69f138",
+			"09cea0bd-1310-4a69-8570-9cb907429b58",
+			"504dbbd3-8bd1-40cc-a02e-ca9eee1e3509"
+		],
+		"doelniveau_id": [
+			"57b15b74-010c-4f07-9b35-2bc5b4a7b2bc",
+			"8fe204ea-0d42-4b11-bb04-6b8063e9f365"
+		],
+		"title": "Systeem",
+		"id": "6fb11f8a-de4b-4278-8f13-3f29af233294",
+		"unreleased": true
 	}
 ]
