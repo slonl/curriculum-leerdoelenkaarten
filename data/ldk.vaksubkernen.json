@@ -7298,5 +7298,147 @@
 		"title": "Integreren",
 		"id": "0b2d6e2f-58e7-4f20-a75b-126adbb1056b",
 		"unreleased": true
+	},
+	{
+		"prefix": "du/1/1",
+		"ldk_vakinhoud_id": [
+			"dac16c0d-b05a-4363-83b5-148fe4dce09e",
+			"46338696-0300-45ae-aed7-1caf6469e0b3",
+			"5826500f-50c6-416b-be2b-dbfbaed228c7",
+			"b18b1d2e-1daf-400e-ba50-8d3d76304d08",
+			"0b548ca1-f519-47a0-b8be-3b1d36eca3a6",
+			"b5a776e8-4c92-47d5-95bf-cfd794ec9a48",
+			"d7dbf16c-3067-4bf1-b079-d8652db73a02",
+			"b992ca83-ab47-48ef-a6f3-7bbfea5fcba5",
+			"f9e91537-89e0-4f33-b113-03dca7a85abc",
+			"c4e3f84a-2df5-42ae-9c2e-e1eadf16682b",
+			"f96bbeeb-81d1-40d7-8c45-4fda99c70ec1",
+			"d4c05b1e-1da3-4576-a90f-579cf1111612",
+			"c202de8b-b784-4806-b767-375666f07563"
+		],
+		"title": "Hoe doe je het?",
+		"id": "28cdaf14-2b77-4c8b-9208-ced6d606f036",
+		"unreleased": true
+	},
+	{
+		"prefix": "du/1/2",
+		"ldk_vakinhoud_id": [
+			"7508d24a-3993-4e96-b2aa-1fa5d71152d8",
+			"352b569a-0bbd-4cac-97fb-5fdda90c1525",
+			"f686bce6-4969-49f7-9707-02ba50bc7165",
+			"530e143b-e25e-4e3e-a4ab-91d794351323",
+			"6940b24e-f16f-4fa1-9153-1e67611abef6"
+		],
+		"title": "Wat doe je?",
+		"id": "3fec5bb7-ded5-459d-b438-a130db85e640",
+		"unreleased": true
+	},
+	{
+		"prefix": "du/2/1",
+		"ldk_vakinhoud_id": [
+			"9aa85425-c438-4ee5-b04a-97b86456736f",
+			"3158f8fa-c9e7-40fd-9a4c-164a868082f4",
+			"c952bbc5-f389-4779-ab0b-8529129dd9f0",
+			"bcafa4b3-2aaa-4a19-872b-4c29b87e046c",
+			"7804af1b-8354-4e95-b0a8-25d6013d33c3",
+			"1f883262-e599-47c4-ab74-5df3158769bd",
+			"24476b1a-5d53-46d9-94e7-9c493b0fdb0d",
+			"378d0f3b-1347-45e9-954d-90582a3ce2a4",
+			"4ace83da-c6d3-4dd0-a20c-353b18abdd67"
+		],
+		"title": "Hoe doe je dat?",
+		"id": "79663135-bb7f-4ec9-adb2-a6ca42adbfa2",
+		"unreleased": true
+	},
+	{
+		"prefix": "du/2/2",
+		"ldk_vakinhoud_id": [
+			"5f76eade-b820-4695-9d87-01c52c423646",
+			"50ad14bc-d64d-4991-9723-92a6894777a8",
+			"a5030432-0c99-4ab1-8b86-18a68e4595d0"
+		],
+		"title": "Wat doe je?",
+		"id": "81db5da2-221c-408b-9e85-93e6f51ac017",
+		"unreleased": true
+	},
+	{
+		"prefix": "du/3/1",
+		"ldk_vakinhoud_id": [
+			"d5d3b5cd-9c50-4f96-a724-7508a529c64c",
+			"e4c63654-22ff-4abe-ab34-61dfc5ea5203",
+			"8795b74d-8992-4e90-afea-0f8a8fda945d",
+			"74f555c4-69c7-4508-90a5-4544e142813c",
+			"048e3feb-3483-480e-8fde-4782af5d3c5b",
+			"0cc3a685-cdc5-4146-b849-225fcf94177e",
+			"a6a35ec5-f855-4983-bdb6-7738e4999c49",
+			"8a28c496-bbe6-49ec-aad2-054f9875f16f"
+		],
+		"title": "Hoe doe je dat?",
+		"id": "b26ba189-3a3a-451b-816f-8a32799ea715",
+		"unreleased": true
+	},
+	{
+		"prefix": "du/3/2",
+		"ldk_vakinhoud_id": [
+			"d5110c8c-1be2-4477-b73c-38e026b69184",
+			"38d95b5a-7c5f-4fb7-a870-a199246749bc",
+			"7da0d07c-6e68-4479-a652-035617b54da4",
+			"3d62fda5-8d8a-46f1-b8e6-eb28f33a313d",
+			"7bc966b8-5cca-4ae5-b0ed-89a514d81e4a"
+		],
+		"title": "Wat doe je?",
+		"id": "867bf604-c744-4f70-8943-84902cae1df6",
+		"unreleased": true
+	},
+	{
+		"prefix": "du/4/1",
+		"ldk_vakinhoud_id": [
+			"2dd920f3-d1e4-4a16-aa19-1a509e5d1189",
+			"8bceee02-058e-4c46-92a1-81adcfdd640c",
+			"74c32a6d-15f4-4896-83c7-217a34e5b176",
+			"8ed4ff3a-85b8-49d1-a167-cc5b7e142cb5",
+			"d7a5602d-3e51-4900-b79a-9d362f5f1ca1"
+		],
+		"title": "Hoe doe je dat?",
+		"id": "8297f652-6c96-47cf-abf2-3ce85537ae8d",
+		"unreleased": true
+	},
+	{
+		"prefix": "du/4/2",
+		"ldk_vakinhoud_id": [
+			"ddef5918-bd23-483d-bbcb-0998ed480ed3",
+			"ad38d692-baa8-416f-a5cb-452f710d8bf8",
+			"1626cf1e-9a10-448b-9e19-161aa0c99141",
+			"20d4067c-f637-4dff-94e7-6c4974416d0c"
+		],
+		"title": "Wat doe je?",
+		"id": "dc4021a9-8015-4925-8395-fc0da76737fb",
+		"unreleased": true
+	},
+	{
+		"prefix": "du/5/1",
+		"ldk_vakinhoud_id": [
+			"f6c17406-5755-46ac-aec4-b3fdc395c0b0",
+			"e65ced94-2cb6-4eee-a94f-a5ee96a0594b",
+			"5ecc89c0-20c4-4bf9-94e7-07b3f6bda6b1",
+			"4437ed88-6558-46ea-b627-77994d490bd5",
+			"070d4503-e073-47a1-878a-4ba1b7a13bdb"
+		],
+		"title": "Hoe doe je dat?",
+		"id": "6a04a31a-6b36-4841-8f95-0dfc78df5501",
+		"unreleased": true
+	},
+	{
+		"prefix": "du/5/2",
+		"ldk_vakinhoud_id": [
+			"ec1ba431-77cf-44ed-94e2-10d651fe6813",
+			"80db06de-038b-48d9-8ede-3a606f9a838e",
+			"ea88b96a-ddba-4f3b-9a84-c21cd5096dcd",
+			"5ad4f4fc-7fd5-428e-a41a-f7405023e966",
+			"c2ef5a11-f669-470b-895e-2b3ec45788d7"
+		],
+		"title": "Wat doe je?",
+		"id": "5cab265c-0890-4d87-b6a8-38a08110d967",
+		"unreleased": true
 	}
 ]
