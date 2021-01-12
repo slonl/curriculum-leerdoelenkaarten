@@ -1528,5 +1528,86 @@
 		"title": "Analyse",
 		"id": "5fbaaaf3-bd6e-49a1-bf6a-fbbefbe5bf3e",
 		"unreleased": true
+	},
+	{
+		"prefix": "du/1",
+		"lpib_vakkern_id": "2affa696-9540-4448-8897-683b28fcb493",
+		"ldk_vaksubkern_id": [
+			"28cdaf14-2b77-4c8b-9208-ced6d606f036",
+			"3fec5bb7-ded5-459d-b438-a130db85e640"
+		],
+		"doelniveau_id": [
+			"b98ee5f5-ad90-4ec5-a6b2-1b7565110710",
+			"91ff9475-d605-47dc-8546-938b1a08135a",
+			"376cc3ac-89f6-4c6f-9155-3ca2e0fc15ef",
+			"75d49210-c98e-4149-b9c5-12a56304c9dd"
+		],
+		"title": "Gesprekken voeren",
+		"id": "4706783e-a395-456d-b3b9-ba8adb0b230a",
+		"unreleased": true
+	},
+	{
+		"prefix": "du/2",
+		"ldk_vaksubkern_id": [
+			"79663135-bb7f-4ec9-adb2-a6ca42adbfa2",
+			"81db5da2-221c-408b-9e85-93e6f51ac017"
+		],
+		"doelniveau_id": [
+			"b98ee5f5-ad90-4ec5-a6b2-1b7565110710",
+			"af9e07b5-274e-47f9-83fb-74ede3b75fe5",
+			"0c34651f-325f-4378-9eea-466fbc319180"
+		],
+		"title": "Spreken",
+		"id": "721ec1f3-51f6-428c-ae1c-4f280af18a21",
+		"unreleased": true
+	},
+	{
+		"prefix": "du/3",
+		"ldk_vaksubkern_id": [
+			"b26ba189-3a3a-451b-816f-8a32799ea715",
+			"867bf604-c744-4f70-8943-84902cae1df6"
+		],
+		"doelniveau_id": [
+			"b98ee5f5-ad90-4ec5-a6b2-1b7565110710",
+			"69ced4da-2685-41f6-91aa-b064923016db",
+			"0c34651f-325f-4378-9eea-466fbc319180"
+		],
+		"title": "Schrijven",
+		"id": "3f74fd6a-2f4b-4df1-88a6-d8df430b5d8f",
+		"unreleased": true
+	},
+	{
+		"prefix": "du/4",
+		"lpib_vakkern_id": "ea0d0b6b-f33c-478a-b550-c275caf31d3a",
+		"ldk_vaksubkern_id": [
+			"8297f652-6c96-47cf-abf2-3ce85537ae8d",
+			"dc4021a9-8015-4925-8395-fc0da76737fb"
+		],
+		"doelniveau_id": [
+			"b98ee5f5-ad90-4ec5-a6b2-1b7565110710",
+			"6ebe46fa-2da6-49f9-9847-62ef07de8915",
+			"4f613226-698a-44a8-96b4-84a01800ea24",
+			"3e755e16-6af8-4d40-b6de-716da2a73efc"
+		],
+		"title": "Lezen",
+		"id": "256a9258-e838-4cd9-b221-08389412a9ab",
+		"unreleased": true
+	},
+	{
+		"prefix": "du/5",
+		"ldk_vaksubkern_id": [
+			"6a04a31a-6b36-4841-8f95-0dfc78df5501",
+			"5cab265c-0890-4d87-b6a8-38a08110d967"
+		],
+		"doelniveau_id": [
+			"31a2f739-6336-4835-8687-6553b1d7cfae",
+			"355c28ff-61e5-446e-b7ee-57ea62b482b5",
+			"90a5d3f5-edf9-4b61-a949-87bfcfee8c0d",
+			"2fe1e415-3d5b-41bc-8ea9-394eec25f404",
+			"0c34651f-325f-4378-9eea-466fbc319180"
+		],
+		"title": "Kijken en luisteren",
+		"id": "b85bab53-e617-43cd-a936-0eeaec745b6e",
+		"unreleased": true
 	}
 ]
