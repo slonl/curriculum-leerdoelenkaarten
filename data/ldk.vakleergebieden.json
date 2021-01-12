@@ -173,5 +173,18 @@
 		"title": "Wiskunde B",
 		"id": "3ea6a1fb-3f1e-4561-b495-2a4679710304",
 		"unreleased": true
+	},
+	{
+		"vakleergebied_id": "91e9afb9-a8ab-4fde-aa97-9884a8920b78",
+		"ldk_vakkern_id": [
+			"4706783e-a395-456d-b3b9-ba8adb0b230a",
+			"721ec1f3-51f6-428c-ae1c-4f280af18a21",
+			"3f74fd6a-2f4b-4df1-88a6-d8df430b5d8f",
+			"256a9258-e838-4cd9-b221-08389412a9ab",
+			"b85bab53-e617-43cd-a936-0eeaec745b6e"
+		],
+		"title": "Duits",
+		"id": "dca94895-40b9-4001-97ac-149f38bef782",
+		"unreleased": true
 	}
 ]
