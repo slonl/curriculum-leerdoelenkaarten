@@ -186,5 +186,18 @@
 		"title": "Duits",
 		"id": "dca94895-40b9-4001-97ac-149f38bef782",
 		"unreleased": true
+	},
+	{
+		"vakleergebied_id": "f851676e-b541-42db-986a-5c468974f65e",
+		"ldk_vakkern_id": [
+			"3665443c-cf4d-4fed-a9a4-18a5df340227",
+			"4d3b143d-7681-42e2-90be-0f97c1f7fb95",
+			"784f6765-2b6d-4d1b-ae37-61c9986b0a1e",
+			"ab1fa04e-6223-49b6-be20-dcc7bf2e712e",
+			"21f50baa-2341-4a87-a045-4cddc8037b84"
+		],
+		"title": "Frans",
+		"id": "2de8c75e-40f8-4a3b-a913-4f9138f95b36",
+		"unreleased": true
 	}
 ]
