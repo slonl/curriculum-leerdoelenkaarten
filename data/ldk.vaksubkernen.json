@@ -9077,5 +9077,1647 @@
 		"title": "Mileueffecten, samenwerken en onderhandelen",
 		"id": "348db440-c7a4-4730-8851-759455d6418e",
 		"unreleased": true
+	},
+	{
+		"prefix": "gs/1/1",
+		"lpib_vaksubkern_id": "65dbf7e1-6f9e-4d5a-9249-6795f6b4a579",
+		"ldk_vakinhoud_id": [
+			"74a97e32-c628-4776-b4d3-2efe606a7bb8"
+		],
+		"doelniveau_id": [
+			"76779d10-e565-4caa-ab4c-5cef51c9eded",
+			"335a511b-dc11-4d18-9d06-5b4d5f0e717a",
+			"8b9fb7f2-b27b-4551-9a91-2d2e15743975",
+			"db05ffb6-8a5c-4486-8616-6c13699869a1",
+			"31aaa3aa-4f82-4c2c-9cb7-cb088e38d963",
+			"479ed448-3a4c-4136-8211-81ff4b217d6c",
+			"0d124f95-2ca0-4bef-ab7b-90cfa7db29f3",
+			"238a2d2d-9e88-4091-b22e-76c57f16ed6b",
+			"c2d3c44f-6745-4f97-b159-f7001ddb8819",
+			"5a3f58b4-e9e8-4ad9-a052-127d78335a18",
+			"b5c3bdbf-ded4-44c8-bba6-a92a6cd21bd4",
+			"4ec49dd9-6943-41b9-b014-d0382a6cb294"
+		],
+		"title": "De levenswijze van jagers en verzamelaars.",
+		"id": "82dd9cc5-8b36-4cd0-b8a7-25e9427e8018",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/1/2",
+		"lpib_vaksubkern_id": "d1d5d7f7-23a6-4ef1-855e-ba84cb0a4401",
+		"ldk_vakinhoud_id": [
+			"20b779da-f46d-4ec6-9bb2-dd5173db262e",
+			"3268a063-8cda-4b8d-b34b-7a376927e20e"
+		],
+		"doelniveau_id": [
+			"07403bb1-a9bc-49b0-9634-b04a783a71c6",
+			"9f473243-4562-43a7-9a01-ad6967f9927d",
+			"a21972c5-6288-4389-93f5-0ec5c4bf41ca",
+			"3876a429-6d91-4655-9dfd-31d2ef74c1f0",
+			"fa748a5f-9007-4267-9cd2-9636c9d43035",
+			"f50b54f9-1b11-4341-9b21-1c356215f6c5",
+			"78799e4c-b5a2-4fd3-a903-a70b34d27dc2",
+			"60b7b379-1db8-4cb5-b3f1-7f351f17950f",
+			"f53925c0-09f2-44cb-8c38-2c6dd727e24d",
+			"e6d8df53-5d6c-4d30-b1e2-f91be65e4458",
+			"e043c0b3-4ac1-454e-87f7-c35e47eeb933",
+			"1925a8e1-a367-4203-a119-cb12e6000162"
+		],
+		"title": "Het ontstaan van landbouw en landbouwsamenlevingen",
+		"id": "23503464-ca04-40e9-8579-a00f6f383ed1",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/1/3",
+		"lpib_vaksubkern_id": "1fcf432c-27a8-4033-804f-af5389e2497a",
+		"doelniveau_id": [
+			"7de821da-5030-4a00-b30f-f6435d52076d",
+			"f79571d5-0993-423c-a439-a47b3fe9d9d8"
+		],
+		"title": "Het ontstaan van de eerste stedelijke gemeenschappen",
+		"id": "63d3ec39-2eb7-4cf2-9cf3-35456d0e4281",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/1/3",
+		"doelniveau_id": [
+			"ee330854-0523-400e-a947-dcee955f2d2a",
+			"ca03ca21-2782-4c18-b02d-dae1f56c7683",
+			"43be3743-1755-474b-96eb-fde399ca9281",
+			"c395e40d-165d-4a07-9c4c-ce24c3e40e42"
+		],
+		"title": "Het ontstaan van de eerste stedelijke gemeenschappen",
+		"id": "8fb69f58-87e4-4bcf-b432-0e8d6d986e74",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/2/1",
+		"lpib_vaksubkern_id": "e795ca8a-cdb8-483e-bc7c-7cf17c598862",
+		"doelniveau_id": [
+			"567e5e78-b392-4a13-ac31-64bd8ef873e9",
+			"913ce21c-441e-4dd7-a986-fcffd7e0f5ee",
+			"e96c8730-09f3-405a-bd52-d934e173e89e",
+			"d47f5040-211c-44ce-88a2-56ca723733bd"
+		],
+		"title": "Burgerschap en wetenschappelijk denken in de Griekse stadstaat",
+		"id": "6f388ddc-8d72-49f2-8975-bfaacedf42bf",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/2/2",
+		"lpib_vaksubkern_id": "ba1db592-482c-4b91-aa5b-bbd2baeb7234",
+		"ldk_vakinhoud_id": [
+			"47434c91-c62e-420d-84f6-76fe4abb7056",
+			"52f6b7f3-f2fe-44f1-ae18-d475d2d2b6ed"
+		],
+		"doelniveau_id": [
+			"fa1c270a-ffaa-47c8-a69f-8011be232406",
+			"e833f9e3-92da-40ac-be50-1530950070d6",
+			"d522ee8c-48c5-4efe-9a2d-27df909cff69",
+			"8de17570-9193-4cd1-a4b2-19f3d6fa2f49",
+			"39aeb4a6-8805-4f2b-9a1d-33605a29abe6",
+			"87cb0445-3404-4fb9-b1e8-64e45007fdf5",
+			"153f599b-9079-45a6-858d-5adf4cdd9adf",
+			"a37c7d51-b712-41d5-b293-2e7d93dd9961",
+			"2084870c-a1dc-4c3d-a26e-1940425aac5c",
+			"ef72586b-90f0-4e7f-a65b-fd8797c3be33",
+			"ca3a6cd1-00e3-4862-9545-0339f6f89020",
+			"a050dd49-d81c-4505-aa69-c0f913fa25f5"
+		],
+		"title": "De verspreiding van de Grieks-Romeinse cultuur en de confrontatie met de Germaanse cultuur.",
+		"id": "a59df72a-99a5-45e7-be63-d4127042ebcd",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/2/3",
+		"lpib_vaksubkern_id": "53de66a3-2afb-4a14-8840-2c46f90ae04c",
+		"ldk_vakinhoud_id": [
+			"7f1963d3-eef1-45ba-9de0-2a672347074c"
+		],
+		"doelniveau_id": [
+			"f843817d-8cb6-4491-b9cc-06f0a1f08d31",
+			"b2c3fc18-c671-42ca-b7dc-03a944de6541",
+			"5d2cc6c6-1892-4a8b-81c3-b0ad8f19abe1",
+			"f901d1b0-dc0f-4ebf-ad7b-44f9cd97f4a0",
+			"c3d40338-f0ff-4760-a20e-ec691d4ad507",
+			"b2f43337-ca54-4c55-bf68-321dc74f34ab",
+			"f19fa44e-33be-46fc-8737-17111a3805e0",
+			"f8e32c0d-8ebf-462a-9624-0e6cc3c4aa27",
+			"0ca9b9cd-f500-4190-860b-349e3412e614",
+			"cfbb6f6d-6512-484b-8836-190290484a01",
+			"fc2e557d-0bbb-44f9-9056-e5acad739e83",
+			"b391f9f6-3299-48ec-878c-7e1945dc96d7",
+			"4b167aeb-9a14-4071-9a8e-bcd7fd1d9158",
+			"625b5e3e-2c18-4f70-9eaf-87a112df4658"
+		],
+		"title": "Het christendom in het Romeinse Rijk: van verboden tot enig toegestane godsdienst.",
+		"id": "041ea78b-e59c-4a26-87d0-868e19daf4a4",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/2/4",
+		"lpib_vaksubkern_id": "07d67a63-105c-42ad-89a6-d473ba3a0c32",
+		"doelniveau_id": [
+			"423e4c21-0a73-452f-88a7-cdaaf8ba8a83",
+			"d85a03f5-f698-4c0d-b45e-c2c2364c4ed4",
+			"eb9122e3-6a25-4e82-ae24-61365181ad1c",
+			"191d5fa6-86d3-4c79-995a-57d3d9eb1546"
+		],
+		"title": "De ontwikkeling van het wetenschappelijk denken en het denken over burgerschap en politiek in de Griekse stadstaat",
+		"id": "346b8a84-1734-4479-bd0c-b3a37c671564",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/2/5",
+		"lpib_vaksubkern_id": "07c54c8e-75d2-4403-b25b-da11e695cbdb",
+		"doelniveau_id": [
+			"7e567faa-6155-465c-801c-cbf6f79bc551",
+			"f85d7f5b-f937-41f6-9e45-7962ae4f1743"
+		],
+		"title": "De klassieke vormentaal van de Grieks-Romeinse cultuur",
+		"id": "5343017a-1f9b-41a9-b9fd-450f92509cef",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/2/6",
+		"lpib_vaksubkern_id": "2506b6af-1e6b-4ee8-842c-687647c031aa",
+		"doelniveau_id": [
+			"54d81f0b-f002-4430-b3ff-b8c2258b5060",
+			"e66de151-74d7-4c8b-948b-6330f7153140"
+		],
+		"title": "De groei van het Romeinse imperium waardoor de Grieks-Romeinse cultuur zich in Europa verspreidde",
+		"id": "2f523e60-7cc3-43f5-85ed-84375151606a",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/2/7",
+		"lpib_vaksubkern_id": "ef581439-156b-4501-9b9b-8d137fda1b9d",
+		"doelniveau_id": [
+			"e58a8202-9c05-488c-a28c-119f2a5fc686",
+			"907ff1d1-881e-4313-8403-8a40cc38de35",
+			"49128351-bfca-413b-aa6f-309f7e64be9b",
+			"596927a8-617a-4b03-884a-028f8118d6cc"
+		],
+		"title": "De confrontatie tussen de Grieks-Romeinse cultuur en de Germaanse cultuur van Noordwest-Europa",
+		"id": "6047bb48-1ff3-4347-8943-e6eb3ca91e32",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/2/8",
+		"lpib_vaksubkern_id": "8c30a8e5-7199-449f-8dfa-efb3b4b2c9b0",
+		"doelniveau_id": [
+			"5296ea6a-15f1-4c2c-9c00-0d482c918cf2",
+			"5f5b0315-defb-4f08-9c51-bc93b5cbd941",
+			"a03b1b02-506f-46eb-a616-beda82805a70",
+			"5be62087-23d4-41e6-b432-9d1bcbd29698"
+		],
+		"title": "De ontwikkeling van het jodendom en het christendom als de eerste monotheïstische godsdiensten",
+		"id": "9cee25f9-77bb-465e-a720-9094473a19e9",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/3/1",
+		"lpib_vaksubkern_id": "6f9f20cc-5f9d-48da-87bf-ef4d55c03e72",
+		"ldk_vakinhoud_id": [
+			"c938009e-fefc-48dc-b114-037a69b86992"
+		],
+		"doelniveau_id": [
+			"c07f2e70-25b9-4b8d-86bd-7d7e4ca662d5",
+			"b9b8c9f7-7472-4918-a48a-3cdd1836e2c9",
+			"556345be-2557-4ce5-8346-891aa2f3385c",
+			"5ef7c99a-acac-4290-a11a-8e5a7c5646f4",
+			"78718012-326d-467f-a685-49dedd7b644f",
+			"1e5a589e-c3f3-4830-aeda-e3b9ad178c5f",
+			"ff0aaf99-db48-46ab-85d8-bc1024ec4aa9",
+			"633b1808-6e89-4c16-93f5-89f713a04de8",
+			"bf0c5840-476e-4d8b-b1ac-2793bf6d0ec7",
+			"c364dc35-6b96-42c7-928f-ac7b667a8a8f",
+			"b82808a8-c553-40c5-b144-b635b5705faa",
+			"83350c5e-77aa-47cf-b37f-1e68b3a607fe",
+			"62b251a7-361a-4f42-ab03-e9700bc558b7",
+			"88d4dd83-21fd-44a4-87ff-2684ea2d1ad5"
+		],
+		"title": "De verspreiding van het christendom in Europa.",
+		"id": "3c6598b3-1ce4-4310-b79d-5978f122cf10",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/3/2",
+		"lpib_vaksubkern_id": "c80a6d8f-2f4c-4098-bd16-a4e71dcd22ab",
+		"ldk_vakinhoud_id": [
+			"1cba92f3-42b5-4b86-bd46-336b50ea09c5"
+		],
+		"doelniveau_id": [
+			"a96b0dfb-4ed9-449d-a960-e5321f396e20",
+			"6c1ffca4-927b-4b4d-b936-fcb5f48d3f02",
+			"0ae0bfb2-4b91-4115-a1de-7bb74b2ffd07",
+			"418b3210-b617-41cc-94e9-b9565fa249ef",
+			"dc5e86d6-ae44-416e-99aa-a1b4ebdaadaf",
+			"f0640a63-0e80-4bcb-a5a6-719ac31c0630",
+			"e84c7dde-cef7-4e09-a5de-ec85de60cee3",
+			"20d43d76-8c94-47d3-bc84-a79b6e8f20ff",
+			"89de2b20-4743-4c7c-8ecb-a59bec931911",
+			"d5f14c60-0462-4373-9afc-737e9c235ec3",
+			"caa039d8-ea54-4c6e-8610-0ad5e59ebcc9",
+			"87f94edf-b6c6-444d-962e-fd993c795d4a",
+			"330860ca-8a35-4d45-9ca5-302191d19fac",
+			"40e89ead-e593-43f3-89fd-bcbab63f3b92",
+			"90ebdae0-23e3-48e3-aef2-ec341471ac5d",
+			"323a5170-d94d-4cc1-a966-9185f54b5abe",
+			"98a7c6f7-096e-4f4d-92b3-ba533da21e00",
+			"8c34b615-fc7e-456b-8e64-52593403eba8"
+		],
+		"title": "Ontstaan en verspreiding van de islam.",
+		"id": "2d0072ae-b106-4698-a5fc-cb4461d17c6c",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/3/3",
+		"lpib_vaksubkern_id": "4ea39248-ff96-4d0e-a22b-a3bb6c3b0266",
+		"doelniveau_id": [
+			"bdeff580-4e36-49e4-9b36-936903944991",
+			"16ba2318-d3d4-42e0-ad05-696ec435e36c",
+			"33ce7e1b-d88a-461b-aec4-c9770fc9efeb",
+			"ab79b249-f003-485a-ac01-97e54dd91819",
+			"22b3f16d-0837-48f0-bc92-138347a153d0",
+			"18f05d5f-78cc-45b3-9e9d-3b234f9d9d37"
+		],
+		"title": "Hofstelsel en horigheid.",
+		"id": "cd822d80-7962-47dd-88c3-faf9c73f94c7",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/3/4",
+		"lpib_vaksubkern_id": "e9a3524f-fe6b-4aa7-a7b5-9f52b460d51e",
+		"doelniveau_id": [
+			"be89aecb-e04a-4d8c-994b-42abb9f7ddfb",
+			"e8208224-e6d0-46ac-a0e5-ba38dba11c79"
+		],
+		"title": "De verhouding tussen heer en vazal",
+		"id": "17b69b42-ddd4-4cbc-8880-d89a9ad2a16b",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/3/5",
+		"lpib_vaksubkern_id": "589baba3-64ad-46ca-a231-f138f0c48666",
+		"doelniveau_id": [
+			"d5e25f2b-a5c7-4d80-b541-7631129ea4b8",
+			"f9c16475-e63e-4fbe-909f-a603315887a5"
+		],
+		"title": "De vrijwel volledige vervanging in West-Europa van de agrarisch-urbane cultuur door een zelfvoorzienende agrarische cultuur, georganiseerd via hofstelsel en horigheid",
+		"id": "09b0c1d9-6725-4ef4-8f23-048a31c992e6",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/3/6",
+		"lpib_vaksubkern_id": "01489dd4-2485-4604-b32a-fa22ccee396d",
+		"doelniveau_id": [
+			"037bcd27-a782-41d1-9c5e-57d80888f90d",
+			"5761377e-9658-4538-81c3-5ba6617b462e"
+		],
+		"title": "Het ontstaan van feodale verhoudingen in het bestuur",
+		"id": "bed11000-9ce5-41dc-a875-0008ebf9a821",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/4/1",
+		"lpib_vaksubkern_id": "cc031355-4bf8-4386-a99e-ac7c6e398f5a",
+		"doelniveau_id": [
+			"e67e4bf0-c34a-43e2-9fe1-ccddde96b850",
+			"34a65f97-429d-4666-ae63-b646aacf71f5"
+		],
+		"title": "De strijd tussen kerk en staat",
+		"id": "f81a07e4-f819-4e22-a215-2c77eff3e2a2",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/4/2",
+		"lpib_vaksubkern_id": "b4e4c068-d4ad-4150-b34d-fa6f66779e4d",
+		"ldk_vakinhoud_id": [
+			"00ff5763-3edd-4fa5-bf80-f4d90d3774fa"
+		],
+		"doelniveau_id": [
+			"33cb1a2a-6464-44ed-978f-b82c5409a96b",
+			"6a414bf2-54b6-4eb3-be69-9bbe527916a4",
+			"76fcf521-e14e-4ef5-a704-6ae7cdfdf2f4",
+			"c0dba1f3-32ad-4f9e-88d8-c56922da9fe6",
+			"a91dcc5b-5fdb-4e12-9671-24825bc57649",
+			"d6b3b227-5095-40c6-a1ab-c711bdc4b589"
+		],
+		"title": "Opkomst van handel en ontstaan van steden.",
+		"id": "4d7f7d79-cfb4-443d-9489-25ee37a99a48",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/4/3",
+		"lpib_vaksubkern_id": "894eeb65-a2d6-4063-bec2-7da8160ab6d9",
+		"ldk_vakinhoud_id": [
+			"d9bc460c-a179-42c2-8307-014fc9eba751",
+			"1a3f78fa-92e7-4122-9d31-1976ba09d289"
+		],
+		"doelniveau_id": [
+			"7e0b8dd8-c7e6-4d2e-9840-549ab38d066d",
+			"a0f630a7-0439-4c48-ab9a-a6da00f7db12",
+			"87dc968b-91b4-43d1-9975-b2b6442a7c45",
+			"8d514b35-6931-4dc4-9a3c-929c805c3918",
+			"3092d09c-55ab-4f2e-a4c6-eae0ba399013",
+			"fd7de10d-98b3-4dd2-a877-dc0b6af48fec",
+			"6390ced6-b1d0-4162-8052-04b466b5ee65",
+			"ecafab27-cada-4127-9251-f9c92c56c1f8",
+			"317cd729-3303-4348-a4af-649311396653",
+			"bd91fa1e-5c5a-4363-9cfa-21736a09d0a5",
+			"cf3e79b1-c6ea-4277-988b-b00a0c1e2e7b"
+		],
+		"title": "Opkomst van de stedelijke burgerij en toenemende zelfstandigheid van steden.",
+		"id": "45654b33-de18-4d8a-ae2b-082e8ba887e1",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/4/4",
+		"lpib_vaksubkern_id": "0746e565-e8d0-4784-9de5-395bbef3a781",
+		"doelniveau_id": [
+			"f039c4c2-2aae-497e-a452-2fee45fedabb",
+			"349b8157-fc11-4a12-9bd6-01288218177b",
+			"828b7492-653d-4e5b-bdec-49d7e1816b7c",
+			"3e345fb4-db17-4b25-9682-809aab2ecdea",
+			"f614490b-cd2b-4007-b75a-88775718105b",
+			"ba5b97f1-2187-4d3a-bf8b-6674158ef144",
+			"a9776de4-27ba-4fb3-bca0-41296cc7752c",
+			"decb73ea-61ca-40f6-ae29-dfab4903aaf9",
+			"cae326b7-82cf-4f8f-b9e8-4d64c5093b09",
+			"3a445870-ac25-41af-96a1-12345151a333"
+		],
+		"title": "Het begin van staatsvorming en centralisatie",
+		"id": "544307c0-f294-4ed7-a11e-4e277fb45dcf",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/4/5",
+		"lpib_vaksubkern_id": "a54ad903-e25a-43cf-9527-2ac1ab56a187",
+		"doelniveau_id": [
+			"e8babb73-9f47-458f-9478-1f96e9c734ed",
+			"5f71a0d4-a9f1-47ed-a8cd-d4ed7afbadbd"
+		],
+		"title": "De opkomst van handel en ambacht die de basis legde voor het herleven van een agrarisch-urbane samenleving",
+		"id": "6dd1077b-9721-4ccd-9bae-82db9f6f15d9",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/4/6",
+		"lpib_vaksubkern_id": "349e988d-9e19-4c6c-bb8f-ba70643c2977",
+		"doelniveau_id": [
+			"4e4708f7-d0d9-46a2-9968-675905345af9",
+			"e3e1b351-fe49-4357-912f-8fce56f90932"
+		],
+		"title": "Het conflict in de christelijke wereld over de vraag of de wereldlijke dan wel de geestelijke macht het primaat behoorde te hebben",
+		"id": "b84777d7-cf7b-4969-8425-a95c31f4379d",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/4/7",
+		"lpib_vaksubkern_id": "c82a8ee3-405d-4643-abc7-f4e3420ab706",
+		"doelniveau_id": [
+			"87220fbf-cbff-4668-ad2f-4961b3162550",
+			"ac474ce7-ed42-4ec1-9ebe-b74932aa4991"
+		],
+		"title": "De expansie van de christelijke wereld naar buiten toe, onder andere in de vorm van de kruistochten",
+		"id": "35b0c427-6bbc-4e84-bec9-221c58a3a134",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/5/1",
+		"lpib_vaksubkern_id": "e3737469-4abb-4717-955f-991b800defd1",
+		"doelniveau_id": [
+			"5fa33fd5-d335-4d4b-91aa-4fb6f1d26985",
+			"d4df5bd9-3397-4dc5-9551-42f65d792c9d"
+		],
+		"title": "Veranderend mens- en wereldbeeld in de Renaissance",
+		"id": "2dcb5d88-4605-4f81-b688-9872d770c198",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/5/2",
+		"lpib_vaksubkern_id": "ef299930-5370-4d6d-af37-d7e0555ce6c1",
+		"ldk_vakinhoud_id": [
+			"1aa2f3c7-23eb-49e0-9606-982c348cfdd6"
+		],
+		"doelniveau_id": [
+			"10a538e3-41f6-455e-8fbe-2f9a3ba21bd9",
+			"09c4c847-e3d2-42ef-bd71-0d76eaa7c769",
+			"138dd8dd-03d2-46b5-b602-0c33cba37e63",
+			"8393b491-dab3-4d1f-a161-855ee7989632",
+			"72a02455-2ecc-4770-b345-08bc74088bf6",
+			"449bbde8-42bf-49bf-84d0-c8354fb272ad",
+			"5240b1b1-69f6-4328-895a-47dd284a54e1",
+			"ef1fa1cb-938d-40e3-a40a-a75aaad3d76c",
+			"9ee77af9-c1f8-40f5-a932-c5381276ccc4",
+			"5cd664d2-204c-4a06-82f2-e4d5f68602a8",
+			"d7c22816-b756-46e5-9041-8e3bf65a33a5",
+			"fe759b61-d171-482c-884e-d0297d1f1fbb",
+			"a40aefc0-e73d-4188-a8fa-ff1cc48fd576",
+			"e9c3dc9e-a9e2-48bc-8d60-b5049d82a5f6",
+			"9d5eabbc-e141-46ba-9eb2-736918c7ed5f",
+			"b002aa6e-a828-4065-be0c-bf349a30801c"
+		],
+		"title": "Het begin van de overzeese Europese expansie.",
+		"id": "7318464b-7886-4ce3-855f-eb2abc9de917",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/5/3",
+		"lpib_vaksubkern_id": "0881153c-44dd-45ff-8499-d61b736c2b5d",
+		"ldk_vakinhoud_id": [
+			"b4d33bac-b045-4aef-829e-0f6234c03d97",
+			"2a2fcbc2-655f-4138-888b-1d3eefbb6af1",
+			"29b219cf-2681-4b5b-b242-c68d6c990460"
+		],
+		"doelniveau_id": [
+			"46f41f1b-f489-40fd-8b91-aa031ddcba09",
+			"0de77a98-3a41-490c-b088-c8ecdcc0318e",
+			"3180547a-e4da-4a86-a158-deec63cd1fdb",
+			"10d4bd3f-b13a-46bc-803f-9163c66c82bc",
+			"ff4fc720-16f5-4c17-bb96-046abbecec20",
+			"c1db6aaa-85d8-4dc8-987e-2e6e62b17017",
+			"709962c1-b934-468a-965b-9ba03de9e2b4",
+			"df5bd0fb-2b3f-46da-af20-8376d775ab47"
+		],
+		"title": "De Reformatie en de splitsing in de christelijke kerk.",
+		"id": "5c183200-365a-4c1c-9255-42b55d64b287",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/5/4",
+		"lpib_vaksubkern_id": "e4f3bdd8-761a-4b93-b491-88446b50756e",
+		"doelniveau_id": [
+			"2bd09153-4f09-4999-84c6-eec8b862ec0d",
+			"e9baedb1-9997-4870-8a09-4e04b1e02e2c",
+			"bee166f7-530d-4c72-8d5b-7563be37f8ce",
+			"fb812850-f0b5-4166-bef5-fec9b3f5f776",
+			"c12cfedf-0d69-482f-8614-67f3ea20a2a9",
+			"fe6ec325-5aea-45a1-b291-c13d502251ea"
+		],
+		"title": "De Opstand en het ontstaan van een onafhankelijke Nederlandse staat.",
+		"id": "2bb11871-66e4-49be-a013-e93f5953a02d",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/5/5",
+		"lpib_vaksubkern_id": "8b1d2af0-57e9-4edf-a3b5-61d39489a4ce",
+		"doelniveau_id": [
+			"d95b59bd-d894-493b-b82b-625a1fd9f6ee",
+			"1b776539-e912-42a3-b014-5a825166f609",
+			"f2dad9f2-2d65-416d-81c5-bc5fb0d325ea",
+			"b8d8ace9-2612-4610-a0f5-1769bcc5d8a7"
+		],
+		"title": "Het veranderende mens- en wereldbeeld van de renaissance en het begin van een nieuwe wetenschappelijke belangstelling",
+		"id": "cddd89df-4b73-4bad-a0cf-54e24274a96e",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/5/6",
+		"lpib_vaksubkern_id": "670be449-1c93-475f-bce1-530dfe807655",
+		"doelniveau_id": [
+			"8f661589-7d2a-4210-89f9-e61d85017fcf",
+			"43202ff3-cdca-475a-b550-40f3853616eb"
+		],
+		"title": "De hernieuwde oriëntatie op het erfgoed van de klassieke Oudheid",
+		"id": "e8e06b26-3e4f-4adf-9df3-dc77524cc081",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/5/7",
+		"lpib_vaksubkern_id": "3b627780-34b4-4410-9660-0d6f8552d920",
+		"doelniveau_id": [
+			"4ab2183d-04e8-4bd4-9874-3985049a6053",
+			"d45b5d3c-3bfd-49f2-bac9-f453ac9840f7",
+			"1a98dfa9-efcf-4ca9-9b5a-750decb17552",
+			"3e113dc0-1dd9-411c-ba20-f4e15e8a61d2",
+			"947fe7f9-c103-46cb-b403-efa877122858",
+			"8f231637-47b1-45cc-8c2c-ccfd5c44681f"
+		],
+		"title": "De protestantse reformatie die splitsing van de christelijke kerk in West-Europa tot gevolg had",
+		"id": "d605b09a-e904-4b77-9cef-1943b73d2cef",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/5/8",
+		"lpib_vaksubkern_id": "47b69a4b-826b-4e04-b08f-3dbbb9eef36b",
+		"doelniveau_id": [
+			"7692c4d9-513f-4e6e-818c-0db786ab2a1a",
+			"7b6e8190-6fa5-423d-9a43-de003b3b75a0",
+			"03d55c21-f4a3-457b-81e8-e81ace3faa86",
+			"7b7ae2a1-6eb0-4710-8dd3-131799cd196d"
+		],
+		"title": "Het conflict in de Nederlanden dat resulteerde in de stichting van een Nederlandse staat",
+		"id": "99f1ade1-fc47-40e6-82a3-508646cbd2c3",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/6/1",
+		"lpib_vaksubkern_id": "4f1243b9-93fd-40c8-8983-e7c4ce122a8e",
+		"ldk_vakinhoud_id": [
+			"6723314d-3208-4927-a27c-ab1b48772b98"
+		],
+		"doelniveau_id": [
+			"45a1cb14-e09f-475b-9e14-0820d23dcb92",
+			"5903201e-ff7e-42f3-b0bf-4875e9568ef2",
+			"5441ed2d-a72e-4f8c-a8b9-6935c13642d9",
+			"5736abc7-fdef-46e0-8669-81a4806eb604",
+			"309445b8-0de6-48ba-bda9-b5fcebef19b3",
+			"b03eae17-ac59-4d72-8c19-07e336ecea8a"
+		],
+		"title": "Ontstaan van handelskapitalisme en begin van een wereldeconomie.",
+		"id": "38b29c0d-b1b6-470f-955c-4a28027d3ba6",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/6/2",
+		"lpib_vaksubkern_id": "960b5f87-c569-4d56-9b78-8bbaf2572bc3",
+		"ldk_vakinhoud_id": [
+			"0975321c-93d5-4b48-9a8f-7b99b48c258b",
+			"d9a22863-276d-4249-8f71-b8cd4b680da1"
+		],
+		"doelniveau_id": [
+			"81e4db4a-d931-4052-9abb-7295498e2fe3",
+			"c82b7a92-4419-4fd3-851a-d963bbe21aed",
+			"6b3b243b-dbb8-4fbb-ad8e-50f627b970de",
+			"65ebb29a-594d-43e8-bfdc-4b2d34ac66df",
+			"0d2ab4f4-3411-47b1-8bbd-99a05d27aebf",
+			"0efe0418-789d-441b-b4ab-e4f9f3669d9b",
+			"bcff58bc-3f97-4db8-a269-77d5c2f02b0c",
+			"42833778-b7d3-4eaf-bd09-7d69951e2b8c",
+			"f14bcb1d-bd59-4b4f-b8f3-ebeedb0e1d0f",
+			"34d2f406-7d2c-4a37-924b-96b8eb9b237a",
+			"72bbe37b-6cff-47b7-9cc8-1ce2c5c01337",
+			"b329840c-9f08-4574-8f51-33bf6e09647c"
+		],
+		"title": "Burgerlijk bestuur en stedelijke cultuur in Nederland.",
+		"id": "6e7e0db5-0802-4d61-b968-a3c8d0fb8141",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/6/3",
+		"lpib_vaksubkern_id": "863cf03c-bd4f-41f4-b9e5-b0b4739ceba1",
+		"doelniveau_id": [
+			"dc7adb61-767a-4f92-9dd0-b1fdd945b083",
+			"4feaf559-c88f-473e-b9b4-447b46f156e6",
+			"526c58b4-9df9-439c-963f-e7c3b8454083",
+			"db472aad-75f3-4394-b472-97232ff08aa0",
+			"5f0292ac-cdca-4b6a-b5ca-a79ce7c9f405",
+			"dc3b1877-82de-4d33-ac91-95d24bc1d244",
+			"5ebe6db9-7fd4-48c2-bfdb-dfc4d836c26a",
+			"fae652d3-4381-4f18-a229-6f1a28517d96"
+		],
+		"title": "Het streven van vorsten naar absolute macht.",
+		"id": "f1290c07-91d3-401a-ad19-c48b7092aca9",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/6/4",
+		"lpib_vaksubkern_id": "86606ae0-eec9-421e-97d3-f9fec1c24521",
+		"doelniveau_id": [
+			"782e0eb0-c650-4045-8ea0-4cd25d399639",
+			"f2f1a712-8ab0-416e-947b-dbb6aef8c68f",
+			"293ea42d-6cc1-4014-a168-2809b2ce4dc3",
+			"b2dcf8b7-546d-4ade-b678-5f326fd1385b"
+		],
+		"title": "De wetenschappelijke revolutie",
+		"id": "d09c00d7-c048-4ba5-b4dd-6aa8bf6ee652",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/6/5",
+		"lpib_vaksubkern_id": "5b4d196b-184d-4026-87e0-364e9291c63b",
+		"doelniveau_id": [
+			"449745cb-ee0d-4367-9c4e-5ec2c63c11c6",
+			"977b8ccf-3841-4795-b69b-1ae113bd61fd",
+			"d29751f5-bb87-45d5-bfed-05ffd79e6541",
+			"bec15461-5081-4588-a4f8-42bbdfe5b1dc",
+			"34b68c7d-3752-48ba-abe9-c932fbc79275",
+			"272b9dd4-325c-42b8-a19b-7efcd2c23d2d",
+			"f362d5a8-3145-401d-ae0c-85a2e9da2dcb"
+		],
+		"title": "De bijzondere plaats in staatkundig opzicht en de bloei in economisch en cultureel opzicht van de Nederlandse Republiek",
+		"id": "bcaf4cd5-e566-4d75-8715-8e6397a178dd",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/6/6",
+		"lpib_vaksubkern_id": "e54e3750-c44c-43c7-b1f6-e3cca80d5760",
+		"doelniveau_id": [
+			"332c1f70-0c1b-493d-8d66-ba6bf4d9a8ac",
+			"eff9b630-3e9d-4b03-bad5-ecee432255cc",
+			"ec53f8d4-dded-47f6-8229-c3833dd85e6b"
+		],
+		"title": "Wereldwijde handelscontacten, handelskapitalisme en het begin van een wereldeconomie",
+		"id": "1dc534bf-fe2c-42e3-b932-886004d7f401",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/7/1",
+		"lpib_vaksubkern_id": "bf91218f-1f73-4e43-88e4-0dec398a10ba",
+		"doelniveau_id": [
+			"ab413fd7-26b4-4454-9414-4ae96689330e",
+			"a14bf037-048f-47bb-bce9-79728541500b"
+		],
+		"title": "Het denken over staat en maatschappij in de Verlichting",
+		"id": "94e0bfa3-4a0a-4ad7-9393-72bdc87a370e",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/7/2",
+		"lpib_vaksubkern_id": "679b15e7-5fc2-420c-8de9-a10c8195e2f2",
+		"doelniveau_id": [
+			"da8f7d94-b6d3-4644-82f3-7871a3608e64",
+			"03c86014-81f6-4030-87ec-ac675ebee278",
+			"01dde49f-637a-43d6-9ffd-8de606366c33",
+			"9c19d01b-5f19-4287-bc79-916212f8ecec",
+			"16fe7785-bca5-46b7-bece-862dc5511428",
+			"e9c213f9-83f1-4b10-aaf1-a07cea744119",
+			"e1606815-1d4d-4c82-ad68-26e1a7cb5ab0",
+			"d8b576bd-62be-413c-984f-706de91c9725",
+			"37076fd3-71d0-4cce-b178-8725bb5a21b6",
+			"a96b3147-f081-4309-95ad-92c4ab385798",
+			"8e30bf1b-e963-4977-a328-7a5dfe5d28d5",
+			"7914efb4-366f-4dfa-b810-6552ebca32dd"
+		],
+		"title": "Slavenarbeid op plantages en de opkomst van het abolitionisme.",
+		"id": "23a0138c-4162-4fca-9a9a-a04be43a4bf3",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/7/3",
+		"lpib_vaksubkern_id": "2eb278d8-2123-4478-a4b8-0dd1f9b9e0cd",
+		"ldk_vakinhoud_id": [
+			"0b884fdc-4209-4fb9-b9fd-75d9e1e74a90"
+		],
+		"doelniveau_id": [
+			"21baae9f-ed28-4b34-a7b4-15d8da565381",
+			"cac4153c-af6d-4e6a-b364-216fe6a8f376",
+			"8e68c35e-bfeb-4cf7-b8f9-7f3560efa872",
+			"baf1939a-1b74-40e5-aaa4-496a6d9e7ab9",
+			"ad2bac05-b1b5-4264-93e8-7f28f4192db6",
+			"0ba1911b-612e-429d-b55f-127c9451722b"
+		],
+		"title": "Het streven naar grondrechten en naar politieke invloed van de burgerij in de Franse en Bataafse revolutie.",
+		"id": "a3dc31f3-6d5d-49a1-91c1-83ba15f83b11",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/7/4",
+		"lpib_vaksubkern_id": "15b243b7-8272-4f30-b20b-21462faed58c",
+		"doelniveau_id": [
+			"2b060604-37ef-4b1c-a522-8f4a64e0e864",
+			"3a326a33-7a3a-446a-b2ae-e100646160d8",
+			"3acdb145-f95c-45e1-865c-fce742ebeaa7",
+			"50442f68-00e1-4f4f-be18-c038366f52ec"
+		],
+		"title": "Rationeel optimisme en ‘verlicht denken’ dat werd toegepast op alle terreinen van de samenleving: godsdienst, politiek, economie en sociale verhoudingen",
+		"id": "cf3739c0-09cd-41cd-a834-4d19739688ed",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/7/5",
+		"lpib_vaksubkern_id": "70f8544f-36da-4690-a8a8-e6fe411935bf",
+		"doelniveau_id": [
+			"280df540-5fbf-4803-943d-efe98965252e",
+			"59673f6b-e1d3-40b5-aedc-f9a95788fd37"
+		],
+		"title": "Voortbestaan van het ancien régime met pogingen om het vorstelijk bestuur op eigentijdse verlichte wijze vorm te geven (verlicht absolutisme)",
+		"id": "99b8848e-4a20-4303-be10-80b2e4a0b4c3",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/7/6",
+		"lpib_vaksubkern_id": "87acc18c-0a5f-4474-bb72-6870ecdff751",
+		"doelniveau_id": [
+			"4b89f33b-c9e8-4c68-832f-d2b2a6eb7109",
+			"2c2f8a2d-0d5b-4ca2-8f7d-5e28e23b2d7b",
+			"fc9c712d-29da-4142-94a2-ca05bc9e6119",
+			"18d9af90-5f0f-4026-9ba1-257be14af02d"
+		],
+		"title": "Uitbouw van de Europese overheersing, met name in de vorm van plantagekoloniën en de daarmee verbonden transatlantische slavenhandel, en de opkomst van het abolitionisme",
+		"id": "883b441c-9406-4fd5-8fcd-280ebfad2c04",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/7/7",
+		"lpib_vaksubkern_id": "255337e2-2ee0-4feb-8d70-7ead6bf3825c",
+		"doelniveau_id": [
+			"a429b284-b3e0-41f0-8bb9-add1c131a7c1",
+			"a57be3c2-951a-4849-906c-05a34499e748",
+			"2bdc6bfe-34a6-43ac-b913-0cee2262e153",
+			"891b6779-0df0-452c-a9da-aa619438d707"
+		],
+		"title": "De democratische revoluties in westerse landen met als gevolg discussies over grondwetten, grondrechten en staatsburgerschap",
+		"id": "f0508e8c-6cdc-4042-a6b9-7f1d8b13709a",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/8/1",
+		"lpib_vaksubkern_id": "8f1cce46-d360-4bef-a6c4-300b01f8bf4a",
+		"ldk_vakinhoud_id": [
+			"b726622d-d8ca-4437-a809-9dae4588cdbb",
+			"1a9f37b6-9854-4605-95fd-3759c0defb3c",
+			"81b66378-e80c-4fd6-a70a-90fd0836b72f"
+		],
+		"doelniveau_id": [
+			"cc813e61-1fa0-42e3-9948-c0ee15605b07",
+			"0bd61dec-d35c-4482-8b42-044b39cc37d5",
+			"ebe6f0eb-735a-4a07-8f3c-468bfa1c7ef1",
+			"b01109a2-4d00-4775-a83b-e3234bf5dcf3",
+			"117cf6d8-5a52-4b06-b070-9be672d7eb59",
+			"209d0c2f-b688-452d-aec7-a0d5f8860484",
+			"83b60510-a1f9-4a44-8cf1-9f92dc8028b8",
+			"610a551a-23d6-4fb3-80f9-d909acab376c",
+			"6ebdfed2-09be-41ba-aa23-febdc96101e3",
+			"19231cd2-0af5-4ab4-a99b-bfb205765e04",
+			"032a43b7-9bce-44fe-b999-36f587d43448",
+			"3b0de620-cf03-4d8f-9bc5-00625eec72c2",
+			"48574204-0ee3-4a41-9021-138db5e2b796",
+			"6a378eae-aa8a-456d-9558-5dc99acc2ce9"
+		],
+		"title": "De industriële revolutie en de opkomst van emancipatiebewegingen.",
+		"id": "f9801d06-0343-4aef-87d6-34aa57fc066e",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/8/2",
+		"lpib_vaksubkern_id": "f80bc08e-f395-4fd6-9f7b-971bd7051eaa",
+		"ldk_vakinhoud_id": [
+			"8f4feaef-e349-4abc-b1e1-01cb4bb4ec52",
+			"7079e5ac-27fc-48ce-ba3e-a73f3569456b"
+		],
+		"doelniveau_id": [
+			"04b9185f-2d1b-49ef-bae2-4ccd396fd7be",
+			"a54e7c21-ae4a-41c8-be38-dff63748b325",
+			"43f0c2f2-8fbd-4410-b296-4dfbe7b13618",
+			"981e11af-a701-4f64-aad3-c35e7548fa00",
+			"8bc3e39b-149b-4f11-b4b3-cb30aa92c674",
+			"53a4906d-2071-4089-a50f-4736cae54d5a",
+			"899385a8-23b5-4663-b1f6-72b39b01e31d",
+			"92d6b0e7-766a-42c1-a5b1-6c94759f8eef",
+			"8d466b3d-a302-4c83-baf1-5403f50ae9fa",
+			"a9ae36ad-b4ac-410d-a5b4-6092cdcd7a79",
+			"9a670e26-4981-47fb-b79f-3f662d8c708b",
+			"360839f6-308a-4d65-8944-b2f71614da99"
+		],
+		"title": "Het ontstaan van een parlementair stelsel en de toename van volksinvloed.",
+		"id": "f52de6fd-e76a-4622-90b6-c0b749b641b1",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/8/3",
+		"lpib_vaksubkern_id": "79e272f0-f7a5-496a-a4fe-4b2f8946b1f8",
+		"doelniveau_id": [
+			"2302dc9c-aa95-4fc3-8161-d6ffbbb6e561",
+			"cf95de79-6971-4eac-951e-92ff632ce662",
+			"bb6690c0-0053-4322-a700-4c91969d3078",
+			"c25d5308-eca9-4b86-9465-35246a535f17"
+		],
+		"title": "De politiek-maatschappelijke stromingen nationalisme, liberalisme en socialisme",
+		"id": "affd11a9-081b-41f1-9e92-5f37f49b45a9",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/8/4",
+		"lpib_vaksubkern_id": "255f50aa-0bea-4abc-aefc-d5d8d5b9944f",
+		"doelniveau_id": [
+			"e67e5c40-2351-42c6-9706-3e8dd43df9a1",
+			"8bcd05e9-7d04-4e76-89a7-fe1bc498e50f",
+			"1a9a0e19-0813-4092-a48b-83596b53f87e",
+			"68b37393-660e-45de-b0e4-fd55c785ef68",
+			"1983ecb1-92f0-4290-a1c5-0fd167a9c3f2",
+			"5bc55f8e-1afa-4771-aa43-c10a41d393db",
+			"179bdf5a-3776-409a-a2d8-61f153a141c2",
+			"5d1ff19d-69cb-40eb-b606-c30d51da5ace"
+		],
+		"title": "Het moderne imperialisme.",
+		"id": "424ff881-b87e-44cf-b4f9-bfb436cfe6e0",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/8/8",
+		"lpib_vaksubkern_id": "038d4192-a14f-46ba-bf78-65b1d3d681f1",
+		"doelniveau_id": [
+			"393d215f-3f5c-458e-a56a-70c3bbff5490",
+			"4e6517f4-3088-457c-bcff-4f766142cd3a",
+			"0da112ca-0389-4671-adae-a28df3464085",
+			"a9d32bdc-0595-4edb-95d4-4a2deed002c3",
+			"6c4fc228-5cf5-4e45-a81d-6c99f47fa026",
+			"a92642eb-9b3c-4f80-a5ff-9cd94b6140fc",
+			"99215be9-2c14-4803-a19c-93fa30b085e1",
+			"64a735a9-494c-4b6c-96b7-742ea5a38c90",
+			"f39271c7-78ee-4a6b-b963-64304f7d69fc",
+			"2350dddd-6d82-4217-9b77-0c274f3c9217",
+			"cbb24755-8397-4583-aa31-5b032540ca92",
+			"6ab0b7a4-50a4-471e-aa24-b2efb11e64a9",
+			"55477fec-897f-4781-a1f5-46fd5aa6c851",
+			"68b2eb98-7382-4af0-a69a-217bb06bbc53",
+			"897372ec-8c90-4af9-aa8b-ed8096ee5432",
+			"61313c02-2175-44a0-81e9-4c428edbb525",
+			"9b5e312a-5cf7-43a1-9c73-f265f12cebbc",
+			"2f60dbce-4efd-47d5-b35e-7842a5b5b645",
+			"9a15b3ca-7c86-4ab1-8ca7-fa9dc070b84c",
+			"ca105eb4-3ae3-4b65-ad37-7f07c5d580ef",
+			"42613a21-4aaa-49eb-862d-ff494a5a1587",
+			"373219d5-999a-4b1e-80df-ee2b06755fb6",
+			"2efe958a-a4c1-49ee-8754-dd27c136c6a9",
+			"91258846-415e-4dcf-89b6-dacd60f84e32",
+			"ba7da222-1a36-4d1d-8647-18dcd937262d",
+			"af59e826-60f1-46bb-8bea-dd98159596a9",
+			"d1828559-c0d3-4910-91a8-5941ca1714b4",
+			"f9caed89-ec0a-404b-a3e4-b0938d80e59e",
+			"18bd5f81-b242-4e46-a4e7-9b1517159ad8",
+			"8775880e-8c1b-4910-8b28-1f3bee82585c",
+			"bae0493a-ec24-4210-8a46-082f7d4f8481",
+			"e33607df-cbd0-423b-af21-d71337e82033",
+			"c59777c2-fbac-478c-a69b-e3fdd3dae118",
+			"2b96c0f0-c3af-4009-9bbc-ccf45148b5d5",
+			"57e1b58a-29b3-46cb-9be3-93ac5d2dacc9",
+			"692cec51-e356-4de9-8b6d-c55d0743d564",
+			"ebb9d4f6-be6a-44cd-8106-163b8a2e67b3",
+			"315fb310-7b14-4f9e-93a1-036718ad0275",
+			"12ec161b-dce7-4b80-a8d8-2fcfb51bef95",
+			"b9866306-55bd-4a39-a425-6fad0c067592",
+			"3da9c8a1-f353-44ca-a033-d6db4f245c36",
+			"f4eca097-d55c-4ecb-b247-d1e5e6cfe1dd",
+			"8a1977fd-3cad-47be-82de-fb02b0d612e4",
+			"a60e98b5-4bc0-4074-b2fa-aef8fe55e873",
+			"b711c150-9317-45ea-a549-f82845c084e0",
+			"07419e4b-35f8-45b1-84f3-6758f9736c15",
+			"21dcfc5d-8207-4689-ae22-72e38eaa982d",
+			"8b74608b-2b74-40b3-9257-3f9190b2236a",
+			"a8f00eaf-ef37-4e32-8116-569d64f1e11d",
+			"834f3f41-8a70-4c19-bb06-2165d5f46b16",
+			"471f81d0-c6f7-4325-b0c9-290d84a3dbea",
+			"191228eb-c626-4e62-8ceb-e76f1c71af1a",
+			"aad83bc3-e715-4b2a-987b-052526ee3d1c",
+			"20385c29-6d12-4103-a1b6-201a1cd3ca97",
+			"39e06e91-e140-4d76-879f-e944ebb26247",
+			"2ddc0715-72c4-416b-9e3d-25b199dee996",
+			"836a2566-5028-46d8-b7c9-0445cc19c77b",
+			"b1df56e6-0856-4399-abc9-34aa976c3478",
+			"009c3fd2-4845-490e-9f3f-dd53a8b5cc89"
+		],
+		"title": "Geschiedenis en staatsinrichting van Nederland sinds 1848-1914",
+		"id": "594a51af-5f9d-4f9f-84a7-a8f2004b2724",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/8/9",
+		"lpib_vaksubkern_id": "912cccc5-f15f-4d52-b503-fa667791fdf0",
+		"doelniveau_id": [
+			"3f3fe245-a3b6-459d-833d-c239ec414652",
+			"51bf02c3-2944-4b85-b1f3-09fe3444d661"
+		],
+		"title": "De industriële revolutie die in de westerse wereld de basis legde voor een industriële samenleving",
+		"id": "440fa2cf-ddb8-46d7-b4bd-bc82e8768121",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/8/5",
+		"lpib_vaksubkern_id": "3b2c0354-3e28-471c-8e4f-c9eae71c4c23",
+		"doelniveau_id": [
+			"42f9f33e-4018-447f-bb70-6d5c9d5aee6d",
+			"81b46671-5702-4c37-9908-b32a810e625d",
+			"69c23943-ddbb-42f0-9b2b-6f7e4044e0ae"
+		],
+		"title": "Discussies over de ‘sociale kwestie’",
+		"id": "0ec378d2-fe14-42de-8b1a-1d69ec20f1c1",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/8/10",
+		"doelniveau_id": [
+			"7cbaa0ee-2cae-4b56-a93a-18ac906b6a32",
+			"708036a6-4b94-46b1-87df-2ff47474987f",
+			"33200992-3b3f-4470-99fe-a0aef00aa1a6"
+		],
+		"title": "De moderne vorm van imperialisme die verband hield met de industrialisatie",
+		"id": "94aab193-41cd-4a78-a080-7dfbc3577362",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/8/6",
+		"lpib_vaksubkern_id": "4500ade5-7148-44f5-8a56-684d5ae79acd",
+		"doelniveau_id": [
+			"bef51fd7-e2b1-4580-a082-d467b7fcfb91",
+			"bdb1f5e6-5b23-45da-a24a-686ddce5ad59"
+		],
+		"title": "De opkomst van emancipatiebewegingen",
+		"id": "9849d4c2-4457-47f3-affd-7b8648fc3451",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/8/11",
+		"doelniveau_id": [
+			"b39a646d-3d8a-412a-9081-58ef39d4d1d9",
+			"d73d0cdd-e98f-47f0-b7eb-f0b6179b20cd"
+		],
+		"title": "Voortschrijdende democratisering, met deelname van steeds meer mannen en vrouwen aan het politieke proces",
+		"id": "3b3b76f7-0bca-40c6-bf57-ceae54a1b1c2",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/8/7",
+		"lpib_vaksubkern_id": "46ae6b4f-4dcc-4d4f-b0df-4a32cb513642",
+		"doelniveau_id": [
+			"7b733ac6-80b5-48cb-a526-b21ff3be2bad",
+			"74bbb308-b28f-467c-be41-3a8b64cab7c5"
+		],
+		"title": "De opkomst van politiek-maatschappelijke stromingen: liberalisme, nationalisme, socialisme, confessionalisme en feminisme",
+		"id": "adc60ea3-4a2c-41d9-a953-7eae0dbf775a",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/9/1",
+		"lpib_vaksubkern_id": "93a124df-c1ee-46ed-9411-b501135a577c",
+		"doelniveau_id": [
+			"3de93c48-88f3-4b78-b68f-ebcbc1cbb453",
+			"5131bb30-bb7c-433e-81db-b6ee686a47e4"
+		],
+		"title": "Het totalitaire karakter van het communistisch politiek systeem",
+		"id": "c0d00e37-ed45-4b3d-a632-8079f692563f",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/9/2",
+		"lpib_vaksubkern_id": "3af4af31-9242-49b7-b37a-161e3d3529ef",
+		"doelniveau_id": [
+			"a2979fdb-b692-4c64-8774-abbc65979a6a",
+			"fdf1df28-f6f1-40b9-812f-4151724a78d1",
+			"0fdde607-a5b3-4d04-a3f9-12f210ea0bfe",
+			"6e953dbb-4d46-4963-a294-cea991db84a9",
+			"34afe1d5-e6aa-4f0f-8a6c-c3df9e04849f",
+			"afc2ce17-14fe-4e82-8905-27312c7846a5",
+			"944e79de-fe85-4084-a7d0-ad49eeba98ba",
+			"f824758f-d72e-445e-931a-96b8b84ef4ba",
+			"0e703005-b0d6-4ae7-bbe1-7a7ff015a060",
+			"e06eb86f-746b-4cb5-86df-a0794477906e"
+		],
+		"title": "Het racistisch en totalitair karakter van het nationaalsocialisme.",
+		"id": "967a26c6-35f7-45a5-a4ff-38b1776aad2f",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/9/3",
+		"lpib_vaksubkern_id": "a22f383b-514b-4339-a3af-d83f36827aff",
+		"ldk_vakinhoud_id": [
+			"61892f5d-c8c8-4e26-a957-e9afe93210fd"
+		],
+		"doelniveau_id": [
+			"9bdfffda-a1e7-4264-b995-d742e4ac2a54",
+			"0645e895-ca32-48a4-bbb2-fd4c1f20f1e7",
+			"1abc7da6-a59e-4913-989e-31f9e7c9ea19",
+			"78a1b45c-402d-46e5-aa42-d38c81be1629",
+			"f6ce8ade-68f4-47c3-85d1-aedf36563b07",
+			"7d677766-79e1-4ddd-bd34-6c85a6a9be8b"
+		],
+		"title": "De economische wereldcrisis.",
+		"id": "b5ee28ef-b440-4366-90c6-d1a1f45a5cbd",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/9/4",
+		"lpib_vaksubkern_id": "09b20103-c2cb-4d57-b89a-40fffe4b60e5",
+		"ldk_vakinhoud_id": [
+			"78c0bc66-d40e-42f2-af47-1243f3f9ec48",
+			"e5309ae0-abb4-482c-8ef5-9c6b10119acf",
+			"ffb3f5e7-50c6-41e1-ba0b-a69b534965d3"
+		],
+		"doelniveau_id": [
+			"ec07083d-df71-4b66-8793-63f83e449981",
+			"6f0b50ce-69c1-47fb-a5cb-af876baf52c9",
+			"f7067735-2f49-4e6b-8255-cbdf54fe6146",
+			"475a5bfb-b5e8-43e7-a9d2-3e488fb13c68",
+			"2318e131-9442-4213-9889-09ee8dfb283b",
+			"6a694d60-aafe-4d0e-8617-1a8dc32da062",
+			"4f0a4cc8-2303-4a3b-b1fa-cbab2a0fc305",
+			"76103795-d039-4a78-a055-971d08365e61",
+			"689cbb48-6444-491b-a84a-10277fe67c03",
+			"e04755d4-a7e2-4384-92a5-d9b98ed6217a",
+			"52e0c3ea-ca9a-47f5-935b-fd96358bb4f9",
+			"a64c493c-0fc4-42c2-aec0-02c9aaf169de",
+			"49929b33-9efa-44a2-acea-37c763c26154",
+			"2f6ff504-e287-41a1-8819-7041abd43cb5"
+		],
+		"title": "De Duitse bezetting en de Jodenvervolging.",
+		"id": "00738986-cd78-4504-a463-463032ccbe2d",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/9/1",
+		"lpib_vaksubkern_id": "8856938a-62f1-4979-8c41-57493c461dd6",
+		"doelniveau_id": [
+			"574b4310-28d5-469f-baa6-18b293e5aee4",
+			"2ae988c3-40c5-4f87-85e7-00e640919b68",
+			"94c694cf-eef0-4ed0-bee7-9b80c0c5ddb0",
+			"e0da2140-e055-4100-8689-f3e34a8b0746",
+			"0c18b6a3-ade1-4e33-acd9-832629a22b01",
+			"3f800138-4355-4098-ae80-8697c8c4156b",
+			"072c73ff-2837-4800-828b-281e54e976b4",
+			"44ba4688-b147-48e4-91a2-6304918b2628",
+			"f08357d4-0b3f-4179-a0b3-f77dd4037cee",
+			"88cf9257-b4dd-4e63-9020-063cbaaabe02",
+			"e16d06ce-7a21-4771-8ed4-fdd89b998964",
+			"e5028ace-30f4-4eb2-949f-c6f60ee4ce43",
+			"4924ad91-d171-4e3a-95d2-c2e11ae827d6",
+			"1afa8c3a-4f50-42cb-a4dd-b003b3b77011",
+			"25683300-85a2-4253-815a-0713fd2722be",
+			"2319983c-fe92-44fd-a0b3-2e111b396861",
+			"4323ded1-70b4-4e88-bc64-4f27af9b5378",
+			"e090002f-4b55-49f2-86ae-9d9e83c9aedd",
+			"a5d45a6b-5c94-4a98-b5f7-7b29af137466",
+			"cf469528-94f1-4884-8f66-99eb76e05154",
+			"1ea0ceb0-08dd-4f60-bc7d-164e292b1aba",
+			"461221d7-723e-4154-b223-3a7ad9db8cc2",
+			"0830e4bc-7fe5-47c1-9fcf-f4f22f86e524",
+			"bd4fc108-878e-4a6f-a67a-5d1454589251",
+			"a282b714-6783-4cf6-85ee-f0e070c950ae",
+			"426becef-397e-4f5d-b97d-4b2eaafc5726",
+			"0e686f0f-7548-4513-8cac-eb3a2fa3e3be",
+			"e53ac3f6-6187-4ef8-93ca-e92794f95b15",
+			"a618fd61-31cf-45ec-a116-0afd4f168736",
+			"435e27ea-18e8-4cd0-9b85-02d76a9abf32",
+			"5e1cc8ca-a1f3-4628-9f8e-84ad94d04fcf",
+			"583de3ce-c67d-4be2-a0d5-7f9c878a023d"
+		],
+		"title": "De Eerste Wereldoorlog (1914-1918)",
+		"id": "5ab04242-f880-415d-9026-7d77ee74555d",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/9/3",
+		"lpib_vaksubkern_id": "36b6ace1-c4b9-4e7b-bb96-223695337207",
+		"doelniveau_id": [
+			"09d5e725-3513-4682-b8f0-f7bb3214f020",
+			"4bc5b03e-77d4-4225-ac03-3eed01c8e936",
+			"a0cf856b-c7f2-493e-ac45-2aa30b405098",
+			"8a24247e-2cff-4570-9f19-fcc10fcb0b36",
+			"c0b98217-77d3-4b9a-9924-3ac1d0b01e33",
+			"f54cec88-fd9c-45c5-816c-5a0d8a2c398d",
+			"47c1f023-7ff3-4111-b5c0-3f68b70aa622",
+			"a5916998-b65b-4161-9c05-ed5777bde98d",
+			"3d2bd744-12a0-49c0-bf83-115b9945f557",
+			"e5d927fe-30eb-4931-8a55-f52a10ad2693",
+			"e9aa08cd-755a-4c64-b90e-74f5f1ca51e9",
+			"3c974582-ed48-481d-ac6e-dee98acd2e31",
+			"5b3d2f75-8fe5-4883-b895-890a0bfcd38c",
+			"ab14bbd3-275b-42cc-b2e3-45e6fdcf3dd4",
+			"dccc4d5c-9626-4fc3-8ca3-4f59a65c3ac9"
+		],
+		"title": "De Eerste Wereldoorlog en Nederland",
+		"id": "d0c24170-5630-470b-8430-93598131da92",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/9/5",
+		"lpib_vaksubkern_id": "3add31be-4faa-4798-be81-fb903cf71893",
+		"doelniveau_id": [
+			"f5a69fea-e4f4-4251-8671-0118b6fba992",
+			"c03498ea-4541-47da-872b-f6d3a114df59",
+			"357dff10-625f-4af8-994e-34e42e20f60f",
+			"20a091f3-ca6e-4399-9905-57a68fcecc78",
+			"81680a9e-7ffc-41d9-bc7a-0d79ba1f4c7d",
+			"c59ee966-daa2-4676-b57e-b42a55b2f376",
+			"6399a3ed-59c7-4737-ad92-fecca60e29a8",
+			"f93a1118-3368-44a9-abd1-2d44ee21941a",
+			"80b9f89e-a99a-4fd0-825a-492f24a8d5ed",
+			"0d8b7f44-c4b2-4dcb-bc5d-e131ecf7770c",
+			"a01adb6d-2e95-4cf6-8db2-8ffd3eb92194",
+			"e823db9d-debe-4066-b523-b6016eed2ad0",
+			"0b236f54-077a-4f87-801b-d233b39cf3ed",
+			"a9c1e20a-3f9c-46f8-a488-66808f476abf",
+			"e1ab84cf-d2df-4a99-9732-a91db279715d",
+			"ac68d116-0b7e-484e-b980-5044e352857b",
+			"d4fffad5-88f1-4b6a-a175-370f8e661622",
+			"74e04917-81c1-4df5-877a-7281a8ffeba0",
+			"4f1c4406-3ba8-46bb-a09a-768d857e83da",
+			"990bb834-6e76-42d9-92a5-b86471615805",
+			"c05efb01-a7e8-4c57-9633-c0fddb571c47",
+			"a0f8eaea-0d10-40ab-9ab4-c64c4067c547",
+			"7c840f35-c69d-4891-91f6-79acaffc7b6a",
+			"07cbcd45-b16a-4377-b0cc-9e4a80faba7d"
+		],
+		"title": "Interbellum (1918-1939)",
+		"id": "3ab1a582-933d-41ae-a1a1-89fccb09b2b7",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/9/7",
+		"lpib_vaksubkern_id": "1fdd26a5-20f2-41c3-8baf-d9886eb95219",
+		"doelniveau_id": [
+			"e93ba5c3-b8f8-46e2-8658-b802c9944684",
+			"ba66eddb-7438-4365-a3dc-d58f12db7763",
+			"e093ca1c-4407-4ddd-a448-47f329e113ba",
+			"b4466613-2501-493b-82b0-be6964767760",
+			"c9e731ed-882d-4749-89b2-a6e09f753e66",
+			"b3ce47df-1f83-4436-b2d9-c25041aeb846",
+			"2589d284-5bf9-426f-af63-df3c21d3ffc3",
+			"ecf81489-8ae0-460f-b619-df7d4e106755",
+			"4fd1438f-a546-4188-a0d6-ed57ca4219ba",
+			"921aeca4-cb93-46fb-95ea-0a15908a14a6",
+			"e188fec3-22f9-42f4-b613-0aecfa58eb08",
+			"f9d68daf-406f-4407-8c19-850e7c60e437"
+		],
+		"title": "Het interbellum in Nederland",
+		"id": "ac19cb7b-e26f-486f-ba7d-7ec9621cc797",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/9/10",
+		"lpib_vaksubkern_id": "444b5053-c8ec-410b-ac40-2b53156503f1",
+		"doelniveau_id": [
+			"e7ac8c4a-0a73-46f8-b921-262e93d5b31f",
+			"1844aa3d-f32e-4a5b-91a7-e1ce36e8678e",
+			"62068f71-0f1c-4bf8-b83d-dc550a0c88a8",
+			"5b9aa9d0-7aea-4945-b3e4-05ecbbbbe174",
+			"2492e08a-054b-447c-8832-18925e6ab3c1",
+			"d974653f-e156-468e-9b62-bd9c5384433b",
+			"60dae997-cdf5-4d4a-9674-cf962fc45ecb",
+			"f048e425-e32d-461f-99e4-5c16701f1db1",
+			"4dacfc81-3933-4fac-a152-545dbfc0daae",
+			"9c5da73d-6634-43a0-bed9-e322e29f9473",
+			"f67e242a-ff90-4e26-b17a-f854c813b196",
+			"4de69fe4-67b4-4c41-8260-4ea4bf55613a",
+			"86ea77dd-96b3-4c2c-a7bf-8c42c62b888d",
+			"e778b3bc-f2db-4dc8-9367-79bdb3f990ac",
+			"8ff773d6-808d-46ba-9c16-c422053cb89e",
+			"fe113736-f6dc-42d3-b4d8-badf083f4d88",
+			"3758484c-9a2c-4589-b60a-2dbe37529d2c",
+			"4a6cfeb7-3c14-4885-a032-fc62eef8f090",
+			"73c9e74b-87f3-4d18-982b-4aff28bba473",
+			"8b6f6049-6059-448a-b3ff-323af4ece9ca",
+			"3bba47ed-c8f9-4ac3-9fc5-6d81493304e6",
+			"7c5a7159-f00a-46c7-b4d4-06e460c50b93",
+			"9dded739-442c-4688-92e1-5b1811035518",
+			"d65f32eb-c286-4d92-9eec-3336f730b0df",
+			"c648c68a-5399-40fc-8db0-cd500753df2f",
+			"6db2e549-d03f-498e-98da-f58bb4aa885f",
+			"eef73c23-1b5f-4bf1-9c8b-437c39eef091",
+			"0fde05ea-e3ba-4c0a-91c3-dc281ad4d22f",
+			"2124bb17-3f46-4c27-a76b-93c3b7f081bf",
+			"6af85449-b337-4d2f-8038-3026c66140ea",
+			"494c91e8-59eb-43ae-ba17-dbdb3bdbae4d",
+			"b55f753c-dfb7-409e-a9de-ceb6876918eb"
+		],
+		"title": "De Tweede Wereldoorlog algmeen",
+		"id": "cf3d0dc4-30dc-4b62-8c9b-1640a955f3f6",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/9/11",
+		"lpib_vaksubkern_id": "5bb0e8f8-e662-4fc5-abc0-15cdbe95daed",
+		"doelniveau_id": [
+			"fef88d22-ce91-452e-b111-e7945c593414",
+			"edf96576-c6ba-4c01-a116-c327d1de194e",
+			"326bedf0-c458-49dc-9d93-e8c243d0ed3f",
+			"b6213e26-9b34-4154-8e16-6d55ca2e5d64",
+			"7932b60d-af21-40be-9d9b-663d2c352915",
+			"41c7c488-7879-4721-ba1f-1e34f8b9b7e9",
+			"d9d46bb1-9eea-4b17-93a1-054f5a389275",
+			"a3273beb-9d2d-4150-b845-6767ff5387c8",
+			"dbf806c2-773d-4bb1-8d32-9155de5c928b",
+			"cf49fb39-1f46-45bd-955b-8f2e239ed982",
+			"a563d17e-8132-4abc-9ffc-96cd65def643",
+			"49ccc8aa-0418-44eb-be48-bb7e69131f21",
+			"e8d0a42b-af04-4b5d-bd64-7d680e1f4bb2",
+			"f3daa7a3-4297-4fb0-8e62-35141b724aa9",
+			"c0935f5d-7f50-48cb-82e7-e65780db842b",
+			"376e762f-d353-4bed-b3cf-e43bd341753f",
+			"0258b705-1be1-47b7-98bc-82fe0f82234e",
+			"148482ba-13ac-4efd-9dd3-0fe9e21a7365",
+			"cf7dac6b-2764-451d-a05a-9706aa2bb0ce",
+			"666a67fb-9017-43fd-9385-288f3df549ec",
+			"197394ef-a459-47d1-b754-de0568ab5760",
+			"1265ecec-f3e7-4c75-ad54-7ceff3c4e9e3",
+			"f3d555f5-5601-48bd-b9d3-46f47fab23f6",
+			"07b0a301-3fec-41e8-be2e-a2f693d319d7",
+			"75de331b-92c0-4985-9303-83376ae5e407",
+			"270db7a3-3444-46be-bdb9-278350383b15",
+			"d091277e-156a-4361-a933-608bd604ad81",
+			"c55350e8-aa55-4ebc-a0f8-8d644caa77fe",
+			"414e7cba-f93c-4438-afad-3015f674af56",
+			"7bfb22fe-1649-4423-b5ed-00078634fa67",
+			"6c0989d6-947f-4c7b-8ddc-04abf622ece0",
+			"a304d382-20ab-43f2-a0d2-86403a03eb2f"
+		],
+		"title": "Nederland in de Tweede wereldoorlog",
+		"id": "d21c9e72-6953-4dbb-94fe-af835bee0715",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/9/5",
+		"lpib_vaksubkern_id": "9bf90730-d548-42b7-8edb-1814a742b965",
+		"doelniveau_id": [
+			"c1d9988f-92f5-4d69-9feb-47693f8eac1f",
+			"8f7f13b1-8848-45ea-bfc9-20a4418944ee"
+		],
+		"title": "De rol van moderne propaganda- en communicatiemiddelen en vormen van massaorganisatie",
+		"id": "cc409b87-e49d-4b6b-8a93-e82909bb7ac6",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/9/6",
+		"lpib_vaksubkern_id": "900370d8-cded-4e04-9d4f-53326fb7df45",
+		"doelniveau_id": [
+			"18e51cc6-27da-453b-b1ab-5a6598579892",
+			"9075b33f-aac5-4678-9439-95cd9f85417a",
+			"3c819829-89a9-4c97-9530-36d402067a42",
+			"81bc8ed6-fd6b-4a6a-a597-022ec4bc7726",
+			"e610707b-7eb2-4662-b4bd-01a3e7d79732",
+			"bfe64dce-f40e-4b86-bee2-99177e0e60ae"
+		],
+		"title": "Het in praktijk brengen van de totalitaire ideologieën communisme en fascisme/nationaalsocialisme",
+		"id": "db485a1a-e81b-48b3-b3b5-1e50db5a698e",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/9/7",
+		"lpib_vaksubkern_id": "5df4b605-ceab-48dc-92d1-e4c9771066b9",
+		"doelniveau_id": [
+			"11702bb1-f68c-4e64-9f65-c13a5c70dd70",
+			"45ffe1e8-7c8a-44a6-94d5-95c4c456da00"
+		],
+		"title": "De crisis van het wereldkapitalisme",
+		"id": "dcc6003c-1e60-4f8e-96e0-cef98e423430",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/9/8",
+		"lpib_vaksubkern_id": "e538f4c6-e56a-42b4-970d-68a8d6395363",
+		"doelniveau_id": [
+			"60e95774-4df7-40d2-bc27-2f183d039b54",
+			"953d3586-59ce-49fe-95a1-b8d26048e61c",
+			"df9fc121-1c53-4eb3-8eae-fe95fe11c9d9",
+			"be580513-57f1-4d61-b0cb-04aa62d67bfa"
+		],
+		"title": "Het voeren van twee wereldoorlogen",
+		"id": "6513fdb1-e5b1-48d2-ad40-693566ea15d4",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/9/9",
+		"lpib_vaksubkern_id": "88cde31b-a6ce-4990-a5e8-a3a3d8d4a4b8",
+		"doelniveau_id": [
+			"8f29e897-3259-4cf4-b804-511f4d093bee",
+			"fbe005c3-cf76-434a-897f-044d734e443e"
+		],
+		"title": "Racisme en discriminatie die leidden tot genocide, in het bijzonder op de joden",
+		"id": "a08cc3c5-778d-4f3e-ae3b-9c2c092c6216",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/9/10",
+		"lpib_vaksubkern_id": "dc0437d8-d402-43db-9575-13b41d4088e4",
+		"doelniveau_id": [
+			"573df9d8-1305-426f-83b9-3c56d73cf552",
+			"0b7f7881-b68f-4308-b6c8-d4f2ab6f9e2f"
+		],
+		"title": "Verwoestingen op niet eerder vertoonde schaal door massavernietigingswapens en de betrokkenheid van de burgerbevolking bij oorlogvoering",
+		"id": "d0d396b9-cfd6-457c-ab9c-2ad046483a8f",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/9/11",
+		"lpib_vaksubkern_id": "d74986a9-8f69-41d6-8a1d-93835fd23880",
+		"doelniveau_id": [
+			"9d91a313-9bd4-4371-bb2c-d71fd4d96084",
+			"d75851f0-7daf-4dca-9916-6856b1ed2244"
+		],
+		"title": "Vormen van verzet tegen het West-Europese imperialisme",
+		"id": "ec24dd7e-116d-4123-ac70-ec0bdb1543c5",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/10/1",
+		"lpib_vaksubkern_id": "402e1971-c7e0-41dc-90a2-b5445b664942",
+		"doelniveau_id": [
+			"a6e0785c-fd76-4c85-8778-05fa81394dbf",
+			"195db1c9-ecf7-4980-86b6-220a6f0f7d3d",
+			"7ca26609-236f-4aa5-b6c0-dad72331b0e3",
+			"ec272fc2-0245-40a0-bf3e-685d37c56366",
+			"09468d3f-d856-4735-aa9c-3e5fa3de223b",
+			"5f81d4cb-028a-45f1-8be1-c0fff04700f6",
+			"60dff0b9-ba63-4d92-b5f2-d7314fb48a84",
+			"3e587baa-6d68-4118-854f-fc509bda2d9f",
+			"161522a9-fec9-4ec9-9835-1a8cbf77ea9a",
+			"a9f93bc2-5617-4ef3-b23d-cda885efbc99",
+			"f97ed14d-715e-49ec-8b01-ec441bf5e125",
+			"54623f4b-4d18-4b48-942a-7149c76be7e2",
+			"6cd9c51d-0fed-4878-90c0-3d4dbd8c536b"
+		],
+		"title": "Nationalistische bewegingen in de koloniën en het streven naar onafhankelijkheid",
+		"id": "601bdb85-2fe3-4909-b2ee-c095766de527",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/10/2",
+		"lpib_vaksubkern_id": "e5030b53-e4ea-44ce-8fd3-5eb0ab0d4db9",
+		"ldk_vakinhoud_id": [
+			"ab62f345-471f-45f4-96bc-41da60baa51e"
+		],
+		"doelniveau_id": [
+			"c2e329c7-c71e-4bcf-b296-a971fa2d1e43",
+			"75625808-3517-43d1-baac-b6c4b28912cc",
+			"0a87cd8d-7e1d-4efe-af09-d6e482d6685b",
+			"83a625fe-7ad9-4c18-8eb6-12e1eb32e88c",
+			"55a105c7-57ae-4960-9107-f82fb2a2f116",
+			"5cf20a17-bfac-495e-866d-45eabaec2fe9",
+			"58c117af-f535-42bc-ae5d-dae48a995b9d",
+			"5cd69857-a32b-4f1b-b9bd-7a9014c23681"
+		],
+		"title": "De blokvorming tussen Oost en West en de Koude Oorlog.",
+		"id": "2532a234-87fb-4ea5-ad7c-be872bb8ae37",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/10/3",
+		"lpib_vaksubkern_id": "26954814-6e7b-4cc3-ba2e-8e682f000ecb",
+		"doelniveau_id": [
+			"30e140d7-49b6-49e0-8a11-9092f7e79989",
+			"1ca52e95-859a-445e-b8cd-2a17234a0fec"
+		],
+		"title": "De Europese integratie",
+		"id": "75903225-2897-444f-8837-44eedfd29dce",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/10/4",
+		"lpib_vaksubkern_id": "b143796f-d00b-47f3-affd-ae74bfcb71e1",
+		"ldk_vakinhoud_id": [
+			"e5a874cf-ebe8-4a2f-bb29-6d1df8dc6ee1",
+			"50286022-0d7f-4972-82b4-d931b8986f1f",
+			"49d90f70-2515-4bd9-9c87-5667d8b83ad2",
+			"deeec71a-55d0-4357-8548-1e6fa08c4c68"
+		],
+		"doelniveau_id": [
+			"bf04e91d-76ae-42ca-88ce-7bb3896d2bbd",
+			"31269416-b5f1-4b71-90e8-af6f4439f2bc",
+			"59e9ff7f-b813-401f-811f-08e032046ce6",
+			"3df4c218-57dd-4a55-ae4a-9e3a1867bde3",
+			"403806f9-b5e5-47c0-94a6-4f335e982fdc",
+			"9f8cd6a0-43b9-40dd-994c-05313d8db072",
+			"11606a4b-9647-4ff2-8abd-d25c53d9d907",
+			"cf47e7bc-139a-40b2-91a0-b646e3dbfc05",
+			"0ad544c6-1920-42cf-b515-e1d32348560d",
+			"8c1f9b18-d8f3-4cf9-96f1-6b6ab437ee49",
+			"7e5c971c-0dc1-46d3-ae98-2cf8721db592",
+			"8dbd04ac-0897-4bba-afcd-7fa1674747a8"
+		],
+		"title": "Sociaal-culturele veranderingen en toenemende pluriformiteit vanaf de jaren '60.",
+		"id": "3332a34b-f5ad-4bd0-a980-68af2f85b5e8",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/10/1",
+		"lpib_vaksubkern_id": "ae78f98f-e82e-4975-89e2-a26a95a38929",
+		"doelniveau_id": [
+			"3182be44-bc63-4c63-ae03-a5b09d4b171d",
+			"cd5f6b4b-d048-4f3e-8056-2735dc4321e5",
+			"902f3a18-2dac-43eb-9775-007883d66dd2",
+			"dfa0fac5-1e10-4c18-9df4-a7935358e0a2",
+			"9a7d21fc-2ef0-4849-a6a0-e9e63378aab6",
+			"281105c4-b7f3-4ca9-a444-165fac452220",
+			"493995db-422a-4ada-a7d6-cb12319c87d0",
+			"6318adf3-1bbf-42ae-9b7a-fb10560e7395",
+			"69fb3731-8a45-4c61-934e-8759e630e94b",
+			"0a9a6b17-0a97-45d9-8fb0-478939475dcc",
+			"daed34a8-03ca-4565-a05e-f2fddecd3177",
+			"33d50d13-e83b-4b90-834f-b7625c44eddc",
+			"f43440c4-df60-4577-a6b8-5ac076940f8c",
+			"f37c8c35-07c8-4bba-8f0e-7da8ef31b3e5",
+			"2463aadf-7bbb-4f87-aad8-382da10b187a",
+			"30596fcf-cd39-4353-a53a-0caee2a84b86",
+			"a03ee7e3-fd5b-409b-b780-29231d40cbb6",
+			"2a61fc00-0051-4e36-bab2-e26b7a78dd60",
+			"645d0fb9-23b3-4648-ae18-6ee6208f093e",
+			"95bbf412-c835-44c8-abaf-e90f696a9ff3",
+			"903864b4-896c-4b03-ae9f-51007b56b23e",
+			"af327c69-ec03-4fa1-b711-60334a41a037",
+			"2870a310-c84d-4cc3-86d7-961015a20fd9",
+			"5c2d8167-ff1d-4b41-8ecc-f821093a0164",
+			"687fdcf1-8a5c-40d0-aa1a-1b14e653bf37"
+		],
+		"title": "Europa en de wereld (1945-1989)",
+		"id": "00bef476-62b7-4f75-994e-f84fbdf9fae4",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/10/2",
+		"lpib_vaksubkern_id": "9038567c-dd62-4feb-afca-fc67ecd016e6",
+		"doelniveau_id": [
+			"b2389d7a-8c8b-468b-97c4-31daa587e783",
+			"d6bee132-0b58-46b4-baf8-179b291565bb",
+			"85a1b9e2-9a8c-4914-bbe3-aa4b2129abcf",
+			"352bff1e-99eb-411d-8a93-26867c24e9a5",
+			"15af0fa9-64ec-423e-93d9-097e9aeffb8d",
+			"90bdde3b-62d3-4307-998d-77d0f9e685ab",
+			"7b387b46-2929-4b79-b575-c1a5c1f7c000",
+			"90ef38d0-e517-4922-bc99-410cf3dcbc57",
+			"3a1797c6-cfc0-42f6-941d-62ba054e2d4e",
+			"e92e8480-22d6-4cdf-9fc5-9eb0ea29749a",
+			"ceba854d-6ff2-49e0-92be-cac462d8e215",
+			"433bef70-f9ab-4a99-b673-5f124d2046ad",
+			"40a5331f-7c70-498c-a753-aa0017ca6e87",
+			"ca1f9762-b660-4fbe-86ea-1edf27ca5572",
+			"c722dcce-0af3-4439-8eba-67f00e79c34e",
+			"b6e7e465-6bf4-4b1e-b4cd-16e15cebf251"
+		],
+		"title": "Nederland tussen 1945 en 1989",
+		"id": "38983bff-3512-406e-b3d8-e488f98d211a",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/10/10",
+		"lpib_vaksubkern_id": "5d7d290f-12f0-46aa-8e1f-81158b634efb",
+		"doelniveau_id": [
+			"526eac99-b110-4790-86a3-658a5c5587b4",
+			"c130395e-ccb1-4b0c-9fb9-57fdcb6d5914",
+			"8f44b7ae-a223-426b-8b1f-db008500ac29",
+			"7f37ce96-c680-4bdc-878f-49895393f4fc",
+			"d352511c-a62c-41b3-ae47-d4581b9684e6",
+			"8483157c-179f-4711-ba5e-611012454c88",
+			"d0d847f0-75af-49c2-8e24-b3352abd9400",
+			"065e4c10-47ca-4c33-af68-ce34750f49bd"
+		],
+		"title": "Nieuwe Wereldorde (vanaf 1990)",
+		"id": "a33758b2-5fa7-4eb1-8493-eac12b37fae5",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/10/11",
+		"lpib_vaksubkern_id": "be3164fa-f795-4a70-b778-80dd9cba2508",
+		"doelniveau_id": [
+			"d96c1ce5-4a4c-497d-8a6a-719da2aa2db1",
+			"1bf3b1a1-39c1-458c-951f-4b87f4a975f1",
+			"881157b2-bba5-4c9e-830c-2b4de5197a21",
+			"78160550-7834-494d-ab53-d9a8527dd24c",
+			"358f977e-be37-4eed-b3e1-452a3e5b3258",
+			"75eead48-3d86-410e-aea8-bf11dc5c8371",
+			"dbadb48d-4bc1-4d59-8835-7d30088c866d",
+			"39702a41-cc92-414a-a444-8039e177f483",
+			"2f3cc3ad-9a4e-4c63-9a68-d5e36a47d435",
+			"c05f6736-3557-4899-a31d-a33e5681bc0c",
+			"d81120de-1e8a-45dd-93c2-496a2e8a88a0",
+			"6690a4f9-2c78-404f-904b-895e8de92ad7",
+			"b87ff655-a400-44d0-a7d7-d316721850ff",
+			"1d9450e7-3304-4d01-9b72-3debb2e0fab3",
+			"ce6996bf-e96f-4ff8-bf96-b1180bb74edd",
+			"3ea18fc3-6538-4e2c-8ba5-3a4ad859428a",
+			"c2c858a1-f891-4bd7-975c-993d2e76a1fd",
+			"463248e3-8bb2-4b5b-9913-ed147b1d15f2",
+			"b1d274be-6af2-4279-b4be-1ebd8538b886",
+			"fd577cc5-f134-433b-9a83-481374541912",
+			"bc1506df-118c-44c5-a991-5aee41f5468b"
+		],
+		"title": "Nederland vanaf 1990",
+		"id": "6185cf4f-9120-4b06-8cdc-b30fabee1a5c",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/10/5",
+		"lpib_vaksubkern_id": "c0d42915-6dc7-4de2-bdfc-ba633cee96f9",
+		"doelniveau_id": [
+			"ebf19890-9895-4fd7-927d-13ce2430da0b",
+			"61b37d75-5c00-4250-8e76-d66218707c3e",
+			"4d9d43fa-910b-410c-92da-9dffa5a4eba1",
+			"0b77ccdb-b528-4a20-934e-ef9259ece79e",
+			"a28c0f5d-bc8d-421d-8e45-fb872ac86b8f",
+			"cb6a126d-3d41-427c-8a14-c75473a0b811",
+			"a8c43311-b189-4ad8-82a1-1608cb34feb5",
+			"ec15844b-0934-46fa-8d15-e137d4c54127"
+		],
+		"title": "De verdeling van de wereld in twee ideologische blokken in de greep van een wapenwedloop en de daaruit voortvloeiende dreiging van een atoomoorlog",
+		"id": "11e9a0d7-d1e6-4af4-9f92-2d4c6d30928e",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/10/6",
+		"lpib_vaksubkern_id": "8b4763bd-0868-4e87-b8d5-1102000c00b5",
+		"doelniveau_id": [
+			"0e6eeb17-3588-452a-bd37-31838f47de6e",
+			"be2ae5b2-b466-4c86-8e4a-df1363facb79"
+		],
+		"title": "De dekolonisatie die een eind maakte aan de westerse hegemonie in de wereld",
+		"id": "4744d496-46b9-4acf-a99c-a02d9591c028",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/10/7",
+		"lpib_vaksubkern_id": "76c0587c-5570-4e41-9dc8-9c666af00251",
+		"doelniveau_id": [
+			"daf34150-5fae-4e06-a3b7-c787ab171c54",
+			"81f82393-3768-40dc-9eff-ad80e1899bac"
+		],
+		"title": "De eenwording van Europa",
+		"id": "f5689a6f-e98c-4a26-8c42-d32fe56d05fb",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/10/8",
+		"lpib_vaksubkern_id": "76e031bd-c1ae-445b-a916-9ba8d8cfe0f8",
+		"doelniveau_id": [
+			"1a3a3d21-5b70-45a0-85c6-89c3d2fc890a",
+			"bc630117-ab10-4c48-9144-af57e833edeb"
+		],
+		"title": "Toenemende westerse welvaart die vanaf de jaren zestig van de twintigste eeuw aanleiding gaf tot ingrijpende sociaal-culturele veranderingsprocessen",
+		"id": "27f5b4cf-8cd0-4271-98f2-0b92753bcc7e",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/10/9",
+		"lpib_vaksubkern_id": "41a22f57-82fd-4c59-beb0-099b85f51ecd",
+		"doelniveau_id": [
+			"16073137-7bdb-4c61-ab5d-e7a351501aea",
+			"f9e138b5-2a38-4e4a-a45d-234d85e6a745"
+		],
+		"title": "De ontwikkeling van pluriforme en multiculturele samenlevingen",
+		"id": "51530f09-bf2c-4d9f-9e00-4099230dda97",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/11/1",
+		"lpib_vaksubkern_id": "3b791474-f9c7-4d63-b01e-7a904ef4bdba",
+		"doelniveau_id": [
+			"9094b140-ea8a-4470-97cf-45bb3ff0c8d4",
+			"6a39bfda-875e-414d-a770-e1c4fb2e9cf4"
+		],
+		"title": "Inhoud",
+		"id": "adec9229-ad64-448e-a1fd-37776190ecc9",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/11/2",
+		"lpib_vaksubkern_id": "4a3eb915-4353-4a12-afc3-6aac2cec7c38",
+		"doelniveau_id": [
+			"ec8c6246-45ba-4190-a406-5de4ab79a8a1",
+			"39710ed9-b854-4e24-9f0d-4c32fd7518e8"
+		],
+		"title": "Voorbeelden",
+		"id": "cfb21639-b3c0-4844-8935-37f9d5074657",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/11/3",
+		"lpib_vaksubkern_id": "318bab33-bb5d-436b-8d26-d2f6a0df9518",
+		"doelniveau_id": [
+			"25b6fcc8-90a7-4ee8-b6a7-2efb1eb5e99c",
+			"3996247b-563e-4bcc-bce5-f50980121d85"
+		],
+		"title": "Oriëntatie op heden",
+		"id": "fc6156a1-eeaa-4448-8b39-bb4ccb2d1be1",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/11/4",
+		"lpib_vaksubkern_id": "d55740a7-caa4-480a-a300-6681cad7fbbe",
+		"doelniveau_id": [
+			"4284e2ad-7829-4294-a60d-0f8a7d0f0ca0"
+		],
+		"title": "Betekenis verlenen",
+		"id": "14bfdef8-a6e3-4408-8e8e-65b73f4b3620",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/12/1",
+		"lpib_vaksubkern_id": "c205fcc2-db10-4576-b5b8-74e9db8b63e5",
+		"doelniveau_id": [
+			"86821069-4993-4b6d-9ca4-810a5c8533c9"
+		],
+		"title": "Vrijheidsrechten en politieke rechten",
+		"id": "48c08ed1-e8ee-4f44-b64e-feee753a6f90",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/12/3",
+		"lpib_vaksubkern_id": "a3c24c2d-1640-446e-92f6-25cd25d5626e",
+		"doelniveau_id": [
+			"c1ac55a3-63a5-40db-818f-3cd8f98f5aff"
+		],
+		"title": "Ontwikkeling van de rechtsstaat",
+		"id": "0850af9e-db41-461f-bc10-919f10fcf688",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/12/4",
+		"lpib_vaksubkern_id": "3c698356-f5e3-4a7d-aae0-edc8fd27ecbb",
+		"doelniveau_id": [
+			"7791ab9c-75ef-44d9-8831-9881bab0d130"
+		],
+		"title": "Geschiedenis van de rechtsstaat en van de parlementaire democratie in Nederland vanaf 1795",
+		"id": "cd86bba8-ca2e-4b56-81f9-267e260f08bb",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/12/5",
+		"lpib_vaksubkern_id": "a858fe30-be20-4307-a0c6-defc2ce6ebdd",
+		"doelniveau_id": [
+			"1e2ea847-c057-4997-af65-2f074703d133"
+		],
+		"title": "Geschiedenis van politieke stromingen sinds 1848",
+		"id": "571209a2-2984-4f32-8995-691460019dd5",
+		"unreleased": true
 	}
 ]
