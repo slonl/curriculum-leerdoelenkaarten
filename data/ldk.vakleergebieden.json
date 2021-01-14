@@ -199,5 +199,19 @@
 		"title": "Frans",
 		"id": "2de8c75e-40f8-4a3b-a913-4f9138f95b36",
 		"unreleased": true
+	},
+	{
+		"prefix": "en",
+		"vakleergebied_id": "d8dc1dca-90ee-4d8b-983b-734207cfbee2",
+		"ldk_vakkern_id": [
+			"b7bfa8bd-bf75-45df-9f13-90cd4dcab734",
+			"a8f41aff-7d8d-4d1e-8f53-3246d5e14c38",
+			"f3707085-bbdb-41fd-a26a-f5697d40aaaa",
+			"cc5959bb-7128-4d2b-aec0-8c87e2d42fdd",
+			"fb1c30ac-147e-48bb-9aea-c85ae39dfd10"
+		],
+		"title": "Engels",
+		"id": "9db0f649-ba16-4885-ae88-c8dbc671debd",
+		"unreleased": true
 	}
 ]
