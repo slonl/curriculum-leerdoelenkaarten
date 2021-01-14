@@ -19824,5 +19824,5556 @@
 		"title": "integrand, primitieve functie, bepaalde integraal, omwentelingslichaam, baansnelheid, baanversnelling",
 		"id": "b177530c-42d5-4432-b15a-d37309ffbde6",
 		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"b579b958-dc20-4310-ab99-6ffd8ec071aa"
+		],
+		"title": "Behoeften en beperkte middelen",
+		"id": "224ffa58-0c78-4988-93c5-f459a3e1bf00",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"b7f1838c-dec8-4949-8b3c-89c0cecb5a6e"
+		],
+		"title": "Behoeften en beperkte middelen",
+		"id": "cabfcb95-2260-4a28-a3f0-7accd163970c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"6d884598-73b8-44cf-bd97-07898c59fc80"
+		],
+		"title": "Alternatieve aanwendbaarheid",
+		"id": "90401ae5-32e5-4120-b6f1-581e0e145639",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"a663e6da-53a3-47f3-9ae5-748477d6644c"
+		],
+		"title": "Alternatieve aanwendbaarheid",
+		"id": "cb847269-c9e1-4cc5-87d4-fcafd9c15386",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"f01a64b0-747d-4f46-a8db-05623515ccbe"
+		],
+		"title": "Opofferingskosten",
+		"id": "490f983a-d90b-4d94-8b6b-f20bfb00c2e2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"8051bd1c-a80d-4e76-a418-c27893475bc7"
+		],
+		"title": "Opofferingskosten",
+		"id": "546cd4a3-0a49-4f23-a45b-84721b744a5c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"7e6a7e5d-af2a-4953-bbda-6633ad8916e6"
+		],
+		"title": "Budgettaire problemen",
+		"id": "3273d2eb-5869-4e1a-acc4-31a7db96127d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"b8f40fc3-e68f-48d6-93db-aefc09c6252e"
+		],
+		"title": "Budgettaire problemen",
+		"id": "21c7fa74-2839-4423-acc1-d9c1277b5271",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"270432c1-8a67-412a-b3dd-84129f6150f7"
+		],
+		"title": "Prijzen en budgetlijn",
+		"id": "e8826cd8-9477-4e1c-b1b4-20dcdef4c3af",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"3860fef9-4a10-432b-975c-d5b908551c16"
+		],
+		"title": "Prijzen en budgetlijn",
+		"id": "50bb64b7-fcd8-4682-9827-eb99c8ad50ff",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"bc5222f2-04ee-48f4-9fe3-148968f49249"
+		],
+		"title": "Ruil-, reken- en oppotmiddel",
+		"id": "9de956ad-98ca-48cf-91b3-ae8adf5526aa",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"74bbe17a-e884-4547-9c56-a033c7eb4a97"
+		],
+		"title": "Ruil-, reken- en oppotmiddel",
+		"id": "0b0a686c-942a-4722-b275-2bb7a1f8c6c5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"012442a4-f1c0-404b-b1da-5697cdef6b3a"
+		],
+		"title": "Geld in relatie tot transactiekosten",
+		"id": "724d819c-2831-4345-83ef-7758fc7e6f63",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"3ae71130-bc9f-4dd4-8bc2-8f8167322566"
+		],
+		"title": "Geld in relatie tot transactiekosten",
+		"id": "e55d3f8f-c5d0-4b8b-96e7-36ef6c396bd2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"83b006a6-c775-4323-8720-2aa6e0328bf5"
+		],
+		"title": "Fiduciair geld, Technische vereisten geld",
+		"id": "4b3b77b7-8edc-4f1d-b685-c331a5cdbafe",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"fbcd35ae-9e83-4794-bd44-42440f635657"
+		],
+		"title": "Fiduciair geld, Technische vereisten geld",
+		"id": "b1436862-3ac2-49fb-9925-1d35f2c3a237",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"b6621748-71e0-4327-a6ec-a43cd43f77f1"
+		],
+		"title": "Chartaal en giraal geld",
+		"id": "6d1e9c6d-36e7-47ba-8a2c-59b27ed5b6b7",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"b19c2a95-c5ce-4106-9c7c-f4fdf7df8c00"
+		],
+		"title": "Chartaal en giraal geld",
+		"id": "1ca40fc8-5107-474d-b0f3-7d7d8b778af5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"be947ea2-d617-4649-a5d3-7479212704da"
+		],
+		"title": "Geldschepping en liquiditeit",
+		"id": "c23c7496-e349-4e3e-a3ec-67f92af4c7d2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"916dcf40-64ba-49a8-9147-ec403a971475"
+		],
+		"title": "Geldschepping en liquiditeit",
+		"id": "c809afea-068e-4ea8-8d37-90c4faaf0d91",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"4840f111-fd98-401a-82ab-d3ca412c22f0"
+		],
+		"title": "Intrinsieke en extrinsieke waarde, Wet van Gresham",
+		"id": "522f1087-016a-4266-848d-b8239131968d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"7b3f6487-cf93-4690-a2bd-e6e662243b47"
+		],
+		"title": "Intrinsieke en extrinsieke waarde, Wet van Gresham",
+		"id": "fa015778-2beb-4e48-afce-9d47d9442263",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"d3996648-9ccb-43c1-8677-1b6a822e3dea"
+		],
+		"title": "Bankbalans",
+		"id": "eaf5a368-3058-4a05-b37f-43d491ffb519",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"b581dc5a-8d6c-4df6-a5cc-5dfe7efc6537"
+		],
+		"title": "Bankbalans",
+		"id": "7af93390-22c3-49f9-9d88-92273de45ac0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"ecd62cbf-ec88-4efe-a620-3c32e8354938"
+		],
+		"title": "Onderscheid productie en consumptie",
+		"id": "ff9f90e1-c511-4e96-85b9-55b5c510c541",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"ac9d34dc-fc6c-4d9a-9594-f16ccbf85b93"
+		],
+		"title": "Onderscheid productie en consumptie",
+		"id": "47a5c8bd-eb53-49d6-8391-d7aae7fffa8f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"8e0a85b8-2345-4cba-9786-62696b0ce2e6"
+		],
+		"title": "Motieven van winststreven en behoeftebevrediging",
+		"id": "fba28e96-be4e-4056-a7b0-92b3931fb72c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"aef3c158-f0f6-49c6-9652-adf51627e1b8"
+		],
+		"title": "Motieven van winststreven en behoeftebevrediging",
+		"id": "dbffb7a2-4813-4fda-9d1a-9e56125b7405",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"bc673c93-bfef-42f4-bd00-ea7922b2c59c"
+		],
+		"title": "Statusgoederen",
+		"id": "0f48eb45-021d-44fb-bd5a-f7c05ac35696",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"f5bdb01f-4fe5-4424-8fcb-fefcaa00648d"
+		],
+		"title": "Statusgoederen",
+		"id": "4f03f530-c520-443e-af92-d55993f6bd2e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"f28dad88-de65-43ea-8de7-95a42957c2da"
+		],
+		"title": "Wederzijds voordeel",
+		"id": "8956851a-3303-4c61-910d-7f932162a9e2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"e2270d8f-2c27-42c3-b21b-bdf5fad90fcb"
+		],
+		"title": "Wederzijds voordeel",
+		"id": "833e78fe-059f-4ac0-b421-4ce4569d188f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"7b5d6d83-34d1-45d2-bad2-0e4c2799eb0d"
+		],
+		"title": "Comparatieve en anbsolute kostenvoordelen",
+		"id": "5367b3df-a910-48b7-bf69-a897184a5f2c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"3280c658-3978-4d49-ac54-3d67ea9fd7db"
+		],
+		"title": "Eigendomsrechten",
+		"id": "f6c0d8cd-0f67-46e2-a1ea-c51f84f3203f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"f1f76044-b18b-4947-8379-b782b96f0c80"
+		],
+		"title": "Eigendomsrechten, transactiekosten",
+		"id": "53652c06-ab42-4e4e-9268-8721070cb66c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"ddb36fc9-3792-4c52-a83e-b4efab5d9168"
+		],
+		"title": "Bedrijfsvorming, splitsing, transactiekosten",
+		"id": "fec6eebd-23eb-4ae6-8689-29d87076d206",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"980467cb-6b1d-4316-9fb6-e6d297c5770f"
+		],
+		"title": "Arbeidsdeling en specialisatie",
+		"id": "05ea466a-1b18-4cf0-b219-0263c62616f0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"d37830b4-43f4-489a-b448-c65443b291ef"
+		],
+		"title": "Arbeidsdeling en specialisatie",
+		"id": "f0b16c93-ee76-4bf1-b2e7-9b9b107115e2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"f097ceb7-ef98-45e1-8772-35759a740bd9"
+		],
+		"title": "Betalingsbereidheid",
+		"id": "089e4987-9e04-4088-8e4e-e2685181b748",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"6d41fc1a-305b-4b5b-b635-07da0fb30c06"
+		],
+		"title": "Betalingsbereidheid",
+		"id": "9be9307f-8296-41b5-ae3b-c41d889e3fec",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"0623745f-9f06-4416-9ea5-938684476552"
+		],
+		"title": "Individuele vraaglijn",
+		"id": "0bc7ebf7-76d7-45d8-92f4-f2062bfc73cb",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"af353d03-a38c-4d00-af55-09d471fe24ec"
+		],
+		"title": "Individuele vraaglijn",
+		"id": "b2d1f8fd-005b-47d1-bd89-a4f273d2f01a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"b4341062-e234-4dff-826b-1d7c1182898b"
+		],
+		"title": "Individuele vraaglijn",
+		"id": "ae4d294d-bf74-4a18-8901-09b1640cc39b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"1c55d879-dbf1-4e1f-b0a3-5d9e0dbc4487"
+		],
+		"title": "Verschuiving collectieve vraaglijn",
+		"id": "4146dd1d-e4d6-4be0-a011-550d07462cee",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"3a0a0d04-e805-4077-9ccf-38bde3ac8dbb"
+		],
+		"title": "Verschuiving collectieve vraaglijn",
+		"id": "2b8e493b-3b6f-43fc-8ef6-59a0cb528139",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"32adf99f-f6db-4ddf-9384-7009a4266984"
+		],
+		"title": "Individuele aanbodcurve",
+		"id": "dd1a250a-db0d-4ecf-93d3-7e2c0435ff61",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"1be6b080-a1b2-4c54-8e64-e1d3094a1183"
+		],
+		"title": "Indviduele aanbodcurve",
+		"id": "e499f9fb-a8c5-4921-a805-d34eefd56698",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"64fdf1e2-17b5-40ea-a0d9-cbb8fa50c12f"
+		],
+		"title": "Verschuiving collectieve aanbodcurve",
+		"id": "030dc22f-895b-49d7-b8fb-0d64dcd7935d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"a0ad3847-27eb-48fb-b728-90a7dbaababd"
+		],
+		"title": "subsidie, heffingen",
+		"id": "d2a9d2aa-cc1d-4e7f-bd7c-c78baa0d1421",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"33fb2d9b-037b-41a7-a00c-5c4c3d3ba275"
+		],
+		"title": "Marktevenwicht prijs, hoeveelheid,  omzet",
+		"id": "50283296-3e0b-4dce-b20c-3821a0cc28bf",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"0cc8d23f-d994-4626-88f2-7b5dd867bc97"
+		],
+		"title": "Marktevenwicht prijs, hoeveelheid,  omzet",
+		"id": "77208c7d-be97-4e29-891f-4db055c6c8b3",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"24d41025-198d-47e9-8b2d-1c4974d9fb1a"
+		],
+		"title": "omzet",
+		"id": "9859f66c-49b1-4f9c-99c6-68bc2912af34",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"7bbf63ee-48be-4dd0-bb75-0c83b091d08b"
+		],
+		"title": "omzet",
+		"id": "1bd197fc-87e7-4e1f-b8a5-725fdc7afdf5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"210b3798-c93b-4df7-a835-02fba8662858"
+		],
+		"title": "Inkomens- en prijselasticiteiten, Inkomenselasticiteit",
+		"id": "6b2a3ee3-b637-477f-bac1-524138272aa2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"0b92aea6-9a95-4c33-9390-88fc768c7bf4"
+		],
+		"title": "Inkomens- en prijselasticiteiten, Inkomenselasticiteit",
+		"id": "51662ab1-660f-4806-b168-78aff262a5d0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"7c229e36-7c02-4efc-afbf-fd5d68d25195"
+		],
+		"title": "Substitutie, complementariteit",
+		"id": "146b12f3-c549-485b-b076-9d90d45656a1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"c73b282b-d0da-4fd6-bb16-d4e00f1f52b1"
+		],
+		"title": "Prijselastische vraag, prijsinelastische vraag",
+		"id": "d1b0dbc7-85ef-48dd-923b-2b933b2b1bd3",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"edd576a7-b091-42ce-bf7d-90b60c96b47e"
+		],
+		"title": "Inkomenselasticiteit",
+		"id": "8cf4d521-85d6-4302-99e7-02ef58d86dc1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"e839063c-2d15-40d4-9a47-4145968b125a"
+		],
+		"title": "Normale, inferieure, luxe goederen",
+		"id": "1533f5dd-d188-4a12-acd3-db19b6cea550",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"2bc0f60a-989a-451c-93bb-c7dffa433c3e"
+		],
+		"title": "Marginale kosten versus marginale baten",
+		"id": "02eb2be5-7492-48dc-acdb-7def089f3ab7",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"6acf9d54-dc31-4084-8731-ff53f4b676ad"
+		],
+		"title": "Marginale kosten versus marginale baten",
+		"id": "82f4cf80-5fbc-4f42-9c79-fc4c423ea77c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"45b36e5c-a137-4921-ad9a-454b322fbef3"
+		],
+		"title": "Prijselasticiteit, omzet",
+		"id": "b280046b-d3e9-45b4-aea3-8308a936a4e8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"ae3cc9ef-0c7f-479a-acf9-fdc3545cb673"
+		],
+		"title": "Substitutie, complementariteit",
+		"id": "8e2fd891-384d-468d-b692-f307ff115975",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"06403eb3-6471-4d72-a924-0cd51e91a250"
+		],
+		"title": "Normale, inferieure, luxe goederen",
+		"id": "7868000b-d721-41f7-aa7b-414936413e25",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"f5473575-72b8-461c-bcee-d1573f73ded4"
+		],
+		"title": "Vaste kosten, variabele kosten",
+		"id": "79587add-a684-413f-884a-9ea69a892854",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"7f0bed3c-a26f-4b39-9ef5-8fca291c28e7"
+		],
+		"title": "totale kosten, gemiddelde kosten, marginale kosten",
+		"id": "996be9cb-4068-48a0-8b6a-ff4eee625199",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"ec078cdb-732a-4d05-8a47-8c7b0829dffa"
+		],
+		"title": "verband aanbodlijn en marginale kosten",
+		"id": "8f5eb5cd-43a7-404d-afe3-2c379d02bd34",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"6ec071b6-c5e5-4fae-833a-975900198877"
+		],
+		"title": "totale opbrengsten, totale kosten",
+		"id": "cc7ab8fb-e617-4dd2-98c1-41e55e49d798",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"73fdf897-2824-4cf4-a838-ec37598f006f"
+		],
+		"title": "Break-even point",
+		"id": "e15b562d-3300-4ea5-ad11-5e3ecbf55359",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"780ff5e4-46ba-4ea8-aa25-64f95f4374fe"
+		],
+		"title": "Marginale kosten versus marginale baten",
+		"id": "c3ba68d8-c128-4a65-bcf5-3963bcc40758",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"b98fecdb-7c56-4c1b-bbe3-951d8c6553c0"
+		],
+		"title": "Coördinatiemechanisme",
+		"id": "c25b6c8c-cf73-418c-9eb8-4c0f74d32d39",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"df577514-33ab-4e6a-87f0-903dcc7cc331"
+		],
+		"title": "Kenmerken",
+		"id": "b17a25b5-13ce-46ef-b6a8-ba0135e7fa74",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"b5c1d8d6-eba1-4312-b88b-387887584b29"
+		],
+		"title": "Volledige mededinging",
+		"id": "9b91e03a-a6c3-4f05-a13a-460f9d63cec4",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"260d5fc2-4db6-48cd-b024-a757cb08b6ff"
+		],
+		"title": "Prijsdiscriminatie",
+		"id": "4f2f523b-5095-441e-ae5f-e1b2a8d862f8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"42a57c09-cbb3-4a13-8452-44381a5160a6"
+		],
+		"title": "Volledige mededinging",
+		"id": "842420c5-b062-4efe-b2bc-8c62d91de870",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"e9f3fc6a-a669-461f-85ca-b07755a8a142"
+		],
+		"title": "Monopolie",
+		"id": "b32e06ef-380a-45f3-a5e9-d7ae6b08f20e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"e9eac441-0734-4e00-bc81-7bdfbffb1244"
+		],
+		"title": "Prijsdiscriminatie",
+		"id": "4a8f7bb2-4c3d-4d06-9d25-f51a75ea2826",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"fed7ae82-d802-4caa-b750-c7133ab13b24"
+		],
+		"title": "Oligopolie",
+		"id": "e5de9138-7db2-4625-93ee-60540f86c976",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"550c101d-c7d6-435a-b29f-bbded7d0c2ef"
+		],
+		"title": "Monopolistische concurrentie",
+		"id": "8c660dd2-e55b-404d-b96c-e283f57604b4",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"b168ab69-b560-44dc-a5db-f867c14aa3db"
+		],
+		"title": "Break-event point",
+		"id": "b3e0201e-9b2e-4ed7-b6f3-9a32f537c41f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"975ce4f7-6ae6-4619-be0c-eaf1a6f59c3b"
+		],
+		"title": "Totale opbrengsten, totale kosten",
+		"id": "434e48a5-5705-4452-8cdf-ab5117caff08",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"43c3a56b-15aa-425a-bfb3-e08e5305d37d"
+		],
+		"title": "Vaste kosten, variabele kosten",
+		"id": "71a92bc2-7466-445a-a966-baec0b9f6a33",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"18b11b7f-a187-4cd2-af35-8b1a20bd9858"
+		],
+		"title": "Consumentensurplus, producentensurplus",
+		"id": "329e7a43-a237-44f2-bf9f-df4ed358c7d4",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"0b14bf47-8e38-4d58-a679-ffcc20b4db84"
+		],
+		"title": "Consumentensurplus",
+		"id": "a77cac11-7475-44ef-8f1f-54390317c057",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"fdd7eab6-2f1b-4ca5-9f83-f1dc34f54be3"
+		],
+		"title": "Producentensurplus",
+		"id": "956e8e5e-b915-412f-9376-2c78dae942ba",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"9b936ff2-f0f7-41e9-9acb-4fd624595aad"
+		],
+		"title": "Producentensurplus",
+		"id": "0260b2d9-a82b-49a4-b5db-d0a75375e9aa",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"61bbfdcb-d141-458e-8623-c6c6b1c41610"
+		],
+		"title": "Producentensurplus",
+		"id": "cac4f85c-6dda-4a60-8a72-735924f19fab",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"f71b072d-c8c6-4559-b98d-9b88b400c68b"
+		],
+		"title": "Pareto-efficiency",
+		"id": "17e9c175-1f42-4cec-b7a9-d76279368db2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"0335af82-f085-4ff1-bffb-2acc6a7a0b08"
+		],
+		"title": "Surplus indicator, maatschappelijke welvaart",
+		"id": "35484d91-cec9-4306-a4fd-7565a1defa33",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"80256a04-77f7-44b7-903a-8ffb98e84e00"
+		],
+		"title": "Deadweight loss",
+		"id": "70562d53-9510-41b4-8b98-7f8228b7b2a2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"217a1deb-6254-47da-90ca-675937a2cd98"
+		],
+		"title": "Marktmacht, verdeling surplus",
+		"id": "b7c49d04-0221-49c3-bfd0-84f89a03d292",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"7c788fff-f07e-411f-9747-0f4b75fbd9ee"
+		],
+		"title": "Prijsdiscriminatie, surplus",
+		"id": "21a3ac9b-4f8f-4b95-bbe2-d913e0da2ff6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"5bf41688-638a-4657-bcc1-1541e6b19937"
+		],
+		"title": "Overheidsingrijpen, heffingen, subsidies",
+		"id": "6a3018f9-df8d-4024-bf3d-a76213e55ccf",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"fac51769-1361-42d7-b64c-52e5269344a1"
+		],
+		"title": "Minimumprijzen, maximumprijzen",
+		"id": "7d0588b0-b174-4ed1-b1a5-059936085053",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"c7d399a7-a4d9-41d4-bc0c-2c6d613e7689"
+		],
+		"title": "Inefficiëntie markt",
+		"id": "5c26a892-1e79-481f-a773-527e264b44f2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"e41b7916-0f24-4398-986b-ad42c07813ba"
+		],
+		"title": "Minimumprijzen, maximumprijzen",
+		"id": "f4562b2d-0bea-4fc2-869c-2bac94bf5ea4",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"1043cc70-6808-4ffe-8640-4a8dd2469d1a"
+		],
+		"title": "Toezichthouders",
+		"id": "a4e12fe7-5254-4550-8f47-dd7015f6172a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"9650f7dc-3b24-44db-8775-e9e48eed00f8"
+		],
+		"title": "Octrooien, patenten",
+		"id": "3959d3f3-d46d-45e2-be90-fa2eb58c1596",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"636a272d-da82-42b8-952a-95ff1cfdd3c9"
+		],
+		"title": "Octrooien, patenten",
+		"id": "0f4b02fd-6578-49ae-80b0-d2136579dbab",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"66260aa8-a4f6-4023-b78f-6870e90e4d27"
+		],
+		"title": "Sparen, investeren",
+		"id": "0f594546-52c7-4178-b80f-21c26b2e9e8f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"90ae6d1f-6c48-460e-ba05-25eca02c6fb2"
+		],
+		"title": "Sparen, investeren",
+		"id": "421a133a-9d19-4fa1-a740-bfe83cadd3d7",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"8c4c5b18-4fca-428d-936b-007c3454f3eb"
+		],
+		"title": "Voorraadgrootheden, stroomgrootheden",
+		"id": "044b1587-194e-4ebb-bc23-96a28197edd9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"d22f55e5-5ede-40b6-905e-817b56112a66"
+		],
+		"title": "Rente",
+		"id": "9cc754eb-33e4-44d2-943e-0f73e7e99e52",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"8840d959-fc9c-4741-9ba0-8355743e732e"
+		],
+		"title": "Rente",
+		"id": "34692ff2-e6c6-4c3a-83d9-3c6938fa884f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"20bbe8eb-0a48-4fc0-8c94-160d1811ee41"
+		],
+		"title": "Risico (bijv. a.g.v. informatiesymetrie), rente",
+		"id": "65955e92-8596-4fc3-9b5b-9b9c2e086eb0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"6676eb7f-8330-4c7f-b969-899cf6a31c18"
+		],
+		"title": "Reële rente, nominale rente",
+		"id": "c126e7f3-35d8-4b0a-b1c7-ec01ac101d5d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"2fd82593-6046-40bb-9078-18409f43e534"
+		],
+		"title": "Reëele rente, nominale rente",
+		"id": "d2a49007-f7a9-4ca5-8b85-ae671d0abacc",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"51d4375c-e860-4e1c-ba34-9b7d82e25120"
+		],
+		"title": "Intertemporele afwegingen",
+		"id": "b56e9994-569e-40ec-8a68-885de74423c2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"316737c5-270e-4af6-8f2e-0a142ffc66f5"
+		],
+		"title": "Intertemporele afwegingen",
+		"id": "f502a6fe-e63f-4a05-833c-c2fa3dd4b4e1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"3c3403ff-c197-46ea-ac32-fa430f8280ae"
+		],
+		"title": "inflatie, sparen/lenen",
+		"id": "07767924-65ae-49d0-97c7-ad1fd6279524",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"437ca54e-8b70-4626-9cb7-ca865c96f932"
+		],
+		"title": "Kapitaalstelsel versus omslagstelsel",
+		"id": "74ca91af-9935-4223-adf9-253a40232ca2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"552980c8-faac-4987-8605-c08cdfcf11e4"
+		],
+		"title": "Welvaartsvaste pensioenen, waardevaste pensioenen",
+		"id": "d48c5787-0d12-437d-b08e-40c2d0a648d7",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"6d812ede-2db9-4dac-8667-97d1777eeb46"
+		],
+		"title": "Intergenerationele ruil",
+		"id": "5358248a-f4f7-4f01-9a8b-a5462307c7d6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"0fa28790-84b7-4e14-a4cd-fc76550768c8"
+		],
+		"title": "Investeren, publiek, privaat kapitaal",
+		"id": "e58691e5-07b1-4ec3-bd7f-8df8e19fc3cb",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"3fb16121-ff65-4f16-aea4-d2409a310e9b"
+		],
+		"title": "Overheid en stroomgrootheden (inkomsten, uitgaven overheid - financieringstekort), voorraadgrootheden (overheidsschuld)",
+		"id": "f3ecca51-1e21-4114-88aa-2e417b290ae8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"fea1b424-7775-4604-8a59-fde5d95a608d"
+		],
+		"title": "Private schulden, schaatsschuld, betekenis overheidstekort",
+		"id": "0bd6db07-3d22-432b-9914-850017d9e4a0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"44e8e64a-da06-4aaa-b474-4cfaec87b3a6"
+		],
+		"title": "Belastingspreiding, uitgestelde belastingheffing, welvaartsverlies",
+		"id": "e7d60598-9cb3-49e0-a0ca-0668f5039b72",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"20b9fbcc-f833-4c96-8516-0338ba1e02f3"
+		],
+		"title": "Overheid, stroomgrootheden, inkomsten/uitgaven overheid, voorraadgrootheden, overheidsschuld",
+		"id": "c89e4701-b3da-4bbd-bea7-5203297ca9aa",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"38037457-bc66-41fa-bcd6-79b3e3e8d738"
+		],
+		"title": "Private schulden, staatsschuld, betekenis overheidstekort",
+		"id": "6a7c2833-586d-4dfd-a88d-695a9eadfbc9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"469eb9a8-d33a-43f9-b307-81a83ad86a4c"
+		],
+		"title": "Kapitaalstelsel versus omslagstelsel",
+		"id": "96e52456-4632-4dab-9bca-0cf0c5223d39",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"9ea97752-8b93-4a54-a498-27540103cb80"
+		],
+		"title": "kartel, overname, fusie",
+		"id": "79ddfd68-4006-491c-9a1f-3fb9e867f351",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"e80483a0-0073-4da0-8763-0ae397589a08"
+		],
+		"title": "kartel, overname, fusie",
+		"id": "b1ea45ff-380b-4291-ac67-bf98ab068c5c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"af9e0dbc-6401-4006-bf22-08e5e92c2e97"
+		],
+		"title": "Gevangenendilemma",
+		"id": "3ce15123-b0b4-4d0b-94e4-7c621d8bdde7",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"24344760-25e0-49e5-9515-2a0fce92dc8d"
+		],
+		"title": "Uitkomst gevangenendilemma",
+		"id": "aa2eb6e3-a8eb-4f5b-9c3e-bbb6804fce2d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"74a5af38-8cab-4773-917d-00c303f0b1b1"
+		],
+		"title": "Collectieve belangen",
+		"id": "7cb4eb2c-f657-4e91-bb57-2f00cdf98a77",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"483bd7d6-7d9d-4dd9-9411-2385f8d09120"
+		],
+		"title": "Externe effecten",
+		"id": "645e3b6e-c767-48bc-b1bb-a94a65ff2844",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"076414a6-da5b-4b6b-8169-134df7b33edd"
+		],
+		"title": "Collectieve goederen",
+		"id": "4907cc64-8f63-448c-a643-481b6efcf7a0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"2793dd03-3906-46c2-bcc5-811f43f417fc"
+		],
+		"title": "Meeliftgedrag",
+		"id": "f7119a32-b6e2-4ed7-bdca-9ebb4d9f9fca",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"1215df6a-420f-4537-9717-96f6c79aafa2"
+		],
+		"title": "Sociale normen, contracten",
+		"id": "56dec21e-7d72-48de-a43b-ee12ced8b0ab",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"1bfcc059-7a22-41c6-9dbd-3431928c66be"
+		],
+		"title": "Zelfbinding",
+		"id": "a91608c0-f531-443d-8ddc-70fb44359d64",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"6e312f38-5582-40ac-83cd-6635d16654f1"
+		],
+		"title": "verzonken kosten, berovingsprobleem",
+		"id": "61e8e56c-113a-430c-bd55-bebef33bf14b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"a179d614-845a-4da7-b57e-d0e9a836281a"
+		],
+		"title": "verzonken kosten, onderhandelingen",
+		"id": "c8f106bb-5e91-4e20-905b-cb531c3e5a7d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"703fd64b-9590-4c1b-a7cd-48c3b854d843"
+		],
+		"title": "Onderhandelen, surplusverdeling",
+		"id": "7ac424eb-7006-482a-b8ea-1c9d8faedef0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"53c36290-8b80-4d96-b77f-f49d13656b82"
+		],
+		"title": "Gevangenendilemma",
+		"id": "c069d31e-8e4f-4908-a9bf-b1e26fdc8add",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"20ebe68f-97c1-43c6-971e-2722f303891d"
+		],
+		"title": "Belang gelijke informatie",
+		"id": "331db20e-69b9-4886-a47c-e59ace3a987b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"af6165e8-615d-4345-a232-259cd09b7e31"
+		],
+		"title": "Simultaan spel, sequentieel spel",
+		"id": "c324f1b6-5a37-425d-a005-235b192215a1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"e5a8b3df-e267-4c1f-89d6-dfe4c6a41998"
+		],
+		"title": "Uitkomst gevangenendilemma",
+		"id": "f43249d0-f6ae-4acb-a2e3-f8cace4356e6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"86b9acc9-c3ac-48cf-a0ae-5f16824de718"
+		],
+		"title": "Externe effecten",
+		"id": "c802a468-cf67-4741-aa1d-2e9c55280bf7",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"b4e88d54-5994-4a60-b71c-f74f171f93a4"
+		],
+		"title": "Collectieve goederen",
+		"id": "a64cd798-c301-4eb9-9825-b5ed5a8796f9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"44313349-d6dd-4306-8064-e56f6e402f5e"
+		],
+		"title": "Meeliftgedrag",
+		"id": "794f72af-34d1-4450-a39d-f40ee1995fae",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"a10159e1-6e5d-4708-a661-387a4355bfd3"
+		],
+		"title": "Sociale normen, contracten",
+		"id": "c38ae365-e48f-4a81-b43f-b85ea257cd0e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"d0b7b441-831b-4553-bdf8-c84cb132ec47"
+		],
+		"title": "Zelfbinding",
+		"id": "9a0b3739-aa00-4fce-b120-a1cf46a389a2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"ca6906ee-9357-4860-b91e-f2b289304896"
+		],
+		"title": "Geloofwaardigheid, dreiging",
+		"id": "b58c2e4b-9d2a-4121-8deb-08ec3c81c353",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"906ff9ec-3992-4266-beba-ddd543e32012"
+		],
+		"title": "Sociale normen",
+		"id": "1ee679e3-283f-4864-a8fb-cc5321758ba7",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"ebf72732-788c-4a1c-bb9e-f973a0e393bf"
+		],
+		"title": "Reputatie",
+		"id": "b8b44ed0-f4a3-45ee-9f7a-1b1189304bbb",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"aa936219-2a62-4bb3-9f33-270519f60aba"
+		],
+		"title": "Reputatie, toekomstige pay-offes",
+		"id": "d3ff1da9-1044-4640-a098-2eb9d9f4fc95",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"261024ac-2c19-4080-baec-35511571fd5b"
+		],
+		"title": "Niet dominante strategie",
+		"id": "399bbd73-d08e-4d0d-9fa7-d5f1a9b59228",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"8fb5e46b-2a72-4765-a800-1c7a3cfed708"
+		],
+		"title": "Risicoaversie",
+		"id": "e6876c7a-5725-429c-bb7d-785b8db55101",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"ef8090ff-0e67-4670-ade5-6e5936a533b2"
+		],
+		"title": "Verzekeren, risico",
+		"id": "8abd7f73-f1bc-4373-b96d-e7bc9e90a580",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"4731d048-c85c-469e-85d2-d0f424e81978"
+		],
+		"title": "verplichte verzekeringen, solidariteit",
+		"id": "2a1be5e2-a5b5-49a7-a557-46d71a12047d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"acc0adda-c997-4a46-ad9e-13caa58de35e"
+		],
+		"title": "Eigen risico",
+		"id": "a51b0c73-55ce-4d69-9e16-531524f63d6e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"64f4c8a6-e04b-4808-9237-8627307fa3b7"
+		],
+		"title": "Risicoaversie",
+		"id": "3a4cf4bf-953b-4790-b457-c6f5fd54071b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"6c633326-f9e8-4eed-96ea-52c00ee758aa"
+		],
+		"title": "Verzekeren, risico",
+		"id": "73bf83fc-0e42-4bda-a120-ff160f4bb64b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"585e6a46-0806-42e8-8ef5-5729a1f5ac11"
+		],
+		"title": "verplichte verzekeringen, solidariteit",
+		"id": "71c076ab-b255-416f-9ae6-eca939a3ba5a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"af6b19ef-a406-4eac-83a0-5d62585ded62"
+		],
+		"title": "Eigen risico",
+		"id": "89bed56f-da78-421e-b882-620d68b0da27",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"0f3a8640-d591-43b5-b625-3a4e737a51c2"
+		],
+		"title": "Asymmetrische informatie",
+		"id": "149a5269-260c-4066-919f-e387ad295037",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"7f71c133-9474-41bb-b939-9114ad8a97f9"
+		],
+		"title": "Averechtse selectie",
+		"id": "b95e7062-d525-469b-8d62-9affe29d0a42",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"47968ece-3183-48af-82d5-4ae056a595e4"
+		],
+		"title": "asymetrische informatie",
+		"id": "fdec08bf-29fc-4992-8df3-90abf464b543",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"62629635-0b49-4754-8a7b-0de410de83b8"
+		],
+		"title": "Moreel gevaar",
+		"id": "99780669-c279-4aef-b1f0-9abe43606570",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"f1b86924-18ff-4010-9b46-6b392bf119bc"
+		],
+		"title": "Asymmetrische informatie",
+		"id": "46a5109a-3f10-4702-9caa-26f6e0eb6f04",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"75a5a23f-2b2e-4e96-9294-a380911beae5"
+		],
+		"title": "asymetrische informatie",
+		"id": "d47e24f6-436a-4b99-b776-c53493ed1b64",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"07410a40-5f96-458a-b44a-43f0566f46d1"
+		],
+		"title": "asymetrische informatie",
+		"id": "0c1e9646-1e3e-4e9c-aa4d-ce6f71c627cb",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"016beba1-f0cb-4f88-aef6-493e4ecbb411"
+		],
+		"title": "averechtse selectie, moreel gevaar",
+		"id": "657d7070-aa37-4864-8d6b-1992e6aadb85",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"d13a6447-93d9-459f-be72-45c7f978ec24"
+		],
+		"title": "Principaal-agentrelatie en prikkel",
+		"id": "7db3060a-d600-49b7-897e-6fd9d18f0786",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"8eb0daa4-f6bb-4e7b-8ca8-a5b9fba82ebf"
+		],
+		"title": "Ondernemingsfinanciering, rol onderpand",
+		"id": "afec152d-4033-4cf0-ae62-bcea6df8dc2c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"d057c9ee-db8b-44bc-a470-e7405ed9fb53"
+		],
+		"title": "Ondernemingsfinanciering, rol onderpand",
+		"id": "98a13efd-e55e-4e9c-a614-23123e736f11",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"5ffac63c-ab29-45ba-a2ea-54d7fe9ce712"
+		],
+		"title": "eenmanszaak, vof, bv, nv, stichting",
+		"id": "83e1227a-ae89-4949-9236-c71abb12820e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"315422dd-b20a-4196-97a4-1220b31401ef"
+		],
+		"title": "eenmanszaak, vof, bv, nv, stichting",
+		"id": "49966538-1642-4b02-9305-0993dc82eaff",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"ec7e6fb9-9f77-4d99-a52b-30b2e690ee58"
+		],
+		"title": "aansprakelijkheid, belastingen rondom winst, financiering via aandelen",
+		"id": "78eddc91-0280-46a1-a293-7d81d7ba124b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"9e19a225-b54f-4ea7-8036-51c25f4c254a"
+		],
+		"title": "aansprakelijkheid, belastingen rondom winst, financiering via aandelen",
+		"id": "37b7c993-4446-4b3f-bad0-22d143bc31cf",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"4991859f-3eb2-4417-991b-bd240af06c36"
+		],
+		"title": "Determinanten van economische groei, (arbeids)productiviteit - ARBEID, (arbeids)productiviteit - KAPITAAL",
+		"id": "9567b679-7306-4ec8-9170-c2d9f8280c6d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"4a8dc5b7-ef4d-4376-a6c2-d9d2d3d1064d"
+		],
+		"title": "Productiviteitsverschillen",
+		"id": "506bef01-146d-47aa-9c2b-5805b0dfb877",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"57aa21b4-de86-4096-b5b3-bad8845da88c"
+		],
+		"title": "Convergentie, divergentie in de wereld",
+		"id": "36cae359-1b4f-4eb6-bb20-9cb26933f9b0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"b0584a0c-d60c-41eb-9d35-1569cc2be764"
+		],
+		"title": "Economische structuurontwikkeling",
+		"id": "75b899a9-04b2-46d9-bc6e-fd4ee5855d65",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"e0708f7d-c8a3-48fd-9800-f7cc3c55a8af"
+		],
+		"title": "Internationale samenwerking, samenwerkingsvormen, Vrijhandel, protectie",
+		"id": "0c74e1cb-159e-4e40-8c2c-cead49440bc9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"ee5b2e94-34c4-4721-911a-53dd09eb7d78"
+		],
+		"title": "Determinanten van economische groei, (arbeids)productiviteit - ARBEID, (arbeids)productiviteit",
+		"id": "79f1bc25-200a-47bf-a9c7-010e603c3f81",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"2c9e1bb3-0ebb-404c-9674-15f474332402"
+		],
+		"title": "Determinanten van economishe groei - ARBEID",
+		"id": "dd8eede0-bdef-421b-b4d7-0541ff921525",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"7feaf2c9-72a3-4272-872b-b73878383476"
+		],
+		"title": "Determinanten van economische groei en (arbeids)productiviteit - KAPITAAL",
+		"id": "b9976c74-5755-488f-b0e0-e1c3a6c2111f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"7dd12df0-3d2d-4118-a289-8019e9e799f5"
+		],
+		"title": "Determinanten van economische groei - KAPITAAL",
+		"id": "83aa36aa-842e-4c5d-b312-c4ee7fc6588c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"25e8dafe-58f0-4027-ba00-c1a4058b6366"
+		],
+		"title": "Economische structuurontwikkeling, kwantitatieve en kwalitatieve veranderingen, aanbodfactoren",
+		"id": "f95eef57-f635-4ae8-9171-81774c3f3039",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"1bcfab30-0163-44d6-86fe-f6e5cb853bd6"
+		],
+		"title": "Internationale samenwerking, samenwerkingsvormen, Vrijhandel, protectie",
+		"id": "e331be63-3e0a-44e1-bd2b-d27cc1209dfd",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"b4b7246a-6396-4a15-8606-127cf7e3a092"
+		],
+		"title": "BBP, toegevoegde waarde",
+		"id": "99c7f57c-54a0-47da-ad6e-4dd08fe8874d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"8ab2daab-2046-4729-a983-6e36c8dd55fb"
+		],
+		"title": "Objectieve methode, subjectieve methode",
+		"id": "4fef51b9-2586-45f8-aad9-8ed4cf82f14b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"b162e795-a728-453d-8f93-250fc94b9cd6"
+		],
+		"title": "Finale bestedingen",
+		"id": "9c48f88b-6abc-4e09-8a9c-f287655e7dbc",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"e1c25da9-8d29-45b9-a6bc-6403cbb1e05f"
+		],
+		"title": "Geldkringloop",
+		"id": "d0af1ee0-96db-47a2-a61c-891190731552",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"bdbd2982-c8de-41b9-8b4a-6b5ef930589b"
+		],
+		"title": "Systeem van Nationale Rekeningen",
+		"id": "e39c89ba-27fd-49b2-99d0-54241028439e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"a05e7c95-2be8-4b1b-af72-7b991ee5e20d"
+		],
+		"title": "BBP, NBP, welvaartsmaatstaf, Nominaal/reëel eng versus ruim welvaartsbegrip, per capita, informele sector, HDP, Groen BBP",
+		"id": "bc8f116a-4eed-4675-ad80-a56979000e20",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"ea63a861-390e-4570-a214-7e40c0f4de50"
+		],
+		"title": "Primaire inkomensverdeling, secundaire inkomensverdeling (Lorenzcurve)",
+		"id": "77a5fbe4-8177-477a-9497-b9748e5beec9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"54eb32d6-6a4b-45b2-a53b-37d6a502cd2b"
+		],
+		"title": "Belastingstelsels, nivelleren, denivelleren",
+		"id": "23e6aa1b-4a40-45f2-a0f3-d2594cc8b28d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"59fae987-8221-446d-b69a-d59142cd8f5d"
+		],
+		"title": "Belastingtarieven (progessief/proportioneel/degressief), marginaal belasting tarief, heffingskorting, bruto-netto traject",
+		"id": "cd7d0289-ee5b-4557-bdc6-47c03d751309",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"b197a614-655a-4c7b-a0a4-541f4b9934c1"
+		],
+		"title": "Categoriale inkomensverdeling",
+		"id": "f06ed5fc-e889-4644-9d80-e896a8566986",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"482077fa-fd40-4d45-b0d9-e8677946801e"
+		],
+		"title": "BBP, bruto toegevoegde waarde, netto toegevoegde waarde, afschrijvingen, welvaart",
+		"id": "1fafae29-857e-4c84-a3e0-a8bcf1989a40",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"c49d279b-4548-44a7-bec5-21833d3ce83a"
+		],
+		"title": "Bruto en netto binnenlands product, netto en nationaal inkomen",
+		"id": "ff5bf44e-d03b-4fa7-9928-77e5a6367a11",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"a0e5b869-7d04-416d-bd0f-bcda819de277"
+		],
+		"title": "Objectieve methode, subjectieve methode",
+		"id": "39c0dfcd-bf3a-4a3f-97e7-5759104e656e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"3bd59330-58ce-496b-b51c-5e01b0d00332"
+		],
+		"title": "Systeem van Nationale Rekeningen",
+		"id": "00683ea2-fe51-431e-b961-0a60d0b7fa96",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"145b46b9-8576-48c9-b958-716cdd306acb"
+		],
+		"title": "Betalingsbalans, lopende rekening, kapitaalrekening",
+		"id": "379995c6-25b2-4384-a690-7f31ed0a51c3",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"fc2a6fd9-2cae-4104-99a8-a59162d4e8a4"
+		],
+		"title": "Nationaal spaarsaldo",
+		"id": "376bd37c-7565-4740-9ae8-197187d01c72",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"077bc5b6-d6db-49f9-9c5a-8921f1f27ca0"
+		],
+		"title": "wisselkoers, betalingsbalans",
+		"id": "ba7c0531-37ad-4fa1-ba53-4b6d88d87788",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"214b6011-ed42-45c7-ad21-4f605ea3e708"
+		],
+		"title": "BBP, NBP, welvaartsmaatstaf, Nominaal/reëel eng versus ruim welvaartsbegrip, per capita, informele sector, HDP, Groen BBP",
+		"id": "cb49eaa7-fefc-49ec-aef4-a81c33cf4469",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"940b81a2-04c6-42a8-816a-486ae765c731"
+		],
+		"title": "Primaire inkomensverdeling, secundaire inkomensverdeling (Lorenzcurve), Gini-coëfficiënt",
+		"id": "9e03a5c4-bfa8-43c6-8e0b-aec55182742b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"2dbf63cd-61cc-45cc-a2cc-4330cd9b991a"
+		],
+		"title": "Belastingstelsels",
+		"id": "8f21ee36-bc43-4b78-a709-fcfd21cd9015",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"ee9af65d-d7ac-452c-a58f-b1a36daad0b9"
+		],
+		"title": "Belastingtarieven (progressief / proportioneel / degressief) - marginaal belasting tarief - heffingskorting - bruto-netto traject, Boxenstelsel, Vlaktaks",
+		"id": "17c24ce4-8af6-4418-bc56-c18270d13722",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"b30784c3-d0c0-4912-848e-f79383a30040"
+		],
+		"title": "Categoriale inkomensverdeling",
+		"id": "47bfc638-8354-46c9-8f9c-2bf6a182f06f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"9fe7491c-7ad7-4de1-8235-665cc81a4ed9"
+		],
+		"title": "Arbeidsinkomensquote",
+		"id": "c08eb913-450e-492f-b305-f5c59a2c69a7",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"e8bccae9-5a39-4b3a-9640-2fb8071a2e81"
+		],
+		"title": "Geaggregeerde vraag en aanbod",
+		"id": "1a2cf139-4402-4dbc-b0f0-65bdb3a112d8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"44976f9b-1b10-4d17-b424-aad61c6b2b4f"
+		],
+		"title": "Inflatie, deflatie, koopkracht",
+		"id": "adecd918-ba45-4f28-9ca3-42de1268cbff",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"62eab8a8-b21e-41be-83e5-fdf72befca10"
+		],
+		"title": "Welvaartsvast, waardevast",
+		"id": "624c611d-bf05-4746-9c1f-ff95095ab3d7",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"4547faa8-5e99-4317-98e9-905326f2b157"
+		],
+		"title": "Laagconjunctuur, loonstarheid, arbeidsmarkt",
+		"id": "23f6e9db-8ecc-48b8-976d-30a88dfdf4d6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"8511c2c6-614b-4221-8591-f2650769c9c7"
+		],
+		"title": "Prijsrigiditeit",
+		"id": "250d3e62-6eaf-4335-a0ab-7dc744cc15d0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"89e6f7e6-1a77-4fac-994a-5906f53bda50"
+		],
+		"title": "flexibele prijzen",
+		"id": "aa3b4cb9-9f21-40c4-844d-71bfe9b6ca0f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"367ea64d-7c68-4723-bf47-70b1b2164fcb"
+		],
+		"title": "Neutraliteit van geld, verkeersvergelijking van Fischer",
+		"id": "53773e1e-83dd-48ea-820d-7155e2c9634e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"10d03e72-de0d-4356-b13a-be5c4180622a"
+		],
+		"title": "Wisselkoers",
+		"id": "edbef3a0-d9d2-4e7e-9f37-f951fad63a52",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"d763299d-7a01-4a0a-a0bb-4567fe1f4292"
+		],
+		"title": "Betalingsbalans (lopende rekening en kapitaalrekening)",
+		"id": "5e80990e-eb32-4474-afe9-dbcdb60f2662",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"287241e1-ba5e-4c2e-81a9-956f87c17c82"
+		],
+		"title": "Geaggregeerde vraag",
+		"id": "a6ccba82-a27d-4b17-bc35-a32b304f98a4",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"6df66ddb-68ce-4a6d-9208-68df4a8b3017"
+		],
+		"title": "Geaggregeerde aanbod",
+		"id": "501da2cd-852a-4555-a666-e8eb8f9b2b79",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"90251500-1705-439c-8654-81ff6949d6d7"
+		],
+		"title": "Geaggregeerde vraag en aanbod",
+		"id": "c9b5df5c-f5b7-417c-98c5-a8ac0d2d2a56",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"cabf31cd-92eb-45d3-bd09-6be022f4ad22"
+		],
+		"title": "Inflatie, deflatie, koopkracht",
+		"id": "15d3b5b2-4325-47ad-b63b-3d84c96145cd",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"4ed2e3e5-6602-46f4-8b2e-32144cf254c6"
+		],
+		"title": "Welvaartsvast en waardevast",
+		"id": "1c41e91b-d2ff-4dfa-ad1c-a3d7090ae029",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"b6a24d89-d02f-40a7-bc4e-02701d77ed59"
+		],
+		"title": "Geldillusie",
+		"id": "1edd3247-8b5d-43c8-ac1a-b799712c9c69",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"b17a1171-1f2f-48a7-9b3a-ab9b99a07970"
+		],
+		"title": "Laagconjunctuur, loonstarheid, arbeidsmarkt, prijsrigiditeit",
+		"id": "a9d6afaa-a599-448d-a0d8-e35784909198",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"7089a153-bb80-4f7e-8f7f-05ca164c7dbf"
+		],
+		"title": "Neutraliteit van geld, verkeersvergelijking van Fischer",
+		"id": "c695e5ae-c741-49c1-8198-cc4f6a19453b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"c97ba091-5311-4287-bd14-5e08c87a4aeb"
+		],
+		"title": "Inflatiemeting (prijsindexcijfer)",
+		"id": "61edcda5-762d-4502-a531-1b15cce906f1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"83ccfba2-066e-444a-ac9e-48fe65d4fa28"
+		],
+		"title": "Conjunctuurindicatoren",
+		"id": "9a4b687c-4563-49fd-920c-73c8915dc7fd",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"4316e23d-0071-4f95-a5b6-67da1f3591c0"
+		],
+		"title": "Inflatiemeting (prijsindexcijfer)",
+		"id": "6c9a689a-fc99-4557-835f-8a6c2c92d42d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"fe948365-9992-43e9-8f16-85eb2e032295"
+		],
+		"title": "Conjunctuurindicatoren",
+		"id": "ee5fa7e9-bf0e-41ab-b345-e1fb76fe656b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"c6dfa19d-d633-41e3-a823-67cade22fa46"
+		],
+		"title": "Conjunctuurbeleid, ingebouwde stabilisatoren",
+		"id": "5b73310f-6d71-4a60-a160-e15f39bf52a3",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"296f5218-4148-447e-a388-8557ddee6747"
+		],
+		"title": "Nominale groei, reëele groei",
+		"id": "a2ad9244-524c-4982-b0b8-93de3b362741",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"b1422e48-6bc3-4dba-8165-04522c3db07e"
+		],
+		"title": "trendmatige groei",
+		"id": "de82a41a-920b-4101-83f9-609a2151c20b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"1231f9a5-343b-4d41-8ba7-5c21f8544f1c"
+		],
+		"title": "Anticyclisch begrotingsbeleid, procyclisch begrotingsbeleid",
+		"id": "0550f186-cf6b-461b-9d2a-849316090603",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"a09f24ed-a89f-4625-b4ab-1032f6796eec"
+		],
+		"title": "Centrale Bank (taken)",
+		"id": "e85312a4-b759-440b-a409-d83df00b18ce",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"457af3fc-7095-4da8-a3e2-e465ba9f1510"
+		],
+		"title": "Centrale banken, rentebeleid",
+		"id": "291f81a6-ffe8-42ee-b4ea-9532d50671b6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"cf941612-0ad9-4c87-9b88-b6d874a3b2e5"
+		],
+		"title": "Conjunctuurbeleid en ingebouwde stabilisatoren",
+		"id": "be9d4310-0207-4d5a-b83b-e9d6eb41a779",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"c9a6f859-6a22-4789-bd19-126e56a225cc"
+		],
+		"title": "Norminale groei, reële groei",
+		"id": "23bd2d82-8c0c-4fd8-98ea-db56ef2cb4f9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"cbc19f47-01cb-4d0b-873b-1acf142858ce"
+		],
+		"title": "trendmatige groei",
+		"id": "8f330ba7-5925-4010-b5bb-a24db9596881",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"6b5bdbb4-7193-4fc2-96cc-813df9381c83"
+		],
+		"title": "Anticyclisch en procyclisch begrotingsbeleid",
+		"id": "ea0f85a5-a440-447f-8dcc-00fcba3c0bde",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"79cb5702-9b7b-494c-b13f-7896e01bae2a"
+		],
+		"title": "fiscaal beleid, inverdieneffecten, uitverdieneffecten",
+		"id": "456976d5-2e37-4ef1-bf3a-c41b1dc31b64",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"edef3e4a-002b-43e0-a5aa-16f890bef350"
+		],
+		"title": "Philipscurve",
+		"id": "2218b6d8-b8b4-4dbb-916f-b3eb249b6fc2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"2f2b1b3f-358e-4d75-8c39-75ac79fecce5"
+		],
+		"title": "Philipscurve",
+		"id": "cd5ecf88-e80e-4217-a7d9-a96c210ab36b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"43f41f68-24f2-409f-9a6d-da1a575fdb4a"
+		],
+		"title": "Centrale Bank (taken)",
+		"id": "d95310b0-4c5e-4488-96e1-b2d3dd13a8b5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"8be296c9-f0bc-44fb-9bdc-177fb2d3605d"
+		],
+		"title": "Centrale banken, rentebeleid, wisselkoersbeleid, geldhoeveelheidbeleid",
+		"id": "eb4e3101-1c7a-423d-858c-8d1e354d17b9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"652fb290-da59-4120-9794-b7fb87d9cd18"
+		],
+		"title": "ECB en effectiviteit, monetair beleid (zero lower bound, liquiditeitsval)",
+		"id": "d906d7a4-8dc4-4aca-afb2-7d19e11cb4a3",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"39aec3ff-a15b-4737-8216-62c9d65cf595"
+		],
+		"title": "NAIRU",
+		"id": "0b4811d1-f00b-400f-9d54-dbf057216c54",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"c078e718-0c4d-44e5-a710-2dee76f720b0"
+		],
+		"title": "kosten- en batenanalyse, economische verschijnselen, economische vraagstukken en economische ontwikkelingen",
+		"id": "d55b6a3d-524b-4401-99c8-c350183de5dd",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"9cbc2210-bb2c-42fd-bc14-d09331dce376"
+		],
+		"title": "kosten- en batenanalyse, economische verschijnselen, economische vraagstukken en economische ontwikkelingen",
+		"id": "7b3dd2c9-4937-4817-b150-01e6961f4e3a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"f9f2fa99-7ec4-44d0-80c2-8f69fc99d347"
+		],
+		"title": "kosten- en batenanalyse, economische verschijnselen, economische vraagstukken en economische ontwikkelingen",
+		"id": "e66441e1-b0a8-47f8-bb00-172493110215",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"4dccc508-4006-476f-a79a-23542e071eac"
+		],
+		"title": "kosten- en batenanalyse, economische verschijnselen, economische vraagstukken en economische ontwikkelingen",
+		"id": "09064380-b61d-44b7-a6df-d0c4a7cdd84f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"97dbed33-6287-412e-939c-b6341973b9a8"
+		],
+		"title": "kosten- en batenanalyse, economische verschijnselen, economische vraagstukken en economische ontwikkelingen",
+		"id": "31f799a5-8180-4264-a324-3e90ef2ac783",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"338ec90d-99f0-45e9-b81f-63381653cd5a"
+		],
+		"title": "kosten- en batenanalyse, economische verschijnselen, economische vraagstukken en economische ontwikkelingen",
+		"id": "3545b9a9-8f82-48a0-a16e-92199379d170",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"a86be3b6-6840-4ed8-b26e-c8770de36129"
+		],
+		"title": "kosten- en batenanalyse, economische verschijnselen, economische vraagstukken en economische ontwikkelingen",
+		"id": "caa2ba15-aa99-49a4-ae22-7cc65fab74cd",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"782ef362-d732-4f20-8dbb-3f84c2e845c5"
+		],
+		"title": "kosten- en batenanalyse, economische verschijnselen, economische vraagstukken en economische ontwikkelingen",
+		"id": "996832df-8f28-4c27-b3fd-e541bdb43a38",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"61fc84bc-48f7-42d8-8981-faa058544954"
+		],
+		"title": "partiële indexcijfer, samengesteld ongewogen en gewogen indexcijfer.",
+		"id": "1fedf2fe-8c6f-4089-adf1-aec115a0d842",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"59847ad8-65f8-49be-96e1-c0cdc5db8291"
+		],
+		"title": "partiële indexcijfer, samengesteld ongewogen en gewogen indexcijfer.",
+		"id": "8bc0b965-cf00-4f3b-bca5-c7c06c7695cd",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"9e31b488-38c9-4992-9ca8-c054ca309ca3"
+		],
+		"title": "innovatie, efficiëntie, aanbesteden",
+		"id": "942bab9a-a5c0-4d33-9da5-a6671c007e5a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"a73eeea4-3dda-4119-9747-fa362988f23b"
+		],
+		"title": "innovatie, efficiëntie, aanbesteden + loonkosten p.e.p.",
+		"id": "36ccaf2b-b9f3-4672-95b2-ec736d32cf37",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"164a1106-4e07-489a-8c5d-973aafaec1f7"
+		],
+		"title": "innovatie, efficiëntie, aanbesteden + loonkosten p.e.p.",
+		"id": "08491578-ef7a-472f-aff3-1ae069a5267b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"34c75257-3326-48b9-b998-8dd205c04b69"
+		],
+		"title": "innovatie, efficiëntie, aanbesteden + loonkosten p.e.p.",
+		"id": "83c3ae4d-2b89-480b-a3ef-41970bb4c666",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"19593437-b321-4187-ba77-d16daf8ff63d"
+		],
+		"title": "loonkosten",
+		"id": "33248b21-3530-4eb4-987c-f1b9cc399feb",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"46386f73-181d-4ac2-b87a-87cd8396e64e"
+		],
+		"title": "loonkosten, loonkosttensubsidies",
+		"id": "e2317d6e-de78-4d1a-be7c-232b56ad319a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"a53882d1-1fad-4410-8bf6-d9c4b702a38f"
+		],
+		"title": "loonkosten, loonkosttensubsidies",
+		"id": "233322de-8628-4149-8d78-6ad14e52e0bf",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"4e0945ec-ab7c-4f36-a114-b5aa730f7625"
+		],
+		"title": "loonkosten, loonkosttensubsidies",
+		"id": "f1254f5a-2ff7-463a-8b4b-f4a52c4e8a89",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"53a615a6-0461-4001-97d2-e5ac456c5e8f"
+		],
+		"title": "bedrijfstijd, arbeidstijd",
+		"id": "23498de8-c697-48f4-a635-c9cf74ff8b81",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"44c6e001-42c2-44af-a34e-9c9f2ce94ca6"
+		],
+		"title": "bedrijfstijd, arbeidstijd + vaste kosten per eenheid product",
+		"id": "0e50e96c-16fc-4201-9d73-8de33c47777c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"54658b93-24b6-4f27-9f5d-eb3baa3951c9"
+		],
+		"title": "bedrijfstijd, arbeidstijd + vaste kosten per eenheid product",
+		"id": "12155a4c-5e80-4c72-8a15-8efb1bfcf684",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"9d0454bc-6be4-4f40-bb7e-63c18c47e447"
+		],
+		"title": "bedrijfstijd, arbeidstijd + vaste kosten per eenheid product",
+		"id": "c3b03c40-ff7c-43c1-bfd2-9f9e7fa78a70",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"b72669dd-549b-4130-9c17-ae23d2bb2cfa"
+		],
+		"title": "scholing",
+		"id": "ac05584b-fe0d-4231-90cb-49b295c4b8c9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"91994f11-f83e-4297-8647-6205ba4f1d4f"
+		],
+		"title": "scholing, kostenpost, investering",
+		"id": "5f495bfd-b56b-4bd8-8529-2aa7719155c7",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"43fcd76b-2b91-45b1-92d6-e3d3a1bb52b2"
+		],
+		"title": "scholing, kostenpost, investering",
+		"id": "72179f18-0748-4e9c-9914-dfc8309304cc",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"1fc0156e-891c-4198-94e4-cabc3f25f984"
+		],
+		"title": "scholing, kostenpost, investering",
+		"id": "d2ad2692-1b11-4da1-bda8-432dfe6a82f3",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"1a9af51a-cea2-4af9-a5a2-22d1a1d5cbf8"
+		],
+		"title": "omscholen",
+		"id": "15ece4ad-a9e3-46da-a8d3-2d83b2418780",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"5fb00006-6c78-4dc8-8662-dfcd13a5f38c"
+		],
+		"title": "omscholen",
+		"id": "5f5b1acb-0a05-4778-90f9-c95b832af262",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"8acb6884-149f-4482-afad-22f15496a259"
+		],
+		"title": "omscholen",
+		"id": "e35f1bbf-ea80-439c-acd3-acd580964609",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"32e1e531-b6be-4a33-824d-ace38b733415"
+		],
+		"title": "omscholen",
+		"id": "41b99525-1464-4f4b-8dd2-3f2899d8159a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"ebb01383-fdf7-4268-80d9-cc4b0d3ca825"
+		],
+		"title": "vraag naar goederen en diensten, beloningen, arbeidstijd, kinderopvang, scholing, voorlichting",
+		"id": "b0c47bf9-f150-449f-9694-776d93b1b83b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"eba0a91b-7a3e-4603-aa2d-e0cde7d1273d"
+		],
+		"title": "vraag naar goederen en diensten, beloningen, arbeidstijd, kinderopvang, scholing, voorlichting",
+		"id": "27dbaa9b-ff25-4e92-8c52-790f0c80bf9b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"63ec17c1-0458-4cfe-9a2a-0f12e3e1ec1d"
+		],
+		"title": "vraag naar goederen en diensten, beloningen, arbeidstijd, kinderopvang, scholing, voorlichting",
+		"id": "c6661264-00bf-4605-a5b2-06537d4736e8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"9e27e5c0-1c70-44d3-99be-357fffeb8453"
+		],
+		"title": "vraag naar goederen en diensten, beloningen, arbeidstijd, kinderopvang, scholing, voorlichting",
+		"id": "ac6ab8ff-ea58-4dd1-befc-4131ff0a2d9f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"171717a7-22a1-4565-8a45-a0279fc8b00d"
+		],
+		"title": "bestedingen (consumptie, investeringen, export, overheids-bestedingen)",
+		"id": "43215cc9-dda2-4519-9a8c-a59d20b80194",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"1589e2a0-f158-40d5-9822-591998eaeb80"
+		],
+		"title": "bestedingen (consumptie, investeringen, export, overheids-bestedingen) + loon- prijsspiraal + vicieuze cirkel",
+		"id": "5ba57a3d-c14c-47b1-a29a-1e9de183ccdc",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"d3a85cf0-837e-4e31-8c6e-338701b4a8b6"
+		],
+		"title": "bestedingen (consumptie, investeringen, export, overheids-bestedingen) + loon- prijsspiraal + vicieuze cirkel",
+		"id": "bed53a14-7c81-46c5-b1fa-d1e9bcc68072",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"cd686157-c1db-4101-81b7-ddd6ede91621"
+		],
+		"title": "bestedingen (consumptie, investeringen, export, overheids-bestedingen) + loon- prijsspiraal + vicieuze cirkel",
+		"id": "f4a9b8c8-4fe9-4487-8f52-8c4893c33c87",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"b939452b-e29d-4efb-b31f-c329ee08dea5"
+		],
+		"title": "structuur",
+		"id": "30c91d57-955b-44ed-a71c-21896b860051",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"bdeec9d2-1b07-46fa-9d7f-9fc670a72a84"
+		],
+		"title": "structuur",
+		"id": "267e76d8-4322-44e1-82e0-8138716cebe1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"5ddb31ec-8116-4b28-9e15-a70b4970da07"
+		],
+		"title": "structuur",
+		"id": "1f44dfc8-0d31-4ab4-8386-eb7d76bd5d72",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"124f3885-14fb-4608-9934-6cc14489301b"
+		],
+		"title": "structuur",
+		"id": "a9209552-2bcf-4857-9244-b24c4062c23b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"0b439dc2-06eb-445a-a822-778cb1d03d8e"
+		],
+		"title": "carrière opbouw",
+		"id": "c580b85b-b4fd-4b54-b7c8-a7746a082015",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"9e5a5e4d-5f98-46ec-a9d4-7195d7cf5192"
+		],
+		"title": "carrière opbouw",
+		"id": "b384967c-42f1-4d39-9dad-f3abb1378b4a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"11dac30f-7f1e-4ca2-ac72-e99bf846ce45"
+		],
+		"title": "carrière opbouw",
+		"id": "fb5ffbc5-1447-479a-9bf2-fc12f97aa8f4",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"0ae052db-afda-45c9-93a9-c2bb02dca473"
+		],
+		"title": "carrière opbouw",
+		"id": "bedcf843-e887-425e-aabf-a388673623dd",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"21199e58-7e67-4f94-9281-9c2552dde018"
+		],
+		"title": "kosten werkloosheids-uitkeringen",
+		"id": "816684a4-7c06-405c-ab7e-1bcd6e717a26",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"752d9b87-a278-4cce-a99d-359d9af8601e"
+		],
+		"title": "kosten werkloosheids-uitkeringen",
+		"id": "8aa8a60f-2656-4b39-9627-73ddb31e72bd",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"9ec44ecc-b6d1-4e09-aa6d-5e10bfc9d3c6"
+		],
+		"title": "kosten werkloosheids-uitkeringen",
+		"id": "dd58c6dc-1a5d-4969-af3e-18a20bcbd54e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"e08dca26-c308-4781-abe6-d3d2091c9657"
+		],
+		"title": "kosten werkloosheids-uitkeringen",
+		"id": "981f80db-fb75-4be9-ab94-ec07dfcb9701",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"45c58927-cead-4797-990c-59fc50f63d43"
+		],
+		"title": "afzet, omzet, verkoopprijs, bedrijfskosten, brutowinst, nettowinst, btw",
+		"id": "da4efb88-9fc7-4508-af48-b9b74389d31e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"bb1fc162-edc1-4bd7-835d-3834031bbe62"
+		],
+		"title": "afzet, omzet, verkoopprijs, bedrijfskosten, brutowinst, nettowinst, btw + marktaandeel + afschrijvingskosten + vaste kosten en variabele kosten per eenheid product",
+		"id": "8d520418-f2db-4f64-b0d7-3fe4e6af1f73",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"1e97eed9-aaef-416e-9c86-9bd9b670b6ec"
+		],
+		"title": "afzet, omzet, verkoopprijs, bedrijfskosten, brutowinst, nettowinst, btw + marktaandeel + afschrijvingskosten + vaste kosten en variabele kosten per eenheid product",
+		"id": "8fde4e31-2f27-489f-839d-274f13790f59",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"b4f4186f-b5b2-48d9-bea1-5369ff31bb4f"
+		],
+		"title": "afzet, omzet, verkoopprijs, bedrijfskosten, brutowinst, nettowinst, btw + marktaandeel + afschrijvingskosten + vaste kosten en variabele kosten per eenheid product",
+		"id": "921e67b7-2d58-493a-ab29-2138edee0474",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"e12a2156-2a10-4a0c-b718-7221c19b2ecd"
+		],
+		"title": "beroepsbevolking",
+		"id": "741dbe5a-d343-427c-966e-822d6f9d5ae6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"1aa657e1-1bfe-4a21-917e-578825bf333b"
+		],
+		"title": "beroepsbevolking + arbeidsverdeling + primaire, secundaire, tertiaire en quartaire sector",
+		"id": "07ccbea5-cd3e-4893-9cd4-057864eee9d9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"6b80de86-ffe4-4ac2-9274-e72d384a8ff3"
+		],
+		"title": "beroepsbevolking + arbeidsverdeling + primaire, secundaire, tertiaire en quartaire sector",
+		"id": "7da543de-36cf-4f48-95b2-68fc2099fe24",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"cbdf9e3b-8074-4488-81d2-239356d027c4"
+		],
+		"title": "beroepsbevolking + arbeidsverdeling + primaire, secundaire, tertiaire en quartaire sector",
+		"id": "7ee15ec2-13ef-4e3f-9cdb-ef13a8bb15df",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"8705203f-4a82-4fde-8e15-7b6662f44a89"
+		],
+		"title": "beroepsbevolking",
+		"id": "5c3400a5-5ad2-472d-b791-255370f1c4c6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"af208eb8-39c1-45ad-88be-d91102d08ebd"
+		],
+		"title": "beroepsbevolking + arbeidsverdeling + primaire, secundaire, tertiaire en quartaire sector",
+		"id": "0f0d010a-bcb3-4a57-a2ec-7e2c50da6a53",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"98051960-4d45-437b-af3b-e8eca7ed6b44"
+		],
+		"title": "beroepsbevolking + arbeidsverdeling + primaire, secundaire, tertiaire en quartaire sector",
+		"id": "f7ffb4a8-8e2d-4926-a46f-1a5c9b3e3f37",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"c1173448-5665-4fa7-bc29-0b3161aa80a6"
+		],
+		"title": "beroepsbevolking + arbeidsverdeling + primaire, secundaire, tertiaire en quartaire sector",
+		"id": "09e83f8d-a28e-4eb8-9b74-de7817fd294b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"2cd0b881-213a-4137-9ddc-a5f8dac61ea2"
+		],
+		"title": "welvaartstoename, arbeidsproductiviteit",
+		"id": "5685d70e-9d71-4114-b06e-6922546da69c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"3609aac1-7e87-4bdc-938c-cd54a1bdf358"
+		],
+		"title": "welvaartstoename, arbeidsproductiviteit + vervreemding",
+		"id": "8f09073e-8457-4261-9ad9-49d2f7fc94c8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"6cf02c3a-92fc-442b-809a-c271a6d30289"
+		],
+		"title": "welvaartstoename, arbeidsproductiviteit + vervreemding",
+		"id": "71afa30c-8eba-42be-b180-eb8a63d38a85",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"7aa093c5-4785-40ef-a8be-9d7e661df622"
+		],
+		"title": "welvaartstoename, arbeidsproductiviteit + vervreemding",
+		"id": "59de5f65-8012-41dc-8aa3-ba1ce1ad224b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"0cd2125a-5e1b-47d7-ae76-c09abd2fbb93"
+		],
+		"title": "arbeidsproductiviteit, arbeidsomstandig-heden, scholing, arbeidsvoorwaarden",
+		"id": "5fc7c169-4cf2-4fa5-a6da-1dbf9d0e5554",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"b2276fd0-a0e7-4793-ba1d-93feedc2d91b"
+		],
+		"title": "arbeidsproductiviteit, arbeidsomstandig-heden, scholing, arbeidsvoorwaarden. + automatisering en mechanisering",
+		"id": "9adf3f43-c195-4ab2-9167-a959fdb64595",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"60ea04d5-f46e-40b4-84c1-d9e314316bdd"
+		],
+		"title": "arbeidsproductiviteit, arbeidsomstandig-heden, scholing, arbeidsvoorwaarden. + automatisering en mechanisering",
+		"id": "a1f8fa8e-1cb1-4bba-b109-a0ac933dc8df",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"ef560849-d51d-417e-a982-6e63458751bf"
+		],
+		"title": "arbeidsproductiviteit, arbeidsomstandig-heden, scholing, arbeidsvoorwaarden. + automatisering en mechanisering",
+		"id": "df217497-e9a2-402d-8d91-273c8a728b54",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"9e684893-9b1d-4ce1-a77d-6fe124a5bc92"
+		],
+		"title": "emancipatie, deeltijdarbeid, zorg en werk, bedrijfstijden, thuiswerken",
+		"id": "003bf858-7449-4714-b493-8b96ad594454",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"6e72e844-26f8-40c5-8061-d701e02bdb34"
+		],
+		"title": "emancipatie, deeltijdarbeid, zorg en werk, bedrijfstijden, thuiswerken",
+		"id": "510215b6-daf4-42bf-8b94-e04ccfcd7614",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"e914d141-1b54-4d78-aa33-178c394267e8"
+		],
+		"title": "emancipatie, deeltijdarbeid, zorg en werk, bedrijfstijden, thuiswerken",
+		"id": "cd7af43f-423d-4efc-b2ce-98ba690a0372",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"4dcfe5c2-9ff3-43e5-b7ba-005ca08e32e0"
+		],
+		"title": "Integratie",
+		"id": "0bdc7753-a370-45b9-b0e6-47b2745e4333",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"d1e1f869-bd71-4057-a681-a8edd2be86d3"
+		],
+		"title": "Integratie",
+		"id": "5552d59c-e060-4632-bd0d-4670f81b5bbe",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"4bbf8c9b-5310-4961-8a10-02df1a3a85b3"
+		],
+		"title": "Integratie",
+		"id": "06cf36a9-360e-4221-9313-b66126ddfbd3",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"9ad395a1-0c58-4b14-89dc-33919d319d4b"
+		],
+		"title": "geschoolde en ongeschoolde arbeid; uitvoerende en leidinggevende arbeid",
+		"id": "d9aac748-3a78-48d8-bea2-c58f09d929d3",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"bab8da87-11be-47c4-9bfc-b02e019c87ea"
+		],
+		"title": "geschoolde en ongeschoolde arbeid; uitvoerende en leidinggevende arbeid + grijs en zwarte circuit en arbeidsmotieven.",
+		"id": "f656d5c7-7a39-4f8e-aa62-315c4c798174",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"a93fe510-8548-4db8-bae4-19d5c61fe38e"
+		],
+		"title": "geschoolde en ongeschoolde arbeid; uitvoerende en leidinggevende arbeid + grijs en zwarte circuit en arbeidsmotieven.",
+		"id": "10dfdf84-29d4-4e56-926d-0c3b0452916f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"278f64c8-f31a-4a3f-b086-69af7973c22c"
+		],
+		"title": "geschoolde en ongeschoolde arbeid; uitvoerende en leidinggevende arbeid + grijs en zwarte circuit en arbeidsmotieven.",
+		"id": "8fbb2d15-8fc5-46df-a1ab-a45af56e32ff",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"6d3070b5-9c92-42d7-b0f9-febac154cf0d"
+		],
+		"title": "vraag en aanbod arbeid, vacatures, werkloosheid",
+		"id": "78148c38-b3eb-473b-b9b1-46df9a1638a9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"bfc59468-2033-4ef5-8c0e-e5bbfc58fd30"
+		],
+		"title": "vraag en aanbod arbeid, vacatures, werkloosheid + concurrentiepositie",
+		"id": "ba50a7e6-563a-4a88-ba4c-203336391f1a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"fe004af4-7f32-4afb-85ad-bcad0e61f6d1"
+		],
+		"title": "vraag en aanbod arbeid, vacatures, werkloosheid + concurrentiepositie",
+		"id": "3cc1fc13-86cc-455b-be74-1377e00bf9dc",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"fa656d81-8264-4e11-8a91-9b3569bef610"
+		],
+		"title": "vraag en aanbod arbeid, vacatures, werkloosheid + concurrentiepositie",
+		"id": "e6e859c5-5e11-40bf-910c-033252e1a924",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"d80f1ac9-21ea-46c9-9e0c-386fedd4fcd0"
+		],
+		"title": "werkgever, werknemer, CAO, arbeidsvoorwaarden, minimumloon, arbeidstijdenwet, arbeidsomstandigheden, proeftijd, opzegtermijn",
+		"id": "a516fa38-afe2-49ce-8200-b0b7a31e3428",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"196c18b3-ec44-4115-b1d8-54be5df85085"
+		],
+		"title": "werkgever, werknemer, CAO, arbeidsvoorwaarden, minimumloon, arbeidstijdenwet, arbeidsomstandigheden, proeftijd, opzegtermijn",
+		"id": "f209eff8-fd9b-49fa-ae2c-82551824f5a3",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"fa0359c6-af71-4894-a886-a9066f3d8a25"
+		],
+		"title": "werkgever, werknemer, CAO, arbeidsvoorwaarden, minimumloon, arbeidstijdenwet, arbeidsomstandigheden, proeftijd, opzegtermijn",
+		"id": "2262752e-0b91-4bd5-b96b-af47660bfb21",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"ff24f65c-0ba2-4b7c-ae18-5517c040de0b"
+		],
+		"title": "werkgever, werknemer, CAO, arbeidsvoorwaarden, minimumloon, arbeidstijdenwet, arbeidsomstandigheden, proeftijd, opzegtermijn",
+		"id": "d9216954-d544-4257-9a0f-bdae9be6ecb4",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"4665d9bf-5905-4718-a3bd-d156a7f7989d"
+		],
+		"title": "arbeid, kapitaal, natuur, ondernemen, kapitaal- en arbeidsintensief, nationaal inkomen",
+		"id": "298413bd-dd99-4a3f-a8dd-3a36bb5a1e2c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"9926e687-9bb1-40d7-91c4-ab386a7e7de1"
+		],
+		"title": "arbeid, kapitaal, natuur, ondernemen, kapitaal- en arbeidsintensief, nationaal inkomen",
+		"id": "d0edddb9-753e-42de-8f9c-5440f30fbe67",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"f68ceca4-52cb-4bec-a445-55dacf0f46d1"
+		],
+		"title": "arbeid, kapitaal, natuur, ondernemen, kapitaal- en arbeidsintensief, nationaal inkomen",
+		"id": "83af5021-b1ea-45e8-ad9a-4fffd5dd71fd",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"6fa7c2bc-026b-4aec-98e6-663c57282efb"
+		],
+		"title": "arbeid, kapitaal, natuur, ondernemen, kapitaal- en arbeidsintensief, nationaal inkomen",
+		"id": "457957d3-2fff-4a6a-a0c2-8de90192fa83",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"10a27fcf-d0f1-43dc-8514-cf518f4b7c4a"
+		],
+		"title": "waarde toevoeging, bedrijfstak, bedrijfskolom, sectoren, functies, afdelingen, primaire-, secundaire-, tertiaire- en quartaire sector, scholing",
+		"id": "771bd49a-bdbe-4668-b1f6-49aa19f9e84e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"180d9a97-634e-4bec-b6c4-942098c4d680"
+		],
+		"title": "waarde toevoeging, bedrijfstak, bedrijfskolom, sectoren, functies, afdelingen, primaire-, secundaire-, tertiaire- en quartaire sector, scholing",
+		"id": "837b9b75-4412-4540-b267-79ccd2d78765",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"69518e14-a80a-41c0-bf25-6c6ba96ded7f"
+		],
+		"title": "waarde toevoeging, bedrijfstak, bedrijfskolom, sectoren, functies, afdelingen, primaire-, secundaire-, tertiaire- en quartaire sector, scholing",
+		"id": "b884a4c0-5aee-4453-bf69-da4ca19af74f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"400e8f34-c1e9-4fab-90f8-42d7b9cb29a0"
+		],
+		"title": "waarde toevoeging, bedrijfstak, bedrijfskolom, sectoren, functies, afdelingen, primaire-, secundaire-, tertiaire- en quartaire sector, scholing",
+		"id": "90af09c6-7656-4e04-809d-3a621dd1ede8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"8eee8c39-2d4f-4d7e-b173-c69f62111650"
+		],
+		"title": "collectieve en individuele goederen; rijksbegroting, bezuinigingen, nationalisering, regulering en deregulering",
+		"id": "de45ce00-0a4f-48dd-810b-9e7d9952c3ec",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"3ea094d0-18d7-430c-a121-e16cec226c16"
+		],
+		"title": "collectieve en individuele goederen; rijksbegroting, bezuinigingen, nationalisering, regulering en deregulering",
+		"id": "4d6c99f2-1579-4f44-b7d1-a60dac3e7b1f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"de15ed95-042e-4b81-a0d7-77c4f447a8bf"
+		],
+		"title": "volksverzekeringen, werknemersverzekeringen, sociale voorzieningen",
+		"id": "ad69b7e5-d9f1-4520-9b08-06e84389c869",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"b17a2a23-cc34-4cfa-bf94-20a64bba0c79"
+		],
+		"title": "volksverzekeringen, werknemersverzekeringen, sociale voorzieningen",
+		"id": "d89ded41-d99b-4652-aec6-0864e6afa6c5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"16db1254-4833-4f89-8c08-5a9b1041389a"
+		],
+		"title": "werkgever",
+		"id": "a79afee8-ea96-48d5-a64a-0c0efca6b8a5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"70fe1939-34aa-49b9-a846-04941b8797a0"
+		],
+		"title": "werkgever",
+		"id": "36eaace3-e8e5-4136-96c3-bc1ed1f553c0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"ea909341-bafb-403c-ac70-f46b8a42a612"
+		],
+		"title": "gesubsidieerde sector",
+		"id": "c09078f0-2abf-4514-b698-7e9f3eee3094",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"edc3a88f-5308-41b4-b4f2-6861bda12a0b"
+		],
+		"title": "gesubsidieerde sector",
+		"id": "69cbf5df-0bc4-448b-a8f4-c22081090c6b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"a76db3b9-c7dc-4fd1-93fe-5f615dd8c256"
+		],
+		"title": "collectieve sector, particuliere sector, subsidies, heffingen, infrastructuur",
+		"id": "eb9c3414-31f2-49ea-b51f-646423941d9f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"51f48127-976b-4aba-bf4e-d0a2627d7ca9"
+		],
+		"title": "collectieve sector, particuliere sector, subsidies, heffingen, infrastructuur",
+		"id": "d7589930-406c-430c-a753-94cf753bd779",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"bfca5f54-898e-48b9-bd22-08d3886ce82e"
+		],
+		"title": "actieven en niet-actieven, productaansprakelijkheid",
+		"id": "89366f9c-dbb8-4bce-a106-17222e2aa9fb",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"aadba028-ddf2-4d68-bacc-301da6b9e1a6"
+		],
+		"title": "actieven en niet-actieven, productaansprakelijkheid",
+		"id": "7b9530ef-2e25-46bb-b91a-590844c4e891",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"5b505b96-40ff-4790-ba3d-92db63a2db7a"
+		],
+		"title": "SER, CPB, CBS",
+		"id": "ef57fdac-cc76-4ce2-bb62-b853295baf25",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"3537d23b-68b9-4ef5-81cf-246e6ea70d2c"
+		],
+		"title": "SER, CPB, CBS",
+		"id": "fc33446c-d04e-4797-a4ad-51297ef22881",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"5dcb8cec-af59-4b17-901c-ccb39f2c59eb"
+		],
+		"title": "BTW",
+		"id": "a198830d-3a4c-40f7-8104-3fda14e6810d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"5bee6e75-5769-4b35-a642-f153f4254b9c"
+		],
+		"title": "BTW",
+		"id": "bf9c110d-f7c5-4fd0-9698-96f625c8e534",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"797607f3-df84-4600-a592-158110afa809"
+		],
+		"title": "Accijns",
+		"id": "84c88ed4-20b3-4be4-afa0-a627fc3c13bd",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"69e66abc-8bc4-49f0-a8c7-5bf89e5e3047"
+		],
+		"title": "Accijns",
+		"id": "1cb817c5-700b-4c52-a8db-71433e94250e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"ca83345a-6cef-46ab-9333-cc386ccbc925"
+		],
+		"title": "loonspecificatie, loonheffing",
+		"id": "a468f133-2bc7-43d1-8745-16610554e3b2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"fb2bbee0-bb41-4e18-a191-fc080350d911"
+		],
+		"title": "loonspecificatie, loonheffing",
+		"id": "6eb73769-192f-43a8-9f15-952e4c49b820",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"be757cc6-f6a7-4b2c-a540-02b840e9ec34"
+		],
+		"title": "motorrijtuigenbelasting",
+		"id": "34dd4d86-bb59-4b7a-bfcb-63032f450bee",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"88b6adc8-d83c-4590-bfc1-5d87f3c2986e"
+		],
+		"title": "motorrijtuigenbelasting",
+		"id": "736e0624-3b03-45a1-941f-172f0bcfee0b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"3011b371-4b3e-403a-81fc-850b3bed80ac"
+		],
+		"title": "OZB, rioolrechten, afvalstoffenheffing",
+		"id": "59d9cd7e-8a87-468e-95b1-1f3ae4b86499",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"515a878f-3c50-4b3d-8d90-45f497e7c302"
+		],
+		"title": "OZB, rioolrechten, afvalstoffenheffing",
+		"id": "cb1183f5-0eaf-433c-a394-8ed890ad412c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"f1a6798e-cc9c-46ea-b436-963e6dfe422f"
+		],
+		"title": "departement",
+		"id": "41d79fa9-7ef9-4083-b3ae-f87329a0b6e4",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"fa903300-c38a-484e-b6a6-c01532467342"
+		],
+		"title": "departement",
+		"id": "8da51ea0-416b-4bbb-8112-e45b37cc5bfb",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"d26ca13e-d938-4c10-8953-37ca68d56e6e"
+		],
+		"title": "vergrijzing",
+		"id": "d113ca96-b651-4d9f-a776-c27a2373b574",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"4728aa87-5ad8-4dc4-bdea-f35d62d852a8"
+		],
+		"title": "vergrijzing",
+		"id": "6c95c692-dae7-4749-8e98-f1fc2c5e87a3",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"22539ba7-5027-4421-bfdb-d759f786193f"
+		],
+		"title": "ruilmiddel, rekenmiddel, spaarmiddel, oppotmiddel, vormen van betalen, bankrekening",
+		"id": "feef59ec-7212-4baf-a2a9-c292c0ab3add",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"93105c94-5f4f-4d04-a876-dda428eb3134"
+		],
+		"title": "ruilmiddel, rekenmiddel, spaarmiddel, oppotmiddel, vormen van betalen, bankrekening + debetrente en creditrente (debetsaldo en creditsaldo)",
+		"id": "821ba698-75ea-4f22-a809-0a0ecf730bcb",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"6205ff21-343f-478f-bad9-2d3379731c00"
+		],
+		"title": "ruilmiddel, rekenmiddel, spaarmiddel, oppotmiddel, vormen van betalen, bankrekening + debetrente en creditrente (debetsaldo en creditsaldo)",
+		"id": "55872f76-128e-432c-baa4-1007fe065654",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"2fb4ff24-f824-4758-8bc5-dbf90a0d0324"
+		],
+		"title": "ruilmiddel, rekenmiddel, spaarmiddel, oppotmiddel, vormen van betalen, bankrekening + debetrente en creditrente (debetsaldo en creditsaldo)",
+		"id": "d27e5e21-85f2-4fd4-9664-77de3c8a1f14",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"f069e825-c01b-43e1-8486-19a63c15b5d9"
+		],
+		"title": "wettelijke verplichtingen, overeenkomst, wilsovereenstemming, rechtszekerheid, bewijskracht",
+		"id": "d43df542-630b-459b-971a-52920ae9348c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"ba35d8a2-f2af-4582-ac13-b3b6318354ac"
+		],
+		"title": "wettelijke verplichtingen, overeenkomst, wilsovereenstemming, rechtszekerheid, bewijskracht",
+		"id": "b0a68834-d07a-47ed-a60a-15eac494e365",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"e0a0be6a-20e3-4656-afed-d3cb847b625f"
+		],
+		"title": "wettelijke verplichtingen, overeenkomst, wilsovereenstemming, rechtszekerheid, bewijskracht",
+		"id": "d3a1a27e-718b-4132-ab1f-99d94edf8a56",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"8251c055-bd43-4ed4-a780-18d2c0274be6"
+		],
+		"title": "wettelijke verplichtingen, overeenkomst, wilsovereenstemming, rechtszekerheid, bewijskracht",
+		"id": "26f4ae64-0917-4961-a5fb-bbd7eebc48c1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"f6317ccf-6ac8-4b1c-a3e7-c86224ededec"
+		],
+		"title": "huishoud-ontvangsten",
+		"id": "88df275e-0bff-4417-a48f-9b9be2817e7d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"72e11d37-3324-4cc2-866c-16b6b84c5c28"
+		],
+		"title": "huishoud-ontvangsten",
+		"id": "a8968fb2-0863-4d3b-8330-b4a865b3cf21",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"bc8f7540-72d8-4251-859b-eff3167dc529"
+		],
+		"title": "huishoud-ontvangsten",
+		"id": "946ad191-a6c9-4d78-b06b-75113e72fb76",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"34fc41c0-7e66-48d6-af77-68a1bb2b67aa"
+		],
+		"title": "huishoud-ontvangsten",
+		"id": "b02480bb-d83b-4a5f-9f6a-c3ab88772c30",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"56452aa0-ea86-4b7f-bea5-4040b2100f66"
+		],
+		"title": "vaste laste, dagelijkse uitgaven, incidentele uitgaven",
+		"id": "8db654ea-69e1-423e-a0f0-e9e47d0edce4",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"fccd3cd8-2bc4-46ab-ba01-d1ae8c187c43"
+		],
+		"title": "vaste laste, dagelijkse uitgaven, incidentele uitgaven",
+		"id": "96499c81-7bb8-48b3-bef2-e86da0b6ab8e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"dc7ed783-3a2e-44dd-96f3-04d5bdbb54d6"
+		],
+		"title": "vaste laste, dagelijkse uitgaven, incidentele uitgaven",
+		"id": "9f6db36f-c327-42fe-8679-d232716810f4",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"e63d3bf0-f6f0-4c5d-9231-204490ee3351"
+		],
+		"title": "vaste laste, dagelijkse uitgaven, incidentele uitgaven",
+		"id": "c548fd00-b0cf-4a85-9d56-c6cb87ee840d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"9d16bf5b-82a8-4c4b-847a-4c52d0a3b693"
+		],
+		"title": "reserveringen en besparingen",
+		"id": "76bbdbba-4532-43a6-81d8-2d7ccafe7dbf",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"78714e3b-81b2-45e8-b47f-360975f0f2db"
+		],
+		"title": "reserveringen en besparingen",
+		"id": "1f8a686a-6771-4717-9ef2-a272af8fb7b2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"ef854325-0126-42fe-801d-377be81032f1"
+		],
+		"title": "reserveringen en besparingen",
+		"id": "b79fd9c9-6b88-4fc3-89a0-206e5e680b82",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"1555dc00-a341-4620-9257-dda97c04cbb7"
+		],
+		"title": "kwartaalbasis en jaarbasis",
+		"id": "fefc85b3-e0ce-4b7e-ad10-c3fbb61053de",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"306b2786-739d-4088-9929-a1e215ac3760"
+		],
+		"title": "kwartaalbasis en jaarbasis",
+		"id": "4bccbddc-c4a7-4920-9fb7-6c3300ca4713",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"b2e3955b-d5fc-4651-9d48-014477d782ae"
+		],
+		"title": "kwartaalbasis en jaarbasis",
+		"id": "ce20151f-6915-4e51-9e2d-7981cbb292b5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"7a6be157-e4ef-4c0b-a7a9-5dcf42815165"
+		],
+		"title": "kwartaalbasis en jaarbasis",
+		"id": "90a18b6b-2fe5-41fc-a1f9-852770f52063",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"8735c069-8c7c-474a-a695-0d901e1df155"
+		],
+		"title": "weekbasis",
+		"id": "04f86045-2a0d-4c91-9866-eeb81107efa1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"a3391314-933b-4a88-a96a-bd88ac1f81d6"
+		],
+		"title": "weekbasis",
+		"id": "8d86d452-dce1-4c79-a086-b63b4afb93e7",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"a97a8e0a-362a-49c7-9609-f7663b2d0a3c"
+		],
+		"title": "weekbasis",
+		"id": "94e725e3-22bb-43f4-a3a2-0d063b9455ef",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"1eeaf455-cc20-4a0f-ad2a-b36c5b4b9ece"
+		],
+		"title": "ontvangsten, uitgaven, budgetplan, liquiditeit",
+		"id": "669ed335-a5ae-4376-912f-f7abdb61b830",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"7c001e9c-5ab2-4d7f-91e9-330b7e5388cb"
+		],
+		"title": "ontvangsten, uitgaven, budgetplan, liquiditeit + reserveringen (voor vervangen) + afschrijvingen + verschil werkelijk en feitelijke uitgaven",
+		"id": "8a4a9ecb-860e-4531-82cc-1d9b4915260e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"2e78ded7-9d69-49d2-b193-a99d626d5ffe"
+		],
+		"title": "ontvangsten, uitgaven, budgetplan, liquiditeit + reserveringen (voor vervangen) + afschrijvingen + verschil werkelijk en feitelijke uitgaven",
+		"id": "c71c2e16-ec60-4349-b44d-dba51ddaa2e2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"a3b723b2-8236-450d-9966-9893ba8df043"
+		],
+		"title": "ontvangsten, uitgaven, budgetplan, liquiditeit + reserveringen (voor vervangen) + afschrijvingen + verschil werkelijk en feitelijke uitgaven",
+		"id": "97365fd8-8a5b-4a89-a605-afe2c26f3f8a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"5549a17a-a97f-4ded-9f23-b558d87c5fd9"
+		],
+		"title": "NIBUD, Consumentenbond",
+		"id": "2994889a-54db-442a-9aa4-8ffdc3653f36",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"9c35e94f-cf77-4671-bf4c-2121676a8d63"
+		],
+		"title": "NIBUD, Consumentenbond",
+		"id": "b21b1dfe-29fa-4340-9133-637629b01e22",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"5b4703ef-55ea-4ba6-9799-f4e2241992eb"
+		],
+		"title": "NIBUD, Consumentenbond",
+		"id": "a0b20b4f-2f43-4ec6-8acd-0e0cbf4bca15",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"63ffa88a-a6f4-4432-baf9-e445dac0d81a"
+		],
+		"title": "NIBUD, Consumentenbond",
+		"id": "a2918294-1450-4158-9bec-82c12a91440c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"b6f85404-bf7a-4c41-8d6b-9ac3d6e3b369"
+		],
+		"title": "vreemd geld, transactiekosten, bied- en laatkoers",
+		"id": "025cd2c5-6364-427d-9e76-cdd7344bb930",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"5bec8487-7e4a-43d1-b5f7-5cac5dd2c753"
+		],
+		"title": "vreemd geld, transactiekosten, bied- en laatkoers",
+		"id": "2931182a-fc7d-4577-87ef-a7bea94c189d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"b9574b23-40e1-4ed0-bf0d-540c086df758"
+		],
+		"title": "vreemd geld, transactiekosten, bied- en laatkoers",
+		"id": "02337259-6861-4fcb-8a6a-c69724b360ce",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"2066d844-25c1-428e-ae72-2ffd0efad274"
+		],
+		"title": "vreemd geld, transactiekosten, bied- en laatkoers",
+		"id": "aebac78f-cfab-42a9-b2d5-7cff539f6eff",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"fab3ad74-c805-4de4-8e31-d837100ac7db"
+		],
+		"title": "behoeften en prioriteiten, budgetplan",
+		"id": "95f86f24-12fe-4a9c-b84e-3aa46bdca50d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"a16d943c-f3eb-4d1e-b1eb-e69a6530fbb6"
+		],
+		"title": "behoeften en prioriteiten, budgetplan",
+		"id": "a794a0de-7bbc-499b-ba94-1e58be77d01c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"06e8262f-d63f-4f72-a7d8-3d0e0b6c4079"
+		],
+		"title": "behoeften en prioriteiten, budgetplan",
+		"id": "a3e30bd8-c0cd-4dd5-aac1-7ad84936ec29",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"04d55ff5-f725-4377-8fb1-2a659d48365c"
+		],
+		"title": "behoeften en prioriteiten, budgetplan",
+		"id": "c6b4173c-1dde-4860-941a-d5367f10a469",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"944b01f3-f02d-4157-ab56-f2f1d7327ecd"
+		],
+		"title": "liquiditeitstekorten en liquiditeits-overschotten",
+		"id": "53dff8fb-d054-48cd-935c-d21f074e81d1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"2706552f-7ab8-4adf-83cf-c83131865ff6"
+		],
+		"title": "liquiditeitstekorten en liquiditeits-overschotten",
+		"id": "75badb82-4003-4085-b7f9-65fcbb9eed24",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"e4c4e9b5-597b-4eef-a218-da4b536e568d"
+		],
+		"title": "liquiditeitstekorten en liquiditeits-overschotten",
+		"id": "b28883da-9ff3-48de-9566-380ee61a64a3",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"518845ee-9488-4229-88a5-0a43747938d0"
+		],
+		"title": "liquiditeitstekorten en liquiditeits-overschotten",
+		"id": "30d75cad-201d-45da-bbfb-448ae69386a3",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"08494a17-ded7-4528-b279-15e6d2c90127"
+		],
+		"title": "risico, schade, onzeker voorval, uitkering",
+		"id": "e881e284-7168-4caa-a4e6-2f1c3a31e82b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"50a90e69-748c-4c74-a1ea-dd2d128cab50"
+		],
+		"title": "risico, schade, onzeker voorval, uitkering",
+		"id": "1aefaeee-f93d-4c66-a217-7f1906f68b7c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"70d90dc5-f543-4b6f-bd97-a6147321bcb8"
+		],
+		"title": "risico, schade, onzeker voorval, uitkering",
+		"id": "9147922f-a658-4c4b-bd94-875a6a4e7e24",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"2d5b6aea-1383-43db-8dea-8b775fcf0503"
+		],
+		"title": "risico, schade, onzeker voorval, uitkering",
+		"id": "e91ef277-ef1c-44e0-9a25-887a58fcb9b6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"939945bd-993c-4ff2-a5a4-3f3d8af4dd8a"
+		],
+		"title": "verzekeringsvoorwaarden, direct-writers, premie, WA- verzekering",
+		"id": "e44cba27-8509-416f-8cc0-956ea4eee353",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"1a37ae3a-0a43-4c35-a16c-745ff4f05c10"
+		],
+		"title": "verzekeringsvoorwaarden, direct-writers, premie, WA- verzekering",
+		"id": "33bd6c75-cd75-45c6-ac1a-5bc55de9e3ad",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"a9a1e09b-c219-496a-9bc3-9c3c01b6fc56"
+		],
+		"title": "verzekeringsvoorwaarden, direct-writers, premie, WA- verzekering",
+		"id": "dd4741d7-d8e6-474a-8db4-639b6661da62",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"957d8ea0-1da4-4bf8-bc8d-6186b8bea422"
+		],
+		"title": "verzekeringsvoorwaarden, direct-writers, premie, WA- verzekering",
+		"id": "ee97bfa8-2394-408d-ba9b-19b8f803adc9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"6fbd2813-943d-49fb-91c4-3780778c4d40"
+		],
+		"title": "polis, verzekerde, verzekeraar, verzekerd bedrag, opstal- en inboedelverzekering, ziektekosten, autoverzekering: WA, WA+, casco, onder- en oververzekering",
+		"id": "7ba1f7d7-9ba4-4d66-bd6d-d86fbf2fe1d6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"7f03bd7f-4ae8-471a-9bd0-e14871dab66a"
+		],
+		"title": "polis, verzekerde, verzekeraar, verzekerd bedrag, opstal- en inboedelverzekering, ziektekosten, autoverzekering: WA, WA+, casco, onder- en oververzekering",
+		"id": "1d850b02-53ec-4884-91cb-d94e9de52604",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"2c042834-2762-434d-8a95-30bc64cb7643"
+		],
+		"title": "polis, verzekerde, verzekeraar, verzekerd bedrag, opstal- en inboedelverzekering, ziektekosten, autoverzekering: WA, WA+, casco, onder- en oververzekering",
+		"id": "9dce9c60-111a-4dea-bbce-ccf71123a795",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"15a4fef5-9aa3-437b-8883-4b6a1fa9319e"
+		],
+		"title": "polis, verzekerde, verzekeraar, verzekerd bedrag, opstal- en inboedelverzekering, ziektekosten, autoverzekering: WA, WA+, casco, onder- en oververzekering",
+		"id": "3376fab4-f2b0-4be6-87b2-ff3112a1295e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"74141bce-b6e1-4e8b-b3eb-e99cc7ca1874"
+		],
+		"title": "premie, schade-uitkering, eigen risico, uitsluiting",
+		"id": "c3608135-61e4-4788-8b00-22f8dc93299e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"ec7fb61e-8a30-4c2f-a9ff-8bc522416f7b"
+		],
+		"title": "premie, schade-uitkering, eigen risico, uitsluiting",
+		"id": "918b7b82-6d5e-45c5-b48a-0b5d76543aa3",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"2ff32529-2904-4746-b75e-3b54027eb013"
+		],
+		"title": "premie, schade-uitkering, eigen risico, uitsluiting",
+		"id": "1192fbda-3fdf-49b9-869e-9420bc3bfa47",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"c3d27326-7aba-4808-94ca-c524d8385640"
+		],
+		"title": "premie, schade-uitkering, eigen risico, uitsluiting",
+		"id": "aa5e0369-8900-414a-b7de-f05835064f08",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE; CE",
+		"doelniveau_id": [
+			"aa8991b1-4200-4ed0-80ef-2ac1d49fadfb"
+		],
+		"title": "enkelvoudige rente, spaarbedrag, looptijd, rentepercentage",
+		"id": "961298d6-ba10-4d12-87b4-18e7afd7f722",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE; CE",
+		"doelniveau_id": [
+			"7d4a1504-82c1-4a3e-a161-71aa8c2be552"
+		],
+		"title": "enkelvoudige rente, spaarbedrag, looptijd, rentepercentage",
+		"id": "ce7b895e-92de-4a37-85cb-19cb572ba757",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE; CE",
+		"doelniveau_id": [
+			"b499d122-b25d-48a9-b6c4-ecd054d5b7db"
+		],
+		"title": "enkelvoudige rente, spaarbedrag, looptijd, rentepercentage",
+		"id": "6aa38e66-62be-4a1a-93aa-a2556b48877a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE; CE",
+		"doelniveau_id": [
+			"f4825e79-e117-4652-9214-2e421603639b"
+		],
+		"title": "enkelvoudige rente, spaarbedrag, looptijd, rentepercentage",
+		"id": "757c8922-c715-484d-990d-59c364c1243c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE; CE",
+		"doelniveau_id": [
+			"7fd68fe6-c29d-439c-ab39-d2cf187f2ddf"
+		],
+		"title": "looptijd, opvraagbaarheid, rentevergoeding",
+		"id": "14bac7ea-3891-4598-81cb-34921f66b905",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE; CE",
+		"doelniveau_id": [
+			"cfd26977-7357-4211-8b7f-41e3f5137e08"
+		],
+		"title": "looptijd, opvraagbaarheid, rentevergoeding",
+		"id": "d460bf46-689d-4b3e-a1bb-46c80b3184ac",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE; CE",
+		"doelniveau_id": [
+			"e088689b-eabe-40e6-8bc1-97d87ac89803"
+		],
+		"title": "looptijd, opvraagbaarheid, rentevergoeding",
+		"id": "c307223a-c44b-46b9-92b2-26ea313f8bcb",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE; CE",
+		"doelniveau_id": [
+			"7e712164-e329-4b96-9119-b67a9a32d6a1"
+		],
+		"title": "looptijd, opvraagbaarheid, rentevergoeding",
+		"id": "774997b6-ab2b-486b-9495-4d571be50fb1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE; CE",
+		"doelniveau_id": [
+			"3a8819c6-e99f-4193-9800-6e391c6b0d24"
+		],
+		"title": "aandelen, obligaties, risico, dividend, rente",
+		"id": "8dd308ac-0f69-4fbb-b5b1-21ed6b314ae3",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE; CE",
+		"doelniveau_id": [
+			"8e8b13da-c70b-4b1d-9690-e4aced9dd047"
+		],
+		"title": "aandelen, obligaties, risico, dividend, rente",
+		"id": "c43247da-1782-4a3f-8a53-306033aeb646",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE; CE",
+		"doelniveau_id": [
+			"2a6a6afe-d963-4655-a152-8e9bc620cead"
+		],
+		"title": "aandelen, obligaties, risico, dividend, rente",
+		"id": "86db595d-4ef7-4c2c-9327-1b985a29f019",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE; CE",
+		"doelniveau_id": [
+			"9a7e717b-8e7c-4591-ad54-059c0d4f5f8b"
+		],
+		"title": "aandelen, obligaties, risico, dividend, rente",
+		"id": "41228e98-5e86-4054-a7e0-dcdf7187bb33",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE; CE",
+		"doelniveau_id": [
+			"40606437-9b3b-4f71-9d87-2d888c36b6bf"
+		],
+		"title": "spaar- en leningsvormen",
+		"id": "d78e2b3e-0d92-4e78-bc2b-5f98dea8748f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE; CE",
+		"doelniveau_id": [
+			"93590bfe-5ede-406e-9c94-f1be99199e1c"
+		],
+		"title": "spaar- en leningsvormen",
+		"id": "d40097cf-9ab8-4ba7-8c8a-7c2ecf9e2e48",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE; CE",
+		"doelniveau_id": [
+			"fd829edc-515a-4be8-9171-dbdc036ac035"
+		],
+		"title": "spaar- en leningsvormen",
+		"id": "14a798af-5ba2-4590-abf4-6e0aca6e64ff",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE; CE",
+		"doelniveau_id": [
+			"5ddecfc7-1706-42f9-ae2d-1489c7f71493"
+		],
+		"title": "spaar- en leningsvormen",
+		"id": "8e70d04a-f66c-458b-82ce-3180b2ecbc52",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE; CE",
+		"doelniveau_id": [
+			"d8a47176-93ae-40ac-9444-f59065badd0e"
+		],
+		"title": "hypothecaire-, persoonlijke lening, doorlopend krediet, lease, kopen op krediet, looptijd, aflossing, rente,",
+		"id": "2532decd-9e3f-4530-8868-55d90ab0b5ec",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE; CE",
+		"doelniveau_id": [
+			"f792dde5-e0c8-4e9b-b950-0d22ddb6f6d7"
+		],
+		"title": "hypothecaire-, persoonlijke lening, doorlopend krediet, lease, kopen op krediet, looptijd, aflossing, rente,",
+		"id": "b8564fc7-22f5-46c0-a0c7-31f760bf5f87",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE; CE",
+		"doelniveau_id": [
+			"8266d1b4-4c7d-45c5-ab67-16c4e7e1d9dc"
+		],
+		"title": "hypothecaire-, persoonlijke lening, doorlopend krediet, lease, kopen op krediet, looptijd, aflossing, rente,",
+		"id": "b3691df6-6557-4680-af77-65816a708834",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE; CE",
+		"doelniveau_id": [
+			"7dba886a-62fc-4287-aca3-cc7bbd114b22"
+		],
+		"title": "hypothecaire-, persoonlijke lening, doorlopend krediet, lease, kopen op krediet, looptijd, aflossing, rente,",
+		"id": "604a180b-2e1c-486f-bc9e-1c3a4b7a9770",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"8609959a-bede-40e7-a893-13a9bf6b4991"
+		],
+		"title": "vreemd geld, transactiekosten, bied- en laatkoers,",
+		"id": "893870a6-3c52-4d60-a1c8-36f64dc852b0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"26b533ab-6a46-4c0f-8fa3-910310c0f904"
+		],
+		"title": "vreemd geld, transactiekosten, bied- en laatkoers,",
+		"id": "d5226a72-39a9-4811-a699-94b082471e60",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"2a433f92-c07f-4b76-8758-01c7efaf1946"
+		],
+		"title": "vreemd geld, transactiekosten, bied- en laatkoers,",
+		"id": "566cbbb7-10d9-41a9-a435-17ccdb8a1708",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"da89646c-4f48-430d-b842-af3db8cf22ec"
+		],
+		"title": "vreemd geld, transactiekosten, bied- en laatkoers,",
+		"id": "b4b6474c-a474-4e5c-8e23-1a97f0c11933",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE; CE",
+		"doelniveau_id": [
+			"dcedda3f-83a6-4c92-8086-a38dc42a8a7d"
+		],
+		"title": "huisvesting, eigen-, huurwoning, huurovereenkomst",
+		"id": "b19208e7-7afe-4af6-a137-73c1febe8a48",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE; CE",
+		"doelniveau_id": [
+			"3eec7cef-e1c1-4962-b1be-ecf51d8b7419"
+		],
+		"title": "huisvesting, eigen-, huurwoning, huurovereenkomst",
+		"id": "2b2922ab-b9ab-42be-8baf-1790a0b2937e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE; CE",
+		"doelniveau_id": [
+			"1011f764-c71e-471e-8611-ab99c9891e63"
+		],
+		"title": "huisvesting, eigen-, huurwoning, huurovereenkomst",
+		"id": "2b369b3d-074e-4cb5-86ad-170bdf966ad1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE; CE",
+		"doelniveau_id": [
+			"5b412e57-66dc-4b07-9ea5-21bf9965f374"
+		],
+		"title": "huisvesting, eigen-, huurwoning, huurovereenkomst",
+		"id": "f77426d4-9588-4124-a4cc-57e203c5a547",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE; CE",
+		"doelniveau_id": [
+			"1e75c444-d235-48d9-96ac-ceb67278ef56"
+		],
+		"title": "bezitsvorming, hypothecaire lening, rente en aflossing, waardeverandering",
+		"id": "ef533453-6c6a-4eec-b9a2-77c317814ddc",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE; CE",
+		"doelniveau_id": [
+			"12376069-1c3c-4431-9941-1af4ecf2fdb3"
+		],
+		"title": "bezitsvorming, hypothecaire lening, rente en aflossing, waardeverandering",
+		"id": "46d77275-42f6-4487-8046-6eb207048736",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE; CE",
+		"doelniveau_id": [
+			"c6bfa9a4-f259-49ee-a64d-e6f9e3120466"
+		],
+		"title": "bezitsvorming, hypothecaire lening, rente en aflossing, waardeverandering",
+		"id": "83abf4b4-f126-4d24-b0d4-aaa891133a44",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE; CE",
+		"doelniveau_id": [
+			"c20acffe-d7bc-41f3-870c-676e8def955b"
+		],
+		"title": "bezitsvorming, hypothecaire lening, rente en aflossing, waardeverandering",
+		"id": "2b973218-a700-4cb7-8dbd-48296c2acfa8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"23c01524-1959-4ef3-ab69-d502d022c699"
+		],
+		"title": "koopkracht in de tijd, sparen, lenen",
+		"id": "67e19ef8-7fb4-43e9-98e7-6cbda615f987",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"34866581-6ad7-46ad-aea1-98dbcaed2693"
+		],
+		"title": "koopkracht in de tijd, sparen, lenen + financiële instellingen",
+		"id": "51129026-bc4a-4a42-823d-56852011d957",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"a5a4181a-4088-48a9-9738-fad8030fb1be"
+		],
+		"title": "koopkracht in de tijd, sparen, lenen + financiële instellingen",
+		"id": "cd7fe085-ccfd-47dd-bc86-c2464df7603d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"c59ce2c1-a063-40af-bc05-cbf0467eef7c"
+		],
+		"title": "koopkracht in de tijd, sparen, lenen + financiële instellingen",
+		"id": "82e71ede-7384-47fd-842f-98e142f2263d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"70754a34-87c4-4e0b-ae0e-4448d858732f"
+		],
+		"title": "reserveringsberekening",
+		"id": "c4bddc2d-36d7-4661-9f9f-78e39aa80acf",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"85f4e525-54f2-4b20-a06d-64f5a493d407"
+		],
+		"title": "reserveringsberekening",
+		"id": "e39fc803-c73f-48a9-9e01-b865446fdb6e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"485d9356-e5a7-44a3-a1ce-a5a5f68160fd"
+		],
+		"title": "reserveringsberekening",
+		"id": "e9001de0-9f35-4b24-91c9-806ca083f398",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"93547b11-f0ce-4894-8fa8-d5e280e3e9b6"
+		],
+		"title": "sociale beïnvloeding",
+		"id": "0d147f52-a609-4322-9a4c-fc3d1edc1b10",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"fe4c162b-bd59-4143-a305-8a9943ae7afb"
+		],
+		"title": "sociale beïnvloeding",
+		"id": "25485d57-4494-4345-8a84-c617e9409426",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"79cd50de-d506-4e4f-b171-652968dfb5d2"
+		],
+		"title": "sociale beïnvloeding",
+		"id": "1adf63ce-13b5-4404-b0e7-3b72a993c2a2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"f9b07687-a2bf-4384-a48a-ff511eb14c5a"
+		],
+		"title": "sociale beïnvloeding",
+		"id": "8f5e2a60-4126-437d-bd49-c683abce5c9d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"9e5fccc4-2499-4e0c-a78c-b39baa353e42"
+		],
+		"title": "sociale beïnvloeding",
+		"id": "54e1f6ad-4fb9-41ea-818d-fce79c365d43",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"20a0a4c9-4e87-442c-87de-aea60de28e8c"
+		],
+		"title": "sociale beïnvloeding",
+		"id": "516f0891-1d4c-4358-8c4a-41ef892dd973",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"2a2e4e3f-659b-4101-8c82-60388e8e787e"
+		],
+		"title": "sociale beïnvloeding",
+		"id": "4b350aa3-2941-483f-a364-aaedaf400485",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"04b92cc4-2444-47a8-b496-24567d93c540"
+		],
+		"title": "sociale beïnvloeding",
+		"id": "f58628d2-5a85-46f7-b53f-89bf9e98ec07",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"1d054298-a28e-4989-8091-deb1220c2229"
+		],
+		"title": "keurmerken",
+		"id": "85836562-f6ba-4f95-a7f5-b124e8f688c5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"d5c848f2-f139-4b23-9b0e-7fbc5b2b1632"
+		],
+		"title": "keurmerken",
+		"id": "a4df0ff9-d06e-49db-9b64-212f7b003ec9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"43cdba2f-4cbc-463b-a85e-7600cf2c275c"
+		],
+		"title": "marketingmix",
+		"id": "1e2b44d9-3cfe-4073-9eb1-19458cb572f0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"02b947dd-4d06-44a7-a479-838845201c36"
+		],
+		"title": "marketingmix",
+		"id": "8cb6a390-0ee8-451f-951f-d225a66c0941",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"d63de46b-7b59-46e0-9812-9187e8299793"
+		],
+		"title": "marketingmix",
+		"id": "74329ef4-c8fb-4ee7-a0fd-3aa34a51ade1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"3103968c-3e58-4b00-8beb-314957ed85e2"
+		],
+		"title": "marketingmix",
+		"id": "e8dfeb80-4add-4b7c-b877-70202497d2ce",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"986d9167-08fc-4f81-9e60-dbc955a932e2"
+		],
+		"title": "e-commerce",
+		"id": "92761cc2-ae2e-448d-be87-b3d0e9d3b4a9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"de2bc5c4-a322-4b77-b997-410f93f6dd31"
+		],
+		"title": "e-commerce",
+		"id": "6e26e10f-b5e3-41f9-9f04-85997f7cd25f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"f5920d44-3b58-4068-b40f-58f60ead7419"
+		],
+		"title": "e-commerce",
+		"id": "f9e237ad-65a1-4098-be9a-0a2ace4438d5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"ccec3289-e7e8-43e3-a442-ed58f9c1b947"
+		],
+		"title": "e-commerce",
+		"id": "b4c96965-e76d-43ad-9239-356111fa80c4",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"4278393e-edf5-418f-8ceb-61172804238c"
+		],
+		"title": "kilometerprijs",
+		"id": "80264233-45c7-4105-9102-867e9f3f51b4",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"18535317-f334-43e2-bee8-dc8a8b6c852d"
+		],
+		"title": "kilometerprijs",
+		"id": "442b2110-a8cb-41a2-918c-f4ba2ef6ef0f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"847f1665-8f83-458f-bc23-1034ba4407e6"
+		],
+		"title": "kilometerprijs",
+		"id": "c71a12df-3bef-41e0-bb00-3502ff82109d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"3938e8ce-36d1-43b3-8503-ae9f8e5d1beb"
+		],
+		"title": "kilometerprijs",
+		"id": "2ec0d29f-b05b-4458-a256-a2b692eea5a7",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"61483944-b305-4176-86fb-969195ecdcad"
+		],
+		"title": "basisbehoeften, overige behoeften, prioriteiten; luxe en inkomen (relatief); noodzakelijke en luxe goederen",
+		"id": "f6db243c-da22-4c7f-a4f1-52b12978cada",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"3bad95a1-979f-47c7-82e5-39a7385cdd7c"
+		],
+		"title": "basisbehoeften, overige behoeften, prioriteiten; luxe en inkomen (relatief); noodzakelijke en luxe goederen; onderscheid goederen en diensten; onderscheid (primaire) basisbehoeften en (secundaire) overige behoeften; onderscheid verbruiks- en gebruiksgoederen",
+		"id": "c28306cf-2aa0-4389-98a3-8eaa9c72466d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"6e58d4ec-4bc7-4235-af06-da8e4d72c39d"
+		],
+		"title": "basisbehoeften, overige behoeften, prioriteiten; luxe en inkomen (relatief); noodzakelijke en luxe goederen; onderscheid goederen en diensten; onderscheid (primaire) basisbehoeften en (secundaire) overige behoeften; onderscheid verbruiks- en gebruiksgoederen",
+		"id": "e2ebba90-432c-41b2-b943-489e9c3f29e2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"725a382a-8b83-4372-83ac-8e397f166a74"
+		],
+		"title": "basisbehoeften, overige behoeften, prioriteiten; luxe en inkomen (relatief); noodzakelijke en luxe goederen; onderscheid goederen en diensten; onderscheid (primaire) basisbehoeften en (secundaire) overige behoeften; onderscheid verbruiks- en gebruiksgoederen",
+		"id": "0fac1d5c-0fcf-4cd9-a8f4-f5b1015efa68",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"a4cfec9f-1fb5-4164-85aa-16f95b5fca30"
+		],
+		"title": "prioriteiten, beperkte beschikbaarheid middelen",
+		"id": "d5b51719-2617-45da-82d7-3d42feee75e7",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"ff565fb6-4819-4922-9247-891df0a229fd"
+		],
+		"title": "prioriteiten, beperkte beschikbaarheid middelen, schaarste en zeldzaamheid",
+		"id": "dc7e0f9c-111a-4606-8899-e41e8a0fac32",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"815bd755-2032-41b8-8030-08ad21277685"
+		],
+		"title": "prioriteiten, beperkte beschikbaarheid middelen, schaarste en zeldzaamheid",
+		"id": "602175d8-4495-4fd4-88a5-c6885bda8171",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"56683503-5370-4daf-a4ad-d53e0d4cda97"
+		],
+		"title": "prioriteiten, beperkte beschikbaarheid middelen, schaarste en zeldzaamheid",
+		"id": "752201d5-416b-4ae1-b4c2-500e8f64cea8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"79e48695-13a2-400b-a75b-e32dfd4db6d8"
+		],
+		"title": "zelfvoorziening, produceren bedrijven, collectieve voorzieningen, productie overheid, gebruik natuurlijke hulpbronnen.",
+		"id": "839e2a23-621b-49cf-8c59-936ae5e3e757",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"b8d16529-04ad-4073-8f80-323d6be131fb"
+		],
+		"title": "zelfvoorziening, produceren bedrijven, collectieve voorzieningen, productie overheid, gebruik natuurlijke hulpbronnen.",
+		"id": "ee1f3e82-7ec1-45ce-9a47-0dc16dd8d139",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"a4227a94-1668-4364-8dc6-dbf6cc658b74"
+		],
+		"title": "zelfvoorziening, produceren bedrijven, collectieve voorzieningen, productie overheid, gebruik natuurlijke hulpbronnen.",
+		"id": "e4f8c709-c272-4eca-b546-8df9f82d2ecf",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"7d05ef3c-1ca2-4646-a786-2c49c67e436c"
+		],
+		"title": "zelfvoorziening, produceren bedrijven, collectieve voorzieningen, productie overheid, gebruik natuurlijke hulpbronnen.",
+		"id": "831db2df-4d22-4cbd-9ec9-b68dacd396e6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"e387ead4-6054-4588-b068-26648d332c2a"
+		],
+		"title": "geld; ruilmiddel; directe en indirecte ruil; chartaal geld en giraal geld",
+		"id": "44a99e3c-2cf9-4432-b410-d23476879abd",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"3eea5151-04f0-4f79-9eb2-7627931ad817"
+		],
+		"title": "geld; ruilmiddel; directe en indirecte ruil; chartaal geld en giraal geld",
+		"id": "eac6cc64-621c-44f9-b9d1-8401bd034395",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"cb8f06d5-d9ad-412e-9866-1fd72d39e46f"
+		],
+		"title": "geld; ruilmiddel; directe en indirecte ruil; chartaal geld en giraal geld",
+		"id": "9f9a6ccb-68dd-4f90-b282-91423d5a94cc",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"0df72c3e-ca30-4c34-834c-250bf95968c3"
+		],
+		"title": "maatschappelijke arbeidsverdeling / beroepsspecialisatie",
+		"id": "8255bf04-85ff-4759-8b1a-6958e75fbcf2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"96353a03-c125-4a20-9843-bdaf67f2a1bc"
+		],
+		"title": "maatschappelijke arbeidsverdeling / beroepsspecialisatie",
+		"id": "ecc88bfd-3477-40b1-875f-e7af57da8b35",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"93a0b65a-e984-4e92-ad31-c55e18d018c0"
+		],
+		"title": "maatschappelijke arbeidsverdeling / beroepsspecialisatie",
+		"id": "8543881f-6738-4a0f-94d5-6bbacc25e253",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"0a1cd99b-f086-4523-825e-41992ca6f3ac"
+		],
+		"title": "inkomen uit arbeid (loon of salaris, vakantiegeld, loon in natura, winst); inkomen uit bezit (rente, dividend, huur, pacht, winst)",
+		"id": "fdaf2f85-bab2-4971-a62c-bac7c83c29d2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"1b8a4938-5485-413e-b7f0-431de0aace53"
+		],
+		"title": "inkomen uit arbeid (loon of salaris, vakantiegeld, loon in natura, winst); inkomen uit bezit (rente, dividend, huur, pacht, winst), prestatiebeloning.",
+		"id": "3a2c77b8-7489-476a-a79b-1f01a866a23f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"ff3b29b1-1a5f-416f-b133-5c26764aaf72"
+		],
+		"title": "inkomen uit arbeid (loon of salaris, vakantiegeld, loon in natura, winst); inkomen uit bezit (rente, dividend, huur, pacht, winst), prestatiebeloning, enkelvoudige en samengestelde interest tot maximaal 3 jaar",
+		"id": "d8d34b66-f222-41c4-ada8-92d47f76272f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"0ef8ed53-0607-41a2-8ede-fdb61272a108"
+		],
+		"title": "inkomen uit arbeid (loon of salaris, vakantiegeld, loon in natura, winst); inkomen uit bezit (rente, dividend, huur, pacht, winst), prestatiebeloning, enkelvoudige en samengestelde interest tot maximaal 3 jaar",
+		"id": "f8f8a254-85aa-47bd-b37f-74109964e8e1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"3225cf80-8caa-4ece-97ff-6ae580ab53eb"
+		],
+		"title": "overdrachten",
+		"id": "da475016-d947-45c4-a81c-e0e68cc80464",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"bae62653-5c16-4396-bed4-54ba03e48f2d"
+		],
+		"title": "overdrachten",
+		"id": "cd12b8a4-2ebe-4a60-818b-ea44be212bfb",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"73f7792e-baf0-4f5e-a180-0f20b0f0b626"
+		],
+		"title": "overdrachten",
+		"id": "217b195a-9607-4e85-bdb8-bbe100e4b364",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"977c514d-a817-42bf-af69-6a454eb5fc5d"
+		],
+		"title": "inkomensverschillen, koopkracht, preferenties",
+		"id": "c80f55c4-7bb1-4172-b43e-d6eccb5de37b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"7dd41626-4c47-4edd-9147-73735fce4281"
+		],
+		"title": "personele inkomensverdeling, modaal inkomen, lorenz-curve, koopkracht, preferenties",
+		"id": "d70db63b-951d-4fda-8055-94612f69342c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"860435b1-7aac-4e0d-bb55-996145180e4e"
+		],
+		"title": "personele inkomensverdeling, modaal inkomen, lorenz-curve, koopkracht, preferenties",
+		"id": "efdc396a-013f-4b3a-850f-a892fc86a3d6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"3664c634-fb22-4507-966d-cdd8b6e3c304"
+		],
+		"title": "personele inkomensverdeling, modaal inkomen, lorenz-curve, koopkracht, preferenties",
+		"id": "d1c02372-7f65-43fe-8798-a0cf8f640776",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"303453c4-9e79-480f-b969-7777ba2b91a5"
+		],
+		"title": "machtspositie",
+		"id": "d26f9e99-55d3-4766-9ab5-87322ad4f341",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"952e1d98-e6cf-48ce-bf84-2f69ad2201f1"
+		],
+		"title": "machtspositie",
+		"id": "3b078abd-2573-48ee-b425-26a9e9db3fb3",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"6704faab-1578-4b50-bb52-53e69373b07f"
+		],
+		"title": "machtspositie",
+		"id": "ee7491a3-6032-4fee-9a9c-c06084a482cc",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"3960d045-94aa-48bc-b3cf-59603eb74443"
+		],
+		"title": "sociale beïnvloeding en marketingbeleid",
+		"id": "c99110d7-e350-4e4a-85fa-7abfe4eeff87",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"531eb20a-1060-4641-b1bb-9db3236c80e3"
+		],
+		"title": "sociale beïnvloeding en marketingbeleid",
+		"id": "71097d77-6456-4c10-890d-42c31206a3c0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"a565cc82-1821-48ed-8f26-3468e4e17de1"
+		],
+		"title": "sociale beïnvloeding en marketingbeleid",
+		"id": "6ebc385c-580b-4ede-b6fb-fd59d2e1436e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"3c6a0063-371d-4719-9e9c-df151ec30083"
+		],
+		"title": "sociale beïnvloeding en marketingbeleid",
+		"id": "b542313d-862f-48eb-910c-e7de4608c616",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"707df42e-dbed-4940-9ccb-e3a0c1cc1f80"
+		],
+		"title": "maatschappelijke gevolgen",
+		"id": "65de25a1-987f-44f2-a0cb-f1c3820905f0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"ef582357-f728-4eac-9e61-fe747da9e166"
+		],
+		"title": "maatschappelijke gevolgen , positieve en negatieve externe effecten",
+		"id": "fc962598-8168-45d0-afc4-d01fa0e8df9f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"6789cba1-dedf-4728-bc26-f2d7ac0fee29"
+		],
+		"title": "maatschappelijke gevolgen , positieve en negatieve externe effecten",
+		"id": "bf08ed9e-8f8c-4d94-89d5-04ae3982c826",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"0fef8879-f346-4529-9aa0-787d314776cc"
+		],
+		"title": "maatschappelijke gevolgen , positieve en negatieve externe effecten",
+		"id": "6b656a3f-e9c0-4ffb-8bec-29a1347b83c0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"85eaa6f3-ae29-4ee8-8ce0-5e3d5e4fc97a"
+		],
+		"title": "normen en waarden",
+		"id": "b0a1ee2f-63cb-48f0-8209-717e6d537f38",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"5416e76d-2427-4b85-8709-2f6b4345cc4f"
+		],
+		"title": "normen en waarden",
+		"id": "bfc3f395-b850-4e7e-9ef2-ebe4300a8d78",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"444fa486-c04e-47a9-b69f-fc9475e01a07"
+		],
+		"title": "normen en waarden",
+		"id": "49c6181d-ceec-4778-9f23-e8aac17e76b2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"85f024d1-68ba-40e2-9a54-4f3e897c8598"
+		],
+		"title": "normen en waarden",
+		"id": "3d9a499f-4b7d-4097-af63-a1df1d933bc6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"15c24888-fb95-40da-88d2-6256d8a842e0"
+		],
+		"title": "import, importwaarde, exportwaarde, wisselkoersen",
+		"id": "5e1fe4de-881b-4849-9913-215b62cee2a2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"1d0fa338-50c3-4270-a3c0-f279175c8c02"
+		],
+		"title": "import, importwaarde, exportwaarde, wisselkoersen, internationale concurrentiepositie en importquotum",
+		"id": "d9f7c428-fcbb-4d54-9c27-9dd262cbea37",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"02ab6ffa-d039-4b10-b715-0911323f683f"
+		],
+		"title": "import, importwaarde, exportwaarde, wisselkoersen, internationale concurrentiepositie en importquotum",
+		"id": "c4a1fff7-444e-4c64-b26d-8d6a699e083a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"b43c0c30-e0c5-45ff-8134-93af70c4cb68"
+		],
+		"title": "import, importwaarde, exportwaarde, wisselkoersen, internationale concurrentiepositie en importquotum",
+		"id": "61f0d4b1-23b1-45e4-926e-3d7ca66f8b4b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"6bddff72-bdbb-44c4-86fb-19557df026af"
+		],
+		"title": "export, doorvoer",
+		"id": "af16978d-20b0-4354-90c2-45d1aa64d3d0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"b1f58a22-e022-40fd-bd2e-ab812170fe6c"
+		],
+		"title": "export, doorvoer, protectionisme, invoerrechten, invoerquota, invoerverboden, exportsubsidies",
+		"id": "efe0d9c9-7117-4a08-96c5-054a7be0087f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"66f97d5e-5438-4218-ae8c-8b11db1bd7e4"
+		],
+		"title": "export, doorvoer, protectionisme, invoerrechten, invoerquota, invoerverboden, exportsubsidies",
+		"id": "a976b6af-8c14-43c1-a7ad-a39d288c7248",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"58336859-b7d7-4266-8c84-4d39971c9814"
+		],
+		"title": "export, doorvoer, protectionisme, invoerrechten, invoerquota, invoerverboden, exportsubsidies",
+		"id": "b140d56c-80ee-4f90-bb8a-76819e092cde",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"2c0fb4bb-d324-43c6-a983-d3e98f6ae668"
+		],
+		"title": "open economie, gesloten economie",
+		"id": "47627d61-df3a-4cc1-a12d-fe30c020fb64",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"7ea1313e-43e3-40f7-871f-d46a377e1b86"
+		],
+		"title": "open economie, gesloten economie, internationale welvaart",
+		"id": "5b5a9fb9-ab19-498f-beb1-73898c63adc0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"7a00dbd1-63c8-4366-8a51-8d12a8c69220"
+		],
+		"title": "open economie, gesloten economie, internationale welvaart",
+		"id": "4ddff1a8-e9cd-40bf-b0a8-154ffb981d8d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"08487036-fc18-4068-830e-0b3f03012bd6"
+		],
+		"title": "open economie, gesloten economie, internationale welvaart",
+		"id": "a0969b87-39d8-42e1-a081-64d6342cf22d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"a68f273a-026a-45ed-a24a-0c8603c7fcea"
+		],
+		"title": "import, export, open economie, werkgelegenheid",
+		"id": "1233aee7-4230-4ed3-b03e-1d0cec48dca9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"7c0decd2-b5e3-4fe2-8eb5-47d74b2a3010"
+		],
+		"title": "import, export, open economie, werkgelegenheid",
+		"id": "98c66646-f381-4301-9370-ff4e5b745762",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"0e1275c0-13ef-4559-8fe3-055ef90e037b"
+		],
+		"title": "import, export, open economie, werkgelegenheid",
+		"id": "c0ba41cc-1a39-4d90-87a9-dabf5211f586",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"2e3703b2-01ec-44c9-8437-b2d979ed84ac"
+		],
+		"title": "import, export, open economie, werkgelegenheid",
+		"id": "6ab9a603-a0c2-4ed4-8827-dd73eecac5d0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"fef1378a-ba21-41fb-9b13-5d9cc6d4b004"
+		],
+		"title": "import, export, open economie, werkgelegenheid",
+		"id": "9d17a3a9-1377-4595-b4e4-f6063a3d4b02",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"5f656437-1fc0-483c-9244-27628efb5399"
+		],
+		"title": "import, export, open economie, werkgelegenheid",
+		"id": "08811c86-a65c-4761-9652-f58c02501aec",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"c0793a1b-1ab8-4d8f-9002-629c930bff8a"
+		],
+		"title": "import, export, open economie, werkgelegenheid",
+		"id": "f62199ce-e82b-4b9a-977d-b09f4b43cfa0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"8fe00487-6af8-4138-a7ef-030cb81ea168"
+		],
+		"title": "import, export, open economie, werkgelegenheid",
+		"id": "09fbdad3-9be0-42e1-9687-169948fb8adc",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"fabe8e19-7955-40cd-9516-a7de02c03d12"
+		],
+		"title": "import, export, open economie, werkgelegenheid",
+		"id": "95b4b399-4eaa-472e-ae95-f240c6baa60d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"9a02ed81-3487-4a09-ad0c-c49e826234d6"
+		],
+		"title": "import, export, open economie, werkgelegenheid",
+		"id": "0610cc81-1ef4-426d-afb8-d3bb9ddc8a98",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"9d110086-5d29-4cfe-9a42-fb152308b0fa"
+		],
+		"title": "import, export, open economie, werkgelegenheid",
+		"id": "af6a5a13-3037-4c36-878b-5986910a78f8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"8bb4a7aa-a6df-4783-af33-4dfe7b15f2c0"
+		],
+		"title": "import, export, open economie, werkgelegenheid",
+		"id": "f3c15fee-63b4-44be-9edf-9bbfbac6355c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"4c1ea218-9b82-4295-a010-63fd0266ed69"
+		],
+		"title": "interne waarde, externe waarde",
+		"id": "ae32a4fc-b360-485f-b0f9-015be0c84777",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"35b5620e-0383-47e6-99df-8a4428e39936"
+		],
+		"title": "interne waarde, externe waarde",
+		"id": "0f867367-76c5-470b-8642-270f14c2090e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"2517c6e0-14e7-485c-a80a-90e8e3da71c5"
+		],
+		"title": "interne waarde, externe waarde",
+		"id": "6d919451-ba5a-4c68-b5c6-a463287b309f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"a296997c-fc35-4747-a59d-faa9bb79de33"
+		],
+		"title": "import, export, open economie, werkgelegenheid",
+		"id": "2566f22b-5f8b-4021-9a17-6b87ed253a50",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"2f43c00d-1fc7-4eb1-8904-8cb8f4152bf3"
+		],
+		"title": "import, export, open economie, werkgelegenheid",
+		"id": "4ebccdf9-4c05-4114-af5f-4c5a54cc7d64",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"72de9172-5319-4928-a42c-a8288bdb25c5"
+		],
+		"title": "import, export, open economie, werkgelegenheid",
+		"id": "070e479a-5f0f-45e0-af1a-606dc7c276ee",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"347481f7-b637-43e9-863e-3c7dc6f5ff77"
+		],
+		"title": "import, export, open economie, werkgelegenheid",
+		"id": "7cbba2f0-8b6d-482c-ae3f-110b77a6311c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"746b98b0-c6a8-49a4-8bf8-5671f26e07ac"
+		],
+		"title": "laag inkomen per hoofd, werkloosheid, ondervoeding, snelle bevolkingsgroei, analfabetisme.",
+		"id": "c2463927-b948-4bd2-ab02-eae0d13d23da",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"801e669d-0fe0-4f36-9068-a7a3dfc09efa"
+		],
+		"title": "laag inkomen per hoofd, werkloosheid, ondervoeding, snelle bevolkingsgroei, analfabetisme, beperkte technische ontwikkeling, eenzijdige economische structuur, slechte positie op de wereldmarkt - monoculturen",
+		"id": "6880f0c2-683a-400c-89b1-de0ae2316df7",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"09469b5d-73ad-471e-acf1-48b519c95e27"
+		],
+		"title": "laag inkomen per hoofd, werkloosheid, ondervoeding, snelle bevolkingsgroei, analfabetisme, beperkte technische ontwikkeling, eenzijdige economische structuur, slechte positie op de wereldmarkt - monoculturen",
+		"id": "1c93771c-aba3-426f-8396-b572f485bfe7",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"5eee5bbd-d252-4cf3-b65e-2f550860da57"
+		],
+		"title": "laag inkomen per hoofd, werkloosheid, ondervoeding, snelle bevolkingsgroei, analfabetisme, beperkte technische ontwikkeling, eenzijdige economische structuur, slechte positie op de wereldmarkt - monoculturen",
+		"id": "b77d027b-8d49-4408-af59-ba84fc7ca6f2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"1b44b756-fe8b-40fe-ac82-f6fe9822e14c"
+		],
+		"title": "tekort aan natuurlijke hulpbronnen, beperkte scholing en technische kennis, gebrekkige infrastructuur, snelle bevolkingsgroei. Armoede, werkloosheid, lage levensverwachting",
+		"id": "25a43cf8-d004-4b95-980d-eea1ed2c9a42",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"c62471d1-f872-4ae1-9c37-dd9ea21b5dae"
+		],
+		"title": "tekort aan natuurlijke hulpbronnen, beperkte scholing en technische kennis, gebrekkige infrastructuur, snelle bevolkingsgroei. Armoede, werkloosheid, lage levensverwachting, protectionisme van de rijke landen; internationale schuldverplichtingen; rampen en conflicten; politieke instabiliteit; internationale schudenproblematiek; politieke instabiliteit",
+		"id": "2a023978-f897-4003-aad1-d1ae2bdfbd38",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"392a172c-9547-4848-810c-1c047b8117f1"
+		],
+		"title": "tekort aan natuurlijke hulpbronnen, beperkte scholing en technische kennis, gebrekkige infrastructuur, snelle bevolkingsgroei. Armoede, werkloosheid, lage levensverwachting, protectionisme van de rijke landen; internationale schuldverplichtingen; rampen en conflicten; politieke instabiliteit; internationale schudenproblematiek; politieke instabiliteit",
+		"id": "7e2fa3cd-c62c-45b7-a1c7-6dea8a802318",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"9738bdbe-561f-4ae4-b933-e4c6c4154dc0"
+		],
+		"title": "tekort aan natuurlijke hulpbronnen, beperkte scholing en technische kennis, gebrekkige infrastructuur, snelle bevolkingsgroei. Armoede, werkloosheid, lage levensverwachting, protectionisme van de rijke landen; internationale schuldverplichtingen; rampen en conflicten; politieke instabiliteit; internationale schudenproblematiek; politieke instabiliteit",
+		"id": "7f2becfc-e5bc-4e89-8df9-56d35bad83f7",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"0e309d01-8356-4080-943c-9dabd15312c3"
+		],
+		"title": "vicieuze cirkel armoede",
+		"id": "cdb8b284-db84-40f3-8900-d0131d74d6ee",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"c0dbeb88-a9c9-4d9f-a5ef-24c5cbcabd3f"
+		],
+		"title": "vicieuze cirkel armoede",
+		"id": "5ad02de2-d9d7-442c-974f-ee0578c3eb95",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"f5dd6c00-c5e2-4d5d-a72d-d9aef5370709"
+		],
+		"title": "vicieuze cirkel armoede",
+		"id": "400f1551-6d77-420c-8630-0c5e7116ef6a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"8b6d7162-5ad0-4246-b910-d9185f1f1bf1"
+		],
+		"title": "welvaartsvergelijking, zelfvoorziening, onbetaalde productie, prijspeil land",
+		"id": "f915f665-fd5c-491c-9692-94128463f9cc",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"6ca9bd5f-226b-4d3f-b4df-54ba2611e216"
+		],
+		"title": "welvaartsvergelijking, zelfvoorziening, onbetaalde productie, prijspeil land",
+		"id": "b0229f20-7672-46dc-a379-172d18e45afd",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"65a3541e-7739-43b3-9ef6-07a22930b805"
+		],
+		"title": "welvaartsvergelijking, zelfvoorziening, onbetaalde productie, prijspeil land",
+		"id": "515eb61d-0859-474e-87fe-d310b94bec82",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"d264e6ce-f662-4bb0-ade4-246820013448"
+		],
+		"title": "welvaartsmaatstaf, zelfvoorziening, onbetaalde productie, prijspeil land",
+		"id": "6be741ae-2682-4a2b-a84e-4eb1ba6851c7",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"62861511-3276-4540-93e4-e218eb784a2d"
+		],
+		"title": "welvaartsmaatstaf, zelfvoorziening, onbetaalde productie, prijspeil land",
+		"id": "27c4d03e-c29f-4994-b102-e2b28cb32fe0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"35da102f-3c9c-4a1c-ab83-e9e6950a13b0"
+		],
+		"title": "welvaartsmaatstaf, zelfvoorziening, onbetaalde productie, prijspeil land",
+		"id": "3fb25945-f0da-4a4c-a9b9-67bd97e45fba",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"8b6c6513-d954-43cf-93d7-1a15e094d1aa"
+		],
+		"title": "vermindering invoerrechten, gebonden hulp",
+		"id": "a860b132-4273-42d8-9f9d-754523e3be0c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"56fae894-1991-4cb2-a7f2-9c15e67203d4"
+		],
+		"title": "vermindering invoerrechten, gebonden hulp",
+		"id": "2243e5bb-adf3-4bf3-9701-d5e32c570786",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"cd9810a7-f458-4709-8843-6c4a37caaf51"
+		],
+		"title": "vermindering invoerrechten, gebonden hulp",
+		"id": "a4a13f80-1ac5-45f5-a2d3-34a407fa9952",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"3a2cb6e0-e29c-46c0-a576-0132c7f1fb11"
+		],
+		"title": "vermindering invoerrechten, gebonden hulp",
+		"id": "1a1799ab-aa38-4542-8b36-aaecabb5917b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"201a7aec-c8a7-4d5a-85b9-1c546de113b8"
+		],
+		"title": "grondstoffenovereenkomsten",
+		"id": "99e65c90-fda7-4f53-a712-59b00da75b65",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"8195f72c-6d2a-40a2-9d71-7c6080402b82"
+		],
+		"title": "grondstoffenovereenkomsten",
+		"id": "77f721ed-8b79-4a70-acdd-dc4b62c2020a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"964e07a9-3eec-4a34-b702-a086c233da53"
+		],
+		"title": "grondstoffenovereenkomsten",
+		"id": "3cf63d54-eb77-46b5-8e83-3b66f04c41ab",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"9760e99e-745c-49f7-97f6-68426e156102"
+		],
+		"title": "noodhulp, buitenlandse investeringen, giften",
+		"id": "85899219-7ea4-4996-abeb-307a432883cd",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"5e7541ef-6c0d-455b-bbe3-9969457d6b90"
+		],
+		"title": "noodhulp, buitenlandse investeringen, giften, noodhulp, structurele hulp, gebonden en ongebonden hulp en bilaterale hulp + kwijtschelding schulden",
+		"id": "081db0c5-66d5-4055-9ade-55dd68e1de3c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"3f4e61e6-ce56-4811-bdc1-fd49a3433a89"
+		],
+		"title": "noodhulp, buitenlandse investeringen, giften, noodhulp, structurele hulp, gebonden en ongebonden hulp en bilaterale hulp + kwijtschelding schulden",
+		"id": "6a6ec1bb-afd5-44d3-b78e-bd13681405f4",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"6d177376-ef99-4408-addd-02c8881b9404"
+		],
+		"title": "noodhulp, buitenlandse investeringen, giften, noodhulp, structurele hulp, gebonden en ongebonden hulp en bilaterale hulp + kwijtschelding schulden",
+		"id": "b1d9e9eb-6e18-4bfd-901a-003e0cdff145",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"dd9b5422-10cb-4cae-9a0e-c081def00f40"
+		],
+		"title": "WHO, IMF, Wereldbank",
+		"id": "c950e465-1644-43cf-bdbd-9a74f97fc747",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"341691db-6227-4b2a-8c5b-377705ca705f"
+		],
+		"title": "WHO, IMF, Wereldbank",
+		"id": "4fad9563-7373-4676-9566-e03f8a90050c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"7f99d497-9c23-4006-86ea-5cf26ae6ccc1"
+		],
+		"title": "WHO, IMF, Wereldbank",
+		"id": "5150ec74-5863-40c0-837c-dd95c0302835",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"67110f80-8cd7-4b87-86b7-dec4c34fdaa2"
+		],
+		"title": "NGO",
+		"id": "55e7d515-2778-4312-aa64-2012eae0bc75",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"95e5d9ac-77ae-4d35-8ec4-7b9e14a4b4a1"
+		],
+		"title": "NGO",
+		"id": "bc353559-8ef3-4c33-be9f-f2d5ab49a133",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"ef063248-fafe-4594-99e6-4690495346a0"
+		],
+		"title": "NGO",
+		"id": "7eb9f875-7652-472c-a09c-51491430c86f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"27a0c723-b9eb-405f-a046-870c794e6f93"
+		],
+		"title": "noodhulp en structurele hulp, hulp in relatieve en absolute zin",
+		"id": "8b661b62-0992-4287-8436-78a7f8fb4cdc",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"885d354a-a481-4d0b-9aae-566cbb73c7ba"
+		],
+		"title": "noodhulp en structurele hulp, hulp in relatieve en absolute zin",
+		"id": "6ebc4f9f-6154-47a2-af10-5d4a4a24becd",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"0884cfd2-ab4e-4a3d-bd88-ca911ead3a23"
+		],
+		"title": "noodhulp en structurele hulp, hulp in relatieve en absolute zin",
+		"id": "404b782a-60aa-490a-8441-c88234201f92",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"7d06a959-19e2-4f96-8392-598e483a783c"
+		],
+		"title": "maatschappelijke kosten en baten; bedrijfskosten",
+		"id": "21f3abaa-00c8-41d4-a7cf-90ad4e2360de",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"47d4f191-f95a-4ad1-a691-a2b394628828"
+		],
+		"title": "maatschappelijke kosten en baten; bedrijfskosten + MVO en externe effecten",
+		"id": "0ff19cd5-f0a3-4c84-8554-6d53fa07352a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"3e2e6d84-4809-4508-9d81-3f22accca77c"
+		],
+		"title": "maatschappelijke kosten en baten; bedrijfskosten + MVO en externe effecten",
+		"id": "dcf686f4-8ef8-48b8-b9d4-477084851b0a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"2582074c-6ea5-4b87-88ce-bacfd07a3c20"
+		],
+		"title": "maatschappelijke kosten en baten; bedrijfskosten + MVO en externe effecten",
+		"id": "a8de523e-2df0-4d51-84d3-12adfc197102",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"b6b1e034-6851-4da0-855e-8a96f22548cf"
+		],
+		"title": "bevolkingsgroei, inkomen, productie",
+		"id": "def170b5-5501-4044-86a5-7752b84c6a4a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"8d9f1b9f-d9c4-4c3c-a2ee-a3b22c140c98"
+		],
+		"title": "bevolkingsgroei, inkomen, productie",
+		"id": "807a04a0-6e9a-4c68-8106-c58804f699e2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"52efe083-9578-4e51-b858-d58e3d3a66c1"
+		],
+		"title": "bevolkingsgroei, inkomen, productie",
+		"id": "8e8dd187-1634-4409-ae6f-7a59a27dfe81",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"d40ad925-5db6-4fca-94d0-b285936b4886"
+		],
+		"title": "bevolkingsgroei, inkomen, productie",
+		"id": "c7a9443a-7ec3-4845-b955-0c83fcd9f438",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"73600e3a-a4da-4bee-be03-7e0b75198a5f"
+		],
+		"title": "beslag op schaarse grondstoffen, vervuiling van lucht, water en bodem",
+		"id": "8c74ee36-3908-4056-bfd2-af1f8e531e8e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"b33b1b8d-693e-4ae6-8e59-3dacf7dae29b"
+		],
+		"title": "beslag op schaarse grondstoffen, vervuiling van lucht, water en bodem",
+		"id": "6ead0d46-2dd9-4dd6-b981-b04c3601de01",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"92ad4af0-23aa-4d7a-8cea-61acd706bebd"
+		],
+		"title": "beslag op schaarse grondstoffen, vervuiling van lucht, water en bodem",
+		"id": "9a897969-0d3c-4340-89b7-1b8dd2bc9ba4",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"39b7758d-964b-4dfb-9564-0e3c68b2d0f3"
+		],
+		"title": "beslag op schaarse grondstoffen, vervuiling van lucht, water en bodem",
+		"id": "b046ea31-ee80-47c4-bc74-5a8b982efa03",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"07f10c4c-bd58-40e1-9abf-3c2086563e82"
+		],
+		"title": "milieuvriendelijke productie, voorlichting, hergebruik, internationale samenwerking",
+		"id": "3ec81bce-1d93-4552-9b2d-2c7139516fbf",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"a98cfdf6-a8a8-4820-9524-95dcd91ab990"
+		],
+		"title": "milieuvriendelijke productie, voorlichting, hergebruik, internationale samenwerking",
+		"id": "0bbe7a39-4b99-41f5-8913-2048bf841fe2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"74c70df6-4c13-45c0-b556-312c103df664"
+		],
+		"title": "milieuvriendelijke productie, voorlichting, hergebruik, internationale samenwerking",
+		"id": "7de502da-6746-4336-b3ae-5dd509473267",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"6708427b-6f5e-4f28-bad0-580e69fde092"
+		],
+		"title": "milieuvriendelijke productie, voorlichting, hergebruik, internationale samenwerking",
+		"id": "70dcc803-52ce-4d48-b097-a5b323af7a6a",
+		"unreleased": true
 	}
 ]
