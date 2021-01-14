@@ -238,5 +238,26 @@
 		"title": "Economie",
 		"id": "45023834-da3d-4fa6-972c-7f998c55a0f9",
 		"unreleased": true
+	},
+	{
+		"prefix": "gs",
+		"vakleergebied_id": "1c445505-16f2-4d3f-b6cf-8623ca317140",
+		"ldk_vakkern_id": [
+			"d43ed8c8-c8ad-4534-9906-fad0441623c6",
+			"1e9c9899-aab2-4dcc-86b8-26568e8d925d",
+			"8e07d979-18cb-41ea-8a6d-5b160d0c38fa",
+			"18fd61d4-a98d-4d12-9cc9-e66848590ade",
+			"af2735b1-5d86-48b4-8f32-852240e5d536",
+			"caf4c75f-d8bb-44a5-8e80-7d9dbd1515e6",
+			"99f5add1-993a-4d18-bd7f-3b172040011f",
+			"821ce4e4-22b2-4489-a590-ca5f3c775b48",
+			"e75ae8ad-017b-4ef5-bc03-84c67216c90a",
+			"e01e74c3-97aa-49ce-a502-101f713f7a69",
+			"f3c98c0b-4a8c-495e-b6a5-788e43686ff1",
+			"b4df47ac-8777-4f33-97cd-30148c07d1e1"
+		],
+		"title": "Geschiedenis",
+		"id": "edb2383a-618c-467e-bccd-b0bab8b10218",
+		"unreleased": true
 	}
 ]
