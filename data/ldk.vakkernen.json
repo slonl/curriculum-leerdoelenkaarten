@@ -1693,5 +1693,103 @@
 		"title": "Kijken en luisteren",
 		"id": "21f50baa-2341-4a87-a045-4cddc8037b84",
 		"unreleased": true
+	},
+	{
+		"prefix": "en/1",
+		"lpib_vakkern_id": "7427a6d7-678b-4dc4-a977-618c81072e85",
+		"ldk_vaksubkern_id": [
+			"17b2cdf2-ddc9-4b28-84de-49d899212a3c",
+			"2f39f7c3-6184-4db5-a41d-7ca4614b7ca1"
+		],
+		"doelniveau_id": [
+			"b98ee5f5-ad90-4ec5-a6b2-1b7565110710",
+			"3b7fec39-c7ff-4a1c-babb-a7f845b93946",
+			"376cc3ac-89f6-4c6f-9155-3ca2e0fc15ef",
+			"0b2a0d0d-56a2-4c14-b9e3-c7e5da2cc19c",
+			"cf09ff06-74fc-43f5-b623-2a0e11bd55c8",
+			"efad26f4-47bf-46f7-9a28-fa0ec17bbe19",
+			"e3e21b9c-187d-45b6-8b6e-191a8d56b261"
+		],
+		"title": "Gesprekken voeren",
+		"id": "b7bfa8bd-bf75-45df-9f13-90cd4dcab734",
+		"unreleased": true
+	},
+	{
+		"prefix": "en/2",
+		"lpib_vakkern_id": "1a4f280a-d3d9-4d88-9d53-f7056e766194",
+		"ldk_vaksubkern_id": [
+			"0c3f5c2c-db12-4279-b54d-0c8fba2d892b",
+			"b6e9d2ee-eb4b-4d34-b7db-e321472af236"
+		],
+		"doelniveau_id": [
+			"b98ee5f5-ad90-4ec5-a6b2-1b7565110710",
+			"157e9ccd-f8a3-44ea-b4d3-479d747ce14d",
+			"0c34651f-325f-4378-9eea-466fbc319180",
+			"8b4b4e0f-2335-46d7-9d8c-27f60aa1a3a4",
+			"becd7603-4792-4c3c-af26-cd3d0e94bc10",
+			"59916dd0-64fa-468d-adce-622bba67987b"
+		],
+		"title": "Spreken",
+		"id": "a8f41aff-7d8d-4d1e-8f53-3246d5e14c38",
+		"unreleased": true
+	},
+	{
+		"prefix": "en/3",
+		"lpib_vakkern_id": "f60c14af-2b8b-425d-9aec-fbbd5aa04933",
+		"ldk_vaksubkern_id": [
+			"9233590a-4763-4a03-aa3f-34dcff8ee7a0",
+			"cc083fb1-2882-4ee0-9120-ef59c8a0b0dd"
+		],
+		"doelniveau_id": [
+			"b98ee5f5-ad90-4ec5-a6b2-1b7565110710",
+			"964f69b7-20a0-47e0-924d-de9e8d7a9038",
+			"0c34651f-325f-4378-9eea-466fbc319180",
+			"117d57e7-858b-46a2-8020-95052510d3b5",
+			"becd7603-4792-4c3c-af26-cd3d0e94bc10",
+			"413fb03d-7edd-4130-9b81-0d801cf62cbe"
+		],
+		"title": "Schrijven",
+		"id": "f3707085-bbdb-41fd-a26a-f5697d40aaaa",
+		"unreleased": true
+	},
+	{
+		"prefix": "en/4",
+		"lpib_vakkern_id": "256fbcbc-cc70-4694-a216-974abdeb6063",
+		"ldk_vaksubkern_id": [
+			"d77a6c31-be38-47b3-af17-91550e55bf61",
+			"72be3bf1-cdd9-4819-8f1b-716fe1572186"
+		],
+		"doelniveau_id": [
+			"b98ee5f5-ad90-4ec5-a6b2-1b7565110710",
+			"907dbbaf-4ab1-4d06-83c9-3d687e7d6cd1",
+			"4f613226-698a-44a8-96b4-84a01800ea24",
+			"c6d66ddf-d86d-42ce-b7bb-d3aa19b53fe8",
+			"cf09ff06-74fc-43f5-b623-2a0e11bd55c8",
+			"f70c5fbd-6806-4671-836f-be2df3200f25",
+			"e3e21b9c-187d-45b6-8b6e-191a8d56b261"
+		],
+		"title": "Lezen",
+		"id": "cc5959bb-7128-4d2b-aec0-8c87e2d42fdd",
+		"unreleased": true
+	},
+	{
+		"prefix": "en/5",
+		"lpib_vakkern_id": "18b4d6fc-c032-4d07-9bc8-7ff85691d719",
+		"ldk_vaksubkern_id": [
+			"44826f68-75c7-49c2-be14-25d5df94b378",
+			"4b949406-f973-4cbf-a1ce-24a9b54ae44c"
+		],
+		"doelniveau_id": [
+			"31a2f739-6336-4835-8687-6553b1d7cfae",
+			"ca12110e-e640-4a54-a50e-4f48238d048d",
+			"90a5d3f5-edf9-4b61-a949-87bfcfee8c0d",
+			"f757ba5b-0f6f-4148-9996-667fa95194e3",
+			"0c34651f-325f-4378-9eea-466fbc319180",
+			"9825605a-c767-4414-ad69-f6981ac1d001",
+			"ae8f3990-c010-4074-9377-abf94fdd88b7"
+		],
+		"title": "Kijken en luisteren",
+		"id": "fb1c30ac-147e-48bb-9aea-c85ae39dfd10",
+		"unreleased": true
 	}
 ]
