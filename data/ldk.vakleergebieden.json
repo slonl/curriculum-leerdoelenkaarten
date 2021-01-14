@@ -213,5 +213,30 @@
 		"title": "Engels",
 		"id": "9db0f649-ba16-4885-ae88-c8dbc671debd",
 		"unreleased": true
+	},
+	{
+		"prefix": "ec",
+		"vakleergebied_id": "8755f202-3f28-405d-929e-990ee4fdc521",
+		"ldk_vakkern_id": [
+			"a1303c30-d55e-4ea3-817d-b413add474e6",
+			"2dc46e61-6ee9-4604-86d7-8cc6d60b6929",
+			"a1bf680e-feb7-4212-b60c-52274326a814",
+			"2e54776c-9cf4-4a04-9e5e-984748467467",
+			"2d83f1dc-3874-40fc-bf55-a9ff3d729e1d",
+			"f512ceb4-b581-4b5b-a03d-ca5f2fad1837",
+			"6dcded8b-0bee-476a-8ddf-1027e04f63bd",
+			"3305735c-2f03-4207-98f9-90b791a98f78",
+			"f40b9f5e-6b90-473f-8d1f-1fc7939ffd31",
+			"6311b5c0-73e4-431c-8617-a23f7ee2dd1c",
+			"23c2f5be-3193-4096-b723-fa93d08c556d",
+			"f42d5ef7-3ea5-4da5-a2e0-c2638a8c4e83",
+			"bf9c29d5-3381-4da4-bbdf-b6ec4a92d26d",
+			"0782985c-8b4f-493a-9e32-61697b8c4b6e",
+			"63b18cb1-c535-46ac-8615-88fe3fba744d",
+			"c83daff4-9b34-4e2b-97c2-41945e827d90"
+		],
+		"title": "Economie",
+		"id": "45023834-da3d-4fa6-972c-7f998c55a0f9",
+		"unreleased": true
 	}
 ]
