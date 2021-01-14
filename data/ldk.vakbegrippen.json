@@ -25375,5 +25375,3176 @@
 		"title": "milieuvriendelijke productie, voorlichting, hergebruik, internationale samenwerking",
 		"id": "70dcc803-52ce-4d48-b097-a5b323af7a6a",
 		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"70585f94-a050-4350-86be-84e7c4c35d55"
+		],
+		"title": "jagers- verzamelaars, nomaden",
+		"id": "6170b461-80a2-4d9e-a746-4aaca87344e6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"c2d3c44f-6745-4f97-b159-f7001ddb8819"
+		],
+		"title": "prehistorie, jagers,  verzamelaars,  nomaden",
+		"id": "03dff6a4-f920-41b4-8542-f13206080a85",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"b5c3bdbf-ded4-44c8-bba6-a92a6cd21bd4"
+		],
+		"title": "prehistorie, jagers,  verzamelaars,  nomaden",
+		"id": "e85983d8-7c89-4ac3-8a50-9b3e87ee35be",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"9c83f8be-d763-4f37-bbcf-3454c11ce003"
+		],
+		"title": "landbouw, landbouwsamenlevingen, Hunebedden, agrarische revolutie",
+		"id": "ffab04ea-0ac4-4b8f-aecb-15d2ebb7b2a8",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"063586d4-1618-44dc-bc2c-c616715065f2"
+		],
+		"title": "prehistorie, schriftelijke bronnen",
+		"id": "7c52654a-9e86-4d2d-953d-87cd3fee75ff",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"f53925c0-09f2-44cb-8c38-2c6dd727e24d"
+		],
+		"title": "boeren, agrarisch, agrarisch-urbaan, landbouwsamenleving, de agrarische revolutie, arbeidsdeling, sedentair",
+		"id": "f0594ec0-18c2-4a38-99f7-cf34fe23c2f3",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"e043c0b3-4ac1-454e-87f7-c35e47eeb933"
+		],
+		"title": "boeren, agrarisch, agrarisch-urbaan, landbouwsamenleving, de agrarische revolutie, arbeidsdeling, sedentair",
+		"id": "66b26361-ea7b-4476-b60d-8eeca183d04a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"ee330854-0523-400e-a947-dcee955f2d2a"
+		],
+		"title": "stad",
+		"id": "9c132308-b528-409d-9bb2-aad81881e3c9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"ca03ca21-2782-4c18-b02d-dae1f56c7683"
+		],
+		"title": "primaire bronnen, secundaire bronnen, ongeschreven bronnen, geschreven  bronnen",
+		"id": "6b758679-9984-445f-86ea-f765612d7b8a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"43be3743-1755-474b-96eb-fde399ca9281"
+		],
+		"title": "stad",
+		"id": "ebed4092-7c84-4a75-acc4-19b11c0f742f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"c395e40d-165d-4a07-9c4c-ce24c3e40e42"
+		],
+		"title": "primaire bronnen, secundaire bronnen, ongeschreven bronnen, geschreven  bronnen",
+		"id": "e8372509-6e88-44ce-b27e-059eb975e78c",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"6a55eeb9-a4fe-4b1e-97ae-9aec9b9dca3f"
+		],
+		"title": "Grieks-Romeinse cultuur, Germaanse cultuur",
+		"id": "de8afb7a-26ec-48e8-ba99-cf6f69fe907b",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"8ac14016-128b-4fa0-b68f-c76de4b890aa"
+		],
+		"title": "Romeinse Limes",
+		"id": "89f4ce3d-6532-40c4-963e-32f25057b49e",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"d9122e95-3961-4a51-9ea6-dd8ba34e868b"
+		],
+		"title": "Christendom, Romeinse rijk, godsdienst",
+		"id": "15f5bca9-2c7b-419a-a8e7-38c7c0f88f3d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"423e4c21-0a73-452f-88a7-cdaaf8ba8a83"
+		],
+		"title": "politiek, wetenschap, stadstaat, burgerschap",
+		"id": "364c78fc-ea7b-407c-b9a3-6f1cb0bb84b8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"eb9122e3-6a25-4e82-ae24-61365181ad1c"
+		],
+		"title": "politiek, wetenschap, stadstaat, burgerschap",
+		"id": "553ce40e-d0c2-4556-85ac-dd5a84af42ce",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"7e567faa-6155-465c-801c-cbf6f79bc551"
+		],
+		"title": "beeldhouwkunst, bouwkunst, architectuur, klassiek, cultuur",
+		"id": "57dcc136-2317-4495-b614-71f83c16282b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"f85d7f5b-f937-41f6-9e45-7962ae4f1743"
+		],
+		"title": "beeldhouwkunst, bouwkunst, architectuur, klassiek, cultuur",
+		"id": "3b8609fd-30ff-4bc3-8c9a-57384ffbd55c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"54d81f0b-f002-4430-b3ff-b8c2258b5060"
+		],
+		"title": "imperium",
+		"id": "d6cafc73-9b46-4ec8-87d9-47786150f680",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"e66de151-74d7-4c8b-948b-6330f7153140"
+		],
+		"title": "imperium",
+		"id": "b1fe1c5d-cc83-4391-bc24-ed926bbdc2b6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"907ff1d1-881e-4313-8403-8a40cc38de35"
+		],
+		"title": "volksverhuizing",
+		"id": "daba7553-b3a6-49e4-b9fc-dbaba61a8c1c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"596927a8-617a-4b03-884a-028f8118d6cc"
+		],
+		"title": "volksverhuizing",
+		"id": "d1d1a81a-a87f-478e-aa44-cbc16b08337a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"5296ea6a-15f1-4c2c-9c00-0d482c918cf2"
+		],
+		"title": "godsdienst, jodendom, christendom, polytheïsme, monotheïsme",
+		"id": "6bdb767d-1fd0-4688-930b-0d5c558e5dfe",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"5f5b0315-defb-4f08-9c51-bc93b5cbd941"
+		],
+		"title": "staatsgodsdienst",
+		"id": "133929f7-0a32-4353-bd0b-f67ad7887342",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"a03b1b02-506f-46eb-a616-beda82805a70"
+		],
+		"title": "godsdienst, jodendom, christendom, polytheïsme, monotheïsme",
+		"id": "06aded3a-a2b6-4321-87e9-0ef86aaf7d6c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"5be62087-23d4-41e6-b432-9d1bcbd29698"
+		],
+		"title": "staatsgodsdienst",
+		"id": "26019ab9-1b18-43c9-8a42-397569ee2288",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"8144e411-9446-4c8e-a3de-94ee42354ec1"
+		],
+		"title": "De Lage Landen",
+		"id": "9dc3751d-6c13-44c5-a2bb-6629719c83d4",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"62b251a7-361a-4f42-ab03-e9700bc558b7"
+		],
+		"title": "christendom",
+		"id": "bd6d971b-a13b-41a9-91cc-72fa22065142",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"88d4dd83-21fd-44a4-87ff-2684ea2d1ad5"
+		],
+		"title": "christendom",
+		"id": "db364b63-1238-415f-8780-a51f4aec9f65",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"2fcd1466-dc3d-4620-b736-7e1dfd8e7043"
+		],
+		"title": "hofstelsel, horigheid, agrarische samenleving, leenstelsel",
+		"id": "31e202cb-c20c-4c83-a4c3-15bac0ae6159",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"330860ca-8a35-4d45-9ca5-302191d19fac"
+		],
+		"title": "islam",
+		"id": "6b437dcf-d184-4169-ae26-2bd1714bd000",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"323a5170-d94d-4cc1-a966-9185f54b5abe"
+		],
+		"title": "islam",
+		"id": "6bb7fd0f-9deb-4356-a54a-806b2ccf5fab",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"d5e25f2b-a5c7-4d80-b541-7631129ea4b8"
+		],
+		"title": "hofstelsel, horigheid, autarkie, zelfvoorzienend",
+		"id": "ba16a28b-bd66-4efb-bb1b-5fcd489e2b12",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"f9c16475-e63e-4fbe-909f-a603315887a5"
+		],
+		"title": "hofstelsel, horigheid, autarkie, zelfvoorzienend",
+		"id": "5c770af0-bba6-4b05-a0ad-58059e226b4f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"037bcd27-a782-41d1-9c5e-57d80888f90d"
+		],
+		"title": "feodalisme, vazal, leenman, adel, standen",
+		"id": "01205000-57f6-4b15-8d10-865387f25d05",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"5761377e-9658-4538-81c3-5ba6617b462e"
+		],
+		"title": "feodalisme, vazal, leenman, adel, standen",
+		"id": "2fb4f3ee-23f8-4cd1-b0c0-8a27c6f1b215",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"68e611ac-6a13-4b90-9df7-35f2ee73d995"
+		],
+		"title": "handel, steden, Hanze",
+		"id": "8077c632-3c5b-477c-a06c-cb7e39b4491e",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"f082a709-24d5-47e0-a1d3-c4199b729cb4"
+		],
+		"title": "stedelijke burgerij",
+		"id": "d1c3f6f6-d9ca-465c-98ed-bf66569ea311",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"06bf5c2e-8a2a-48df-8412-8d93ca3f46a9"
+		],
+		"title": "adel",
+		"id": "83f83422-ee59-4c5d-87e8-a47c2f771db6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"bd91fa1e-5c5a-4363-9cfa-21736a09d0a5"
+		],
+		"title": "burgerij",
+		"id": "c1716e34-24b4-4253-ab52-3252b16e5059",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"cf3e79b1-c6ea-4277-988b-b00a0c1e2e7b"
+		],
+		"title": "burgerij",
+		"id": "68a3aa9d-dc16-4c48-91e8-729df5f7ef2f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"a9776de4-27ba-4fb3-bca0-41296cc7752c"
+		],
+		"title": "staatsvorming, staatsburgerschap, centralisatie, gewest",
+		"id": "b4d57a98-535e-4981-8638-923affcac1c4",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"decb73ea-61ca-40f6-ae29-dfab4903aaf9"
+		],
+		"title": "staatsvorming, staatsburgerschap, centralisatie, gewest",
+		"id": "49ef0952-1da3-4e52-92c7-07c9532ff632",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"cae326b7-82cf-4f8f-b9e8-4d64c5093b09"
+		],
+		"title": "staatsvorming, staatsburgerschap, centralisatie, gewest",
+		"id": "559653d1-dd60-4937-b013-875ef7ad8a92",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"3a445870-ac25-41af-96a1-12345151a333"
+		],
+		"title": "staatsvorming, staatsburgerschap, centralisatie, gewest",
+		"id": "523f0219-d3da-4e86-9dce-9db1939332fe",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"e8babb73-9f47-458f-9478-1f96e9c734ed"
+		],
+		"title": "handel, ambacht",
+		"id": "001dab3e-d9f9-4d8f-9391-3718cbb3dc72",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"5f71a0d4-a9f1-47ed-a8cd-d4ed7afbadbd"
+		],
+		"title": "handel, ambacht",
+		"id": "81fb3d11-ac25-45e9-adb0-f58e06a0f064",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"4e4708f7-d0d9-46a2-9968-675905345af9"
+		],
+		"title": "investituurstrijd, wereldlijke macht, geestelijkheid",
+		"id": "7afed748-969d-4d06-8a0b-eaab7656db96",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"e3e1b351-fe49-4357-912f-8fce56f90932"
+		],
+		"title": "investituurstrijd, wereldlijke macht, geestelijkheid",
+		"id": "5cee16dc-5df4-43f4-a869-6f9c5cb23946",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"87220fbf-cbff-4668-ad2f-4961b3162550"
+		],
+		"title": "kruistochten",
+		"id": "1d850cf4-e577-40c5-a96e-2a25f0c2fc98",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"ac474ce7-ed42-4ec1-9ebe-b74932aa4991"
+		],
+		"title": "kruistochten",
+		"id": "555afb80-5dac-4246-96b5-080df1117eb3",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"e30ec559-cdd4-4123-bcf8-582437084e1c"
+		],
+		"title": "de overzeese Europese expansie, ontdekkingsreizen",
+		"id": "99fc9a29-5749-401d-b229-53edd7547e9b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"a40aefc0-e73d-4188-a8fa-ff1cc48fd576"
+		],
+		"title": "ontdekkingsreizen, economie, expansie, handelskapitalisme",
+		"id": "ccdc9165-6669-4ea4-a232-3f902b474da1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"9d5eabbc-e141-46ba-9eb2-736918c7ed5f"
+		],
+		"title": "ontdekkingsreizen, economie, expansie, handelskapitalisme",
+		"id": "ddf26932-2085-4567-82eb-3494bb12bbae",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"83b4d670-ca74-4b52-b12a-493ab46170b2"
+		],
+		"title": "De Opstand, de Nederlandse staat",
+		"id": "c017f346-dc73-438f-ad09-4a1fb149ac48",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"b45e4ad2-dbd4-420d-841d-d83d68b47704"
+		],
+		"title": "Christelijke kerk",
+		"id": "01399b42-adfa-446a-a99d-64dc631bcb07",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"41007119-f361-42e4-ad67-272b45c9676d"
+		],
+		"title": "Beeldenstom,  reformatie",
+		"id": "5cd69f0a-c961-4a78-bfa9-0b8d0d17c273",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"d95b59bd-d894-493b-b82b-625a1fd9f6ee"
+		],
+		"title": "renaissance, wereldbeeld",
+		"id": "0e606659-8678-4cec-8256-17b4f8ffb878",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"1b776539-e912-42a3-b014-5a825166f609"
+		],
+		"title": "wetenschap",
+		"id": "0183d9de-7cf4-4014-bd3f-31348c846666",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"f2dad9f2-2d65-416d-81c5-bc5fb0d325ea"
+		],
+		"title": "renaissance, wereldbeeld",
+		"id": "921368bd-0cc5-4569-a68e-c6a7e8c91b3a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"b8d8ace9-2612-4610-a0f5-1769bcc5d8a7"
+		],
+		"title": "wetenschap",
+		"id": "ea808a5a-c9f9-4063-9b13-d3f426643e84",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"8f661589-7d2a-4210-89f9-e61d85017fcf"
+		],
+		"title": "erfgoed",
+		"id": "efda8bef-71f2-4d09-9de8-2fe8f110ca99",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"43202ff3-cdca-475a-b550-40f3853616eb"
+		],
+		"title": "erfgoed",
+		"id": "4165affb-d263-4f67-a095-e16cca6c9e6e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"4ab2183d-04e8-4bd4-9874-3985049a6053"
+		],
+		"title": "katholicisme, protestantisme, reformatie, kerkhervorming, Luther, Calvijn, ketter, privilege, cuius regio, eius religio",
+		"id": "c28f4262-7698-4760-9ef9-70ad1c9679c3",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"d45b5d3c-3bfd-49f2-bac9-f453ac9840f7"
+		],
+		"title": "katholicisme, protestantisme, reformatie, kerkhervorming, Luther, Calvijn, ketter, privilege, cuius regio, eius religio",
+		"id": "347bc685-4c22-4860-9baf-f8086d4edf5e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"1a98dfa9-efcf-4ca9-9b5a-750decb17552"
+		],
+		"title": "katholicisme, protestantisme, reformatie, kerkhervorming, Luther, Calvijn, ketter, privilege, cuius regio, eius religio",
+		"id": "3fb6ae7b-4c25-4e6f-803b-21d485803cf9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"3e113dc0-1dd9-411c-ba20-f4e15e8a61d2"
+		],
+		"title": "katholicisme, protestantisme, reformatie, kerkhervorming, Luther, Calvijn, ketter, privilege, cuius regio, eius religio",
+		"id": "1d12f5b8-21d9-4c15-bbcf-ce30aa9b20f0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"947fe7f9-c103-46cb-b403-efa877122858"
+		],
+		"title": "katholicisme, protestantisme, reformatie, kerkhervorming, Luther, Calvijn, ketter, privilege, cuius regio, eius religio",
+		"id": "2d9145de-ddb4-46e5-9738-6950ece5e643",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"8f231637-47b1-45cc-8c2c-ccfd5c44681f"
+		],
+		"title": "katholicisme, protestantisme, reformatie, kerkhervorming, Luther, Calvijn, ketter, privilege, cuius regio, eius religio",
+		"id": "924a77b6-ac48-45c1-bf26-e028e523441b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"7b6e8190-6fa5-423d-9a43-de003b3b75a0"
+		],
+		"title": "Bloedpakkaten, Collaterale Raden, Raad van Staten, De Geheime Raad, Raad van Financiën, Karel V, Filips II, Willem van Oranje, Alva, Beeldenstorm 1566, Raad van Beroerten,  watergeuzen 1572, Statenvergadering, soevereiniteit, huurlingenleger",
+		"id": "196520a3-2292-47aa-8d00-7b2f0ebe8bf0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"7b7ae2a1-6eb0-4710-8dd3-131799cd196d"
+		],
+		"title": "Bloedpakkaten, Collaterale Raden, Raad van Staten, De Geheime Raad, Raad van Financiën, Karel V, Filips II, Willem van Oranje, Alva, Beeldenstorm 1566, Raad van Beroerten,  watergeuzen 1572, Statenvergadering, soevereiniteit, huurlingenleger",
+		"id": "361f80b3-fa98-4f94-a13d-d3b72fe1e6b4",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"2a4fbffc-2299-4be7-8a93-e0fedadb83f4"
+		],
+		"title": "handelskapitalisme, wereldeconomie, VOC, Atlas Maior van Blaeu",
+		"id": "172fc7f6-696a-4723-a007-0505764bec9d",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"1d54f3cd-4ed5-4316-a7d0-9de8662b384d"
+		],
+		"title": "burgerlijk bestuur, stedelijke cultuur, grachtengordel, buitenhuizen, Statenbijbel, Beemster",
+		"id": "db125f6a-eb77-4571-9bd3-10b6fcdc8ab9",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"5c31a50b-358b-49dc-a0ea-9fc7a7e116c8"
+		],
+		"title": "de Republiek",
+		"id": "66eea93d-6bcc-4943-95ba-7f14486523f3",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"5ebe6db9-7fd4-48c2-bfdb-dfc4d836c26a"
+		],
+		"title": "absolutisme",
+		"id": "5d1af3ce-8a95-45d9-9dd3-dcd9a559ded2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"fae652d3-4381-4f18-a229-6f1a28517d96"
+		],
+		"title": "absolutisme",
+		"id": "045316df-6304-43ac-98f8-e75f7aba38ce",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"293ea42d-6cc1-4014-a168-2809b2ce4dc3"
+		],
+		"title": "wetenschappelijke revolutie",
+		"id": "cbf56865-3d08-4bd4-ba87-0a4c74595722",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"b2dcf8b7-546d-4ade-b678-5f326fd1385b"
+		],
+		"title": "wetenschappelijke revolutie",
+		"id": "bd5b11a2-5f0a-41be-883b-d2980719efa5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"449745cb-ee0d-4367-9c4e-5ec2c63c11c6"
+		],
+		"title": "Staten-Generaal, Generaliteitslanden",
+		"id": "3ec9ba61-2963-426f-a60a-7b3d1f2d08dd",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"977b8ccf-3841-4795-b69b-1ae113bd61fd"
+		],
+		"title": "Gouden Eeuw",
+		"id": "089c4a09-c83d-45c4-b9a7-bd51f48adbef",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"d29751f5-bb87-45d5-bfed-05ffd79e6541"
+		],
+		"title": "Staten-generaal, landsadvocaat, Johan van Oldenbarnevelt, stadhouder, Staatse leger, Statenvergadering, Verdrag van Münster",
+		"id": "6ae4c85b-053e-494d-8872-a712f9022f23",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"bec15461-5081-4588-a4f8-42bbdfe5b1dc"
+		],
+		"title": "Staten-Generaal, Generaliteitslanden",
+		"id": "aa557ff8-cd3d-4af8-b192-df3811ff5b48",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"34b68c7d-3752-48ba-abe9-c932fbc79275"
+		],
+		"title": "Gouden Eeuw",
+		"id": "dfab2da6-b319-4bca-8b71-14e9feb2fb5c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"272b9dd4-325c-42b8-a19b-7efcd2c23d2d"
+		],
+		"title": "Staten-generaal, landsadvocaat, Johan van Oldenbarnevelt, stadhouder, Staatse leger, Statenvergadering, Verdrag van Münster",
+		"id": "aff5a1b4-d209-4cd9-b1c8-b475e89258d8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"332c1f70-0c1b-493d-8d66-ba6bf4d9a8ac"
+		],
+		"title": "moedernegotie, VOC, monopolie, WIC",
+		"id": "8309595f-9dc3-4d8e-89d3-9115e9c5546f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"eff9b630-3e9d-4b03-bad5-ecee432255cc"
+		],
+		"title": "moedernegotie, VOC, monopolie, WIC",
+		"id": "8f0638e0-33ba-4175-b4d0-9ccfb7d1d461",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"4d5aa771-0bc9-42df-b50f-30544cb063ad"
+		],
+		"title": "grondrechten, politieke invloed, burgerij, Franse revolutie, Bataafse revolutie, Patriotten",
+		"id": "cb3bc6c9-23f2-4c54-bb29-1400454ac776",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"16436072-52d6-40f6-9c9f-262ab8f97800"
+		],
+		"title": "slavenarbeid, plantages, abolitionisme, slavernij, slavenhandel",
+		"id": "220202c0-ff4d-4cb5-97c2-307e5b5d3d66",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"8388856b-fa27-4c96-8973-e5592731b583"
+		],
+		"title": "Abolitionisme",
+		"id": "9ddeb1f8-b00c-45ef-9bd0-bd5aec8dcbc4",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"2b060604-37ef-4b1c-a522-8f4a64e0e864"
+		],
+		"title": "Droit Divin, Verlichting, 'verlicht denken', empirisme, rationalisme, intolerantie, natuurwetten, religieuze tolerantie, scheiding van kerk en staat, vooruitgangsgedachte, soevereiniteit, Droit Divin, Kant, Locke, Rousseau, Spinoza, Voltaire",
+		"id": "ca3ef449-aa80-4f37-a976-866aebb3e3a8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"3a326a33-7a3a-446a-b2ae-e100646160d8"
+		],
+		"title": "Droit Divin, Verlichting, 'verlicht denken', empirisme, rationalisme, intolerantie, natuurwetten, religieuze tolerantie, scheiding van kerk en staat, vooruitgangsgedachte, soevereiniteit, Droit Divin, Kant, Locke, Rousseau, Spinoza, Voltaire",
+		"id": "ccfb46bc-ecf1-454a-9331-297fcc9592d3",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"3acdb145-f95c-45e1-865c-fce742ebeaa7"
+		],
+		"title": "Droit Divin, Verlichting, 'verlicht denken', empirisme, rationalisme, intolerantie, natuurwetten, religieuze tolerantie, scheiding van kerk en staat, vooruitgangsgedachte, soevereiniteit, Droit Divin, Kant, Locke, Rousseau, Spinoza, Voltaire",
+		"id": "a6c95f14-b4dc-4f64-856b-7ef2196435ea",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"50442f68-00e1-4f4f-be18-c038366f52ec"
+		],
+		"title": "Droit Divin, Verlichting, 'verlicht denken', empirisme, rationalisme, intolerantie, natuurwetten, religieuze tolerantie, scheiding van kerk en staat, vooruitgangsgedachte, soevereiniteit, Droit Divin, Kant, Locke, Rousseau, Spinoza, Voltaire",
+		"id": "cb09c134-d10c-4b65-85fc-6533ff13d9a9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"280df540-5fbf-4803-943d-efe98965252e"
+		],
+		"title": "ancien régime, verlicht absolutisme",
+		"id": "b46f9ca6-9b3c-4286-b724-a25bbdc0a583",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"59673f6b-e1d3-40b5-aedc-f9a95788fd37"
+		],
+		"title": "ancien régime, verlicht absolutisme",
+		"id": "bea79b2b-50b7-4c80-9574-dde18c4170a7",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"4b89f33b-c9e8-4c68-832f-d2b2a6eb7109"
+		],
+		"title": "overheersing, plantage, plantagekolonie, slavernij, transatlantische slavenhandel, abolitionisme,",
+		"id": "99242207-b82e-43fa-bf57-fe4243444499",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"fc9c712d-29da-4142-94a2-ca05bc9e6119"
+		],
+		"title": "overheersing, plantage, plantagekolonie, slavernij, transatlantische slavenhandel, abolitionisme,",
+		"id": "f10d5315-5f51-4828-ae17-7daaf8996e7e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"a429b284-b3e0-41f0-8bb9-add1c131a7c1"
+		],
+		"title": "democratische revolutie, staatsburgerschap, grondwet, grondrecht",
+		"id": "0dcd5f71-ff43-4601-b23e-426920af45f8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"a57be3c2-951a-4849-906c-05a34499e748"
+		],
+		"title": "democratische revolutie, staatsburgerschap, grondwet, grondrecht",
+		"id": "8aba6a50-bed4-4398-8523-cb6a3a3fda6f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"2bdc6bfe-34a6-43ac-b913-0cee2262e153"
+		],
+		"title": "Ancien Regime, Jacobijnen, Girondijnen, constitutionele monarchie, standenmaatschappij, schrikbewind, Directoire, Lodewijk XVI, Robespierre",
+		"id": "33530c09-9b84-4c76-abf8-ba0a65bd5ece",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"891b6779-0df0-452c-a9da-aa619438d707"
+		],
+		"title": "Restauratie, liberalisme, socialisme, Marx, klassenstrijd, volkssoevereiniteit, nationalisme, natiestaat, maakbaarheid van de samenleving",
+		"id": "295e0a3f-d58e-4531-b067-fd962fc5b830",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"5d76e70e-6791-4654-b223-cac325510e64"
+		],
+		"title": "de industriële revolutie, emancipatiebewegingen, eerste spoorlijn",
+		"id": "f4f916d1-6333-4906-a618-e7c47ba0ceff",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"282315dd-d40e-41d3-8e95-7c8950463d72"
+		],
+		"title": "de werk- en leefomstandigheden, arbeiders",
+		"id": "8dd12fb8-20f9-42f5-9fd5-8ae29b4f3bda",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"ee0a2919-9fe0-42cf-a1d7-87068b321a8c"
+		],
+		"title": "een parlementair stelsel, volksinvloed, Grondwet 1848, burgers",
+		"id": "624cf193-b56c-4e7b-9ac5-b965df080971",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"393d215f-3f5c-458e-a56a-70c3bbff5490"
+		],
+		"title": "monarchie,  republiek, democratie, dictatuur, grondwet, constitutie, verkiezingen, regering, coalitiepartijen, oppositiepartijen, wetgevende macht, uitvoerende macht, rechterlijke macht",
+		"id": "078d64b3-5f95-45e6-a5fc-d307e61eac92",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"4e6517f4-3088-457c-bcff-4f766142cd3a"
+		],
+		"title": "monarchie,  republiek, democratie, dictatuur, grondwet, constitutie, verkiezingen, regering, coalitiepartijen, oppositiepartijen, wetgevende macht, uitvoerende macht, rechterlijke macht",
+		"id": "662fa434-63e9-4b62-8fdf-3391d310cb9a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"0da112ca-0389-4671-adae-a28df3464085"
+		],
+		"title": "monarchie,  republiek, democratie, dictatuur, grondwet, constitutie, verkiezingen, regering, coalitiepartijen, oppositiepartijen, wetgevende macht, uitvoerende macht, rechterlijke macht",
+		"id": "3be92ee7-032b-4547-81e5-6420c499ac85",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"a9d32bdc-0595-4edb-95d4-4a2deed002c3"
+		],
+		"title": "monarchie,  republiek, democratie, dictatuur, grondwet, constitutie, verkiezingen, regering, coalitiepartijen, oppositiepartijen, wetgevende macht, uitvoerende macht, rechterlijke macht",
+		"id": "3b64733a-ba90-4c83-a521-5e0b267cfd9b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"6c4fc228-5cf5-4e45-a81d-6c99f47fa026"
+		],
+		"title": "rechtsstaat,  onafhankelijke rechtspraak",
+		"id": "4f91d026-2881-4f86-9cf3-f02ef5c32252",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"a92642eb-9b3c-4f80-a5ff-9cd94b6140fc"
+		],
+		"title": "rechtsstaat,  onafhankelijke rechtspraak",
+		"id": "f76aa46d-d67b-4a4b-bbab-ad9b7d94e1ee",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"99215be9-2c14-4803-a19c-93fa30b085e1"
+		],
+		"title": "rechtsstaat,  onafhankelijke rechtspraak",
+		"id": "6632fe55-583e-456c-8044-82390b255cd0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"64a735a9-494c-4b6c-96b7-742ea5a38c90"
+		],
+		"title": "rechtsstaat,  onafhankelijke rechtspraak",
+		"id": "e36abeb5-2528-425f-91a6-cdc2bef7ff46",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"f39271c7-78ee-4a6b-b963-64304f7d69fc"
+		],
+		"title": "recht van budget, recht enquête, recht van interpellatie, recht van initiatief, recht van amendement",
+		"id": "e8b202d7-3271-464f-bd73-db0671df4cf1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"2350dddd-6d82-4217-9b77-0c274f3c9217"
+		],
+		"title": "recht van budget, recht enquête, recht van interpellatie, recht van initiatief, recht van amendement",
+		"id": "28c34a07-ae30-4442-9bf1-ebe86d8a4a9c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"cbb24755-8397-4583-aa31-5b032540ca92"
+		],
+		"title": "recht van budget, recht enquête, recht van interpellatie, recht van initiatief, recht van amendement",
+		"id": "9fa83874-1082-4ee7-8ddc-7bf5cea9a8f5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"6ab0b7a4-50a4-471e-aa24-b2efb11e64a9"
+		],
+		"title": "recht van budget, recht enquête, recht van interpellatie, recht van initiatief, recht van amendement",
+		"id": "9a468caa-a50a-4d6e-b833-b438e47ddfa4",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"55477fec-897f-4781-a1f5-46fd5aa6c851"
+		],
+		"title": "minister, wetsvoorstel, Tweede Kamer, Eerste Kamer",
+		"id": "4f574e08-81a4-40e1-a2ee-9ad846783a1a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"68b2eb98-7382-4af0-a69a-217bb06bbc53"
+		],
+		"title": "minister, wetsvoorstel, Tweede Kamer, Eerste Kamer",
+		"id": "76f9fa63-dfb1-4a8d-bb91-52736be9994b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"897372ec-8c90-4af9-aa8b-ed8096ee5432"
+		],
+		"title": "minister, wetsvoorstel, Tweede Kamer, Eerste Kamer",
+		"id": "f64ea16d-bee9-4777-a136-f36a9748b956",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"61313c02-2175-44a0-81e9-4c428edbb525"
+		],
+		"title": "minister, wetsvoorstel, Tweede Kamer, Eerste Kamer",
+		"id": "a593b7a5-fcbd-4e45-83f6-bee161f9aa49",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"ba7da222-1a36-4d1d-8647-18dcd937262d"
+		],
+		"title": "recht van amendement, recht van enquête, ministeriële verantwoordelijkheid, onschendbaarheid van de koning, rechtstreekse verkiezingen (gemeenteraad en Provinciale Staten),  indirecte verkiezing Eerste Kamer door Provinciale Staten, ensuskiesrecht,  indirecte verkiezingen, parlementaire democratie, beperking macht koning, uitbreiding macht parlement",
+		"id": "3ef8093a-a4a7-4daf-bdd8-87cbf305779d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"af59e826-60f1-46bb-8bea-dd98159596a9"
+		],
+		"title": "recht van amendement, recht van enquête, ministeriële verantwoordelijkheid, onschendbaarheid van de koning, rechtstreekse verkiezingen (gemeenteraad en Provinciale Staten),  indirecte verkiezing Eerste Kamer door Provinciale Staten, ensuskiesrecht,  indirecte verkiezingen, parlementaire democratie, beperking macht koning, uitbreiding macht parlement",
+		"id": "8bb1b08d-7052-4e07-a0f7-e53a67c94a8e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"d1828559-c0d3-4910-91a8-5941ca1714b4"
+		],
+		"title": "recht van amendement, recht van enquête, ministeriële verantwoordelijkheid, onschendbaarheid van de koning, rechtstreekse verkiezingen (gemeenteraad en Provinciale Staten),  indirecte verkiezing Eerste Kamer door Provinciale Staten, ensuskiesrecht,  indirecte verkiezingen, parlementaire democratie, beperking macht koning, uitbreiding macht parlement",
+		"id": "aa0cec42-2be4-4eb0-9856-44de3283b3f7",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"f9caed89-ec0a-404b-a3e4-b0938d80e59e"
+		],
+		"title": "recht van amendement, recht van enquête, ministeriële verantwoordelijkheid, onschendbaarheid van de koning, rechtstreekse verkiezingen (gemeenteraad en Provinciale Staten),  indirecte verkiezing Eerste Kamer door Provinciale Staten, ensuskiesrecht,  indirecte verkiezingen, parlementaire democratie, beperking macht koning, uitbreiding macht parlement",
+		"id": "3d8d0ac7-f741-463b-bd58-3ba2126afdb1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"18bd5f81-b242-4e46-a4e7-9b1517159ad8"
+		],
+		"title": "liberalen, Liberale Unie, hogere burgerij, (Rudolf) Thorbecke, houding van de liberalen t.o.v. overheidsbemoeienis,  confessionelen, protestanten, kleine luyden, Anti-Revolutionaire Partij (ARP),  (Abraham) Kuyper,  rooms-katholieken, Rooms-katholieke Staatspartij (RKSP), (Herman) Schaepman, christelijk denken in wetgeving,  socialisten/sociaal-democraten, Sociaal Democratische Arbeiders Partij (SDAP), (Pieter Jelles) Troelstra, houding van de socialisten t.o.v. overheidsbemoeienis",
+		"id": "2baa7188-e9bc-4246-a168-21be32a9f761",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"8775880e-8c1b-4910-8b28-1f3bee82585c"
+		],
+		"title": "liberalen, Liberale Unie, hogere burgerij, (Rudolf) Thorbecke, houding van de liberalen t.o.v. overheidsbemoeienis,  confessionelen, protestanten, kleine luyden, Anti-Revolutionaire Partij (ARP),  (Abraham) Kuyper,  rooms-katholieken, Rooms-katholieke Staatspartij (RKSP), (Herman) Schaepman, christelijk denken in wetgeving,  socialisten/sociaal-democraten, Sociaal Democratische Arbeiders Partij (SDAP), (Pieter Jelles) Troelstra, houding van de socialisten t.o.v. overheidsbemoeienis",
+		"id": "2c857775-2646-41e0-8157-8b55fc73914b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"bae0493a-ec24-4210-8a46-082f7d4f8481"
+		],
+		"title": "liberalen, Liberale Unie, hogere burgerij, (Rudolf) Thorbecke, houding van de liberalen t.o.v. overheidsbemoeienis,  confessionelen, protestanten, kleine luyden, Anti-Revolutionaire Partij (ARP),  (Abraham) Kuyper,  rooms-katholieken, Rooms-katholieke Staatspartij (RKSP), (Herman) Schaepman, christelijk denken in wetgeving,  socialisten/sociaal-democraten, Sociaal Democratische Arbeiders Partij (SDAP), (Pieter Jelles) Troelstra, houding van de socialisten t.o.v. overheidsbemoeienis",
+		"id": "d233e4e6-584a-4c3c-9405-d8105b747f01",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"e33607df-cbd0-423b-af21-d71337e82033"
+		],
+		"title": "liberalen, Liberale Unie, hogere burgerij, (Rudolf) Thorbecke, houding van de liberalen t.o.v. overheidsbemoeienis,  confessionelen, protestanten, kleine luyden, Anti-Revolutionaire Partij (ARP),  (Abraham) Kuyper,  rooms-katholieken, Rooms-katholieke Staatspartij (RKSP), (Herman) Schaepman, christelijk denken in wetgeving,  socialisten/sociaal-democraten, Sociaal Democratische Arbeiders Partij (SDAP), (Pieter Jelles) Troelstra, houding van de socialisten t.o.v. overheidsbemoeienis",
+		"id": "dbd2446b-a348-4009-b5be-551803936490",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"692cec51-e356-4de9-8b6d-c55d0743d564"
+		],
+		"title": "emancipatie, feministen, Aletta Jacobs, Wilhelmina Drucker, Eerste Feministische Golf, Vrije vrouwenvereeniging, Verenigingen voor Vrouwenkiesrecht, verzuiling in partijen, media, onderwijs en verenigingsleven,  vakbonden",
+		"id": "850ea5af-ca5d-4656-9a28-c9d4e3980ff3",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"ebb9d4f6-be6a-44cd-8106-163b8a2e67b3"
+		],
+		"title": "emancipatie, feministen, Aletta Jacobs, Wilhelmina Drucker, Eerste Feministische Golf, Vrije vrouwenvereeniging, Verenigingen voor Vrouwenkiesrecht, verzuiling in partijen, media, onderwijs en verenigingsleven,  vakbonden",
+		"id": "aec83d88-2a19-4140-9800-8f84cbb896a1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"315fb310-7b14-4f9e-93a1-036718ad0275"
+		],
+		"title": "emancipatie, feministen, Aletta Jacobs, Wilhelmina Drucker, Eerste Feministische Golf, Vrije vrouwenvereeniging, Verenigingen voor Vrouwenkiesrecht, verzuiling in partijen, media, onderwijs en verenigingsleven,  vakbonden",
+		"id": "158c9628-4b29-441d-b300-306c42b755d0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"12ec161b-dce7-4b80-a8d8-2fcfb51bef95"
+		],
+		"title": "emancipatie, feministen, Aletta Jacobs, Wilhelmina Drucker, Eerste Feministische Golf, Vrije vrouwenvereeniging, Verenigingen voor Vrouwenkiesrecht, verzuiling in partijen, media, onderwijs en verenigingsleven,  vakbonden",
+		"id": "91aef4c6-b0c8-4d93-9470-717fb4d9e536",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"b9866306-55bd-4a39-a425-6fad0c067592"
+		],
+		"title": "algemeen kiesrecht, geleidelijke uitbreiding van het kiesrecht",
+		"id": "4213831c-3cdb-4e4d-a7bc-d742cc2966e9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"3da9c8a1-f353-44ca-a033-d6db4f245c36"
+		],
+		"title": "algemeen kiesrecht, geleidelijke uitbreiding van het kiesrecht",
+		"id": "e904aa43-cdeb-4c01-8e68-b625ba70b679",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"f4eca097-d55c-4ecb-b247-d1e5e6cfe1dd"
+		],
+		"title": "algemeen kiesrecht, geleidelijke uitbreiding van het kiesrecht",
+		"id": "58ebad40-fb08-48f5-aca4-eda3f14345ae",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"8a1977fd-3cad-47be-82de-fb02b0d612e4"
+		],
+		"title": "algemeen kiesrecht, geleidelijke uitbreiding van het kiesrecht",
+		"id": "77a01160-a774-4539-b00d-11c1bd19c326",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"191228eb-c626-4e62-8ceb-e76f1c71af1a"
+		],
+		"title": "beginnende industrialisatie,  modern-imperialisme,  grondstoffen,  afzetmarkten,  verstedelijking,  kinderarbeid,  sociale kwestie, liefdadigheid, sociale wetgeving, armenwet, Kinderwetje van Van Houten, ongevallen wet, woningwet",
+		"id": "2f2f6c6a-1bda-460b-8969-7ce564b5845c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"aad83bc3-e715-4b2a-987b-052526ee3d1c"
+		],
+		"title": "beginnende industrialisatie,  modern-imperialisme,  grondstoffen,  afzetmarkten,  verstedelijking,  kinderarbeid,  sociale kwestie, liefdadigheid, sociale wetgeving, armenwet, Kinderwetje van Van Houten, ongevallen wet, woningwet",
+		"id": "cee9ec3c-d8b0-44d4-955e-30e23ba4d82b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"20385c29-6d12-4103-a1b6-201a1cd3ca97"
+		],
+		"title": "beginnende industrialisatie,  modern-imperialisme,  grondstoffen,  afzetmarkten,  verstedelijking,  kinderarbeid,  sociale kwestie, liefdadigheid, sociale wetgeving, armenwet, Kinderwetje van Van Houten, ongevallen wet, woningwet",
+		"id": "dad76abd-ca50-4d01-b963-c120dc8bbbcf",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"39e06e91-e140-4d76-879f-e944ebb26247"
+		],
+		"title": "beginnende industrialisatie,  modern-imperialisme,  grondstoffen,  afzetmarkten,  verstedelijking,  kinderarbeid,  sociale kwestie, liefdadigheid, sociale wetgeving, armenwet, Kinderwetje van Van Houten, ongevallen wet, woningwet",
+		"id": "2a7ba356-3e62-45b5-9d26-b7ad22ec0409",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"3f3fe245-a3b6-459d-833d-c239ec414652"
+		],
+		"title": "industrie, industriële samenleving, industriële revolutie, industralisering",
+		"id": "5df0619f-f714-4541-b047-822629acb273",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"51bf02c3-2944-4b85-b1f3-09fe3444d661"
+		],
+		"title": "industrie, industriële samenleving, industriële revolutie, industralisering",
+		"id": "db6c3989-546e-4df9-b783-dfcb5c3db91b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"42f9f33e-4018-447f-bb70-6d5c9d5aee6d"
+		],
+		"title": "sociale kwestie",
+		"id": "e0c6da4c-94e0-4333-9adb-2892d413a24b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"81b46671-5702-4c37-9908-b32a810e625d"
+		],
+		"title": "sociale kwestie",
+		"id": "807a2b05-5b4d-448a-b495-e8357396e586",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"69c23943-ddbb-42f0-9b2b-6f7e4044e0ae"
+		],
+		"title": "Duitse keizerrijk, Wilhem I, Wilhelm II, Rijkskanselier, Bismarck, Weltpolitik, alliantiepolitiek, militarisme",
+		"id": "4ab3cd1b-cecc-4f8b-9c24-879e6d6a6023",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"7cbaa0ee-2cae-4b56-a93a-18ac906b6a32"
+		],
+		"title": "modern-imperialisme, industrialisatie,",
+		"id": "c8fcc208-5136-447f-9723-4ebc2318ddd2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"708036a6-4b94-46b1-87df-2ff47474987f"
+		],
+		"title": "Duitse keizerrijk, Wilhem I, Wilhelm II, Rijkskanselier, Bismarck, Weltpolitik, alliantiepolitiek, militarisme",
+		"id": "c3fc6d9d-1ac5-48b2-a42d-789d7935c493",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"33200992-3b3f-4470-99fe-a0aef00aa1a6"
+		],
+		"title": "modern-imperialisme, industrialisatie,",
+		"id": "c6a30453-375d-4e8d-b00c-cfc611909143",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"bef51fd7-e2b1-4580-a082-d467b7fcfb91"
+		],
+		"title": "socialisten, protestanten, katholieken, feminisme, emancipatiebeweging",
+		"id": "137ec099-1e88-4539-bc9d-465ea678e234",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"bdb1f5e6-5b23-45da-a24a-686ddce5ad59"
+		],
+		"title": "socialisten, protestanten, katholieken, feminisme, emancipatiebeweging",
+		"id": "9ecff5ce-8b88-449a-a572-244612ae17d5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"b39a646d-3d8a-412a-9081-58ef39d4d1d9"
+		],
+		"title": "stemrecht, kiesrecht, democratisering, politieke partijen, vakbonden",
+		"id": "4ca35e52-6109-4b89-a224-5caaf9acd75f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"d73d0cdd-e98f-47f0-b7eb-f0b6179b20cd"
+		],
+		"title": "stemrecht, kiesrecht, democratisering, politieke partijen, vakbonden",
+		"id": "c34a7ca6-f96e-4cb4-a248-c443834a81b6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"7b733ac6-80b5-48cb-a526-b21ff3be2bad"
+		],
+		"title": "stemrecht, liberalisme, socialisme, protestantisme, katholicisme, politieke partijen, politieke stroming, nationalisme, confessionalisme, feminisme",
+		"id": "319bf3d1-6351-4a5c-9989-fa61c9959ed9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"74bbb308-b28f-467c-be41-3a8b64cab7c5"
+		],
+		"title": "stemrecht, liberalisme, socialisme, protestantisme, katholicisme, politieke partijen, politieke stroming, nationalisme, confessionalisme, feminisme",
+		"id": "09435344-e24f-4673-b8c8-a12b478bedfb",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"e8549b7a-4681-4352-af82-007f329b4db4"
+		],
+		"title": "economische wereldcrisis, Eerste Wereldoorlog, DE Stijl, crisisjaren",
+		"id": "7c743a64-4883-4ab0-a1d2-51a4d4958dfe",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"a2ae25a5-f5ef-4cea-aad9-c3da178ca13b"
+		],
+		"title": "de Duitse bezetting,  Tweede Wereldoorlog, nationaalsocialisme",
+		"id": "ca1828c6-cd41-4a15-b00d-190b0e017999",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"f6e9691a-4a26-4804-aeac-af29b47d7bf7"
+		],
+		"title": "Jodenvervolging/Endlösung",
+		"id": "e18768e1-30cb-499b-9856-e0360715f72e",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"f8ff9922-4a5a-40f0-a550-cba096ca2e1b"
+		],
+		"title": "collaboratie, verzet, aanpassing",
+		"id": "30ea9dc2-3d9e-47da-b5d4-e60295cfc412",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"49929b33-9efa-44a2-acea-37c763c26154"
+		],
+		"title": "bezetting",
+		"id": "eae65c1f-ecf1-45a5-920a-bcf3e84f5ea2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"2f6ff504-e287-41a1-8819-7041abd43cb5"
+		],
+		"title": "bezetting",
+		"id": "56a9d2b4-06d4-447c-8e31-b16f2d582305",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"0c18b6a3-ade1-4e33-acd9-832629a22b01"
+		],
+		"title": "militarisme, nationalisme, modern imperialisme, industrialisatie, moderne (wapen)technieken, wapenwedloop, bondgenootschappen, vijandbeelden, de moord op kroonprins Franz Ferdinand van Oostenrijk-Hongarije door Gavrilo Prinzip in Sarajevo",
+		"id": "74f8557a-ce4a-47ee-a4a9-7f264368fbe9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"3f800138-4355-4098-ae80-8697c8c4156b"
+		],
+		"title": "militarisme, nationalisme, modern imperialisme, industrialisatie, moderne (wapen)technieken, wapenwedloop, bondgenootschappen, vijandbeelden, de moord op kroonprins Franz Ferdinand van Oostenrijk-Hongarije door Gavrilo Prinzip in Sarajevo",
+		"id": "ddaf7ae7-ae84-4904-95a4-fca9108bf225",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"072c73ff-2837-4800-828b-281e54e976b4"
+		],
+		"title": "militarisme, nationalisme, modern imperialisme, industrialisatie, moderne (wapen)technieken, wapenwedloop, bondgenootschappen, vijandbeelden, de moord op kroonprins Franz Ferdinand van Oostenrijk-Hongarije door Gavrilo Prinzip in Sarajevo",
+		"id": "858eca36-80d9-442d-9e2f-80942fbd282e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"44ba4688-b147-48e4-91a2-6304918b2628"
+		],
+		"title": "militarisme, nationalisme, modern imperialisme, industrialisatie, moderne (wapen)technieken, wapenwedloop, bondgenootschappen, vijandbeelden, de moord op kroonprins Franz Ferdinand van Oostenrijk-Hongarije door Gavrilo Prinzip in Sarajevo",
+		"id": "ee5bfd2e-d0ee-42b8-b87f-eb4af1672146",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"f08357d4-0b3f-4179-a0b3-f77dd4037cee"
+		],
+		"title": "aanvankelijk enthousiasme, vrijwilligers,  Von Schlieffenplan, loopgravenoorlog  (in Noord-Frankrijk en België), onbeperkte duikbotenoorlog",
+		"id": "33404e98-2ce5-4e67-8bc7-683afee89222",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"88cf9257-b4dd-4e63-9020-063cbaaabe02"
+		],
+		"title": "aanvankelijk enthousiasme, vrijwilligers,  Von Schlieffenplan, loopgravenoorlog  (in Noord-Frankrijk en België), onbeperkte duikbotenoorlog",
+		"id": "0a1902c4-157c-41f5-a658-66625bc1fe3a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"e16d06ce-7a21-4771-8ed4-fdd89b998964"
+		],
+		"title": "aanvankelijk enthousiasme, vrijwilligers,  Von Schlieffenplan, loopgravenoorlog  (in Noord-Frankrijk en België), onbeperkte duikbotenoorlog",
+		"id": "58603dae-a3e8-4aa9-8dd3-1ae103d552c9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"e5028ace-30f4-4eb2-949f-c6f60ee4ce43"
+		],
+		"title": "aanvankelijk enthousiasme, vrijwilligers,  Von Schlieffenplan, loopgravenoorlog  (in Noord-Frankrijk en België), onbeperkte duikbotenoorlog",
+		"id": "2ee007cd-8e03-472b-9306-40af91d97c4c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"4924ad91-d171-4e3a-95d2-c2e11ae827d6"
+		],
+		"title": "‘moderne' wapens en soort oorlogvoering, omvang en massaliteit, veel slachtoffers, propaganda, censuur, totale oorlog, gevolgen voor het dagelijks leven",
+		"id": "0b6030f0-6a61-402b-88b3-071fec680142",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"1afa8c3a-4f50-42cb-a4dd-b003b3b77011"
+		],
+		"title": "‘moderne' wapens en soort oorlogvoering, omvang en massaliteit, veel slachtoffers, propaganda, censuur, totale oorlog, gevolgen voor het dagelijks leven",
+		"id": "79b99d78-36d6-4e43-9bfa-3f160b75e7d0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"25683300-85a2-4253-815a-0713fd2722be"
+		],
+		"title": "‘moderne' wapens en soort oorlogvoering, omvang en massaliteit, veel slachtoffers, propaganda, censuur, totale oorlog, gevolgen voor het dagelijks leven",
+		"id": "24a48af0-33ca-4de3-805d-a6936897dec4",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"2319983c-fe92-44fd-a0b3-2e111b396861"
+		],
+		"title": "‘moderne' wapens en soort oorlogvoering, omvang en massaliteit, veel slachtoffers, propaganda, censuur, totale oorlog, gevolgen voor het dagelijks leven",
+		"id": "cebc7e98-e5b8-4c9e-8178-2906b3ad5d46",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"1ea0ceb0-08dd-4f60-bc7d-164e292b1aba"
+		],
+		"title": "Centralen: Duitsland, Oostenrijk-Hongarije, Turkse Rijk",
+		"id": "cacc9df1-cd29-426a-9f67-641492906737",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"461221d7-723e-4154-b223-3a7ad9db8cc2"
+		],
+		"title": "Centralen: Duitsland, Oostenrijk-Hongarije, Turkse Rijk",
+		"id": "46634f7c-4993-4d6b-9d22-fe596aeeee07",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"0830e4bc-7fe5-47c1-9fcf-f4f22f86e524"
+		],
+		"title": "Centralen: Duitsland, Oostenrijk-Hongarije, Turkse Rijk",
+		"id": "757762ac-0888-4c56-946b-90507e9144b9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"bd4fc108-878e-4a6f-a67a-5d1454589251"
+		],
+		"title": "Centralen: Duitsland, Oostenrijk-Hongarije, Turkse Rijk",
+		"id": "75b550a8-a7f0-4424-91bc-08c486228ca3",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"a282b714-6783-4cf6-85ee-f0e070c950ae"
+		],
+		"title": "Frankrijk, Groot-Brittannië, Rusland tot aan 1917, de Verenigde Staten vanaf de onbeperkte duikbotenoorlog 1917",
+		"id": "1a2bc43b-8ad6-44f4-be18-c4b03e60a25b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"426becef-397e-4f5d-b97d-4b2eaafc5726"
+		],
+		"title": "Frankrijk, Groot-Brittannië, Rusland tot aan 1917, de Verenigde Staten vanaf de onbeperkte duikbotenoorlog 1917",
+		"id": "bdd68b74-6799-423f-94cb-8e8160d2d414",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"0e686f0f-7548-4513-8cac-eb3a2fa3e3be"
+		],
+		"title": "Frankrijk, Groot-Brittannië, Rusland tot aan 1917, de Verenigde Staten vanaf de onbeperkte duikbotenoorlog 1917",
+		"id": "e9e56816-6dfa-4e6c-a641-96e978ff1139",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"e53ac3f6-6187-4ef8-93ca-e92794f95b15"
+		],
+		"title": "Frankrijk, Groot-Brittannië, Rusland tot aan 1917, de Verenigde Staten vanaf de onbeperkte duikbotenoorlog 1917",
+		"id": "129e16e5-2a6f-4cf7-974a-e179bcdfc450",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"a618fd61-31cf-45ec-a116-0afd4f168736"
+		],
+		"title": "neutraliteit, mobilisatie, schaarste aan goederen, distributiesysteem met bonkaarten, opvang Belgische vluchtelingen, dodendraad",
+		"id": "fc272397-570d-45b2-b284-d15c1538f3e4",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"435e27ea-18e8-4cd0-9b85-02d76a9abf32"
+		],
+		"title": "neutraliteit, mobilisatie, schaarste aan goederen, distributiesysteem met bonkaarten, opvang Belgische vluchtelingen, dodendraad",
+		"id": "77d38fb7-5c03-4632-a8cd-2f5149df14c7",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"5e1cc8ca-a1f3-4628-9f8e-84ad94d04fcf"
+		],
+		"title": "neutraliteit, mobilisatie, schaarste aan goederen, distributiesysteem met bonkaarten, opvang Belgische vluchtelingen, dodendraad",
+		"id": "b459548f-f4b5-4298-8e5b-03d09d968806",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"583de3ce-c67d-4be2-a0d5-7f9c878a023d"
+		],
+		"title": "neutraliteit, mobilisatie, schaarste aan goederen, distributiesysteem met bonkaarten, opvang Belgische vluchtelingen, dodendraad",
+		"id": "e12bbd4e-6ffe-447d-b728-ae48cb64ec50",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"09d5e725-3513-4682-b8f0-f7bb3214f020"
+		],
+		"title": "Pacificatgie 1917, schoolstrijd, financiële gelijkstelling van openbaar en bijzonder onderwijs",
+		"id": "8a499576-73a0-4fa5-ad47-aa656175ae70",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"4bc5b03e-77d4-4225-ac03-3eed01c8e936"
+		],
+		"title": "Pacificatgie 1917, schoolstrijd, financiële gelijkstelling van openbaar en bijzonder onderwijs",
+		"id": "c4ccf9e4-6563-438b-803a-100f9487b14e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"a0cf856b-c7f2-493e-ac45-2aa30b405098"
+		],
+		"title": "Pacificatgie 1917, schoolstrijd, financiële gelijkstelling van openbaar en bijzonder onderwijs",
+		"id": "6281a4c9-98f3-4564-a401-c87f60d9a0ab",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"8a24247e-2cff-4570-9f19-fcc10fcb0b36"
+		],
+		"title": "De invoering van een stelsel van evenredige vertegenwoordiging,  De vervanging van het districtenstelsel door een stelsel van evenredige vertegenwoordiging,  de voor- en nadelen van beide systemen,  algemeen kiesrecht,  actief en passief kiesrecht voor mannen,  passief kiesrecht voor vrouwen",
+		"id": "b2e50626-b689-4e64-8e0b-5ba5da5e79ac",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"c0b98217-77d3-4b9a-9924-3ac1d0b01e33"
+		],
+		"title": "De invoering van een stelsel van evenredige vertegenwoordiging,  De vervanging van het districtenstelsel door een stelsel van evenredige vertegenwoordiging,  de voor- en nadelen van beide systemen,  algemeen kiesrecht,  actief en passief kiesrecht voor mannen,  passief kiesrecht voor vrouwen",
+		"id": "c6677622-8baa-4407-86b2-f346c01b4ea1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"f54cec88-fd9c-45c5-816c-5a0d8a2c398d"
+		],
+		"title": "De invoering van een stelsel van evenredige vertegenwoordiging,  De vervanging van het districtenstelsel door een stelsel van evenredige vertegenwoordiging,  de voor- en nadelen van beide systemen,  algemeen kiesrecht,  actief en passief kiesrecht voor mannen,  passief kiesrecht voor vrouwen",
+		"id": "1e3494ae-8c1e-4702-a7f4-a99f297e9c89",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"47c1f023-7ff3-4111-b5c0-3f68b70aa622"
+		],
+		"title": "De invoering van een stelsel van evenredige vertegenwoordiging,  De vervanging van het districtenstelsel door een stelsel van evenredige vertegenwoordiging,  de voor- en nadelen van beide systemen,  algemeen kiesrecht,  actief en passief kiesrecht voor mannen,  passief kiesrecht voor vrouwen",
+		"id": "fead6ded-5bf3-492b-ac57-ea10a3c3aaea",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"81680a9e-7ffc-41d9-bc7a-0d79ba1f4c7d"
+		],
+		"title": "herstelbetalingen, gebiedsafstand, demilitarisatie, ontstaan van nieuwe staten, oprichting van de Volkenbond",
+		"id": "ca7fe065-de24-4baf-bf6e-1b952f5afc2d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"c59ee966-daa2-4676-b57e-b42a55b2f376"
+		],
+		"title": "herstelbetalingen, gebiedsafstand, demilitarisatie, ontstaan van nieuwe staten, oprichting van de Volkenbond",
+		"id": "0280ba88-7922-4b62-b913-5956e78eff47",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"6399a3ed-59c7-4737-ad92-fecca60e29a8"
+		],
+		"title": "herstelbetalingen, gebiedsafstand, demilitarisatie, ontstaan van nieuwe staten, oprichting van de Volkenbond",
+		"id": "3e0ca57c-ba52-430b-bccc-7c4949564966",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"f93a1118-3368-44a9-abd1-2d44ee21941a"
+		],
+		"title": "herstelbetalingen, gebiedsafstand, demilitarisatie, ontstaan van nieuwe staten, oprichting van de Volkenbond",
+		"id": "76b1eb9a-ed03-4617-adb9-505bacfa2947",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"80b9f89e-a99a-4fd0-825a-492f24a8d5ed"
+		],
+		"title": "parlementaire democratie, Republiek van Weimar, Dolkstootlegende, inflatie, bezetting van het Ruhrgebied 1923, mislukte staatsgreep door Hitler 1923,  opleven van de economie in Duitsland (Dawesplan 1924),  Duitsland lid van de Volkenbond 1926, Beurskrach op Wallstreet 1929, de wereldwijde economische crisis",
+		"id": "f46c3dea-2514-4ed6-abd7-ca894a1caa7a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"0d8b7f44-c4b2-4dcb-bc5d-e131ecf7770c"
+		],
+		"title": "parlementaire democratie, Republiek van Weimar, Dolkstootlegende, inflatie, bezetting van het Ruhrgebied 1923, mislukte staatsgreep door Hitler 1923,  opleven van de economie in Duitsland (Dawesplan 1924),  Duitsland lid van de Volkenbond 1926, Beurskrach op Wallstreet 1929, de wereldwijde economische crisis",
+		"id": "c2574f17-abe0-4a71-9761-f7cddc8a8bd2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"a01adb6d-2e95-4cf6-8db2-8ffd3eb92194"
+		],
+		"title": "parlementaire democratie, Republiek van Weimar, Dolkstootlegende, inflatie, bezetting van het Ruhrgebied 1923, mislukte staatsgreep door Hitler 1923,  opleven van de economie in Duitsland (Dawesplan 1924),  Duitsland lid van de Volkenbond 1926, Beurskrach op Wallstreet 1929, de wereldwijde economische crisis",
+		"id": "946c5f6c-795b-48f2-b986-dae230ccb408",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"e823db9d-debe-4066-b523-b6016eed2ad0"
+		],
+		"title": "parlementaire democratie, Republiek van Weimar, Dolkstootlegende, inflatie, bezetting van het Ruhrgebied 1923, mislukte staatsgreep door Hitler 1923,  opleven van de economie in Duitsland (Dawesplan 1924),  Duitsland lid van de Volkenbond 1926, Beurskrach op Wallstreet 1929, de wereldwijde economische crisis",
+		"id": "99aa6ac9-f367-4c2f-940b-f46c5fdfb8ec",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"0b236f54-077a-4f87-801b-d233b39cf3ed"
+		],
+		"title": "nationaal-socialisme, fascisme, overeenkomsten en verschil tussen nationaal-socialisme en fascisme, machtsovername 1933 ,  afschaffing parlementaire democratie, dictatuur, Führer (principe),  terreur, gelijkschakeling, totalitair, censuur, propaganda, indoctrinatie, vervolging van (politieke GT) tegenstanders, geheime politie, persoonsverheerlijking,  herbewapening, antisemitisme, rassenleer, rassenwetten, discriminerende maatregelen, Kristallnacht 1938, vervolging van ‘niet-arische’ bevolkingsgroepen, \r\nconcentratiekampen, nazi-organisaties: NSDAP, SA, SS, Gestapo, Hitlerjugend, Bund Deutscher Mädel (GT)",
+		"id": "d3ba4b81-6cc1-47d5-9a57-bfb9298ff4f8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"a9c1e20a-3f9c-46f8-a488-66808f476abf"
+		],
+		"title": "nationaal-socialisme, fascisme, overeenkomsten en verschil tussen nationaal-socialisme en fascisme, machtsovername 1933 ,  afschaffing parlementaire democratie, dictatuur, Führer (principe),  terreur, gelijkschakeling, totalitair, censuur, propaganda, indoctrinatie, vervolging van (politieke GT) tegenstanders, geheime politie, persoonsverheerlijking,  herbewapening, antisemitisme, rassenleer, rassenwetten, discriminerende maatregelen, Kristallnacht 1938, vervolging van ‘niet-arische’ bevolkingsgroepen, \r\nconcentratiekampen, nazi-organisaties: NSDAP, SA, SS, Gestapo, Hitlerjugend, Bund Deutscher Mädel (GT)",
+		"id": "acb6e7ce-a57e-4819-84b8-de9515a80386",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"e1ab84cf-d2df-4a99-9732-a91db279715d"
+		],
+		"title": "nationaal-socialisme, fascisme, overeenkomsten en verschil tussen nationaal-socialisme en fascisme, machtsovername 1933 ,  afschaffing parlementaire democratie, dictatuur, Führer (principe),  terreur, gelijkschakeling, totalitair, censuur, propaganda, indoctrinatie, vervolging van (politieke GT) tegenstanders, geheime politie, persoonsverheerlijking,  herbewapening, antisemitisme, rassenleer, rassenwetten, discriminerende maatregelen, Kristallnacht 1938, vervolging van ‘niet-arische’ bevolkingsgroepen, \r\nconcentratiekampen, nazi-organisaties: NSDAP, SA, SS, Gestapo, Hitlerjugend, Bund Deutscher Mädel (GT)",
+		"id": "d572a98b-5367-49b3-809c-cc1867676218",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"ac68d116-0b7e-484e-b980-5044e352857b"
+		],
+		"title": "nationaal-socialisme, fascisme, overeenkomsten en verschil tussen nationaal-socialisme en fascisme, machtsovername 1933 ,  afschaffing parlementaire democratie, dictatuur, Führer (principe),  terreur, gelijkschakeling, totalitair, censuur, propaganda, indoctrinatie, vervolging van (politieke GT) tegenstanders, geheime politie, persoonsverheerlijking,  herbewapening, antisemitisme, rassenleer, rassenwetten, discriminerende maatregelen, Kristallnacht 1938, vervolging van ‘niet-arische’ bevolkingsgroepen, \r\nconcentratiekampen, nazi-organisaties: NSDAP, SA, SS, Gestapo, Hitlerjugend, Bund Deutscher Mädel (GT)",
+		"id": "a679333d-600e-4125-bff6-220739376a76",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"d4fffad5-88f1-4b6a-a175-370f8e661622"
+		],
+		"title": "Lebensraum, Heim ins Reich, conferentie van München 1938, Appeasementpolitiek, Anschluss 1938, niet-aanvalsverdrag 1939",
+		"id": "f8d34d9a-51e1-4699-bf11-109cc4b8c067",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"74e04917-81c1-4df5-877a-7281a8ffeba0"
+		],
+		"title": "Lebensraum, Heim ins Reich, conferentie van München 1938, Appeasementpolitiek, Anschluss 1938, niet-aanvalsverdrag 1939",
+		"id": "c6852204-4165-426d-ad22-db3f341fd3c8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"4f1c4406-3ba8-46bb-a09a-768d857e83da"
+		],
+		"title": "communisme, rol communistische partij in de Sovjet-Unie, planeconomie, vijfjarenplan, collectivisatie, kenmerken van stalinisme (GT): - totalitair, - persoonsverheerlijking,  - indoctrinatie, - censuur, - propaganda, - terreur, - geheime politie, -vervolging van tegenstanders, - showprocessen, - strafkampen, - zuiveringen",
+		"id": "41e8f885-794b-4d6f-839b-320b9779b2af",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"990bb834-6e76-42d9-92a5-b86471615805"
+		],
+		"title": "communisme, rol communistische partij in de Sovjet-Unie, planeconomie, vijfjarenplan, collectivisatie, kenmerken van stalinisme (GT): - totalitair, - persoonsverheerlijking,  - indoctrinatie, - censuur, - propaganda, - terreur, - geheime politie, -vervolging van tegenstanders, - showprocessen, - strafkampen, - zuiveringen",
+		"id": "69047b8f-acea-4986-aee0-d35e23169fc9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"e93ba5c3-b8f8-46e2-8658-b802c9944684"
+		],
+		"title": "algemeen actief kiesrecht voor vrouwen 1919",
+		"id": "2dbfb044-cfdc-4cf4-a266-24c15ad1ec98",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"ba66eddb-7438-4365-a3dc-d58f12db7763"
+		],
+		"title": "algemeen actief kiesrecht voor vrouwen 1919",
+		"id": "de17fdc9-b5e7-4832-8e6b-a91c8ce5cae8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"e093ca1c-4407-4ddd-a448-47f329e113ba"
+		],
+		"title": "algemeen actief kiesrecht voor vrouwen 1919",
+		"id": "ee13bf26-bd8c-4a16-a0d9-cae0fe86bc89",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"b4466613-2501-493b-82b0-be6964767760"
+		],
+		"title": "algemeen actief kiesrecht voor vrouwen 1919",
+		"id": "2cda23eb-adec-4c0c-96be-becc502422e8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"c9e731ed-882d-4749-89b2-a6e09f753e66"
+		],
+		"title": "crisistijd, werkloosheid, stempelen, werkverschaffingsprojecten, aanpassingspolitiek, gevolg van de economische crisis voor de democratie, NSB, handhaving neutraliteit,",
+		"id": "ddcb191e-4011-4a71-95d3-08a5137c63dd",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"b3ce47df-1f83-4436-b2d9-c25041aeb846"
+		],
+		"title": "crisistijd, werkloosheid, stempelen, werkverschaffingsprojecten, aanpassingspolitiek, gevolg van de economische crisis voor de democratie, NSB, handhaving neutraliteit,",
+		"id": "c211b8e5-830f-43f4-b9dc-916d612eafa9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"2589d284-5bf9-426f-af63-df3c21d3ffc3"
+		],
+		"title": "crisistijd, werkloosheid, stempelen, werkverschaffingsprojecten, aanpassingspolitiek, gevolg van de economische crisis voor de democratie, NSB, handhaving neutraliteit,",
+		"id": "65ad74d7-121c-448e-a1ad-dfc9d64fcdac",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"ecf81489-8ae0-460f-b619-df7d4e106755"
+		],
+		"title": "crisistijd, werkloosheid, stempelen, werkverschaffingsprojecten, aanpassingspolitiek, gevolg van de economische crisis voor de democratie, NSB, handhaving neutraliteit,",
+		"id": "94a81292-3110-47df-85f7-d6efd01981d8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"2492e08a-054b-447c-8832-18925e6ab3c1"
+		],
+		"title": "onvrede over armoede,  werkloosheid,  (bepalingen van het) verdrag van Versailles, revanche, herbewapening, nationalisme",
+		"id": "7a4e7517-7b66-421d-921c-ea233cc01120",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"d974653f-e156-468e-9b62-bd9c5384433b"
+		],
+		"title": "onvrede over armoede,  werkloosheid,  (bepalingen van het) verdrag van Versailles, revanche, herbewapening, nationalisme",
+		"id": "5d604590-96e0-4bd7-9eda-bb0874040be5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"60dae997-cdf5-4d4a-9674-cf962fc45ecb"
+		],
+		"title": "onvrede over armoede,  werkloosheid,  (bepalingen van het) verdrag van Versailles, revanche, herbewapening, nationalisme",
+		"id": "e7659f20-4e47-4400-938e-792924176abb",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"f048e425-e32d-461f-99e4-5c16701f1db1"
+		],
+		"title": "onvrede over armoede,  werkloosheid,  (bepalingen van het) verdrag van Versailles, revanche, herbewapening, nationalisme",
+		"id": "ba093f45-362e-4fef-99d2-99a6e22cc238",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"4dacfc81-3933-4fac-a152-545dbfc0daae"
+		],
+		"title": "De inval in Polen in 1939",
+		"id": "689d93c0-49ee-4666-8359-c50759d2c0bd",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"9c5da73d-6634-43a0-bed9-e322e29f9473"
+		],
+		"title": "De inval in Polen in 1939",
+		"id": "c8446325-57bc-4f70-beda-2e4a4af5699f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"f67e242a-ff90-4e26-b17a-f854c813b196"
+		],
+		"title": "De inval in Polen in 1939",
+		"id": "998692e0-3d15-42a1-8b21-c8c456a0484e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"4de69fe4-67b4-4c41-8260-4ea4bf55613a"
+		],
+		"title": "De inval in Polen in 1939",
+		"id": "18b4fe04-2988-48da-94fd-a9348e38eba9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"86ea77dd-96b3-4c2c-a7bf-8c42c62b888d"
+		],
+		"title": "Blitzkrieg, slag om Engeland, Operatie Barbarossa 1941,  Pearl Harbor 1941, slag bij Stalingrad 1942-1943, D-Day 6-6-1944), tweefrontenoorlog",
+		"id": "6d3e4b54-2eff-4d1a-9cdb-8f80e0d5646a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"e778b3bc-f2db-4dc8-9367-79bdb3f990ac"
+		],
+		"title": "Blitzkrieg, slag om Engeland, Operatie Barbarossa 1941,  Pearl Harbor 1941, slag bij Stalingrad 1942-1943, D-Day 6-6-1944), tweefrontenoorlog",
+		"id": "d34cea95-f525-442b-b94d-9d4246de004a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"8ff773d6-808d-46ba-9c16-c422053cb89e"
+		],
+		"title": "Blitzkrieg, slag om Engeland, Operatie Barbarossa 1941,  Pearl Harbor 1941, slag bij Stalingrad 1942-1943, D-Day 6-6-1944), tweefrontenoorlog",
+		"id": "6b7969d4-ddee-49db-ade1-eeb9eb2e3b17",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"fe113736-f6dc-42d3-b4d8-badf083f4d88"
+		],
+		"title": "Blitzkrieg, slag om Engeland, Operatie Barbarossa 1941,  Pearl Harbor 1941, slag bij Stalingrad 1942-1943, D-Day 6-6-1944), tweefrontenoorlog",
+		"id": "89c6601d-0712-4d4c-b3d7-edc8276b2a17",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"3758484c-9a2c-4589-b60a-2dbe37529d2c"
+		],
+		"title": "'moderne’ wapens, veel slachtoffers, totale oorlog, bombardementen op steden, propaganda, censuur, massamoorden, Holocaust, gaskamers",
+		"id": "4d2563b5-ff35-4a5c-b379-d23089eb1476",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"4a6cfeb7-3c14-4885-a032-fc62eef8f090"
+		],
+		"title": "'moderne’ wapens, veel slachtoffers, totale oorlog, bombardementen op steden, propaganda, censuur, massamoorden, Holocaust, gaskamers",
+		"id": "92af7379-cd6a-4c97-8c9e-bd88868b49dc",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"73c9e74b-87f3-4d18-982b-4aff28bba473"
+		],
+		"title": "'moderne’ wapens, veel slachtoffers, totale oorlog, bombardementen op steden, propaganda, censuur, massamoorden, Holocaust, gaskamers",
+		"id": "1f4ad11f-4086-4532-a171-a0dd49ac8ccb",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"8b6f6049-6059-448a-b3ff-323af4ece9ca"
+		],
+		"title": "'moderne’ wapens, veel slachtoffers, totale oorlog, bombardementen op steden, propaganda, censuur, massamoorden, Holocaust, gaskamers",
+		"id": "723b95a9-f644-44d9-a6a1-ccc39fa511d5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"3bba47ed-c8f9-4ac3-9fc5-6d81493304e6"
+		],
+		"title": "Duitse overgave mei 1945, Japanse overgave na atoombommen op Hiroshima en Nagasaki aug. 1945, ontdekking vernietigingskampen",
+		"id": "c9eef9f2-6437-4962-9efd-cd5f2c9abd2b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"7c5a7159-f00a-46c7-b4d4-06e460c50b93"
+		],
+		"title": "Duitse overgave mei 1945, Japanse overgave na atoombommen op Hiroshima en Nagasaki aug. 1945, ontdekking vernietigingskampen",
+		"id": "2ab440fe-a268-43b2-bcb6-29522b588cf5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"9dded739-442c-4688-92e1-5b1811035518"
+		],
+		"title": "Duitse overgave mei 1945, Japanse overgave na atoombommen op Hiroshima en Nagasaki aug. 1945, ontdekking vernietigingskampen",
+		"id": "ed3cc4cc-847e-4aeb-b33b-f79ed3d7969c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"d65f32eb-c286-4d92-9eec-3336f730b0df"
+		],
+		"title": "Duitse overgave mei 1945, Japanse overgave na atoombommen op Hiroshima en Nagasaki aug. 1945, ontdekking vernietigingskampen",
+		"id": "b3fe802e-20e1-4f30-a536-666c188712d0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"c648c68a-5399-40fc-8db0-cd500753df2f"
+		],
+		"title": "As-mogendheden: Duitsland, Italië, Japan, Geallieerden: Groot-Brittannië, Sovjetunie vanaf 1941, Verenigde Staten vanaf 1941",
+		"id": "502eeeb0-2f4b-44d6-8346-8d47033fce8c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"6db2e549-d03f-498e-98da-f58bb4aa885f"
+		],
+		"title": "As-mogendheden: Duitsland, Italië, Japan, Geallieerden: Groot-Brittannië, Sovjetunie vanaf 1941, Verenigde Staten vanaf 1941",
+		"id": "eeec3543-1546-469d-990f-b612bb292252",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"eef73c23-1b5f-4bf1-9c8b-437c39eef091"
+		],
+		"title": "As-mogendheden: Duitsland, Italië, Japan, Geallieerden: Groot-Brittannië, Sovjetunie vanaf 1941, Verenigde Staten vanaf 1941",
+		"id": "d3ca972b-68d9-4673-9461-ead2846481e3",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"0fde05ea-e3ba-4c0a-91c3-dc281ad4d22f"
+		],
+		"title": "As-mogendheden: Duitsland, Italië, Japan, Geallieerden: Groot-Brittannië, Sovjetunie vanaf 1941, Verenigde Staten vanaf 1941",
+		"id": "c73e3170-517b-4e18-8d28-210e8a49c8d3",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"fef88d22-ce91-452e-b111-e7945c593414"
+		],
+		"title": "mobilisatie, Duitse inval 10 mei 1940, bombardement op Rotterdam, capitulatie",
+		"id": "0b957124-61d2-48db-b6c1-2064aabe00ea",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"edf96576-c6ba-4c01-a116-c327d1de194e"
+		],
+		"title": "mobilisatie, Duitse inval 10 mei 1940, bombardement op Rotterdam, capitulatie",
+		"id": "8d23739a-d28e-4fc5-8ef0-0838dfbec992",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"326bedf0-c458-49dc-9d93-e8c243d0ed3f"
+		],
+		"title": "mobilisatie, Duitse inval 10 mei 1940, bombardement op Rotterdam, capitulatie",
+		"id": "e3631014-0a6a-41ca-85b0-89bc9fd153b9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"b6213e26-9b34-4154-8e16-6d55ca2e5d64"
+		],
+		"title": "mobilisatie, Duitse inval 10 mei 1940, bombardement op Rotterdam, capitulatie",
+		"id": "a97bceb5-29dc-4671-8e4f-d903dee5d39d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"7932b60d-af21-40be-9d9b-663d2c352915"
+		],
+		"title": "bezetting, Nederlandse regering en koningshuis in ballingschap",
+		"id": "ffc16151-4244-498c-8043-025dfa771c2c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"41c7c488-7879-4721-ba1f-1e34f8b9b7e9"
+		],
+		"title": "bezetting, Nederlandse regering en koningshuis in ballingschap",
+		"id": "cf7706f3-3c22-4a9b-a6da-3a3bffccb7df",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"d9d46bb1-9eea-4b17-93a1-054f5a389275"
+		],
+		"title": "bezetting, Nederlandse regering en koningshuis in ballingschap",
+		"id": "3dee477a-af98-40d7-9bc5-6a4097c82cdc",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"a3273beb-9d2d-4150-b845-6767ff5387c8"
+		],
+		"title": "bezetting, Nederlandse regering en koningshuis in ballingschap",
+		"id": "446591bc-8b71-4ef6-8880-ea4ef657d943",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"dbf806c2-773d-4bb1-8d32-9155de5c928b"
+		],
+		"title": "NSB, Jodenvervolging, Februaristaking 1941, deportaties, Westerbork, Auschwitz,  collaboratie, aanpassing, verzet, 'goed en fout’, landverraders, censuur,  gedwongen tewerkstelling, razzia’s, onderduiken, persoonsbewijzen, overleven in bezettingstijd, distributiesysteem met bonkaarten, Hongerwinter",
+		"id": "a9e0f62c-8543-4c32-be8b-9dc1a47db321",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"cf49fb39-1f46-45bd-955b-8f2e239ed982"
+		],
+		"title": "NSB, Jodenvervolging, Februaristaking 1941, deportaties, Westerbork, Auschwitz,  collaboratie, aanpassing, verzet, 'goed en fout’, landverraders, censuur,  gedwongen tewerkstelling, razzia’s, onderduiken, persoonsbewijzen, overleven in bezettingstijd, distributiesysteem met bonkaarten, Hongerwinter",
+		"id": "022726fc-4ce4-452a-be3d-2a49b3f3bcba",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"a563d17e-8132-4abc-9ffc-96cd65def643"
+		],
+		"title": "NSB, Jodenvervolging, Februaristaking 1941, deportaties, Westerbork, Auschwitz,  collaboratie, aanpassing, verzet, 'goed en fout’, landverraders, censuur,  gedwongen tewerkstelling, razzia’s, onderduiken, persoonsbewijzen, overleven in bezettingstijd, distributiesysteem met bonkaarten, Hongerwinter",
+		"id": "76922de2-eb98-4af4-86a1-28b57b7cf47c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"49ccc8aa-0418-44eb-be48-bb7e69131f21"
+		],
+		"title": "NSB, Jodenvervolging, Februaristaking 1941, deportaties, Westerbork, Auschwitz,  collaboratie, aanpassing, verzet, 'goed en fout’, landverraders, censuur,  gedwongen tewerkstelling, razzia’s, onderduiken, persoonsbewijzen, overleven in bezettingstijd, distributiesysteem met bonkaarten, Hongerwinter",
+		"id": "497402bc-347d-46e8-91dd-d5dc376568af",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"e8d0a42b-af04-4b5d-bd64-7d680e1f4bb2"
+		],
+		"title": "operatie Market Garden, slag om Arnhem 1944, bevrijding van Nederland 5 mei 1945",
+		"id": "2874a10a-c72b-4ec8-b813-7c1ea9a55c02",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"f3daa7a3-4297-4fb0-8e62-35141b724aa9"
+		],
+		"title": "operatie Market Garden, slag om Arnhem 1944, bevrijding van Nederland 5 mei 1945",
+		"id": "e9d1336c-6e75-4f14-aab2-732df5f9b7c3",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"c0935f5d-7f50-48cb-82e7-e65780db842b"
+		],
+		"title": "operatie Market Garden, slag om Arnhem 1944, bevrijding van Nederland 5 mei 1945",
+		"id": "79edbcd6-d325-42de-888f-b0ace7da1501",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"376e762f-d353-4bed-b3cf-e43bd341753f"
+		],
+		"title": "operatie Market Garden, slag om Arnhem 1944, bevrijding van Nederland 5 mei 1945",
+		"id": "8719fd7c-7a44-4e61-a095-55ed15891d06",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"0258b705-1be1-47b7-98bc-82fe0f82234e"
+		],
+		"title": "operatie Market Garden, slag om Arnhem 1944, bevrijding van Nederland 5 mei 1945, bevrijding van Indonesië (15 augustus 1945)",
+		"id": "5390074a-3dfc-4925-b31a-6676ae12ca04",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"148482ba-13ac-4efd-9dd3-0fe9e21a7365"
+		],
+		"title": "operatie Market Garden, slag om Arnhem 1944, bevrijding van Nederland 5 mei 1945, bevrijding van Indonesië (15 augustus 1945)",
+		"id": "def208b1-bc56-4952-a296-27f2dbe1ed4d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"cf7dac6b-2764-451d-a05a-9706aa2bb0ce"
+		],
+		"title": "operatie Market Garden, slag om Arnhem 1944, bevrijding van Nederland 5 mei 1945, bevrijding van Indonesië (15 augustus 1945)",
+		"id": "fbe83dc4-2f29-4558-bee7-ac43faff38e6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"666a67fb-9017-43fd-9385-288f3df549ec"
+		],
+		"title": "operatie Market Garden, slag om Arnhem 1944, bevrijding van Nederland 5 mei 1945, bevrijding van Indonesië (15 augustus 1945)",
+		"id": "d9ceba6d-8766-43b5-8d48-b4dee9c2c21f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"197394ef-a459-47d1-b754-de0568ab5760"
+		],
+		"title": "4 mei dodenherdenking, 5 mei Dag van de vrijheid",
+		"id": "3155cca2-66ae-4240-ba03-b61f01c61f5f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"1265ecec-f3e7-4c75-ad54-7ceff3c4e9e3"
+		],
+		"title": "4 mei dodenherdenking, 5 mei Dag van de vrijheid",
+		"id": "05c07d5d-65d7-4c13-9f10-dc61537353db",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"f3d555f5-5601-48bd-b9d3-46f47fab23f6"
+		],
+		"title": "4 mei dodenherdenking, 5 mei Dag van de vrijheid",
+		"id": "5fc50007-aed5-44dc-8055-337b97b493ec",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"07b0a301-3fec-41e8-be2e-a2f693d319d7"
+		],
+		"title": "4 mei dodenherdenking, 5 mei Dag van de vrijheid",
+		"id": "c401bf61-2a67-4fc6-82c5-1726b7b1003b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"75de331b-92c0-4985-9303-83376ae5e407"
+		],
+		"title": "Japanse bezetting van de Nederlandse kolonie Indonesië 1942, kampen, dwangarbeid, Indonesisch nationalisme,  bevrijding van Indonesië,15 augustus 1945",
+		"id": "6e31cc08-3103-4049-84e2-ba03bc66ee14",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"270db7a3-3444-46be-bdb9-278350383b15"
+		],
+		"title": "Japanse bezetting van de Nederlandse kolonie Indonesië 1942, kampen, dwangarbeid, Indonesisch nationalisme,  bevrijding van Indonesië,15 augustus 1945",
+		"id": "647e8d01-05dd-4810-af16-8c06b8266f4a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"c1d9988f-92f5-4d69-9feb-47693f8eac1f"
+		],
+		"title": "massaorganisatie, propaganda, communicatiemiddelen.",
+		"id": "3c1683e0-cd82-4b43-9349-522a6926e55d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"8f7f13b1-8848-45ea-bfc9-20a4418944ee"
+		],
+		"title": "massaorganisatie, propaganda, communicatiemiddelen.",
+		"id": "9d91db9e-7777-4974-9053-6102b48f82ac",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"18e51cc6-27da-453b-b1ab-5a6598579892"
+		],
+		"title": "ideologie, totalitarisme, communisme, fascisme, nationaalsocialisme",
+		"id": "20cd77dd-b88e-4d1d-819a-cce012138c74",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"9075b33f-aac5-4678-9439-95cd9f85417a"
+		],
+		"title": "Hitler, nationaalsocialisme, totalitarisme, NSDAP",
+		"id": "eb45fd88-f57b-4bca-85dc-33408f5fb84d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"3c819829-89a9-4c97-9530-36d402067a42"
+		],
+		"title": "nationaalsocialisme, Goebbels, propaganda, terreur, censuur, Volksgemeinschaft, appeasement, Arische ras, geallieerden",
+		"id": "7f58818d-bfd6-40cf-9b5f-c1ef3b55c4bd",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"81bc8ed6-fd6b-4a6a-a597-022ec4bc7726"
+		],
+		"title": "ideologie, totalitarisme, communisme, fascisme, nationaalsocialisme",
+		"id": "3a5e3f6b-c7d8-404c-be05-43f856100f9f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"e610707b-7eb2-4662-b4bd-01a3e7d79732"
+		],
+		"title": "Hitler, nationaalsocialisme, totalitarisme, NSDAP",
+		"id": "3220692a-f6f0-4f98-a583-7220f097cb40",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"bfe64dce-f40e-4b86-bee2-99177e0e60ae"
+		],
+		"title": "nationaalsocialisme, Goebbels, propaganda, terreur, censuur, Volksgemeinschaft, appeasement, Arische ras, geallieerden",
+		"id": "ded5c90d-ea44-4e2b-88bd-f2a25cfec8a7",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"11702bb1-f68c-4e64-9f65-c13a5c70dd70"
+		],
+		"title": "wereldkapitalisme, crisis, wereldeconomie",
+		"id": "8ec58a3b-2cf3-47fc-a70b-b114e5987b91",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"45ffe1e8-7c8a-44a6-94d5-95c4c456da00"
+		],
+		"title": "wereldkapitalisme, crisis, wereldeconomie",
+		"id": "ff11832b-9380-479f-956c-81fefa9b4f9c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"60e95774-4df7-40d2-bc27-2f183d039b54"
+		],
+		"title": "wereldoorlog",
+		"id": "36957ec8-c6eb-4d67-8a72-7aea3f64aa92",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"df9fc121-1c53-4eb3-8eae-fe95fe11c9d9"
+		],
+		"title": "wereldoorlog",
+		"id": "3b24de7b-a59b-4f65-b0a9-b4a6a4788a91",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"8f29e897-3259-4cf4-b804-511f4d093bee"
+		],
+		"title": "concentratiekampen, racisme, discriminatie, genocide, antisemitisme",
+		"id": "1a670d6c-9d28-464b-bdbc-2d3981962d32",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"fbe005c3-cf76-434a-897f-044d734e443e"
+		],
+		"title": "concentratiekampen, racisme, discriminatie, genocide, antisemitisme",
+		"id": "3dcbbbe0-21db-4be2-8941-4ce646182f27",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"573df9d8-1305-426f-83b9-3c56d73cf552"
+		],
+		"title": "atoomwapens, massavernietigingswapens",
+		"id": "2e649101-9a98-49e2-bc80-b1ddd5eb34d5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"0b7f7881-b68f-4308-b6c8-d4f2ab6f9e2f"
+		],
+		"title": "atoomwapens, massavernietigingswapens",
+		"id": "744482a3-3044-4dc1-ac40-cc74147bdb05",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"9d91a313-9bd4-4371-bb2c-d71fd4d96084"
+		],
+		"title": "dekolonisatie, nationalisme, imperialisme",
+		"id": "c0d6f4cb-9a1d-4666-a6e1-ce7e94538ed2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"d75851f0-7daf-4dca-9916-6856b1ed2244"
+		],
+		"title": "dekolonisatie, nationalisme, imperialisme",
+		"id": "75b7b423-0e81-48dd-9d19-8f3025bbe47f",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"38927e0d-22b2-429d-9877-665ca45f1513"
+		],
+		"title": "Koude oorlog, Srebenica",
+		"id": "0eb2d693-4c25-4128-a7cf-f9282a534f95",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"b7b585d2-9e73-41b5-9fbf-86c84f8deada"
+		],
+		"title": "pluriformiteit, jaren '60, televisie, de Watersnoodramp, haven van Rotterdam, gasbel",
+		"id": "6f43dd64-1acc-4d10-9023-0adc357250d6",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"415ba4b2-67b7-4fdb-9b36-ea641ddaf1b1"
+		],
+		"title": "veelkleurig Nederland",
+		"id": "b6e161e9-5de9-46ac-9455-6feff1b4ab3b",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"753e8cef-fb6b-44a3-9f40-dd43f0d81c98"
+		],
+		"title": "Indonesië, onafhankelijkheid, koloniën, Suriname en de Nederlandse Antillen",
+		"id": "a220b489-ad4f-472f-a9e3-c712b4d24e67",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"d5545cb1-8d9a-416f-8778-70bd4a7eb8f9"
+		],
+		"title": "Europa, Europese eenwording",
+		"id": "93f6c130-f925-49c1-bcc1-a12f69d7065a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"9a7d21fc-2ef0-4849-a6a0-e9e63378aab6"
+		],
+		"title": "Europese mogendheden verzwakt, dekolonisatie",
+		"id": "edd3df6f-9125-4158-b021-a88f0058d5d7",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"281105c4-b7f3-4ca9-a444-165fac452220"
+		],
+		"title": "Europese mogendheden verzwakt, dekolonisatie",
+		"id": "6322bd26-8aa4-4eee-bddc-efd6e4b6334a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"493995db-422a-4ada-a7d6-cb12319c87d0"
+		],
+		"title": "Europese mogendheden verzwakt, dekolonisatie",
+		"id": "cbc41537-785a-4042-b539-3ccf78d0b7b1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"6318adf3-1bbf-42ae-9b7a-fb10560e7395"
+		],
+		"title": "Koude Oorlog, invloedssferen, satellietstaten, IJzeren Gordijn, blokkade Berlijn, stichting BRD en DDR, NAVO, Warschaupact, kernwapens, afschrikking, ideologie, kapitalisme, democratie, communisme, dictatuur, kernwapens, afschrikking",
+		"id": "ab389d79-2f37-4615-a3c2-6c7d4de983ce",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"69fb3731-8a45-4c61-934e-8759e630e94b"
+		],
+		"title": "Koude Oorlog, invloedssferen, satellietstaten, IJzeren Gordijn, blokkade Berlijn, stichting BRD en DDR, NAVO, Warschaupact, kernwapens, afschrikking, ideologie, kapitalisme, democratie, communisme, dictatuur, kernwapens, afschrikking",
+		"id": "238fe89c-ce1a-4f49-8333-457448b76d99",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"0a9a6b17-0a97-45d9-8fb0-478939475dcc"
+		],
+		"title": "Koude Oorlog, invloedssferen, satellietstaten, IJzeren Gordijn, blokkade Berlijn, stichting BRD en DDR, NAVO, Warschaupact, kernwapens, afschrikking, ideologie, kapitalisme, democratie, communisme, dictatuur, kernwapens, afschrikking",
+		"id": "aa085348-1eb1-4642-b80a-cd76713aa10c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"daed34a8-03ca-4565-a05e-f2fddecd3177"
+		],
+		"title": "Koude Oorlog, invloedssferen, satellietstaten, IJzeren Gordijn, blokkade Berlijn, stichting BRD en DDR, NAVO, Warschaupact, kernwapens, afschrikking, ideologie, kapitalisme, democratie, communisme, dictatuur, kernwapens, afschrikking",
+		"id": "f2d9beac-6d4d-4398-98c1-dcd8254121d2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"33d50d13-e83b-4b90-834f-b7625c44eddc"
+		],
+		"title": "Hongaarse opstand 1956, bouw Berlijnse Muur 1961, Cubacrisis 1962, Praagse lente 1968, wapenwedloop, glasnost, perestrojka, val van de Berlijnse Muur 1989",
+		"id": "b56c3496-ffc7-4b7d-973d-7920580738f2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"f43440c4-df60-4577-a6b8-5ac076940f8c"
+		],
+		"title": "Hongaarse opstand 1956, bouw Berlijnse Muur 1961, Cubacrisis 1962, Praagse lente 1968, wapenwedloop, glasnost, perestrojka, val van de Berlijnse Muur 1989",
+		"id": "36def86d-6c8e-4317-8066-7e7a356533f7",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"f37c8c35-07c8-4bba-8f0e-7da8ef31b3e5"
+		],
+		"title": "Hongaarse opstand 1956, bouw Berlijnse Muur 1961, Cubacrisis 1962, Praagse lente 1968, wapenwedloop, glasnost, perestrojka, val van de Berlijnse Muur 1989",
+		"id": "61a16d44-a425-4788-b8ea-7fb076057183",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"2463aadf-7bbb-4f87-aad8-382da10b187a"
+		],
+		"title": "Hongaarse opstand 1956, bouw Berlijnse Muur 1961, Cubacrisis 1962, Praagse lente 1968, wapenwedloop, glasnost, perestrojka, val van de Berlijnse Muur 1989",
+		"id": "3222ef4e-2141-4875-8f8f-fb9c548e17c3",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"30596fcf-cd39-4353-a53a-0caee2a84b86"
+		],
+		"title": "Verenigde Naties, Veiligheidsraad, vetorecht, samenwerking in Europa , EGKS, (E)EG",
+		"id": "9e47ec87-e5b9-4ad3-9b8e-0d59c942e1ee",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"a03ee7e3-fd5b-409b-b780-29231d40cbb6"
+		],
+		"title": "Verenigde Naties, Veiligheidsraad, vetorecht, samenwerking in Europa , EGKS, (E)EG",
+		"id": "fac32c0a-b320-4dcd-aed4-3a909778e116",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"2a61fc00-0051-4e36-bab2-e26b7a78dd60"
+		],
+		"title": "Verenigde Naties, Veiligheidsraad, vetorecht, samenwerking in Europa , EGKS, (E)EG",
+		"id": "0c2d442b-8c04-4cb6-a1af-c10d14fae8b1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"645d0fb9-23b3-4648-ae18-6ee6208f093e"
+		],
+		"title": "Verenigde Naties, Veiligheidsraad, vetorecht, samenwerking in Europa , EGKS, (E)EG",
+		"id": "e6256a25-927a-44ff-9864-e5b61784fb42",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"5c2d8167-ff1d-4b41-8ecc-f821093a0164"
+		],
+		"title": "Soekarno roept de onafhankelijke Republiek Indonesië uit (17 augustus 1945), Politionele acties 1947 en 1948, druk van de Verenigde Naties en de Verenigde Staten, soevereiniteitsoverdracht 1949",
+		"id": "35ebe800-5510-4ea7-94c1-072d887c9ece",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"687fdcf1-8a5c-40d0-aa1a-1b14e653bf37"
+		],
+		"title": "Soekarno roept de onafhankelijke Republiek Indonesië uit (17 augustus 1945), Politionele acties 1947 en 1948, druk van de Verenigde Naties en de Verenigde Staten, soevereiniteitsoverdracht 1949",
+		"id": "9d0a1f0b-bce4-4c89-94ed-fe68d5de9e8b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"b2389d7a-8c8b-468b-97c4-31daa587e783"
+		],
+		"title": "wederopbouw, migratie, Marshallplan, economische groei en welvaartsstijging, consumptiemaatschappij, verzorgingsstaat, werkloosheid in jaren tachtig",
+		"id": "c1187839-e51f-43d2-9916-698715d6675f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"d6bee132-0b58-46b4-baf8-179b291565bb"
+		],
+		"title": "wederopbouw, migratie, Marshallplan, economische groei en welvaartsstijging, consumptiemaatschappij, verzorgingsstaat, werkloosheid in jaren tachtig",
+		"id": "f1d8a619-97b4-427c-915e-546d608728a1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"85a1b9e2-9a8c-4914-bbe3-aa4b2129abcf"
+		],
+		"title": "wederopbouw, migratie, Marshallplan, economische groei en welvaartsstijging, consumptiemaatschappij, verzorgingsstaat, werkloosheid in jaren tachtig",
+		"id": "e464ed35-8d33-4611-a176-5414038d9d84",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"352bff1e-99eb-411d-8a93-26867c24e9a5"
+		],
+		"title": "wederopbouw, migratie, Marshallplan, economische groei en welvaartsstijging, consumptiemaatschappij, verzorgingsstaat, werkloosheid in jaren tachtig",
+		"id": "b0414f4f-f9f8-4459-a7d4-ba459da43052",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"15af0fa9-64ec-423e-93d9-097e9aeffb8d"
+		],
+		"title": "amerikanisering, gastarbeid(ers), migranten uit voormalige Nederlandse koloniën, jongerencultuur, ontzuiling, belang van televisie, Tweede Feministische Golf, toenemende democratisering/inspraak",
+		"id": "596e9df1-531d-496e-8729-a17c8bda8657",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"90bdde3b-62d3-4307-998d-77d0f9e685ab"
+		],
+		"title": "amerikanisering, gastarbeid(ers), migranten uit voormalige Nederlandse koloniën, jongerencultuur, ontzuiling, belang van televisie, Tweede Feministische Golf, toenemende democratisering/inspraak",
+		"id": "8e86b7ac-99ad-4cb2-8510-7d5c0485636c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"7b387b46-2929-4b79-b575-c1a5c1f7c000"
+		],
+		"title": "amerikanisering, gastarbeid(ers), migranten uit voormalige Nederlandse koloniën, jongerencultuur, ontzuiling, belang van televisie, Tweede Feministische Golf, toenemende democratisering/inspraak",
+		"id": "d6e99656-535b-44c6-87e7-f5533bbedb88",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"90ef38d0-e517-4922-bc99-410cf3dcbc57"
+		],
+		"title": "amerikanisering, gastarbeid(ers), migranten uit voormalige Nederlandse koloniën, jongerencultuur, ontzuiling, belang van televisie, Tweede Feministische Golf, toenemende democratisering/inspraak",
+		"id": "ed3fb23c-78b7-43f2-a6e0-8fddb4bea875",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"3a1797c6-cfc0-42f6-941d-62ba054e2d4e"
+		],
+		"title": "recht op onderwijs, recht op gezondheidszorg, recht op woongelegenheid",
+		"id": "a9d914b7-5b9f-4d9f-8caa-b26ec0d20891",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"e92e8480-22d6-4cdf-9fc5-9eb0ea29749a"
+		],
+		"title": "sociale grondrechten (bescherming door de overheid), recht op bestaanszekerheid, recht op onderwijs, recht op gezondheidszorg,  recht op woongelegenheid,  recht op bewoonbaarheid van het land, recht op werk, recht op rechtsbijstand",
+		"id": "28c8e54c-4c28-44a4-9a67-760540c5b601",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"ceba854d-6ff2-49e0-92be-cac462d8e215"
+		],
+		"title": "sociale grondrechten (bescherming door de overheid), recht op bestaanszekerheid, recht op onderwijs, recht op gezondheidszorg,  recht op woongelegenheid,  recht op bewoonbaarheid van het land, recht op werk, recht op rechtsbijstand",
+		"id": "e757208a-f0e5-472f-9406-d9cf63c2fad1",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"433bef70-f9ab-4a99-b673-5f124d2046ad"
+		],
+		"title": "sociale grondrechten (bescherming door de overheid), recht op bestaanszekerheid, recht op onderwijs, recht op gezondheidszorg,  recht op woongelegenheid,  recht op bewoonbaarheid van het land, recht op werk, recht op rechtsbijstand",
+		"id": "c151bc90-00c7-4ae7-820f-a8d6d75c305a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"d352511c-a62c-41b3-ae47-d4581b9684e6"
+		],
+		"title": "einde communistisch Oost-Europa, uiteenvallen van de  Sovjetunie 1990-1991, einde Koude Oorlog, ontstaan van nieuwe staten, Duitse eenwording,  internationaal terrorisme, 11-09-2001",
+		"id": "a5833f93-c244-4715-9ff9-15499416b016",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"8483157c-179f-4711-ba5e-611012454c88"
+		],
+		"title": "einde communistisch Oost-Europa, uiteenvallen van de  Sovjetunie 1990-1991, einde Koude Oorlog, ontstaan van nieuwe staten, Duitse eenwording, herlevend nationalisme in Europa, uitbreiding van de NAVO, bestrijding terrorisme, internationaal terrorisme, 11-09-2001",
+		"id": "18f9d6d4-c6a5-455e-a5ed-0b78b6304f7d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"d0d847f0-75af-49c2-8e24-b3352abd9400"
+		],
+		"title": "einde communistisch Oost-Europa, uiteenvallen van de  Sovjetunie 1990-1991, einde Koude Oorlog, ontstaan van nieuwe staten, Duitse eenwording, herlevend nationalisme in Europa, uitbreiding van de NAVO, bestrijding terrorisme, internationaal terrorisme, 11-09-2001",
+		"id": "5f046616-e706-4f8a-ae75-474b0fbbbc46",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"065e4c10-47ca-4c33-af68-ce34750f49bd"
+		],
+		"title": "einde communistisch Oost-Europa, uiteenvallen van de  Sovjetunie 1990-1991, einde Koude Oorlog, ontstaan van nieuwe staten, Duitse eenwording, herlevend nationalisme in Europa, uitbreiding van de NAVO, bestrijding terrorisme, internationaal terrorisme, 11-09-2001",
+		"id": "6bce6d05-7ab8-44d7-b206-9deb5e0a1b01",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"d96c1ce5-4a4c-497d-8a6a-719da2aa2db1"
+		],
+		"title": "economische groei in jaren negentig, individualisering",
+		"id": "f1039c26-a081-45f0-9375-7b7ffcb17d71",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"1bf3b1a1-39c1-458c-951f-4b87f4a975f1"
+		],
+		"title": "economische groei in jaren negentig, individualisering, poldermodel, overlegeconomie, de verzorgingsstaat ter discussie, bezorgdheid over nationale cultuur, identiteit, multiculturele samenleving, secularisatie, nieuwe media, globalisering",
+		"id": "62dbdb0f-13fd-4271-ab7f-beeb9e5c39d5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"881157b2-bba5-4c9e-830c-2b4de5197a21"
+		],
+		"title": "economische groei in jaren negentig, individualisering, poldermodel, overlegeconomie, de verzorgingsstaat ter discussie, bezorgdheid over nationale cultuur, identiteit, multiculturele samenleving, secularisatie, nieuwe media, globalisering",
+		"id": "68b1c6f2-103a-4679-be36-ded48b5602e8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"78160550-7834-494d-ab53-d9a8527dd24c"
+		],
+		"title": "economische groei in jaren negentig, individualisering, poldermodel, overlegeconomie, de verzorgingsstaat ter discussie, bezorgdheid over nationale cultuur, identiteit, multiculturele samenleving, secularisatie, nieuwe media, globalisering",
+		"id": "cfba4ca3-3533-4895-8eb6-f17122bf2675",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"358f977e-be37-4eed-b3e1-452a3e5b3258"
+		],
+		"title": "invoering euro 2002",
+		"id": "e7ed5f75-c676-43e3-8595-1234200ff447",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"75eead48-3d86-410e-aea8-bf11dc5c8371"
+		],
+		"title": "EG, EU 1993, invoering euro 2002, Verenigde Staten van Europa",
+		"id": "65957700-ef0f-474f-a04f-1aff03e38f31",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"dbadb48d-4bc1-4d59-8835-7d30088c866d"
+		],
+		"title": "EG, EU 1993, invoering euro 2002, Verenigde Staten van Europa",
+		"id": "03efd75f-a02e-4f04-8da8-745dfa047224",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"39702a41-cc92-414a-a444-8039e177f483"
+		],
+		"title": "EG, EU 1993, invoering euro 2002, Verenigde Staten van Europa",
+		"id": "47c0920a-7e34-483c-a15d-7e866dd8cb8c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"2f3cc3ad-9a4e-4c63-9a68-d5e36a47d435"
+		],
+		"title": "EG, EU 1993, invoering euro 2002, Verenigde Staten van Europa",
+		"id": "526f49d2-3d6c-4f63-b899-e82d1369dac7",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"c05f6736-3557-4899-a31d-a33e5681bc0c"
+		],
+		"title": "EG, EU 1993, invoering euro 2002, Verenigde Staten van Europa",
+		"id": "bb7b1529-610f-42fe-a32b-8f46e781604b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"d81120de-1e8a-45dd-93c2-496a2e8a88a0"
+		],
+		"title": "EG, EU 1993, invoering euro 2002, Verenigde Staten van Europa",
+		"id": "e9694af9-d95c-4259-8808-29841fee9cd2",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"6690a4f9-2c78-404f-904b-895e8de92ad7"
+		],
+		"title": "referendum",
+		"id": "7dce628d-8f0b-4b75-8bbe-5c9ddce9fe06",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"b87ff655-a400-44d0-a7d7-d316721850ff"
+		],
+		"title": "referendum",
+		"id": "08eb350d-bda3-40eb-858c-c7e417fd7084",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"1d9450e7-3304-4d01-9b72-3debb2e0fab3"
+		],
+		"title": "referendum, opkomst van het populisme",
+		"id": "4519a646-6c0c-4a31-9264-401ea846fe7b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"ce6996bf-e96f-4ff8-bf96-b1180bb74edd"
+		],
+		"title": "referendum, opkomst van het populisme",
+		"id": "09d7b37b-149e-40fe-8336-08e4f786a261",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"ebf19890-9895-4fd7-927d-13ce2430da0b"
+		],
+		"title": "ideologie, blokvorming, atoomoorlog, wapenwedloop",
+		"id": "0db50b54-5680-4691-b950-17f9b8fe9534",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"61b37d75-5c00-4250-8e76-d66218707c3e"
+		],
+		"title": "klasseloze samenleving, wereldrevolutie, partijdictatuur, kapitalisme, as-mogendheden, Trumandoctrine, Stalin, Marshall, volksdemocratie, McCarthy",
+		"id": "d0c8f285-2530-4f5b-9d15-ed100ce178cd",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"4d9d43fa-910b-410c-92da-9dffa5a4eba1"
+		],
+		"title": "BRD, DDR, NAVO, Warschaupact, co-existentie, Kennedy, Chroestsjov",
+		"id": "bf13ae8d-123b-4b7a-980e-ecdb454a1883",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"0b77ccdb-b528-4a20-934e-ef9259ece79e"
+		],
+		"title": "Détente, wapenwedloop, Gorbatsjov, Glasnost, Perestrojka, Breznjew-doctrine",
+		"id": "a3b40edc-11dc-45d4-8fae-134fc3ba27fa",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"a28c0f5d-bc8d-421d-8e45-fb872ac86b8f"
+		],
+		"title": "ideologie, blokvorming, atoomoorlog, wapenwedloop",
+		"id": "2323eb2b-7b08-47ae-8749-46460e15336f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"cb6a126d-3d41-427c-8a14-c75473a0b811"
+		],
+		"title": "klasseloze samenleving, wereldrevolutie, partijdictatuur, kapitalisme, as-mogendheden, Trumandoctrine, Stalin, Marshall, volksdemocratie, McCarthy",
+		"id": "2a152ff1-3013-4dd4-9746-3b0eb4d8eb80",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"a8c43311-b189-4ad8-82a1-1608cb34feb5"
+		],
+		"title": "BRD, DDR, NAVO, Warschaupact, co-existentie, Kennedy, Chroestsjov",
+		"id": "0274d2ab-e216-46e7-9ac8-e86142d9ab27",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"ec15844b-0934-46fa-8d15-e137d4c54127"
+		],
+		"title": "Détente, wapenwedloop, Gorbatsjov, Glasnost, Perestrojka, Breznjew-doctrine",
+		"id": "a441338f-24a8-4de4-a963-67bf6fd124ec",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"0e6eeb17-3588-452a-bd37-31838f47de6e"
+		],
+		"title": "hegemonie, dekolonisatie",
+		"id": "0925279b-bfe2-4f51-8401-6628887a633d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"be2ae5b2-b466-4c86-8e4a-df1363facb79"
+		],
+		"title": "hegemonie, dekolonisatie",
+		"id": "7228ae65-47c9-4d5d-ac0a-ad4eec33eee5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"daf34150-5fae-4e06-a3b7-c787ab171c54"
+		],
+		"title": "Europese samenwerking",
+		"id": "5c3b7cbe-59b3-454d-af12-22a4238038f8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"81f82393-3768-40dc-9eff-ad80e1899bac"
+		],
+		"title": "Europese samenwerking",
+		"id": "c205b1e3-15ff-4013-9134-dcd89ec74f04",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"1a3a3d21-5b70-45a0-85c6-89c3d2fc890a"
+		],
+		"title": "sociaal-culturele verandering",
+		"id": "0b2ba4a0-d9b3-4277-bf73-1e68adedcfc9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"bc630117-ab10-4c48-9144-af57e833edeb"
+		],
+		"title": "sociaal-culturele verandering",
+		"id": "937464ff-232c-429d-9c43-3aecd437269b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"16073137-7bdb-4c61-ab5d-e7a351501aea"
+		],
+		"title": "multiculturele samenleving, pluriforme samenleving",
+		"id": "d427d9e1-3916-48e8-8684-782a3d9d2b5c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"f9e138b5-2a38-4e4a-a45d-234d85e6a745"
+		],
+		"title": "multiculturele samenleving, pluriforme samenleving",
+		"id": "ec749463-d675-4d74-bf13-2fe8c6685dff",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"86821069-4993-4b6d-9ca4-810a5c8533c9"
+		],
+		"title": "vrijheidsrechten, politieke rechten, Verlichting",
+		"id": "ff251f71-15bd-48f2-aa34-82f6d08c306c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"c1ac55a3-63a5-40db-818f-3cd8f98f5aff"
+		],
+		"title": "klassiek-liberale rechtsstaat, democratische rechtsstaat",
+		"id": "37818d78-c203-4595-b0c5-ed55b630849b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"7791ab9c-75ef-44d9-8831-9881bab0d130"
+		],
+		"title": "parlementaire democratie, verzuiling, Pacificatie, Schoolstrijd, sociale kwestie, kiesrecht kwestie, poldermodel, populisme",
+		"id": "fc86b468-55ee-4973-ad24-a60df4472684",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"doelniveau_id": [
+			"1e2ea847-c057-4997-af65-2f074703d133"
+		],
+		"title": "politieke stroming, politieke partij, liberalisme, socialisme, protetstantisme, katholicisme, ARP, CHU, SDAP, PvdA, VVD, RKSP, KVP, CDA, Boerenpartij, D'66, PVV, Partij van de Dieren, Ouderenpartij, SP, CPN",
+		"id": "8a7846da-e270-47c0-8db7-d2bc7c67f9c2",
+		"unreleased": true
 	}
 ]
