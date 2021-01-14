@@ -11798,5 +11798,355 @@
 		"title": "De taakuitvoering: Luisteren",
 		"id": "31729207-71b2-4754-8ff8-c55425d2ac12",
 		"unreleased": true
+	},
+	{
+		"prefix": "gs/1/1/1",
+		"lpib_vakinhoud_id": "7d0e2ef6-d1ae-4785-bc58-a2aad8df353b",
+		"doelniveau_id": [
+			"70585f94-a050-4350-86be-84e7c4c35d55"
+		],
+		"title": "Het leven van jagers-verzamelaars in de prehistorie",
+		"id": "74a97e32-c628-4776-b4d3-2efe606a7bb8",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/1/2/1",
+		"lpib_vakinhoud_id": "7cdd7348-43df-42cc-9c0c-cdb58ae23e9f",
+		"doelniveau_id": [
+			"9c83f8be-d763-4f37-bbcf-3454c11ce003"
+		],
+		"title": "Het leven van boeren (in de prehistorie).",
+		"id": "20b779da-f46d-4ec6-9bb2-dd5173db262e",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/1/2/2",
+		"lpib_vakinhoud_id": "c6011669-9a41-4178-aa19-507dbb4ee7d3",
+		"doelniveau_id": [
+			"063586d4-1618-44dc-bc2c-c616715065f2"
+		],
+		"title": "Geschreven bronnen ontbreken",
+		"id": "3268a063-8cda-4b8d-b34b-7a376927e20e",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/2/2/1",
+		"lpib_vakinhoud_id": "0d3bb822-e2f9-4748-8ef2-f0133753665a",
+		"doelniveau_id": [
+			"6a55eeb9-a4fe-4b1e-97ae-9aec9b9dca3f"
+		],
+		"title": "Grieks-Romeinse cultuur",
+		"id": "47434c91-c62e-420d-84f6-76fe4abb7056",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/2/2/2",
+		"lpib_vakinhoud_id": "09a6c037-decd-40ec-911d-70eca1ef0ddc",
+		"doelniveau_id": [
+			"8ac14016-128b-4fa0-b68f-c76de4b890aa"
+		],
+		"title": "Grieks-Romeinse en Germaanse cultuur",
+		"id": "52f6b7f3-f2fe-44f1-ae18-d475d2d2b6ed",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/2/3/1",
+		"lpib_vakinhoud_id": "f9071c25-0a34-4662-b356-713c88fdcad1",
+		"doelniveau_id": [
+			"d9122e95-3961-4a51-9ea6-dd8ba34e868b"
+		],
+		"title": "Het christendom in het Romeinse Rijk",
+		"id": "7f1963d3-eef1-45ba-9de0-2a672347074c",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/3/1/1",
+		"lpib_vakinhoud_id": "fd09a1d4-087d-4166-a0a0-0f9e9589f1f7",
+		"doelniveau_id": [
+			"8144e411-9446-4c8e-a3de-94ee42354ec1"
+		],
+		"title": "De verspreiding van het christendom in het Romeinse Rijk",
+		"id": "c938009e-fefc-48dc-b114-037a69b86992",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/3/2/1",
+		"lpib_vakinhoud_id": "5d48995f-9597-41d0-a99a-aa6dcd835a4b",
+		"doelniveau_id": [
+			"2fcd1466-dc3d-4620-b736-7e1dfd8e7043"
+		],
+		"title": "Het hofstelsel, het leenstelsel en de horigheid",
+		"id": "1cba92f3-42b5-4b86-bd46-336b50ea09c5",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/4/2/1",
+		"lpib_vakinhoud_id": "d92443b0-eb07-4d3f-ba22-6851cff0ad9e",
+		"doelniveau_id": [
+			"68e611ac-6a13-4b90-9df7-35f2ee73d995"
+		],
+		"title": "De opkomst van handel en het ontstaan van steden",
+		"id": "00ff5763-3edd-4fa5-bf80-f4d90d3774fa",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/4/3/1",
+		"lpib_vakinhoud_id": "b92e168b-75ca-47e5-b4fb-066120f1b9ee",
+		"doelniveau_id": [
+			"f082a709-24d5-47e0-a1d3-c4199b729cb4"
+		],
+		"title": "De stedelijke burgerij",
+		"id": "d9bc460c-a179-42c2-8307-014fc9eba751",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/4/3/2",
+		"lpib_vakinhoud_id": "9db7f35f-00d4-4afb-b150-be48c2aadb37",
+		"doelniveau_id": [
+			"06bf5c2e-8a2a-48df-8412-8d93ca3f46a9"
+		],
+		"title": "De relatie stedelijke burgerij adel",
+		"id": "1a3f78fa-92e7-4122-9d31-1976ba09d289",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/5/2/1",
+		"lpib_vakinhoud_id": "81f2523e-2db7-44db-a9d0-6c7249eaccd4",
+		"doelniveau_id": [
+			"e30ec559-cdd4-4123-bcf8-582437084e1c"
+		],
+		"title": "De overzeese Europese expansie en de ontdekkingsreizen",
+		"id": "1aa2f3c7-23eb-49e0-9606-982c348cfdd6",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/5/3/1",
+		"lpib_vakinhoud_id": "ddf70966-0e26-489e-b6f5-46ba2c36ef1c",
+		"doelniveau_id": [
+			"83b4d670-ca74-4b52-b12a-493ab46170b2"
+		],
+		"title": "De Opstand",
+		"id": "b4d33bac-b045-4aef-829e-0f6234c03d97",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/5/3/2",
+		"lpib_vakinhoud_id": "70a40774-415d-4a82-aed8-7998c75faad1",
+		"doelniveau_id": [
+			"b45e4ad2-dbd4-420d-841d-d83d68b47704"
+		],
+		"title": "Gevolgen van de reformatie",
+		"id": "2a2fcbc2-655f-4138-888b-1d3eefbb6af1",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/5/3/3",
+		"lpib_vakinhoud_id": "25507253-5070-479f-8b20-76b942a592ad",
+		"doelniveau_id": [
+			"41007119-f361-42e4-ad67-272b45c9676d"
+		],
+		"title": "Aspecten van de reformatie",
+		"id": "29b219cf-2681-4b5b-b242-c68d6c990460",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/6/1/1",
+		"lpib_vakinhoud_id": "ce0df331-c5e1-47c6-9cfb-9528e4357e3c",
+		"doelniveau_id": [
+			"2a4fbffc-2299-4be7-8a93-e0fedadb83f4"
+		],
+		"title": "Het ontstaan van het handelskapitalisme en een wereldeconomie.",
+		"id": "6723314d-3208-4927-a27c-ab1b48772b98",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/6/2/1",
+		"lpib_vakinhoud_id": "94c92b4c-cf4e-4602-8439-6a788ed217f2",
+		"doelniveau_id": [
+			"1d54f3cd-4ed5-4316-a7d0-9de8662b384d"
+		],
+		"title": "Burgerlijk bestuur en stedelijke cultuur",
+		"id": "0975321c-93d5-4b48-9a8f-7b99b48c258b",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/6/2/2",
+		"lpib_vakinhoud_id": "f9f6d83f-5773-4d1a-a2d1-c0d01068c37e",
+		"doelniveau_id": [
+			"5c31a50b-358b-49dc-a0ea-9fc7a7e116c8"
+		],
+		"title": "Staatsinrichting van de Republiek",
+		"id": "d9a22863-276d-4249-8f71-b8cd4b680da1",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/7/3/1",
+		"lpib_vakinhoud_id": "0a0c7b22-b20e-434c-b300-2ede8d717b88",
+		"doelniveau_id": [
+			"4d5aa771-0bc9-42df-b50f-30544cb063ad"
+		],
+		"title": "Grondrechten en politieke invloed",
+		"id": "0b884fdc-4209-4fb9-b9fd-75d9e1e74a90",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/7/2/1",
+		"lpib_vakinhoud_id": "055d0cbd-5f60-4773-837b-abc2b80d8ab5",
+		"doelniveau_id": [
+			"16436072-52d6-40f6-9c9f-262ab8f97800"
+		],
+		"title": "Slavernij",
+		"id": "945c30ad-12aa-4357-87de-f9f9416a628e",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/7/2/2",
+		"lpib_vakinhoud_id": "1f130de6-54f8-4f01-9b05-f595e2c9e896",
+		"doelniveau_id": [
+			"8388856b-fa27-4c96-8973-e5592731b583"
+		],
+		"title": "Abolitionisme",
+		"id": "64ec762a-f1c6-4434-b8a5-dfc264e610c4",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/8/1/1",
+		"lpib_vakinhoud_id": "a85c8fb7-df62-4033-b1e1-ee399b4b3657",
+		"doelniveau_id": [
+			"5d76e70e-6791-4654-b223-cac325510e64"
+		],
+		"title": "De Industriële revolutie",
+		"id": "b726622d-d8ca-4437-a809-9dae4588cdbb",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/8/1/2",
+		"lpib_vakinhoud_id": "dcd3b6bc-2ef4-42ab-927d-8a7e0b61800e",
+		"doelniveau_id": [
+			"282315dd-d40e-41d3-8e95-7c8950463d72"
+		],
+		"title": "De Industriële Revolutie en emancipatie",
+		"id": "1a9f37b6-9854-4605-95fd-3759c0defb3c",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/8/1/3",
+		"lpib_vakinhoud_id": "fcf094cb-9a99-4982-873c-d150df6da2a2",
+		"doelniveau_id": [
+			"f0f10303-6511-46c3-b6ba-e9fb3da2cc26"
+		],
+		"title": "De gevolgen van de industriële revolutie",
+		"id": "81b66378-e80c-4fd6-a70a-90fd0836b72f",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/8/2/1",
+		"lpib_vakinhoud_id": "9080973c-b399-4379-b657-c9be44915a70",
+		"doelniveau_id": [
+			"ee0a2919-9fe0-42cf-a1d7-87068b321a8c"
+		],
+		"title": "Het ontstaan van het parlementaire stelsel",
+		"id": "8f4feaef-e349-4abc-b1e1-01cb4bb4ec52",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/8/2/2",
+		"lpib_vakinhoud_id": "599da982-6531-406c-b048-ac814cbac4b0",
+		"doelniveau_id": [
+			"7a00d4b7-ac20-446d-8d11-c25cd16b7a8a"
+		],
+		"title": "Het parlementair stelsel",
+		"id": "7079e5ac-27fc-48ce-ba3e-a73f3569456b",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/9/3/1/",
+		"lpib_vakinhoud_id": "9250e759-ad20-45e8-9f35-a5829f90c0f5",
+		"doelniveau_id": [
+			"e8549b7a-4681-4352-af82-007f329b4db4"
+		],
+		"title": "De crisis van de jaren '30",
+		"id": "61892f5d-c8c8-4e26-a957-e9afe93210fd",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/9/4/1",
+		"lpib_vakinhoud_id": "4ff274fe-8849-47e6-876b-ebb53eee7574",
+		"doelniveau_id": [
+			"a2ae25a5-f5ef-4cea-aad9-c3da178ca13b"
+		],
+		"title": "Het nationaalsocialisme",
+		"id": "78c0bc66-d40e-42f2-af47-1243f3f9ec48",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/9/4/2/",
+		"lpib_vakinhoud_id": "384ca573-9757-4e3a-bd35-9a96c6c2a36c",
+		"doelniveau_id": [
+			"f6e9691a-4a26-4804-aeac-af29b47d7bf7"
+		],
+		"title": "De jodenvervolging",
+		"id": "e5309ae0-abb4-482c-8ef5-9c6b10119acf",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/9/4/3",
+		"lpib_vakinhoud_id": "d114fdab-9daa-4e75-8abc-2cdd500fe21d",
+		"doelniveau_id": [
+			"f8ff9922-4a5a-40f0-a550-cba096ca2e1b"
+		],
+		"title": "De Duitse bezetting",
+		"id": "ffb3f5e7-50c6-41e1-ba0b-a69b534965d3",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/10/2/1",
+		"lpib_vakinhoud_id": "3fdcba94-c011-4638-b66e-abb9cb0088c0",
+		"doelniveau_id": [
+			"38927e0d-22b2-429d-9877-665ca45f1513"
+		],
+		"title": "De Koude Oorlog",
+		"id": "ab62f345-471f-45f4-96bc-41da60baa51e",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/10/4/1",
+		"lpib_vakinhoud_id": "327d2686-486c-4dfa-9959-55e360ddd9bf",
+		"doelniveau_id": [
+			"b7b585d2-9e73-41b5-9fbf-86c84f8deada"
+		],
+		"title": "Pluriformiteit vanaf de jaren zestig",
+		"id": "e5a874cf-ebe8-4a2f-bb29-6d1df8dc6ee1",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/10/4/2",
+		"lpib_vakinhoud_id": "49ac549f-b7f7-41e8-9a26-aa615766b8fd",
+		"doelniveau_id": [
+			"415ba4b2-67b7-4fdb-9b36-ea641ddaf1b1"
+		],
+		"title": "Sociaal-culturele veranderingen vanaf de jaren '60.",
+		"id": "50286022-0d7f-4972-82b4-d931b8986f1f",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/10/4/3",
+		"lpib_vakinhoud_id": "efefbb25-45a6-48c3-8a7b-f36657d9e561",
+		"doelniveau_id": [
+			"753e8cef-fb6b-44a3-9f40-dd43f0d81c98"
+		],
+		"title": "Onafhankelijkheid van koloniën",
+		"id": "49d90f70-2515-4bd9-9c87-5667d8b83ad2",
+		"unreleased": true
+	},
+	{
+		"prefix": "gs/10/4/4",
+		"lpib_vakinhoud_id": "f7cf4376-e540-4085-80a0-1ecb0d518679",
+		"doelniveau_id": [
+			"d5545cb1-8d9a-416f-8778-70bd4a7eb8f9"
+		],
+		"title": "De Europese integratie",
+		"id": "deeec71a-55d0-4357-8548-1e6fa08c4c68",
+		"unreleased": true
 	}
 ]
