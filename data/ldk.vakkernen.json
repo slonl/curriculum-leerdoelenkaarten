@@ -2537,5 +2537,150 @@
 		"title": "Geschiedenis van de rechtsstaat en de parlementaire democratie",
 		"id": "b4df47ac-8777-4f33-97cd-30148c07d1e1",
 		"unreleased": true
+	},
+	{
+		"prefix": "ne/1",
+		"ldk_vaksubkern_id": [
+			"40a18951-d293-4533-bee4-141d951f40e4",
+			"28900bd1-0d61-4445-9f6b-d17b6af89c0b"
+		],
+		"doelniveau_id": [
+			"21dfdecd-7405-4bdf-9bb8-9e4b987ea630",
+			"1a2d0a6b-1e3b-4dd3-bcd6-aee6554cc51f",
+			"4555d903-2c71-4989-b83c-b4276775c135",
+			"9175d982-783b-4f88-ad94-ef3ceefe4ec3",
+			"2ac6e4ea-bde6-4b77-9b96-1890f2a3441e",
+			"1b8ee683-fd68-42e3-ae4f-8eb7b17f5e6b",
+			"9d94a319-ca37-4197-8ef5-1e2999817272",
+			"7f5bc6e4-cd25-4d70-9696-caff96c3aa44",
+			"a2fd146a-bfa8-4f71-8a70-5a1e7104b457"
+		],
+		"title": "Mondeling gesprekken voeren",
+		"id": "e51571b7-f0f5-426c-823d-a97a3acb698b",
+		"unreleased": true
+	},
+	{
+		"prefix": "ne/2",
+		"ldk_vaksubkern_id": [
+			"af4e448f-a707-47c3-8827-43c8ad48ab5d",
+			"45c933f8-b583-4c08-b6b1-092bce0e6a44"
+		],
+		"doelniveau_id": [
+			"c9bb22fe-34f3-4588-b0b1-d2a933451b03",
+			"a7305040-f71a-43cf-b6a6-f3d4e2c8156a",
+			"d59d0f3e-153c-4f02-b015-da216f08024b",
+			"5de76e8a-6521-4a1f-b99b-75090a5eae13",
+			"e7ad64e9-28fd-4c6e-b656-c2dcf069144a",
+			"3e289189-e509-4a31-b7af-4843d95bdcbb",
+			"15bd6420-6980-48af-a5d8-db9d05757eb0"
+		],
+		"title": "Mondeling luisteren",
+		"id": "a9f8bfe6-f893-4b3d-b809-4d47ca4bb19f",
+		"unreleased": true
+	},
+	{
+		"prefix": "ne/3",
+		"ldk_vaksubkern_id": [
+			"ecd94c13-c6cc-4a78-a12d-0edb75aa6c99",
+			"8f41a6ae-a2bc-41bb-b8e4-e629e646a5e1"
+		],
+		"doelniveau_id": [
+			"c9bb22fe-34f3-4588-b0b1-d2a933451b03",
+			"be715b1f-8848-429a-be65-623a7e74059f",
+			"4555d903-2c71-4989-b83c-b4276775c135",
+			"5ef56533-f473-43ff-8d94-beca26d6af26",
+			"dfdbe503-ef77-46d2-8322-cdf0ed81c3d4",
+			"06c545a7-39b4-426f-94f9-5f225c2502e3",
+			"d5ddf62b-c956-4fac-bcb3-de197f96558a",
+			"e1e53363-c596-488b-83d7-2b098822c1c6",
+			"5ce79a61-e6c5-4254-9f90-7d1a27d5eadd"
+		],
+		"title": "Mondeling spreken",
+		"id": "ba119a21-0770-40ef-875e-8ded15d2eb08",
+		"unreleased": true
+	},
+	{
+		"prefix": "ne/4",
+		"ldk_vaksubkern_id": [
+			"0b82373e-f436-451c-8b78-7b47fb060426",
+			"1137b29c-3089-4492-803e-416e49b35a58"
+		],
+		"doelniveau_id": [
+			"5e2c7455-100f-4742-9b38-17b0eb5fa1f7",
+			"8dd45ee6-8357-4de9-94f4-ca65b8f14950",
+			"f2c01667-357c-4d20-ac2c-aace16036e84",
+			"50d719bc-4120-4fc1-9286-10149a946498",
+			"4555d903-2c71-4989-b83c-b4276775c135",
+			"20498654-760d-42ab-9f62-a4f0ef6ff7ac",
+			"54867b76-ae44-428d-a65f-ff68a32d8734",
+			"b1b08f04-55de-461a-96be-21758e3d85a8",
+			"f297c324-8a9b-4249-9142-4e058fa3f78b",
+			"e87ebffa-72f1-4dc8-aa5a-8d47d88fe163",
+			"64de3c16-a41f-44a7-a7fe-43a26419c5b7",
+			"e238fd64-8640-4090-a45a-f2c68bc26a13"
+		],
+		"title": "Lezen zakelijke teksten",
+		"id": "a913bdce-38b6-4f61-98c3-1863b46cc958",
+		"unreleased": true
+	},
+	{
+		"prefix": "ne/5",
+		"ldk_vaksubkern_id": [
+			"6b841fdb-37ab-432f-aa8f-2d41ab6bb4bb",
+			"ce18ec63-1143-4217-93f9-c7bdc4f71b48"
+		],
+		"doelniveau_id": [
+			"183801b0-7d32-4e85-b171-ea7c42aa524a",
+			"57ca66dc-4d35-4097-8aa5-01aea00d3fe9",
+			"d59d0f3e-153c-4f02-b015-da216f08024b",
+			"20832c6f-2b89-41fb-93d9-7e1de8de8192",
+			"33172516-f020-48fc-8050-d2caf8b326ca",
+			"0d035b86-9ff4-4203-8234-c9e4ddc4a189",
+			"cdaaac0b-1d64-4c8c-973c-d1ac24c42f32",
+			"eeb2c6e9-c645-4438-a26d-5b2083b54cd9",
+			"ec26018f-c215-46b7-9844-7e34844245c1"
+		],
+		"title": "Lezen fictie",
+		"id": "b3c362b6-d6bd-4da8-bfb7-0d818c38856f",
+		"unreleased": true
+	},
+	{
+		"prefix": "ne/6",
+		"ldk_vaksubkern_id": [
+			"8e82f013-86f2-4b38-950f-83c1de923601",
+			"437fd96e-d78d-4935-b91d-3ea72d868984"
+		],
+		"doelniveau_id": [
+			"c9bb22fe-34f3-4588-b0b1-d2a933451b03",
+			"422ada91-6465-42d3-91ff-108aba83af12",
+			"d2ec59ef-f8e8-47d8-935d-e728e6f9f0d4",
+			"757f3ca7-9480-471f-8780-97bb5ce8d08a",
+			"d59d0f3e-153c-4f02-b015-da216f08024b",
+			"815d5e64-eca5-484b-b60c-0a7443b5bc9e",
+			"85d879a8-8639-42f5-93e1-3ed41fe8112e",
+			"9943e436-03c4-4119-acaf-b4b9e0acfad0",
+			"fc9d3997-726a-417e-a92d-6c5d6eb9aa94"
+		],
+		"title": "Schrijven",
+		"id": "4d4ae76d-544a-4eac-ba95-d33cf15d5268",
+		"unreleased": true
+	},
+	{
+		"prefix": "ne/7",
+		"ldk_vaksubkern_id": [
+			"3cca5838-7630-4817-978e-f94405152fd1",
+			"71987a0d-d39f-4865-b1b5-20f04f2c6eb2"
+		],
+		"doelniveau_id": [
+			"d2ec59ef-f8e8-47d8-935d-e728e6f9f0d4",
+			"333c0d6f-f0b9-4025-9d2e-cf2473247f38",
+			"d59d0f3e-153c-4f02-b015-da216f08024b",
+			"a8f6df4d-4ac8-4ba3-980e-aca29268ad48",
+			"98913426-8223-4baf-82ce-d6a8e07b55f7",
+			"9ccf9a91-4b91-4cc3-a783-41c15dd1feac"
+		],
+		"title": "Begrippenlijst en taalverzorging",
+		"id": "345a3bb1-1306-4a41-84ed-2732ceaa6b14",
+		"unreleased": true
 	}
 ]
