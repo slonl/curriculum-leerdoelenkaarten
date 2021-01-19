@@ -10719,5 +10719,183 @@
 		"title": "Geschiedenis van politieke stromingen sinds 1848",
 		"id": "571209a2-2984-4f32-8995-691460019dd5",
 		"unreleased": true
+	},
+	{
+		"prefix": "ne/1/1",
+		"ldk_vakinhoud_id": [
+			"aa2225ac-66ae-437b-be1c-1fa86977b967",
+			"3df78768-73d2-4bdf-a54e-1cc52929d78e",
+			"9d177046-fc33-4f22-923a-372d38332793"
+		],
+		"title": "Wat voor een gesprek wil/moet je voeren?",
+		"id": "40a18951-d293-4533-bee4-141d951f40e4",
+		"unreleased": true
+	},
+	{
+		"prefix": "ne/1/2",
+		"ldk_vakinhoud_id": [
+			"fb2da98d-8f32-44c1-9b49-faa13346bc79",
+			"81225437-6332-4b37-a708-7613e608dd57",
+			"df3ad345-e8c9-4a49-8cff-7faaaa70c5b6",
+			"95457593-6271-4745-a9d1-7e22e825d893",
+			"11d031ad-5acc-4778-974f-483e49f62062"
+		],
+		"title": "Hoe goed voer je het gesprek uit?",
+		"id": "28900bd1-0d61-4445-9f6b-d17b6af89c0b",
+		"unreleased": true
+	},
+	{
+		"prefix": "ne/2/1",
+		"ldk_vakinhoud_id": [
+			"79b86ca9-6d4a-48c2-8976-f62f36f1f176",
+			"6d5b13e6-2c5d-429c-a6c1-f9a998900379",
+			"b8db84c6-b85e-4c44-aa01-4d37e50d1581",
+			"497a83a9-1a34-4535-a557-da4e63f391ca"
+		],
+		"title": "Waar wil/moet je naar luisteren?",
+		"id": "af4e448f-a707-47c3-8827-43c8ad48ab5d",
+		"unreleased": true
+	},
+	{
+		"prefix": "ne/2/2",
+		"ldk_vakinhoud_id": [
+			"04517fed-0dcb-4a2f-b721-7719eafbdfc3",
+			"a82274c3-2bdf-445b-a370-c8a9811ef640",
+			"ca7ac0b4-6484-4a00-91a9-317cecc1558a",
+			"7faadb00-fff0-4253-857a-e6510cca7d04"
+		],
+		"title": "Hoe goed voer je de luistertaak uit?",
+		"id": "45c933f8-b583-4c08-b6b1-092bce0e6a44",
+		"unreleased": true
+	},
+	{
+		"prefix": "ne/3/1",
+		"ldk_vakinhoud_id": [
+			"0fa4ed45-4186-40fc-82ad-8058cb758a22",
+			"6e1cc326-077a-428e-adf3-3a5ecd39ab36",
+			"8184cb0b-7d9c-49e1-92a3-7c4381735a62"
+		],
+		"title": "Waarover en hoe wil/moet je spreken?",
+		"id": "ecd94c13-c6cc-4a78-a12d-0edb75aa6c99",
+		"unreleased": true
+	},
+	{
+		"prefix": "ne/3/2",
+		"ldk_vakinhoud_id": [
+			"554ba162-a7f5-4650-95b8-981805ee9f4a",
+			"b340e3d7-bb1a-485a-b30e-c5d400dc2a8e",
+			"e6964a16-f3bc-4dab-a355-406cd48190a1",
+			"3a230b4f-3174-44c6-88b5-100dcd41bf2d",
+			"0d306b27-91e5-4a9e-930c-36b072a7e997"
+		],
+		"title": "Hoe goed voer je de spreektaak uit?",
+		"id": "8f41a6ae-a2bc-41bb-b8e4-e629e646a5e1",
+		"unreleased": true
+	},
+	{
+		"prefix": "ne/4/1",
+		"ldk_vakinhoud_id": [
+			"89d7d4a5-80da-4cc3-bb3f-92fb8079948c",
+			"0867d319-f859-4c49-a3aa-4861741c2812",
+			"8fae300c-887a-4eea-950d-060c178e12ed",
+			"a1250a17-f6d5-426a-9071-a195bfe4e9a0"
+		],
+		"title": "Wat wil/moet je lezen?",
+		"id": "0b82373e-f436-451c-8b78-7b47fb060426",
+		"unreleased": true
+	},
+	{
+		"prefix": "ne/4/2",
+		"ldk_vakinhoud_id": [
+			"66597c85-fe1d-4322-a0a1-4357d37f919c",
+			"3c07135a-6fdc-46c4-a3e5-c04f059c3689",
+			"6518f733-f14b-4e00-9d41-eefd7ee640c2",
+			"8a16564a-956f-40b3-b597-8863c242cab1",
+			"077f4138-365c-48de-912f-be2eb5693d2a",
+			"f19508ce-48e1-47d8-9405-48fc091cbe20"
+		],
+		"title": "Hoe goed voer je de leestaak uit?",
+		"id": "1137b29c-3089-4492-803e-416e49b35a58",
+		"unreleased": true
+	},
+	{
+		"prefix": "ne/5/1",
+		"ldk_vakinhoud_id": [
+			"c91e599e-1517-49af-9499-68fb3ca65b4a"
+		],
+		"title": "Wat wil/moet je lezen?",
+		"id": "6b841fdb-37ab-432f-aa8f-2d41ab6bb4bb",
+		"unreleased": true
+	},
+	{
+		"prefix": "ne/5/2",
+		"ldk_vakinhoud_id": [
+			"92e0e5bc-d6dc-4d9f-baca-7c1e9f811c4e",
+			"1c55ac34-95ff-48cc-b5cf-c722f5a8ab94",
+			"5ab0fb1c-a8aa-41f9-8d73-45430ebe54bd"
+		],
+		"title": "Hoe goed voer je de leestaak uit?",
+		"id": "ce18ec63-1143-4217-93f9-c7bdc4f71b48",
+		"unreleased": true
+	},
+	{
+		"prefix": "ne/6/1",
+		"ldk_vakinhoud_id": [
+			"763cf724-f62f-4ede-b3d6-8b836aed15e8",
+			"4ae0b8e0-35f5-4be6-8dcf-eaa02beee653",
+			"5b5f797a-ffb2-4980-8202-60fbaeb90eac",
+			"3a8ac611-313f-432e-bf1e-db40c20a570f",
+			"7eac9a43-5a6b-4015-876e-8515bf76e149",
+			"24d92b4f-2c16-4dfc-b3bd-ed4a5a2bbe1b"
+		],
+		"title": "Wat wil/moet je schrijven?",
+		"id": "8e82f013-86f2-4b38-950f-83c1de923601",
+		"unreleased": true
+	},
+	{
+		"prefix": "ne/6/2",
+		"ldk_vakinhoud_id": [
+			"c3ac2842-718e-47fe-b448-5cc642047f19",
+			"2d5910e5-ddba-4e56-ae0d-2e6497d3cff9",
+			"b4aeaff6-9030-4b79-a94c-10db5b67b30f",
+			"3c567639-587d-494b-a777-88a1ab615a3f",
+			"1e8ac7d4-b136-43bb-92ca-0c46edb35a0b",
+			"6e5e170c-8704-4e27-b9e3-8fd7da7cd39d"
+		],
+		"title": "Hoe goed voer je de schrijftaak uit?",
+		"id": "437fd96e-d78d-4935-b91d-3ea72d868984",
+		"unreleased": true
+	},
+	{
+		"prefix": "ne/7/1",
+		"ldk_vakinhoud_id": [
+			"a3d13144-e1f8-44e5-83f8-72e023822f14",
+			"3f84cec7-8c4d-4d2a-9531-cf27910eed45",
+			"252be84d-690a-41fd-9ea2-2f9f4928574e",
+			"3e888033-8a91-4720-888c-7d77ff824028",
+			"4215f94c-7b55-4188-b495-893ee65e9dc5",
+			"0878041a-1ea8-4a6a-8f59-6997f2eda304",
+			"b7db4da0-ff63-489f-954f-0fd5d39908a3",
+			"2caed982-11fe-4aac-8720-ea4d1913f46d",
+			"93c50799-3aa7-473b-83d7-7203a1642f68"
+		],
+		"title": "Begrippenlijst",
+		"id": "3cca5838-7630-4817-978e-f94405152fd1",
+		"unreleased": true
+	},
+	{
+		"prefix": "ne/7/2",
+		"lpib_vaksubkern_id": "4213d747-5073-4618-b487-f5c730edaa2a",
+		"ldk_vakinhoud_id": [
+			"31eaf05a-a538-42ba-b48d-cf1a7a7ddc1d",
+			"9fd5eb84-c893-42e6-ae1f-9c95b01da221",
+			"70d4d463-72fd-41d3-825a-3691f08597ba",
+			"771aead6-bfed-4122-81d0-b9f4a97aba82",
+			"33615a94-b5db-4823-b682-2b8c36d0c24f",
+			"ff441516-7742-4b11-9e64-cf48eb3dd7ac"
+		],
+		"title": "Taalverzorging",
+		"id": "71987a0d-d39f-4865-b1b5-20f04f2c6eb2",
+		"unreleased": true
 	}
 ]
