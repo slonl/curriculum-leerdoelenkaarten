@@ -10,8 +10,7 @@
 			"f3ccddcf-2c1a-4ad4-8c98-41ac0ee8deeb"
 		],
 		"title": "Bedrijfseconomie",
-		"id": "22e1c867-e2cc-4ff1-a248-bad8773efa64",
-		"unreleased": true
+		"id": "22e1c867-e2cc-4ff1-a248-bad8773efa64"
 	},
 	{
 		"prefix": "ak",
@@ -28,8 +27,7 @@
 			"2884d096-75f1-4503-ab80-505e466d0a25"
 		],
 		"title": "Aardrijkskunde",
-		"id": "fd47894c-a2c4-428e-b723-8041bea55501",
-		"unreleased": true
+		"id": "fd47894c-a2c4-428e-b723-8041bea55501"
 	},
 	{
 		"prefix": "bio",
@@ -43,8 +41,7 @@
 			"a598abd0-68da-45f4-9fac-09b41b9309f2"
 		],
 		"title": "Biologie",
-		"id": "826b457d-6e3f-431a-ac4b-39ddc3110b8a",
-		"unreleased": true
+		"id": "826b457d-6e3f-431a-ac4b-39ddc3110b8a"
 	},
 	{
 		"prefix": "nask1",
@@ -57,8 +54,7 @@
 			"0a72abfd-3d04-48f8-8b32-4405f75c29ee"
 		],
 		"title": "Natuur- en scheikunde I",
-		"id": "65cd5755-ee19-4f61-a74e-fb3a34aae5d9",
-		"unreleased": true
+		"id": "65cd5755-ee19-4f61-a74e-fb3a34aae5d9"
 	},
 	{
 		"prefix": "nask2",
@@ -70,8 +66,7 @@
 			"48e1a6fa-6a6a-4d8e-8321-02ee522e1c8a"
 		],
 		"title": "Natuur- en scheikunde II",
-		"id": "976e6a88-0d14-4627-8ce4-b1c1df9e6c94",
-		"unreleased": true
+		"id": "976e6a88-0d14-4627-8ce4-b1c1df9e6c94"
 	},
 	{
 		"prefix": "na",
@@ -84,8 +79,7 @@
 			"e7b50d18-9250-4b58-a2f6-260daf1e4e71"
 		],
 		"title": "Natuurkunde",
-		"id": "1f277fe0-b40b-45aa-a239-fa5cf7d4e40b",
-		"unreleased": true
+		"id": "1f277fe0-b40b-45aa-a239-fa5cf7d4e40b"
 	},
 	{
 		"prefix": "sk/ldk",
@@ -98,8 +92,7 @@
 			"6fb11f8a-de4b-4278-8f13-3f29af233294"
 		],
 		"title": "Scheikunde",
-		"id": "89c4f9cf-be21-4881-b582-c1760459bb15",
-		"unreleased": true
+		"id": "89c4f9cf-be21-4881-b582-c1760459bb15"
 	},
 	{
 		"prefix": "tech",
@@ -113,8 +106,7 @@
 			"d82a7e66-ab25-4650-8b66-365c85b1927f"
 		],
 		"title": "Techniek",
-		"id": "27d64b3d-8dca-4972-8b33-1a49564ffb1e",
-		"unreleased": true
+		"id": "27d64b3d-8dca-4972-8b33-1a49564ffb1e"
 	},
 	{
 		"prefix": "wisA",
@@ -127,8 +119,7 @@
 			"c3e80b4b-cac9-4063-9ece-b05c0941c7cf"
 		],
 		"title": "Wiskunde A",
-		"id": "d15073fc-56b7-412d-913f-5da37818fbc0",
-		"unreleased": true
+		"id": "d15073fc-56b7-412d-913f-5da37818fbc0"
 	},
 	{
 		"prefix": "wisC",
@@ -142,8 +133,7 @@
 			"4619b78b-e4df-4dac-8c32-a2806051cbe2"
 		],
 		"title": "Wiskunde C",
-		"id": "0804d7ca-6d82-47a9-9a57-e8e5956b4955",
-		"unreleased": true
+		"id": "0804d7ca-6d82-47a9-9a57-e8e5956b4955"
 	},
 	{
 		"prefix": "wi",
@@ -157,8 +147,7 @@
 			"9c771506-2e1d-4e63-8a9a-c82a2fdecb4e"
 		],
 		"title": "Wiskunde",
-		"id": "e37c6ecd-fd04-42d9-9e7f-a87dd6269f2f",
-		"unreleased": true
+		"id": "e37c6ecd-fd04-42d9-9e7f-a87dd6269f2f"
 	},
 	{
 		"prefix": "wisB",
@@ -171,8 +160,7 @@
 			"5fbaaaf3-bd6e-49a1-bf6a-fbbefbe5bf3e"
 		],
 		"title": "Wiskunde B",
-		"id": "3ea6a1fb-3f1e-4561-b495-2a4679710304",
-		"unreleased": true
+		"id": "3ea6a1fb-3f1e-4561-b495-2a4679710304"
 	},
 	{
 		"vakleergebied_id": "91e9afb9-a8ab-4fde-aa97-9884a8920b78",
@@ -184,8 +172,7 @@
 			"b85bab53-e617-43cd-a936-0eeaec745b6e"
 		],
 		"title": "Duits",
-		"id": "dca94895-40b9-4001-97ac-149f38bef782",
-		"unreleased": true
+		"id": "dca94895-40b9-4001-97ac-149f38bef782"
 	},
 	{
 		"vakleergebied_id": "f851676e-b541-42db-986a-5c468974f65e",
@@ -197,8 +184,7 @@
 			"21f50baa-2341-4a87-a045-4cddc8037b84"
 		],
 		"title": "Frans",
-		"id": "2de8c75e-40f8-4a3b-a913-4f9138f95b36",
-		"unreleased": true
+		"id": "2de8c75e-40f8-4a3b-a913-4f9138f95b36"
 	},
 	{
 		"prefix": "en",
@@ -211,8 +197,7 @@
 			"fb1c30ac-147e-48bb-9aea-c85ae39dfd10"
 		],
 		"title": "Engels",
-		"id": "9db0f649-ba16-4885-ae88-c8dbc671debd",
-		"unreleased": true
+		"id": "9db0f649-ba16-4885-ae88-c8dbc671debd"
 	},
 	{
 		"prefix": "ec",
@@ -236,8 +221,7 @@
 			"c83daff4-9b34-4e2b-97c2-41945e827d90"
 		],
 		"title": "Economie",
-		"id": "45023834-da3d-4fa6-972c-7f998c55a0f9",
-		"unreleased": true
+		"id": "45023834-da3d-4fa6-972c-7f998c55a0f9"
 	},
 	{
 		"prefix": "gs",
@@ -257,8 +241,7 @@
 			"b4df47ac-8777-4f33-97cd-30148c07d1e1"
 		],
 		"title": "Geschiedenis",
-		"id": "edb2383a-618c-467e-bccd-b0bab8b10218",
-		"unreleased": true
+		"id": "edb2383a-618c-467e-bccd-b0bab8b10218"
 	},
 	{
 		"prefix": "ne",
@@ -273,7 +256,6 @@
 			"345a3bb1-1306-4a41-84ed-2732ceaa6b14"
 		],
 		"title": "Nederlands",
-		"id": "6b1060a2-c615-4989-9bc4-3a669891b323",
-		"unreleased": true
+		"id": "6b1060a2-c615-4989-9bc4-3a669891b323"
 	}
 ]
