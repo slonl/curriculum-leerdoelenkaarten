@@ -2623,5 +2623,129 @@
 		"title": "Computational thinking",
 		"id": "b294ee43-754c-4367-9fd8-f80b28e168f8",
 		"unreleased": true
+	},
+	{
+		"prefix": "ltc/1",
+		"lpib_vakkern_id": "1b19c347-398a-497d-b8b0-0365d420d0ea",
+		"ldk_vaksubkern_id": [
+			"95d703c0-4597-4dfa-9190-753246b5896b",
+			"76ffe705-83b6-4bc9-ada6-5eba3ce45f6d",
+			"e7955500-c562-4f54-b792-a52f96388f30",
+			"8c43dca0-1a1f-4f09-a711-987a528c405a",
+			"d98b975e-7796-4849-b622-214c1cdfc28b",
+			"a0013d73-d78a-4ea3-a649-d663497b8464"
+		],
+		"title": "Taalsysteem",
+		"id": "3148131e-7be3-4e1e-a46d-d792284a4598",
+		"unreleased": true
+	},
+	{
+		"prefix": "ltc/2",
+		"lpib_vakkern_id": "115a47dd-b8b6-4bf3-a404-66eab48da8ec",
+		"ldk_vaksubkern_id": [
+			"a33d093e-4529-4bb0-bac1-3b13c42a57c1",
+			"470ab153-b33d-4953-919a-b4285fcac154",
+			"b60355dc-b0db-4308-bdc9-4d6ade36970d",
+			"9db635bb-ef1d-48aa-82ed-fad02627b2bc",
+			"d6e66046-3ea6-4cfb-9b00-83d0d5e22141",
+			"2a2d6ae4-fcbe-44d7-af7d-d384eeb3cfa4",
+			"eec028c1-2638-4369-854f-c76a3eddd79c"
+		],
+		"title": "Teksten en literatuur",
+		"id": "7b135114-ec49-4cbd-941c-6ec3a552ba2c",
+		"unreleased": true
+	},
+	{
+		"prefix": "ltc/3",
+		"lpib_vakkern_id": "011d022a-acaf-485f-abbf-2e59b3c0f94c",
+		"ldk_vaksubkern_id": [
+			"94d2384c-78d1-462e-bea3-ddfd8bb3bb16",
+			"f2fb4182-23a8-474f-a6a5-903e28f347e5",
+			"a747c694-036d-4334-958e-33caa7a093ad",
+			"afaff6a0-fe06-49cc-a471-a7fef8a1ffce",
+			"4c2891b9-bd5f-4d51-9602-29c39957385e",
+			"e2948d73-2ad3-4f5f-a9dc-d5386cd37fd1"
+		],
+		"title": "Cultuur en geschiedenis",
+		"id": "afbfae09-eaee-4d9d-8c8c-64b20d32e9de",
+		"unreleased": true
+	},
+	{
+		"prefix": "ltc/4",
+		"lpib_vakkern_id": "220153f5-f9c7-4d63-b9a0-d44989c0513f",
+		"ldk_vaksubkern_id": [
+			"d7b0eb17-d1b4-42a4-adbe-bba5a3368050",
+			"c87fc9a1-8ef1-41aa-b4e2-4c31f2378562",
+			"a7b7c6aa-ed01-45fb-aefa-e126e9d17929"
+		],
+		"title": "Betekenisgeving",
+		"id": "1e090d32-9e10-4b18-9b7b-f3a7c81c94db",
+		"unreleased": true
+	},
+	{
+		"prefix": "ltc/5",
+		"lpib_vakkern_id": "7cd4d8ff-82be-4a4b-b1e4-770516c5ceaa",
+		"ldk_vaksubkern_id": [
+			"32708987-0c4b-4212-b527-0a4fe364d12c",
+			"30bd5fbc-c943-46be-adcd-9ad43d6f7df4",
+			"b2c39a6e-50a5-4341-b7ba-14146e7c2162",
+			"b5e82964-99c0-4243-a6c7-85d41341ff1e"
+		],
+		"description": "Vaardigheden",
+		"title": "Taalbeschouwing",
+		"id": "2156298d-0b03-4cb8-b117-c58dd786ed13",
+		"unreleased": true
+	},
+	{
+		"prefix": "ltc/6",
+		"lpib_vakkern_id": "edd68785-7124-4de0-bf66-9d964704ff02",
+		"ldk_vaksubkern_id": [
+			"156a07da-14c3-4bfb-a2f0-61507df0e195",
+			"c702e932-87de-4e00-a880-a546341587dc",
+			"d98a5e15-56a3-43f1-bca2-f3da7a9e4f16",
+			"c4c205c0-c5cd-4ed9-aa34-4f0c63d5d764",
+			"d828fedd-ddbd-4e90-8606-bf4e28d9a04a"
+		],
+		"description": "Vaardigheden",
+		"title": "Tekstontsluiting",
+		"id": "4ddcb073-d167-4541-92c8-ec7b23612fab",
+		"unreleased": true
+	},
+	{
+		"prefix": "ltc/7",
+		"lpib_vakkern_id": "f2c19594-2acc-4a51-8109-20eac7f136b2",
+		"ldk_vaksubkern_id": [
+			"e6749f18-4c20-47d9-aef2-0af62e89d4b8",
+			"edc3989c-b839-44c3-a94f-aecbc82f07ec",
+			"802bcdaa-4aef-446d-b818-06bb9902639a",
+			"4743c453-2dce-4dda-a0cc-e5994824bb67",
+			"e475e83e-34e7-40f5-8de6-788d11729ea5",
+			"95fca43a-3478-428f-9641-d53ebc13b36f"
+		],
+		"description": "Vaardigheden",
+		"doelniveau_id": [
+			"68c449cb-2a8e-49f3-9065-519006ff05e0"
+		],
+		"title": "Tekst- en literatuur beschouwing",
+		"id": "4467a711-ff30-4796-970e-a98cfa0b3de7",
+		"unreleased": true
+	},
+	{
+		"prefix": "ltc/8",
+		"lpib_vakkern_id": "c12fdf60-20a7-4666-90ae-7557f66424d0",
+		"ldk_vaksubkern_id": [
+			"32fdb90f-ed95-4cc6-9cd7-de4774c1de3b",
+			"2793e430-9243-4a88-b389-66418d03930f",
+			"c07f31b7-582e-4e44-b682-85884fa9a16b",
+			"74042bb2-2f89-464a-98d7-7c748dabcef8",
+			"f0c56cd9-d92c-414d-92d5-f77d9d568a7e",
+			"037bc11e-2a9e-4477-b696-e612c2f18a84",
+			"e8cbd7fb-4fe2-4c73-a1d8-ccd8dcf13b45",
+			"9991f20c-b498-4b2e-9586-d028e4463074"
+		],
+		"description": "Vaardigheden",
+		"title": "Cultuurbeschouwing",
+		"id": "6c38853a-5840-45a4-afc2-faa964b06c3f",
+		"unreleased": true
 	}
 ]
