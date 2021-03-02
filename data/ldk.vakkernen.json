@@ -2563,5 +2563,65 @@
 		],
 		"title": "Begrippenlijst en taalverzorging",
 		"id": "345a3bb1-1306-4a41-84ed-2732ceaa6b14"
+	},
+	{
+		"prefix": "DG/ICT",
+		"ldk_vaksubkern_id": [
+			"d085286e-ce43-4dd4-8f73-f41d153a70c3",
+			"d24eb0d5-9d3d-4f4a-9dfa-0491c041673b",
+			"9c443c07-0ca6-437e-9374-c850290f11ba",
+			"e3ed5d16-43da-434e-81a1-d9d8e5892464",
+			"0a3cdedc-e627-4ec8-bd0d-baaa451aa540"
+		],
+		"description": "Kennis en vaardigheden die nodig zijn om met computers (in allerlei vormen) om te gaan. Het gaat hier om de bediening, de mogelijkheden en de beperkingen van digitale technologie. Deze basisvaardigheden zijn de onderlegger voor de andere onderdelen van digitale geletterdheid",
+		"title": "ICT Basisvaardigheden",
+		"id": "5dc0d77c-403c-4c31-ad55-1ddb6e8b3c5d",
+		"unreleased": true
+	},
+	{
+		"prefix": "DG/INF",
+		"ldk_vaksubkern_id": [
+			"0d27af4a-e74f-4820-a594-87186d76d40e",
+			"bc73517c-b9fb-4ecc-b735-6d0b173827cc",
+			"b83c973c-d361-4df4-98f7-3c249e64aa9f",
+			"26be3cee-2d74-421a-9abf-8c191c6f378d",
+			"a1fa8851-5233-4c4d-982e-7010f56b3ba7",
+			"1dd6b8b0-9c46-4714-8b29-1d4121bbcdc5"
+		],
+		"description": "(Onderzoeks-)proces om systematisch, effectief en efficiënt digitale informatie te zoeken, vinden en delen",
+		"title": "Informatievaardigheden",
+		"id": "671b2f40-57c7-4371-89f8-b5557a4f9299",
+		"unreleased": true
+	},
+	{
+		"prefix": "DG/MEDIA",
+		"ldk_vaksubkern_id": [
+			"d09d1b04-d388-485b-b132-80078b6a6c19",
+			"97bdc49d-ff7f-4afd-b16b-1ad86370d214",
+			"10a501d6-2db3-497d-a780-99d88caa9be3"
+		],
+		"description": "Kennis, vaardigheden en mentaliteit die nodig zijn om bewust, kritisch en actief om te gaan met digitale media",
+		"title": "Mediawijsheid",
+		"id": "ac2cf457-3fdf-4855-b015-b4da7279f136",
+		"unreleased": true
+	},
+	{
+		"prefix": "DG/CT",
+		"ldk_vaksubkern_id": [
+			"63ad7242-b83f-4b66-aad7-0ff1d447637d",
+			"a8ab886d-5b6a-49dd-b492-97aa7cdef649",
+			"3ac3c22d-c710-4804-b0e2-f77184dae937",
+			"d3d754bf-d99f-471c-95f4-98a9f97c61c9",
+			"dbeb9de1-e7ee-47c8-8828-b82d1d9040eb",
+			"d970c7fa-90fa-4343-bcf8-afe77883fe18",
+			"bb602b25-d00f-42cc-8b46-9d8cd31e2529",
+			"d90e8132-1832-4ac4-aab6-afe374cbdd9d",
+			"fb15ed1d-15fa-4bdc-add5-f3772e71103c",
+			"31785608-53df-41f0-b5ca-bf82627ced43"
+		],
+		"description": "Denkvaardigheden en technologie richting programmeren",
+		"title": "Computational thinking",
+		"id": "b294ee43-754c-4367-9fd8-f80b28e168f8",
+		"unreleased": true
 	}
 ]
