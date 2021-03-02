@@ -25296,5 +25296,295 @@
 		],
 		"title": "politieke stroming, politieke partij, liberalisme, socialisme, protetstantisme, katholicisme, ARP, CHU, SDAP, PvdA, VVD, RKSP, KVP, CDA, Boerenpartij, D'66, PVV, Partij van de Dieren, Ouderenpartij, SP, CPN",
 		"id": "8a7846da-e270-47c0-8db7-d2bc7c67f9c2"
+	},
+	{
+		"doelniveau_id": [
+			"b6890838-d96f-4cfd-9e5d-cf2a84c83295",
+			"82bbb97e-9666-4da0-870c-8bdd80a8563d",
+			"ea3a9195-f778-4fd3-974b-3bcd637feaaf"
+		],
+		"title": "spiritus, acutus, gravis, perispomenon",
+		"id": "5ea5e06d-5f2c-43fb-8024-da9678b4ad51",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"e32e5413-a094-43ec-82af-ae5e45b2e090",
+			"20176e5e-1bb0-44c3-8c89-4f1b807d5918",
+			"f752b878-735c-4659-acea-9537bac5e7b3"
+		],
+		"title": "basisbetekenis, betekenis in context, samengesteld woord, woorddelen, wordstam",
+		"id": "19bd8f44-ae30-401a-b5d9-84c455bbfd74",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"28854110-8f1c-49e4-9b8d-cc1994f7df37",
+			"2337babf-90aa-4ac0-a91f-00ab24ff49f9",
+			"e7d1dca1-09d7-4edc-8e2d-aefa1af8c82b"
+		],
+		"title": "morfemen, woordbouw, relatie vorm-betekenis, woordgeslacht, getal, casus, declinaties, paradigmata, aspect, modus, genus, medium tantum, deponens, stam, tijd, aspect",
+		"id": "e7e54d5b-a2c4-4916-a975-4ef9e2deaa9e",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"828d7810-99c9-44f7-ba19-2d5af85f8b81",
+			"deadd391-2ddb-4586-9616-741ce25b8e6b",
+			"7ec98ec8-5ff5-420c-ac4e-549286fac2dd"
+		],
+		"title": "conjuncties, interpunctie, frame van het werkwoord, verplichte aanvulling, valentie, participiumconstructie, infinitivusconstructie",
+		"id": "550757a7-d1f6-422e-bcf4-b3976b60968c",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"9c67e981-71ee-4f64-a3b6-a4d41dc2d9be",
+			"fa6d5597-0e39-44ae-9ca4-9c17f2054f40",
+			"53d721fe-0f04-42b9-ae02-bd705a8f1864"
+		],
+		"title": "communicatieve intenties, relatie modus-houding van de spreker, negaties, partikels",
+		"id": "e86ac952-2657-45d4-a4e2-2df4fb0e5f5d",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"0c168812-a91a-4422-8382-1671f4e67529"
+		],
+		"title": "basisbetekenis, betekenis in context, samengesteld woord, woorddelen, morfemen, woordbouw, relatie vorm-betekenis, casus, declinaties, paradigmata, aspect, modus, genus, medium tantum, conjuncties, frame van het werkwoord, verplichte aanvulling, valentie, participiumconstructie, infinitivusconstructie, talige middelen, leenwoord",
+		"id": "7b5b0ca1-1261-4578-b79b-2902a1c2042a",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"b1a6c400-bb5e-4b74-88d5-90d0bd387dfa"
+		],
+		"title": "passim",
+		"id": "1a7e37d9-03bc-4c35-8d9c-faaab292635f",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"e146525a-862e-40e3-9e30-5bb638d22049",
+			"5ec71c50-fc06-4367-8ab0-4c32132ab15c",
+			"6a088a5b-330f-459e-a777-e5168980c1cc"
+		],
+		"title": "tempus, partikels, signaalwoorden, structuurwoorden, tussenwerpsels, conjuncties, referentiële uitdrukkingen, close reading, leesstrategieën, vertaalstrategieën",
+		"id": "3ce6b8b1-6031-4c4d-81ef-f87ce1a1d0c1",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"92873e13-a421-410d-98c3-e392163c5294",
+			"709ca13e-a6b3-4579-b644-7b5c2b9332b0",
+			"31c8eef4-4c2d-4ce2-b20b-6eef958d78c7"
+		],
+		"title": "stilistisch effect, close reading",
+		"id": "e4a8e6c2-e35f-4f06-96d9-974f4cdc836f",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"e69c595b-c792-43ff-a3b9-1455ec17fa5c",
+			"df1f50e6-c49d-4758-8dce-3bd8e9ed4574"
+		],
+		"title": "dactylus, spondee, hexameter, pentameter, scanderen, versvoet, elisie, versus spondiacus",
+		"id": "dbcee46f-f511-4173-92b0-42355211cdef",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"186466a0-d7f2-42bf-b8cf-d6e3efaf9285",
+			"47931616-704c-42ab-9e16-dc92ba4130e4",
+			"d71e7a1d-9926-41b5-b9f2-3a94584d9e8d"
+		],
+		"title": "story, plot, verhaalkenmerken, stijl- en genrekenmerken, verhaalstructuur, scripts, rol verteller, afstemming met beoogd publiek, close reading",
+		"id": "83b2dba6-8bd8-4ba9-8eda-140809711a25",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"61196fa9-7f1c-451b-a304-cc83b1007ec0",
+			"412774e3-7fb7-489c-bfc3-28a081b17ffc",
+			"d29771b5-a95e-491d-a16f-761889d22441"
+		],
+		"title": "retorica, close reading, retorische middelen",
+		"id": "db3c1cd5-c2ae-4cc8-8d87-bdfb0c8c9a35",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"b30cb200-743f-4dfb-806a-00dba5fa6f72",
+			"6d73ae1f-5c32-4443-9b18-8c51e549c9e0",
+			"dbe4d8dc-c2e8-455d-bfb3-445ea8162e57"
+		],
+		"title": "story, plot, verhaalstructuur, genrekenmerken, stijlkenmerken, scripts, close reading, leesstrategieën",
+		"id": "2627f268-9e0f-4e76-b86e-5222b6879d8f",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"827d64c8-28d4-4a8b-98b9-06afff568d5b",
+			"503a8edc-3a68-429a-a35c-78177cd14933",
+			"f49926de-430a-44cc-8d5e-0e54fc06eae6",
+			"57151a19-a371-412e-924a-501ede3b6adf",
+			"f1b2a4b9-708e-4b5e-a269-3a56f16b58f0",
+			"9c952768-751e-48a2-ae6a-9dbdb2bb52c6",
+			"aa9dbaae-aee1-45bf-90e3-6fb98ab4f443",
+			"207f8c6a-57b3-4d82-ae20-03ff9856e320",
+			"847ec6f5-073b-4156-8818-2be7a237b060",
+			"aa95a952-3878-4c2e-bd5e-6942de263903",
+			"2f85bfd6-d4d3-493f-ad82-81ffb48d021a",
+			"4d273643-0338-4c58-ac1c-a14d48fb44b1",
+			"0633887f-66db-467d-acf4-08742b8e3f1c",
+			"003170e8-3254-48ed-b7e0-c35e8854d0f7",
+			"363600b2-52f7-42ec-9416-a734e186e6a8"
+		],
+		"title": "vormtaal & beeldtaal van de antieke cultuur, werkingsmechanismen, kijkanalyse, standplaatsgebondenheid, letterlijke, vrije, metrische & prozavertaling, doeltaal-brontaal, close reading",
+		"id": "65050655-3658-4923-acb3-6ba0295fe817",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"97b2b3d7-2960-486b-8c25-107ae05ad161",
+			"6842d82f-53f1-4ee7-8479-396ae9302ff9",
+			"7ef02aac-c535-44b7-9d7d-189576dcfa19",
+			"200bbe1c-a241-4cd4-b8a5-ad542a78df95",
+			"12e60ac8-7e53-41e2-b530-53301092d8da",
+			"b098b7b2-a234-4b39-8ef6-df8c2c66e6a3",
+			"704f4997-dce7-47da-8731-6cae6b903a41"
+		],
+		"title": "zuilenordes, bouwelementen van Latijnse en Romeinse gebouwen, Olympische goden en hun attributen, personificatie",
+		"id": "59742077-8607-4a43-83b0-7f553cb78688",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"7e822cd0-3e48-438e-a651-008de6bc4770",
+			"aecb3f2a-3000-4b42-b0f6-0c30a95d6f10",
+			"2a36de1e-1631-4585-b56b-a14162075175",
+			"04a4c736-48b3-48e7-a236-52e0bf0f7dd8",
+			"c53bf5da-1e87-488d-8972-82538a8a479b",
+			"8b69490d-95e1-4a5c-bfb8-334ed64da1f9",
+			"fb05034a-21fc-4ea3-878d-e00a1d990b27"
+		],
+		"title": "allegorische mythe, aitiologische mythe , didactische mythe, ontstaansmythe",
+		"id": "f2eaca03-2196-42e3-b033-1d1857881cd0",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"1451cbee-0a84-43a6-9b1b-90c50774a660",
+			"42e41884-1073-426c-8d24-62ae77553c79",
+			"1fe6d4d8-368a-41ba-91b2-f50a22277721",
+			"4942170f-ab09-40fb-872e-359778b1528f",
+			"69c97145-f64e-4fb1-8e62-40931d3783ac",
+			"c6ffd1dc-b801-4fac-93ea-767942857474",
+			"5fa2b122-306a-454e-be2d-0dd3c3fc16fc"
+		],
+		"title": "Polytheïsme vs. monotheïsme, Olympische goden en hun attributen, oergoden, personificatie, het lot",
+		"id": "e6a57d08-eee2-4151-a43e-754b584b66b6",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"183c1323-f713-4c24-89e6-7d43fb2d3d9a",
+			"a69e078a-3b02-470d-aba6-2bd2bbed0f02",
+			"2901ed44-9797-438d-8aac-bcec869ad422",
+			"0431314c-6133-45de-a534-f1a0ef1f1d89",
+			"b71348f2-4c8b-4fdd-b3b3-89f64e5d8d8c"
+		],
+		"title": "kijkanalyse, werkingsmechanismen, standplaatsgebondenheid, bronoverlevering",
+		"id": "4e775b8d-9e76-40ae-a995-5097e7c4734a",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"d6833691-2bb8-4b08-8e6a-2bbed60d415d",
+			"8ee069a4-a926-47ad-831f-0d887a37cd98"
+		],
+		"title": "kijkanalyse, werkingsmechanismen, standplaatsgebondenheid, bronoverlevering, perspectivische lenigheid",
+		"id": "4d9ed9c7-e5c8-4225-8ada-16c789fe07a6",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"c5487872-5509-4d40-af78-da05980fff89",
+			"53dde725-037c-4fad-be01-78370a62b89f",
+			"9001d760-e715-430c-a7a2-d17f0164f773",
+			"d04c5c64-478b-43b4-8119-be50f1b80d9c",
+			"697d1478-81b8-46a4-b163-3064a4d48b92",
+			"c93a7492-bf3d-4fdf-ad1e-a91b38af1adf",
+			"9864b58a-613f-49e5-bc74-a171c3e614f5",
+			"8f555443-0a5f-4933-a30e-fc01bf2a3c6d",
+			"fd002e12-d5d6-4115-bf86-60380495beaf",
+			"32a5a20e-37f4-4aba-a1f9-8b0451d49796",
+			"362c7e89-4f50-4038-95bf-d43bfea6b67c",
+			"6f6cd370-8510-4f4e-9d38-d43014bf67f4"
+		],
+		"title": "kijkanalyse, werkingsmechanismen, standplaatsgebondenheid, bronoverlevering, perspectivische lenigheid",
+		"id": "777efdc1-face-4b3a-9f0b-a114a5743cfa",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"887ac980-025d-43f5-8a87-0ff04d645c23",
+			"46997b70-b229-448a-91d4-f0f2c84ed21c",
+			"0781966d-3dd9-4cef-ad03-87548d53fa7d",
+			"9da0cb67-f37e-4763-90c5-28acc70c73ac",
+			"f345b8f9-434c-4774-8f93-064a5c1c1d10",
+			"89f7df9e-673f-453d-86fd-eb006e27f18a",
+			"f3a5b773-6d83-4e4f-af41-bdabce0a2783",
+			"e59e265a-fe3f-4926-9eb1-02b378870f29",
+			"845c3dd8-d1f8-4f99-9563-11ab8844ff76",
+			"776d7766-bac6-474d-aac2-907e16085219",
+			"796e8b4b-021d-4fd3-8074-7fb818cecc67",
+			"ffb35020-d4f4-492d-8e02-836a7eff6bf8",
+			"619c43a2-0777-49d9-af00-252c3adb9c68",
+			"3856ae58-2525-47a2-9e3d-357582e89b96",
+			"9bea20ae-668d-418b-9712-296e5b3c3ec8"
+		],
+		"title": "vormtaal & beeldtaal van de antieke cultuur, werkingsmechanismen, kijkanalyse, perspectivische lenigheid",
+		"id": "085f3cf3-5408-4377-9162-a8ec0d75271d",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"e0316b56-f318-4be7-80b0-97b121d89e46",
+			"abffc122-dcb6-4a0a-a54a-377aa64d0ba3",
+			"33b1a240-415c-46c3-b24a-edda6a8ae82c",
+			"b82825aa-35e0-419c-94db-2d9c5a552aad",
+			"4cd35097-09e9-41be-9504-2d4373ad5744",
+			"09c9cc83-26a6-4cd4-9dfe-be794fb7d30a",
+			"972cac38-9318-407b-b4bb-11b935492858",
+			"d1bcff89-4a94-44f4-8d31-abbb3591f3d5",
+			"11f985e6-d99a-4a5f-8737-d65a142b158f",
+			"09db5551-8b47-421b-8239-ecebe16eb780",
+			"ecac521d-8e41-475a-bc04-bd193723c126",
+			"5db884ed-17fc-41c0-aa08-443815076472",
+			"94336a80-8d74-4eb4-baec-ad49fe600e82",
+			"336f2552-fd79-4b2e-a073-8e8c20d72e32",
+			"2e919e29-4dc8-413d-b305-0ced891ef694"
+		],
+		"title": "vormtaal & beeldtaal van de antieke cultuur, werkingsmechanismen, kijkanalyse, perspectivische lenigheid",
+		"id": "35540fb4-bc65-4a76-b914-b4dea0b1a2e5",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"68c449cb-2a8e-49f3-9065-519006ff05e0",
+			"6c5a6546-1452-4dac-b312-c9b3e73c696c"
+		],
+		"title": "vormtaal & beeldtaal van de antieke cultuur, werkingsmechanismen, kijkanalyse",
+		"id": "88e9c303-d5af-4957-bf6e-4f4bc9dbeef8",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"dbab0177-9701-4cd8-ac1f-f719d7a6d9aa"
+		],
+		"title": "Kijkanalyse, standplaatsgebondenheid, klassiek erfgoed",
+		"id": "2b49dbdd-e18f-45ed-8445-a5d29cbad971",
+		"unreleased": true
 	}
 ]
