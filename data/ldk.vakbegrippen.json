@@ -25527,26 +25527,12 @@
 		"unreleased": true
 	},
 	{
-		"doelniveau_id": [
-			"887ac980-025d-43f5-8a87-0ff04d645c23",
-			"46997b70-b229-448a-91d4-f0f2c84ed21c",
-			"0781966d-3dd9-4cef-ad03-87548d53fa7d",
-			"9da0cb67-f37e-4763-90c5-28acc70c73ac",
-			"f345b8f9-434c-4774-8f93-064a5c1c1d10",
-			"89f7df9e-673f-453d-86fd-eb006e27f18a",
-			"f3a5b773-6d83-4e4f-af41-bdabce0a2783",
-			"e59e265a-fe3f-4926-9eb1-02b378870f29",
-			"845c3dd8-d1f8-4f99-9563-11ab8844ff76",
-			"776d7766-bac6-474d-aac2-907e16085219",
-			"796e8b4b-021d-4fd3-8074-7fb818cecc67",
-			"ffb35020-d4f4-492d-8e02-836a7eff6bf8",
-			"619c43a2-0777-49d9-af00-252c3adb9c68",
-			"3856ae58-2525-47a2-9e3d-357582e89b96",
-			"9bea20ae-668d-418b-9712-296e5b3c3ec8"
-		],
-		"title": "vormtaal & beeldtaal van de antieke cultuur, werkingsmechanismen, kijkanalyse, perspectivische lenigheid",
+		"title": "vormtaal &amp; beeldtaal van de antieke cultuur, werkingsmechanismen, kijkanalyse, perspectivische lenigheid",
 		"id": "085f3cf3-5408-4377-9162-a8ec0d75271d",
-		"unreleased": true
+		"unreleased": true,
+		"description": "",
+		"ce_se": "",
+		"deleted": 1
 	},
 	{
 		"doelniveau_id": [
@@ -25564,11 +25550,28 @@
 			"5db884ed-17fc-41c0-aa08-443815076472",
 			"94336a80-8d74-4eb4-baec-ad49fe600e82",
 			"336f2552-fd79-4b2e-a073-8e8c20d72e32",
-			"2e919e29-4dc8-413d-b305-0ced891ef694"
+			"2e919e29-4dc8-413d-b305-0ced891ef694",
+			"887ac980-025d-43f5-8a87-0ff04d645c23",
+			"46997b70-b229-448a-91d4-f0f2c84ed21c",
+			"0781966d-3dd9-4cef-ad03-87548d53fa7d",
+			"9da0cb67-f37e-4763-90c5-28acc70c73ac",
+			"f345b8f9-434c-4774-8f93-064a5c1c1d10",
+			"89f7df9e-673f-453d-86fd-eb006e27f18a",
+			"3856ae58-2525-47a2-9e3d-357582e89b96",
+			"f3a5b773-6d83-4e4f-af41-bdabce0a2783",
+			"e59e265a-fe3f-4926-9eb1-02b378870f29",
+			"845c3dd8-d1f8-4f99-9563-11ab8844ff76",
+			"776d7766-bac6-474d-aac2-907e16085219",
+			"796e8b4b-021d-4fd3-8074-7fb818cecc67",
+			"ffb35020-d4f4-492d-8e02-836a7eff6bf8",
+			"619c43a2-0777-49d9-af00-252c3adb9c68",
+			"9bea20ae-668d-418b-9712-296e5b3c3ec8"
 		],
 		"title": "vormtaal & beeldtaal van de antieke cultuur, werkingsmechanismen, kijkanalyse, perspectivische lenigheid",
 		"id": "35540fb4-bc65-4a76-b914-b4dea0b1a2e5",
-		"unreleased": true
+		"unreleased": true,
+		"description": "",
+		"ce_se": ""
 	},
 	{
 		"doelniveau_id": [
