@@ -281,11 +281,13 @@
 			"1e090d32-9e10-4b18-9b7b-f3a7c81c94db",
 			"2156298d-0b03-4cb8-b117-c58dd786ed13",
 			"4ddcb073-d167-4541-92c8-ec7b23612fab",
-			"6c38853a-5840-45a4-afc2-faa964b06c3f"
+			"6c38853a-5840-45a4-afc2-faa964b06c3f",
+			"4467a711-ff30-4796-970e-a98cfa0b3de7"
 		],
 		"title": "Latijn",
 		"id": "0150f55b-9ee5-4f65-8a6f-90bbc70275bd",
-		"unreleased": true
+		"unreleased": true,
+		"description": ""
 	},
 	{
 		"prefix": "gtc",
@@ -297,10 +299,12 @@
 			"ccbdac81-8a94-4ee7-84e3-84e4c860ca67",
 			"b1d47599-1b2b-4369-8885-9054d07d58d5",
 			"64e626a3-f405-4c34-8d99-e471a1fd1795",
-			"a164f887-245a-4d85-b4c0-267815621ef7"
+			"a164f887-245a-4d85-b4c0-267815621ef7",
+			"020ebc17-6b7a-4679-8b1b-e0ebbe880fcd"
 		],
 		"title": "Grieks",
 		"id": "45abd24e-02ab-4c8d-b28a-7e9af2aaf46e",
-		"unreleased": true
+		"unreleased": true,
+		"description": ""
 	}
 ]
