@@ -11636,6 +11636,11 @@
 		"lpib_vaksubkern_id": "a957ef80-43ae-4205-b610-2287720c8ed6",
 		"description": "Het Grieks heeft een eigen alfabet",
 		"doelniveau_id": [
+			"ec1e1978-86dd-4d25-9401-d529b142a086",
+			"bee97f0e-d797-43d0-862d-38a2f554b1a6",
+			"f4dc1d99-405b-4f78-a94b-8d57a300ad80",
+			"170a6890-23aa-4e5c-a59d-8ecbee7eeb5d",
+			"14f70266-c1d3-4d93-b018-f6810709dd0e",
 			"2f274aca-3e38-4057-a92f-8a29fe0fed81",
 			"76ed0c13-45f7-4530-bb14-805e69e527da",
 			"59dc05a8-6c67-44c4-9700-c6673f3458bc"
@@ -11649,6 +11654,11 @@
 		"lpib_vaksubkern_id": "e2509d72-d060-4b03-ac04-adf68fe07ead",
 		"description": "Betekenis van woorden is een optelsom van basisbetekenis, woordkenmerken en context.",
 		"doelniveau_id": [
+			"4f22af38-982b-4cf4-b614-ba712687dc9a",
+			"ac6d9841-41f3-4c1b-946c-c60c1c582c8e",
+			"48f26795-80e1-4716-88b0-b39da51d88c3",
+			"ade49cc8-12dd-43c9-a567-b745c7b8d203",
+			"39aef1cb-05ca-4a69-a50d-a5bcd5e5aecf",
 			"c0e2fdbb-1650-460c-a003-0c07539178a2",
 			"1f979a2a-64cd-453a-b8a7-7fcc7231b74f",
 			"466bcc20-375c-4774-93a5-f8fdedd5977f"
@@ -11662,6 +11672,9 @@
 		"lpib_vaksubkern_id": "306188ba-a618-4653-94ab-6317fec6fa08",
 		"description": "Kenmerken van het Grieks op woordniveau: woorden zijn opgebouwd uit betekenisdragende eenheden volgens een vast systeem.",
 		"doelniveau_id": [
+			"2cfcefdc-ffe1-43b6-8795-76f4d87cf03c",
+			"0be05f19-a6a0-476a-9455-7244e38f722d",
+			"bcfb1e95-5ead-455d-b458-d7a9632a353d",
 			"8abe0fc7-6c21-470e-af4c-39de2205ab41",
 			"7fa475a0-1361-4c68-a3a3-a2393648c74a",
 			"8a063a36-2835-45e8-8b18-259baea1a2a4"
@@ -11675,6 +11688,10 @@
 		"lpib_vaksubkern_id": "14840833-082b-4a2a-b713-3df07208f61e",
 		"description": "Kenmerken van het Grieks op zinsniveau: zinnen zijn opgebouwd volgens vaste regels. Een werkwoord heeft een vast GGntal open plGGtsen die in een zin worden ingevuld. Het predicGGt bepGGlt de zinskern",
 		"doelniveau_id": [
+			"8f3f4ed2-3f73-43c0-8ebc-a0a89919644b",
+			"ce5c8d4a-ad33-4ec5-8beb-75e518ba0538",
+			"39679dd9-d06d-4193-8a25-ec586ff5bfad",
+			"bce4db1b-f9e9-4b87-9702-640f5c97f887",
 			"bf302c60-5ac5-4969-9164-68415436e902",
 			"eec2a634-f9a1-49ca-b4db-64640ed7fa29",
 			"40b2826d-6769-42f7-9a63-741791a50628"
@@ -11688,6 +11705,7 @@
 		"lpib_vaksubkern_id": "99cb819b-b7be-4be3-9c26-e65f4b85a3f8",
 		"description": "Kenmerken van het Grieks als communicatiemiddel",
 		"doelniveau_id": [
+			"1861ff0e-96d9-483e-ba4a-749a54c9c992",
 			"01e9fbbf-a945-4e43-9590-4bf6ed3dbc43",
 			"51c4069d-46fe-41fd-baba-de3d66d00caf",
 			"611d3b45-0d3c-4aec-87f1-4a0ad8e2c38a"
@@ -11701,6 +11719,10 @@
 		"lpib_vaksubkern_id": "d6d857f2-7599-463d-9089-8bec18dca8b5",
 		"description": "Uniformiteit en diversiteit in taal en communicatie: taal is gemeenschappelijk aan de mens; een taal behoort tot een taalfamilie en talen ontwikkelen zich en beïnvloeden elkaar; onder de term OudGrieks vallen verschillende dialecten.",
 		"doelniveau_id": [
+			"c1c14abf-c74b-47d7-843c-7377dff0f3cd",
+			"ac1e0359-77a7-473a-813f-adb86ef1a334",
+			"1485711c-c880-492d-886d-7aa7668a62d4",
+			"77fa91b0-93c0-4589-b116-2ccdc5e28f7c",
 			"e049f770-40f6-4cda-be3c-a0f5d9e100c3",
 			"76b1a48d-cddd-41a8-a184-37150727a43e"
 		],
@@ -11713,6 +11735,9 @@
 		"lpib_vaksubkern_id": "3a379ad1-f50a-4b00-866c-7396d0b8cec8",
 		"description": "Tekststructurerende en talige middelen, waarmee de auteur of verteller de informatie doseert en structureert. De auteur of verteller stemt zijn boodschap af op het beoogde publiek. De lezer anticipeert op het te verwachten vervolg.",
 		"doelniveau_id": [
+			"0cab0c97-9414-4879-b0df-1d499c0be123",
+			"5321ca63-0e99-40fd-9696-770364d1837f",
+			"72e76474-6c37-4c46-b65c-c38916dedd6b",
 			"4b402b0e-c743-44d3-b6a6-1e86381961c9",
 			"98a66703-d26e-48a3-aac4-77b5c905bbf2",
 			"85f44f05-5eab-4458-8ed7-efda9eda17cd"
@@ -11726,6 +11751,8 @@
 		"lpib_vaksubkern_id": "04fabbb9-1dca-454c-a0d9-6f5e22ecc114",
 		"description": "Stilistische middelen, waarmee de auteur afwijkt van de standaardformulering of woordvolgorde om de aandacht te richten van de lezer. Metaforisch taalgebruik heeft een letterlijke en figuurlijke betekenis.",
 		"doelniveau_id": [
+			"18ae164c-3a4b-4bd8-a74d-4c9136c6af1b",
+			"624173e6-6dcc-4af4-b1dd-ba7d6757ef51",
 			"1a6bf69a-1cc9-41d9-bb68-e07e52fb350e",
 			"77e6294b-bb69-4498-b93d-7c4f992c499b",
 			"d5f1e23e-bdad-487b-946d-aa8f095e4bf0"
@@ -11751,6 +11778,8 @@
 		"lpib_vaksubkern_id": "7367046c-5276-4a3b-bf98-ce52ee473bb9",
 		"description": "Narratologische middelen, waarmee de verteller of auteur zijn verhaal vertelt en structureert.",
 		"doelniveau_id": [
+			"f893236b-3a0b-4888-a2bd-401345f050e8",
+			"6ecd6f73-6d33-42a0-a4c2-a57269924d2a",
 			"d62b5b13-2ac4-4a1d-84cc-e16c66917cc2",
 			"942ae7e4-37ed-4bbd-98a7-879542dacd09",
 			"96ff4957-40dd-49fe-ab12-729cfad59d9f"
@@ -11764,6 +11793,8 @@
 		"lpib_vaksubkern_id": "cdf6a34b-a2d0-4601-8797-3d8118c3deb4",
 		"description": "Argumentatieve middelen, waarmee de spreker of auteur zijn publiek overtuigt.",
 		"doelniveau_id": [
+			"9c58b9bc-2ecc-47d5-ae90-368439d2ea87",
+			"c33cf2d9-7942-436d-8c64-983247108b00",
 			"7ca3e4bd-0898-4a26-bd55-0a453dabbbfd",
 			"6edafa8f-a368-4423-b245-3a3579d578be",
 			"61e137fa-7e78-4c7b-972e-a8caec18ebc7"
@@ -11775,8 +11806,9 @@
 	{
 		"prefix": "gtc/2/6",
 		"lpib_vaksubkern_id": "1d8fb729-d92d-4b15-9c60-744a0fdb31a7",
-		"description": "Genre, genrekenmerken, literaire thema's, taaleigen en stijl die kenmerkend zijn voor een auteur, dragen bij aan de betekenis van een tekst \r\nKeuze voor tekstsoort draagt bij aan de betekenis van een tekstpassage.",
+		"description": "Genre, genrekenmerken, literaire thema's, taaleigen en stijl die kenmerkend zijn voor een auteur, dragen bij aan de betekenis van een tekst \nKeuze voor tekstsoort draagt bij aan de betekenis van een tekstpassage.",
 		"doelniveau_id": [
+			"8d1b8362-348b-4d77-b111-3561a552e78e",
 			"ee48727a-149d-4d37-b827-bbf1f8a67bba",
 			"e5a85539-b0e8-42db-88d3-58062779ca4e",
 			"90e28900-a8a5-409a-9ef3-ed35311267b7"
@@ -11790,6 +11822,11 @@
 		"lpib_vaksubkern_id": "bb96d264-ad49-44a2-88a0-1912cb5969cb",
 		"description": "Gangbare interpretaties en literaire vertalingen van een specifieke tekst.",
 		"doelniveau_id": [
+			"8ea2e335-943e-4a04-b91d-c184699da337",
+			"4c3b9178-8adf-4b7e-8670-3d285b5f3c75",
+			"c8c6cb39-665c-4073-be6e-dbdaf6a3ed75",
+			"cfbb4840-f22c-43cf-b93b-d916c5b34acf",
+			"f75d47fe-5533-4751-bfb9-83578c6807ee",
 			"aca9ad54-8a3e-44a6-a298-16c3d88bdd89",
 			"759109f0-d6f2-4112-baa9-eb5fbf2aa712",
 			"f135fbb5-3f5e-45b8-8adb-6688357363aa",
@@ -11815,6 +11852,7 @@
 		"lpib_vaksubkern_id": "075a7eb1-350e-4c6d-aaff-4e9224804d2a",
 		"description": "Het beeld dat de Griekse oudheid oproept, wordt sterk bepaald door Griekse gebouwen, sculptuur en andersoortige cultuuruitingen.",
 		"doelniveau_id": [
+			"ab143f97-a2fe-416d-b7b2-0ba046aec35d",
 			"13532ff1-2821-43e9-bd39-5ac6afd24078",
 			"3c342ba0-7492-47e2-b3f0-e87b80a0c1d9",
 			"f3b8f8db-68af-4bb6-86cc-a34e81e36238",
@@ -11830,8 +11868,9 @@
 	{
 		"prefix": "gtc/3/2",
 		"lpib_vaksubkern_id": "b8fa1d6d-bfd3-4002-94e7-929604f9d3d3",
-		"description": "Antiek verhalengoed wordt gekenmerkt door antieke mythologische en historische figuren en hun herkeningsattributen.\r\nMythen hebben didactische en vormende waarde in de oudheid en later.",
+		"description": "Antiek verhalengoed wordt gekenmerkt door antieke mythologische en historische figuren en hun herkeningsattributen.\nMythen hebben didactische en vormende waarde in de oudheid en later.",
 		"doelniveau_id": [
+			"f52c3b79-76bc-4aea-870a-20f6f8b25b4a",
 			"29ba91ff-87c7-4072-8727-754e176bbfb7",
 			"d3c21c90-a689-4cf4-94e7-99ee341c3700",
 			"95936324-07ef-49a7-bffc-45bcf43c8461",
@@ -11849,6 +11888,7 @@
 		"lpib_vaksubkern_id": "1e519446-dde4-4e8c-9e11-70069f24d164",
 		"description": "Belangrijke personen staan aan de basis van de ontwikkeling van het Griekse gedachtengoed. \r\nDe Griekse godsdienst heeft een vanzelfsprekende plaats in het persoonlijke, maatschappelijke en politieke leven van de Griek, \r\nDe Griekse maatschappij was pluriform.",
 		"doelniveau_id": [
+			"9fdc3ee2-7041-461d-a490-286d70298289",
 			"0f78346c-a029-4165-a796-fe5aeb0303ca",
 			"f31d4e69-f6c6-44d8-82fb-4810d2de2da1",
 			"ccbb1c57-360c-43ed-a3ac-a7ab4e7994e1",
@@ -11882,6 +11922,8 @@
 		"lpib_vaksubkern_id": "d6ae0841-561e-4578-a44a-f198c8702d9d",
 		"description": "Individuen en plaatsen die belangrijke historische gebeurtenissen en ontwikkelingen markeren.",
 		"doelniveau_id": [
+			"1760ccb8-cedf-4ae6-ae33-8133c1904756",
+			"3af38cf6-00d3-4843-894c-432d25d26e6d",
 			"59ee358e-5886-4fbc-92a9-84fb30d3ecbd",
 			"e3e1e24b-8c0c-43b0-a717-4f2872f404a1",
 			"a04b4759-521c-4dd1-9439-2f624def9b15",
@@ -11897,8 +11939,10 @@
 	{
 		"prefix": "gtc/3/6",
 		"lpib_vaksubkern_id": "0d6177bd-1dab-48de-8db8-f5f0718b9697",
-		"description": "Een (literaire) tekst, gebruiksvoorwerp of kunstobject, verhalengoed, culturele en historische concepten maken deel uit van de cultuur-historische en maatschappelijke context waarin ze hebben gefunctioneerd. \r\nDeze zijn zowel onderdeel van een cultuur, als entree tot die cultuur.",
+		"description": "Een (literaire) tekst, gebruiksvoorwerp of kunstobject, verhalengoed, culturele en historische concepten maken deel uit van de cultuur-historische en maatschappelijke context waarin ze hebben gefunctioneerd. \nDeze zijn zowel onderdeel van een cultuur, als entree tot die cultuur.",
 		"doelniveau_id": [
+			"ee9e8a65-524b-44ea-962c-2a3d567f2f29",
+			"bcecbd42-2b6a-4dff-9acd-55604b35808d",
 			"2ee05452-d776-43f2-9004-5ea8535de6f3",
 			"8e17879c-a32c-443e-99d1-936ee38b9ea1",
 			"e93cb2bb-ec2e-416c-98b6-c0db4bc86792",
@@ -11919,8 +11963,13 @@
 	{
 		"prefix": "gtc/4/1",
 		"lpib_vaksubkern_id": "c6c894ec-12fb-4d98-96da-13951c80a2c1",
-		"description": "De Griekse cultuur bestaat niet op zichzelf, maar heeft zich ontwikkeld temidden van de Etruskische, Egyptische, Oosterse en Romeinse wereld. \r\nDe Griekse cultuur werkt door in latere tijden.\r\nKennis van Griekse cultuur- en gedachtengoed is een pijler van de gymnasiale vorming.\r\nDuiding van de receptie van Grieks cultuur- en gedachtengoed in latere cultuuruitingen biedt inzicht in de cultuur- en tijdgebondenheid van de omgang met de Oudheid.\r\nKijkanalyse structureert het onderzoek van antieke cultuuruitingen en de receptie daarvan.",
+		"description": "De Griekse cultuur bestaat niet op zichzelf, maar heeft zich ontwikkeld temidden van de Etruskische, Egyptische, Oosterse en Romeinse wereld. \nDe Griekse cultuur werkt door in latere tijden.\nKennis van Griekse cultuur- en gedachtengoed is een pijler van de gymnasiale vorming.\nDuiding van de receptie van Grieks cultuur- en gedachtengoed in latere cultuuruitingen biedt inzicht in de cultuur- en tijdgebondenheid van de omgang met de Oudheid.\nKijkanalyse structureert het onderzoek van antieke cultuuruitingen en de receptie daarvan.",
 		"doelniveau_id": [
+			"0efb7b26-4103-4160-b23b-6373a5af4f32",
+			"0c4dd6a5-eb96-4843-bb9d-52238a3ce452",
+			"162abb29-04e5-410c-9f9d-d1ecbc3c8b34",
+			"b34b10fb-9ce3-4666-b3ae-dc487cd70bf5",
+			"0f7aa849-0536-4613-9e99-b8c22bb925b2",
 			"262acf87-0874-4c9b-b3f4-0d05f9dbc962",
 			"fa1bc69a-ea64-428d-9517-659dea9c2765",
 			"63319e49-aeed-4cfb-9d30-d0bc169162cc",
@@ -11946,6 +11995,7 @@
 		"lpib_vaksubkern_id": "08c10c53-48a8-44e9-8752-58b94dc1178d",
 		"description": "Antieke cultuuruitingen bevatten maatschappelijke processen, morele dilemma's en / of actuele thema's die bijdragen aan een eigentijdse betekenisgeving van de Griekse cultuur.",
 		"doelniveau_id": [
+			"1e77eb9e-8f71-4f98-8e9e-b8a68615b5d8",
 			"9531d792-156e-4a5e-a7cd-857fe78d93d2",
 			"996280e1-d403-40d9-a77e-492b67a6edc1",
 			"f5b03990-3720-414a-a961-806e9214a56d",
@@ -11995,8 +12045,9 @@
 	{
 		"prefix": "gtc/5/1",
 		"lpib_vaksubkern_id": "c972e467-bb1b-42b1-b72b-8bc71df527bc",
-		"description": "Woorden zijn opgebouwd uit betekenisdragende eenheden volgens een vast systeem (alfabet, morfologie). \r\nWoorden krijgen betekenis in de context van een taaluiting (vocabulaire, semantiek en pragmatiek). \r\nZinnen zijn opgebouwd volgens min of meer vaste regels (syntaxis).\r\nInzicht in het (Griekse) taalsysteem helpt bij de analyse en interpretatie van (Griekse) teksten.",
+		"description": "Vaardigheden",
 		"doelniveau_id": [
+			"29718733-c880-48d6-afcc-8c1cca25172a",
 			"4da01a02-7990-406e-af01-c9db19d50039"
 		],
 		"title": "Herkennen, analyseren en interpreteren van de oppervlaktestructuur van Griekse tekst of tekst in vertaling op woord-, zins- en tekstniveau",
@@ -12008,6 +12059,7 @@
 		"lpib_vaksubkern_id": "e517697e-fe33-4c0d-a5ba-35fdd7d0d4f5",
 		"description": "De Griekse taal is een systeem dat dient om communicatie tot stand te brengen. \r\nDe Griekse taal heeft algemene en specifieke talige middelen om te communiceren.\r\nDe Griekse taal reflecteert de cultuur van de Oudheid. \r\nDe auteur leidt de lezer naar (beoogd) begrip.\r\nInzicht in het (Griekse) taalsysteem helpt bij de analyse en interpretatie van (Griekse) teksten.",
 		"doelniveau_id": [
+			"d84bb485-4a9c-4373-a13d-a02be0433f5e",
 			"06e1bf61-9868-4414-9343-b1dca356d899"
 		],
 		"title": "Communiceren over de Griekse taal als taalsysteem op zichzelf",
@@ -12019,6 +12071,7 @@
 		"lpib_vaksubkern_id": "56df092c-3ef3-4d4c-9ab1-a187d5ae3dc6",
 		"description": "Taal is gemeenschappelijk aan de mens. \r\nTaal functioneert in een taalgemeenschap.\r\nEen taal behoort tot een taalfamilie en talen ontwikkelen zich en beïnvloeden elkaar.",
 		"doelniveau_id": [
+			"3c00c720-b9e8-46d2-b89a-aa525787dada",
 			"2e8c6952-aafc-469e-b34c-24b58f94476c"
 		],
 		"title": "Herkennen, analyseren en interpreteren van de overeenkomsten en verschillen tussen het Griekse taalsysteem en andere talen",
@@ -12030,6 +12083,7 @@
 		"lpib_vaksubkern_id": "afba9d4b-fffc-4778-904d-c3cfc1b79537",
 		"description": "Taal is gemeenschappelijk aan de mens. Een taal behoort tot een taalfamilie en talen ontwikkelen zich en beïnvloeden elkaar. \r\nInzicht in de overeenkomsten en verschillen in taal en communicatie helpt bij de analyse en interpretatie van Griekse teksten en bij de vergelijking van Griekse teksten met andere teksten.",
 		"doelniveau_id": [
+			"b7986043-f5a2-46b4-afd9-ca8c056e0b55",
 			"ef9882ae-6029-4972-8b3f-8879959591c1"
 		],
 		"title": "Communiceren over overeenkomsten en verschillen tussen de Griekse taal en andere talen",
@@ -12041,6 +12095,8 @@
 		"lpib_vaksubkern_id": "ce2c9734-480f-4278-af37-449d4a0c1bfb",
 		"description": "Een vertaling biedt een (eerste) toegang tot begrip van de Griekse tekst en biedt een opstap naar nadere analyse en interpretatie van de Griekse tekst.\r\nHet noteren van een woordelijke vertaling ontlast het werkgeheugen.\r\nEen vertaling biedt een (eerste) toegang tot begrip van de Griekse tekst en biedt een opstap naar nadere analyse en interpretatie van de Griekse tekst.",
 		"doelniveau_id": [
+			"63ecdde2-fc59-488b-a740-5674e95177e8",
+			"e8fd7db9-52be-41d4-b81e-ff0df323f76e",
 			"039aceb9-cf6f-419f-8800-7a621f4b2272",
 			"e1dfd0e0-46af-4a31-b1e4-d9a924de148a"
 		],
@@ -12053,6 +12109,7 @@
 		"lpib_vaksubkern_id": "7be5611d-d6cf-43c1-8b34-96efb4c0bad3",
 		"description": "Het maken van taalkundige annotaties (vocabulaire, morfologie, syntaxis, tekststructuur, pragmatiek) tijdens het lezen van een tekst maakt het mogelijk de tekst vlot te herlezen en biedt een opstap naar nadere analyse en interpretatie van de Griekse tekst.",
 		"doelniveau_id": [
+			"1aa31c07-6b25-4e8b-8733-bfd21e157521",
 			"d4d1e5c9-d9f9-4baf-961d-93edbcd9de9c"
 		],
 		"title": "Eigen aantekeningen bij een Griekse tekst maken",
@@ -12064,6 +12121,7 @@
 		"lpib_vaksubkern_id": "06f2aa20-f70a-4ca4-ad23-1c103107c337",
 		"description": "Een (literaire) vertaling is een tijdgebonden en individuele interpretatie van een Griekse tekst. Een tweetalige teksteditie maakt het mogelijk de Griekse tekst vlot lezen en biedt een opstap naar nadere analyse en interpretatie van de Griekse tekst",
 		"doelniveau_id": [
+			"d7232ae8-7322-4a35-b9e8-4984930d3817",
 			"b07722a9-a1db-48e5-a638-443f780d2266"
 		],
 		"title": "Een vertaling van een Griekse tekst gebruiken",
@@ -12074,9 +12132,10 @@
 		"prefix": "gtc/6/4",
 		"description": "Tekstannotaties en informatie uit een woordenlijst of woordenboek bieden informatie over vocabulaire, morfologie, syntaxis, tekststructuur, semantiek en pragmatiek die kan worden ingezet bij het ontsluiten van een tekst.",
 		"doelniveau_id": [
+			"1ac5251e-4fad-4a52-98c5-0bc64255c95b",
 			"7724ff62-d3ef-49ed-90d1-8927d84ac1a6"
 		],
-		"title": "Informatie uit tekstannotaties, een woordenlijst of woordenboek Grieks - Nederlands verwerken en toepassen bij de tekstontsluiting",
+		"title": "Informatie uit tekstannotaties, een woordenlijst of woordenboek Grieks - Nederlands verwerken bij de tekstontsluiting",
 		"id": "3ebfa2c8-2f6e-4121-8e25-220e3da01031",
 		"unreleased": true
 	},
@@ -12085,9 +12144,10 @@
 		"lpib_vaksubkern_id": "9a653cd5-a445-40cd-8509-2c0ef9a3ca9b",
 		"description": "Primaire en secundaire bronnen, annotaties, grammatica-overzicht, ICT-toepassingen, vertalingen bieden informatie over vocabulaire, morfologie, syntaxis, tekststructuur, semantiek en pragmatiek die kan worden ingezet bij het ontsluiten van een tekst.",
 		"doelniveau_id": [
+			"0fee21a4-a659-4051-8878-e084a3c5336b",
 			"10bf0409-efca-42d8-87d2-aff2fca88e54"
 		],
-		"title": "Informatie uit andere (ICT-)bronnen verwerken en toepassen bij de tekstontsluiting",
+		"title": "Informatie uit andere (ICT-) bronnen verwerken en toepassen bij de tekstontsluiting",
 		"id": "d50a1012-ece4-42a1-a404-f1e1f6fe623b",
 		"unreleased": true
 	},
@@ -12096,9 +12156,10 @@
 		"lpib_vaksubkern_id": "b5518c95-4ddd-4f52-b30d-5d4c034845fc",
 		"description": "Door af te wijken van de standaard formulering of woordvolgorde richt de spreker of auteur de aandacht van de lezer. Naast talige middelen vertelt en structureert de verteller of auteur zijn verhaal met narratologische middelen. Naast talige en rationele inhoudelijke argumenten overtuigt de spreker of auteur met argumentatieve middelen zijn publiek. Kennis van cultuurhistorische achtergronden en de analyse en interpretatie van Tekststructurerende, stilistische, narratologische en argumentatieve middelen dragen bij aan een beter begrip van een tekst en een reconstructie van communicatieve intenties.",
 		"doelniveau_id": [
+			"a473cb51-5232-462b-82c2-346e051d64f6",
 			"3af97e3b-a880-4d3b-aa06-b755998a8122"
 		],
-		"title": "Analyseren van een Griekse tekst vanuit taalkundig, letterkundig en cultuurhistorisch perspectief",
+		"title": "Analyseren en interpreteren van een Griekse tekst vanuit taalkundig, letterkundig en cultuurhistorisch perspectief",
 		"id": "29f506b2-5d46-4751-84bf-dd019e4647b1",
 		"unreleased": true
 	},
@@ -12107,6 +12168,7 @@
 		"lpib_vaksubkern_id": "9a67a2dd-ce5b-424a-8f45-e4f211d93bbe",
 		"description": "Tekstbegrip is een complex proces waarbij de context waarin de tekst heeft gefunctioneerd, een belangrijke rol speelt. Het gebruik van secundaire bronnen biedt leerlingen kennis van de oorspronkelijke cultuurhistorische achtergrond. Dergelijke kennis draagt bij aan een beter begrip van de tekst",
 		"doelniveau_id": [
+			"76b88e42-2e54-4dcf-8645-beced23885e8",
 			"2eaa5560-f4a3-4bb8-828c-c799f6bc6e5a"
 		],
 		"title": "Interpreteren en in context plaatsen van Griekse teksten",
@@ -12118,6 +12180,8 @@
 		"lpib_vaksubkern_id": "b7980ff9-be6e-45bd-afda-aea4cc015bb8",
 		"description": "Tekstbegrip is een gelaagd proces. De lezer heeft een overzicht nodig op de inhoud van de tekst om die nader te kunnen analyseren en interpreteren. Dit overzicht ontstaat vaak, maar niet altijd, bij de eerste tekstontsluiting.",
 		"doelniveau_id": [
+			"08cd8ca3-2fac-44e4-90b9-f5ccb60a73f1",
+			"972fcc7c-8780-4128-b629-f57edd252114",
 			"a0418513-418b-4fe9-a6a7-a4298430ba82",
 			"f5cbd051-ca8a-4eb6-b749-783c597a95a6"
 		],
@@ -12130,6 +12194,7 @@
 		"lpib_vaksubkern_id": "74f84e79-b0bc-46e6-9e37-546e6a3a9768",
 		"description": "Tekst en context leveren aanwijzingen over de interpretatie van een tekst. Literatuur roept een reactie op bij de lezer. Lezers maken keuzes bij de betekenistoekenning van Griekse teksten. Explicitering van deze keuzes draagt bij aan het begrip van de Griekse tekst.",
 		"doelniveau_id": [
+			"f6b8f886-17e3-4b28-8864-ec25e8a2f992",
 			"c4baf6f8-2124-434e-a159-9a663cd47536"
 		],
 		"title": "Geven van een beargumenteerde reactie op de interpretatie van Griekse teksten",
@@ -12141,6 +12206,7 @@
 		"lpib_vaksubkern_id": "734ef9f3-dbfc-4358-b45b-4abfc0a35d5f",
 		"description": "De vergelijking van Griekse teksten met andere cultuuruitingen uit latere perioden biedt inzicht in de cultuur- en tijdgebondenheid van de receptie van Griekse teksten. (Indirecte) reacties van lezers op Griekse teksten leiden soms tot nieuwe, op zich zelf staande creaties.",
 		"doelniveau_id": [
+			"e9d81961-c85a-4d5a-b3d0-bf96135edbd0",
 			"7607c1eb-f6e8-41a6-a10f-c49d17212762"
 		],
 		"title": "Analyseren en interpreteren van voorbeelden van receptie van Griekse teksten",
@@ -12152,6 +12218,7 @@
 		"lpib_vaksubkern_id": "2a3bc922-c331-4c2f-aef3-08626cd6c3bf",
 		"description": "Receptie in de literatuur en beeldende kunst van Griekse teksten functioneert in de context van de eigen tijd. \r\nKennis van de receptiegeschiedenis van een tekst draagt bij aan een beter begrip van de betekenis die in de eigentijdse cultuur aan een tekst wordt gegeven.",
 		"doelniveau_id": [
+			"b284271f-5b78-4b82-8ed8-0501ca248f4d",
 			"707640a6-59a7-4d68-bfaa-65f11041fb11"
 		],
 		"title": "Formuleren van een beargumenteerde reactie op de relatie tussen Griekse teksten en voorbeelden van uit de receptiegeschiedenis",
@@ -12163,6 +12230,7 @@
 		"lpib_vaksubkern_id": "275903e1-48af-494f-bfcf-f014add3c5d2",
 		"description": "Receptie en actualisatie van thema's en concepten uit Griekse tekst en functioneert in de context van de eigen tijd.\r\nActualisatie van een tekst draagt bij aan de persoonlijke betekenisgeving van een tekst en geeft inzicht in de eigentijdse cultuur door de confrontatie van het eigene en het vreemde.",
 		"doelniveau_id": [
+			"e0645a62-3644-42bc-bef3-d26aacd794c2",
 			"c3e66281-a2a1-4e41-a183-35509460b55b"
 		],
 		"title": "Reflecteren op maatschappelijke processen, morele dilemma's en / of actuele thema's in Griekse teksten",
@@ -12174,6 +12242,8 @@
 		"lpib_vaksubkern_id": "17f60e4b-2c2b-40fb-a3de-f40c74662df6",
 		"description": "Tekstbegrip is een individueel, constructief proces. \r\nEen Griekse tekst krijgt betekenis in wisselwerking met de lezer en diens eigen kennisbestand. \r\nHet interpreteren, plaatsen, vergelijken, recipiëren en actualiseren van een tekst draagt bij aan de persoonlijke ontwikkeling van een lezer.",
 		"doelniveau_id": [
+			"4ee83f58-4435-4a4e-bb22-54115de37b62",
+			"b7f9ea95-3d7f-4a65-b51f-322a9cace022",
 			"457c7929-a575-4ba0-a9fd-9d5db695d026",
 			"abb8cb2e-9a56-4745-8c98-bc6d8c8befee"
 		],
@@ -12186,6 +12256,7 @@
 		"lpib_vaksubkern_id": "ae89804b-171a-4d7c-b1ba-b46156aabeb1",
 		"description": "Griekse cultuuruitingen, Grieks verhalengoed en Griekse culturele, godsdienstige, filosofische en historische concepten maken deel uit van de cultuur-historische en maatschappelijke context waarin ze hebben gefunctioneerd.\r\nHerkenning en analyse van deze Griekse fenomenen dragen bij aan een beter begrip van de antieke cultuur.\r\nKennis van antieke cultuur- en gedachtengoed is een pijler van de gymnasiale vorming.\r\nKijkanalyse structureert het onderzoek van antieke cultuuruitingen.",
 		"doelniveau_id": [
+			"5026a2ef-5d8d-407f-8fda-ac6839dbfb17",
 			"63f5b832-5f8a-4ff3-b03d-23395bf85de7"
 		],
 		"title": "Herkennen en analyseren van voorbeelden van de Griekse cultuur",
@@ -12197,6 +12268,7 @@
 		"lpib_vaksubkern_id": "fe035bad-8a1c-4b08-a826-e6befdd26f47",
 		"description": "Een cultuuruiting maakt deel uit van de cultuur-historische en maatschappelijke context waarin hij heeft gefunctioneerd.\r\nDuiding van een cultuuruiting tegen de oorspronkelijke cultuurhistorische achtergrond draagt bij aan een beter begrip van zowel de cultuuruiting als de Griekse cultuur.",
 		"doelniveau_id": [
+			"e59fb8d7-843b-4ae2-b503-2fda8b3ba037",
 			"33f69fc7-fe98-435f-b870-78c496d38050"
 		],
 		"title": "Interpreteren en in context plaatsen van voorbeelden van de Griekse cultuur",
@@ -12208,6 +12280,7 @@
 		"lpib_vaksubkern_id": "fc6b7e54-fe49-4e9f-8cec-083d00c2194e",
 		"description": "Griekse teksten en realia vormen een bron van informatie over de Griekse cultuur. \r\nEr zijn verschillende onderzoeksdisciplines om tot kennis over de oudheid te komen. \r\nDoor verschillende bronnen met elkaar te vergelijken wordt duidelijk dat er niet één versie is van een mythe of van de geschiedenis.",
 		"doelniveau_id": [
+			"69c1b3ff-5c2d-4100-b7a6-3f4d1ceecfe8",
 			"de868dfb-b095-4173-989a-c1a4268f9144"
 		],
 		"title": "Geven van een beargumenteerde reactie op de interpretatie van voorbeelden van de Griekse cultuur",
@@ -12219,6 +12292,7 @@
 		"lpib_vaksubkern_id": "845b3db4-ae28-4d9b-b1e3-cf34aa7d083c",
 		"description": "De Griekse cultuur staat aan het begin van een Europese traditie. \r\nKennis van Griekse cultuur- en gedachtengoed is een pijler van de gymnasiale vorming.",
 		"doelniveau_id": [
+			"b0891710-53d6-4a36-8a1a-90bd6d3e525d",
 			"03e3ec61-67af-4b96-97ed-cb7c0bd690ef"
 		],
 		"title": "Herkennen van voorbeelden uit de receptiegeschiedenis",
@@ -12230,6 +12304,7 @@
 		"lpib_vaksubkern_id": "ecd45e96-1b12-417b-a539-d2b2f9e69932",
 		"description": "Duiding van de receptie van Grieks cultuur- en gedachtengoed in latere cultuuruitingen biedt inzicht in de cultuur- en tijdgebondenheid van de omgang met de Oudheid. \r\nKijkanalyse structureert het onderzoek van antieke cultuuruitingen en de receptie daarvan.",
 		"doelniveau_id": [
+			"b97cd17a-8fec-44ce-9585-c4b610177c31",
 			"4371d732-b8bc-4f81-9312-22dae1cab02b"
 		],
 		"title": "Analyseren en interpreteren van voorbeelden uit de receptiegeschiedenis",
@@ -12241,6 +12316,7 @@
 		"lpib_vaksubkern_id": "5dab056b-53e4-4c50-923c-177c1f6ba9b7",
 		"description": "Receptie van Grieks cultuur- en gedachtengoed bestaat op zichzelf in de context van de eigen tijd waarbij de Griekse tekst en context bijdraagt aan het begrip. \r\nKijkanalyse levert aanwijzingen over de interpretatie van een cultuuruiting. \r\nKennis van de receptiegeschiedenis van Grieks cultuur- en gedachtengoed draagt bij aan een beter begrip van de betekenis die in de eigentijdse cultuur aan Griekse fenomenen/ elementen uit de antieke cultuur wordt gegeven.",
 		"doelniveau_id": [
+			"d6fa354e-8f20-4595-874f-a6b079016e55",
 			"3f4a23ee-87e3-4606-b10c-add09c1ccb98"
 		],
 		"title": "Formuleren van een beargumenteerde reactie op de relatie tussen de Griekse cultuur en voorbeelden uit de receptiegeschiedenis",
@@ -12252,6 +12328,8 @@
 		"lpib_vaksubkern_id": "064dc64c-4278-457d-bbac-afcb991fe0f4",
 		"description": "Kijkanalyse levert aanwijzingen over de interpretatie van een cultuuruiting. \r\nActualisatie van Grieks cultuur- en gedachtengoed draagt bij aan een eigentijdse betekenisgeving van de Griekse cultuur en geeft inzicht in de eigentijdse cultuur.",
 		"doelniveau_id": [
+			"75eb62f8-9e85-4ee5-bf1e-13b330b6e41b",
+			"95044108-450c-47e6-bdaf-1828c7faca5f",
 			"8460210a-ff0e-40ed-838d-9d0634daebf1"
 		],
 		"title": "Reflecteren op de eigentijdse cultuur met kennis van de Griekse cultuur",
@@ -12263,10 +12341,61 @@
 		"lpib_vaksubkern_id": "02324dd4-f080-47d5-8a7c-a88583eda726",
 		"description": "Een cultuuruiting roept een persoonlijke reactie op van de be-/toeschouwer. Grieks cultuur- en gedachtengoed krijgt betekenis in wisselwerking met de ontvanger (de leerling). Het interpreteren, plaatsen, vergelijken, recipiëren en actualiseren van voorbeelden van Griekse cultuur draagt bij aan de persoonlijke ontwikkeling van de ontvanger.",
 		"doelniveau_id": [
+			"24959518-1fa6-41a2-bc22-4d3a8ea8d2a5",
+			"c659404a-eb41-4ffc-a0d1-c3c3571625be",
 			"dcf75a19-b59d-4c32-b7ce-f810c6cf85c1"
 		],
 		"title": "Een persoonlijke gemotiveerde reactie formuleren op de Griekse cultuur",
 		"id": "7b7087da-ae49-4fdf-b3fa-815c710ddd3b",
+		"unreleased": true
+	},
+	{
+		"prefix": "gtc/0/1",
+		"doelniveau_id": [
+			"8b8cbbdf-e7b0-4cf1-806d-4ee75b59e46f",
+			"3b8b3b67-f9a3-4419-bcf5-975e74478548",
+			"4908a546-73c0-47c2-b24d-f6cf3c3a1033",
+			"927c667b-b2f1-4724-af61-8f10b256a113",
+			"034ee86b-0473-4eb5-acc7-334bfe722b1a",
+			"49263d86-2589-40e8-953a-e1870fe88009",
+			"e58b0882-9bcd-4082-877e-911381a46199",
+			"11ac85a6-d654-474b-ab6f-dda9b68752c5",
+			"4c768618-376d-4e35-bf13-9633682b178c"
+		],
+		"title": "Tekst als bron",
+		"id": "221ede55-22f5-4e57-add6-82f2d11b7027",
+		"unreleased": true
+	},
+	{
+		"prefix": "gtc/4/4",
+		"lpib_vaksubkern_id": "c718a69d-8bb1-432b-8e5a-aa8c2858fb24",
+		"doelniveau_id": [
+			"894188d8-34d3-483b-ae3c-b029a3923001",
+			"a42fdbc1-c753-4673-8b91-e48051e9f52a",
+			"361efcb3-b06f-4f40-a6e0-b76f581cb954",
+			"1ca6c0a7-8ba3-4f67-bcde-b9b046cda01f",
+			"69147fef-80d4-4a6b-8044-2aafefc03303"
+		],
+		"title": "Persoonlijke ontwikkeling",
+		"id": "7153bb45-353e-485f-8cd3-a5e09fec7fa7",
+		"unreleased": true
+	},
+	{
+		"prefix": "gtc/6/6",
+		"doelniveau_id": [
+			"b1622372-e5f1-4671-be27-4aa309ffe105"
+		],
+		"title": "Tekstannotaties en informatie uit woordenlijst of woordenboek toepassen bij de tekstontsluiting",
+		"id": "c69f1494-d1e3-4ece-804a-102fbc906359",
+		"unreleased": true
+	},
+	{
+		"prefix": "gtc/8/9",
+		"doelniveau_id": [
+			"f0299967-424f-45cb-b79e-e2088ca32693"
+		],
+		"title": "Cultuuruiting als bron",
+		"id": "feb39337-df82-40b3-bfa4-227aa52fbe58",
 		"unreleased": true
 	}
 ]
