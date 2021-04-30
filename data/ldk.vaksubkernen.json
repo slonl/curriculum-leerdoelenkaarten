@@ -11020,8 +11020,11 @@
 	},
 	{
 		"prefix": "ltc/1/1",
-		"description": "Het latijns heeft een eigen alfabet",
+		"description": "Het Latijns heeft een eigen alfabet",
 		"doelniveau_id": [
+			"0714fcb9-cd23-4c5f-ae4c-6aa1b7e40d6a",
+			"bd097b8e-d49e-4868-94a9-effab4400427",
+			"6bca4c5b-2ca5-4b99-8eee-7bf7cfffc0b8",
 			"b6890838-d96f-4cfd-9e5d-cf2a84c83295",
 			"82bbb97e-9666-4da0-870c-8bdd80a8563d",
 			"ea3a9195-f778-4fd3-974b-3bcd637feaaf"
@@ -11035,6 +11038,10 @@
 		"lpib_vaksubkern_id": "fd30b4f6-3af0-4b8b-9bfb-adebf5c9152f",
 		"description": "Betekenis van woorden is een optelsom van basisbetekenis, woordkenmerken en context.",
 		"doelniveau_id": [
+			"76b3e3c9-6889-41b7-8dcf-69b4291528c2",
+			"fe347be6-fc47-46da-8885-0d692fc863a6",
+			"4e5bc5c1-0bf8-4c02-ae3b-fb9bd7b58463",
+			"6af41b6d-66cd-4146-aee3-1911ba5f640f",
 			"e32e5413-a094-43ec-82af-ae5e45b2e090",
 			"20176e5e-1bb0-44c3-8c89-4f1b807d5918",
 			"f752b878-735c-4659-acea-9537bac5e7b3"
@@ -11048,6 +11055,8 @@
 		"lpib_vaksubkern_id": "ff02ba64-fd85-4621-831b-9949c3902d2d",
 		"description": "Kenmerken van het Latijns op woordniveau: woorden zijn opgebouwd uit betekenisdragende eenheden volgens een vast systeem.",
 		"doelniveau_id": [
+			"f1e94705-149f-4c14-982e-e2062fdb837c",
+			"9b105da2-c15b-4dca-b947-e88416ab7ada",
 			"28854110-8f1c-49e4-9b8d-cc1994f7df37",
 			"2337babf-90aa-4ac0-a91f-00ab24ff49f9",
 			"e7d1dca1-09d7-4edc-8e2d-aefa1af8c82b"
@@ -11061,6 +11070,10 @@
 		"lpib_vaksubkern_id": "8a1d75b0-b638-4d0d-82f3-814c37810945",
 		"description": "Kenmerken van het Latijns op zinsniveau: zinnen zijn opgebouwd volgens vaste regels. Een werkwoord heeft een vast aantal open plaatsen die in een zin worden ingevuld. Het predicaat bepaalt de zinskern",
 		"doelniveau_id": [
+			"eefe7d10-3206-49cb-a950-566e784e44ac",
+			"a992376e-e777-4408-ab24-7736241b9231",
+			"3003d123-2a48-4366-ab58-4dbd2cfb4c6a",
+			"e59ae9c5-135b-47d5-a2bb-3d05e999ac9b",
 			"828d7810-99c9-44f7-ba19-2d5af85f8b81",
 			"deadd391-2ddb-4586-9616-741ce25b8e6b",
 			"7ec98ec8-5ff5-420c-ac4e-549286fac2dd"
@@ -11074,6 +11087,7 @@
 		"lpib_vaksubkern_id": "0fbb9979-75ec-4177-bd51-8e2bd14f2a2f",
 		"description": "Kenmerken van het Latijns als communicatiemiddel",
 		"doelniveau_id": [
+			"2f6ee6ba-f4c5-4d29-a72d-60857c818f62",
 			"9c67e981-71ee-4f64-a3b6-a4d41dc2d9be",
 			"fa6d5597-0e39-44ae-9ca4-9c17f2054f40",
 			"53d721fe-0f04-42b9-ae02-bd705a8f1864"
@@ -11087,6 +11101,10 @@
 		"lpib_vaksubkern_id": "f177e694-9af5-466c-9d7c-8102698c87e2",
 		"description": "Uniformiteit en diversiteit in taal en communicatie: taal is gemeenschappelijk aan de mens; een taal behoort tot een taalfamilie en talen ontwikkelen zich en beïnvloeden elkaar; onder de term OudLatijns vallen verschillende dialecten.",
 		"doelniveau_id": [
+			"0433d453-2fcb-44b2-83b9-df3a81701e60",
+			"b122ce06-84e3-4368-a6be-7b371582ae7b",
+			"ebc06bf7-c063-4263-909f-ac20013cc79d",
+			"a22adac4-b23e-4627-97fa-96b4ddfc70a5",
 			"0c168812-a91a-4422-8382-1671f4e67529",
 			"b1a6c400-bb5e-4b74-88d5-90d0bd387dfa"
 		],
@@ -11098,19 +11116,25 @@
 		"prefix": "ltc/2/1",
 		"lpib_vaksubkern_id": "139aaabb-b09f-47cc-916a-7740b7320365",
 		"doelniveau_id": [
+			"c2d1333e-5126-4c2a-8c8f-b6cc75ae2c0a",
+			"55d320a2-705f-4e60-9d5b-2a940ee7926c",
+			"ff917429-0ecf-4843-ae47-9d1d11c54461",
 			"e146525a-862e-40e3-9e30-5bb638d22049",
 			"5ec71c50-fc06-4367-8ab0-4c32132ab15c",
 			"6a088a5b-330f-459e-a777-e5168980c1cc"
 		],
 		"title": "Tekststructuur",
 		"id": "a33d093e-4529-4bb0-bac1-3b13c42a57c1",
-		"unreleased": true
+		"unreleased": true,
+		"description": "Tekststructurerende en talige middelen, waarmee de auteur of verteller de informatie doseert en structureert. De auteur of verteller stemt zijn boodschap af op het beoogde publiek. De lezer anticipeert op het te verwachten vervolg."
 	},
 	{
 		"prefix": "ltc/2/2",
 		"lpib_vaksubkern_id": "49c26297-b2ff-4e9b-911c-d8a02561b0a5",
 		"description": "Stilistische middelen, waarmee de auteur afwijkt van de standaardformulering of woordvolgorde om de aandacht te richten van de lezer. Metaforisch taalgebruik heeft een letterlijke en figuurlijke betekenis.",
 		"doelniveau_id": [
+			"56b89ee9-accd-4d23-869f-540737468e18",
+			"b3f5c18d-441a-4c5c-a35c-7d3a0a93b0b7",
 			"92873e13-a421-410d-98c3-e392163c5294",
 			"709ca13e-a6b3-4579-b644-7b5c2b9332b0",
 			"31c8eef4-4c2d-4ce2-b20b-6eef958d78c7"
@@ -11136,6 +11160,8 @@
 		"lpib_vaksubkern_id": "242dc15a-949f-4586-a04c-19f08ed820f5",
 		"description": "Narratologische middelen, waarmee de verteller of auteur zijn verhaal vertelt en structureert.",
 		"doelniveau_id": [
+			"c9429790-90e6-4273-83f3-145687f2d72b",
+			"c14342f8-2db0-4389-84ac-f5af3ee0582d",
 			"186466a0-d7f2-42bf-b8cf-d6e3efaf9285",
 			"47931616-704c-42ab-9e16-dc92ba4130e4",
 			"d71e7a1d-9926-41b5-b9f2-3a94584d9e8d"
@@ -11149,6 +11175,8 @@
 		"lpib_vaksubkern_id": "3df949c8-9ed5-4a93-b4b5-2cc805fefdc2",
 		"description": "Argumentatieve middelen, waarmee de spreker of auteur zijn publiek overtuigt.",
 		"doelniveau_id": [
+			"01ed699a-5ca6-478b-98be-3d709620ad9a",
+			"c411c36d-828b-4d6f-82f2-1b225c0c2ff3",
 			"61196fa9-7f1c-451b-a304-cc83b1007ec0",
 			"412774e3-7fb7-489c-bfc3-28a081b17ffc",
 			"d29771b5-a95e-491d-a16f-761889d22441"
@@ -11160,8 +11188,9 @@
 	{
 		"prefix": "ltc/2/6",
 		"lpib_vaksubkern_id": "28d1d00e-6428-42f3-9393-f72c41b8990b",
-		"description": "Genre, genrekenmerken, literaire thema's, taaleigen en stijl die kenmerkend zijn voor een auteur, dragen bij aan de betekenis van een tekst \r\nKeuze voor tekstsoort draagt bij aan de betekenis van een tekstpassage.",
+		"description": "Genre, genrekenmerken, literaire thema's, taaleigen en stijl die kenmerkend zijn voor een auteur, dragen bij aan de betekenis van een tekst \nKeuze voor tekstsoort draagt bij aan de betekenis van een tekstpassage.",
 		"doelniveau_id": [
+			"b6652b2e-b5ee-466d-a61e-1629b7c7d390",
 			"b30cb200-743f-4dfb-806a-00dba5fa6f72",
 			"6d73ae1f-5c32-4443-9b18-8c51e549c9e0",
 			"dbe4d8dc-c2e8-455d-bfb3-445ea8162e57"
@@ -11175,6 +11204,11 @@
 		"lpib_vaksubkern_id": "3f0fc526-8888-4422-b055-ce37e8daa00b",
 		"description": "Gangbare interpretaties en literaire vertalingen van een specifieke tekst.",
 		"doelniveau_id": [
+			"d89259f5-73ea-4e80-b189-541e78297962",
+			"5192fd2a-7b12-4206-bcc2-f9b5180a1ff0",
+			"e052c5ba-12ef-48c8-bd17-9c7c613cb11d",
+			"543134a3-4b7d-4093-a1c6-2f996b83baa1",
+			"485e0cd7-b216-42d5-be65-c2107443031e",
 			"827d64c8-28d4-4a8b-98b9-06afff568d5b",
 			"503a8edc-3a68-429a-a35c-78177cd14933",
 			"f49926de-430a-44cc-8d5e-0e54fc06eae6",
@@ -11200,6 +11234,7 @@
 		"lpib_vaksubkern_id": "150273c3-6580-41b0-b5e4-ca7bdfafd284",
 		"description": "Het beeld dat de Latijnse oudheid oproept, wordt sterk bepaald door Latijnse gebouwen, sculptuur en andersoortige cultuuruitingen.",
 		"doelniveau_id": [
+			"9b31600f-e3d8-4318-aea7-62fe02205f77",
 			"97b2b3d7-2960-486b-8c25-107ae05ad161",
 			"6842d82f-53f1-4ee7-8479-396ae9302ff9",
 			"7ef02aac-c535-44b7-9d7d-189576dcfa19",
@@ -11215,8 +11250,9 @@
 	{
 		"prefix": "ltc/3/2",
 		"lpib_vaksubkern_id": "880e746f-b7c1-4c05-b821-81a0b6a8f8da",
-		"description": "Antiek verhalengoed wordt gekenmerkt door antieke mythologische en historische figuren en hun herkeningsattributen.\r\nMythen hebben didactische en vormende waarde in de oudheid en later.",
+		"description": "Antiek verhalengoed wordt gekenmerkt door antieke mythologische en historische figuren en hun herkeningsattributen.\nMythen hebben didactische en vormende waarde in de oudheid en later.",
 		"doelniveau_id": [
+			"1bea1862-8b9f-40e7-8c73-f496f43edb55",
 			"7e822cd0-3e48-438e-a651-008de6bc4770",
 			"aecb3f2a-3000-4b42-b0f6-0c30a95d6f10",
 			"2a36de1e-1631-4585-b56b-a14162075175",
@@ -11234,6 +11270,7 @@
 		"lpib_vaksubkern_id": "2385aeb9-a455-4b55-9beb-0347f48102ec",
 		"description": "Belangrijke personen staan aan de basis van de ontwikkeling van het Latijnse gedachtengoed. \r\nDe Latijnse godsdienst heeft een vanzelfsprekende plaats in het persoonlijke, maatschappelijke en politieke leven van de Griek, \r\nDe Latijnse maatschappij was pluriform.",
 		"doelniveau_id": [
+			"421c2228-0d5d-4e46-844c-76420f151577",
 			"2c84cc3b-e22e-4c6d-a648-0c25a7e6431b",
 			"48387a1a-d9e9-47ed-833c-509666bbf9c8",
 			"71aa7b66-d071-4e46-a0c4-f010ea1a3923",
@@ -11266,6 +11303,8 @@
 		"prefix": "ltc/3/5",
 		"description": "Individuen en plaatsen die belangrijke historische gebeurtenissen en ontwikkelingen markeren.",
 		"doelniveau_id": [
+			"a2e03a0b-ea9f-431d-9bae-51843497bc5b",
+			"e29fecc1-688a-4b82-a4c6-45b2823c2364",
 			"183c1323-f713-4c24-89e6-7d43fb2d3d9a",
 			"a69e078a-3b02-470d-aba6-2bd2bbed0f02",
 			"2901ed44-9797-438d-8aac-bcec869ad422",
@@ -11274,15 +11313,18 @@
 			"d6833691-2bb8-4b08-8e6a-2bbed60d415d",
 			"8ee069a4-a926-47ad-831f-0d887a37cd98"
 		],
-		"title": "Latijnse geschiedenis en topografie",
+		"title": "Romeinse geschiedenis en topografie",
 		"id": "4c2891b9-bd5f-4d51-9602-29c39957385e",
-		"unreleased": true
+		"unreleased": true,
+		"lpib_vaksubkern_id": "7f22faf2-db72-4bdc-bb15-90777fa23a3c"
 	},
 	{
 		"prefix": "ltc/3/6",
 		"lpib_vaksubkern_id": "6c42f95f-10f2-44b3-ba9a-87ebb1c95e0b",
-		"description": "Een (literaire) tekst, gebruiksvoorwerp of kunstobject, verhalengoed, culturele en historische concepten maken deel uit van de cultuur-historische en maatschappelijke context waarin ze hebben gefunctioneerd. \r\nDeze zijn zowel onderdeel van een cultuur, als entree tot die cultuur.",
+		"description": "Een (literaire) tekst, gebruiksvoorwerp of kunstobject, verhalengoed, culturele en historische concepten maken deel uit van de cultuur-historische en maatschappelijke context waarin ze hebben gefunctioneerd. \nDeze zijn zowel onderdeel van een cultuur, als entree tot die cultuur.",
 		"doelniveau_id": [
+			"28a71ec2-b0e1-449c-92ef-f46fb8b849fa",
+			"38d8aba4-c03f-4506-b305-ae3dce95abd8",
 			"c5487872-5509-4d40-af78-da05980fff89",
 			"53dde725-037c-4fad-be01-78370a62b89f",
 			"9001d760-e715-430c-a7a2-d17f0164f773",
@@ -11303,8 +11345,13 @@
 	{
 		"prefix": "ltc/4/1",
 		"lpib_vaksubkern_id": "1b4a4502-04c2-43da-b189-2a009ec39d17",
-		"description": "De Latijnse cultuur bestaat niet op zichzelf, maar heeft zich ontwikkeld temidden van de Etruskische, Egyptische, Oosterse en Romeinse wereld. \r\nDe Latijnse cultuur werkt door in latere tijden.\r\nKennis van Latijnse cultuur- en gedachtengoed is een pijler van de gymnasiale vorming.\r\nDuiding van de receptie van Latijns cultuur- en gedachtengoed in latere cultuuruitingen biedt inzicht in de cultuur- en tijdgebondenheid van de omgang met de Oudheid.\r\nKijkanalyse structureert het onderzoek van antieke cultuuruitingen en de receptie daarvan.",
+		"description": "De Latijnse cultuur bestaat niet op zichzelf, maar heeft zich ontwikkeld temidden van de Etruskische, Egyptische, Oosterse en Romeinse wereld. \nDe Latijnse cultuur werkt door in latere tijden.\nKennis van Latijnse cultuur- en gedachtengoed is een pijler van de gymnasiale vorming.\nDuiding van de receptie van Latijns cultuur- en gedachtengoed in latere cultuuruitingen biedt inzicht in de cultuur- en tijdgebondenheid van de omgang met de Oudheid.\nKijkanalyse structureert het onderzoek van antieke cultuuruitingen en de receptie daarvan.",
 		"doelniveau_id": [
+			"a1227e0e-1052-494d-aacd-248f77ad4d58",
+			"60f2b364-1224-4748-8d20-15a1f6f8814b",
+			"2008ba73-9030-4eb6-bf4f-ab921af27195",
+			"df45b563-2a09-41db-bac0-7c89da83bd05",
+			"439c821a-1297-4f26-bb89-f2b7c2b4c378",
 			"887ac980-025d-43f5-8a87-0ff04d645c23",
 			"46997b70-b229-448a-91d4-f0f2c84ed21c",
 			"0781966d-3dd9-4cef-ad03-87548d53fa7d",
@@ -11330,6 +11377,7 @@
 		"lpib_vaksubkern_id": "ec75719a-4fc7-4a68-ad83-3861f39a57c7",
 		"description": "Antieke cultuuruitingen bevatten maatschappelijke processen, morele dilemma's en / of actuele thema's die bijdragen aan een eigentijdse betekenisgeving van de Latijnse cultuur.",
 		"doelniveau_id": [
+			"5d0225b4-090e-435c-b046-7476b5dd979f",
 			"e0316b56-f318-4be7-80b0-97b121d89e46",
 			"abffc122-dcb6-4a0a-a54a-377aa64d0ba3",
 			"33b1a240-415c-46c3-b24a-edda6a8ae82c",
@@ -11352,9 +11400,14 @@
 	},
 	{
 		"prefix": "ltc/4/3",
-		"lpib_vaksubkern_id": "34b4e93e-1a6a-4c2f-a73f-b8a8299365dd",
+		"lpib_vaksubkern_id": "218710ae-3622-4224-80f8-26059819455e",
 		"description": "De betekenis van een Latijnse cultuuruiting krijgt vorm in wisselwerking met de ontvanger (de leerling)",
 		"doelniveau_id": [
+			"21e31f71-91ce-4cfb-a1ea-98daa29c15a8",
+			"c8c71cfe-e414-4808-bbd9-35f2d5fc514d",
+			"510695be-076a-4b86-98df-6f8de78d4a22",
+			"44db9461-6640-450b-89fa-3954da9121f0",
+			"3dc69897-2730-4c7b-a65e-f6bf4afb2cad",
 			"16e1e2f2-7387-4fdf-b334-e114eed3053c",
 			"7bf06515-cdc7-48cf-9f45-5015ebce33af",
 			"ad0af0ec-d5fe-4129-910e-70ed1bb3a849",
@@ -11372,15 +11425,16 @@
 			"17e8d29d-cfb6-45cf-9a44-6a7f24b681a2",
 			"d6adb336-4a70-44b1-a956-14b39b89e9cf"
 		],
-		"title": "Persoonlijke vorming",
+		"title": "Persoonlijke ontwikkeling",
 		"id": "a7b7c6aa-ed01-45fb-aefa-e126e9d17929",
 		"unreleased": true
 	},
 	{
 		"prefix": "ltc/5/1",
 		"lpib_vaksubkern_id": "3b65f9ba-950b-4225-b575-150cbd9e3299",
-		"description": "Woorden zijn opgebouwd uit betekenisdragende eenheden volgens een vast systeem (alfabet, morfologie). \r\nWoorden krijgen betekenis in de context van een taaluiting (vocabulaire, semantiek en pragmatiek). \r\nZinnen zijn opgebouwd volgens min of meer vaste regels (syntaxis).\r\nInzicht in het (Latijnse) taalsysteem helpt bij de analyse en interpretatie van (Latijnse) teksten.",
+		"description": "Vaardigheden",
 		"doelniveau_id": [
+			"9687089c-b9cf-4892-87d8-c44929e442d7",
 			"fd193e82-0488-4b4f-920c-83a449cbdf4f"
 		],
 		"title": "Herkennen, analyseren en interpreteren van de oppervlaktestructuur van Latijnse tekst of tekst in vertaling op woord-, zins- en tekstniveau",
@@ -11392,6 +11446,7 @@
 		"lpib_vaksubkern_id": "a68e352f-5930-4093-82c0-f3b1c91c04de",
 		"description": "De Latijnse taal is een systeem dat dient om communicatie tot stand te brengen. \r\nDe Latijnse taal heeft algemene en specifieke talige middelen om te communiceren.\r\nDe Latijnse taal reflecteert de cultuur van de Oudheid. \r\nDe auteur leidt de lezer naar (beoogd) begrip.\r\nInzicht in het (Latijnse) taalsysteem helpt bij de analyse en interpretatie van (Latijnse) teksten.",
 		"doelniveau_id": [
+			"66cb05e9-e4f7-4828-a803-34e80756b2aa",
 			"04c36869-780b-4e9a-acb3-d205b2354546"
 		],
 		"title": "Communiceren over de Latijnse taal als taalsysteem op zichzelf",
@@ -11403,6 +11458,7 @@
 		"lpib_vaksubkern_id": "cd202bbb-9806-430c-8bad-9be5ca856d3a",
 		"description": "Taal is gemeenschappelijk aan de mens. \r\nTaal functioneert in een taalgemeenschap.\r\nEen taal behoort tot een taalfamilie en talen ontwikkelen zich en beïnvloeden elkaar.",
 		"doelniveau_id": [
+			"429d1017-ae92-466c-a612-d6f5f84c3c2f",
 			"f8608e3f-5f88-4d56-8f57-48ee79b1bb04"
 		],
 		"title": "Herkennen, analyseren en interpreteren van de overeenkomsten en verschillen tussen het Latijnse taalsysteem en andere talen",
@@ -11414,6 +11470,7 @@
 		"lpib_vaksubkern_id": "0dc6b65c-f6a5-4f59-aa52-3a9985f7ff82",
 		"description": "Taal is gemeenschappelijk aan de mens. Een taal behoort tot een taalfamilie en talen ontwikkelen zich en beïnvloeden elkaar. \r\nInzicht in de overeenkomsten en verschillen in taal en communicatie helpt bij de analyse en interpretatie van Latijnse teksten en bij de vergelijking van Latijnse teksten met andere teksten.",
 		"doelniveau_id": [
+			"9e06c265-b9ac-4cb8-a469-f6a0d8249e46",
 			"cedfd10d-766f-4db2-bb9b-4d6278ad636c"
 		],
 		"title": "Communiceren over overeenkomsten en verschillen tussen de Latijnse taal en andere talen",
@@ -11425,6 +11482,8 @@
 		"lpib_vaksubkern_id": "75870d8c-5c2a-4b2c-a1bc-9d6c95960e28",
 		"description": "Een vertaling biedt een (eerste) toegang tot begrip van de Latijnse tekst en biedt een opstap naar nadere analyse en interpretatie van de Latijnse tekst.\r\nHet noteren van een woordelijke vertaling ontlast het werkgeheugen.\r\nEen vertaling biedt een (eerste) toegang tot begrip van de Latijnse tekst en biedt een opstap naar nadere analyse en interpretatie van de Latijnse tekst.",
 		"doelniveau_id": [
+			"9788e79d-7796-42a9-a21b-87382ed1efd2",
+			"3e2f0129-35f6-4630-9c8c-06e77b60e5cb",
 			"f572ed74-da3a-4f75-9e27-218e4c4ce9dd",
 			"bd48300d-6824-4ee4-ac5a-b8bf5586ca71"
 		],
@@ -11437,6 +11496,7 @@
 		"lpib_vaksubkern_id": "bbdadb68-6572-4de2-a65b-a1445484b36f",
 		"description": "Het maken van taalkundige annotaties (vocabulaire, morfologie, syntaxis, tekststructuur, pragmatiek) tijdens het lezen van een tekst maakt het mogelijk de tekst vlot te herlezen en biedt een opstap naar nadere analyse en interpretatie van de Latijnse tekst.",
 		"doelniveau_id": [
+			"970b6973-2bb2-4661-8a81-ec3a105c24be",
 			"9acb3c03-80a5-4eb2-9f76-44deadb773ba"
 		],
 		"title": "Eigen aantekeningen bij een Latijnse tekst maken",
@@ -11448,6 +11508,7 @@
 		"lpib_vaksubkern_id": "5112e801-23ee-47bf-9846-e19d51145e4b",
 		"description": "Een (literaire) vertaling is een tijdgebonden en individuele interpretatie van een Latijnse tekst. Een tweetalige teksteditie maakt het mogelijk de Latijnse tekst vlot lezen en biedt een opstap naar nadere analyse en interpretatie van de Latijnse tekst",
 		"doelniveau_id": [
+			"59821dfe-dbc6-4837-ba37-d7ec3af7f93e",
 			"dc865a0a-6587-4c02-a8bc-b41c8567b6dc"
 		],
 		"title": "Een vertaling van een Latijnse tekst gebruiken",
@@ -11458,9 +11519,10 @@
 		"prefix": "ltc/6/4",
 		"description": "Tekstannotaties en informatie uit een woordenlijst of woordenboek bieden informatie over vocabulaire, morfologie, syntaxis, tekststructuur, semantiek en pragmatiek die kan worden ingezet bij het ontsluiten van een tekst.",
 		"doelniveau_id": [
+			"70a50958-7114-4bbe-963f-241ba7469014",
 			"a8fb2f14-ddcd-4226-80d3-66d2b23b2a2d"
 		],
-		"title": "Informatie uit tekstannotaties, een woordenlijst of woordenboek Latijns - Nederlands verwerken en toepassen bij de tekstontsluiting",
+		"title": "Informatie uit tekstannotaties, een woordenlijst of woordenboek Latijns - Nederlands verwerken bij de tekstontsluiting",
 		"id": "c4c205c0-c5cd-4ed9-aa34-4f0c63d5d764",
 		"unreleased": true
 	},
@@ -11469,9 +11531,10 @@
 		"lpib_vaksubkern_id": "83e5753d-eb4c-45f0-a662-e28dff8810cc",
 		"description": "Primaire en secundaire bronnen, annotaties, grammatica-overzicht, ICT-toepassingen, vertalingen bieden informatie over vocabulaire, morfologie, syntaxis, tekststructuur, semantiek en pragmatiek die kan worden ingezet bij het ontsluiten van een tekst.",
 		"doelniveau_id": [
+			"0dcd7a9a-dd96-49c1-bfde-869cfba6656c",
 			"68c449cb-2a8e-49f3-9065-519006ff05e0"
 		],
-		"title": "Informatie uit andere (ICT-)bronnen verwerken en toepassen bij de tekstontsluiting",
+		"title": "Informatie uit andere (ICT-) bronnen verwerken en toepassen bij de tekstontsluiting",
 		"id": "d828fedd-ddbd-4e90-8606-bf4e28d9a04a",
 		"unreleased": true
 	},
@@ -11480,6 +11543,8 @@
 		"lpib_vaksubkern_id": "efdedfd8-a49a-43f0-ad03-e5c2b8af93fd",
 		"description": "Tekstbegrip is een gelaagd proces. De lezer heeft een overzicht nodig op de inhoud van de tekst om die nader te kunnen analyseren en interpreteren. Dit overzicht ontstaat vaak, maar niet altijd, bij de eerste tekstontsluiting.",
 		"doelniveau_id": [
+			"6683442f-4f6c-4646-a267-c7e8b3566ecb",
+			"a2cd11b4-37e7-4a94-bb54-b2b4d9abe6ed",
 			"6c5a6546-1452-4dac-b312-c9b3e73c696c",
 			"911d7b17-47ee-4a58-94e1-d4e51c0f78bb"
 		],
@@ -11492,6 +11557,7 @@
 		"lpib_vaksubkern_id": "70bd1d46-6023-477c-9134-1c292e468a44",
 		"description": "Tekst en context leveren aanwijzingen over de interpretatie van een tekst. Literatuur roept een reactie op bij de lezer. Lezers maken keuzes bij de betekenistoekenning van Latijnse teksten. Explicitering van deze keuzes draagt bij aan het begrip van de Latijnse tekst.",
 		"doelniveau_id": [
+			"82ac8ad3-2992-479d-b6f7-3b8c4cd67ec3",
 			"32953a6d-7a68-43eb-a3f4-b2b7abaa4909"
 		],
 		"title": "Geven van een beargumenteerde reactie op de interpretatie van Latijnse teksten",
@@ -11500,9 +11566,10 @@
 	},
 	{
 		"prefix": "ltc/7/3",
-		"lpib_vaksubkern_id": "74218d04-7988-4b15-8311-15f6533f98c7",
+		"lpib_vaksubkern_id": "dbb6c809-0288-453b-bcff-385db2c230b6",
 		"description": "De vergelijking van Latijnse teksten met andere cultuuruitingen uit latere perioden biedt inzicht in de cultuur- en tijdgebondenheid van de receptie van Latijnse teksten. (Indirecte) reacties van lezers op Latijnse teksten leiden soms tot nieuwe, op zich zelf staande creaties.",
 		"doelniveau_id": [
+			"b407645a-e7ca-4ebe-905f-458e6077423c",
 			"e54b1c4c-e8e5-49b1-af6c-e2aa1db36795"
 		],
 		"title": "Analyseren en interpreteren van voorbeelden van receptie van Latijnse teksten",
@@ -11514,6 +11581,7 @@
 		"lpib_vaksubkern_id": "9c1ea9b4-026c-41e7-8cac-47c4c307a759",
 		"description": "Receptie in de literatuur en beeldende kunst van Latijnse teksten functioneert in de context van de eigen tijd. \r\nKennis van de receptiegeschiedenis van een tekst draagt bij aan een beter begrip van de betekenis die in de eigentijdse cultuur aan een tekst wordt gegeven.",
 		"doelniveau_id": [
+			"bef52624-a2ef-40d9-9a1e-f294c6184fc9",
 			"e4289a4d-92c8-4e91-8314-d4bd8b7b95e9"
 		],
 		"title": "Formuleren van een beargumenteerde reactie op de relatie tussen Latijnse teksten en voorbeelden van uit de receptiegeschiedenis",
@@ -11525,6 +11593,7 @@
 		"lpib_vaksubkern_id": "ad389a45-f587-4051-95bb-c69846a244b0",
 		"description": "Receptie en actualisatie van thema's en concepten uit Latijnse tekst en functioneert in de context van de eigen tijd.\r\nActualisatie van een tekst draagt bij aan de persoonlijke betekenisgeving van een tekst en geeft inzicht in de eigentijdse cultuur door de confrontatie van het eigene en het vreemde.",
 		"doelniveau_id": [
+			"4914a4a1-efba-473c-a99f-9002cc56be4c",
 			"d6557abf-8eaf-4b91-b529-40d4356f31df"
 		],
 		"title": "Reflecteren op maatschappelijke processen, morele dilemma's en / of actuele thema's in Latijnse teksten",
@@ -11536,6 +11605,8 @@
 		"lpib_vaksubkern_id": "4dc45bbf-7329-4281-89b0-d2449dd4ac07",
 		"description": "Tekstbegrip is een individueel, constructief proces. \r\nEen Latijnse tekst krijgt betekenis in wisselwerking met de lezer en diens eigen kennisbestand. \r\nHet interpreteren, plaatsen, vergelijken, recipiëren en actualiseren van een tekst draagt bij aan de persoonlijke ontwikkeling van een lezer.",
 		"doelniveau_id": [
+			"313f1741-5d04-468f-94dd-16a865b52829",
+			"8f92e51a-216f-49ff-8215-639cfb886e4e",
 			"38721517-052b-494a-aacb-b5886bb094f7",
 			"c344901e-9732-4ca2-8502-f5fe70a00b64"
 		],
@@ -11548,9 +11619,10 @@
 		"lpib_vaksubkern_id": "2b90daf6-d74b-42de-822e-8f25c0be852a",
 		"description": "Latijnse cultuuruitingen, Latijns verhalengoed en Latijnse culturele, godsdienstige, filosofische en historische concepten maken deel uit van de cultuur-historische en maatschappelijke context waarin ze hebben gefunctioneerd.\r\nHerkenning en analyse van deze Latijnse fenomenen dragen bij aan een beter begrip van de antieke cultuur.\r\nKennis van antieke cultuur- en gedachtengoed is een pijler van de gymnasiale vorming.\r\nKijkanalyse structureert het onderzoek van antieke cultuuruitingen.",
 		"doelniveau_id": [
+			"ff375512-fdb6-4847-8f90-e636f55dff6e",
 			"dbab0177-9701-4cd8-ac1f-f719d7a6d9aa"
 		],
-		"title": "Herkennen en analyseren van voorbeelden van de Latijnse cultuur",
+		"title": "Herkennen en analyseren van voorbeelden van de Romeinse cultuur",
 		"id": "32fdb90f-ed95-4cc6-9cd7-de4774c1de3b",
 		"unreleased": true
 	},
@@ -11559,9 +11631,10 @@
 		"lpib_vaksubkern_id": "24624e9e-aca9-48a9-9be9-d4541287597c",
 		"description": "Een cultuuruiting maakt deel uit van de cultuur-historische en maatschappelijke context waarin hij heeft gefunctioneerd.\r\nDuiding van een cultuuruiting tegen de oorspronkelijke cultuurhistorische achtergrond draagt bij aan een beter begrip van zowel de cultuuruiting als de Latijnse cultuur.",
 		"doelniveau_id": [
+			"823777b1-1c66-4e48-adb6-585ae15f5be5",
 			"066f2030-b276-47c3-bea6-a3ccf5ccc275"
 		],
-		"title": "Interpreteren en in context plaatsen van voorbeelden van de Latijnse cultuur",
+		"title": "Interpreteren en in context plaatsen van voorbeelden van de Romeinse cultuur",
 		"id": "2793e430-9243-4a88-b389-66418d03930f",
 		"unreleased": true
 	},
@@ -11570,9 +11643,10 @@
 		"lpib_vaksubkern_id": "169030ef-80a0-4ba4-8b13-39219b1b91c0",
 		"description": "Latijnse teksten en realia vormen een bron van informatie over de Latijnse cultuur. \r\nEr zijn verschillende onderzoeksdisciplines om tot kennis over de oudheid te komen. \r\nDoor verschillende bronnen met elkaar te vergelijken wordt duidelijk dat er niet één versie is van een mythe of van de geschiedenis.",
 		"doelniveau_id": [
+			"5e49f1b0-7c94-417d-8d9b-ef1cdac514e2",
 			"827b0878-d1cb-48e5-b32a-d6e4f5b754fb"
 		],
-		"title": "Geven van een beargumenteerde reactie op de interpretatie van voorbeelden van de Latijnse cultuur",
+		"title": "Geven van een beargumenteerde reactie op de interpretatie van voorbeelden van de Romeinse cultuur",
 		"id": "c07f31b7-582e-4e44-b682-85884fa9a16b",
 		"unreleased": true
 	},
@@ -11581,6 +11655,7 @@
 		"lpib_vaksubkern_id": "78560145-cca8-4d1e-be6f-6994b5e14b24",
 		"description": "De Latijnse cultuur staat aan het begin van een Europese traditie. \r\nKennis van Latijnse cultuur- en gedachtengoed is een pijler van de gymnasiale vorming.",
 		"doelniveau_id": [
+			"64c075de-3eba-48c9-b41e-d99b7d8667f2",
 			"56f8b434-6adc-43fa-a4e2-71fc5f444029"
 		],
 		"title": "Herkennen van voorbeelden uit de receptiegeschiedenis",
@@ -11592,6 +11667,7 @@
 		"lpib_vaksubkern_id": "f945641c-d8f4-4233-8b31-6d7ba6d6261e",
 		"description": "Duiding van de receptie van Latijns cultuur- en gedachtengoed in latere cultuuruitingen biedt inzicht in de cultuur- en tijdgebondenheid van de omgang met de Oudheid. \r\nKijkanalyse structureert het onderzoek van antieke cultuuruitingen en de receptie daarvan.",
 		"doelniveau_id": [
+			"4a9f13b3-95c7-4700-9c90-cba4c41c678f",
 			"1f3683da-3c0b-4c6d-8d76-d7b1dc652432"
 		],
 		"title": "Analyseren en interpreteren van voorbeelden uit de receptiegeschiedenis",
@@ -11603,9 +11679,10 @@
 		"lpib_vaksubkern_id": "cc601ce0-e84a-4c92-b12c-222fe7d4a894",
 		"description": "Receptie van Latijns cultuur- en gedachtengoed bestaat op zichzelf in de context van de eigen tijd waarbij de Latijnse tekst en context bijdraagt aan het begrip. \r\nKijkanalyse levert aanwijzingen over de interpretatie van een cultuuruiting. \r\nKennis van de receptiegeschiedenis van Latijns cultuur- en gedachtengoed draagt bij aan een beter begrip van de betekenis die in de eigentijdse cultuur aan Latijnse fenomenen/ elementen uit de antieke cultuur wordt gegeven.",
 		"doelniveau_id": [
+			"912c757f-5405-428e-bea8-3fc53fdba3e9",
 			"dab1a86e-952f-4796-8e34-dbbfb5162b73"
 		],
-		"title": "Formuleren van een beargumenteerde reactie op de relatie tussen de Latijnse cultuur en voorbeelden uit de receptiegeschiedenis",
+		"title": "Formuleren van een beargumenteerde reactie op de relatie tussen de Romeinse cultuur en voorbeelden uit de receptiegeschiedenis",
 		"id": "037bc11e-2a9e-4477-b696-e612c2f18a84",
 		"unreleased": true
 	},
@@ -11614,9 +11691,11 @@
 		"lpib_vaksubkern_id": "17cc290a-fae8-42d1-86e9-6fb7da4873d2",
 		"description": "Kijkanalyse levert aanwijzingen over de interpretatie van een cultuuruiting. \r\nActualisatie van Latijns cultuur- en gedachtengoed draagt bij aan een eigentijdse betekenisgeving van de Latijnse cultuur en geeft inzicht in de eigentijdse cultuur.",
 		"doelniveau_id": [
+			"bda183c2-962a-47b8-bb0b-f4d4de072366",
+			"a9b74432-1d81-457d-825d-377cd217296f",
 			"aebe8b9b-4313-4a49-8d56-0db4914ecfb5"
 		],
-		"title": "Reflecteren op de eigentijdse cultuur met kennis van de Latijnse cultuur",
+		"title": "Reflecteren op de eigentijdse cultuur met kennis van de Romeinse cultuur",
 		"id": "e8cbd7fb-4fe2-4c73-a1d8-ccd8dcf13b45",
 		"unreleased": true
 	},
@@ -11625,9 +11704,11 @@
 		"lpib_vaksubkern_id": "874208dc-fe12-401a-988f-13b4e9131fbb",
 		"description": "Een cultuuruiting roept een persoonlijke reactie op van de be-/toeschouwer. Latijns cultuur- en gedachtengoed krijgt betekenis in wisselwerking met de ontvanger (de leerling). Het interpreteren, plaatsen, vergelijken, recipiëren en actualiseren van voorbeelden van Latijnse cultuur draagt bij aan de persoonlijke ontwikkeling van de ontvanger.",
 		"doelniveau_id": [
+			"9e9a6d36-40dd-46ae-87a3-5b8a26cc337e",
+			"28835437-5e85-4995-8fb4-0ffa9285a0b1",
 			"bc32965f-4a15-464f-84f0-d0122fbe274a"
 		],
-		"title": "Een persoonlijke gemotiveerde reactie formuleren op de Latijnse cultuur",
+		"title": "Een persoonlijke gemotiveerde reactie formuleren op de Romeinse cultuur",
 		"id": "9991f20c-b498-4b2e-9586-d028e4463074",
 		"unreleased": true
 	},
@@ -12396,6 +12477,60 @@
 		],
 		"title": "Cultuuruiting als bron",
 		"id": "feb39337-df82-40b3-bfa4-227aa52fbe58",
+		"unreleased": true
+	},
+	{
+		"prefix": "ltc/0/1",
+		"doelniveau_id": [
+			"bce5ad86-83a1-4cc9-9aaa-9660f46cb152",
+			"6dac5524-d43c-465c-84fb-4f70d0b6a608",
+			"20a615c4-29e3-41d6-b829-ed220f928bf5",
+			"877b4dd2-c6b4-44d8-a754-92c7c201fe50",
+			"412af696-d4f2-48a5-85c2-6e302cbffb00",
+			"6759b4d0-7ee8-485c-aa65-db9e4e659284",
+			"8a638839-e7fb-4ad0-9fef-ec52cf141096",
+			"c6fe4e55-fb0a-47d5-924e-49a57c732e53",
+			"0f4832c1-7312-452e-a595-a46732d80672"
+		],
+		"title": "Tekst als bron",
+		"id": "37ed5aff-a78b-4a24-9610-e4c03f475246",
+		"unreleased": true
+	},
+	{
+		"prefix": "ltc/6/6",
+		"doelniveau_id": [
+			"33d1f66c-757f-41a1-84db-cbd96f4d9710"
+		],
+		"title": "Tekstannotaties en informatie uit woordenlijst of woordenboek toepassen bij de tekstontsluiting",
+		"id": "c11700d5-0be7-42d3-b89e-88dd90007381",
+		"unreleased": true
+	},
+	{
+		"prefix": "ltc/7/7",
+		"lpib_vaksubkern_id": "dbb6c809-0288-453b-bcff-385db2c230b6",
+		"doelniveau_id": [
+			"5caad4b5-acf2-4b63-885d-38bc390e7b82"
+		],
+		"title": "Analyseren en interpreteren van een Latijnse tekst vanuit taalkundig, letterkundig en cultuurhistorisch perspectief",
+		"id": "dd232fc0-2c2c-47e6-a75d-2836a1c3fa78",
+		"unreleased": true
+	},
+	{
+		"prefix": "ltc/7/8",
+		"doelniveau_id": [
+			"c6df6ee7-593c-4757-a14a-bd4afa6668af"
+		],
+		"title": "Interpreteren en in context plaatsen van Latijnse teksten",
+		"id": "7b9243e3-5f31-48fa-b46b-23f500fdda28",
+		"unreleased": true
+	},
+	{
+		"prefix": "ltc/8/9",
+		"doelniveau_id": [
+			"8cd8eece-4d9c-4d55-9b8b-3f4abf9278d2"
+		],
+		"title": "Cultuuruiting als bron",
+		"id": "2df4e060-3a6e-4565-8c89-e42ca714ace9",
 		"unreleased": true
 	}
 ]
