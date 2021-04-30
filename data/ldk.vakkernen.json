@@ -2797,6 +2797,7 @@
 		"ldk_vaksubkern_id": [
 			"6cbd6d35-6a94-4267-b351-23eb2042999c",
 			"dd26b27b-7e50-488f-b84f-be4823495556",
+			"7153bb45-353e-485f-8cd3-a5e09fec7fa7",
 			"4e48d86c-52c6-47e2-bc9c-74f0a4b2f240"
 		],
 		"title": "Betekenisgeving",
@@ -2825,6 +2826,7 @@
 			"b3bd7560-c30a-4b6b-9937-cce7518072a4",
 			"38fd4092-bda1-4354-8d34-abe0360df22f",
 			"3ebfa2c8-2f6e-4121-8e25-220e3da01031",
+			"c69f1494-d1e3-4ece-804a-102fbc906359",
 			"d50a1012-ece4-42a1-a404-f1e1f6fe623b"
 		],
 		"description": "Vaardigheden",
@@ -2836,9 +2838,9 @@
 		"prefix": "gtc/7",
 		"lpib_vakkern_id": "bedc0a03-2279-4565-8bee-23d1c0208681",
 		"ldk_vaksubkern_id": [
+			"42c74ecc-9e7d-44ac-97ad-3eeb20889157",
 			"29f506b2-5d46-4751-84bf-dd019e4647b1",
 			"d7ea5f7b-8036-49d6-9661-e306ddf489be",
-			"42c74ecc-9e7d-44ac-97ad-3eeb20889157",
 			"80ec4f64-9011-4326-bb79-e8bf68448bad",
 			"3879c7d7-4a4f-4dc6-97b9-809a90845b14",
 			"df3cf392-5b36-43ca-a5b7-d9eac4f315c2",
@@ -2849,7 +2851,7 @@
 		"doelniveau_id": [
 			"10bf0409-efca-42d8-87d2-aff2fca88e54"
 		],
-		"title": "Tekst- en literatuur beschouwing",
+		"title": "Tekst- en literatuurbeschouwing",
 		"id": "020ebc17-6b7a-4679-8b1b-e0ebbe880fcd",
 		"unreleased": true
 	},
@@ -2864,11 +2866,21 @@
 			"2752cfc7-2afd-4abc-bf08-83444af66ddd",
 			"c780c7ff-29c2-498d-b8a4-6c4e610457f3",
 			"5dd4c918-2d82-484d-b2db-baecfcf9f05f",
-			"7b7087da-ae49-4fdf-b3fa-815c710ddd3b"
+			"7b7087da-ae49-4fdf-b3fa-815c710ddd3b",
+			"feb39337-df82-40b3-bfa4-227aa52fbe58"
 		],
 		"description": "Vaardigheden",
 		"title": "Cultuurbeschouwing",
 		"id": "a164f887-245a-4d85-b4c0-267815621ef7",
+		"unreleased": true
+	},
+	{
+		"prefix": "gtc/0",
+		"ldk_vaksubkern_id": [
+			"221ede55-22f5-4e57-add6-82f2d11b7027"
+		],
+		"title": "Taal en tekst",
+		"id": "63f688b0-c1c9-41a9-b6f1-c82cc17548e1",
 		"unreleased": true
 	}
 ]
