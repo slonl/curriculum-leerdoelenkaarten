@@ -293,14 +293,15 @@
 		"prefix": "gtc",
 		"vakleergebied_id": "797f5fdf-8e35-43e9-b290-772c84f1761e",
 		"ldk_vakkern_id": [
+			"63f688b0-c1c9-41a9-b6f1-c82cc17548e1",
 			"13a3497d-c4c5-4ff1-b90e-20f00d9c0407",
 			"e4de4855-6784-411b-b986-205272fcbf70",
 			"3ad21b07-c633-4b11-81ca-f61609721803",
 			"ccbdac81-8a94-4ee7-84e3-84e4c860ca67",
 			"b1d47599-1b2b-4369-8885-9054d07d58d5",
 			"64e626a3-f405-4c34-8d99-e471a1fd1795",
-			"a164f887-245a-4d85-b4c0-267815621ef7",
-			"020ebc17-6b7a-4679-8b1b-e0ebbe880fcd"
+			"020ebc17-6b7a-4679-8b1b-e0ebbe880fcd",
+			"a164f887-245a-4d85-b4c0-267815621ef7"
 		],
 		"title": "Grieks",
 		"id": "45abd24e-02ab-4c8d-b28a-7e9af2aaf46e",
