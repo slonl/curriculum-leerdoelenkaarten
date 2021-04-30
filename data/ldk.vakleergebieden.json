@@ -275,14 +275,15 @@
 		"prefix": "ltc",
 		"vakleergebied_id": "0f1daeda-c83f-41bf-ab2b-ca148761e66a",
 		"ldk_vakkern_id": [
+			"4d9cc33f-168e-47ba-bc56-dce16c95f022",
 			"3148131e-7be3-4e1e-a46d-d792284a4598",
 			"7b135114-ec49-4cbd-941c-6ec3a552ba2c",
 			"afbfae09-eaee-4d9d-8c8c-64b20d32e9de",
 			"1e090d32-9e10-4b18-9b7b-f3a7c81c94db",
 			"2156298d-0b03-4cb8-b117-c58dd786ed13",
 			"4ddcb073-d167-4541-92c8-ec7b23612fab",
-			"6c38853a-5840-45a4-afc2-faa964b06c3f",
-			"4467a711-ff30-4796-970e-a98cfa0b3de7"
+			"4467a711-ff30-4796-970e-a98cfa0b3de7",
+			"6c38853a-5840-45a4-afc2-faa964b06c3f"
 		],
 		"title": "Latijn",
 		"id": "0150f55b-9ee5-4f65-8a6f-90bbc70275bd",
