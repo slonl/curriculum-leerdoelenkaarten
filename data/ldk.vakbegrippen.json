@@ -25311,10 +25311,11 @@
 	},
 	{
 		"doelniveau_id": [
-			"ade49cc8-12dd-43c9-a567-b745c7b8d203",
+			"6af41b6d-66cd-4146-aee3-1911ba5f640f",
 			"c0e2fdbb-1650-460c-a003-0c07539178a2",
 			"1f979a2a-64cd-453a-b8a7-7fcc7231b74f",
-			"466bcc20-375c-4774-93a5-f8fdedd5977f"
+			"466bcc20-375c-4774-93a5-f8fdedd5977f",
+			"ade49cc8-12dd-43c9-a567-b745c7b8d203"
 		],
 		"title": "basisbetekenis, betekenis in context, samengesteld woord, woorddelen, wordstam",
 		"id": "19bd8f44-ae30-401a-b5d9-84c455bbfd74",
@@ -25332,10 +25333,11 @@
 	},
 	{
 		"doelniveau_id": [
-			"8f3f4ed2-3f73-43c0-8ebc-a0a89919644b",
+			"eefe7d10-3206-49cb-a950-566e784e44ac",
 			"bf302c60-5ac5-4969-9164-68415436e902",
 			"eec2a634-f9a1-49ca-b4db-64640ed7fa29",
-			"40b2826d-6769-42f7-9a63-741791a50628"
+			"40b2826d-6769-42f7-9a63-741791a50628",
+			"8f3f4ed2-3f73-43c0-8ebc-a0a89919644b"
 		],
 		"title": "conjuncties, interpunctie, frame van het werkwoord, verplichte aanvulling, valentie, participiumconstructie, infinitivusconstructie",
 		"id": "550757a7-d1f6-422e-bcf4-b3976b60968c",
@@ -25361,8 +25363,9 @@
 	},
 	{
 		"doelniveau_id": [
-			"8b8cbbdf-e7b0-4cf1-806d-4ee75b59e46f",
-			"76b1a48d-cddd-41a8-a184-37150727a43e"
+			"bce5ad86-83a1-4cc9-9aaa-9660f46cb152",
+			"76b1a48d-cddd-41a8-a184-37150727a43e",
+			"8b8cbbdf-e7b0-4cf1-806d-4ee75b59e46f"
 		],
 		"title": "passim",
 		"id": "1a7e37d9-03bc-4c35-8d9c-faaab292635f",
@@ -25493,12 +25496,13 @@
 	},
 	{
 		"doelniveau_id": [
-			"ee9e8a65-524b-44ea-962c-2a3d567f2f29",
+			"28a71ec2-b0e1-449c-92ef-f46fb8b849fa",
 			"59ee358e-5886-4fbc-92a9-84fb30d3ecbd",
 			"e3e1e24b-8c0c-43b0-a717-4f2872f404a1",
 			"a04b4759-521c-4dd1-9439-2f624def9b15",
 			"70f8c84f-84a2-4818-aea4-d560e3ec2609",
-			"63bf27d8-02d4-45d0-832e-c96929a44fad"
+			"63bf27d8-02d4-45d0-832e-c96929a44fad",
+			"ee9e8a65-524b-44ea-962c-2a3d567f2f29"
 		],
 		"title": "kijkanalyse, werkingsmechanismen, standplaatsgebondenheid, bronoverlevering",
 		"id": "4e775b8d-9e76-40ae-a995-5097e7c4734a",
@@ -25547,7 +25551,7 @@
 	},
 	{
 		"doelniveau_id": [
-			"0efb7b26-4103-4160-b23b-6373a5af4f32",
+			"a1227e0e-1052-494d-aacd-248f77ad4d58",
 			"262acf87-0874-4c9b-b3f4-0d05f9dbc962",
 			"fa1bc69a-ea64-428d-9517-659dea9c2765",
 			"63319e49-aeed-4cfb-9d30-d0bc169162cc",
@@ -25577,7 +25581,8 @@
 			"48e142d6-3921-41ba-b84b-11b004951988",
 			"e911cbcc-a540-4116-b6ea-c8e1c7bf1a14",
 			"5b972d58-c18e-4b2c-a21c-84052e552ebe",
-			"993f6177-b852-4295-8aa8-56e76992b50f"
+			"993f6177-b852-4295-8aa8-56e76992b50f",
+			"0efb7b26-4103-4160-b23b-6373a5af4f32"
 		],
 		"title": "vormtaal & beeldtaal van de antieke cultuur, werkingsmechanismen, kijkanalyse, perspectivische lenigheid",
 		"id": "35540fb4-bc65-4a76-b914-b4dea0b1a2e5",
@@ -25768,6 +25773,164 @@
 		],
 		"title": "persoonlijke (creatieve) reactie, perspectivische lenigheid",
 		"id": "f87bd410-f777-41c5-802c-b8b79223192a",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"76b3e3c9-6889-41b7-8dcf-69b4291528c2"
+		],
+		"title": "basisbetekenis, betekenis in context",
+		"id": "c07dfebb-52fe-4a89-94ad-58b80ae4d534",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"fe347be6-fc47-46da-8885-0d692fc863a6"
+		],
+		"title": "basisbetekenis, betekenis in context, perspectivische lenigheid",
+		"id": "7873d9f4-ce1c-4565-86d1-2612f9dd658b",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"4e5bc5c1-0bf8-4c02-ae3b-fb9bd7b58463"
+		],
+		"title": "basisbetekenis, betekenis in context, samengesteld woord, woorddelen",
+		"id": "af9f5e8a-52a9-4bcf-87cd-838606cbf9ca",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"f1e94705-149f-4c14-982e-e2062fdb837c"
+		],
+		"title": "morfemen, woordbouw, relatie vormbetekenis, woordgeslacht, casus, declinaties, paradigmata, aspect, modus, genus, medium tantum",
+		"id": "31b832e4-b64d-45d9-8e22-fd1add2886ad",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"9b105da2-c15b-4dca-b947-e88416ab7ada"
+		],
+		"title": "morfemen, woordbouw, relatie vormbetekenis, woordgeslacht, getal, casus, declinaties, paradigmata, aspect, modus, genus, medium tantum, stam, tijd, aspect",
+		"id": "b0aeafc9-373d-4fb1-946c-5812f949145f",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"2f6ee6ba-f4c5-4d29-a72d-60857c818f62"
+		],
+		"title": "communicatieve intenties, relatie modus-houding van de spreker, negaties, partikels, perspectivische lenigheid",
+		"id": "8b4c4f66-6024-482e-ac26-435e5d3997de",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"0433d453-2fcb-44b2-83b9-df3a81701e60",
+			"ebc06bf7-c063-4263-909f-ac20013cc79d",
+			"a22adac4-b23e-4627-97fa-96b4ddfc70a5"
+		],
+		"title": "talige middelen, leenwoord, Attisch, Ionisch, perspectivische lenigheid",
+		"id": "836c33e1-2db6-493b-9297-6a13d4607a42",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"b122ce06-84e3-4368-a6be-7b371582ae7b"
+		],
+		"title": "basisbetekenis, betekenis in context, samengesteld woord, woorddelen morfemen, woordbouw, relatie vormbetekenis, casus, declinaties, paradigmata, aspect, modus, genus, medium tantum conjuncties, frame van het werkwoord, verplichte aanvulling, valentie, participiumconstructie, infinitivusconstructie",
+		"id": "9173fdb6-4649-4f52-99da-5ac8982c2fd6",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"c2d1333e-5126-4c2a-8c8f-b6cc75ae2c0a",
+			"55d320a2-705f-4e60-9d5b-2a940ee7926c",
+			"ff917429-0ecf-4843-ae47-9d1d11c54461"
+		],
+		"title": "aspect, partikels, signaalwoorden, structuurwoorden, tussenwerpsels, conjuncties, referentiële uitdrukkingen",
+		"id": "e2ec809c-a689-4867-b54e-c08116a830ed",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"56b89ee9-accd-4d23-869f-540737468e18",
+			"b3f5c18d-441a-4c5c-a35c-7d3a0a93b0b7"
+		],
+		"title": "stilistische middelen, stilistisch effect",
+		"id": "d3b9ea03-96eb-46f3-96ea-b4bbb6dd4035",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"c9429790-90e6-4273-83f3-145687f2d72b",
+			"c14342f8-2db0-4389-84ac-f5af3ee0582d"
+		],
+		"title": "narratologische middelen, story, plot, verhaalkenmerken, stijl- en genrekenmerken, verhaalstructuur, scripts, rol verteller, afstemming met beoogd publiek",
+		"id": "28edf50f-76ed-4880-a2ab-717eb0a5bf26",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"01ed699a-5ca6-478b-98be-3d709620ad9a",
+			"c411c36d-828b-4d6f-82f2-1b225c0c2ff3"
+		],
+		"title": "argumentatieve middelen",
+		"id": "8976525b-2aec-48d1-bb05-b4573c9ce898",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"b6652b2e-b5ee-466d-a61e-1629b7c7d390"
+		],
+		"title": "story, plot, verhaalstructuur, genrekenmerken, stijlkenmerken, scripts",
+		"id": "dc589cd7-56a1-4196-b5d9-fadb51e08a65",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"5192fd2a-7b12-4206-bcc2-f9b5180a1ff0",
+			"e052c5ba-12ef-48c8-bd17-9c7c613cb11d",
+			"543134a3-4b7d-4093-a1c6-2f996b83baa1",
+			"485e0cd7-b216-42d5-be65-c2107443031e"
+		],
+		"title": "standplaatsgebondenheid, letterlijke, vrije, metrische & prozavertaling, doeltaal-brontaal, perspectivische lenigheid",
+		"id": "5696c20f-d480-4c1e-831e-3410b909f0d2",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"9b31600f-e3d8-4318-aea7-62fe02205f77"
+		],
+		"title": "zuilenordes, bouwelementen van de Latijnse en Latijnse tempe",
+		"id": "12d301b6-d622-4c71-aaf9-2833b7ab3f5a",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"1bea1862-8b9f-40e7-8c73-f496f43edb55"
+		],
+		"title": "aitiologische mythe",
+		"id": "6e9efade-67c1-456b-bae3-7548b58e2a79",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"a2e03a0b-ea9f-431d-9bae-51843497bc5b",
+			"e29fecc1-688a-4b82-a4c6-45b2823c2364"
+		],
+		"title": "chronologie, tijdsbesef, causaliteit, continuïteit en verandering, bronoverlevering",
+		"id": "97ea5788-3d5f-42fb-9233-41fa30b76e99",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"21e31f71-91ce-4cfb-a1ea-98daa29c15a8",
+			"510695be-076a-4b86-98df-6f8de78d4a22",
+			"44db9461-6640-450b-89fa-3954da9121f0",
+			"3dc69897-2730-4c7b-a65e-f6bf4afb2cad"
+		],
+		"title": "persoonlijke (creatieve) reactie, perspectivische lenigheid",
+		"id": "2ac3ba7a-715a-49f1-a852-bfdf66b0ca1d",
 		"unreleased": true
 	}
 ]
