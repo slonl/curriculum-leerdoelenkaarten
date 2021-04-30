@@ -2704,6 +2704,7 @@
 			"c702e932-87de-4e00-a880-a546341587dc",
 			"d98a5e15-56a3-43f1-bca2-f3da7a9e4f16",
 			"c4c205c0-c5cd-4ed9-aa34-4f0c63d5d764",
+			"c11700d5-0be7-42d3-b89e-88dd90007381",
 			"d828fedd-ddbd-4e90-8606-bf4e28d9a04a"
 		],
 		"description": "Vaardigheden",
@@ -2716,6 +2717,8 @@
 		"lpib_vakkern_id": "f2c19594-2acc-4a51-8109-20eac7f136b2",
 		"ldk_vaksubkern_id": [
 			"e6749f18-4c20-47d9-aef2-0af62e89d4b8",
+			"dd232fc0-2c2c-47e6-a75d-2836a1c3fa78",
+			"7b9243e3-5f31-48fa-b46b-23f500fdda28",
 			"edc3989c-b839-44c3-a94f-aecbc82f07ec",
 			"802bcdaa-4aef-446d-b818-06bb9902639a",
 			"4743c453-2dce-4dda-a0cc-e5994824bb67",
@@ -2723,7 +2726,7 @@
 			"95fca43a-3478-428f-9641-d53ebc13b36f"
 		],
 		"description": "Vaardigheden",
-		"title": "Tekst- en literatuur beschouwing",
+		"title": "Tekst- en literatuurbeschouwing",
 		"id": "4467a711-ff30-4796-970e-a98cfa0b3de7",
 		"unreleased": true
 	},
@@ -2738,7 +2741,8 @@
 			"f0c56cd9-d92c-414d-92d5-f77d9d568a7e",
 			"037bc11e-2a9e-4477-b696-e612c2f18a84",
 			"e8cbd7fb-4fe2-4c73-a1d8-ccd8dcf13b45",
-			"9991f20c-b498-4b2e-9586-d028e4463074"
+			"9991f20c-b498-4b2e-9586-d028e4463074",
+			"2df4e060-3a6e-4565-8c89-e42ca714ace9"
 		],
 		"description": "Vaardigheden",
 		"title": "Cultuurbeschouwing",
@@ -2881,6 +2885,15 @@
 		],
 		"title": "Taal en tekst",
 		"id": "63f688b0-c1c9-41a9-b6f1-c82cc17548e1",
+		"unreleased": true
+	},
+	{
+		"prefix": "ltc/0",
+		"ldk_vaksubkern_id": [
+			"37ed5aff-a78b-4a24-9610-e4c03f475246"
+		],
+		"title": "Taal en tekst",
+		"id": "4d9cc33f-168e-47ba-bc56-dce16c95f022",
 		"unreleased": true
 	}
 ]
