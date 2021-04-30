@@ -25300,6 +25300,7 @@
 	},
 	{
 		"doelniveau_id": [
+			"ec1e1978-86dd-4d25-9401-d529b142a086",
 			"2f274aca-3e38-4057-a92f-8a29fe0fed81",
 			"76ed0c13-45f7-4530-bb14-805e69e527da",
 			"59dc05a8-6c67-44c4-9700-c6673f3458bc"
@@ -25310,6 +25311,7 @@
 	},
 	{
 		"doelniveau_id": [
+			"ade49cc8-12dd-43c9-a567-b745c7b8d203",
 			"c0e2fdbb-1650-460c-a003-0c07539178a2",
 			"1f979a2a-64cd-453a-b8a7-7fcc7231b74f",
 			"466bcc20-375c-4774-93a5-f8fdedd5977f"
@@ -25330,6 +25332,7 @@
 	},
 	{
 		"doelniveau_id": [
+			"8f3f4ed2-3f73-43c0-8ebc-a0a89919644b",
 			"bf302c60-5ac5-4969-9164-68415436e902",
 			"eec2a634-f9a1-49ca-b4db-64640ed7fa29",
 			"40b2826d-6769-42f7-9a63-741791a50628"
@@ -25358,6 +25361,7 @@
 	},
 	{
 		"doelniveau_id": [
+			"8b8cbbdf-e7b0-4cf1-806d-4ee75b59e46f",
 			"76b1a48d-cddd-41a8-a184-37150727a43e"
 		],
 		"title": "passim",
@@ -25489,6 +25493,7 @@
 	},
 	{
 		"doelniveau_id": [
+			"ee9e8a65-524b-44ea-962c-2a3d567f2f29",
 			"59ee358e-5886-4fbc-92a9-84fb30d3ecbd",
 			"e3e1e24b-8c0c-43b0-a717-4f2872f404a1",
 			"a04b4759-521c-4dd1-9439-2f624def9b15",
@@ -25542,6 +25547,7 @@
 	},
 	{
 		"doelniveau_id": [
+			"0efb7b26-4103-4160-b23b-6373a5af4f32",
 			"262acf87-0874-4c9b-b3f4-0d05f9dbc962",
 			"fa1bc69a-ea64-428d-9517-659dea9c2765",
 			"63319e49-aeed-4cfb-9d30-d0bc169162cc",
@@ -25596,6 +25602,172 @@
 		],
 		"title": "Kijkanalyse, standplaatsgebondenheid, klassiek erfgoed",
 		"id": "2b49dbdd-e18f-45ed-8445-a5d29cbad971",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"4f22af38-982b-4cf4-b614-ba712687dc9a"
+		],
+		"title": "basisbetekenis, betekenis in context",
+		"id": "31e06b75-d3c1-4644-8148-84c99a2c50a9",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"ac6d9841-41f3-4c1b-946c-c60c1c582c8e"
+		],
+		"title": "basisbetekenis, betekenis in context, perspectivische lenigheid",
+		"id": "dffd9636-e0f0-491b-b9f4-4ab5f251a54a",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"48f26795-80e1-4716-88b0-b39da51d88c3"
+		],
+		"title": "basisbetekenis, betekenis in context, samengesteld woord, woorddelen",
+		"id": "379794fc-5881-4402-b52e-e56108c5bc0a",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"2cfcefdc-ffe1-43b6-8795-76f4d87cf03c"
+		],
+		"title": "morfemen, woordbouw, relatie vormbetekenis, woordgeslacht, casus, declinaties, paradigmata, aspect, modus, genus, medium tantum",
+		"id": "5f68e363-3e18-4a3a-aa60-83265bf8d189",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"0be05f19-a6a0-476a-9455-7244e38f722d"
+		],
+		"title": "morfemen, woordbouw, relatie vormbetekenis, woordgeslacht, getal, casus, declinaties, paradigmata, aspect, modus, genus, medium tantum, stam, tijd, aspect",
+		"id": "b1fa0034-10ac-4f9f-8451-2cd36290213a",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"bcfb1e95-5ead-455d-b458-d7a9632a353d"
+		],
+		"title": "spiritus, acutus, gravis, perispomenon, morfemen, woordbouw, relatie vorm-betekenis, casus, declinaties, paradigmata, aspect, modus, genus, medium tantum",
+		"id": "3e6f95da-0f3f-4faf-97d4-e257e8eb5c2f",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"1861ff0e-96d9-483e-ba4a-749a54c9c992"
+		],
+		"title": "communicatieve intenties, relatie modus-houding van de spreker, negaties, partikels, perspectivische lenigheid",
+		"id": "e08fcf0e-6b74-4e7d-9006-30805a8b2bd0",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"c1c14abf-c74b-47d7-843c-7377dff0f3cd",
+			"1485711c-c880-492d-886d-7aa7668a62d4",
+			"77fa91b0-93c0-4589-b116-2ccdc5e28f7c"
+		],
+		"title": "talige middelen, leenwoord, Attisch, Ionisch, perspectivische lenigheid",
+		"id": "adfc197f-9e4d-44d8-9887-ef0e08b24706",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"ac1e0359-77a7-473a-813f-adb86ef1a334"
+		],
+		"title": "basisbetekenis, betekenis in context, samengesteld woord, woorddelen morfemen, woordbouw, relatie vormbetekenis, casus, declinaties, paradigmata, aspect, modus, genus, medium tantum conjuncties, frame van het werkwoord, verplichte aanvulling, valentie, participiumconstructie, infinitivusconstructie",
+		"id": "2cbae09a-8dee-40e3-a671-4b6f001bb862",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"0cab0c97-9414-4879-b0df-1d499c0be123",
+			"5321ca63-0e99-40fd-9696-770364d1837f",
+			"72e76474-6c37-4c46-b65c-c38916dedd6b"
+		],
+		"title": "aspect, partikels, signaalwoorden, structuurwoorden, tussenwerpsels, conjuncties, referentiële uitdrukkingen",
+		"id": "3baa8bf5-7642-436c-817e-e195173ee115",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"18ae164c-3a4b-4bd8-a74d-4c9136c6af1b",
+			"624173e6-6dcc-4af4-b1dd-ba7d6757ef51"
+		],
+		"title": "stilistische middelen, stilistisch effect",
+		"id": "846da5b9-e95e-44c4-b7b8-69cea94dad37",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"f893236b-3a0b-4888-a2bd-401345f050e8",
+			"6ecd6f73-6d33-42a0-a4c2-a57269924d2a"
+		],
+		"title": "narratologische middelen, story, plot, verhaalkenmerken, stijl- en genrekenmerken, verhaalstructuur, scripts, rol verteller, afstemming met beoogd publiek",
+		"id": "5bc5ee78-eca3-4e62-a68f-2d7948fe684e",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"9c58b9bc-2ecc-47d5-ae90-368439d2ea87",
+			"c33cf2d9-7942-436d-8c64-983247108b00"
+		],
+		"title": "argumentatieve middelen",
+		"id": "9e1bf614-f9dd-4777-814e-346ffec1c8f4",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"8d1b8362-348b-4d77-b111-3561a552e78e"
+		],
+		"title": "story, plot, verhaalstructuur, genrekenmerken, stijlkenmerken, scripts",
+		"id": "39b97b09-9433-4efb-8526-8b5201b94168",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"4c3b9178-8adf-4b7e-8670-3d285b5f3c75",
+			"c8c6cb39-665c-4073-be6e-dbdaf6a3ed75",
+			"cfbb4840-f22c-43cf-b93b-d916c5b34acf",
+			"f75d47fe-5533-4751-bfb9-83578c6807ee"
+		],
+		"title": "standplaatsgebondenheid, letterlijke, vrije, metrische & prozavertaling, doeltaal-brontaal, perspectivische lenigheid",
+		"id": "1404de28-75d2-4cf8-8476-fcb1fc04cbf7",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"ab143f97-a2fe-416d-b7b2-0ba046aec35d"
+		],
+		"title": "zuilenordes, bouwelementen van de Griekse en Griekse tempe",
+		"id": "9274a619-b719-44c5-a5e9-cff16f6dbc31",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"f52c3b79-76bc-4aea-870a-20f6f8b25b4a"
+		],
+		"title": "aitiologische mythe",
+		"id": "e8458287-3c35-4882-a3d4-cc0741f947e5",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"1760ccb8-cedf-4ae6-ae33-8133c1904756",
+			"3af38cf6-00d3-4843-894c-432d25d26e6d"
+		],
+		"title": "chronologie, tijdsbesef, causaliteit, continuïteit en verandering, bronoverlevering",
+		"id": "7f128f9c-b814-4a29-a6e8-9ccd2ee411c2",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"894188d8-34d3-483b-ae3c-b029a3923001",
+			"361efcb3-b06f-4f40-a6e0-b76f581cb954",
+			"1ca6c0a7-8ba3-4f67-bcde-b9b046cda01f",
+			"69147fef-80d4-4a6b-8044-2aafefc03303"
+		],
+		"title": "persoonlijke (creatieve) reactie, perspectivische lenigheid",
+		"id": "f87bd410-f777-41c5-802c-b8b79223192a",
 		"unreleased": true
 	}
 ]
