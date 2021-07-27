@@ -1482,7 +1482,8 @@
 			"75d49210-c98e-4149-b9c5-12a56304c9dd"
 		],
 		"title": "Gesprekken voeren",
-		"id": "4706783e-a395-456d-b3b9-ba8adb0b230a"
+		"id": "4706783e-a395-456d-b3b9-ba8adb0b230a",
+		"description": ""
 	},
 	{
 		"prefix": "du/2",
@@ -1492,11 +1493,13 @@
 		],
 		"doelniveau_id": [
 			"b98ee5f5-ad90-4ec5-a6b2-1b7565110710",
-			"af9e07b5-274e-47f9-83fb-74ede3b75fe5",
-			"0c34651f-325f-4378-9eea-466fbc319180"
+			"91ff9475-d605-47dc-8546-938b1a08135a",
+			"75d49210-c98e-4149-b9c5-12a56304c9dd"
 		],
 		"title": "Spreken",
-		"id": "721ec1f3-51f6-428c-ae1c-4f280af18a21"
+		"id": "721ec1f3-51f6-428c-ae1c-4f280af18a21",
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"prefix": "du/3",
@@ -1507,10 +1510,12 @@
 		"doelniveau_id": [
 			"b98ee5f5-ad90-4ec5-a6b2-1b7565110710",
 			"69ced4da-2685-41f6-91aa-b064923016db",
-			"0c34651f-325f-4378-9eea-466fbc319180"
+			"75d49210-c98e-4149-b9c5-12a56304c9dd"
 		],
 		"title": "Schrijven",
-		"id": "3f74fd6a-2f4b-4df1-88a6-d8df430b5d8f"
+		"id": "3f74fd6a-2f4b-4df1-88a6-d8df430b5d8f",
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"prefix": "du/4",
@@ -1523,10 +1528,12 @@
 			"b98ee5f5-ad90-4ec5-a6b2-1b7565110710",
 			"6ebe46fa-2da6-49f9-9847-62ef07de8915",
 			"4f613226-698a-44a8-96b4-84a01800ea24",
-			"3e755e16-6af8-4d40-b6de-716da2a73efc"
+			"75d49210-c98e-4149-b9c5-12a56304c9dd"
 		],
 		"title": "Lezen",
-		"id": "256a9258-e838-4cd9-b221-08389412a9ab"
+		"id": "256a9258-e838-4cd9-b221-08389412a9ab",
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"prefix": "du/5",
@@ -1536,13 +1543,15 @@
 		],
 		"doelniveau_id": [
 			"31a2f739-6336-4835-8687-6553b1d7cfae",
-			"355c28ff-61e5-446e-b7ee-57ea62b482b5",
-			"90a5d3f5-edf9-4b61-a949-87bfcfee8c0d",
-			"2fe1e415-3d5b-41bc-8ea9-394eec25f404",
-			"0c34651f-325f-4378-9eea-466fbc319180"
+			"b98ee5f5-ad90-4ec5-a6b2-1b7565110710",
+			"6ebe46fa-2da6-49f9-9847-62ef07de8915",
+			"4f613226-698a-44a8-96b4-84a01800ea24",
+			"75d49210-c98e-4149-b9c5-12a56304c9dd"
 		],
 		"title": "Kijken en luisteren",
-		"id": "b85bab53-e617-43cd-a936-0eeaec745b6e"
+		"id": "b85bab53-e617-43cd-a936-0eeaec745b6e",
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"prefix": "fa/1",
@@ -1748,16 +1757,18 @@
 		],
 		"doelniveau_id": [
 			"04252430-8588-4817-b567-eb2555d1a76f",
-			"76d31576-35b4-45b0-84e1-f424a4a92a46",
 			"1ff84c6d-8d28-456d-bb27-699db1f52c28",
 			"97eba47e-9096-411e-a8f1-47f4a70021b9",
 			"f79dc5b6-48d2-4f2b-a7fd-a72e800a1045",
 			"799356d7-278f-4d01-abc2-6383102edf8a",
 			"220ba998-3887-448e-99c4-601a8f7c92d3",
-			"d9336525-47c1-4655-a9e6-aa04c3140130"
+			"d9336525-47c1-4655-a9e6-aa04c3140130",
+			"3ce02c36-a2b5-4cad-b8c6-fda763d7e0bb"
 		],
 		"title": "Ruil",
-		"id": "2dc46e61-6ee9-4604-86d7-8cc6d60b6929"
+		"id": "2dc46e61-6ee9-4604-86d7-8cc6d60b6929",
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"prefix": "ec/3",
@@ -1774,7 +1785,6 @@
 		"doelniveau_id": [
 			"04252430-8588-4817-b567-eb2555d1a76f",
 			"d91b3e6b-ec69-4fb1-a3ef-d92b05ed4018",
-			"dae22d11-77a7-436a-8535-e1d096325675",
 			"8699242a-1ed0-4f41-805b-27cbfae407f7",
 			"22f55cad-d6eb-43b1-96df-1ff71ff4ad49",
 			"a086deee-802f-4967-bd8c-7d97f3619409",
@@ -1783,10 +1793,13 @@
 			"50244957-c92c-4541-92ff-eb9f8463771c",
 			"5ec5f52c-5525-439a-bbc9-526b5673545a",
 			"d4e749db-cd04-45e7-8819-dcb830540b47",
-			"caeae19a-4919-4679-a14d-7a3340ce056a"
+			"caeae19a-4919-4679-a14d-7a3340ce056a",
+			"3ce02c36-a2b5-4cad-b8c6-fda763d7e0bb"
 		],
 		"title": "Markt",
-		"id": "a1bf680e-feb7-4212-b60c-52274326a814"
+		"id": "a1bf680e-feb7-4212-b60c-52274326a814",
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"prefix": "ec/4",
@@ -1825,10 +1838,7 @@
 		],
 		"doelniveau_id": [
 			"04252430-8588-4817-b567-eb2555d1a76f",
-			"19d2f561-58ef-4dff-b88a-d9a2e2988e2c",
 			"99889288-2b2a-4e4c-aeb9-f51cc5fa1109",
-			"feae6342-67f5-4f91-8f7b-b0342fdd5532",
-			"5a45fa3a-bd03-48ee-95ad-043604f4f376",
 			"45f5c698-2c45-4f61-90e4-91b10fff855f",
 			"c0d1a87c-f7d7-48d8-a78b-c57765338f1d",
 			"ae34403d-2478-4732-8de1-56e9eae9962e",
@@ -1836,10 +1846,15 @@
 			"6bbd4248-d27f-49cf-8966-9fa35e2fb8c3",
 			"3656447b-7c82-4d86-a43d-a64f23478658",
 			"1402601d-05f8-4e47-9ee1-6cb53c6c30ec",
-			"1dcbc1d7-32de-4c22-8056-71b521e03f87"
+			"1dcbc1d7-32de-4c22-8056-71b521e03f87",
+			"d91b3e6b-ec69-4fb1-a3ef-d92b05ed4018",
+			"3ce02c36-a2b5-4cad-b8c6-fda763d7e0bb",
+			"8699242a-1ed0-4f41-805b-27cbfae407f7"
 		],
 		"title": "Samenwerken en onderhandelen",
-		"id": "2d83f1dc-3874-40fc-bf55-a9ff3d729e1d"
+		"id": "2d83f1dc-3874-40fc-bf55-a9ff3d729e1d",
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"prefix": "ec/6",
@@ -1855,7 +1870,6 @@
 		],
 		"doelniveau_id": [
 			"04252430-8588-4817-b567-eb2555d1a76f",
-			"3f63a561-0602-4de9-bf8c-efd71ebf40b1",
 			"b426963c-ca40-49e8-a501-b6665f70baa1",
 			"48020ee3-6fa8-4175-83b4-f9d7c678bac1",
 			"a8fd33c2-3a52-481e-b911-7920d0d09756",
@@ -1863,10 +1877,13 @@
 			"d93ff977-2b11-4b5a-854a-cb0f92614e9c",
 			"f440c7e9-0627-41f6-958b-91f598587c4f",
 			"67597f09-6d14-4a70-97af-50b24b0f1867",
-			"581833f9-de32-48f1-bcf5-1cf6ec426871"
+			"581833f9-de32-48f1-bcf5-1cf6ec426871",
+			"f31678b5-01e0-46f3-9173-a1cec744085e"
 		],
 		"title": "Risico en informatie",
-		"id": "f512ceb4-b581-4b5b-a03d-ca5f2fad1837"
+		"id": "f512ceb4-b581-4b5b-a03d-ca5f2fad1837",
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"prefix": "ec/7",
@@ -1880,8 +1897,6 @@
 		],
 		"doelniveau_id": [
 			"04252430-8588-4817-b567-eb2555d1a76f",
-			"dd5988e6-a74e-4538-8cc0-7dd8b80c80bc",
-			"dae22d11-77a7-436a-8535-e1d096325675",
 			"4d28b2a9-b3c0-4174-8e54-52bab427fa14",
 			"086c8faa-8d4e-46f8-a973-bf8632442567",
 			"1b8229ec-ad95-475d-a333-1620ed275c8b",
@@ -1889,10 +1904,14 @@
 			"7b5e3aff-4a90-48bc-9a6d-30cefa19328f",
 			"d858422d-668e-4a91-872c-e0bfb4ccaf74",
 			"e5a3d039-e63a-423e-94fb-c88d9dd262fd",
-			"25d87962-34b6-4185-a63a-6ab4dd4d9cdf"
+			"25d87962-34b6-4185-a63a-6ab4dd4d9cdf",
+			"f31678b5-01e0-46f3-9173-a1cec744085e",
+			"3ce02c36-a2b5-4cad-b8c6-fda763d7e0bb"
 		],
 		"title": "Welvaart en groei",
-		"id": "6dcded8b-0bee-476a-8ddf-1027e04f63bd"
+		"id": "6dcded8b-0bee-476a-8ddf-1027e04f63bd",
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"prefix": "ec/8",
@@ -1906,9 +1925,6 @@
 		],
 		"doelniveau_id": [
 			"04252430-8588-4817-b567-eb2555d1a76f",
-			"1c3cbd55-4ea5-445e-8321-9dca14ed6b1e",
-			"dae22d11-77a7-436a-8535-e1d096325675",
-			"c77b9c39-91fd-4c29-8720-dd332af9618f",
 			"e67bc34f-5b3b-476d-ba60-c77f87b345d1",
 			"58b09282-10ac-495b-b00b-0101d6a7ecb1",
 			"88799774-f88c-4db9-b8bf-d771b9845294",
@@ -1916,10 +1932,15 @@
 			"9daa3d7c-c395-4937-9c1d-8f85bca1406c",
 			"3c5cb4f7-124e-4c92-8e22-7e4289f52514",
 			"cfcaad31-c430-4547-a0cd-1f86ff055a3e",
-			"f88c10c4-a461-4d28-ae26-7efb490bed77"
+			"f88c10c4-a461-4d28-ae26-7efb490bed77",
+			"d91b3e6b-ec69-4fb1-a3ef-d92b05ed4018",
+			"3ce02c36-a2b5-4cad-b8c6-fda763d7e0bb",
+			"8699242a-1ed0-4f41-805b-27cbfae407f7"
 		],
 		"title": "Goede tijden, slechte tijden",
-		"id": "3305735c-2f03-4207-98f9-90b791a98f78"
+		"id": "3305735c-2f03-4207-98f9-90b791a98f78",
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"prefix": "ec/9",
