@@ -412,20 +412,8 @@
 		],
 		"doelniveau_id": [
 			"4edfca08-449b-432c-8758-ac27d6bf44e0",
-			"5464e783-d7f6-4ba4-a88e-4333ca3ac1f2",
-			"4ab2dfe4-c037-4ff6-91cb-35fab6b82f57",
-			"ada8b5fb-85e6-40ee-b08f-d4eda3f357d2",
-			"e7a4b004-86d9-4890-abbb-516179e1be4d",
 			"bac6df53-e654-4254-8af0-ed62b0339bee",
-			"09d0cc88-20bf-4ff6-8d08-4e782a8a3f9b",
-			"c94edd87-ee08-466b-9a0a-16e19d9f1344",
-			"ea531d50-eab9-47e1-b08f-2c694bf8f2ad",
-			"2f7332e4-eadb-4a87-9cd2-f20d4251082b",
 			"f7df957a-54f7-4d55-a686-147c7ff74f11",
-			"01bc2600-31e1-4789-9d30-58a7c3c504cf",
-			"b49366b2-d951-4291-add0-491536bab09f",
-			"47c26aa9-75a2-420c-ae2f-3e7236192de5",
-			"d2f82210-c9c1-40e8-acc7-7b2ef04a26be",
 			"89ee5502-ed71-40f9-9642-9cab2ffc0c9a",
 			"01c9417a-9817-4f25-bf96-d273cd54b919",
 			"d7e833de-d47d-4478-8bca-a5fd6dcde3a0",
@@ -435,17 +423,12 @@
 			"194199b7-3861-4f78-902a-0d3666d57f99",
 			"1a18b8cd-c8e8-47e5-88e6-a1e39d882e62",
 			"17480b02-b614-46f0-9f3a-d7e0eff53f12",
-			"2153cbe1-1929-41c8-a528-bf6f869400f8",
-			"a1644103-acc6-47a9-9f25-a3148f6c511a",
-			"84947bea-7847-47d7-ac72-acef76e9fefa",
-			"e9362db4-818e-47a0-aa05-2579b8ee3899",
-			"c1617ca3-c9ae-4583-bebd-6d823acf24a0",
-			"a8c4d2e4-00e3-4aff-8471-4bc20fdf9046",
-			"26877a36-2438-4f38-8124-a2419f366b59"
+			"2153cbe1-1929-41c8-a528-bf6f869400f8"
 		],
 		"title": "Biologische eenheid",
 		"id": "e54b4bd2-f6bb-4d6c-91f9-449c6283db2c",
-		"dirty": true
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"prefix": "bio/2",
@@ -463,10 +446,7 @@
 			"a61e5113-41a4-4a13-8ad3-f0d46dbc7820"
 		],
 		"doelniveau_id": [
-			"6d274fd7-ee0a-4079-aa9f-dea873d31915",
-			"9f69dd94-ee86-449e-80c0-53f858ea40d4",
 			"547607fa-07ad-4efa-b1a5-1689472c8181",
-			"a8c4d2e4-00e3-4aff-8471-4bc20fdf9046",
 			"24533140-510f-446f-8eb0-78bbfa9de235",
 			"104cbd1c-5474-45e3-9ca9-ebfed6e080ee",
 			"c5a990de-6f3e-4481-8d90-9ec52022c19c",
@@ -481,10 +461,16 @@
 			"3dceb57e-a2e0-4a62-a389-d6fd93fe8648",
 			"079930d9-5f0b-4288-bbc6-3628ed9b9bae",
 			"ae506acc-2bea-4312-9958-138f872c4083",
-			"2ef18463-56e4-4765-9eec-225a710991f8"
+			"2ef18463-56e4-4765-9eec-225a710991f8",
+			"42302483-a8a5-44dd-9d0e-cc767ada8fc2",
+			"4edfca08-449b-432c-8758-ac27d6bf44e0",
+			"bac6df53-e654-4254-8af0-ed62b0339bee",
+			"f7df957a-54f7-4d55-a686-147c7ff74f11"
 		],
 		"title": "Instandhouding",
-		"id": "aff75f4d-f98c-4bb3-9416-c580bc693e52"
+		"id": "aff75f4d-f98c-4bb3-9416-c580bc693e52",
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"prefix": "bio/3",
@@ -497,10 +483,6 @@
 			"2f5dec2b-440e-4dc4-b4b8-c46f098bd6c5"
 		],
 		"doelniveau_id": [
-			"6d274fd7-ee0a-4079-aa9f-dea873d31915",
-			"41973b8f-5ceb-43ba-85eb-8f08a6819180",
-			"547607fa-07ad-4efa-b1a5-1689472c8181",
-			"191f71d4-1c7a-4483-a24a-dc2b55e78654",
 			"b5f44fb6-cbfd-4536-bc6b-86a3d4fa3742",
 			"3f8e1d5f-0e50-4b71-b7b3-54f35089fc58",
 			"f570ed49-bee6-41da-b2d6-5d0cef131ecf",
@@ -515,10 +497,16 @@
 			"dd223fae-dc8a-4d51-aa60-5e1a2aba162c",
 			"07b11586-897c-46e7-891c-c4dc71d1d4b7",
 			"7127bfd5-09ac-4496-93ba-6e38f2c4f99a",
-			"8b739bf9-5dce-4fe8-820e-8fa82c913de2"
+			"8b739bf9-5dce-4fe8-820e-8fa82c913de2",
+			"4edfca08-449b-432c-8758-ac27d6bf44e0",
+			"bac6df53-e654-4254-8af0-ed62b0339bee",
+			"547607fa-07ad-4efa-b1a5-1689472c8181",
+			"f7df957a-54f7-4d55-a686-147c7ff74f11"
 		],
 		"title": "Interactie",
-		"id": "6f55977d-598f-46eb-9d69-40282827f0ef"
+		"id": "6f55977d-598f-46eb-9d69-40282827f0ef",
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"prefix": "bio/4",
@@ -531,10 +519,8 @@
 			"3d2aba96-e2d4-4470-baee-4fbd034b685e"
 		],
 		"doelniveau_id": [
-			"6d274fd7-ee0a-4079-aa9f-dea873d31915",
 			"d2c576b2-45b6-46b5-a4f7-bd0945b7c231",
 			"381eb24f-15ab-4493-9eb4-1c98e7d8d49f",
-			"2f61106e-4dfc-4b10-831d-7fac982923ff",
 			"6020297f-9299-412b-9bef-71d78fff4a59",
 			"16216191-26ec-4998-8761-997b9e101eb8",
 			"ab9d7e06-0f24-43de-b509-1dc0075df4d7",
@@ -553,10 +539,14 @@
 			"7eb2d969-2cd9-40fb-b1aa-a24f1604f6fa",
 			"7cc02797-0151-4b5e-b2ba-8b0b1b36e52d",
 			"b2afad6b-e21a-4a42-b8ec-2f82ee865cd2",
-			"31330eb4-35b9-445d-8651-23507d7c0159"
+			"31330eb4-35b9-445d-8651-23507d7c0159",
+			"4edfca08-449b-432c-8758-ac27d6bf44e0",
+			"bac6df53-e654-4254-8af0-ed62b0339bee"
 		],
 		"title": "Voortplanting",
-		"id": "afdd7caa-e9d7-4ee5-8dc7-e2f5500c1b47"
+		"id": "afdd7caa-e9d7-4ee5-8dc7-e2f5500c1b47",
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"prefix": "bio/5",
@@ -566,11 +556,6 @@
 			"0368b181-8f56-40f2-bee7-9b8ee076a342"
 		],
 		"doelniveau_id": [
-			"6d274fd7-ee0a-4079-aa9f-dea873d31915",
-			"3b9fc983-d7d9-4b0b-9d59-37279fce4bc1",
-			"381eb24f-15ab-4493-9eb4-1c98e7d8d49f",
-			"8a3a261b-ab63-4724-944d-8b40746188c4",
-			"6020297f-9299-412b-9bef-71d78fff4a59",
 			"ce29b4c4-1653-4658-8d6b-236eb1b3198d",
 			"97afe179-d534-4323-a917-0b65bc4f819e",
 			"e078482e-0cdf-4c6b-96dc-bcae405007bb",
@@ -583,10 +568,17 @@
 			"81e309df-7e05-49d0-9b33-9fae8ad7f79e",
 			"1d66bba1-82dc-4cb5-8a1f-cb04e9f08910",
 			"7ef85a24-947c-429b-abe5-0537013b97c4",
-			"585fd841-8e0a-4cfe-a5f7-05695d8eaab2"
+			"585fd841-8e0a-4cfe-a5f7-05695d8eaab2",
+			"4edfca08-449b-432c-8758-ac27d6bf44e0",
+			"d2c576b2-45b6-46b5-a4f7-bd0945b7c231",
+			"381eb24f-15ab-4493-9eb4-1c98e7d8d49f",
+			"bac6df53-e654-4254-8af0-ed62b0339bee",
+			"6020297f-9299-412b-9bef-71d78fff4a59"
 		],
 		"title": "Evolutie",
-		"id": "098d6383-6fc7-46b5-bf8d-6bb4107285b3"
+		"id": "098d6383-6fc7-46b5-bf8d-6bb4107285b3",
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"prefix": "bio/6",
@@ -598,11 +590,6 @@
 			"f5f4ece7-86d1-47d8-ae26-8175a3da3051"
 		],
 		"doelniveau_id": [
-			"6d274fd7-ee0a-4079-aa9f-dea873d31915",
-			"10b5d4dc-fe1b-44b2-9037-b45d2c62f2a4",
-			"381eb24f-15ab-4493-9eb4-1c98e7d8d49f",
-			"e65aacb8-9bae-4bcf-a097-b98519aac98c",
-			"7019fcbe-06c2-4af5-af17-36b6c795d24b",
 			"b139231f-943c-46e5-a30d-2e9feee8f833",
 			"2c9b0344-0037-4199-9f02-588f07010574",
 			"97c63214-2c02-4922-a3dd-e27a43ee8441",
@@ -614,10 +601,17 @@
 			"a20c067b-dc6d-4329-a878-64f15cd2a7d5",
 			"2cb7a7ef-348f-47ec-b416-154f238a6f0b",
 			"4497f673-e10d-4079-811d-ee6310e8241c",
-			"2b57ae4c-626d-46fb-804e-ea165056bbc6"
+			"2b57ae4c-626d-46fb-804e-ea165056bbc6",
+			"4edfca08-449b-432c-8758-ac27d6bf44e0",
+			"d2c576b2-45b6-46b5-a4f7-bd0945b7c231",
+			"381eb24f-15ab-4493-9eb4-1c98e7d8d49f",
+			"547607fa-07ad-4efa-b1a5-1689472c8181",
+			"f7df957a-54f7-4d55-a686-147c7ff74f11"
 		],
 		"title": "Dynamisch evenwicht",
-		"id": "a598abd0-68da-45f4-9fac-09b41b9309f2"
+		"id": "a598abd0-68da-45f4-9fac-09b41b9309f2",
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"prefix": "nask1/1",
