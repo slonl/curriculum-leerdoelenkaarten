@@ -112,7 +112,6 @@
 			"5e095ec6-ced6-4ada-bf3b-fc27e03a6c4f",
 			"69b6857f-11ef-445e-b318-e6eb13398f26",
 			"04252430-8588-4817-b567-eb2555d1a76f",
-			"f25ca013-7384-41a2-9e58-506706f34dd5",
 			"4572f97c-7020-4322-8991-36b7cc5a6ecc",
 			"a673e796-32b3-46a4-a335-1a5a6b96435f",
 			"46230910-dccc-4976-bad3-01120c72e646",
@@ -125,10 +124,12 @@
 			"d3f554ae-422a-4a2c-a192-135b3b210bcb",
 			"e7da151f-45ad-40f6-8807-6c4d4a8b56ba",
 			"f90422c8-a2d6-44b4-972e-9272d062880b",
-			"76fb0f43-95a0-49cf-b203-824ed4880fd5"
+			"76fb0f43-95a0-49cf-b203-824ed4880fd5",
+			"f31678b5-01e0-46f3-9173-a1cec744085e"
 		],
 		"title": "Burgerschap",
-		"id": "9fd70a1c-6fbc-4178-b915-61291f70698b"
+		"id": "9fd70a1c-6fbc-4178-b915-61291f70698b",
+		"description": ""
 	},
 	{
 		"prefix": "ak/2",
@@ -174,7 +175,6 @@
 		],
 		"doelniveau_id": [
 			"7152b5fc-dc91-489f-a748-0a8bec15a61a",
-			"258a6f26-5606-48aa-a74e-1fd8f9e18443",
 			"952e2094-bbff-4a50-b94e-be1506727da0",
 			"5f8299f0-d9f5-4b4c-9904-464c1f7355ac",
 			"48983c6e-c0c6-444e-a4df-42b5a0a93d8a",
@@ -190,10 +190,12 @@
 			"67a9d6d2-7f2e-46ec-92ad-6c470ef4b918",
 			"ea54aa3b-1daf-4727-942c-66cfdec87cc4",
 			"cdf2bf7d-dad2-4271-bb43-dfaa0c825c88",
-			"3b19a4de-c0e9-4286-a74f-ef2a0cdb6976"
+			"3b19a4de-c0e9-4286-a74f-ef2a0cdb6976",
+			"04252430-8588-4817-b567-eb2555d1a76f"
 		],
 		"title": "Bevolking en ruimte",
-		"id": "d8216759-f816-4384-9b9e-6819cd18ef0a"
+		"id": "d8216759-f816-4384-9b9e-6819cd18ef0a",
+		"description": ""
 	},
 	{
 		"prefix": "ak/4",
@@ -205,8 +207,6 @@
 		],
 		"doelniveau_id": [
 			"7152b5fc-dc91-489f-a748-0a8bec15a61a",
-			"3c4b53fd-ec47-4d31-b00b-4a15dfd9dfec",
-			"dae22d11-77a7-436a-8535-e1d096325675",
 			"944633b3-20a0-40da-ad97-b46d5e31b2a1",
 			"05e199ec-169e-4277-a02a-6f05b8e01e94",
 			"591c183f-8518-4547-94bb-b7362ed4bd32",
@@ -221,10 +221,13 @@
 			"c3912344-ef1b-45e4-933a-ab7fd6efeca4",
 			"7a0d322f-65f4-441d-909f-adac00c33fd5",
 			"ea54aa3b-1daf-4727-942c-66cfdec87cc4",
-			"f0029e30-44d4-4e40-9b82-7f971760a583"
+			"f0029e30-44d4-4e40-9b82-7f971760a583",
+			"04252430-8588-4817-b567-eb2555d1a76f",
+			"3ce02c36-a2b5-4cad-b8c6-fda763d7e0bb"
 		],
 		"title": "Globalisering",
-		"id": "f32c1e4d-50be-43cd-ad50-8e237b7427fb"
+		"id": "f32c1e4d-50be-43cd-ad50-8e237b7427fb",
+		"description": ""
 	},
 	{
 		"prefix": "ak/5",
@@ -237,8 +240,6 @@
 		],
 		"doelniveau_id": [
 			"7152b5fc-dc91-489f-a748-0a8bec15a61a",
-			"c4b0807b-1086-4efe-ab2d-e71df2ea4317",
-			"dae22d11-77a7-436a-8535-e1d096325675",
 			"6a18caf5-eefa-43cf-b04f-0f11738eaec9",
 			"7c9c58c3-13eb-4f36-bb6b-ed329b4fea90",
 			"0c96f27e-f9a2-491f-806e-4a5937cfb7bd",
@@ -254,10 +255,13 @@
 			"27a06755-e18f-4ed1-910d-a3a8e7cc8b29",
 			"ea54aa3b-1daf-4727-942c-66cfdec87cc4",
 			"c9e8f400-a816-4dc5-9525-904bc818cae9",
-			"3b19a4de-c0e9-4286-a74f-ef2a0cdb6976"
+			"3b19a4de-c0e9-4286-a74f-ef2a0cdb6976",
+			"04252430-8588-4817-b567-eb2555d1a76f",
+			"3ce02c36-a2b5-4cad-b8c6-fda763d7e0bb"
 		],
 		"title": "Arm en rijk",
-		"id": "2ffcb6f1-89dc-46e5-a98f-fa0cff8068eb"
+		"id": "2ffcb6f1-89dc-46e5-a98f-fa0cff8068eb",
+		"description": ""
 	},
 	{
 		"prefix": "ak/6",
@@ -269,9 +273,7 @@
 		],
 		"doelniveau_id": [
 			"54378bc4-4e20-4d4e-8dcb-862a261942ee",
-			"1379c6cb-d0b4-4146-a374-15044a75ca24",
 			"74d0bacd-e02c-4e41-ae6b-9ff693f24e00",
-			"afd86e23-be27-420b-b0c0-db303b1a48c6",
 			"99889288-2b2a-4e4c-aeb9-f51cc5fa1109",
 			"78d484c3-d5a4-403c-8084-a3b568210ee2",
 			"ffdbf06d-3166-4001-b192-499a2b72b272",
@@ -288,10 +290,13 @@
 			"d3bbf8c1-09e7-4640-a6d5-5c951c5261c8",
 			"42c8640f-544a-42df-b5a6-5c8f7f33cd72",
 			"cb302e6b-8e49-47ef-9c0e-81ecad8e0806",
-			"3b19a4de-c0e9-4286-a74f-ef2a0cdb6976"
+			"3b19a4de-c0e9-4286-a74f-ef2a0cdb6976",
+			"7152b5fc-dc91-489f-a748-0a8bec15a61a",
+			"f31678b5-01e0-46f3-9173-a1cec744085e"
 		],
 		"title": "Grenzen en identiteit",
-		"id": "10ea0fc3-32e8-42be-a655-9ae68e752946"
+		"id": "10ea0fc3-32e8-42be-a655-9ae68e752946",
+		"description": ""
 	},
 	{
 		"prefix": "ak/7",
@@ -320,17 +325,18 @@
 			"22ead720-0eca-49f1-a9bc-82dfb8bc6127",
 			"3727cabb-75ce-4833-a6e7-ac538945f75b",
 			"1410d9cc-210b-4921-8896-695c0679236a",
-			"6d274fd7-ee0a-4079-aa9f-dea873d31915",
-			"405951a1-2495-4ab8-aa7e-0eb904ce078d",
 			"381eb24f-15ab-4493-9eb4-1c98e7d8d49f",
-			"cd04af7d-375f-483e-869e-4f56caff03bb",
 			"c0e6c56e-ba72-401c-9bdf-d70f509a5981",
 			"6910ef0b-5e98-402f-af5c-644d9bf7b94d",
 			"3b19a4de-c0e9-4286-a74f-ef2a0cdb6976",
-			"f4d999c7-40ec-4220-bc08-255fa2425760"
+			"f4d999c7-40ec-4220-bc08-255fa2425760",
+			"4edfca08-449b-432c-8758-ac27d6bf44e0",
+			"c6b1b9e4-15ec-4290-b136-338cc7db8c15",
+			"d2c576b2-45b6-46b5-a4f7-bd0945b7c231"
 		],
 		"title": "Systeem aarde",
-		"id": "955ec635-e19a-4163-a9cd-1cf8d99bf323"
+		"id": "955ec635-e19a-4163-a9cd-1cf8d99bf323",
+		"description": ""
 	},
 	{
 		"prefix": "ak/8",
@@ -353,15 +359,16 @@
 			"139e62ed-27be-4e4e-a644-1678363d47f8",
 			"1bd2fb2c-78fd-419e-8e9c-ee636ed5ac02",
 			"21409556-5af8-440b-8710-efc7e3764ea3",
-			"6d274fd7-ee0a-4079-aa9f-dea873d31915",
-			"cf3a5a62-e52a-4d0b-9b2e-354b3d66036f",
 			"7152b5fc-dc91-489f-a748-0a8bec15a61a",
 			"4c7a2193-7628-42b6-838e-c890672e6380",
 			"5e095ec6-ced6-4ada-bf3b-fc27e03a6c4f",
-			"226dc65c-0e3a-4746-aa5d-6879989b5e2b"
+			"226dc65c-0e3a-4746-aa5d-6879989b5e2b",
+			"c6b1b9e4-15ec-4290-b136-338cc7db8c15",
+			"4edfca08-449b-432c-8758-ac27d6bf44e0"
 		],
 		"title": "Landschappen (en menselijke activiteit)",
-		"id": "afa363cf-6d14-4b7f-8ce7-1dd96dc7ef86"
+		"id": "afa363cf-6d14-4b7f-8ce7-1dd96dc7ef86",
+		"description": ""
 	},
 	{
 		"prefix": "ak/9",
@@ -372,11 +379,7 @@
 			"f853f7f3-5b64-47bf-b543-67d07f7bb53e"
 		],
 		"doelniveau_id": [
-			"6d274fd7-ee0a-4079-aa9f-dea873d31915",
-			"610d2639-aff0-4358-97bd-04ad466f999f",
 			"7152b5fc-dc91-489f-a748-0a8bec15a61a",
-			"ced067d2-38e3-4ca5-849e-6ea99dcd1aaa",
-			"dae22d11-77a7-436a-8535-e1d096325675",
 			"20c8edc0-371b-419a-8338-2c0bb0042ac7",
 			"0f9bbf9f-49af-4140-afb7-a814685adefc",
 			"d902782c-1f18-4458-a900-d7c559e5ff59",
@@ -392,10 +395,15 @@
 			"27538997-db77-4e36-8bea-9001377138e1",
 			"ea54aa3b-1daf-4727-942c-66cfdec87cc4",
 			"80baa38f-37b9-4ded-9ad7-3a016af5c978",
-			"3b19a4de-c0e9-4286-a74f-ef2a0cdb6976"
+			"3b19a4de-c0e9-4286-a74f-ef2a0cdb6976",
+			"4edfca08-449b-432c-8758-ac27d6bf44e0",
+			"d2c576b2-45b6-46b5-a4f7-bd0945b7c231",
+			"04252430-8588-4817-b567-eb2555d1a76f",
+			"3ce02c36-a2b5-4cad-b8c6-fda763d7e0bb"
 		],
 		"title": "Water",
-		"id": "2884d096-75f1-4503-ab80-505e466d0a25"
+		"id": "2884d096-75f1-4503-ab80-505e466d0a25",
+		"description": ""
 	},
 	{
 		"prefix": "bio/1",
@@ -622,10 +630,7 @@
 			"b224f573-c446-4f76-9471-caa9774b8e9e"
 		],
 		"doelniveau_id": [
-			"6d274fd7-ee0a-4079-aa9f-dea873d31915",
-			"b4fb2bea-9535-46b8-b34f-4fa253bf1339",
 			"381eb24f-15ab-4493-9eb4-1c98e7d8d49f",
-			"fea30dd7-f051-4c16-a2dd-873dc4b78f2e",
 			"547607fa-07ad-4efa-b1a5-1689472c8181",
 			"c67919fc-8b4f-46e9-8a01-6b23b03c25e3",
 			"81b47b36-9c27-457d-9774-eb09051583be",
@@ -634,10 +639,15 @@
 			"4c88d54e-941d-49ca-95e6-5428649790e6",
 			"2bc33427-4d74-47f0-b49f-11167dc41147",
 			"e5894aab-c219-4524-b684-108dd9324a8b",
-			"34bff980-1102-4485-8577-b45a499648cd"
+			"34bff980-1102-4485-8577-b45a499648cd",
+			"4edfca08-449b-432c-8758-ac27d6bf44e0",
+			"d2c576b2-45b6-46b5-a4f7-bd0945b7c231",
+			"c6b1b9e4-15ec-4290-b136-338cc7db8c15"
 		],
 		"title": "Materie",
-		"id": "32fadfe1-955d-4323-a483-e45633dc4919"
+		"id": "32fadfe1-955d-4323-a483-e45633dc4919",
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"prefix": "nask1/2",
@@ -650,10 +660,7 @@
 			"6d9082d7-8003-45e2-add5-7d5379062230"
 		],
 		"doelniveau_id": [
-			"6d274fd7-ee0a-4079-aa9f-dea873d31915",
-			"aaabec90-9d78-4850-80e6-ec8911be7c0b",
 			"381eb24f-15ab-4493-9eb4-1c98e7d8d49f",
-			"da89086d-2816-4b7f-9c3d-4127f8fd53c5",
 			"547607fa-07ad-4efa-b1a5-1689472c8181",
 			"9a150652-6b91-4bbc-86a8-ec15b794d610",
 			"73c02b59-2713-47fc-9ffa-89708d372702",
@@ -662,10 +669,15 @@
 			"919df222-169c-4118-91dd-0f3d30ff891f",
 			"8787afbb-b2a0-4c15-9407-009dffb2a61e",
 			"2e1bbc79-1d58-4edd-aaea-7ac74ac341fb",
-			"448ad7ae-e23e-46db-889a-987ada6b8f31"
+			"448ad7ae-e23e-46db-889a-987ada6b8f31",
+			"4edfca08-449b-432c-8758-ac27d6bf44e0",
+			"d2c576b2-45b6-46b5-a4f7-bd0945b7c231",
+			"c6b1b9e4-15ec-4290-b136-338cc7db8c15"
 		],
 		"title": "Energie",
-		"id": "35496bd3-24bf-4239-b292-6c8af60332c4"
+		"id": "35496bd3-24bf-4239-b292-6c8af60332c4",
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"prefix": "nask1/3",
@@ -677,10 +689,7 @@
 			"026c192f-bc6c-4049-876d-7f2015f46cb5"
 		],
 		"doelniveau_id": [
-			"6d274fd7-ee0a-4079-aa9f-dea873d31915",
-			"986cc247-488e-4cb4-b527-eb1b38dd40fb",
 			"381eb24f-15ab-4493-9eb4-1c98e7d8d49f",
-			"e4f5802a-f463-43d6-897e-c1a142e66dcf",
 			"547607fa-07ad-4efa-b1a5-1689472c8181",
 			"70a58602-fd82-4695-bd63-d9abe79a9193",
 			"b81b24c7-e9d3-4a3e-b69b-f31bacc5aef2",
@@ -689,10 +698,15 @@
 			"dc9a8dd8-2f52-4a51-9e06-d9e421a2768c",
 			"3791a596-a7eb-4417-98bb-ee24129985ec",
 			"79f836f3-7be6-4a99-b910-42689f1bca10",
-			"0c87e66a-b51f-4669-93a2-b246783201c0"
+			"0c87e66a-b51f-4669-93a2-b246783201c0",
+			"4edfca08-449b-432c-8758-ac27d6bf44e0",
+			"d2c576b2-45b6-46b5-a4f7-bd0945b7c231",
+			"c6b1b9e4-15ec-4290-b136-338cc7db8c15"
 		],
 		"title": "Licht, geluid en straling",
-		"id": "0a9e4da4-74ae-4f1c-ab56-93aa2f7a7e58"
+		"id": "0a9e4da4-74ae-4f1c-ab56-93aa2f7a7e58",
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"prefix": "nask1/4",
@@ -704,10 +718,7 @@
 			"7fad4e2e-b1c4-4ef8-a650-eb0801f9ebc7"
 		],
 		"doelniveau_id": [
-			"6d274fd7-ee0a-4079-aa9f-dea873d31915",
-			"bb41021c-858f-4e8a-9ae3-2c4d26dd79f4",
 			"381eb24f-15ab-4493-9eb4-1c98e7d8d49f",
-			"32f4eebb-ce58-40c8-be58-1a6507db1af2",
 			"547607fa-07ad-4efa-b1a5-1689472c8181",
 			"2595735f-4c0d-4f5c-a100-9c6219fe7b6a",
 			"38bc8298-dd84-48b1-8b15-4a7d5cfac95c",
@@ -716,10 +727,15 @@
 			"3b8e79a2-59ce-4d2b-9d69-afa7ece698d1",
 			"9ab5b3d9-fe6a-4aa0-9610-673aae28c818",
 			"c42c62a5-50d6-4dfe-ae87-79f9f620d6e3",
-			"a9bcaa91-3bed-4232-807b-5f0d856ec037"
+			"a9bcaa91-3bed-4232-807b-5f0d856ec037",
+			"4edfca08-449b-432c-8758-ac27d6bf44e0",
+			"d2c576b2-45b6-46b5-a4f7-bd0945b7c231",
+			"c6b1b9e4-15ec-4290-b136-338cc7db8c15"
 		],
 		"title": "Kracht en beweging",
-		"id": "29f77eb1-965e-46ca-a8bb-1cb4713a0a24"
+		"id": "29f77eb1-965e-46ca-a8bb-1cb4713a0a24",
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"prefix": "nask1/5",
@@ -729,20 +745,22 @@
 			"e0a35080-786b-4416-a4b1-4064a76f918a"
 		],
 		"doelniveau_id": [
-			"6d274fd7-ee0a-4079-aa9f-dea873d31915",
-			"9a0b5059-6d32-456c-a54a-59009406415a",
 			"381eb24f-15ab-4493-9eb4-1c98e7d8d49f",
-			"251a7bcd-09b4-49ce-b275-410ebdbfbd59",
 			"625a9561-d795-44f2-9268-0a816b3f75a1",
 			"72beec78-1256-4d45-b957-5227fdaaa4e8",
 			"6d089fb5-a8a7-474d-93b9-1dddc178f1fa",
 			"d52ed374-fac1-4f17-b09a-5928d5b3ef0f",
 			"f56741ef-a31c-48b9-8928-f4dfb79d3b17",
 			"f74e1b06-e096-4f0a-9d24-aa88354829ef",
-			"f9de4617-0f1a-45ce-a18f-a333d8f5137c"
+			"f9de4617-0f1a-45ce-a18f-a333d8f5137c",
+			"4edfca08-449b-432c-8758-ac27d6bf44e0",
+			"d2c576b2-45b6-46b5-a4f7-bd0945b7c231",
+			"c6b1b9e4-15ec-4290-b136-338cc7db8c15"
 		],
 		"title": "Ruimte",
-		"id": "0a72abfd-3d04-48f8-8b32-4405f75c29ee"
+		"id": "0a72abfd-3d04-48f8-8b32-4405f75c29ee",
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"prefix": "nask2/1",
@@ -814,19 +832,21 @@
 			"654fb7a8-b340-4b0c-8cce-f8930834a75f"
 		],
 		"doelniveau_id": [
-			"6d274fd7-ee0a-4079-aa9f-dea873d31915",
-			"16a5b44d-87cd-4aff-a03b-133842224479",
 			"381eb24f-15ab-4493-9eb4-1c98e7d8d49f",
-			"1acefaf3-4dc2-40b7-aa61-a0a6addf6a57",
 			"547607fa-07ad-4efa-b1a5-1689472c8181",
 			"59e692a0-231b-4229-a118-873e11ff0eea",
 			"f55cf047-def6-49f5-9398-1c2b69e26f85",
 			"afe6a548-1139-4d1c-b636-f26d365242d9",
 			"46f15ad1-cf78-431e-92e7-0bef184e3e2b",
-			"21e31996-5714-4c95-914c-af934640ec0a"
+			"21e31996-5714-4c95-914c-af934640ec0a",
+			"4edfca08-449b-432c-8758-ac27d6bf44e0",
+			"d2c576b2-45b6-46b5-a4f7-bd0945b7c231",
+			"c6b1b9e4-15ec-4290-b136-338cc7db8c15"
 		],
 		"title": "Materie",
-		"id": "0b3fd391-4066-4002-a76c-90f0e27311cf"
+		"id": "0b3fd391-4066-4002-a76c-90f0e27311cf",
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"prefix": "na/2",
@@ -839,16 +859,18 @@
 			"b042d041-cedc-4cf4-b199-cb4b2c5949bc"
 		],
 		"doelniveau_id": [
-			"6d274fd7-ee0a-4079-aa9f-dea873d31915",
-			"f3a01548-bc97-4037-8bb2-d728650e17d1",
 			"381eb24f-15ab-4493-9eb4-1c98e7d8d49f",
-			"11b7b3de-4e2f-46f0-bd91-d027d9906a02",
 			"547607fa-07ad-4efa-b1a5-1689472c8181",
 			"76d98b21-38fb-4bab-97fa-0ac40b71a8f6",
-			"11dd72f6-4a5d-457c-91df-effd58e792d6"
+			"11dd72f6-4a5d-457c-91df-effd58e792d6",
+			"4edfca08-449b-432c-8758-ac27d6bf44e0",
+			"d2c576b2-45b6-46b5-a4f7-bd0945b7c231",
+			"c6b1b9e4-15ec-4290-b136-338cc7db8c15"
 		],
 		"title": "Energie",
-		"id": "5a776a18-7380-4ad9-9836-fe8452dbba69"
+		"id": "5a776a18-7380-4ad9-9836-fe8452dbba69",
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"prefix": "na/3",
@@ -860,16 +882,18 @@
 			"9e959aac-2b8b-4518-a707-ddbb627c598c"
 		],
 		"doelniveau_id": [
-			"6d274fd7-ee0a-4079-aa9f-dea873d31915",
-			"cd5ab74e-fb81-40ec-b19b-1ffacca6a307",
 			"381eb24f-15ab-4493-9eb4-1c98e7d8d49f",
-			"c81cbdd1-6bbf-442b-a07d-b31f7c79aa3b",
 			"547607fa-07ad-4efa-b1a5-1689472c8181",
 			"83dba68b-67bf-40a2-a2a0-935885b9c869",
-			"4fd32b01-59e8-46cf-a801-8f84d373bd7b"
+			"4fd32b01-59e8-46cf-a801-8f84d373bd7b",
+			"4edfca08-449b-432c-8758-ac27d6bf44e0",
+			"d2c576b2-45b6-46b5-a4f7-bd0945b7c231",
+			"c6b1b9e4-15ec-4290-b136-338cc7db8c15"
 		],
 		"title": "Licht, geluid en straling",
-		"id": "c15332fe-ff10-4422-a702-a3050f937a63"
+		"id": "c15332fe-ff10-4422-a702-a3050f937a63",
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"prefix": "na/4",
@@ -881,12 +905,14 @@
 			"e986d8cb-019a-4d1b-bf11-5ec4d37967a5"
 		],
 		"doelniveau_id": [
-			"6d274fd7-ee0a-4079-aa9f-dea873d31915",
-			"7785625a-9617-4e89-b10f-696b75343e2b",
-			"5846a598-2838-4fee-b1a4-7532b33c5867"
+			"4edfca08-449b-432c-8758-ac27d6bf44e0",
+			"381eb24f-15ab-4493-9eb4-1c98e7d8d49f",
+			"c6b1b9e4-15ec-4290-b136-338cc7db8c15"
 		],
 		"title": "Kracht en beweging",
-		"id": "6f49d766-8696-4a32-baf7-051421bb10b7"
+		"id": "6f49d766-8696-4a32-baf7-051421bb10b7",
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"prefix": "na/5",
@@ -898,15 +924,17 @@
 			"cabf19fd-9741-461b-b132-c30504c25916"
 		],
 		"doelniveau_id": [
-			"6d274fd7-ee0a-4079-aa9f-dea873d31915",
-			"f8b17b76-8b6c-4f75-9713-13fd21d8c23a",
 			"381eb24f-15ab-4493-9eb4-1c98e7d8d49f",
-			"c5e6e663-1962-414d-b990-8907ee732aca",
 			"8f32eb40-6343-497e-ac5b-5af8379a5bc5",
-			"f6e05163-e42f-4e7b-a5db-ac953f31150f"
+			"f6e05163-e42f-4e7b-a5db-ac953f31150f",
+			"4edfca08-449b-432c-8758-ac27d6bf44e0",
+			"d2c576b2-45b6-46b5-a4f7-bd0945b7c231",
+			"c6b1b9e4-15ec-4290-b136-338cc7db8c15"
 		],
 		"title": "Ruimte",
-		"id": "e7b50d18-9250-4b58-a2f6-260daf1e4e71"
+		"id": "e7b50d18-9250-4b58-a2f6-260daf1e4e71",
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"prefix": "sk/1",
@@ -1562,12 +1590,14 @@
 		],
 		"doelniveau_id": [
 			"b98ee5f5-ad90-4ec5-a6b2-1b7565110710",
-			"c35f6e5f-6602-426f-83fa-3e5104d380bc",
 			"376cc3ac-89f6-4c6f-9155-3ca2e0fc15ef",
-			"803cf0a2-00c9-4abe-aac4-5309867cbff4"
+			"91ff9475-d605-47dc-8546-938b1a08135a",
+			"75d49210-c98e-4149-b9c5-12a56304c9dd"
 		],
 		"title": "Gesprekken voeren",
-		"id": "3665443c-cf4d-4fed-a9a4-18a5df340227"
+		"id": "3665443c-cf4d-4fed-a9a4-18a5df340227",
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"prefix": "fa/2",
@@ -1578,11 +1608,13 @@
 		],
 		"doelniveau_id": [
 			"b98ee5f5-ad90-4ec5-a6b2-1b7565110710",
-			"c57bb626-a38a-4e1c-88fc-ab5e721a8b7b",
-			"0c34651f-325f-4378-9eea-466fbc319180"
+			"91ff9475-d605-47dc-8546-938b1a08135a",
+			"75d49210-c98e-4149-b9c5-12a56304c9dd"
 		],
 		"title": "Spreken",
-		"id": "4d3b143d-7681-42e2-90be-0f97c1f7fb95"
+		"id": "4d3b143d-7681-42e2-90be-0f97c1f7fb95",
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"prefix": "fa/3",
@@ -1593,11 +1625,13 @@
 		],
 		"doelniveau_id": [
 			"b98ee5f5-ad90-4ec5-a6b2-1b7565110710",
-			"2896c755-e6de-4277-9e1c-822d3a3b82c7",
-			"0c34651f-325f-4378-9eea-466fbc319180"
+			"69ced4da-2685-41f6-91aa-b064923016db",
+			"75d49210-c98e-4149-b9c5-12a56304c9dd"
 		],
 		"title": "Schrijven",
-		"id": "784f6765-2b6d-4d1b-ae37-61c9986b0a1e"
+		"id": "784f6765-2b6d-4d1b-ae37-61c9986b0a1e",
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"prefix": "fa/4",
@@ -1608,12 +1642,14 @@
 		],
 		"doelniveau_id": [
 			"b98ee5f5-ad90-4ec5-a6b2-1b7565110710",
-			"84bd3e8f-b4e5-40f7-b25b-59e1f7d0826d",
 			"4f613226-698a-44a8-96b4-84a01800ea24",
-			"e8c174d0-905d-4cd5-8ec5-9ec2573b85bc"
+			"6ebe46fa-2da6-49f9-9847-62ef07de8915",
+			"75d49210-c98e-4149-b9c5-12a56304c9dd"
 		],
 		"title": "Lezen",
-		"id": "ab1fa04e-6223-49b6-be20-dcc7bf2e712e"
+		"id": "ab1fa04e-6223-49b6-be20-dcc7bf2e712e",
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"prefix": "fa/5",
@@ -1624,13 +1660,15 @@
 		],
 		"doelniveau_id": [
 			"31a2f739-6336-4835-8687-6553b1d7cfae",
-			"f79329a3-6f88-4a40-b764-d6988afcf29d",
-			"90a5d3f5-edf9-4b61-a949-87bfcfee8c0d",
-			"5939f979-fb38-42bf-9635-650d67b51a46",
-			"0c34651f-325f-4378-9eea-466fbc319180"
+			"b98ee5f5-ad90-4ec5-a6b2-1b7565110710",
+			"6ebe46fa-2da6-49f9-9847-62ef07de8915",
+			"4f613226-698a-44a8-96b4-84a01800ea24",
+			"75d49210-c98e-4149-b9c5-12a56304c9dd"
 		],
 		"title": "Kijken en luisteren",
-		"id": "21f50baa-2341-4a87-a045-4cddc8037b84"
+		"id": "21f50baa-2341-4a87-a045-4cddc8037b84",
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"prefix": "en/1",
@@ -1641,15 +1679,17 @@
 		],
 		"doelniveau_id": [
 			"b98ee5f5-ad90-4ec5-a6b2-1b7565110710",
-			"3b7fec39-c7ff-4a1c-babb-a7f845b93946",
 			"376cc3ac-89f6-4c6f-9155-3ca2e0fc15ef",
-			"0b2a0d0d-56a2-4c14-b9e3-c7e5da2cc19c",
 			"cf09ff06-74fc-43f5-b623-2a0e11bd55c8",
 			"efad26f4-47bf-46f7-9a28-fa0ec17bbe19",
-			"e3e21b9c-187d-45b6-8b6e-191a8d56b261"
+			"e3e21b9c-187d-45b6-8b6e-191a8d56b261",
+			"91ff9475-d605-47dc-8546-938b1a08135a",
+			"75d49210-c98e-4149-b9c5-12a56304c9dd"
 		],
 		"title": "Gesprekken voeren",
-		"id": "b7bfa8bd-bf75-45df-9f13-90cd4dcab734"
+		"id": "b7bfa8bd-bf75-45df-9f13-90cd4dcab734",
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"prefix": "en/2",
@@ -1660,14 +1700,16 @@
 		],
 		"doelniveau_id": [
 			"b98ee5f5-ad90-4ec5-a6b2-1b7565110710",
-			"157e9ccd-f8a3-44ea-b4d3-479d747ce14d",
-			"0c34651f-325f-4378-9eea-466fbc319180",
 			"8b4b4e0f-2335-46d7-9d8c-27f60aa1a3a4",
 			"becd7603-4792-4c3c-af26-cd3d0e94bc10",
-			"59916dd0-64fa-468d-adce-622bba67987b"
+			"59916dd0-64fa-468d-adce-622bba67987b",
+			"91ff9475-d605-47dc-8546-938b1a08135a",
+			"75d49210-c98e-4149-b9c5-12a56304c9dd"
 		],
 		"title": "Spreken",
-		"id": "a8f41aff-7d8d-4d1e-8f53-3246d5e14c38"
+		"id": "a8f41aff-7d8d-4d1e-8f53-3246d5e14c38",
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"prefix": "en/3",
@@ -1678,14 +1720,16 @@
 		],
 		"doelniveau_id": [
 			"b98ee5f5-ad90-4ec5-a6b2-1b7565110710",
-			"964f69b7-20a0-47e0-924d-de9e8d7a9038",
-			"0c34651f-325f-4378-9eea-466fbc319180",
 			"117d57e7-858b-46a2-8020-95052510d3b5",
 			"becd7603-4792-4c3c-af26-cd3d0e94bc10",
-			"413fb03d-7edd-4130-9b81-0d801cf62cbe"
+			"413fb03d-7edd-4130-9b81-0d801cf62cbe",
+			"69ced4da-2685-41f6-91aa-b064923016db",
+			"75d49210-c98e-4149-b9c5-12a56304c9dd"
 		],
 		"title": "Schrijven",
-		"id": "f3707085-bbdb-41fd-a26a-f5697d40aaaa"
+		"id": "f3707085-bbdb-41fd-a26a-f5697d40aaaa",
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"prefix": "en/4",
@@ -1696,15 +1740,17 @@
 		],
 		"doelniveau_id": [
 			"b98ee5f5-ad90-4ec5-a6b2-1b7565110710",
-			"907dbbaf-4ab1-4d06-83c9-3d687e7d6cd1",
 			"4f613226-698a-44a8-96b4-84a01800ea24",
-			"c6d66ddf-d86d-42ce-b7bb-d3aa19b53fe8",
 			"cf09ff06-74fc-43f5-b623-2a0e11bd55c8",
 			"f70c5fbd-6806-4671-836f-be2df3200f25",
-			"e3e21b9c-187d-45b6-8b6e-191a8d56b261"
+			"e3e21b9c-187d-45b6-8b6e-191a8d56b261",
+			"6ebe46fa-2da6-49f9-9847-62ef07de8915",
+			"75d49210-c98e-4149-b9c5-12a56304c9dd"
 		],
 		"title": "Lezen",
-		"id": "cc5959bb-7128-4d2b-aec0-8c87e2d42fdd"
+		"id": "cc5959bb-7128-4d2b-aec0-8c87e2d42fdd",
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"prefix": "en/5",
@@ -1715,15 +1761,17 @@
 		],
 		"doelniveau_id": [
 			"31a2f739-6336-4835-8687-6553b1d7cfae",
-			"ca12110e-e640-4a54-a50e-4f48238d048d",
-			"90a5d3f5-edf9-4b61-a949-87bfcfee8c0d",
-			"f757ba5b-0f6f-4148-9996-667fa95194e3",
-			"0c34651f-325f-4378-9eea-466fbc319180",
 			"9825605a-c767-4414-ad69-f6981ac1d001",
-			"ae8f3990-c010-4074-9377-abf94fdd88b7"
+			"ae8f3990-c010-4074-9377-abf94fdd88b7",
+			"b98ee5f5-ad90-4ec5-a6b2-1b7565110710",
+			"6ebe46fa-2da6-49f9-9847-62ef07de8915",
+			"4f613226-698a-44a8-96b4-84a01800ea24",
+			"75d49210-c98e-4149-b9c5-12a56304c9dd"
 		],
 		"title": "Kijken en luisteren",
-		"id": "fb1c30ac-147e-48bb-9aea-c85ae39dfd10"
+		"id": "fb1c30ac-147e-48bb-9aea-c85ae39dfd10",
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"prefix": "ec/1",
@@ -2099,7 +2147,6 @@
 		],
 		"doelniveau_id": [
 			"cb83d269-73d9-4ba8-a447-aca1bca9ff3c",
-			"1ca01965-58e3-470d-816c-be08edd43373",
 			"de009114-a0e2-4837-99d0-f92f9540d452",
 			"5f789c52-1b21-4b8d-bae2-4be2f4efbe95",
 			"18b0a47b-109c-40e6-8ff9-201a45ebcc5e",
@@ -2110,10 +2157,13 @@
 			"46cbe888-b9ee-4265-b228-9bb449005ef5",
 			"23a5c702-5814-4c55-aaca-38a67265554a",
 			"909970a7-2d03-4ded-86a4-42298f1b9103",
-			"5ac49e07-a0c1-48d4-9085-b85bc0854a48"
+			"5ac49e07-a0c1-48d4-9085-b85bc0854a48",
+			"04252430-8588-4817-b567-eb2555d1a76f"
 		],
 		"title": "Jagers en boeren",
-		"id": "d43ed8c8-c8ad-4534-9906-fad0441623c6"
+		"id": "d43ed8c8-c8ad-4534-9906-fad0441623c6",
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"prefix": "gs/2",
@@ -2130,7 +2180,6 @@
 		],
 		"doelniveau_id": [
 			"cb83d269-73d9-4ba8-a447-aca1bca9ff3c",
-			"793823d5-f423-44d0-a12f-7af58ebcb462",
 			"e83f8663-d238-4b68-af0c-3d1cdeee7e1b",
 			"ccc739e1-35e8-47e0-ac8b-fb975f95cfd8",
 			"6b15c3fa-d4d1-43c8-9bfe-675f31dc9c8f",
@@ -2141,10 +2190,13 @@
 			"03e84086-b2d0-437a-9926-c5905c29ad44",
 			"23a5c702-5814-4c55-aaca-38a67265554a",
 			"a8e8a34c-9926-4491-8a2d-d178ed88759f",
-			"8f092120-ed67-4549-9034-d8613528f732"
+			"8f092120-ed67-4549-9034-d8613528f732",
+			"f31678b5-01e0-46f3-9173-a1cec744085e"
 		],
 		"title": "Grieken en Romeinen",
-		"id": "1e9c9899-aab2-4dcc-86b8-26568e8d925d"
+		"id": "1e9c9899-aab2-4dcc-86b8-26568e8d925d",
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"prefix": "gs/3",
@@ -2159,8 +2211,6 @@
 		],
 		"doelniveau_id": [
 			"cb83d269-73d9-4ba8-a447-aca1bca9ff3c",
-			"5fae2a23-4668-415a-9548-d933f9b86f15",
-			"15aef6ab-c038-4ebb-a77b-ef877889936e",
 			"9e1b9d08-18d7-4f52-b152-db02dec0123f",
 			"efeb5bca-098f-4071-a016-d2cbf2095543",
 			"d14801e0-790b-4f1f-8e0f-b05824a100d5",
@@ -2171,10 +2221,14 @@
 			"b581adc5-ba8a-4d5e-8944-feffea471254",
 			"23a5c702-5814-4c55-aaca-38a67265554a",
 			"ef4de538-a06c-4100-be7c-a6671af7e2ea",
-			"a609645e-888f-4770-a29f-9cffc107e36f"
+			"a609645e-888f-4770-a29f-9cffc107e36f",
+			"04252430-8588-4817-b567-eb2555d1a76f",
+			"f31678b5-01e0-46f3-9173-a1cec744085e"
 		],
 		"title": "Monniken en ridders (500 - 1000)",
-		"id": "8e07d979-18cb-41ea-8a6d-5b160d0c38fa"
+		"id": "8e07d979-18cb-41ea-8a6d-5b160d0c38fa",
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"prefix": "gs/4",
@@ -2190,8 +2244,6 @@
 		],
 		"doelniveau_id": [
 			"cb83d269-73d9-4ba8-a447-aca1bca9ff3c",
-			"c1bf3995-af44-4199-b241-a0950d20d00a",
-			"8cda53d4-8247-464a-ad23-06711e03e6bb",
 			"26af9ca6-a30f-44ce-a92f-f1bca8c901a6",
 			"f26de1e3-a519-4297-861c-e7579463a85a",
 			"5332199d-0994-46c3-b275-1887b4fa471e",
@@ -2202,10 +2254,14 @@
 			"4814a1a8-7aa4-4c9a-b4bd-f7c8099904d6",
 			"23a5c702-5814-4c55-aaca-38a67265554a",
 			"b9f8450d-344e-47f3-b075-966694737a5f",
-			"bdbb3ce7-416c-4098-9e31-f7f037b4d873"
+			"bdbb3ce7-416c-4098-9e31-f7f037b4d873",
+			"04252430-8588-4817-b567-eb2555d1a76f",
+			"d91b3e6b-ec69-4fb1-a3ef-d92b05ed4018"
 		],
 		"title": "Steden en staten (1000 - 1500)",
-		"id": "18fd61d4-a98d-4d12-9cc9-e66848590ade"
+		"id": "18fd61d4-a98d-4d12-9cc9-e66848590ade",
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"prefix": "gs/5",
@@ -2222,7 +2278,6 @@
 		],
 		"doelniveau_id": [
 			"cb83d269-73d9-4ba8-a447-aca1bca9ff3c",
-			"6d624591-8202-4674-83d2-e284ac8487a6",
 			"eec61555-f809-4a0f-aa80-f14fdef06a2f",
 			"5a09e5cd-09c5-4d66-808c-99eb6ffe1cba",
 			"10e1f7d9-9c37-49ad-9648-725f645cc6c0",
@@ -2233,10 +2288,13 @@
 			"24b5a581-5a97-42b9-b2d7-32817b905e05",
 			"23a5c702-5814-4c55-aaca-38a67265554a",
 			"f68a85f1-ab84-4f5a-bbb9-6236bfe9c3b3",
-			"d3b12d6c-1020-4ad7-ac3f-b50d5aa34377"
+			"d3b12d6c-1020-4ad7-ac3f-b50d5aa34377",
+			"f31678b5-01e0-46f3-9173-a1cec744085e"
 		],
 		"title": "Ontdekkers en hervormers (500 - 1600)",
-		"id": "af2735b1-5d86-48b4-8f32-852240e5d536"
+		"id": "af2735b1-5d86-48b4-8f32-852240e5d536",
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"prefix": "gs/6",
@@ -2251,10 +2309,6 @@
 		],
 		"doelniveau_id": [
 			"cb83d269-73d9-4ba8-a447-aca1bca9ff3c",
-			"c8b26d96-beec-412d-a325-d82ac9694de3",
-			"8cda53d4-8247-464a-ad23-06711e03e6bb",
-			"ed383566-aaae-442f-a8cf-329deb8dc747",
-			"5a45fa3a-bd03-48ee-95ad-043604f4f376",
 			"8e155149-08a0-4158-9e40-653eb2024c3f",
 			"4cf33ea7-deb8-40f7-ab66-da05a5271e20",
 			"ac2bacf3-4d23-4175-bc7f-f358ee14eb5a",
@@ -2265,10 +2319,16 @@
 			"f2ad8cc6-aca6-48dd-ba44-33465c33bb35",
 			"23a5c702-5814-4c55-aaca-38a67265554a",
 			"0479e7ae-5fa8-4315-8f62-d4bc739aba90",
-			"9d4cee62-1737-4a79-8109-f6bb44d11fbf"
+			"9d4cee62-1737-4a79-8109-f6bb44d11fbf",
+			"04252430-8588-4817-b567-eb2555d1a76f",
+			"d91b3e6b-ec69-4fb1-a3ef-d92b05ed4018",
+			"3ce02c36-a2b5-4cad-b8c6-fda763d7e0bb",
+			"8699242a-1ed0-4f41-805b-27cbfae407f7"
 		],
 		"title": "Regenten en vorsten (1600 - 1700)",
-		"id": "caf4c75f-d8bb-44a5-8e80-7d9dbd1515e6"
+		"id": "caf4c75f-d8bb-44a5-8e80-7d9dbd1515e6",
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"prefix": "gs/7",
@@ -2284,8 +2344,6 @@
 		],
 		"doelniveau_id": [
 			"cb83d269-73d9-4ba8-a447-aca1bca9ff3c",
-			"bd8841a6-a369-4adb-9ebd-ded29507dfc3",
-			"5a45fa3a-bd03-48ee-95ad-043604f4f376",
 			"8e83ed07-a0e2-4f9b-86b9-647f52128fcd",
 			"ae899f65-b205-4071-8e28-8813bad01792",
 			"b3b64092-4822-4d24-802c-6096bef56e6d",
@@ -2296,10 +2354,14 @@
 			"31504509-067b-49a2-b3b4-48d21885eafc",
 			"23a5c702-5814-4c55-aaca-38a67265554a",
 			"d36d7168-40a2-40ae-97d6-3f8d3d080b3d",
-			"045f7b32-902c-4647-8f2d-b2928b147590"
+			"045f7b32-902c-4647-8f2d-b2928b147590",
+			"d91b3e6b-ec69-4fb1-a3ef-d92b05ed4018",
+			"8699242a-1ed0-4f41-805b-27cbfae407f7"
 		],
 		"title": "Pruiken en revoluties (1700 - 1800)",
-		"id": "99f5add1-993a-4d18-bd7f-3b172040011f"
+		"id": "99f5add1-993a-4d18-bd7f-3b172040011f",
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"prefix": "gs/8",
@@ -2319,9 +2381,7 @@
 		],
 		"doelniveau_id": [
 			"6020297f-9299-412b-9bef-71d78fff4a59",
-			"734f5729-68b7-426f-87f7-82a51eaaef98",
 			"cb83d269-73d9-4ba8-a447-aca1bca9ff3c",
-			"919bae43-9d95-4b75-8c6b-0cd05cfa988b",
 			"331505c2-d8b2-4a25-9f1f-0d6835194ed7",
 			"33ec8ca6-5c84-495f-b4e2-55839d364592",
 			"3843488d-fad3-4ee2-bb9b-d1d2e006e340",
@@ -2336,10 +2396,14 @@
 			"49ee7137-808d-4e75-b42f-03d8d5b2f0c7",
 			"3025c187-9fd5-418f-a270-7b398255a277",
 			"8843e28a-fea8-4d82-b557-50922e3377a6",
-			"fb6b4d07-f7d9-4a5a-ae9a-fe0abbf1cc8d"
+			"fb6b4d07-f7d9-4a5a-ae9a-fe0abbf1cc8d",
+			"54378bc4-4e20-4d4e-8dcb-862a261942ee",
+			"7152b5fc-dc91-489f-a748-0a8bec15a61a"
 		],
 		"title": "Burgers en stoommachines (1800 - 1900)",
-		"id": "821ce4e4-22b2-4489-a590-ca5f3c775b48"
+		"id": "821ce4e4-22b2-4489-a590-ca5f3c775b48",
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"prefix": "gs/9",
@@ -2365,11 +2429,6 @@
 		],
 		"doelniveau_id": [
 			"cb83d269-73d9-4ba8-a447-aca1bca9ff3c",
-			"fdc1d1cd-20e2-4557-a8cd-de4e6b64192c",
-			"15aef6ab-c038-4ebb-a77b-ef877889936e",
-			"a2403cb5-5d57-4ede-90af-2d836f5d8cea",
-			"dae22d11-77a7-436a-8535-e1d096325675",
-			"6227ab88-fab3-4853-a1c2-3feb1f8b8f37",
 			"3f411743-ca87-4e91-b545-6608c2f5bc78",
 			"d0c68b18-a0cd-47b0-afa2-089f3d46cd31",
 			"d5174c44-343d-4eef-8f00-69ec282db497",
@@ -2384,10 +2443,17 @@
 			"b51e0120-58d0-47dd-bb07-1a201d752b73",
 			"97168818-6752-4b58-83e8-2f01faf80824",
 			"b4876fff-4939-487f-b237-aa19aec65b31",
-			"6f15519f-c215-4f4f-a4c7-3a223367fbf4"
+			"6f15519f-c215-4f4f-a4c7-3a223367fbf4",
+			"04252430-8588-4817-b567-eb2555d1a76f",
+			"f31678b5-01e0-46f3-9173-a1cec744085e",
+			"d91b3e6b-ec69-4fb1-a3ef-d92b05ed4018",
+			"3ce02c36-a2b5-4cad-b8c6-fda763d7e0bb",
+			"8699242a-1ed0-4f41-805b-27cbfae407f7"
 		],
 		"title": "Wereldoorlogen (1900 -1950)",
-		"id": "e75ae8ad-017b-4ef5-bc03-84c67216c90a"
+		"id": "e75ae8ad-017b-4ef5-bc03-84c67216c90a",
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"prefix": "gs/10",
@@ -2409,7 +2475,6 @@
 		],
 		"doelniveau_id": [
 			"cb83d269-73d9-4ba8-a447-aca1bca9ff3c",
-			"774ecc04-9129-4d47-a0a9-45d31d672e1a",
 			"40073369-74cb-4ec9-86b6-60a356f767c1",
 			"7e0367dd-ab91-40c9-93b7-059d4c09b6f2",
 			"37cc1774-1632-4f8d-a92c-46ad2f670cb7",
@@ -2426,10 +2491,13 @@
 			"85d6c06e-b928-49d3-9d4b-8e738364efe1",
 			"aab30047-fa03-4b5b-bb8a-6741bf895cc5",
 			"2ce36012-a3f0-4586-920f-a13d92b32772",
-			"cfed7ca8-505f-4872-a4e4-29a8fa1a2ca7"
+			"cfed7ca8-505f-4872-a4e4-29a8fa1a2ca7",
+			"7152b5fc-dc91-489f-a748-0a8bec15a61a"
 		],
 		"title": "Televisie en computer (vanaf 1950)",
-		"id": "e01e74c3-97aa-49ce-a502-101f713f7a69"
+		"id": "e01e74c3-97aa-49ce-a502-101f713f7a69",
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"prefix": "gs/11",
@@ -2473,7 +2541,9 @@
 			"a2fd146a-bfa8-4f71-8a70-5a1e7104b457"
 		],
 		"title": "Mondeling gesprekken voeren",
-		"id": "e51571b7-f0f5-426c-823d-a97a3acb698b"
+		"id": "e51571b7-f0f5-426c-823d-a97a3acb698b",
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"prefix": "ne/2",
@@ -2487,11 +2557,13 @@
 			"d59d0f3e-153c-4f02-b015-da216f08024b",
 			"5de76e8a-6521-4a1f-b99b-75090a5eae13",
 			"e7ad64e9-28fd-4c6e-b656-c2dcf069144a",
-			"3e289189-e509-4a31-b7af-4843d95bdcbb",
-			"15bd6420-6980-48af-a5d8-db9d05757eb0"
+			"7f5bc6e4-cd25-4d70-9696-caff96c3aa44",
+			"a2fd146a-bfa8-4f71-8a70-5a1e7104b457"
 		],
 		"title": "Mondeling luisteren",
-		"id": "a9f8bfe6-f893-4b3d-b809-4d47ca4bb19f"
+		"id": "a9f8bfe6-f893-4b3d-b809-4d47ca4bb19f",
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"prefix": "ne/3",
@@ -2504,14 +2576,16 @@
 			"be715b1f-8848-429a-be65-623a7e74059f",
 			"4555d903-2c71-4989-b83c-b4276775c135",
 			"5ef56533-f473-43ff-8d94-beca26d6af26",
-			"dfdbe503-ef77-46d2-8322-cdf0ed81c3d4",
-			"06c545a7-39b4-426f-94f9-5f225c2502e3",
-			"d5ddf62b-c956-4fac-bcb3-de197f96558a",
-			"e1e53363-c596-488b-83d7-2b098822c1c6",
-			"5ce79a61-e6c5-4254-9f90-7d1a27d5eadd"
+			"2ac6e4ea-bde6-4b77-9b96-1890f2a3441e",
+			"1b8ee683-fd68-42e3-ae4f-8eb7b17f5e6b",
+			"7f5bc6e4-cd25-4d70-9696-caff96c3aa44",
+			"a2fd146a-bfa8-4f71-8a70-5a1e7104b457",
+			"d5ddf62b-c956-4fac-bcb3-de197f96558a"
 		],
 		"title": "Mondeling spreken",
-		"id": "ba119a21-0770-40ef-875e-8ded15d2eb08"
+		"id": "ba119a21-0770-40ef-875e-8ded15d2eb08",
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"prefix": "ne/4",
@@ -2526,15 +2600,17 @@
 			"50d719bc-4120-4fc1-9286-10149a946498",
 			"4555d903-2c71-4989-b83c-b4276775c135",
 			"20498654-760d-42ab-9f62-a4f0ef6ff7ac",
-			"54867b76-ae44-428d-a65f-ff68a32d8734",
-			"b1b08f04-55de-461a-96be-21758e3d85a8",
 			"f297c324-8a9b-4249-9142-4e058fa3f78b",
 			"e87ebffa-72f1-4dc8-aa5a-8d47d88fe163",
-			"64de3c16-a41f-44a7-a7fe-43a26419c5b7",
-			"e238fd64-8640-4090-a45a-f2c68bc26a13"
+			"5de76e8a-6521-4a1f-b99b-75090a5eae13",
+			"e7ad64e9-28fd-4c6e-b656-c2dcf069144a",
+			"7f5bc6e4-cd25-4d70-9696-caff96c3aa44",
+			"a2fd146a-bfa8-4f71-8a70-5a1e7104b457"
 		],
 		"title": "Lezen zakelijke teksten",
-		"id": "a913bdce-38b6-4f61-98c3-1863b46cc958"
+		"id": "a913bdce-38b6-4f61-98c3-1863b46cc958",
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"prefix": "ne/5",
@@ -2546,15 +2622,17 @@
 			"183801b0-7d32-4e85-b171-ea7c42aa524a",
 			"57ca66dc-4d35-4097-8aa5-01aea00d3fe9",
 			"d59d0f3e-153c-4f02-b015-da216f08024b",
-			"20832c6f-2b89-41fb-93d9-7e1de8de8192",
-			"33172516-f020-48fc-8050-d2caf8b326ca",
-			"0d035b86-9ff4-4203-8234-c9e4ddc4a189",
-			"cdaaac0b-1d64-4c8c-973c-d1ac24c42f32",
-			"eeb2c6e9-c645-4438-a26d-5b2083b54cd9",
-			"ec26018f-c215-46b7-9844-7e34844245c1"
+			"5de76e8a-6521-4a1f-b99b-75090a5eae13",
+			"e7ad64e9-28fd-4c6e-b656-c2dcf069144a",
+			"f297c324-8a9b-4249-9142-4e058fa3f78b",
+			"e87ebffa-72f1-4dc8-aa5a-8d47d88fe163",
+			"7f5bc6e4-cd25-4d70-9696-caff96c3aa44",
+			"a2fd146a-bfa8-4f71-8a70-5a1e7104b457"
 		],
 		"title": "Lezen fictie",
-		"id": "b3c362b6-d6bd-4da8-bfb7-0d818c38856f"
+		"id": "b3c362b6-d6bd-4da8-bfb7-0d818c38856f",
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"prefix": "ne/6",
@@ -2568,13 +2646,15 @@
 			"d2ec59ef-f8e8-47d8-935d-e728e6f9f0d4",
 			"757f3ca7-9480-471f-8780-97bb5ce8d08a",
 			"d59d0f3e-153c-4f02-b015-da216f08024b",
-			"815d5e64-eca5-484b-b60c-0a7443b5bc9e",
-			"85d879a8-8639-42f5-93e1-3ed41fe8112e",
-			"9943e436-03c4-4119-acaf-b4b9e0acfad0",
-			"fc9d3997-726a-417e-a92d-6c5d6eb9aa94"
+			"2ac6e4ea-bde6-4b77-9b96-1890f2a3441e",
+			"1b8ee683-fd68-42e3-ae4f-8eb7b17f5e6b",
+			"7f5bc6e4-cd25-4d70-9696-caff96c3aa44",
+			"a2fd146a-bfa8-4f71-8a70-5a1e7104b457"
 		],
 		"title": "Schrijven",
-		"id": "4d4ae76d-544a-4eac-ba95-d33cf15d5268"
+		"id": "4d4ae76d-544a-4eac-ba95-d33cf15d5268",
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"prefix": "ne/7",
@@ -2586,12 +2666,14 @@
 			"d2ec59ef-f8e8-47d8-935d-e728e6f9f0d4",
 			"333c0d6f-f0b9-4025-9d2e-cf2473247f38",
 			"d59d0f3e-153c-4f02-b015-da216f08024b",
-			"a8f6df4d-4ac8-4ba3-980e-aca29268ad48",
-			"98913426-8223-4baf-82ce-d6a8e07b55f7",
-			"9ccf9a91-4b91-4cc3-a783-41c15dd1feac"
+			"1b8ee683-fd68-42e3-ae4f-8eb7b17f5e6b",
+			"7f5bc6e4-cd25-4d70-9696-caff96c3aa44",
+			"a2fd146a-bfa8-4f71-8a70-5a1e7104b457"
 		],
 		"title": "Begrippenlijst en taalverzorging",
-		"id": "345a3bb1-1306-4a41-84ed-2732ceaa6b14"
+		"id": "345a3bb1-1306-4a41-84ed-2732ceaa6b14",
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"prefix": "DG/ICT",
