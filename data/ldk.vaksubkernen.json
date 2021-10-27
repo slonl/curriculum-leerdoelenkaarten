@@ -9301,6 +9301,10 @@
 	{
 		"prefix": "gs/7/2",
 		"lpib_vaksubkern_id": "679b15e7-5fc2-420c-8de9-a10c8195e2f2",
+		"ldk_vakinhoud_id": [
+			"945c30ad-12aa-4357-87de-f9f9416a628e",
+			"64ec762a-f1c6-4434-b8a5-dfc264e610c4"
+		],
 		"doelniveau_id": [
 			"da8f7d94-b6d3-4644-82f3-7871a3608e64",
 			"03c86014-81f6-4030-87ec-ac675ebee278",
