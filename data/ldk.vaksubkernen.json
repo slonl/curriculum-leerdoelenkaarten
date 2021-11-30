@@ -1419,7 +1419,6 @@
 			"ac6cef8f-2796-4094-a5b8-0caa2ace5cca",
 			"9b7c4b74-e167-46cf-8c5d-0eaad6298ccb",
 			"0e228b12-0b6e-4671-8c3f-5265517ea2ed",
-			"eb9af4a1-0a6b-471b-aa26-78bfc470981b",
 			"1d5f59d3-069c-45d5-8661-aa95a669b9c4",
 			"21f5dbd3-e618-4f63-b80b-bffd07b08328",
 			"aa34b49c-e8b5-4377-bcaa-a932b86498bc",
@@ -1443,7 +1442,8 @@
 			"730ab1be-f484-44e7-8857-e161de7f4d02"
 		],
 		"title": "Levenskenmerk",
-		"id": "59bb4aa0-7cfd-4e29-88cd-a6bbf14ffb50"
+		"id": "59bb4aa0-7cfd-4e29-88cd-a6bbf14ffb50",
+		"description": ""
 	},
 	{
 		"prefix": "bio/1/2",
