@@ -100,7 +100,6 @@
 	},
 	{
 		"prefix": "ak/1",
-		"lpib_vakkern_id": "214c750d-6283-4c0d-9887-23fe011d7ae0",
 		"ldk_vaksubkern_id": [
 			"292114fb-6f7a-4fdf-a59a-81980dfe7573",
 			"45a57a36-a2ab-4293-9964-6dff3d573c9c",
@@ -133,7 +132,6 @@
 	},
 	{
 		"prefix": "ak/2",
-		"lpib_vakkern_id": "4066d9dc-8e04-4290-a3f6-dbf5f4e97a5f",
 		"ldk_vaksubkern_id": [
 			"dd371d22-fdcd-4bd5-b6a1-b9a3365997ce",
 			"247acf9f-5f0b-4234-98b9-cca4306c0cc0",
@@ -169,7 +167,6 @@
 	},
 	{
 		"prefix": "ak/3",
-		"lpib_vakkern_id": "0e3b6e67-6dc0-4645-a145-e191ca7d9405",
 		"ldk_vaksubkern_id": [
 			"e0040f47-8f9f-48d5-9c7b-187ede8599e1",
 			"31f4a56e-b9ce-4819-a2f1-aba195592eb1",
@@ -201,7 +198,6 @@
 	},
 	{
 		"prefix": "ak/4",
-		"lpib_vakkern_id": "360e75ce-acab-4e5c-98e0-86f2e2b1e0b2",
 		"ldk_vaksubkern_id": [
 			"806c80e9-2ea5-4578-ad33-54d0a963ec41",
 			"513cd35e-9171-47b8-b019-27410005ba3f",
@@ -233,7 +229,6 @@
 	},
 	{
 		"prefix": "ak/5",
-		"lpib_vakkern_id": "e6307682-b700-4f90-9364-c3318829b231",
 		"ldk_vaksubkern_id": [
 			"7586f7e1-40f0-4504-8fd7-a3607ef9bd7b",
 			"7f658447-7542-48bf-891e-7237075472cb",
@@ -267,7 +262,6 @@
 	},
 	{
 		"prefix": "ak/6",
-		"lpib_vakkern_id": "336e97ca-a674-4cf2-b5a1-1970a838aa69",
 		"ldk_vaksubkern_id": [
 			"58512671-7274-4ba9-b3d2-3eeecda34d7d",
 			"64e5ac69-5626-4a30-9080-7a75669a5072",
@@ -304,7 +298,6 @@
 	},
 	{
 		"prefix": "ak/7",
-		"lpib_vakkern_id": "a3d06912-4e59-40c7-a0d4-fe1019186799",
 		"ldk_vaksubkern_id": [
 			"e84affa7-0612-4e86-8bdb-d1593924fad0",
 			"9bad3eec-fb2c-4e58-8582-7062ec73578c",
@@ -376,7 +369,6 @@
 	},
 	{
 		"prefix": "ak/9",
-		"lpib_vakkern_id": "e463d6a7-cd43-4d10-b9e2-7466158ab22e",
 		"ldk_vaksubkern_id": [
 			"e78d6e35-8dd5-4717-8f6b-77dedd99a9c4",
 			"8bc6ac0b-f02c-44bb-9d2a-48752e236f32",
@@ -411,7 +403,6 @@
 	},
 	{
 		"prefix": "bio/1",
-		"lpib_vakkern_id": "2400e03b-d163-4dba-98af-26e425eb4872",
 		"ldk_vaksubkern_id": [
 			"59bb4aa0-7cfd-4e29-88cd-a6bbf14ffb50",
 			"8d9626fa-fe06-4b15-94a0-03c7f6d4e530",
@@ -444,7 +435,6 @@
 	},
 	{
 		"prefix": "bio/2",
-		"lpib_vakkern_id": "f308b6cd-89df-4a42-8f33-a994e7f8a733",
 		"ldk_vaksubkern_id": [
 			"090334a4-63a5-4153-8e84-033528a16892",
 			"e3b2d57c-d41c-482e-8a5e-c03c7afe3477",
@@ -486,7 +476,6 @@
 	},
 	{
 		"prefix": "bio/3",
-		"lpib_vakkern_id": "fced5a91-a770-431d-a191-bae82a29fea1",
 		"ldk_vaksubkern_id": [
 			"f52388ab-886f-461e-88e9-9d6d73232323",
 			"bd57a388-b6f1-432c-936f-ff834fb2ec84",
@@ -522,7 +511,6 @@
 	},
 	{
 		"prefix": "bio/4",
-		"lpib_vakkern_id": "bb200f23-88b5-4132-b80a-f113a1eff1fa",
 		"ldk_vaksubkern_id": [
 			"5abc324a-b274-40ff-be2a-0385f87f9719",
 			"df8b0b69-c6d8-48b7-8351-3a3c5caa9a19",
@@ -562,7 +550,6 @@
 	},
 	{
 		"prefix": "bio/5",
-		"lpib_vakkern_id": "4ba7e4f4-a95f-43cc-87c3-c9d575b78c46",
 		"ldk_vaksubkern_id": [
 			"7caafb1c-b7b7-41d2-851a-c7f410865f35",
 			"0368b181-8f56-40f2-bee7-9b8ee076a342"
@@ -594,7 +581,6 @@
 	},
 	{
 		"prefix": "bio/6",
-		"lpib_vakkern_id": "c658f98a-86c1-46c6-9f8d-87ed374efc1f",
 		"ldk_vaksubkern_id": [
 			"93513381-9d7e-4b32-8bae-ea79cdd340f7",
 			"091149e3-62b3-4aac-ade4-8f480dc69c69",
@@ -627,7 +613,6 @@
 	},
 	{
 		"prefix": "nask1/1",
-		"lpib_vakkern_id": "6caf582d-6b5e-48fb-9b89-d7a2b99bac5d",
 		"ldk_vaksubkern_id": [
 			"3acb7a49-55b1-442a-abf9-a66fd8fb5ddb",
 			"38433157-274f-4d19-ad4a-605d204a1671",
@@ -655,7 +640,6 @@
 	},
 	{
 		"prefix": "nask1/2",
-		"lpib_vakkern_id": "b5c8a5f9-47cf-4546-8c20-474ff0cf340d",
 		"ldk_vaksubkern_id": [
 			"8d9bc890-6c7c-42b8-a799-ceb38d57073f",
 			"3f383257-b230-46d5-8743-361eb8c8e1a3",
@@ -685,7 +669,6 @@
 	},
 	{
 		"prefix": "nask1/3",
-		"lpib_vakkern_id": "b1249e0e-33a6-49cc-9afe-a584f81df6ba",
 		"ldk_vaksubkern_id": [
 			"ed7dda5a-e78f-48f9-809a-7d8847dc199b",
 			"0912b214-96cb-4a93-a6f9-57826199c22a",
@@ -714,7 +697,6 @@
 	},
 	{
 		"prefix": "nask1/4",
-		"lpib_vakkern_id": "e162e77e-7a1c-4045-8e91-b03325eb47ce",
 		"ldk_vaksubkern_id": [
 			"4c88a904-bbe1-4107-ab59-69e7074832ce",
 			"d76f4904-e4e3-4e85-b944-55a55cb387eb",
@@ -743,7 +725,6 @@
 	},
 	{
 		"prefix": "nask1/5",
-		"lpib_vakkern_id": "a2e75d11-1608-4122-b080-c687b9ffc208",
 		"ldk_vaksubkern_id": [
 			"6eb0346a-1d0c-4f83-b47b-830bbab3c592",
 			"e0a35080-786b-4416-a4b1-4064a76f918a"
@@ -768,7 +749,6 @@
 	},
 	{
 		"prefix": "nask2/1",
-		"lpib_vakkern_id": "0f96c277-f3bf-4f6c-a526-21072e408192",
 		"ldk_vaksubkern_id": [
 			"068ca82e-cd28-4d27-a04d-a6fbc676587a",
 			"85f896e2-8d95-4718-808b-c7c0f74270de",
@@ -789,7 +769,6 @@
 	},
 	{
 		"prefix": "nask2/2",
-		"lpib_vakkern_id": "33e606c4-5386-4781-9e04-0d92eae38244",
 		"ldk_vaksubkern_id": [
 			"83b76eb8-eba3-411e-9668-9825769234d4",
 			"ed75f049-191b-42cc-9427-ec78eaa48d1c",
@@ -801,7 +780,6 @@
 	},
 	{
 		"prefix": "nask2/3",
-		"lpib_vakkern_id": "89c425d5-605d-4df8-a1a4-7e870e55649c",
 		"ldk_vaksubkern_id": [
 			"a4c6e513-9c1a-4c56-a069-48919b7ce00e",
 			"1c121b53-ba39-4238-92ad-374975c24d23",
@@ -817,7 +795,6 @@
 	},
 	{
 		"prefix": "nask2/4",
-		"lpib_vakkern_id": "b01acef9-436e-40ab-940a-7984363fd307",
 		"ldk_vaksubkern_id": [
 			"72f94c21-22e8-4faa-99cd-75fa284c5345",
 			"48dc0869-7001-4bd7-bfe9-e858d9a309f8",
@@ -829,7 +806,6 @@
 	},
 	{
 		"prefix": "na/1",
-		"lpib_vakkern_id": "be811eac-f168-4c9a-bfe9-b82c44b89dd1",
 		"ldk_vaksubkern_id": [
 			"8069fd9a-5ddc-4b84-86a1-032b363070b5",
 			"519d1faf-746b-42f7-bb0b-03b13f094ee1",
@@ -854,7 +830,6 @@
 	},
 	{
 		"prefix": "na/2",
-		"lpib_vakkern_id": "25f859f3-dcc5-41f4-aeca-38e56eef17e5",
 		"ldk_vaksubkern_id": [
 			"a99b25e8-4176-4aa5-910f-559c0da61b14",
 			"af1e0ce7-0e85-4288-aef0-2e579b943559",
@@ -878,7 +853,6 @@
 	},
 	{
 		"prefix": "na/3",
-		"lpib_vakkern_id": "f0b276d0-4c20-4cfc-b875-0385f332f699",
 		"ldk_vaksubkern_id": [
 			"8a43c7a0-7df1-4db5-83ec-77d948d49a59",
 			"2b543c7d-ca93-45f0-a1ce-cd1fd8913349",
@@ -901,7 +875,6 @@
 	},
 	{
 		"prefix": "na/4",
-		"lpib_vakkern_id": "0a47ec81-5636-435d-8646-35dc517932ad",
 		"ldk_vaksubkern_id": [
 			"24b24446-ee59-4c00-96db-b0a6f93bb49e",
 			"bfd1c208-2c73-4b47-8eb7-166396da9cc6",
@@ -920,7 +893,6 @@
 	},
 	{
 		"prefix": "na/5",
-		"lpib_vakkern_id": "830a70ae-d543-4ce9-9577-0450e254cf7d",
 		"ldk_vaksubkern_id": [
 			"4d73f9d6-b921-4c4a-957f-d1beede03a1a",
 			"7dcc6d62-4b8b-4fac-bf95-750d5878d7d9",
@@ -942,7 +914,6 @@
 	},
 	{
 		"prefix": "sk/1",
-		"lpib_vakkern_id": "99c06a9b-fce9-4f6e-ac03-aad707ba66dd",
 		"ldk_vaksubkern_id": [
 			"8e20e826-a284-42d8-8385-a679b127a02f",
 			"b7157315-e99d-446f-8bef-977c0bacb81b",
@@ -971,7 +942,6 @@
 	},
 	{
 		"prefix": "sk/2",
-		"lpib_vakkern_id": "481c144f-7d82-492d-be54-b67b4cf54d4d",
 		"ldk_vaksubkern_id": [
 			"40e71b27-bd24-418c-bffe-3f02430f6b14",
 			"42818f43-2d6d-4cdd-ac95-8b3af3cf1f3a",
@@ -996,7 +966,6 @@
 	},
 	{
 		"prefix": "sk/3",
-		"lpib_vakkern_id": "39d7b775-88ef-4e20-bee5-b3a160d022a9",
 		"ldk_vaksubkern_id": [
 			"ae47dc12-1c82-4a76-adce-de7d9139c7f3",
 			"f64c750d-0bfa-4a80-8024-3cf8b9b54884",
@@ -1026,7 +995,6 @@
 	},
 	{
 		"prefix": "sk/4",
-		"lpib_vakkern_id": "5b545ebf-f228-433d-ae18-49bc512d97cd",
 		"ldk_vaksubkern_id": [
 			"37479d38-c0c8-4674-b0d1-1d96940b6384",
 			"fbd8abbf-06c5-48a6-86d7-be60b0f8353d",
@@ -1049,7 +1017,6 @@
 	},
 	{
 		"prefix": "sk/5",
-		"lpib_vakkern_id": "90d2e1b2-1c2f-4281-9e1b-31281774de3c",
 		"ldk_vaksubkern_id": [
 			"b0c1a3ae-41aa-4389-a8cf-75f17715b849",
 			"0c0e971c-60de-4a54-924f-9b3d2c69f138",
@@ -1219,7 +1186,6 @@
 	},
 	{
 		"prefix": "wisA/1",
-		"lpib_vakkern_id": "97abf32d-c062-4dc6-b1d3-b15cb6f64874",
 		"ldk_vaksubkern_id": [
 			"17a69d94-74a1-4517-bdfd-449579923ff6",
 			"bf8e4fc2-76cf-4fcf-bb9a-8a6dc44d09cb",
@@ -1231,7 +1197,6 @@
 	},
 	{
 		"prefix": "wisA/2",
-		"lpib_vakkern_id": "52f496a9-f6ce-4822-b9ce-165d8256be3f",
 		"ldk_vaksubkern_id": [
 			"87ed687c-a80b-451a-8491-13d9760bf46c",
 			"f06d0bec-9dde-431c-935d-9734f2f4e35c",
@@ -1242,7 +1207,6 @@
 	},
 	{
 		"prefix": "wisA/3",
-		"lpib_vakkern_id": "a337989c-f3de-429a-9537-fd5daa62098a",
 		"ldk_vaksubkern_id": [
 			"6f5890ce-d0cc-45f7-83ae-91e167020ec1",
 			"d24f109b-3322-4413-aa73-6561cb4e0277",
@@ -1254,7 +1218,6 @@
 	},
 	{
 		"prefix": "wisA/4",
-		"lpib_vakkern_id": "7c8f4928-a65e-48f9-81ca-fc1bc2c7fe2a",
 		"ldk_vaksubkern_id": [
 			"28d51797-91b3-49bd-bff2-62780154f4e3",
 			"f5478664-0d0d-4433-97bd-7dccc5c7ff2f",
@@ -1266,7 +1229,6 @@
 	},
 	{
 		"prefix": "wisA/5",
-		"lpib_vakkern_id": "ae04af78-0e74-4856-9de5-01d4d325de64",
 		"ldk_vaksubkern_id": [
 			"725d5283-c996-4224-8ee5-8ad91d501417",
 			"892d5d79-9979-483b-ba2c-0d6ba69a3b7f",
@@ -1279,7 +1241,6 @@
 	},
 	{
 		"prefix": "wisC/1",
-		"lpib_vakkern_id": "cadc8a72-981d-4009-a930-12685cb46f41",
 		"ldk_vaksubkern_id": [
 			"e307ca3a-0aee-42e7-aba7-cdd94931d4d9",
 			"7c4c023c-612a-4fda-9c78-48dd68ef3fd2",
@@ -1291,7 +1252,6 @@
 	},
 	{
 		"prefix": "wisC/2",
-		"lpib_vakkern_id": "4fd04386-767b-4883-959f-abd5efe9f16d",
 		"ldk_vaksubkern_id": [
 			"c8c4e858-44f9-4986-9dc6-7296830ec32a"
 		],
@@ -1300,7 +1260,6 @@
 	},
 	{
 		"prefix": "wisC/3",
-		"lpib_vakkern_id": "2421fcdf-4839-4d95-8c40-564f45388b60",
 		"ldk_vaksubkern_id": [
 			"acd55814-6d65-4525-ad70-7da8bf8f2d3d",
 			"f1c5a429-b594-4c97-a6d4-d2725bfd6475",
@@ -1311,7 +1270,6 @@
 	},
 	{
 		"prefix": "wisC/4",
-		"lpib_vakkern_id": "23428d9e-8bdc-411b-88d4-fc80bb4ed52b",
 		"ldk_vaksubkern_id": [
 			"6396fa36-a78a-4985-9160-d91bf5191c0a"
 		],
@@ -1320,7 +1278,6 @@
 	},
 	{
 		"prefix": "wisC/5",
-		"lpib_vakkern_id": "b2b0a114-9e28-4769-9a14-1da57ef66793",
 		"ldk_vaksubkern_id": [
 			"e64f94ab-5f12-4864-b10d-f0ab6dd12dba",
 			"50843c01-6346-4340-80b9-961a1177fae5",
@@ -1332,7 +1289,6 @@
 	},
 	{
 		"prefix": "wisC/6",
-		"lpib_vakkern_id": "2f982e36-af2e-41b9-89cd-70d7c51ed92d",
 		"ldk_vaksubkern_id": [
 			"7097f689-cb52-4594-9887-4e41ebcba949",
 			"454bd698-a3de-493c-ab38-0a86345ea9f8"
@@ -1342,7 +1298,6 @@
 	},
 	{
 		"prefix": "wisC/7",
-		"lpib_vakkern_id": "ba6c0d53-c5fc-4447-b56f-970de78ebe4f",
 		"ldk_vaksubkern_id": [
 			"e4354179-ab88-4105-91df-b6a19cfdd606",
 			"cc6a8ebc-6388-4397-a875-924430a690fc",
@@ -1353,7 +1308,6 @@
 	},
 	{
 		"prefix": "wi/1",
-		"lpib_vakkern_id": "9caab715-e38c-4d4c-80bd-d94f7f26e306",
 		"ldk_vaksubkern_id": [
 			"34b37ad0-6222-4422-9f63-fdf36a5bda17"
 		],
@@ -1367,7 +1321,6 @@
 	},
 	{
 		"prefix": "wi/2",
-		"lpib_vakkern_id": "47c83563-0e48-42db-92da-e9b937a53421",
 		"ldk_vaksubkern_id": [
 			"c504d35a-1e6e-4ef3-9394-ba3f1d51363b",
 			"9a0bbda2-a4a3-421f-8358-b0f2f7d6e5a2",
@@ -1391,7 +1344,6 @@
 	},
 	{
 		"prefix": "wi/3",
-		"lpib_vakkern_id": "39b37b0c-217a-47ed-89be-25051737e780",
 		"ldk_vaksubkern_id": [
 			"2b5fbf1f-d39d-49f3-88dc-f3fc26a70af1"
 		],
@@ -1411,7 +1363,6 @@
 	},
 	{
 		"prefix": "wi/4",
-		"lpib_vakkern_id": "3a85224b-ab8e-4168-ab7f-019fc45cfeaf",
 		"ldk_vaksubkern_id": [
 			"c8b0bcaa-51d7-4579-808f-9929d475ac5a",
 			"8b27f3b9-4567-4059-89c9-2a88f3ef9d5a"
@@ -1431,7 +1382,6 @@
 	},
 	{
 		"prefix": "wi/5",
-		"lpib_vakkern_id": "aefdd771-208d-40e1-9e09-4cba6dfc406a",
 		"ldk_vaksubkern_id": [
 			"ed5ddd51-67c3-47d7-8c36-5d5d92359812",
 			"bfc930eb-6269-41db-b33c-6dc93732ed9d",
@@ -1456,7 +1406,6 @@
 	},
 	{
 		"prefix": "wi/6",
-		"lpib_vakkern_id": "ac408e1d-99db-4286-b8c6-583615b7e198",
 		"ldk_vaksubkern_id": [
 			"9adf7afd-169a-4697-8ab5-a79fd214afbf"
 		],
@@ -1472,7 +1421,6 @@
 	},
 	{
 		"prefix": "wisB/1",
-		"lpib_vakkern_id": "ce6456bf-2fe9-4de9-9fc4-932fb36a875a",
 		"ldk_vaksubkern_id": [
 			"42153ba4-8635-47b0-a00b-92eb65af71f7",
 			"9217d29e-cd2f-44e2-8ad5-84775ba3cabc",
@@ -1484,7 +1432,6 @@
 	},
 	{
 		"prefix": "wisB/2",
-		"lpib_vakkern_id": "421722e5-319f-49ff-b08c-5d0c81e17967",
 		"ldk_vaksubkern_id": [
 			"19533122-f1bb-460b-9616-aa688a9622d7",
 			"ad244c17-1253-4afd-afa6-bc96948dd321"
@@ -1494,7 +1441,6 @@
 	},
 	{
 		"prefix": "wisB/3",
-		"lpib_vakkern_id": "86f20a8b-8584-4f3b-bf57-ad1fefcedbef",
 		"ldk_vaksubkern_id": [
 			"bc4767e0-3e87-42c7-834b-8386cf8d521e",
 			"c978a2f4-dbd9-488a-965e-5c1f8b9c3a67",
@@ -1506,7 +1452,6 @@
 	},
 	{
 		"prefix": "wisB/4",
-		"lpib_vakkern_id": "88c79dcc-74cf-43fb-84ab-8711f63943ab",
 		"ldk_vaksubkern_id": [
 			"01476a9c-d9db-4fa2-bd4d-9c8780cd6bc7",
 			"dc2950fd-f0a6-404d-a6aa-337d6e3f3fe8",
@@ -1519,7 +1464,6 @@
 	},
 	{
 		"prefix": "wisB/5",
-		"lpib_vakkern_id": "66f9ff8e-2bbf-4ab7-a7dd-3a13ac2100cf",
 		"ldk_vaksubkern_id": [
 			"97d2ac9d-ca30-4c5a-9009-3329c3a96e47",
 			"bc78f543-f3b9-44d5-aa56-2de557750005",
@@ -1531,7 +1475,6 @@
 	},
 	{
 		"prefix": "du/1",
-		"lpib_vakkern_id": "2affa696-9540-4448-8897-683b28fcb493",
 		"ldk_vaksubkern_id": [
 			"28cdaf14-2b77-4c8b-9208-ced6d606f036",
 			"3fec5bb7-ded5-459d-b438-a130db85e640"
@@ -1580,7 +1523,6 @@
 	},
 	{
 		"prefix": "du/4",
-		"lpib_vakkern_id": "ea0d0b6b-f33c-478a-b550-c275caf31d3a",
 		"ldk_vaksubkern_id": [
 			"8297f652-6c96-47cf-abf2-3ce85537ae8d",
 			"dc4021a9-8015-4925-8395-fc0da76737fb"
@@ -1616,7 +1558,6 @@
 	},
 	{
 		"prefix": "fa/1",
-		"lpib_vakkern_id": "71300446-16ee-4958-b8fc-0d79073d2c21",
 		"ldk_vaksubkern_id": [
 			"7506ebb8-71af-4027-9746-23b458d23dbf",
 			"f2277c4a-f76c-4aa8-a25b-7373f55a98a1"
@@ -1634,7 +1575,6 @@
 	},
 	{
 		"prefix": "fa/2",
-		"lpib_vakkern_id": "17bd7545-5834-4d39-be2f-58f8363639de",
 		"ldk_vaksubkern_id": [
 			"cb6c3367-5844-47de-ba4f-c3649f1aaef5",
 			"61cbf67a-1cf7-4d0f-bb96-4308af1fe4d0"
@@ -1651,7 +1591,6 @@
 	},
 	{
 		"prefix": "fa/3",
-		"lpib_vakkern_id": "b8e9876e-ed25-4c96-a676-e247eb6395f8",
 		"ldk_vaksubkern_id": [
 			"d0591c3f-86ec-4962-acf5-718b249c38fb",
 			"9427c5ff-519c-4a46-b751-9122a63d28b7"
@@ -1668,7 +1607,6 @@
 	},
 	{
 		"prefix": "fa/4",
-		"lpib_vakkern_id": "02adbf49-11e1-499d-87c1-315eb5ad0e56",
 		"ldk_vaksubkern_id": [
 			"5ded4f47-f753-4192-9197-2f1d8a3bc34a",
 			"4cdf8957-6d3e-4215-a265-8493247ab494"
@@ -1686,7 +1624,6 @@
 	},
 	{
 		"prefix": "fa/5",
-		"lpib_vakkern_id": "4bc5655c-f85c-4b18-8f5e-03d0d25c9291",
 		"ldk_vaksubkern_id": [
 			"d5061de4-a658-4833-a63f-5244a0b166a7",
 			"83952b57-cb46-4903-a684-fd27644d2e96"
@@ -1705,7 +1642,6 @@
 	},
 	{
 		"prefix": "en/1",
-		"lpib_vakkern_id": "7427a6d7-678b-4dc4-a977-618c81072e85",
 		"ldk_vaksubkern_id": [
 			"17b2cdf2-ddc9-4b28-84de-49d899212a3c",
 			"2f39f7c3-6184-4db5-a41d-7ca4614b7ca1"
@@ -1726,7 +1662,6 @@
 	},
 	{
 		"prefix": "en/2",
-		"lpib_vakkern_id": "1a4f280a-d3d9-4d88-9d53-f7056e766194",
 		"ldk_vaksubkern_id": [
 			"0c3f5c2c-db12-4279-b54d-0c8fba2d892b",
 			"b6e9d2ee-eb4b-4d34-b7db-e321472af236"
@@ -1746,7 +1681,6 @@
 	},
 	{
 		"prefix": "en/3",
-		"lpib_vakkern_id": "f60c14af-2b8b-425d-9aec-fbbd5aa04933",
 		"ldk_vaksubkern_id": [
 			"9233590a-4763-4a03-aa3f-34dcff8ee7a0",
 			"cc083fb1-2882-4ee0-9120-ef59c8a0b0dd"
@@ -1766,7 +1700,6 @@
 	},
 	{
 		"prefix": "en/4",
-		"lpib_vakkern_id": "256fbcbc-cc70-4694-a216-974abdeb6063",
 		"ldk_vaksubkern_id": [
 			"d77a6c31-be38-47b3-af17-91550e55bf61",
 			"72be3bf1-cdd9-4819-8f1b-716fe1572186"
@@ -1787,7 +1720,6 @@
 	},
 	{
 		"prefix": "en/5",
-		"lpib_vakkern_id": "18b4d6fc-c032-4d07-9bc8-7ff85691d719",
 		"ldk_vaksubkern_id": [
 			"44826f68-75c7-49c2-be14-25d5df94b378",
 			"4b949406-f973-4cbf-a1ce-24a9b54ae44c"
@@ -1808,7 +1740,6 @@
 	},
 	{
 		"prefix": "ec/1",
-		"lpib_vakkern_id": "41aa7b50-1b3b-48c2-9739-cac4ef4c6fcd",
 		"ldk_vaksubkern_id": [
 			"794cd028-2be1-41fb-b99c-f3ef1c8a7d1a",
 			"4c67a37d-53ab-4f57-ab1e-961f5a107449",
@@ -1830,7 +1761,6 @@
 	},
 	{
 		"prefix": "ec/2",
-		"lpib_vakkern_id": "085742fd-9518-4af1-b9f1-288aa38b863b",
 		"ldk_vaksubkern_id": [
 			"c260bca5-50f0-41e8-886e-31697795223a",
 			"47ccb92d-f4a4-42b6-83a4-3c9ab9fba5f0",
@@ -1853,7 +1783,6 @@
 	},
 	{
 		"prefix": "ec/3",
-		"lpib_vakkern_id": "e7c4f5be-fd40-4d82-8c9d-41aaa3ffe450",
 		"ldk_vaksubkern_id": [
 			"4e6aa393-c2e8-4d6c-ab5e-d4cad0e248ce",
 			"4456497d-c1a2-4327-b59b-d6c0e848b093",
@@ -1884,7 +1813,6 @@
 	},
 	{
 		"prefix": "ec/4",
-		"lpib_vakkern_id": "07cf4c78-5c2c-4268-aa37-6552f99fe2dc",
 		"ldk_vaksubkern_id": [
 			"5718c75d-659f-4f19-a389-9df51c0c61e2",
 			"690fcafb-03ac-4742-a32d-d8681557c1a0",
@@ -1910,7 +1838,6 @@
 	},
 	{
 		"prefix": "ec/5",
-		"lpib_vakkern_id": "3b3deac3-f11b-4bb7-a4f6-3ffdbbd98b4f",
 		"ldk_vaksubkern_id": [
 			"23c4c47f-2642-4c90-92c3-dc46b47d890c",
 			"1202e9bb-b7e9-433b-b72c-39db998fdc2c",
@@ -1939,7 +1866,6 @@
 	},
 	{
 		"prefix": "ec/6",
-		"lpib_vakkern_id": "0d6407fb-a50d-409b-a56b-7ce15adfdfce",
 		"ldk_vaksubkern_id": [
 			"cfb6d899-d921-40ea-ab15-00c62940de38",
 			"2580738e-c4fc-467c-b0c6-5c8ae53e9084",
@@ -1968,7 +1894,6 @@
 	},
 	{
 		"prefix": "ec/7",
-		"lpib_vakkern_id": "71399584-e6c4-40bc-a1d2-5e924b1b66e8",
 		"ldk_vaksubkern_id": [
 			"f9e267a8-d501-4216-a528-188c8a21e45f",
 			"15ed95e0-2a91-4033-8a21-ca764278f537",
@@ -1996,7 +1921,6 @@
 	},
 	{
 		"prefix": "ec/8",
-		"lpib_vakkern_id": "3f0ed38b-b3d3-4711-bd28-f1aa239e5920",
 		"ldk_vaksubkern_id": [
 			"fef4bec8-5743-4d28-b529-e35a64bc1040",
 			"80d582f6-b6e7-4ae0-b40c-170caabbf639",
@@ -2047,7 +1971,6 @@
 	},
 	{
 		"prefix": "ec/11",
-		"lpib_vakkern_id": "bdf30cc9-bb47-440e-9784-184968a6c93e",
 		"doelniveau_id": [
 			"c078e718-0c4d-44e5-a710-2dee76f720b0",
 			"9cbc2210-bb2c-42fd-bc14-d09331dce376",
@@ -2075,7 +1998,6 @@
 	},
 	{
 		"prefix": "ec/12",
-		"lpib_vakkern_id": "87d62f23-1d59-4823-a4d7-e9bd034eaa3f",
 		"ldk_vaksubkern_id": [
 			"a1055130-cb69-4c56-84be-ad64f218564b",
 			"78826d93-3d33-4e0f-bd47-6202a9131fd9",
@@ -2090,7 +2012,6 @@
 	},
 	{
 		"prefix": "ec/13",
-		"lpib_vakkern_id": "8341ba89-36bb-4879-b104-4335a83f8eb3",
 		"ldk_vaksubkern_id": [
 			"3a17a735-a081-4a97-b099-c47a7ee0dad2",
 			"2b07d23d-e6a0-49cf-8a15-3f77b6adcd63",
@@ -2104,7 +2025,6 @@
 	},
 	{
 		"prefix": "ec/14",
-		"lpib_vakkern_id": "571c5569-dfbe-4ac7-88b9-ee75a9e45249",
 		"ldk_vaksubkern_id": [
 			"6f3c1a22-96cc-418e-8541-f50ed91f756c",
 			"94a71b00-fc4c-426a-998f-f486b9c13930",
@@ -2138,7 +2058,6 @@
 	},
 	{
 		"prefix": "ec/15",
-		"lpib_vakkern_id": "8ffe98c1-b0c5-4b75-91f3-5c06e64c28c9",
 		"ldk_vaksubkern_id": [
 			"b222fbb0-c836-493b-a803-bd7ff602c03f",
 			"c315adf6-8e35-4b2d-beee-3ea4c9f605ed",
@@ -2155,7 +2074,6 @@
 	},
 	{
 		"prefix": "ec/16",
-		"lpib_vakkern_id": "d9576db0-1e98-4cde-84e0-b3fe18e004d4",
 		"ldk_vaksubkern_id": [
 			"c1fd9ae6-654e-47d5-872e-c670506f7b0d",
 			"348db440-c7a4-4730-8851-759455d6418e"
@@ -2171,7 +2089,6 @@
 	},
 	{
 		"prefix": "gs/1",
-		"lpib_vakkern_id": "1fbb3e2d-ce3a-4431-b17c-73bb6dbd69e7",
 		"ldk_vaksubkern_id": [
 			"82dd9cc5-8b36-4cd0-b8a7-25e9427e8018",
 			"23503464-ca04-40e9-8579-a00f6f383ed1",
@@ -2200,7 +2117,6 @@
 	},
 	{
 		"prefix": "gs/2",
-		"lpib_vakkern_id": "e79074aa-b358-4c1f-8c49-80e4a0f184a2",
 		"ldk_vaksubkern_id": [
 			"6f388ddc-8d72-49f2-8975-bfaacedf42bf",
 			"a59df72a-99a5-45e7-be63-d4127042ebcd",
@@ -2233,7 +2149,6 @@
 	},
 	{
 		"prefix": "gs/3",
-		"lpib_vakkern_id": "98c50995-986f-4e92-8eb6-20ed2fe6eb76",
 		"ldk_vaksubkern_id": [
 			"3c6598b3-1ce4-4310-b79d-5978f122cf10",
 			"2d0072ae-b106-4698-a5fc-cb4461d17c6c",
@@ -2265,7 +2180,6 @@
 	},
 	{
 		"prefix": "gs/4",
-		"lpib_vakkern_id": "8b8241a7-1547-46b6-bffa-3d0281753398",
 		"ldk_vaksubkern_id": [
 			"f81a07e4-f819-4e22-a215-2c77eff3e2a2",
 			"4d7f7d79-cfb4-443d-9489-25ee37a99a48",
@@ -2298,7 +2212,6 @@
 	},
 	{
 		"prefix": "gs/5",
-		"lpib_vakkern_id": "7a89fa90-ff5a-4132-849a-c69d6c6f3733",
 		"ldk_vaksubkern_id": [
 			"2dcb5d88-4605-4f81-b688-9872d770c198",
 			"7318464b-7886-4ce3-855f-eb2abc9de917",
@@ -2331,7 +2244,6 @@
 	},
 	{
 		"prefix": "gs/6",
-		"lpib_vakkern_id": "b0e5da60-4d73-4873-b92a-7c70e975cf14",
 		"ldk_vaksubkern_id": [
 			"38b29c0d-b1b6-470f-955c-4a28027d3ba6",
 			"6e7e0db5-0802-4d61-b968-a3c8d0fb8141",
@@ -2365,7 +2277,6 @@
 	},
 	{
 		"prefix": "gs/7",
-		"lpib_vakkern_id": "d0db684d-4947-4411-9066-bc6776931ead",
 		"ldk_vaksubkern_id": [
 			"94e0bfa3-4a0a-4ad7-9393-72bdc87a370e",
 			"23a0138c-4162-4fca-9a9a-a04be43a4bf3",
@@ -2398,7 +2309,6 @@
 	},
 	{
 		"prefix": "gs/8",
-		"lpib_vakkern_id": "c76a6e48-510d-4c79-bac3-61bc40f12a45",
 		"ldk_vaksubkern_id": [
 			"f9801d06-0343-4aef-87d6-34aa57fc066e",
 			"f52de6fd-e76a-4622-90b6-c0b749b641b1",
@@ -2440,7 +2350,6 @@
 	},
 	{
 		"prefix": "gs/9",
-		"lpib_vakkern_id": "880dde81-63eb-4c01-a8fc-6a2547fa0439",
 		"ldk_vaksubkern_id": [
 			"c0d00e37-ed45-4b3d-a632-8079f692563f",
 			"967a26c6-35f7-45a5-a4ff-38b1776aad2f",
@@ -2490,7 +2399,6 @@
 	},
 	{
 		"prefix": "gs/10",
-		"lpib_vakkern_id": "865cb3ea-1de4-4fbc-9cd5-873a8f91cd6e",
 		"ldk_vaksubkern_id": [
 			"601bdb85-2fe3-4909-b2ee-c095766de527",
 			"2532a234-87fb-4ea5-ad7c-be872bb8ae37",
@@ -2534,7 +2442,6 @@
 	},
 	{
 		"prefix": "gs/11",
-		"lpib_vakkern_id": "a1bf24c3-01f8-4dbf-bb64-035fe2ae1563",
 		"ldk_vaksubkern_id": [
 			"adec9229-ad64-448e-a1fd-37776190ecc9",
 			"cfb21639-b3c0-4844-8935-37f9d5074657",
@@ -2546,7 +2453,6 @@
 	},
 	{
 		"prefix": "gs/12",
-		"lpib_vakkern_id": "01650f76-5639-406c-88c5-b0cae31af947",
 		"ldk_vaksubkern_id": [
 			"48c08ed1-e8ee-4f44-b64e-feee753a6f90",
 			"0850af9e-db41-461f-bc10-919f10fcf688",
@@ -2770,7 +2676,6 @@
 	},
 	{
 		"prefix": "ltc/1",
-		"lpib_vakkern_id": "1b19c347-398a-497d-b8b0-0365d420d0ea",
 		"ldk_vaksubkern_id": [
 			"95d703c0-4597-4dfa-9190-753246b5896b",
 			"76ffe705-83b6-4bc9-ada6-5eba3ce45f6d",
@@ -2785,7 +2690,6 @@
 	},
 	{
 		"prefix": "ltc/2",
-		"lpib_vakkern_id": "115a47dd-b8b6-4bf3-a404-66eab48da8ec",
 		"ldk_vaksubkern_id": [
 			"a33d093e-4529-4bb0-bac1-3b13c42a57c1",
 			"470ab153-b33d-4953-919a-b4285fcac154",
@@ -2801,7 +2705,6 @@
 	},
 	{
 		"prefix": "ltc/3",
-		"lpib_vakkern_id": "011d022a-acaf-485f-abbf-2e59b3c0f94c",
 		"ldk_vaksubkern_id": [
 			"94d2384c-78d1-462e-bea3-ddfd8bb3bb16",
 			"f2fb4182-23a8-474f-a6a5-903e28f347e5",
@@ -2816,7 +2719,6 @@
 	},
 	{
 		"prefix": "ltc/4",
-		"lpib_vakkern_id": "220153f5-f9c7-4d63-b9a0-d44989c0513f",
 		"ldk_vaksubkern_id": [
 			"d7b0eb17-d1b4-42a4-adbe-bba5a3368050",
 			"c87fc9a1-8ef1-41aa-b4e2-4c31f2378562",
@@ -2828,7 +2730,6 @@
 	},
 	{
 		"prefix": "ltc/5",
-		"lpib_vakkern_id": "7cd4d8ff-82be-4a4b-b1e4-770516c5ceaa",
 		"ldk_vaksubkern_id": [
 			"32708987-0c4b-4212-b527-0a4fe364d12c",
 			"30bd5fbc-c943-46be-adcd-9ad43d6f7df4",
@@ -2842,7 +2743,6 @@
 	},
 	{
 		"prefix": "ltc/6",
-		"lpib_vakkern_id": "edd68785-7124-4de0-bf66-9d964704ff02",
 		"ldk_vaksubkern_id": [
 			"156a07da-14c3-4bfb-a2f0-61507df0e195",
 			"c702e932-87de-4e00-a880-a546341587dc",
@@ -2858,7 +2758,6 @@
 	},
 	{
 		"prefix": "ltc/7",
-		"lpib_vakkern_id": "f2c19594-2acc-4a51-8109-20eac7f136b2",
 		"ldk_vaksubkern_id": [
 			"e6749f18-4c20-47d9-aef2-0af62e89d4b8",
 			"dd232fc0-2c2c-47e6-a75d-2836a1c3fa78",
@@ -2876,7 +2775,6 @@
 	},
 	{
 		"prefix": "ltc/8",
-		"lpib_vakkern_id": "c12fdf60-20a7-4666-90ae-7557f66424d0",
 		"ldk_vaksubkern_id": [
 			"32fdb90f-ed95-4cc6-9cd7-de4774c1de3b",
 			"2793e430-9243-4a88-b389-66418d03930f",
@@ -2895,7 +2793,6 @@
 	},
 	{
 		"prefix": "gtc/1",
-		"lpib_vakkern_id": "35bbd5a7-1b35-42b1-86f8-14ca358eb782",
 		"ldk_vaksubkern_id": [
 			"875aedb4-f484-49c9-bd4a-b4033718bfd1",
 			"554388d3-fa2b-45a6-9d0f-e8fb3b1abc40",
@@ -2910,7 +2807,6 @@
 	},
 	{
 		"prefix": "gtc/2",
-		"lpib_vakkern_id": "626487cd-8668-46a6-9663-96d8806aec98",
 		"ldk_vaksubkern_id": [
 			"bbf37bff-2b71-4f1a-bff2-8dbaebae32d5",
 			"c7997ea2-04e6-4d00-b03d-491a851dd3d8",
@@ -2926,7 +2822,6 @@
 	},
 	{
 		"prefix": "gtc/3",
-		"lpib_vakkern_id": "b98076b8-3028-41f0-aae9-e3d9a9fd400a",
 		"ldk_vaksubkern_id": [
 			"9cab9ddb-80e9-4b18-9733-ae28fb57aecd",
 			"2c00f382-2b16-4453-b3b3-5d48e11ba6eb",
@@ -2941,7 +2836,6 @@
 	},
 	{
 		"prefix": "gtc/4",
-		"lpib_vakkern_id": "2fff3a46-e739-4185-8574-f34b780bfbbb",
 		"ldk_vaksubkern_id": [
 			"6cbd6d35-6a94-4267-b351-23eb2042999c",
 			"dd26b27b-7e50-488f-b84f-be4823495556",
@@ -2954,7 +2848,6 @@
 	},
 	{
 		"prefix": "gtc/5",
-		"lpib_vakkern_id": "59faf600-6d62-4803-9de8-3612cf77fcd5",
 		"ldk_vaksubkern_id": [
 			"3bea1a9c-1cea-4947-acf0-09cd1721af01",
 			"032dc6a6-8a99-4bee-b596-fc123939d560",
@@ -2968,7 +2861,6 @@
 	},
 	{
 		"prefix": "gtc/6",
-		"lpib_vakkern_id": "987d5b7a-76e3-4dbf-bc54-e21b2b0d1ea9",
 		"ldk_vaksubkern_id": [
 			"1a17e669-39a2-40e0-8f64-34ae6713e7fd",
 			"b3bd7560-c30a-4b6b-9937-cce7518072a4",
@@ -2984,7 +2876,6 @@
 	},
 	{
 		"prefix": "gtc/7",
-		"lpib_vakkern_id": "bedc0a03-2279-4565-8bee-23d1c0208681",
 		"ldk_vaksubkern_id": [
 			"42c74ecc-9e7d-44ac-97ad-3eeb20889157",
 			"29f506b2-5d46-4751-84bf-dd019e4647b1",
@@ -3005,7 +2896,6 @@
 	},
 	{
 		"prefix": "gtc/8",
-		"lpib_vakkern_id": "42870bb5-cb63-4b39-b594-bf393dec8446",
 		"ldk_vaksubkern_id": [
 			"78800cb3-5921-4be8-b7de-1e203ecca9d7",
 			"5250e8bd-340f-434a-b3df-d44e66705137",

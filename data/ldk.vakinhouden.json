@@ -577,7 +577,6 @@
 	},
 	{
 		"prefix": "ak/1/1/1",
-		"lpib_vakinhoud_id": "c8c16e30-2288-4dc7-85cd-7fd5249080bb",
 		"doelniveau_id": [
 			"e53eebfa-71c6-40ea-9d39-a44b00269d9d"
 		],
@@ -586,7 +585,6 @@
 	},
 	{
 		"prefix": "ak/1/2/1",
-		"lpib_vakinhoud_id": "d8eab43f-626a-48cc-bb3d-a89227aa05ea",
 		"doelniveau_id": [
 			"481ad3b4-1b41-48f3-b858-db03bd700e9e"
 		],
@@ -595,7 +593,6 @@
 	},
 	{
 		"prefix": "ak/1/3/1",
-		"lpib_vakinhoud_id": "64401e22-10bd-4962-afee-0c7b9be76a48",
 		"doelniveau_id": [
 			"90e050ee-320c-497f-9aec-3c4b8f0636a3"
 		],
@@ -604,7 +601,6 @@
 	},
 	{
 		"prefix": "ak/2/2/1",
-		"lpib_vakinhoud_id": "f6d38e24-63ec-403b-91b8-0034a646498a",
 		"doelniveau_id": [
 			"4f4b7103-3ee6-48cc-9a4a-2bb1b5b69583"
 		],
@@ -613,7 +609,6 @@
 	},
 	{
 		"prefix": "ak/2/2/2",
-		"lpib_vakinhoud_id": "c175be56-3a20-4c4c-a84a-cb80f1a10685",
 		"doelniveau_id": [
 			"cfb00a86-1a8c-4b9d-a3fa-da6d1ebd43e5"
 		],
@@ -622,7 +617,6 @@
 	},
 	{
 		"prefix": "ak/2/4/1",
-		"lpib_vakinhoud_id": "1c887f2d-f0ad-4223-9def-39179f4dc69e",
 		"doelniveau_id": [
 			"e32f28e4-2726-4dd7-a1a4-a9c21aee8efe"
 		],
@@ -631,7 +625,6 @@
 	},
 	{
 		"prefix": "ak/3/1/1",
-		"lpib_vakinhoud_id": "9b934f43-6b56-472b-ba5e-bd8fcddfae10",
 		"doelniveau_id": [
 			"f379bd2a-35a0-4024-a2b5-b85595295447"
 		],
@@ -640,7 +633,6 @@
 	},
 	{
 		"prefix": "ak/3/1/b",
-		"lpib_vakinhoud_id": "f578c05c-316e-44d6-80de-e23a5f395535",
 		"doelniveau_id": [
 			"1e9de2c0-c2f0-4d30-b19c-a8043c5a8e73"
 		],
@@ -649,7 +641,6 @@
 	},
 	{
 		"prefix": "ak/3/2/1",
-		"lpib_vakinhoud_id": "80ed2f45-8fd3-43c1-88c3-142329a83a5e",
 		"doelniveau_id": [
 			"2436d5f0-36fb-428d-a8bd-f52915510d73"
 		],
@@ -658,7 +649,6 @@
 	},
 	{
 		"prefix": "ak/3/3/1",
-		"lpib_vakinhoud_id": "3ea98dac-c9dc-48da-ad11-ba139eb0ef2a",
 		"doelniveau_id": [
 			"04e444d9-72e5-46c4-ac08-3cee7f4711f1"
 		],
@@ -667,7 +657,6 @@
 	},
 	{
 		"prefix": "ak/4/1/1",
-		"lpib_vakinhoud_id": "26ee4cc1-b15c-45a1-9c82-2982af99c536",
 		"doelniveau_id": [
 			"eb5864e1-31f5-4345-91db-50e027800e00"
 		],
@@ -676,7 +665,6 @@
 	},
 	{
 		"prefix": "ak/4/2/1",
-		"lpib_vakinhoud_id": "7f697c42-6c64-463b-a08b-7e4866311ec9",
 		"doelniveau_id": [
 			"8ea85f3c-b702-4d1c-be4d-149a5bb48757"
 		],
@@ -685,7 +673,6 @@
 	},
 	{
 		"prefix": "ak/4/3/1",
-		"lpib_vakinhoud_id": "d041a354-8185-4511-9064-57601f4a34a5",
 		"doelniveau_id": [
 			"6554c53c-fce9-4972-8b4e-2ee6848c4371"
 		],
@@ -694,7 +681,6 @@
 	},
 	{
 		"prefix": "ak/4/3/b",
-		"lpib_vakinhoud_id": "0071d417-f855-4e9f-b10c-188928d83139",
 		"doelniveau_id": [
 			"ce31d087-8aff-45d6-a032-6d2c1a14249a"
 		],
@@ -703,7 +689,6 @@
 	},
 	{
 		"prefix": "ak/5/1/1",
-		"lpib_vakinhoud_id": "5c5b37fc-ae3c-48f9-b7d9-5568ea8910db",
 		"doelniveau_id": [
 			"339043c1-d210-4af9-9be0-53310e8b0c53"
 		],
@@ -712,7 +697,6 @@
 	},
 	{
 		"prefix": "ak/5/1/b",
-		"lpib_vakinhoud_id": "6fcd1334-d01c-40f3-acbc-23eaf4d99650",
 		"doelniveau_id": [
 			"61362b91-f85e-4ed8-b86a-d2f7c4406392"
 		],
@@ -721,7 +705,6 @@
 	},
 	{
 		"prefix": "ak/6/1/1",
-		"lpib_vakinhoud_id": "13e7d89b-8dba-47c8-9e4b-ec1f9fa9858c",
 		"doelniveau_id": [
 			"6def399c-d777-487b-8b8c-ce157e8c0bd3"
 		],
@@ -730,7 +713,6 @@
 	},
 	{
 		"prefix": "ak/6/2/1",
-		"lpib_vakinhoud_id": "feaf5b74-57ef-4e31-92c6-751fce509b2a",
 		"doelniveau_id": [
 			"e1c6b2d3-4ca7-4feb-b660-a7990bd0c0c5"
 		],
@@ -739,7 +721,6 @@
 	},
 	{
 		"prefix": "ak/6/3/1",
-		"lpib_vakinhoud_id": "40f5d0a1-5bc9-47ad-a130-2d03610896cd",
 		"doelniveau_id": [
 			"98ef8e38-f870-497e-85da-f0791d35f586"
 		],
@@ -748,7 +729,6 @@
 	},
 	{
 		"prefix": "ak/7/4/1",
-		"lpib_vakinhoud_id": "c94bab41-ac3d-415b-9c10-616024f341f1",
 		"doelniveau_id": [
 			"fc0c13a2-e499-41eb-b469-d9cbf1282191"
 		],
@@ -757,7 +737,6 @@
 	},
 	{
 		"prefix": "ak/7/5/1",
-		"lpib_vakinhoud_id": "dee8bb7f-b539-4552-bdca-ce2040a2ae2c",
 		"doelniveau_id": [
 			"be2d865a-919a-46fe-8a08-70c7352dd610",
 			"f3fa4240-8873-4e13-b319-985ba03f680b"
@@ -767,7 +746,6 @@
 	},
 	{
 		"prefix": "ak/7/5/b",
-		"lpib_vakinhoud_id": "9ba485ab-9621-41f9-b48d-78b41d029dd8",
 		"doelniveau_id": [
 			"8da72a2e-8b72-4cd2-8c75-7102a54fe7eb"
 		],
@@ -776,7 +754,6 @@
 	},
 	{
 		"prefix": "ak/7/6/1",
-		"lpib_vakinhoud_id": "9621bb7d-488e-45ab-8c1a-11d808f2c4b8",
 		"doelniveau_id": [
 			"fe7b04ad-9544-4af5-8a4c-dd480dbe3190"
 		],
@@ -785,7 +762,6 @@
 	},
 	{
 		"prefix": "ak/7/6/2",
-		"lpib_vakinhoud_id": "a91132bd-ae7d-41a8-a436-89f67bcf1567",
 		"doelniveau_id": [
 			"69ffe73c-7e6b-4eb4-8e09-1d6cf77a4478",
 			"0bbc3ff7-d968-4afb-bed0-450f314c34a5"
@@ -795,7 +771,6 @@
 	},
 	{
 		"prefix": "ak/7/7/1",
-		"lpib_vakinhoud_id": "80fb2608-42b1-4b68-b61d-3b216add16f4",
 		"doelniveau_id": [
 			"82d86db8-e892-4c0c-864a-d9130b2d537b",
 			"b7874c3a-5da6-4f35-9380-6094cd3e958d"
@@ -805,7 +780,6 @@
 	},
 	{
 		"prefix": "ak/8/2/1",
-		"lpib_vakinhoud_id": "2c24ba60-8d24-4bfe-8648-f6e452905a05",
 		"doelniveau_id": [
 			"983cec83-c644-4392-bdfa-17a11cb29d6f"
 		],
@@ -814,7 +788,6 @@
 	},
 	{
 		"prefix": "ak/9/1/1",
-		"lpib_vakinhoud_id": "906a8b30-2b25-4094-87be-bb42645c9c73",
 		"doelniveau_id": [
 			"c2e0cf60-8d2a-41b9-ab29-d338e5b2a545"
 		],
@@ -823,7 +796,6 @@
 	},
 	{
 		"prefix": "ak/9/2/1",
-		"lpib_vakinhoud_id": "2353d79d-1be1-46df-8040-cca73361422a",
 		"doelniveau_id": [
 			"6aa5e238-5361-4ded-a761-e36a454db925"
 		],
@@ -832,7 +804,6 @@
 	},
 	{
 		"prefix": "ak/9/3/1",
-		"lpib_vakinhoud_id": "cde034e6-7254-4dcc-ba00-cdb574e59dc6",
 		"doelniveau_id": [
 			"c13225f5-c804-4e3c-b43d-e367002621c5"
 		],
@@ -841,7 +812,6 @@
 	},
 	{
 		"prefix": "ak/9/3/2",
-		"lpib_vakinhoud_id": "545ea41d-ea4e-46d1-a8dc-adb718c94a49",
 		"doelniveau_id": [
 			"91aca5b5-26a3-41f0-a5d5-4b6ea150a40c"
 		],
@@ -868,7 +838,6 @@
 	},
 	{
 		"prefix": "na/1/1/3",
-		"lpib_vakinhoud_id": "5f0a4519-f018-4109-904d-6bbd71c2f5a0",
 		"doelniveau_id": [
 			"8eeb9ae6-77fb-40c6-bab6-a6a43f91109b",
 			"08f14916-68dc-4417-adb5-c965b9cbbc05"
@@ -878,7 +847,6 @@
 	},
 	{
 		"prefix": "na/1/1/4",
-		"lpib_vakinhoud_id": "94bad0f4-6328-4a8e-8187-5e14749747dc",
 		"doelniveau_id": [
 			"6205b1b3-3b62-4bcc-8aaf-97c8a8d34bce",
 			"8239a9a3-2c47-4569-9c69-88004c9bb9fe"
@@ -11469,7 +11437,6 @@
 	},
 	{
 		"prefix": "gs/1/1/1",
-		"lpib_vakinhoud_id": "7d0e2ef6-d1ae-4785-bc58-a2aad8df353b",
 		"doelniveau_id": [
 			"70585f94-a050-4350-86be-84e7c4c35d55"
 		],
@@ -11478,7 +11445,6 @@
 	},
 	{
 		"prefix": "gs/1/2/1",
-		"lpib_vakinhoud_id": "7cdd7348-43df-42cc-9c0c-cdb58ae23e9f",
 		"doelniveau_id": [
 			"9c83f8be-d763-4f37-bbcf-3454c11ce003"
 		],
@@ -11487,7 +11453,6 @@
 	},
 	{
 		"prefix": "gs/1/2/2",
-		"lpib_vakinhoud_id": "c6011669-9a41-4178-aa19-507dbb4ee7d3",
 		"doelniveau_id": [
 			"063586d4-1618-44dc-bc2c-c616715065f2"
 		],
@@ -11496,7 +11461,6 @@
 	},
 	{
 		"prefix": "gs/2/2/1",
-		"lpib_vakinhoud_id": "0d3bb822-e2f9-4748-8ef2-f0133753665a",
 		"doelniveau_id": [
 			"6a55eeb9-a4fe-4b1e-97ae-9aec9b9dca3f"
 		],
@@ -11505,7 +11469,6 @@
 	},
 	{
 		"prefix": "gs/2/2/2",
-		"lpib_vakinhoud_id": "09a6c037-decd-40ec-911d-70eca1ef0ddc",
 		"doelniveau_id": [
 			"8ac14016-128b-4fa0-b68f-c76de4b890aa"
 		],
@@ -11514,7 +11477,6 @@
 	},
 	{
 		"prefix": "gs/2/3/1",
-		"lpib_vakinhoud_id": "f9071c25-0a34-4662-b356-713c88fdcad1",
 		"doelniveau_id": [
 			"d9122e95-3961-4a51-9ea6-dd8ba34e868b"
 		],
@@ -11523,7 +11485,6 @@
 	},
 	{
 		"prefix": "gs/3/1/1",
-		"lpib_vakinhoud_id": "fd09a1d4-087d-4166-a0a0-0f9e9589f1f7",
 		"doelniveau_id": [
 			"8144e411-9446-4c8e-a3de-94ee42354ec1"
 		],
@@ -11532,7 +11493,6 @@
 	},
 	{
 		"prefix": "gs/3/2/1",
-		"lpib_vakinhoud_id": "5d48995f-9597-41d0-a99a-aa6dcd835a4b",
 		"doelniveau_id": [
 			"2fcd1466-dc3d-4620-b736-7e1dfd8e7043"
 		],
@@ -11541,7 +11501,6 @@
 	},
 	{
 		"prefix": "gs/4/2/1",
-		"lpib_vakinhoud_id": "d92443b0-eb07-4d3f-ba22-6851cff0ad9e",
 		"doelniveau_id": [
 			"68e611ac-6a13-4b90-9df7-35f2ee73d995"
 		],
@@ -11550,7 +11509,6 @@
 	},
 	{
 		"prefix": "gs/4/3/1",
-		"lpib_vakinhoud_id": "b92e168b-75ca-47e5-b4fb-066120f1b9ee",
 		"doelniveau_id": [
 			"f082a709-24d5-47e0-a1d3-c4199b729cb4"
 		],
@@ -11559,7 +11517,6 @@
 	},
 	{
 		"prefix": "gs/4/3/2",
-		"lpib_vakinhoud_id": "9db7f35f-00d4-4afb-b150-be48c2aadb37",
 		"doelniveau_id": [
 			"06bf5c2e-8a2a-48df-8412-8d93ca3f46a9"
 		],
@@ -11568,7 +11525,6 @@
 	},
 	{
 		"prefix": "gs/5/2/1",
-		"lpib_vakinhoud_id": "81f2523e-2db7-44db-a9d0-6c7249eaccd4",
 		"doelniveau_id": [
 			"e30ec559-cdd4-4123-bcf8-582437084e1c"
 		],
@@ -11577,7 +11533,6 @@
 	},
 	{
 		"prefix": "gs/5/3/1",
-		"lpib_vakinhoud_id": "ddf70966-0e26-489e-b6f5-46ba2c36ef1c",
 		"doelniveau_id": [
 			"83b4d670-ca74-4b52-b12a-493ab46170b2"
 		],
@@ -11586,7 +11541,6 @@
 	},
 	{
 		"prefix": "gs/5/3/2",
-		"lpib_vakinhoud_id": "70a40774-415d-4a82-aed8-7998c75faad1",
 		"doelniveau_id": [
 			"b45e4ad2-dbd4-420d-841d-d83d68b47704"
 		],
@@ -11595,7 +11549,6 @@
 	},
 	{
 		"prefix": "gs/5/3/3",
-		"lpib_vakinhoud_id": "25507253-5070-479f-8b20-76b942a592ad",
 		"doelniveau_id": [
 			"41007119-f361-42e4-ad67-272b45c9676d"
 		],
@@ -11604,7 +11557,6 @@
 	},
 	{
 		"prefix": "gs/6/1/1",
-		"lpib_vakinhoud_id": "ce0df331-c5e1-47c6-9cfb-9528e4357e3c",
 		"doelniveau_id": [
 			"2a4fbffc-2299-4be7-8a93-e0fedadb83f4"
 		],
@@ -11613,7 +11565,6 @@
 	},
 	{
 		"prefix": "gs/6/2/1",
-		"lpib_vakinhoud_id": "94c92b4c-cf4e-4602-8439-6a788ed217f2",
 		"doelniveau_id": [
 			"1d54f3cd-4ed5-4316-a7d0-9de8662b384d"
 		],
@@ -11622,7 +11573,6 @@
 	},
 	{
 		"prefix": "gs/6/2/2",
-		"lpib_vakinhoud_id": "f9f6d83f-5773-4d1a-a2d1-c0d01068c37e",
 		"doelniveau_id": [
 			"5c31a50b-358b-49dc-a0ea-9fc7a7e116c8"
 		],
@@ -11631,7 +11581,6 @@
 	},
 	{
 		"prefix": "gs/7/3/1",
-		"lpib_vakinhoud_id": "0a0c7b22-b20e-434c-b300-2ede8d717b88",
 		"doelniveau_id": [
 			"4d5aa771-0bc9-42df-b50f-30544cb063ad"
 		],
@@ -11640,7 +11589,6 @@
 	},
 	{
 		"prefix": "gs/7/2/1",
-		"lpib_vakinhoud_id": "055d0cbd-5f60-4773-837b-abc2b80d8ab5",
 		"doelniveau_id": [
 			"16436072-52d6-40f6-9c9f-262ab8f97800"
 		],
@@ -11649,7 +11597,6 @@
 	},
 	{
 		"prefix": "gs/7/2/2",
-		"lpib_vakinhoud_id": "1f130de6-54f8-4f01-9b05-f595e2c9e896",
 		"doelniveau_id": [
 			"8388856b-fa27-4c96-8973-e5592731b583"
 		],
@@ -11658,7 +11605,6 @@
 	},
 	{
 		"prefix": "gs/8/1/1",
-		"lpib_vakinhoud_id": "a85c8fb7-df62-4033-b1e1-ee399b4b3657",
 		"doelniveau_id": [
 			"5d76e70e-6791-4654-b223-cac325510e64"
 		],
@@ -11667,7 +11613,6 @@
 	},
 	{
 		"prefix": "gs/8/1/2",
-		"lpib_vakinhoud_id": "dcd3b6bc-2ef4-42ab-927d-8a7e0b61800e",
 		"doelniveau_id": [
 			"282315dd-d40e-41d3-8e95-7c8950463d72"
 		],
@@ -11676,7 +11621,6 @@
 	},
 	{
 		"prefix": "gs/8/1/3",
-		"lpib_vakinhoud_id": "fcf094cb-9a99-4982-873c-d150df6da2a2",
 		"doelniveau_id": [
 			"f0f10303-6511-46c3-b6ba-e9fb3da2cc26"
 		],
@@ -11685,7 +11629,6 @@
 	},
 	{
 		"prefix": "gs/8/2/1",
-		"lpib_vakinhoud_id": "9080973c-b399-4379-b657-c9be44915a70",
 		"doelniveau_id": [
 			"ee0a2919-9fe0-42cf-a1d7-87068b321a8c"
 		],
@@ -11694,7 +11637,6 @@
 	},
 	{
 		"prefix": "gs/8/2/2",
-		"lpib_vakinhoud_id": "599da982-6531-406c-b048-ac814cbac4b0",
 		"doelniveau_id": [
 			"7a00d4b7-ac20-446d-8d11-c25cd16b7a8a"
 		],
@@ -11703,7 +11645,6 @@
 	},
 	{
 		"prefix": "gs/9/3/1/",
-		"lpib_vakinhoud_id": "9250e759-ad20-45e8-9f35-a5829f90c0f5",
 		"doelniveau_id": [
 			"e8549b7a-4681-4352-af82-007f329b4db4"
 		],
@@ -11712,7 +11653,6 @@
 	},
 	{
 		"prefix": "gs/9/4/1",
-		"lpib_vakinhoud_id": "4ff274fe-8849-47e6-876b-ebb53eee7574",
 		"doelniveau_id": [
 			"a2ae25a5-f5ef-4cea-aad9-c3da178ca13b"
 		],
@@ -11721,7 +11661,6 @@
 	},
 	{
 		"prefix": "gs/9/4/2/",
-		"lpib_vakinhoud_id": "384ca573-9757-4e3a-bd35-9a96c6c2a36c",
 		"doelniveau_id": [
 			"f6e9691a-4a26-4804-aeac-af29b47d7bf7"
 		],
@@ -11730,7 +11669,6 @@
 	},
 	{
 		"prefix": "gs/9/4/3",
-		"lpib_vakinhoud_id": "d114fdab-9daa-4e75-8abc-2cdd500fe21d",
 		"doelniveau_id": [
 			"f8ff9922-4a5a-40f0-a550-cba096ca2e1b"
 		],
@@ -11739,7 +11677,6 @@
 	},
 	{
 		"prefix": "gs/10/2/1",
-		"lpib_vakinhoud_id": "3fdcba94-c011-4638-b66e-abb9cb0088c0",
 		"doelniveau_id": [
 			"38927e0d-22b2-429d-9877-665ca45f1513"
 		],
@@ -11748,7 +11685,6 @@
 	},
 	{
 		"prefix": "gs/10/4/1",
-		"lpib_vakinhoud_id": "327d2686-486c-4dfa-9959-55e360ddd9bf",
 		"doelniveau_id": [
 			"b7b585d2-9e73-41b5-9fbf-86c84f8deada"
 		],
@@ -11757,7 +11693,6 @@
 	},
 	{
 		"prefix": "gs/10/4/2",
-		"lpib_vakinhoud_id": "49ac549f-b7f7-41e8-9a26-aa615766b8fd",
 		"doelniveau_id": [
 			"415ba4b2-67b7-4fdb-9b36-ea641ddaf1b1"
 		],
@@ -11766,7 +11701,6 @@
 	},
 	{
 		"prefix": "gs/10/4/3",
-		"lpib_vakinhoud_id": "efefbb25-45a6-48c3-8a7b-f36657d9e561",
 		"doelniveau_id": [
 			"753e8cef-fb6b-44a3-9f40-dd43f0d81c98"
 		],
@@ -11775,7 +11709,6 @@
 	},
 	{
 		"prefix": "gs/10/4/4",
-		"lpib_vakinhoud_id": "f7cf4376-e540-4085-80a0-1ecb0d518679",
 		"doelniveau_id": [
 			"d5545cb1-8d9a-416f-8778-70bd4a7eb8f9"
 		],
