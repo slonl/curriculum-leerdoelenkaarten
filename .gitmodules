@@ -1,7 +1,3 @@
-[submodule "curriculum-lpib"]
-	ignore = dirty
-	path = curriculum-lpib
-	url = https://github.com/slonl/curriculum-lpib.git
 [submodule "curriculum-basis"]
 	ignore = dirty
 	path = curriculum-basis
