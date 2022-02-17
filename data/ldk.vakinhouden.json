@@ -577,7 +577,6 @@
 	},
 	{
 		"prefix": "ak/1/1/1",
-		"lpib_vakinhoud_id": "c8c16e30-2288-4dc7-85cd-7fd5249080bb",
 		"doelniveau_id": [
 			"e53eebfa-71c6-40ea-9d39-a44b00269d9d"
 		],
@@ -586,7 +585,6 @@
 	},
 	{
 		"prefix": "ak/1/2/1",
-		"lpib_vakinhoud_id": "d8eab43f-626a-48cc-bb3d-a89227aa05ea",
 		"doelniveau_id": [
 			"481ad3b4-1b41-48f3-b858-db03bd700e9e"
 		],
@@ -595,7 +593,6 @@
 	},
 	{
 		"prefix": "ak/1/3/1",
-		"lpib_vakinhoud_id": "64401e22-10bd-4962-afee-0c7b9be76a48",
 		"doelniveau_id": [
 			"90e050ee-320c-497f-9aec-3c4b8f0636a3"
 		],
@@ -604,7 +601,6 @@
 	},
 	{
 		"prefix": "ak/2/2/1",
-		"lpib_vakinhoud_id": "f6d38e24-63ec-403b-91b8-0034a646498a",
 		"doelniveau_id": [
 			"4f4b7103-3ee6-48cc-9a4a-2bb1b5b69583"
 		],
@@ -613,7 +609,6 @@
 	},
 	{
 		"prefix": "ak/2/2/2",
-		"lpib_vakinhoud_id": "c175be56-3a20-4c4c-a84a-cb80f1a10685",
 		"doelniveau_id": [
 			"cfb00a86-1a8c-4b9d-a3fa-da6d1ebd43e5"
 		],
@@ -622,7 +617,6 @@
 	},
 	{
 		"prefix": "ak/2/4/1",
-		"lpib_vakinhoud_id": "1c887f2d-f0ad-4223-9def-39179f4dc69e",
 		"doelniveau_id": [
 			"e32f28e4-2726-4dd7-a1a4-a9c21aee8efe"
 		],
@@ -631,7 +625,6 @@
 	},
 	{
 		"prefix": "ak/3/1/1",
-		"lpib_vakinhoud_id": "9b934f43-6b56-472b-ba5e-bd8fcddfae10",
 		"doelniveau_id": [
 			"f379bd2a-35a0-4024-a2b5-b85595295447"
 		],
@@ -640,7 +633,6 @@
 	},
 	{
 		"prefix": "ak/3/1/b",
-		"lpib_vakinhoud_id": "f578c05c-316e-44d6-80de-e23a5f395535",
 		"doelniveau_id": [
 			"1e9de2c0-c2f0-4d30-b19c-a8043c5a8e73"
 		],
@@ -649,7 +641,6 @@
 	},
 	{
 		"prefix": "ak/3/2/1",
-		"lpib_vakinhoud_id": "80ed2f45-8fd3-43c1-88c3-142329a83a5e",
 		"doelniveau_id": [
 			"2436d5f0-36fb-428d-a8bd-f52915510d73"
 		],
@@ -658,7 +649,6 @@
 	},
 	{
 		"prefix": "ak/3/3/1",
-		"lpib_vakinhoud_id": "3ea98dac-c9dc-48da-ad11-ba139eb0ef2a",
 		"doelniveau_id": [
 			"04e444d9-72e5-46c4-ac08-3cee7f4711f1"
 		],
@@ -667,7 +657,6 @@
 	},
 	{
 		"prefix": "ak/4/1/1",
-		"lpib_vakinhoud_id": "26ee4cc1-b15c-45a1-9c82-2982af99c536",
 		"doelniveau_id": [
 			"eb5864e1-31f5-4345-91db-50e027800e00"
 		],
@@ -676,7 +665,6 @@
 	},
 	{
 		"prefix": "ak/4/2/1",
-		"lpib_vakinhoud_id": "7f697c42-6c64-463b-a08b-7e4866311ec9",
 		"doelniveau_id": [
 			"8ea85f3c-b702-4d1c-be4d-149a5bb48757"
 		],
@@ -685,7 +673,6 @@
 	},
 	{
 		"prefix": "ak/4/3/1",
-		"lpib_vakinhoud_id": "d041a354-8185-4511-9064-57601f4a34a5",
 		"doelniveau_id": [
 			"6554c53c-fce9-4972-8b4e-2ee6848c4371"
 		],
@@ -694,7 +681,6 @@
 	},
 	{
 		"prefix": "ak/4/3/b",
-		"lpib_vakinhoud_id": "0071d417-f855-4e9f-b10c-188928d83139",
 		"doelniveau_id": [
 			"ce31d087-8aff-45d6-a032-6d2c1a14249a"
 		],
@@ -703,7 +689,6 @@
 	},
 	{
 		"prefix": "ak/5/1/1",
-		"lpib_vakinhoud_id": "5c5b37fc-ae3c-48f9-b7d9-5568ea8910db",
 		"doelniveau_id": [
 			"339043c1-d210-4af9-9be0-53310e8b0c53"
 		],
@@ -712,7 +697,6 @@
 	},
 	{
 		"prefix": "ak/5/1/b",
-		"lpib_vakinhoud_id": "6fcd1334-d01c-40f3-acbc-23eaf4d99650",
 		"doelniveau_id": [
 			"61362b91-f85e-4ed8-b86a-d2f7c4406392"
 		],
@@ -721,7 +705,6 @@
 	},
 	{
 		"prefix": "ak/6/1/1",
-		"lpib_vakinhoud_id": "13e7d89b-8dba-47c8-9e4b-ec1f9fa9858c",
 		"doelniveau_id": [
 			"6def399c-d777-487b-8b8c-ce157e8c0bd3"
 		],
@@ -730,7 +713,6 @@
 	},
 	{
 		"prefix": "ak/6/2/1",
-		"lpib_vakinhoud_id": "feaf5b74-57ef-4e31-92c6-751fce509b2a",
 		"doelniveau_id": [
 			"e1c6b2d3-4ca7-4feb-b660-a7990bd0c0c5"
 		],
@@ -739,7 +721,6 @@
 	},
 	{
 		"prefix": "ak/6/3/1",
-		"lpib_vakinhoud_id": "40f5d0a1-5bc9-47ad-a130-2d03610896cd",
 		"doelniveau_id": [
 			"98ef8e38-f870-497e-85da-f0791d35f586"
 		],
@@ -748,7 +729,6 @@
 	},
 	{
 		"prefix": "ak/7/4/1",
-		"lpib_vakinhoud_id": "c94bab41-ac3d-415b-9c10-616024f341f1",
 		"doelniveau_id": [
 			"fc0c13a2-e499-41eb-b469-d9cbf1282191"
 		],
@@ -757,7 +737,6 @@
 	},
 	{
 		"prefix": "ak/7/5/1",
-		"lpib_vakinhoud_id": "dee8bb7f-b539-4552-bdca-ce2040a2ae2c",
 		"doelniveau_id": [
 			"be2d865a-919a-46fe-8a08-70c7352dd610",
 			"f3fa4240-8873-4e13-b319-985ba03f680b"
@@ -767,7 +746,6 @@
 	},
 	{
 		"prefix": "ak/7/5/b",
-		"lpib_vakinhoud_id": "9ba485ab-9621-41f9-b48d-78b41d029dd8",
 		"doelniveau_id": [
 			"8da72a2e-8b72-4cd2-8c75-7102a54fe7eb"
 		],
@@ -776,7 +754,6 @@
 	},
 	{
 		"prefix": "ak/7/6/1",
-		"lpib_vakinhoud_id": "9621bb7d-488e-45ab-8c1a-11d808f2c4b8",
 		"doelniveau_id": [
 			"fe7b04ad-9544-4af5-8a4c-dd480dbe3190"
 		],
@@ -785,7 +762,6 @@
 	},
 	{
 		"prefix": "ak/7/6/2",
-		"lpib_vakinhoud_id": "a91132bd-ae7d-41a8-a436-89f67bcf1567",
 		"doelniveau_id": [
 			"69ffe73c-7e6b-4eb4-8e09-1d6cf77a4478",
 			"0bbc3ff7-d968-4afb-bed0-450f314c34a5"
@@ -795,7 +771,6 @@
 	},
 	{
 		"prefix": "ak/7/7/1",
-		"lpib_vakinhoud_id": "80fb2608-42b1-4b68-b61d-3b216add16f4",
 		"doelniveau_id": [
 			"82d86db8-e892-4c0c-864a-d9130b2d537b",
 			"b7874c3a-5da6-4f35-9380-6094cd3e958d"
@@ -805,7 +780,6 @@
 	},
 	{
 		"prefix": "ak/8/2/1",
-		"lpib_vakinhoud_id": "2c24ba60-8d24-4bfe-8648-f6e452905a05",
 		"doelniveau_id": [
 			"983cec83-c644-4392-bdfa-17a11cb29d6f"
 		],
@@ -814,7 +788,6 @@
 	},
 	{
 		"prefix": "ak/9/1/1",
-		"lpib_vakinhoud_id": "906a8b30-2b25-4094-87be-bb42645c9c73",
 		"doelniveau_id": [
 			"c2e0cf60-8d2a-41b9-ab29-d338e5b2a545"
 		],
@@ -823,7 +796,6 @@
 	},
 	{
 		"prefix": "ak/9/2/1",
-		"lpib_vakinhoud_id": "2353d79d-1be1-46df-8040-cca73361422a",
 		"doelniveau_id": [
 			"6aa5e238-5361-4ded-a761-e36a454db925"
 		],
@@ -832,7 +804,6 @@
 	},
 	{
 		"prefix": "ak/9/3/1",
-		"lpib_vakinhoud_id": "cde034e6-7254-4dcc-ba00-cdb574e59dc6",
 		"doelniveau_id": [
 			"c13225f5-c804-4e3c-b43d-e367002621c5"
 		],
@@ -841,7 +812,6 @@
 	},
 	{
 		"prefix": "ak/9/3/2",
-		"lpib_vakinhoud_id": "545ea41d-ea4e-46d1-a8dc-adb718c94a49",
 		"doelniveau_id": [
 			"91aca5b5-26a3-41f0-a5d5-4b6ea150a40c"
 		],
@@ -868,7 +838,6 @@
 	},
 	{
 		"prefix": "na/1/1/3",
-		"lpib_vakinhoud_id": "5f0a4519-f018-4109-904d-6bbd71c2f5a0",
 		"doelniveau_id": [
 			"8eeb9ae6-77fb-40c6-bab6-a6a43f91109b",
 			"08f14916-68dc-4417-adb5-c965b9cbbc05"
@@ -878,7 +847,6 @@
 	},
 	{
 		"prefix": "na/1/1/4",
-		"lpib_vakinhoud_id": "94bad0f4-6328-4a8e-8187-5e14749747dc",
 		"doelniveau_id": [
 			"6205b1b3-3b62-4bcc-8aaf-97c8a8d34bce",
 			"8239a9a3-2c47-4569-9c69-88004c9bb9fe"
@@ -11469,7 +11437,6 @@
 	},
 	{
 		"prefix": "gs/1/1/1",
-		"lpib_vakinhoud_id": "7d0e2ef6-d1ae-4785-bc58-a2aad8df353b",
 		"doelniveau_id": [
 			"70585f94-a050-4350-86be-84e7c4c35d55"
 		],
@@ -11478,7 +11445,6 @@
 	},
 	{
 		"prefix": "gs/1/2/1",
-		"lpib_vakinhoud_id": "7cdd7348-43df-42cc-9c0c-cdb58ae23e9f",
 		"doelniveau_id": [
 			"9c83f8be-d763-4f37-bbcf-3454c11ce003"
 		],
@@ -11487,7 +11453,6 @@
 	},
 	{
 		"prefix": "gs/1/2/2",
-		"lpib_vakinhoud_id": "c6011669-9a41-4178-aa19-507dbb4ee7d3",
 		"doelniveau_id": [
 			"063586d4-1618-44dc-bc2c-c616715065f2"
 		],
@@ -11496,7 +11461,6 @@
 	},
 	{
 		"prefix": "gs/2/2/1",
-		"lpib_vakinhoud_id": "0d3bb822-e2f9-4748-8ef2-f0133753665a",
 		"doelniveau_id": [
 			"6a55eeb9-a4fe-4b1e-97ae-9aec9b9dca3f"
 		],
@@ -11505,7 +11469,6 @@
 	},
 	{
 		"prefix": "gs/2/2/2",
-		"lpib_vakinhoud_id": "09a6c037-decd-40ec-911d-70eca1ef0ddc",
 		"doelniveau_id": [
 			"8ac14016-128b-4fa0-b68f-c76de4b890aa"
 		],
@@ -11514,7 +11477,6 @@
 	},
 	{
 		"prefix": "gs/2/3/1",
-		"lpib_vakinhoud_id": "f9071c25-0a34-4662-b356-713c88fdcad1",
 		"doelniveau_id": [
 			"d9122e95-3961-4a51-9ea6-dd8ba34e868b"
 		],
@@ -11523,7 +11485,6 @@
 	},
 	{
 		"prefix": "gs/3/1/1",
-		"lpib_vakinhoud_id": "fd09a1d4-087d-4166-a0a0-0f9e9589f1f7",
 		"doelniveau_id": [
 			"8144e411-9446-4c8e-a3de-94ee42354ec1"
 		],
@@ -11532,7 +11493,6 @@
 	},
 	{
 		"prefix": "gs/3/2/1",
-		"lpib_vakinhoud_id": "5d48995f-9597-41d0-a99a-aa6dcd835a4b",
 		"doelniveau_id": [
 			"2fcd1466-dc3d-4620-b736-7e1dfd8e7043"
 		],
@@ -11541,7 +11501,6 @@
 	},
 	{
 		"prefix": "gs/4/2/1",
-		"lpib_vakinhoud_id": "d92443b0-eb07-4d3f-ba22-6851cff0ad9e",
 		"doelniveau_id": [
 			"68e611ac-6a13-4b90-9df7-35f2ee73d995"
 		],
@@ -11550,7 +11509,6 @@
 	},
 	{
 		"prefix": "gs/4/3/1",
-		"lpib_vakinhoud_id": "b92e168b-75ca-47e5-b4fb-066120f1b9ee",
 		"doelniveau_id": [
 			"f082a709-24d5-47e0-a1d3-c4199b729cb4"
 		],
@@ -11559,7 +11517,6 @@
 	},
 	{
 		"prefix": "gs/4/3/2",
-		"lpib_vakinhoud_id": "9db7f35f-00d4-4afb-b150-be48c2aadb37",
 		"doelniveau_id": [
 			"06bf5c2e-8a2a-48df-8412-8d93ca3f46a9"
 		],
@@ -11568,7 +11525,6 @@
 	},
 	{
 		"prefix": "gs/5/2/1",
-		"lpib_vakinhoud_id": "81f2523e-2db7-44db-a9d0-6c7249eaccd4",
 		"doelniveau_id": [
 			"e30ec559-cdd4-4123-bcf8-582437084e1c"
 		],
@@ -11577,7 +11533,6 @@
 	},
 	{
 		"prefix": "gs/5/3/1",
-		"lpib_vakinhoud_id": "ddf70966-0e26-489e-b6f5-46ba2c36ef1c",
 		"doelniveau_id": [
 			"83b4d670-ca74-4b52-b12a-493ab46170b2"
 		],
@@ -11586,7 +11541,6 @@
 	},
 	{
 		"prefix": "gs/5/3/2",
-		"lpib_vakinhoud_id": "70a40774-415d-4a82-aed8-7998c75faad1",
 		"doelniveau_id": [
 			"b45e4ad2-dbd4-420d-841d-d83d68b47704"
 		],
@@ -11595,7 +11549,6 @@
 	},
 	{
 		"prefix": "gs/5/3/3",
-		"lpib_vakinhoud_id": "25507253-5070-479f-8b20-76b942a592ad",
 		"doelniveau_id": [
 			"41007119-f361-42e4-ad67-272b45c9676d"
 		],
@@ -11604,7 +11557,6 @@
 	},
 	{
 		"prefix": "gs/6/1/1",
-		"lpib_vakinhoud_id": "ce0df331-c5e1-47c6-9cfb-9528e4357e3c",
 		"doelniveau_id": [
 			"2a4fbffc-2299-4be7-8a93-e0fedadb83f4"
 		],
@@ -11613,7 +11565,6 @@
 	},
 	{
 		"prefix": "gs/6/2/1",
-		"lpib_vakinhoud_id": "94c92b4c-cf4e-4602-8439-6a788ed217f2",
 		"doelniveau_id": [
 			"1d54f3cd-4ed5-4316-a7d0-9de8662b384d"
 		],
@@ -11622,7 +11573,6 @@
 	},
 	{
 		"prefix": "gs/6/2/2",
-		"lpib_vakinhoud_id": "f9f6d83f-5773-4d1a-a2d1-c0d01068c37e",
 		"doelniveau_id": [
 			"5c31a50b-358b-49dc-a0ea-9fc7a7e116c8"
 		],
@@ -11631,7 +11581,6 @@
 	},
 	{
 		"prefix": "gs/7/3/1",
-		"lpib_vakinhoud_id": "0a0c7b22-b20e-434c-b300-2ede8d717b88",
 		"doelniveau_id": [
 			"4d5aa771-0bc9-42df-b50f-30544cb063ad"
 		],
@@ -11640,7 +11589,6 @@
 	},
 	{
 		"prefix": "gs/7/2/1",
-		"lpib_vakinhoud_id": "055d0cbd-5f60-4773-837b-abc2b80d8ab5",
 		"doelniveau_id": [
 			"16436072-52d6-40f6-9c9f-262ab8f97800"
 		],
@@ -11649,7 +11597,6 @@
 	},
 	{
 		"prefix": "gs/7/2/2",
-		"lpib_vakinhoud_id": "1f130de6-54f8-4f01-9b05-f595e2c9e896",
 		"doelniveau_id": [
 			"8388856b-fa27-4c96-8973-e5592731b583"
 		],
@@ -11658,7 +11605,6 @@
 	},
 	{
 		"prefix": "gs/8/1/1",
-		"lpib_vakinhoud_id": "a85c8fb7-df62-4033-b1e1-ee399b4b3657",
 		"doelniveau_id": [
 			"5d76e70e-6791-4654-b223-cac325510e64"
 		],
@@ -11667,7 +11613,6 @@
 	},
 	{
 		"prefix": "gs/8/1/2",
-		"lpib_vakinhoud_id": "dcd3b6bc-2ef4-42ab-927d-8a7e0b61800e",
 		"doelniveau_id": [
 			"282315dd-d40e-41d3-8e95-7c8950463d72"
 		],
@@ -11676,7 +11621,6 @@
 	},
 	{
 		"prefix": "gs/8/1/3",
-		"lpib_vakinhoud_id": "fcf094cb-9a99-4982-873c-d150df6da2a2",
 		"doelniveau_id": [
 			"f0f10303-6511-46c3-b6ba-e9fb3da2cc26"
 		],
@@ -11685,7 +11629,6 @@
 	},
 	{
 		"prefix": "gs/8/2/1",
-		"lpib_vakinhoud_id": "9080973c-b399-4379-b657-c9be44915a70",
 		"doelniveau_id": [
 			"ee0a2919-9fe0-42cf-a1d7-87068b321a8c"
 		],
@@ -11694,7 +11637,6 @@
 	},
 	{
 		"prefix": "gs/8/2/2",
-		"lpib_vakinhoud_id": "599da982-6531-406c-b048-ac814cbac4b0",
 		"doelniveau_id": [
 			"7a00d4b7-ac20-446d-8d11-c25cd16b7a8a"
 		],
@@ -11703,7 +11645,6 @@
 	},
 	{
 		"prefix": "gs/9/3/1/",
-		"lpib_vakinhoud_id": "9250e759-ad20-45e8-9f35-a5829f90c0f5",
 		"doelniveau_id": [
 			"e8549b7a-4681-4352-af82-007f329b4db4"
 		],
@@ -11712,7 +11653,6 @@
 	},
 	{
 		"prefix": "gs/9/4/1",
-		"lpib_vakinhoud_id": "4ff274fe-8849-47e6-876b-ebb53eee7574",
 		"doelniveau_id": [
 			"a2ae25a5-f5ef-4cea-aad9-c3da178ca13b"
 		],
@@ -11721,7 +11661,6 @@
 	},
 	{
 		"prefix": "gs/9/4/2/",
-		"lpib_vakinhoud_id": "384ca573-9757-4e3a-bd35-9a96c6c2a36c",
 		"doelniveau_id": [
 			"f6e9691a-4a26-4804-aeac-af29b47d7bf7"
 		],
@@ -11730,7 +11669,6 @@
 	},
 	{
 		"prefix": "gs/9/4/3",
-		"lpib_vakinhoud_id": "d114fdab-9daa-4e75-8abc-2cdd500fe21d",
 		"doelniveau_id": [
 			"f8ff9922-4a5a-40f0-a550-cba096ca2e1b"
 		],
@@ -11739,7 +11677,6 @@
 	},
 	{
 		"prefix": "gs/10/2/1",
-		"lpib_vakinhoud_id": "3fdcba94-c011-4638-b66e-abb9cb0088c0",
 		"doelniveau_id": [
 			"38927e0d-22b2-429d-9877-665ca45f1513"
 		],
@@ -11748,7 +11685,6 @@
 	},
 	{
 		"prefix": "gs/10/4/1",
-		"lpib_vakinhoud_id": "327d2686-486c-4dfa-9959-55e360ddd9bf",
 		"doelniveau_id": [
 			"b7b585d2-9e73-41b5-9fbf-86c84f8deada"
 		],
@@ -11757,7 +11693,6 @@
 	},
 	{
 		"prefix": "gs/10/4/2",
-		"lpib_vakinhoud_id": "49ac549f-b7f7-41e8-9a26-aa615766b8fd",
 		"doelniveau_id": [
 			"415ba4b2-67b7-4fdb-9b36-ea641ddaf1b1"
 		],
@@ -11766,7 +11701,6 @@
 	},
 	{
 		"prefix": "gs/10/4/3",
-		"lpib_vakinhoud_id": "efefbb25-45a6-48c3-8a7b-f36657d9e561",
 		"doelniveau_id": [
 			"753e8cef-fb6b-44a3-9f40-dd43f0d81c98"
 		],
@@ -11775,7 +11709,6 @@
 	},
 	{
 		"prefix": "gs/10/4/4",
-		"lpib_vakinhoud_id": "f7cf4376-e540-4085-80a0-1ecb0d518679",
 		"doelniveau_id": [
 			"d5545cb1-8d9a-416f-8778-70bd4a7eb8f9"
 		],
@@ -15296,5 +15229,446 @@
 		],
 		"title": "Interpunctie en het gebruik van hoofdletters",
 		"id": "ff441516-7742-4b11-9e64-cf48eb3dd7ac"
+	},
+	{
+		"prefix": "DG/IDG/CT/IT1",
+		"doelniveau_id": [
+			"dde9f84b-ab4e-494e-8db6-e203e10b9bbd",
+			"753a9384-468b-479a-8aac-951bc151cc0f",
+			"854968c0-abe2-469a-8daf-d2bcecf5fad0",
+			"ca705109-af4c-488e-8a71-01224ed0358b",
+			"ad95d57f-9bf5-4539-bcc5-eab8354d5a1b",
+			"7f6e0c9c-6256-49b6-8144-dc6ad5413c36",
+			"98fdae90-60d3-4516-9f81-9d292585a7ad",
+			"d501ba6e-1233-4b4a-8c70-c302174531c3",
+			"606beb71-15c7-4838-9d7c-6f47048552fd",
+			"9c8f6874-de33-4966-9113-c6dad9ec0cd0",
+			"d2d59fe3-da99-44de-8039-11dd66efb6b0",
+			"25ce577f-a1f4-489f-bde9-d65ee53a79b3",
+			"db7e4480-2b2e-4e26-8e09-e40196b8076c",
+			"253a657f-5a1a-463e-a95b-de95d31f7442",
+			"2e13f040-4793-46a1-882c-82e5df1540ab",
+			"516f1ce6-b22e-4114-bda2-8fcc39146bc4",
+			"7cbfe1b6-7757-43c9-8a05-bcfa8c79bcf5",
+			"221a1a1e-98d8-46a7-833d-0c58d6b4d8c9",
+			"6b10bfad-6ac2-4551-8f12-3a9bb97ad596",
+			"6459c7bf-69fa-421d-88d7-1e66f3251e82",
+			"5d82cbca-c639-4dab-be54-733e960e85de",
+			"0ee4bae7-5582-4f13-a9c3-eb4000985353",
+			"58e6be3f-c758-420f-94bb-ac9af8a9b769",
+			"fa4d0d0e-05af-47e5-a926-9adf7656bc01",
+			"8b25f91b-e314-4e6b-bc07-71ee585dcf29",
+			"6c3ceef1-0405-415a-9baf-7f662de8ac2a",
+			"31160054-313f-44e6-80f8-51f280651ad4",
+			"01a6bb26-2d38-48e4-bc05-da1ca882a5ac"
+		],
+		"title": "Kennis hebben en begrijpen van digitale technologie",
+		"id": "04536128-5874-483f-8c49-0fb167d7fd3d"
+	},
+	{
+		"prefix": "DG/IDG/CT/IT2",
+		"doelniveau_id": [
+			"cc160cd6-1060-4872-9c88-a1ca245a0aaa",
+			"8c0a8b26-3ec9-4413-917f-98fd9b14fca3",
+			"2a7159cb-baeb-4bb5-b660-c505a798abe3",
+			"37a1a17d-89c1-475a-a45e-56758a6992ea",
+			"b58444c5-080e-472b-9763-6b651d123b40",
+			"ed2b8fd3-e302-48e2-b93c-6b0d9a41ce4c",
+			"3d8528a6-0c89-416c-8ce0-fa8c3a57727d",
+			"bf59402e-96b1-4598-870a-d6b5c4d2ac4f",
+			"568226d1-432f-4b3f-9ba9-b6030ffd5dbb",
+			"d9424cd4-79b5-49d3-856a-730537f853cd",
+			"17dfc643-1e80-4481-8d65-de64b6d9633e",
+			"0ed5c8dd-9bbb-4c2e-a15d-214325e8b37f",
+			"c1602b5c-6fc9-4d94-bf85-b757f4afcf39",
+			"a19c9f3e-f4fc-437d-825a-c762f90e2d63",
+			"5bdc3b2c-90a9-4987-af99-863c4c42cc9d",
+			"b9adc77d-f358-4899-beff-7c1b549a84a8",
+			"8834b3f7-accd-4189-bae4-ec63ed981c9c",
+			"73b46ec6-e701-42a9-84ed-87cde9629c10",
+			"02f7545c-1da1-46c2-a64e-218d1fc0aa40",
+			"53d446e4-4e68-4d83-baca-bc7a819cf8b9",
+			"f0ae31bb-9ad3-4fcf-bf4f-0eab5e96f64b",
+			"25685df2-9512-4ff3-a168-8f516d5c44a0",
+			"e768fee8-f97c-4034-8560-00be7f6ff935",
+			"9499b041-a40d-4da6-89ed-0063db90cea8",
+			"d2d59622-d6ce-4ae1-8312-2b82521e794a",
+			"7baa92f5-e077-4d4f-b51b-be2092c43626",
+			"b6fac15d-0e37-48fc-ba85-577c271b7413",
+			"0e1969e8-00e2-47fb-9c4e-6c5d4ef47481",
+			"1f02c3d3-c9ed-43b6-bd48-695b6bd2c5d8",
+			"35080f99-6d6e-4877-9a8a-17e382c068d5",
+			"93d8957f-bf0d-4475-a142-6c3ad6ef0aa4",
+			"ae813f49-5970-40c1-a55e-329aac63e68d",
+			"936115de-714c-4c6b-a853-1661cf20ee6d",
+			"ebaf16f9-f729-426f-aa7d-26030602386f",
+			"bb179cb1-a7b6-458d-b7c5-64e77fac9655",
+			"935c34fb-bf8a-4bf1-8da6-c84ca288f2ec",
+			"9ea25bef-8d8d-41c5-81f8-876a43862a8e",
+			"9cd7c22a-a20e-44f5-9683-27749a28c2a6",
+			"d9196399-7f2f-4880-b5c0-ea238c238665",
+			"2cd63050-eda5-4dc3-8e49-2934b108ccaf",
+			"3f281c84-1b9a-4326-ae95-7975390ee74f",
+			"7f4b6285-90c5-4202-a472-dfb5090ddf33",
+			"a1dbad56-efd8-4512-ac5c-1b329524336a",
+			"64a0336a-c98e-4964-859c-112c1bc80545"
+		],
+		"title": "Digitale apparaten en besturingssystemen (platforms) gebruiken en software/apps beheren",
+		"id": "538a51c2-91d1-4ce5-bd24-cc5939f40ea0"
+	},
+	{
+		"prefix": "DG/IDG/CT/ST1",
+		"doelniveau_id": [
+			"fd238b97-3a7a-41cf-89d3-92fcde8b1edc",
+			"bcbd85fe-e85a-4156-8f08-8c8f6931f36d",
+			"c5dabb80-d931-4d01-84d4-4aa3f20eb2db",
+			"e69d808b-44a2-4e72-896d-567dfa8b1df2",
+			"fae73072-f8f7-437c-9175-cec655670110",
+			"44e6c2f4-5fdb-4e4b-a8f7-e36bd31b3ec9",
+			"8845d966-80d2-4def-812a-98893380ca7f",
+			"2f72f0e1-bbd5-4c43-8cc1-79246b9918d2",
+			"26a16a65-cab0-44d2-86dc-67d40a197483",
+			"aa940d02-5934-45ad-a913-333b675cf239",
+			"09ade6a9-984f-4a5c-809e-809531ba72d1",
+			"def7deab-5a74-4b57-9a0e-2bd1be70b0d9",
+			"7029d2b0-a466-4c3b-9a11-9846fae08b00",
+			"98c67d0a-fd60-4974-94f8-4e14b6dc4e3b",
+			"7e864910-66ed-4c98-8b6a-a38dbb293fc8",
+			"7ab69678-acc0-49e6-b865-1362eadc92f1",
+			"25376d01-6225-4b41-826c-8501dd57afae",
+			"c09e14cf-f19a-4919-bac9-274b517fb7fa",
+			"8c858077-afd4-4cda-9af2-3ea0fee18685",
+			"ce94f842-3c0c-44d9-9a1d-ec362058f0ff",
+			"ef2e8bbe-5ed5-4dee-8d13-38d6e6007a4b"
+		],
+		"title": "Kantoortoepassingen voor tekstverwerking, presentatie en spreadsheet functioneel gebruiken",
+		"id": "8f01452d-7921-452b-a28f-aab716b55017"
+	},
+	{
+		"prefix": "DG/IDG/CT/ST2",
+		"doelniveau_id": [
+			"1e915d12-6a82-4f6c-94ba-4514c8f9679c",
+			"4c19562e-70bc-4b8a-8617-2427f5a0f3d7",
+			"cceda316-6a4a-48f4-b6e5-f73979a64cf1",
+			"cac4f5ad-6589-4bee-92a7-afeaf3477cfd",
+			"f25eab6e-5659-4a38-8a7b-58d3cc292677",
+			"8a3267c6-12df-4138-b6fe-68c5630ce6cc",
+			"6c30c53f-e552-4281-a544-ffec6d9788db",
+			"48454293-621d-43f9-9e79-ed859aec1f31",
+			"5e9c919b-059a-45a8-84e0-99510632b4fa",
+			"c150f1cb-1326-4f38-8870-0cb70769760c",
+			"c6c273d8-6b3a-41e1-8821-a09d925e4e35",
+			"dfb648c7-9f3e-41bd-bbe6-6a27c9a7337e"
+		],
+		"title": "Communicatieprogramma's, apps en een internetbrowser functioneel gebruiken",
+		"id": "7cd229db-7447-4d04-8267-cc5eaed35a8d"
+	},
+	{
+		"prefix": "DG/IDG/CT/V1",
+		"doelniveau_id": [
+			"6a88366c-310e-470a-8f99-39a133e73932",
+			"008e4993-f1bf-4759-9efa-d2c57e071f23",
+			"5e8fac49-a2bb-41bb-928a-1efbcff736a7",
+			"f594c826-45a3-4d23-b110-1e1d2e1549a9",
+			"3b66c3a9-79c1-4fbc-9fbc-273a72e5393f",
+			"dc06146b-c327-49b5-b206-c9870a623c37",
+			"fad1924d-c18e-441a-a635-c4a41b3866b3",
+			"6a9cc422-2b53-4204-92f1-f48f13c93e02",
+			"544dc327-76ce-401e-9b80-b214572807b9",
+			"e5d5b5cf-4cec-4950-903a-6ab759be5fcb",
+			"7712f447-5741-4b27-b85b-eabcaac59e4e",
+			"3a9b0b6f-e483-46d3-95c2-6d960404e447",
+			"a42cb483-5280-4fed-97cd-0cc5ed5bd1de",
+			"edfc386d-d37f-4b5a-ac37-35e12f61bf2c",
+			"cc94dfab-d78a-48ec-8f16-c0402d64caba",
+			"ae4474ad-681b-43a3-b66d-cc9574ba420c",
+			"cf4f357e-c6c1-4a91-94d0-0ee5676bf3c7",
+			"51a16b8a-1aa5-4bc0-89d5-23ae17eb05e5",
+			"4ba3e2ee-4aa8-442e-a66f-7f13d1925855",
+			"031fc1c7-1f06-499d-b340-2103fdf98960",
+			"a9936cb7-74da-42ed-8d1d-26fc52ddacb8",
+			"b28fff9d-5195-428d-814f-8b90f1c1f4e5",
+			"1a7953f8-d340-4374-931d-cd253017e0c9",
+			"b8af3530-98db-4b35-bfb9-5b9a0bcc4faa"
+		],
+		"title": "Veilig omgaan met computers en met programmatuur voor internet zoals email, tekenen, tekstverwerken en opnemen/bewerken van audio en video",
+		"id": "0ec4d8bb-1f3f-4a50-98d1-8127f8b3e48b"
+	},
+	{
+		"prefix": "DG/IDG/CT/CPM1",
+		"doelniveau_id": [
+			"2e6760a7-d074-4565-acbc-7bf47ca3ca7f",
+			"60c53e05-9960-4936-a32c-8d62c1764134",
+			"c95d43b2-b136-42de-aaa4-bb5951d095af",
+			"9bccabbb-1813-4198-aa32-af16af350659",
+			"c508312d-8403-41b6-823d-2b5a409b524c",
+			"f72de2ed-8625-4e62-953d-b125fafe1c3a",
+			"7a79d8a2-c886-45fc-9e76-7911756e33d7",
+			"186617ca-5cec-4e33-8fe3-a77ea682d01e",
+			"501a7548-8b9d-4f93-b420-16810a5c4b17",
+			"b6db624d-225b-47cb-8c9c-26a094362a21",
+			"b5a2f4db-942f-4630-ab1c-dede6596cadc",
+			"43e3f7a3-27a8-4e6c-830f-a52e1814164e",
+			"84fce922-6a5e-4d59-89fb-c1bf54fd1c4c",
+			"e3677902-6e83-4df9-ac87-146d02212015",
+			"0ea30dff-629c-4edb-b074-5c1c74965bfd",
+			"99cafaad-a70d-4e83-82ab-c5cf1fb93ac3",
+			"8a65bec9-38a4-4616-b67a-2584b07271ee",
+			"5b8aaa71-3094-4f87-be68-22c9a9363d1a",
+			"a0664083-ce89-407e-aa3c-5de8dd918778",
+			"5ef48ebf-4b2c-43e2-a006-7d6d4c20eaa9",
+			"48ee9ee0-53b1-4ce0-a8b4-6d34f4beafae",
+			"42ff973b-df94-41fa-82d6-3aa085ef5798",
+			"6150e908-0ac6-4895-8433-411f0d1f1f0c",
+			"a06b1ac3-d4f8-4ea5-a1cd-ded6354b73e9",
+			"a5b4356d-658b-4936-ae7c-986c228b04cb",
+			"af665bf0-7c08-4805-b67b-7b0e97c88a40",
+			"631e517f-a7df-4aec-a2d7-2162bb22bbd3",
+			"af533566-fae0-4fc8-9d2b-646074d4dc92",
+			"8f7c18b5-c848-4643-a349-7d07af2a1913",
+			"90dd7bdc-72f8-4ef6-b54a-f570ec63d570",
+			"6db88136-6965-49f2-a692-19f7aacbf0d0",
+			"6d836b91-f824-403d-aac5-913977d8ca3f",
+			"d81562ea-bdc5-460b-9766-e0ca01d39354",
+			"da285ebf-6f0b-4a5c-bd55-885d7de56ebf",
+			"09f64ee6-b15a-4a01-b750-1bbc27ac44ae",
+			"24325600-8ab2-49eb-987b-5827add3b41a",
+			"c1af7fdd-5360-4bee-a11c-ad2387e2098e",
+			"d5b31147-e3d3-4f38-b423-ed852ff7ed2a",
+			"5f8cb980-c217-424b-a3d0-5e9add56a4bf",
+			"9462ba6f-6f48-4ce7-81f5-cc48a32a8cfe",
+			"ad95fe60-1db8-4990-8ad8-4895c6b0a366",
+			"6f4037c4-0c7e-4ea4-8fcc-3567430008e2",
+			"f125e37d-7c20-4da1-ad86-a4ca6715d9d8",
+			"620367a3-a8a8-402f-884a-b9a8307d591f",
+			"529b911e-2d5e-4217-95e7-67e35393f25d",
+			"bd395e60-ed39-45cb-b616-36f01bc9e7b6",
+			"5a87cfeb-866b-4c9e-b4a9-ddef5f6725de",
+			"56f09f1a-2e64-48d3-a170-cad9afc2e55d",
+			"1738f38f-ac4b-4904-b398-25b23fa6a491",
+			"5a10d4bb-324c-4133-9c76-f2a6cc52d3f3",
+			"5a675cf8-5d6c-4a25-9972-bfd1660da647",
+			"9fd3d959-1c91-4990-8126-498939deef05"
+		],
+		"title": "Diverse vormen van 'content' creëren door functioneel en creatief gebruik van standaardtoepassing(en) en audiovisuele communicatiemiddelen",
+		"id": "d115ff02-4994-4d66-966a-716f587ac74e"
+	},
+	{
+		"prefix": "DG/IDG/CT/CPM2",
+		"doelniveau_id": [
+			"579a4ea7-33c2-49bb-884f-6ff8995ee60f",
+			"8c2f8c31-3f17-46a1-9661-0e7b15db7550",
+			"68df679f-50dc-49e7-8844-143cbaed5706",
+			"73aecc03-7e57-4fba-a4e5-224b4f914e56",
+			"7cb165a3-6cdf-4743-af6f-b9774dbb2e92",
+			"c5b20487-515f-42bd-ac8d-94ac8e1d65d6",
+			"3a8f89e7-f6c0-4a4a-98b4-6dc10811920f",
+			"e3e61abf-dad7-425d-a91a-6ef667f32418",
+			"5b6aa5c3-f935-4f27-84c7-9806cbaa1d44",
+			"378c4859-8361-42dc-aff1-60323208ecf7",
+			"b582399f-b58a-4132-b3e2-e6f46889b772"
+		],
+		"title": "Verschillende media gebruiken voor de publicatie van 'content'",
+		"id": "6456316e-3d3d-4aab-92b4-f1eca34e9816"
+	},
+	{
+		"prefix": "DG/MEDIA/MvdS1",
+		"doelniveau_id": [
+			"2541b9f0-8f28-4f54-bcfb-523a4ea78ec9",
+			"c5990311-7b2c-4de5-b1ca-ca8c43a00b48",
+			"953b030e-8faa-4801-8b5f-66aa7e7c9694",
+			"107cfd36-7477-4918-9fdc-3861abbec72c",
+			"6baa3678-3b85-40c9-a94a-9fa5764d89d7",
+			"7dc6e44c-fb79-4566-8ca3-5cac3f7b1255",
+			"b48615a3-c538-4c94-8396-62566de82ff5",
+			"692ffd43-5324-4b9f-a35c-7aad45839590",
+			"3b373ea0-a07e-4160-b7d1-4d3bc1b94dbb",
+			"7d5affbe-92d1-47cc-937c-b85b94cb1d5d",
+			"098e4c02-cfa1-4ab8-9c75-f534664862bf",
+			"0c8bc70d-860c-4af1-b1f5-9b641f92df9a",
+			"530dc357-fad9-4130-b8b4-e67b326ae952",
+			"fc702b57-f9a0-4979-8c73-7aa87be0a9ec",
+			"4c6bfae2-9c89-42c0-9bd0-720f17579144",
+			"ea69b9be-687d-404e-bb2b-1b0d80622103",
+			"2a695e9b-b514-46c2-b439-b2e38917c7e5",
+			"67f2ec35-531b-4379-b2e2-0c5537c43537",
+			"84ec1020-41a4-4037-866b-edb4c9ebe067",
+			"413dd573-8ea9-4ed3-889b-a50426cab9c4",
+			"84d00982-8f07-4281-a2ea-28329d7eeefd",
+			"2602e8dc-5154-4409-9c41-263b3f3b5ead",
+			"69c19022-90cc-4cc7-85f8-b3875163eb5c",
+			"0dea489b-5271-456e-8801-b171971791d4",
+			"842026e7-529a-4c1a-ba4a-a8e01a4210f7",
+			"8f1a6050-0ff0-48a0-aad3-f42586cf7546",
+			"a7846830-a1ef-44a6-a3d9-5807de44a9ce",
+			"d1c74c21-15cd-4d65-846f-30c6d6a92d48",
+			"e79a81fd-d6ed-435e-8aa7-6c464e83e3bf",
+			"7837a845-7b65-4647-8299-15c3738f573d"
+		],
+		"title": "Bewust zijn van de medialisering van de samenleving",
+		"id": "3dfe5500-ae7a-414e-b92f-b69229c817c8"
+	},
+	{
+		"prefix": "DG/MEDIA/M&B1",
+		"doelniveau_id": [
+			"a29440af-9630-47d9-81ea-ba567d945fb1",
+			"d7fb040c-0d50-49bb-9001-ee7f68cf2470",
+			"dc5dffe1-8181-4451-ac96-dca6492d7853",
+			"dfbf731a-d93b-41a5-b0fa-a1e7b6a30999",
+			"b3ad09a7-9da7-4bf0-8892-c9131fd1f86c",
+			"db05a392-5d94-41d0-8826-57063cf1fc48",
+			"a26cfd1f-28a9-41c3-88a2-d6983d3176c5",
+			"6a70c368-3b46-43b0-af65-3a4f5e5458d0",
+			"8fbea5d8-92f7-4fc1-b680-3302e415b683",
+			"659dc75f-92fa-4595-9461-8e60025edaf4",
+			"3272168d-835b-4ab8-a5ba-f5274bc5613a",
+			"bfc178c2-c0c9-4418-97ae-d091d2a8aae0",
+			"651b9dc3-9fe8-496c-afee-c3f848795530",
+			"114b3e40-f5d1-418a-a8c2-aebef6bc284f",
+			"4baa18d4-0913-4a1f-83df-3d6a62629344",
+			"d4889744-bf04-4c5f-9ff1-c1d4273cc498",
+			"fa3777b1-2c63-4cbf-b0d0-fa56bc207bb7",
+			"0df849e7-bab4-4c0d-8e7e-5fcd66355f73",
+			"f4273f44-5e0d-4e98-9111-c7145f8469a3",
+			"0a79ee32-d935-417d-a1fa-295f2f009935",
+			"6b36765f-21eb-46fa-be7a-0dfa9c80504e",
+			"84d32576-36d8-4d23-8fb7-9bd281d35a31",
+			"fc05861d-7751-4c97-846a-d1e89b101132",
+			"1b966cd7-e4f1-4917-8a45-3b45ff01d6ad",
+			"6a44e8dd-8a32-4935-93fe-26c13459aabe",
+			"9ef0e230-0e97-4309-976c-745267eee768",
+			"7435cd80-b012-47b0-a367-04e16cd07e67",
+			"fec13279-cc54-4378-a921-e5b53cdba053",
+			"5c3635c8-0757-4f18-b6bf-2b4bd15fd5bb",
+			"c4368092-912d-43e1-88ce-16774432b9b4",
+			"3460aed9-a3fc-4f3c-8cbc-04c3302e96e7",
+			"910553ec-7344-4e32-9bbf-dd33c1220d61",
+			"0c428454-959a-497f-9fba-6444f5c4ff41",
+			"23370794-f34e-49ac-b565-aba2e9b2427a",
+			"c51e35ba-80da-4580-aa8c-376f5e3b4b40",
+			"bfdeee70-afe9-44e7-aa3c-9782244f98f7",
+			"c5c5b797-8712-4a23-a7bc-fba7612cd9b4",
+			"7cb318ad-451a-473b-94ea-4bbc366f451c",
+			"f6b439db-d721-422c-9123-6b7f72dccc6a",
+			"35be1e0f-de90-4a0a-8e33-f8829f42c0c7",
+			"0d6ea443-36d7-461f-a4d8-bb6e62bd54df",
+			"f4713a89-9a65-439b-888d-19f6428537cc",
+			"bd85a5e4-500c-4300-a16b-877491a5dabc",
+			"64ba20fa-64ae-4374-a039-845eedc79adc",
+			"1ad5050f-16e0-4cd8-9ec2-a4d835f9d19a",
+			"0a2f17c7-4d88-407b-9a3b-3e11fbf2ed17",
+			"17b14b8d-a310-44cb-8ccf-7cc0841a5c49",
+			"dcdd7a67-0a13-46ab-b21b-531531afb426",
+			"30ed96ab-424f-4e2c-9ece-cfc8014d2664",
+			"5671b707-19de-446f-88b2-902c1873bfcf",
+			"938486aa-1150-4c6d-9317-d80eaa8757b6",
+			"5c79fa16-614c-4690-8237-ce6777346bcc",
+			"7210fb92-3801-4dc2-988b-2ffc9f5104f1",
+			"41fbb9ad-8cb2-481a-93c1-fc5e76306e7f",
+			"3889afbd-1ba0-4acf-b9c4-0a2e0faad9e6",
+			"cdac3bae-3329-4dd1-b366-b226713a41cf",
+			"af1f0b3e-29da-4ae5-b514-75c1e39a8393",
+			"eb89af4e-b548-4087-a5b2-999b916aa654"
+		],
+		"title": "Kennis hebben van verschillende functies van media",
+		"id": "a4c0a79e-c830-4cee-887e-8d54684e84e1"
+	},
+	{
+		"prefix": "DG/MEDIA/M&B2",
+		"doelniveau_id": [
+			"b394f796-f813-443e-8d3b-3b4e28df21e4",
+			"aad90c7f-8935-435f-a2d4-ba510636290d",
+			"237918cd-7b86-44fd-87e5-739320dfa7fe",
+			"cfd2680a-53da-4add-940d-6c7df54fd55a",
+			"dcc4b349-6d05-44a5-a4c1-573e0c4fbc1d",
+			"10f0b22b-0e97-43b1-84d4-d3b80759778a",
+			"61933082-931c-4e41-a077-9373c36f90d3",
+			"91e4a4e8-c807-4fdf-bd0d-65e95f0ce419",
+			"1d397c7e-70b8-495f-a8fc-86551feb8f85",
+			"c2313f31-6c20-4682-af3e-3ca4b15918fe",
+			"85cfb598-229c-4f77-92aa-0fe6bcc6c1cf",
+			"64e8a61b-ccca-47b2-be48-91b6c9307760",
+			"9f1c4499-7b16-43c4-8d42-653b81b1563f",
+			"d90d93e8-49b0-4ff3-b143-57c3a0e82160",
+			"b5db9d79-b7d3-4fc2-af5e-24ac71ec9b9c",
+			"d08c15cb-b3e4-490e-a5e7-ba771ea7c7f6",
+			"b9bf9e5d-9d3a-4be5-beb1-0f076c79f954",
+			"545ac179-2b08-4338-a8e9-00b5631f333c",
+			"c9b5ae6d-a274-4e00-b3fe-fc341cf170ba",
+			"544f9724-c9f2-4cfa-b97b-0c62adc281ce",
+			"38d1a030-43ad-4a5f-b15d-a7d7a20e2dd9",
+			"51f119a6-18f1-4bf3-90f5-34fd09e3828a",
+			"2ca69061-8ee2-43ac-98d7-e10115073b27",
+			"5fc86c09-f6f6-4a55-9286-051599cfaa8c",
+			"272a108a-d2e3-4fef-b0e9-d19d50170cda",
+			"0c37b3c1-bce9-49c5-beaa-2c7bbd3a53e0",
+			"4c9b413d-cc01-423b-b23c-403f42314da5",
+			"c28a7bfb-ab88-440b-a4be-90828e4222ce",
+			"df662023-9d64-45a3-a82c-c1945564f81d",
+			"89a0e3cd-63bb-4961-b6bc-03f78fba52d1",
+			"480c4102-33c2-4fca-801b-a328615c9ffb",
+			"54dc8485-1e41-40f1-b1f3-58ace9e0fd29",
+			"d065d36d-7ece-407b-a25c-9327199b5fd0",
+			"60fea2c7-7079-41af-8a4f-2aad1d78420c",
+			"22131a30-22cb-4bad-8ec5-6f1a93ee8dfe",
+			"4fb840c3-2c87-45ab-9f91-39a74e889f2b",
+			"a24e9ddd-2ceb-4060-863f-cd5ef7904945",
+			"a4b7cec9-6b71-4739-8232-af91c4d5fe4a"
+		],
+		"title": "Kennis hebben van de invloed van media op de werkelijkheid",
+		"id": "769aaee6-6ca4-455c-aba3-b26f9115c9fb"
+	},
+	{
+		"prefix": "DG/MEDIA/MIP1",
+		"doelniveau_id": [
+			"78314b67-65f2-481f-b456-6442d6867536",
+			"9616343f-b2dd-4ad0-b531-af358d4a6fa3",
+			"53dc1bbf-dde9-44f2-ae48-ed5ac00670c8",
+			"9acbff5f-5222-42be-a9af-b635905821c3",
+			"f0518e0e-c705-472e-9309-61a908de5683",
+			"eecd77dd-bf6b-4081-9097-b5f484a64037",
+			"a033a813-51d7-4c8c-a582-3ead0e0d4ba6",
+			"90744443-0ab1-4d60-8e2d-59c4589d1f08",
+			"85e2f98e-3ac4-489b-95f6-f93fba7a4060",
+			"6622efba-cf9b-493d-9714-3faceee34e66",
+			"2762f4d9-a58e-42ed-bdb1-05ea0cb34181",
+			"484571cf-c41f-4bac-bdf8-bb3d066cc892",
+			"21d7b33f-84a5-4a6f-81e6-7a304834397b",
+			"adf8931d-4aba-4a43-bec0-18415c4eec2c",
+			"0acdb3e8-e148-43b4-a8eb-3ae84f80697b",
+			"b07b794b-45e1-4f92-a857-a34d8b26ef9a",
+			"752892ed-b1e3-49af-9e06-7a0d5b97260f",
+			"4b37b9a7-afcb-457f-b5dc-46a23f21dd42",
+			"e2188891-228a-4ec2-a069-8283bd5f449f",
+			"b1ab75c4-a3ca-4e0a-9886-d582926412c1",
+			"4015ece3-43bd-4583-9d7d-3bce6e1126fa",
+			"1166d23c-a27d-4c17-b074-76133ab6f119",
+			"c6b5cce9-2b94-48e5-aa55-4df9bc5fbbc2",
+			"057910b9-65fa-4849-a57e-cbe24f364b8c",
+			"2b7941fb-d08d-499f-a03a-46549432aa90",
+			"5da1871d-592f-4721-a587-d8ae1d68c381",
+			"1be0ff22-f0de-48db-a141-6329075f8271"
+		],
+		"title": "Omgaan met media en sociale netwerken",
+		"id": "c87e505f-e5ca-4ece-9204-33b8d4c81c1c"
+	},
+	{
+		"prefix": "DG/MEDIA/MIP2",
+		"doelniveau_id": [
+			"4471d4fa-976a-44c0-adfb-c9ecac0d3efa",
+			"359a7d0c-c1dc-4b96-b407-c040d756ecbd",
+			"1af94070-8b27-4d08-965b-48d38a175c1e",
+			"ec43613b-5f7c-440a-b027-e7a9ea250256",
+			"93192f36-76fc-475b-8da9-c6ab059618f2",
+			"3d164047-dcc7-455b-bac8-3521cc6e7e1c",
+			"373bc0a6-fd33-4344-a10f-0772557da49c",
+			"3ce6b2f0-b69f-44b7-a20f-9af69cd7c48f",
+			"bed04d26-6441-441b-95ef-6097d31e63e5",
+			"04d22470-05ea-4f97-813e-69e7bdc32aae",
+			"dcd67a27-059b-4f0b-8e45-ddebd0f44e88",
+			"2637f2f0-85b1-48ba-9d72-50644584a6fc"
+		],
+		"title": "Reflectie op het 'eigen' mediagebruik",
+		"id": "d3e533bc-4104-4ac9-8159-2c95e66186af"
 	}
 ]

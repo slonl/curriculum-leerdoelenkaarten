@@ -27,13 +27,11 @@
 		}
 	});
 
-	var curriculum     = require('../curriculum-lpib/lib/curriculum.js');
+	var curriculum     = require('../curriculum-basis/lib/curriculum.js');
 	var basisSchema   = curriculum.loadSchema('curriculum-basis/context.json','curriculum-basis/');
-	var lpibSchema = curriculum.loadSchema('curriculum-lpib/context.json','curriculum-lpib/');
 	var ldkSchema      = curriculum.loadSchema('context.json');
 
 	var valid = ajv.addSchema(basisSchema, 'https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json')
-	               .addSchema(lpibSchema, 'https://opendata.slo.nl/curriculum/schemas/curriculum-lpib/context.json')
 	               .addSchema(ldkSchema, 'https://opendata.slo.nl/curriculum/schemas/curriculum-leerdoelenkaarten/context.json')
 	               .validate('https://opendata.slo.nl/curriculum/schemas/curriculum-leerdoelenkaarten/context.json', curriculum.data);
 

@@ -3,6 +3,9 @@
         "ldk_vakleergebied": {
             "allOf": [ { "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/inhoud" } ],
             "properties": {
+                "prefix": {
+                    "type": "string"
+                },
                 "vakleergebied_id": {
                     "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/vakleergebied"
                 },
@@ -41,8 +44,8 @@
         "ldk_vakkern": {
             "allOf": [ { "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/inhoud" } ],
             "properties": {
-                "lpib_vakkern_id": {
-                    "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-lpib/context.json#/definitions/lpib_vakkern"
+            "prefix": {
+                    "type": "string"
                 },
                 "ldk_vaksubkern_id" : {
                     "allOf": [
@@ -79,8 +82,8 @@
         "ldk_vaksubkern": {
             "allOf": [ { "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/inhoud" } ],
             "properties": {
-                "lpib_vaksubkern_id": {
-                    "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-lpib/context.json#/definitions/lpib_vaksubkern"
+                "prefix": {
+                    "type": "string"
                 },
                 "ldk_vakinhoud_id" : {
                     "allOf": [
@@ -117,16 +120,21 @@
         "ldk_vakinhoud": {
             "allOf": [ { "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/inhoud" } ],
             "properties": {
-                "lpib_vakinhoud_id": {
-                    "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-lpib/context.json#/definitions/lpib_vakinhoud"
+                "prefix": {
+                    "type": "string"
                 }
             },
             "required": ["doelniveau_id"]
         },
-		"ldk_vakbegrip": {
-			"allOf": [ { "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/inhoud" } ],
+        "ldk_vakbegrip": {
+            "allOf": [ { "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/inhoud" } ],
+            "properties": {
+                "ce_se": {
+                    "type": "string"
+                }
+            },
             "required": ["doelniveau_id"]
-		}
+        }
     },
     "$id": "https://opendata.slo.nl/curriculum/schemas/curriculum-leerdoelenkaarten/context.json",
     "$schema": "http://json-schema.org/draft-07/schema#",
@@ -153,21 +161,21 @@
                 "$ref": "#/definitions/ldk_vaksubkern"
             }
         },
-		"ldk_vakinhoud": {
+        "ldk_vakinhoud": {
             "#file": "data/ldk.vakinhouden.json",
             "type": "array",
             "items": {
                 "$ref": "#/definitions/ldk_vakinhoud"
             }
-		},
-		"ldk_vakbegrip": {
-			"#file": "data/ldk.vakbegrippen.json",
+        },
+        "ldk_vakbegrip": {
+            "#file": "data/ldk.vakbegrippen.json",
             "type": "array",
             "items": {
                 "$ref": "#/definitions/ldk_vakbegrip"
             }
-		},
-        "ldk_deprecated": {
+        },
+        "deprecated": {
             "#file": "data/ldk.deprecated.json",
             "type": "array"
         }
