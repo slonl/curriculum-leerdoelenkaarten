@@ -475,76 +475,6 @@
 		"id": "3797ab63-4f7f-4de9-b7d3-c92831961dea"
 	},
 	{
-		"prefix": "ak/3/1",
-		"ldk_vakinhoud_id": [
-			"e4bfb918-e01c-45dc-911e-acd8c1256c6b",
-			"f34f9841-0aa0-4803-ba23-9dbda7c52fb3"
-		],
-		"doelniveau_id": [
-			"f6f5e98f-ce76-41fb-9ab4-ba68d9e140d6",
-			"2d70e819-dd1f-4167-85b8-678711e3de31",
-			"a74297c4-67f5-4019-a5fb-adbbf99ded63",
-			"30c076f6-65de-4988-a352-012aa1bc03d2",
-			"c4d81d77-ea1a-4638-a2d4-64e2b6da0335",
-			"5f01c063-0438-4e9b-adab-cb05f5554b68",
-			"36c02509-f470-4699-80b4-09ab3bbda68d",
-			"06d0869f-2c96-4776-943a-58d56dcc7876",
-			"112c482f-1382-4fa0-b6e2-736cc6c27cd4",
-			"30496e92-08ad-4b64-b0d3-8f783d72da9e",
-			"930a2b30-770e-47b1-b14f-2e5566a586e0",
-			"c9d7bd96-4466-4f8a-ad3a-a910c4e87869",
-			"be97cb11-533a-4605-96be-84d39fdea95a",
-			"eb5afa72-1894-4de4-8b55-99c97ee847d3",
-			"8ab69ebf-00f3-4a2a-b8a9-232d9a02b482",
-			"3888d1b0-afb1-4082-9ce0-45b50756181a",
-			"6279ea35-884b-4c27-9a26-8440a8ab7dd4",
-			"28d37b7e-9336-48d6-a007-71a4e73aad14",
-			"fee7f55f-f3d7-4797-b110-ec3900482aa6",
-			"dcdcf952-ff4f-4daf-bbcd-abcc25985d1b",
-			"29905cea-ac11-4f5d-a716-4920171583a9",
-			"751c12e4-234b-4969-89b4-4c48ad5f804d",
-			"c48db302-38e4-4a0b-ba5b-575cde4efd6d",
-			"1e698ecf-c80c-4311-9ff8-abd2e5fd46d8",
-			"b4b3f9d6-c867-4111-920a-3e402c0d38ca",
-			"8d3d5b80-4527-460c-87ae-bfa28ff41f67",
-			"7233e58f-81fe-4bc0-8db7-11f3db8e08f9",
-			"a64df92d-6ddf-4080-8daa-25836da89a37",
-			"845c90dc-db31-415b-a3d0-a63e5d7b8c77",
-			"73a1f2e5-ce87-4511-a6d7-94613c3f7e37",
-			"c1d35d61-c7a6-4acd-a511-030ef4d88dd2",
-			"e1be4c79-c0fa-4324-a11b-bffa431f4474",
-			"4e540cc9-f942-4cf6-8909-ddf34e9d6276",
-			"610916dd-4f5c-4cfe-a3c9-196eaa4058a6",
-			"32bc8234-6637-4832-bc66-11696cfd3dca",
-			"d625915a-a7d6-4142-acb3-9183cda89cf3",
-			"8d55bae2-bc61-4551-b80e-41348953b8cc",
-			"2b15af12-ee1c-4c89-beb1-390c942ee5f7",
-			"1186c74a-c91f-4890-8c3b-4138ce951ed1",
-			"b6c9bb51-e2a8-4158-9d67-c6ec2a634203",
-			"18f2ca85-370c-45da-80b7-ac4da697c897",
-			"112e23aa-97bd-4b41-9b62-9990540f2423",
-			"103903c1-ead2-43f7-aa9e-c8bb037c454c",
-			"85b6d1b9-e618-4871-a5a8-35908873afa9",
-			"349e0891-5b97-4e43-a00c-a81abb8fedfd",
-			"4968f273-d5ea-4395-9f87-66ab83d820c0",
-			"69888182-a188-4b86-83f5-41da8f6baf63",
-			"6f66cf27-f296-458c-bec5-5f0ef8cb69e9",
-			"d806820e-5b38-4509-a271-ea5652df0cf1",
-			"594046c9-06df-4ea1-b4cd-36ac58bce48a",
-			"7d2a9328-68e5-47c1-80a0-cbd9339327d4",
-			"2b879a1c-de34-49c5-95ff-bb1098f84abe",
-			"2e2e8d65-c690-46d4-ba56-9988c6d33451",
-			"33467e2a-a346-42c6-bfab-da04aff2b3ee",
-			"89092689-656b-4464-a183-481de3da7d7c",
-			"a8524b91-3ca4-4e83-8d14-41988546d3b9",
-			"459f3aac-4b82-4338-bc8e-e5d75be7cba9",
-			"0750ef4f-2d6e-485a-9e5c-1415216ff8e2",
-			"627f80e0-5ea2-496b-b70b-d1fbc7572f62"
-		],
-		"title": "Bevolkingskenmerken",
-		"id": "e0040f47-8f9f-48d5-9c7b-187ede8599e1"
-	},
-	{
 		"prefix": "ak/3/2",
 		"ldk_vakinhoud_id": [
 			"32af1884-0233-4933-be8e-f7392cd6468a"
@@ -698,37 +628,6 @@
 		"id": "806c80e9-2ea5-4578-ad33-54d0a963ec41"
 	},
 	{
-		"prefix": "ak/4/2",
-		"ldk_vakinhoud_id": [
-			"30455416-2f3e-435a-b7ba-08dce6b41597"
-		],
-		"doelniveau_id": [
-			"f4184856-a9fa-4c92-9c53-b8b627cf2280",
-			"f18467da-a32e-430e-9373-bbb990aa4e07",
-			"28eb375a-fb3f-499e-b90c-e6ba9dbf011d",
-			"6136a7c1-cc46-4a57-bac8-36a4b12aa8f6",
-			"8c74b22e-c521-447c-8640-920a0be8436a",
-			"b769e61c-e1de-43ac-9c4f-3bf0c73652b0",
-			"b176cdfa-68f1-42eb-be42-908572e0a7d4",
-			"1a452aad-541a-4b7d-9939-d143f0273f1e",
-			"7907ff24-0712-400e-9c90-17af2e003c9c",
-			"acc5cb77-9c02-40b8-8687-0b5ae29667cd",
-			"e34fdb51-ba95-4af1-8a7a-d4913c04bf80",
-			"3d91b7c5-3787-4725-b17d-0a02bfbb583f",
-			"689309a6-9c32-4248-a44e-785ba9326383",
-			"f92205db-2d53-4be9-969d-4eacfc23687a",
-			"1c80a0bf-7e76-4e4a-b6e9-5a9a1605178e",
-			"973befe0-ff58-4cc7-9b06-42a9e0353462",
-			"2a76b667-ce1f-46d2-837b-b10df27eeb34",
-			"8d4f738b-6636-4ee8-b7f2-4ba6eca6231d",
-			"20b779ef-a6d5-4e5e-92f7-c21fc76d6e2d",
-			"99a2e164-03cc-4c3b-910d-c785998e9f48",
-			"188a632c-3246-4a30-9b9c-4b16cada0bc1"
-		],
-		"title": "Global shift",
-		"id": "513cd35e-9171-47b8-b019-27410005ba3f"
-	},
-	{
 		"prefix": "ak/4/3",
 		"ldk_vakinhoud_id": [
 			"01705d5d-d949-479c-b5a5-2941b95c71b8",
@@ -751,51 +650,6 @@
 		],
 		"title": "Middelen van bestaan",
 		"id": "cebf383b-f39d-42f4-8779-4ee390fea3b0"
-	},
-	{
-		"prefix": "ak/5/1",
-		"ldk_vakinhoud_id": [
-			"3c368396-0b54-44db-8bea-e7e3efa3fdfe",
-			"c6f09670-227b-4553-8056-5bc8cc5bb8c2"
-		],
-		"doelniveau_id": [
-			"996a1e4d-02ae-4f62-b0eb-af4885469be6",
-			"fee88595-5c0c-48ec-a875-06dbcd87eb19",
-			"a1aff57a-92d4-4f8a-9c92-be42121ec2f1",
-			"b101cb5f-c2f8-4e62-bdc9-49df0dd448d9",
-			"100253ba-aa4f-4b4a-9c2f-ffd9768a037c",
-			"429626d2-1c96-4b95-9994-e2a2349a4142",
-			"4b0e6e34-6be4-4b8f-b5f5-7f53965f5d0d",
-			"6f544ff7-68c5-4444-8f9a-e29766f20291",
-			"355766ef-37f9-4d8d-af23-4f28d915712f",
-			"97f93f4f-8ec1-4053-a969-b5d03b3e6f33",
-			"85342158-9539-4139-9fba-5a20b0e2d59c",
-			"9f30d5ae-4ba4-4332-9fe0-8c91a7355a82",
-			"c587979d-2568-4405-b9d5-427411e0f290",
-			"193c3241-450e-48ab-9e8b-386d8f8f33a9",
-			"07a2d1ef-eaf2-428d-b88f-baa18495a96a",
-			"a3bbf425-f6c3-447d-ac88-cb291fe703cc",
-			"c22188d9-4fd7-4c5d-800d-74e6799a1ef3",
-			"e707648c-d3e7-4057-b00d-edc937278286",
-			"a671efe6-4b47-440c-a420-bf5c60f1fbb5",
-			"a187c686-dc0f-4343-bebd-a98ce4135474",
-			"9943e887-1b31-4e1e-8bcb-468c62e792c7",
-			"536ad1d5-9be9-47bf-8524-9cc1621621b4",
-			"8c540598-f61c-4f90-920c-b6cdc0f6ebc4",
-			"081b804c-0940-4827-b708-1a6a1e4a2e4e",
-			"a91a6762-763d-4c46-8a8d-4dfd678487f4",
-			"2794cb1b-b649-49aa-bcf3-bf93bc0f1bc5",
-			"1a7b8b8f-dc53-43ea-8f98-3b0c63dcec2e",
-			"dbcc187a-d7ad-481f-9cc9-87320aa593fe",
-			"60a22c00-5f96-487c-a1a5-8b2c525900ff",
-			"04bda102-73a6-446c-ba04-feddb250212c",
-			"6ac7e3c8-8275-48e6-8054-8b488181639e",
-			"42be8357-e73c-457b-87e2-1142868b9654",
-			"99ba6837-3b88-4ca0-823f-58d9665b8598",
-			"452206db-6624-4516-b327-cf5ce7448755"
-		],
-		"title": "Ontwikkelingsgebieden",
-		"id": "7586f7e1-40f0-4504-8fd7-a3607ef9bd7b"
 	},
 	{
 		"prefix": "ak/5/2",
@@ -1118,19 +972,6 @@
 	},
 	{
 		"prefix": "ak/7/6",
-		"doelniveau_id": [
-			"a1bdb7af-67f8-4393-8d7b-7f91f0b53534",
-			"3a3a0648-8d9a-4e09-b914-2c9fdc7a784c",
-			"56c2462b-9ed2-4a4f-96a0-f8389af86617",
-			"03c71f71-2d5a-4324-bce1-78323d2b4b25",
-			"b5a27eaf-a9f0-40eb-8b2d-7fd7df417ec8",
-			"0357e67e-9540-45c4-8ce6-77cb034d3b35"
-		],
-		"title": "Relaties tussen endogene en exogene processen",
-		"id": "b38b70f1-86e9-433e-9fc1-d1732bacdcf6"
-	},
-	{
-		"prefix": "ak/7/6",
 		"ldk_vakinhoud_id": [
 			"efe5029f-0286-4995-ba84-c4ed23afe753",
 			"f0b0504f-4246-4f9a-83c6-3ed20564ae94"
@@ -1212,49 +1053,6 @@
 		],
 		"title": "Nederlandse landschappen",
 		"id": "b6f35180-849d-4512-982b-ff78168db7a3"
-	},
-	{
-		"prefix": "ak/9/1",
-		"ldk_vakinhoud_id": [
-			"3febafb7-48fa-4212-872f-eabb701f0d0b"
-		],
-		"doelniveau_id": [
-			"5c45fc0e-9a06-421e-8148-279f581f0bb3",
-			"534b4cf3-1c93-449b-b496-f04de256ea06",
-			"d2101831-96fb-48db-99ff-bb10ff463e6a",
-			"798a04eb-98bc-4e02-927b-f4dbb11ab41e",
-			"f7ae867c-6309-4f08-b3bf-a1008d0a9a46",
-			"40490f1f-db5e-4291-b750-75109d6b1d53",
-			"7a3e1881-4dda-485c-973a-869c7393c567",
-			"54f32760-17ec-493e-adc2-c0a8caa0faff",
-			"46936340-c84c-4cd6-ac79-d540c03773fe",
-			"93dca7e5-18bc-4907-8285-206b3e00932a",
-			"41d6ab42-6667-4d7f-abd3-aa5d1bfcd6d4",
-			"accde5ab-6255-4de4-a40c-c82e596de598",
-			"a65b0b28-cc3f-415e-8cd3-f32267099aa7",
-			"070e603f-da4c-4664-9d94-da2963eb7aab",
-			"53369412-0c28-40b6-89a9-2cd2a7281716",
-			"e3834568-f4fc-4020-a9d9-8d844dbe2ce0",
-			"53a4c009-effe-4603-ba8d-60e3122a9658",
-			"7957f249-834f-40f9-8d6c-def1f0587238",
-			"9a3cbb8e-56cf-46d7-bdf1-2db61a0770a3",
-			"b60f8bea-db3e-4ad7-bbe7-6d813778543d",
-			"8aeb32e9-614e-4ec1-9730-7610a92b851c",
-			"15f6ecf9-ff4b-433a-ad95-ba567b02771c",
-			"8e9694df-5d0e-4003-82b6-ffc9d24707f8",
-			"fd6fba07-3229-47f3-87b9-95eb3182fd7e",
-			"f41a5df1-862a-4993-9496-d41ee7cccbc9",
-			"548139ad-5b03-4556-829e-c6527b3501a6",
-			"c8f6d1f2-9723-4986-b0cc-762c4e654859",
-			"381e80d2-443f-48a1-afa7-99af82effa6e",
-			"30ecb5ce-a969-491c-8073-2f25a9a2e904",
-			"48e994fc-20ff-42a1-8910-13895226bbf4",
-			"f573613f-216d-49a4-971b-136053c69f67",
-			"07fe6ded-500f-4fbd-96e6-7e429678ae4f",
-			"fe490422-1580-4046-8da3-c42537241ecd"
-		],
-		"title": "Waterkringloop",
-		"id": "e78d6e35-8dd5-4717-8f6b-77dedd99a9c4"
 	},
 	{
 		"prefix": "ak/9/2",
@@ -1368,134 +1166,6 @@
 		"id": "f853f7f3-5b64-47bf-b543-67d07f7bb53e"
 	},
 	{
-		"prefix": "bio/1/1",
-		"doelniveau_id": [
-			"921df904-a35c-4dbf-90ce-0970a4003b7d",
-			"f3110514-86db-4928-8482-980d2c77ad26",
-			"add039b6-d5fd-4c66-b500-110713842dc3",
-			"47bf4555-72f5-4aba-92a7-44290ccedc2f",
-			"55caf6b8-806f-4593-bc85-d3d6c60b6700",
-			"d579e26d-6a93-4a8f-8e06-5efa664523c5",
-			"f453b0c2-8871-4ed2-a0df-631a8873038d",
-			"0267ebbc-ac06-4b6b-b636-fe2a9851a977",
-			"f8527ff0-c29c-428b-9d12-ab1860bf0b6b",
-			"ac6cef8f-2796-4094-a5b8-0caa2ace5cca",
-			"9b7c4b74-e167-46cf-8c5d-0eaad6298ccb",
-			"0e228b12-0b6e-4671-8c3f-5265517ea2ed",
-			"1d5f59d3-069c-45d5-8661-aa95a669b9c4",
-			"21f5dbd3-e618-4f63-b80b-bffd07b08328",
-			"aa34b49c-e8b5-4377-bcaa-a932b86498bc",
-			"25879dcc-fe59-4873-9e02-1c0830c2b490",
-			"08eef3fa-6064-404f-abcf-8e50ec412333",
-			"b95af10e-db1d-41cf-bcc8-3be53bf57686",
-			"b15ab33f-3079-4b1d-9012-793568861381",
-			"3629b806-e9b8-405a-986b-33e8de969ae7",
-			"ad05d1d5-c4e8-425a-8225-c241945a528a",
-			"ac6726c9-8c97-4586-bfa3-15eb63e77829",
-			"65c4207b-0c93-4f84-83b6-1a45b62bffc4",
-			"0599051c-7607-4b00-b0e6-5b63a5424d2a",
-			"e989383f-0441-4ac2-af54-828bb6d5194a",
-			"ad89fc15-ac0a-47af-84b3-fbc38d58e8b7",
-			"26880b16-50b3-4522-a392-c83aa0af9782",
-			"8886881a-08a0-4968-98ce-681c5fb095ba",
-			"6293f311-391e-444a-aa2c-05293de53d83",
-			"f206bbe0-97f2-4fff-aa8a-57a5e3fba80a",
-			"485404d9-96e6-40de-ad24-02ca5a3905ff",
-			"163db71e-ce93-4ab3-be00-e518332aa73b",
-			"730ab1be-f484-44e7-8857-e161de7f4d02"
-		],
-		"title": "Levenskenmerk",
-		"id": "59bb4aa0-7cfd-4e29-88cd-a6bbf14ffb50",
-		"description": ""
-	},
-	{
-		"prefix": "bio/1/2",
-		"doelniveau_id": [
-			"a4ae1c02-8e65-4f0f-aaa9-a4b6fed8566e",
-			"29a4bc03-db2f-4412-8ce0-66a23f7199ba",
-			"87f9ef4c-87ce-4ff0-b328-85f66aff3cd1",
-			"2609a621-1938-489b-9634-b72e4787c8a1",
-			"d9a6e09e-fc40-4758-bd59-8f26af5a2f4e",
-			"eab1d146-da3d-4d4e-b913-8af4241a0991",
-			"c2d8b8bf-e31a-4619-b261-55c01f94c432",
-			"cf3cf157-13a6-4558-8daf-d888a21017f6",
-			"d3e0f575-c5bd-4b29-930c-270d6cbae5fe",
-			"717d06c6-2ed8-4c00-81e9-9d802e7b3d65",
-			"fa239dc4-e854-4e52-a75e-fd8fbb968fea",
-			"58fdef8c-ba9f-4343-9997-717f6665dc5d",
-			"87153293-44ec-4378-a30e-4bf2cedd0b5a",
-			"95362d9a-be3b-4889-9ba7-1bb4a2d01d4d",
-			"12e73f8a-d3ba-4fe8-be9a-f2e381656768",
-			"ea3623e3-d609-49ba-a9b4-ff6b89e1669c",
-			"a53bcc08-3607-47b4-bd97-875e5b6aeb0e",
-			"e497e1ae-6e33-42d2-8fe4-e814d92cd488",
-			"5faa781d-f18c-48f2-bf1f-70c370619ddc",
-			"d00d4a58-44b3-42b2-bdb0-8ee27eed6b92",
-			"df90a210-0c5c-45bc-9306-ca1a9815cc67",
-			"062622e0-96ea-496b-906b-f58e8fcafef5",
-			"f436894f-80bf-4fae-8d67-5be1af3df964",
-			"517b47ea-721a-4f8b-b92d-65398a3ef985",
-			"46558046-34ca-436f-938c-d7e3e6caec8f",
-			"605e2967-b9cc-4f46-b74d-c4927d7c5792",
-			"42bb91e6-1e50-491a-b23b-0c552862f887",
-			"3cab1277-6e54-4e09-addd-3cee0fb1ae2d",
-			"d0540f44-9149-44fd-bd19-485485ab1def",
-			"9b9e9c99-fd8e-4a77-9112-05746f3fa078",
-			"324b85ed-36fa-451f-a81d-56d879cf63ef",
-			"e142f2e4-04b7-45b1-82f9-037fbfbc314c",
-			"ebe2178d-f06d-49e2-ab2d-83cb669762f1",
-			"5b19e151-bf03-4b8b-a90d-5aedf61e0080",
-			"897603e0-1da6-4124-9548-49855121b6e7",
-			"e49785e8-17f8-4325-91cc-5e293b66c8ff",
-			"46b6b86b-ae9f-4288-85f4-01fc16a7cca6",
-			"00592f0d-24e8-46d2-a4f9-9662160de8bc",
-			"46526b4a-f200-4816-ae81-7dea49d31759",
-			"00639058-474f-48da-8988-80007d6b4084",
-			"7244b376-dedc-4db4-ba33-887530c9902f",
-			"ccd4701d-e2e7-40a7-a1f0-48639d1f878b",
-			"5939355a-1bf8-4b7f-b5da-507913c793ff",
-			"fa5ff64b-674d-4124-a62d-56cf654f0d55",
-			"04a9c958-477a-4894-bb96-8cbcb025058c",
-			"72e338b1-f308-450a-be74-ba9cf8c6dc10",
-			"8e161bf4-1506-4060-a4e5-63a7b166c931",
-			"a294f919-9de9-4a4e-8572-2f4a367e09ce",
-			"465caae9-5e95-4d31-91b8-aaa429306e23",
-			"f839c286-4315-486e-960b-c5c90e8919fa",
-			"458c1979-9ca5-40f5-b0f3-ae5a3d87b98f",
-			"44c4eefc-0ada-45ce-a9f6-ec0416d4f31f",
-			"93356a86-8bd6-4b51-a0dd-c1052682eff8",
-			"0890db23-e963-490e-b92f-4ce5d14d1ed5",
-			"3f69048b-49a5-4ebc-a975-34912a31317b",
-			"9b2701ee-ccf2-42f4-90ae-44350267884b",
-			"881a893f-d46e-4075-83dc-307bbc79a86f",
-			"92111b34-10a0-4401-ac5e-f1060c2334ff",
-			"ab6971cd-55b5-4755-bdf1-a75efbdb6872",
-			"863e0b58-db95-4dec-a539-4458f7da7539",
-			"7b34d897-f5f5-4ed1-b7ae-24fe6be8e135",
-			"244b8f96-21be-4958-bdc7-3650b88fe908",
-			"950a27ba-e4ce-434d-9c06-d7667204b794",
-			"c1214c9e-4c3d-4ee7-93d6-1a2c424401cd",
-			"8e5d5cd9-0675-462b-ae14-7189853ba3d7",
-			"448bd2c6-e9bb-403c-917c-c5ba44b9c275",
-			"29f924a6-bdc2-434c-84f4-0a324abee13e",
-			"cc9f0ced-05e4-4091-b373-5c81d41405f1",
-			"9e187957-dd4a-410e-b95f-1a8b5a91da38",
-			"4684b43e-2ba4-46da-8ae8-dfbaeedf1ec4",
-			"e6d1db0b-043b-4d2c-a35d-b90fe97e7561",
-			"5248e9de-c689-45cc-adac-200666b52d9b",
-			"d0e2bb9c-b342-408c-a0e5-6ae64ff744b2",
-			"2ddbfeba-99f8-4ef2-9333-8bc2e2117304",
-			"073cbc9c-faed-4a88-b91f-bff880fc7972",
-			"dcbb399b-ecdf-4368-b358-3bfc7ee0cf9a",
-			"2bd25a3a-4f8d-4e5f-beb1-d35991fe86a5",
-			"a16ba7ab-b15e-4fee-aabb-0f156c50fc1a",
-			"1898850a-1019-4492-b1b6-c6b3ee526b87",
-			"da87dbab-deed-459c-9c4d-2400bf0dd473"
-		],
-		"title": "Cel",
-		"id": "8d9626fa-fe06-4b15-94a0-03c7f6d4e530"
-	},
-	{
 		"prefix": "bio/1/3",
 		"doelniveau_id": [
 			"8b3e1060-25df-46cf-91a0-5db5cb7f2dbc",
@@ -1529,61 +1199,6 @@
 		],
 		"title": "Weefsel en orgaan",
 		"id": "8ab98f11-6cdc-4a65-80ba-a11b3550827d"
-	},
-	{
-		"prefix": "bio/1/4",
-		"doelniveau_id": [
-			"818358f8-24d4-4b79-975c-33bf6c629e32",
-			"3ac365a1-355f-4eb8-9b7e-107bd3e7ec1f",
-			"2addcdd3-2c89-499f-9a7a-05f7f46414c4",
-			"1cc9f817-434d-45cc-b7cf-fa4045d01056",
-			"7fb91532-87ef-4576-a1f0-e184bbc651db",
-			"a8a1aae5-df0d-4fb3-9110-f3a0ee42b9bc",
-			"f280f170-0270-4d49-9823-6e5176dfab0c",
-			"9c742924-3a22-42d0-8d3d-a31ca97cf66c",
-			"13218dc7-bb85-42b2-8ac9-ac5bb2e7bc8c",
-			"8772eea9-785b-4870-b4c2-6c034e617210",
-			"51f9d2ef-4406-4376-9341-44f1ad65bd59",
-			"722c1230-ad01-4c00-9fc9-5c9665d5fe9b",
-			"40c922f7-537e-479a-afdf-09c0b33b6d7f",
-			"4563b9e7-5544-43ba-9924-15b70bf8c69e",
-			"37eb7dba-23b9-441e-9b5e-6bc8acd4f533",
-			"020d0a5b-81a7-464f-9f07-5f7018c5c361",
-			"8c21d946-e3de-4e51-92e2-aec4741387ea",
-			"b10883ca-4663-4613-af9f-7da47a77e333",
-			"9c2ea916-351e-4c23-8813-f37da8d5fc40",
-			"0502e63e-c47f-4790-8537-0970f445e2dc",
-			"d6055bf0-989a-4719-8f24-8dfce87ebb90",
-			"d1b9e02d-cf91-430f-b660-0fdd687d22b5",
-			"14a15905-5af3-44a5-854c-601873be5d49",
-			"91ad485c-16f1-4b4b-b3be-0ab872ef9ade",
-			"eed896cd-cf20-4d17-b4fc-e4a1b8c21ee2",
-			"ca0efea9-2f4b-441e-982f-a0cdcc449736",
-			"737799cc-d11f-43ad-8e0f-eda4aad8ae02",
-			"554670d3-223c-4304-a76c-76570478723e",
-			"76428e77-0743-4538-9d70-4dff40f3153f",
-			"7f799672-d0ba-4894-83cb-795edf01f123",
-			"f1a7cc4a-4862-4353-81cf-2d328f46cc83",
-			"96c48991-6885-4743-80b3-c57c92a36988",
-			"45893648-16fa-4887-af3d-dea05c44a24c",
-			"1d2ce145-8e27-40d5-afcb-428ea854f282",
-			"a05b045e-19bf-430f-9544-4502e4d5f85e",
-			"a537d60d-b800-4a99-a152-633d983b98c4",
-			"4c756776-6aa4-4cf5-8cb9-d0a6ae87be0a",
-			"116d73ee-04bc-479d-a260-1439379ba39a",
-			"2833ab53-4bfa-48d6-a86d-e396da904ac6",
-			"56377b03-7612-40ae-92cc-6e013225f616",
-			"5757f11f-4eb0-48ad-a3ed-80232785979c",
-			"e78b837b-2d5d-4445-b7b5-78bc448bfc5f",
-			"b33c314a-8d10-46c6-b28a-7b19348d71ba",
-			"cad4893d-064c-4f67-8005-84b4ac02f04d",
-			"692b051b-6512-4523-8fa8-9e7de05f6229",
-			"766599d1-96ed-439d-847f-31654939d701",
-			"28115dc1-39ce-4421-bd13-1510c07dbfd8",
-			"1507ba80-5c97-44c6-bad9-bdd91828719f"
-		],
-		"title": "Organisme",
-		"id": "cf7ad31e-d0e3-4889-a5e2-8ad3a8806522"
 	},
 	{
 		"prefix": "bio/1/5",
@@ -1645,435 +1260,6 @@
 		"id": "fe9d1a0e-68f4-4cab-aa4f-86a0e3030845"
 	},
 	{
-		"prefix": "bio/2/1",
-		"doelniveau_id": [
-			"106f946e-2abd-44dd-90a1-f5e5cf813124",
-			"10dc91d2-78aa-4884-95c1-d6b905026f00",
-			"15fdeb7a-7c29-4675-b9e8-74689bee5334",
-			"4c4b8fe8-baad-4667-a3e7-14a869df8b21",
-			"78429622-47ee-4bc9-a7ce-73e2bc9b0e39",
-			"4f0899e4-e85c-4ec7-bf52-950b4b6946b6",
-			"d2c3750a-71e5-40a9-8de1-6689bf5e3d1b",
-			"29501829-15dd-412d-817f-5eda6fc03617",
-			"2970881e-cf35-4d4f-8950-41fea472c3c5",
-			"fd5a0c13-f81c-4bda-9e99-056453cd4e16",
-			"e02718df-34d8-49a1-bf33-c5d34adf3a8b",
-			"300e4816-bdac-4fa7-839d-71eaa6acd1e3",
-			"f79cc775-25dc-46e7-9bf8-7e063bc8090d",
-			"b580c4a2-247d-4937-919e-d22c3051a8cb",
-			"3b386ee7-3a23-4984-a281-737f7d443f5d",
-			"797e664f-6c68-4333-9bb6-9a2282213b34",
-			"6b88e262-2689-4771-a501-0bf908454ef3",
-			"bfdcb20e-2a70-4796-88f3-1667635649cc",
-			"ba979286-6d41-4794-b406-ac2d886dbc5c",
-			"0ca802f6-0d53-42d2-a453-13e29029ee97",
-			"8190d601-3641-4da1-a641-005f37d4a721",
-			"293a8056-7208-4248-a20c-17be1d43f3bb",
-			"9b0bce4d-b1f3-4ee1-8590-d502e30fda47",
-			"164c9f62-d7ac-4c2a-af07-1fd59827ba34",
-			"bd04e716-df67-4407-97c4-6fd03a3560b7",
-			"0318f22f-4c17-4f5e-8b24-c332cb30476f",
-			"1ebda283-9645-4eb2-908e-e8c0cea5d2c4",
-			"ed1e8d3b-d81c-441f-8177-f92d9834ee27",
-			"ad3c95bc-faae-42c0-baa1-ce2b1076deec",
-			"f6e559c0-67c6-4ac9-b799-e2fcd9489708",
-			"4f54e101-715b-418e-bc15-62465790296f",
-			"6d41ac6e-176b-41b5-91ea-95fcdfc2edb3",
-			"97aa89e1-b247-4e02-be12-69d89e506d90",
-			"9e3f21da-1112-4599-88f4-ed1175caad90",
-			"aa4d1b9d-4b83-4219-88d1-2ca81562036b",
-			"4b3f3e06-1c02-437e-a714-00d057989c5f",
-			"51b2a69b-439a-4659-a333-cbe4442db1aa",
-			"d5ecc2f7-6c1e-41ae-8d3c-95518526d8cd",
-			"30972aa4-1d92-499b-8d7c-a951d6f4e5c3",
-			"f6a2169c-c2c8-4264-8520-2541146eefff",
-			"49ae6bb8-e617-48ba-a927-9be7ed0e9875",
-			"81e0d327-eae1-4709-adab-6e9fd87beaa1",
-			"70f31a05-922c-4e78-8fb5-772b887b3f7a",
-			"e7e936b9-9435-45fb-991b-fd562b8718a1",
-			"b46487fa-e15e-4c72-ad18-c5dc90f0f701",
-			"8b525dec-627d-4f34-a525-b00d731c6129",
-			"18a66239-a301-4c52-ad5e-6726878c0623",
-			"8ff2e2b3-1045-4534-ae5f-2f294e9c29fc",
-			"b03ad109-4d8b-4c36-9c8f-0f44709cebb4",
-			"3fb5e99e-6cc6-45b4-9d3f-c4b48fb512c7",
-			"4b06ff41-1f26-4343-8457-cfe4cc96f5cd",
-			"23394c66-94a0-4601-9118-b806691249b1"
-		],
-		"title": "Celstofwisseling",
-		"id": "090334a4-63a5-4153-8e84-033528a16892"
-	},
-	{
-		"prefix": "bio/2/2",
-		"doelniveau_id": [
-			"2a45fa63-3148-4c08-8293-4812a2481bf3",
-			"11f7a97c-251f-4bdf-aa2d-b51acfeb3ce9",
-			"f8ba9374-fa6d-48b0-b823-fadf702578f3",
-			"c2a2d84d-cef8-4a01-a769-7d53c1f760c9",
-			"c9ed3d2e-1736-4a07-8951-3eb4d9828a97",
-			"4f57430e-dfc5-4f64-8651-2fef8eb69d7d",
-			"751ed9f2-ed0c-442b-bcdb-a177cc65fbc6",
-			"0c71edad-b2d3-40c1-9998-3b8d4e72bea9",
-			"1500b26c-7cf4-4e9a-bfe9-ee1a4e18b340",
-			"8910d643-f804-4d5a-985f-725bf297167d",
-			"8af1d7ac-1bf6-4008-8b10-c5aa090b9955",
-			"38ec8120-cf3f-4389-9f5e-284d46bb386e",
-			"ab55ff50-2c8e-4ea0-b235-463a248556f3",
-			"46de0afe-19ca-4181-ae86-95629c6ab616",
-			"add59759-41f3-4498-84ec-649c8d0c0b62",
-			"963d83ca-88f8-48b0-bfe3-35f918895bd4",
-			"b311b5b9-3c43-4473-8253-bd04965f78ee",
-			"5468f64b-8a58-4099-a8ff-ce6e96dceb92",
-			"19935e59-4e7d-4109-91e6-0b340c326e94",
-			"ca860dca-13e7-4b32-a7d2-48c7ddeb841f",
-			"0bc38fbd-dedf-4aaf-93af-756d9fd8ab90",
-			"8b318c8b-e287-46c9-8660-c2f8ba1c5321",
-			"97d3b0a6-2242-49e0-ac3a-0171ead7107f",
-			"412c5585-0012-4f1d-8beb-503a6ef0491e",
-			"ba36fac8-4fcd-45e1-b8a2-1a79360832ff",
-			"6c393e09-6b81-40ec-892c-1d768d143904",
-			"94a44e7b-2811-4d38-80d8-fd049e89b742",
-			"e862595e-eea3-4b4c-887e-296250f34bec",
-			"6688c32e-c266-4cee-a930-9254cf039ec7",
-			"6fce8e0f-8cd7-4021-b16a-ba1a30990dc0",
-			"68e46ce9-1295-42b3-be35-e41ec3702915",
-			"8e2c40f7-34c7-4a44-9a4f-0103f1b2db28",
-			"b872a050-06eb-4cac-a3ca-cbff19dcabce",
-			"8b742be1-0ffd-4645-91ae-298f8b57d5a0",
-			"d71c7a6a-0072-48ae-af74-77b77aa14a07",
-			"967604e5-26f6-431f-b974-b86e0a8710e3",
-			"19079414-9c9c-44ac-9df4-60e95acc43cd",
-			"77935596-3d50-47f6-ac04-9d95a7180035",
-			"b62f6932-4b58-4588-a7d4-072d9fba080b",
-			"2ec294c9-f77d-4af0-a6dd-020fa03ede23",
-			"6dee44aa-b9b1-432f-95aa-cacf12f60403",
-			"59a219fd-e672-45ee-a31a-b6e0cc0b873e",
-			"fac3afae-6c22-4ca5-a03d-69f5496bfb87",
-			"55c832fc-c6fe-47cf-b2df-93057a2e9fc7",
-			"27caa3bd-abe4-4542-adf0-d3703d5fc0fc",
-			"9e9efd7f-fed5-4ae7-acbf-c656d8ddf66f",
-			"eee755a4-cde3-459f-ad24-cc05a8a0357c",
-			"bdb5e26e-b9ca-49c1-b5f8-bb70af214d12",
-			"aff9eb7b-d3f9-4f90-b077-8bf91a616b53",
-			"5170b102-7bb8-4c22-9694-0eba634531da",
-			"6e524415-18a9-45ee-a6ec-f56eb479270b",
-			"76c39451-6e13-45ef-b325-c0dee45f1335",
-			"da005870-7bc3-4927-b848-e23a4faf42d6",
-			"6544c457-0a78-41c8-af89-8ca36b4106dd",
-			"74f769d0-0f8e-44ba-a112-0eb6d052f501",
-			"234118fa-2ce5-47a0-9fb6-731188c794fa",
-			"42d66098-8c9d-4ac9-ad66-b753bf02854c",
-			"924205eb-8039-467d-b71a-f3440f678788",
-			"f25a66f4-db19-4ad2-bbf8-285a394de756",
-			"4a9965be-ba8f-41c5-b257-a36dc2e70b07",
-			"1740b8c0-647b-4259-a60c-5c956a7ba3e6",
-			"09d73a3c-99d6-41a9-bbaa-71ea140de7c6",
-			"7cbfd837-9fbc-47db-ae35-89e0df80d072",
-			"95cae46b-14ea-496a-8275-f0c0d37de14b",
-			"bfcccd0d-9a16-4cb9-b6a1-294b19e747bf",
-			"47c9dd1a-8f65-4d15-971f-bc55050f9a06",
-			"cfd7d621-0a8e-464e-ba07-e42351b3ecd6",
-			"09b47be5-774f-4f38-97f0-575ce12ee7dc",
-			"c059ef16-1c3a-41c8-aa61-13d07277861d",
-			"d0c19340-4a77-42eb-8c1c-f0e622b6f87d",
-			"ffd15f4a-66b3-48de-a5e7-fa93a7e753f7",
-			"485e76a0-e94b-4793-8140-8225bc31148c",
-			"66a0d547-80d1-4d5b-b39c-e6c79db7d2a9",
-			"670f9d08-aac8-492a-b341-26e5576cfe91",
-			"ad693411-9f15-4e73-8d30-59bc64dbdaf8",
-			"6f32bdd6-2025-4c6f-bdea-b87f36620c7e",
-			"c6d451a1-1412-42ca-b9df-5cc77bf52b02",
-			"a21b3256-f466-4e94-88ff-2c01da1ce2ef",
-			"81cf51cd-096b-4f68-be94-18da11b085f9",
-			"5eabbafd-8e4b-41ea-ad97-ff5cc758a52a",
-			"cd05eac1-6b5b-4030-b1bb-978872222894",
-			"78ee3054-8db8-4deb-a7be-315bd7e4811a",
-			"3de5e9ab-2f1a-4dad-a3cb-2161289dc0d9",
-			"422931c8-55e5-4f69-8502-bb4d0850d232",
-			"28ef0123-b1e9-41ef-8635-55e0ddda31d5",
-			"40966c81-7f86-4b36-a0b1-a5516b85d359",
-			"055884b5-1fae-4531-b922-c16ec7f1004b",
-			"3eb76128-3505-46b6-93bf-dbecbde56c9a",
-			"8b1f2f59-a70f-4c9e-8827-77fb4cbe1580",
-			"0ea608aa-45f1-4a81-b0c0-16cfba05ccaf",
-			"e2878aeb-af71-4489-a63b-0aceb254fadb",
-			"96c76660-c9b1-4def-be5b-8760a98aaf86",
-			"60409127-4523-495c-b965-1e64b6f346ab",
-			"5ecf0a47-fd09-49c0-aed4-b84ae5e5538b",
-			"35a7b9f8-7b72-469b-a7b6-884e80cc82f0",
-			"099591e7-2c0f-4935-8eb3-8535176b73d9",
-			"cca8f02c-53ed-45de-8e57-39893a94d606",
-			"aa777904-2945-4dd7-9f51-c4adf832d1c3",
-			"4fc830c4-95e2-4780-9d20-7393b120db9a",
-			"be879a53-a5a6-4530-acab-53bddb3eb1e1",
-			"48d61a0f-bc62-4c9e-9ab3-67a68f9aa565",
-			"56e806ed-137c-4842-a283-7f2a3d84ecee",
-			"e830e9b4-1f81-4fa7-8f40-af4dfbfdde10",
-			"d98a5a40-b2bd-4b33-b35e-585d3315a011",
-			"ad7f35ea-f898-403e-a722-c2fa782b5337",
-			"007a566d-302f-4082-800e-af1645cf941c",
-			"2e900729-4295-47ad-acbc-4e8a06407a31",
-			"4789653d-ecd6-4607-810a-8525deedb9b5",
-			"da52bfb6-abc3-4272-ad45-dc2f23747e09",
-			"8b0b0f4e-f13a-4551-baba-3eb7adbf58fe",
-			"6146fecf-c672-46de-94cd-5761903ef9dc",
-			"3266d6e9-9ccd-46d6-896e-6505a2aa5740",
-			"bc553472-8528-4df5-b0fd-eaa3f75304ef",
-			"35f59931-4a28-493e-8f4c-6a6d6db9c50b",
-			"9c9123c0-0a5c-4ffd-be03-fc7333762589",
-			"a0041936-79a7-45cb-a16a-97c76f498cba",
-			"5d5d28e4-e9c5-4964-802b-5cb1b8c91a39",
-			"cd226547-2c52-49b1-89a5-c8e446cb58d8",
-			"3813643c-0545-4fc5-b879-c2db07fa5899",
-			"a5baa951-233b-46b4-9f4f-8d99525bc152",
-			"d67514a8-a9c9-4fe0-a94e-5b0d2f9a2e93",
-			"570d8f60-26cc-48f6-ab30-9243cd250cbb",
-			"15f3e1f5-85c5-4c0f-a78b-519365363245",
-			"5c79a8c5-b6f3-4636-8d77-debfa481b92f",
-			"a0e0154a-6e0b-47f4-83f7-913a3b5c46fe",
-			"84c9051e-3224-4f3e-b1e8-dbd937740dc7",
-			"dfd9863e-b7c4-49d8-94dc-edaa99a18bab",
-			"842ee9f5-70ae-430f-a2e1-61d2d04a7e9c",
-			"ab941778-a746-4442-b8c8-45f0423e2c7d",
-			"27a23559-9823-48f6-b93a-1a8c215686d0",
-			"21901185-0d3c-40c6-a972-e04e99c63383",
-			"2bc99fc9-b0c6-4b89-9745-632ca731d34a",
-			"dfb9b00a-85e7-4e04-be21-cfe971535423",
-			"236f9dd6-77ac-446d-bac8-12281ad5b0f0",
-			"3219f4ce-482b-4f59-89b3-8a4330a8a93e",
-			"d65b3b58-17a8-494f-98f2-038cd7f1133a",
-			"0e29b4f0-5c8b-43cc-9f10-5454b9155799",
-			"af405196-73aa-4cd7-8bea-749912cc0e0a",
-			"a5f56be2-b797-43ff-80e8-fb45ce291c5b",
-			"85a9ad15-a2fa-4c21-b362-4b46034a57b2",
-			"e4ea92c9-0c15-4710-a152-1ab4e8d1146e",
-			"cc7d739c-e740-4a35-822c-a67b81a67fc8",
-			"73215610-7b8d-4887-aa6e-d5afef8c0f6b",
-			"279668e5-aee0-4bef-a402-681b01ba4360",
-			"459788d3-e0db-4872-8878-ba03a8509fa1",
-			"f5ce02da-52c2-4da5-aff3-6943fa150b88",
-			"21fd767c-892d-47f1-b871-d5040f083b57",
-			"e1086407-63a8-48b5-bff0-d5dd82399538"
-		],
-		"title": "Stofwisseling van het organisme",
-		"id": "e3b2d57c-d41c-482e-8a5e-c03c7afe3477"
-	},
-	{
-		"prefix": "bio/2/3",
-		"doelniveau_id": [
-			"6d33713b-cd65-42c0-b168-074e71cafe62",
-			"a66d128a-6369-424f-89a2-41909998f1ea",
-			"b45a4f14-942a-47d8-939f-c118a8f9ce25",
-			"2393b996-e741-4ddf-ac19-79f9ae14a913",
-			"a0128681-c69d-4d17-9e87-17662733e62e",
-			"dcf688fa-aac7-423e-88a5-9fd23f49a52c",
-			"71b61a4e-1bd5-427b-941c-4ff54a960ced",
-			"7f401c00-328f-49f0-b1c1-aeb166bfde22",
-			"0baa0510-3b4c-4519-b651-080697480108",
-			"1c85b7f9-ec28-489a-b33e-e60af464f9e3",
-			"2be80e60-afc3-43ff-8fa1-d588301bf99f",
-			"5323a9cc-42b2-4294-ae40-0430729346b9"
-		],
-		"title": "Planten",
-		"id": "0fda0066-b516-485c-a66b-98ec385e212d"
-	},
-	{
-		"prefix": "bio/2/4",
-		"doelniveau_id": [
-			"c2b9c7de-9a9d-44eb-b703-baf19531c9d3",
-			"ec197add-6b54-407f-82c8-b2a75d7961d2",
-			"92b86989-3b81-4766-bcb4-c5feed6e0ef8",
-			"103f1bbb-fef4-413a-beb7-cb676e4128af",
-			"5131bca8-e70c-4231-bf7b-7b8081d350df",
-			"53ff6f64-1e6a-4e44-b232-99bc482beee6",
-			"28d8cf61-83ff-4d20-a7a1-fae73bf13a86",
-			"4593c71c-a996-4535-984c-257d29f0f8fd",
-			"1fd93f2c-acdc-4d09-ab2c-216f8bd3c6f9",
-			"002466f8-ba97-493b-a3f7-af44c77e2025",
-			"8c94d0ce-9d91-4947-babf-5623a9002ac9",
-			"ca94e7b9-6bd1-41a6-ba12-30739f4e7c92",
-			"847b3ce9-9097-4246-9e3e-cc26725c8427",
-			"542439f0-bcde-410f-8107-4118ee0252aa",
-			"824d9273-79fa-4352-9257-0d1ef43bcad8",
-			"cafbc343-77f1-4972-88bd-c3102b6a46e8",
-			"0bd23079-cf4c-4ba2-b9bf-4b2b1d85d96d",
-			"26433106-7b16-460a-9002-01788675ccad",
-			"0e35444d-ad97-4c74-b8eb-02afadf7b808",
-			"e5a33bce-4144-4e8d-9161-b6e3883c037b",
-			"06d5eaa4-7d8a-4992-b535-466b1a515b0c",
-			"f3e8afea-82c0-4e6c-9023-2d09a3748c5d",
-			"829e091e-c5e1-4f93-b29c-bf3659dea6c9",
-			"fa286ac8-a545-47ee-afc9-34a697a38ba4",
-			"af78aed6-fa4b-4cbd-a34a-e90e93b10055",
-			"490b7a96-50df-4909-9a02-adce4ad8187e",
-			"50da655d-3afe-42f5-b75e-1381cddb7172",
-			"ea98a855-757f-44cd-8040-b4dddd5e0acd",
-			"114d7026-8f70-4aeb-9f7a-654e10cfe1ac",
-			"dbfe28ef-621a-4ddc-83ea-538acfdc707d",
-			"ac9873ba-13f8-4aa4-94ce-526096a45c75",
-			"f567406a-c54e-4a61-ad4e-770141ca6143",
-			"762fc487-9845-4423-a98f-04d8047f4197",
-			"9d29c5cc-b4b5-40b9-b532-5cba775f99dc",
-			"bbc873a7-f016-498b-8755-5d3d7c12cb3a",
-			"99ab7f7f-e62d-4005-a17e-7eabd8a38e59",
-			"aba8577d-c6d9-4c31-9ea8-0cfee93d3af0",
-			"4e919b01-695d-4b18-8fa1-53c2b96813f6",
-			"f48d094c-45fd-4e33-94cb-2dd0365efb39",
-			"70537921-a4ce-4fff-97f6-a52614dafe8a",
-			"b8a28219-ebaf-4b97-b989-ca53e5367df4",
-			"2be3f961-66fc-41fb-9479-4804a3dcb7be",
-			"0f72fc6f-dd6b-4c7b-aa8f-7803f84a6993",
-			"ec7ab681-fae2-4d69-9c21-e86aff384f7c",
-			"68f9bd20-9f89-4924-ac31-3589fd6028b4",
-			"36810da0-0fbc-402f-9e00-7b15d24eefee",
-			"9aa89509-ad9c-4f9f-a246-2609c1de5dff",
-			"f034a4c5-432e-4063-9d44-0ce62734be6e",
-			"a7820dfa-abbf-4157-9a98-5c317c9ff166",
-			"d358ec39-23c9-4893-b228-5fc3e587c122",
-			"a235661b-938b-48fc-936b-ac11f1bbc04d",
-			"3b9d28c3-9a79-457f-855a-40211c6ab055"
-		],
-		"title": "Regeling",
-		"id": "60d2e176-a117-4631-ba9c-b2ec332704cc"
-	},
-	{
-		"prefix": "bio/2/5",
-		"doelniveau_id": [
-			"5b8a128a-c186-4945-9bf3-c76ca0dbe2ba",
-			"960fccdc-6556-4c53-9240-0fc08aac55b6",
-			"0cb611ad-e142-46be-ad92-d2177b5272ca",
-			"b391bd09-8ec1-4670-9280-7e6f3707ea3c",
-			"d0b153d5-0a51-4de5-91d0-156837a0ea0d",
-			"5a4c783f-1eae-4f13-a0f1-c6fd1fc9f1de",
-			"ef920f70-04b9-461e-8abe-64f7b03ad164",
-			"bb97ea9e-ce75-41e1-bfb1-c963b5848c6b",
-			"43855c46-7e84-4c7a-bc07-2ce3505ce7a8",
-			"2733e4fb-eb47-472c-91fc-2436f00ade1e",
-			"29e34c42-d66b-4a2d-be82-838118908468",
-			"db5da526-12a7-42c1-b1d0-76a86c8e0273"
-		],
-		"title": "Voeding",
-		"id": "352130f3-75da-490a-a541-21b6c5952a54"
-	},
-	{
-		"prefix": "bio/2/6",
-		"doelniveau_id": [
-			"e9ac14a2-928c-4539-beea-f1c560e700d5",
-			"886d3b6c-f830-4547-91ca-b0989815eac6",
-			"32308ad8-8e4b-4f37-a82b-a0397e7486a8",
-			"d2f12c19-ac38-4eb4-b87f-a046d3e3f5c8",
-			"6ea78499-fec9-49b8-8671-b3d79e8af020",
-			"2dbc52e3-b59d-4873-861f-63a4563c7b16",
-			"5de6be7c-b790-4b3b-8af9-fc0a598ca06b",
-			"63e50345-329f-4834-aed1-f7e270cc9757",
-			"c6ca346f-4af4-44d7-b483-84ce9da3af8a",
-			"944c14ba-15e5-4fde-8d99-63588ccb0301",
-			"551c59eb-6179-4d2d-9f1f-816dde1c8b92",
-			"bc0d8074-feb4-4b73-9815-cc1be7925f26",
-			"ac36386f-728c-40b5-afba-a2fed814d912",
-			"1a9ab8e2-1332-4c65-a98a-b134250454db",
-			"6f34454f-a8aa-477f-9274-8af6ae07e531",
-			"4a3d93d1-e3aa-4466-bb39-cdfc31ceb627",
-			"737cda08-392e-43bd-bec1-2ef78144ac1b",
-			"70ebfec4-2614-4aed-8b45-5ade5f604b22",
-			"7176b9a9-817a-4ab5-9160-41345faec540",
-			"f048b0a2-3c46-41b4-87fb-e688800562c5",
-			"3dee56b9-6b28-48b4-a261-42d4849129d3",
-			"dd4808ee-2013-4359-bb9f-ff97631a60cd",
-			"57f23cf5-2abb-47fb-a112-d0d2320e732a",
-			"479d5965-7e04-4553-8b50-95415ae0922b",
-			"6ea67aed-1464-4396-8816-a5bdec32021b",
-			"b45f0902-c0fa-4f72-85fe-aed7e4640387",
-			"2089bcbd-e5c5-43e9-bb7c-7e9ae336c003",
-			"15d467e6-43a2-484f-b04b-6e5f2ea015ad",
-			"8844c1f5-cbfc-45e0-960f-dca8d2be83e6",
-			"06fe4628-9c28-44aa-85b6-c18208898094",
-			"3c2b0ed1-babd-44d7-9455-9a65ad0ffb02",
-			"212270e3-b1dc-4994-a1dd-62c177cd6cd6",
-			"21dc0ac7-0826-41bf-b94f-366a4a47beb8",
-			"6acdb335-fae1-4a51-a133-c5c89165e87a",
-			"d90e2301-5839-4bbd-88dc-ef4dde8a1043",
-			"7ca5bfc8-c03c-4a75-8fb8-17ee14dfe9d9",
-			"79760ff7-dfae-44ab-bc79-b1f75c2bd3df",
-			"7f445b88-f439-49f5-983b-1c2ee7aa7540",
-			"908894e4-8b93-43f6-aac3-4adc57b28329",
-			"9b676ce9-c50b-4854-959c-a4b608bdd901",
-			"582eb910-1ddf-43b0-9b34-57e9bf6772c2",
-			"0f502024-9f91-4d41-bb15-d113a731eb24",
-			"318c3812-97b7-4719-9d76-16df2ab6f4b9",
-			"7e676d2b-fa53-4276-941d-f4884b95c50f",
-			"716050bc-64ab-4d8f-9ce0-d19b1e58ff79",
-			"4430abea-83a8-431e-b96f-478efa61470b",
-			"2831c5d9-36f5-47cd-bd0a-d72002a0a4f8",
-			"55723c8a-45b9-4594-a244-3cd5871c2703",
-			"08cebf9f-000c-49d8-b0f8-ed326409325b",
-			"540efd84-f3a9-445b-8ce7-44a495130c44",
-			"8c4e5126-35c9-4927-91b1-2ec9e0ed6b84",
-			"9dd010f4-1375-47a2-8b8b-9fdb4a456bb8",
-			"f6ef3546-70b6-4de3-9a31-e1aaaadfb701",
-			"9df0e5c9-ec52-48a2-9ae9-cb894a089c61",
-			"6191988b-3e01-4615-ba5c-b5f97faca187",
-			"f9ebcd0c-828c-4743-9c24-3e35e0961914",
-			"d25049ce-070d-4b2b-8f20-10a49528befb",
-			"81f01f40-2de0-4477-ae77-4f04e5e1f575",
-			"2819d31a-86c7-41a2-ab8e-31b39bdc33e6",
-			"c20d114d-498f-4a83-acfd-4e5731eaf468",
-			"a64f1651-488d-4bf3-a3a0-9dad40dd1ba0",
-			"0e3161e4-44be-4ee5-bf7d-8a78c1015b7e",
-			"d05e3a66-8350-4bc5-b621-2805c83f5efc",
-			"52a634fe-c874-4f1a-b2db-01b8f3614f38",
-			"c9016655-fe05-4623-8280-7b23c6fb50ff",
-			"c19cc57b-8305-4da1-a169-4a82cd3bf51d",
-			"32bcabac-eddc-4b63-ae46-a0ce78f54491",
-			"b668a9ac-55a0-44d4-b63c-cb7046dfadba",
-			"319b2ca6-86c9-4e8d-bb5e-9b3f939b6673",
-			"7ba2f110-922a-45d4-874c-21fec56f14e5",
-			"abde44c8-e75b-457d-adff-bc6207bd6816",
-			"abf5678b-7082-48ba-8a3d-89465c0c17c5",
-			"d76da364-088e-4f4f-ac70-044008f4b4ec",
-			"745ef331-7fd5-4449-95d8-8f5d5746c054",
-			"54ddae02-49a3-4082-93a6-5ad59f329a0b",
-			"8e0e75e2-d061-4104-af17-ddeb162566fc",
-			"2e9a0d59-b235-4de1-935e-f4af096c7635",
-			"f1fa0271-2287-4c39-85cd-c75f05ee3fd7",
-			"4fdade39-2558-4760-99a8-d37e94bd010c",
-			"829ee447-636e-4600-b589-8f746bb79a66",
-			"88cfa867-b353-4b0d-a688-6f661217036e",
-			"745d2075-d704-454e-ab62-9fa276fbe92d",
-			"f3017cff-ff80-4718-bb58-2c1bf24a8482",
-			"53cb2953-2d27-4234-85aa-c8ca08cbe75a",
-			"187b1ac4-371b-4eee-9f15-d873a1a0a8e5",
-			"ea866a23-2de3-4bed-9158-0b80b6b32d00",
-			"459a6017-9b77-4309-b2f0-63d758eb4b9c",
-			"6dcb697e-5611-4137-8ed5-b095d82f60b6",
-			"3557b7a6-dc35-4d0e-9668-26c3a256cc44",
-			"5f225f57-ea5a-41c0-b8df-ae3501b530f3",
-			"a7087919-f556-48b0-b4a4-56624e40b338",
-			"ee75a42e-4270-490d-a1e7-4505da0347d8",
-			"7fef3783-a155-48b8-a200-8275efa78591",
-			"217964e9-7c5d-46d0-8f5c-117a83045269",
-			"89e6ee59-f70e-4032-929b-827222cea9be",
-			"3ce6e4a2-fc75-40f3-ab09-362f75ed173c",
-			"837ba204-0ce3-4315-822f-25525f41b2b7",
-			"2453f387-cac7-44fe-b972-76e2df535e3a",
-			"c4cfe494-734e-4628-a702-d6b3dd555ac3",
-			"a0a6721a-b9bc-4829-8bbc-7162d0dc865e",
-			"80569c21-e7b3-455a-a036-4b792e0d348f",
-			"1f23abe5-df66-4bee-ae6c-4b981e4de65b",
-			"fabdcb3b-c244-486e-a7d3-0f3728850468",
-			"cc1a419b-2dbf-4ea5-b056-a1e483f202ea",
-			"57e6248c-1cc5-4972-9e15-3112401cbf2c",
-			"5ed17564-bda0-4956-9fd7-dbc36ff9710a",
-			"24aa0876-e012-4ae5-b180-ed610294d4cc",
-			"b99ef322-0637-4757-bc90-975a6456998d",
-			"6da0c814-cac7-4e3a-ae7f-5b7c4ccbd45e",
-			"3763728e-0f7b-4692-b6b9-4a670f9fcb7d",
-			"4fb5437e-c6ec-4b7c-9705-fa61e4457fc5"
-		],
-		"title": "Gezondheid",
-		"id": "4d49d2c3-de07-469f-b83a-d7b502eaf104"
-	},
-	{
 		"prefix": "bio/2/7",
 		"doelniveau_id": [
 			"a0b55d11-28f6-457a-ab2e-07bb8902905d",
@@ -2124,176 +1310,6 @@
 		"id": "a61e5113-41a4-4a13-8ad3-f0d46dbc7820"
 	},
 	{
-		"prefix": "bio/3/1",
-		"doelniveau_id": [
-			"fecf697a-6810-47fd-a763-88821c26b748",
-			"e9b8ba9e-ddd8-4608-b09f-ade11dda58a8",
-			"21cf6da1-6b87-44e8-8322-72b96ee62ace",
-			"1204717a-fd32-45e5-9722-a374cb24be10",
-			"befbf8d0-4eac-4a1d-b29f-4d2c69d66646",
-			"f29ea373-a337-48f2-8b19-9e0379237241",
-			"f9da5866-2529-47e2-a1d4-a9f99fc1058c",
-			"bedee7ff-2f1b-49a1-9aed-0904b8cbbbd7",
-			"62012f97-a439-4b15-a788-92b0130c57a8",
-			"12bf7785-fda4-4463-9b85-f226039f0745",
-			"a881898d-6da0-4ece-87dd-f3f6fbc8d5dd",
-			"c2c3f30b-1283-40b1-a4b3-b2433ad024fa",
-			"66b706da-66c2-41ff-bcf2-5d72c6e1285e",
-			"d2f7610e-3397-4aa4-a3f2-6b9d085552a1",
-			"86827ff3-9366-49d5-bb0a-b6233a711507",
-			"84ac9386-6f8c-41e1-8979-5f9b4f7eb271",
-			"027971ef-8bbb-4b3b-8b4a-abcef9cae557",
-			"289bcfb2-d0ea-4eda-afc4-34b0ea44dd4c",
-			"31cef827-00bb-424f-be9f-82ca60c8a101",
-			"8a27ae94-c2f9-4043-9476-96746eaaab4f",
-			"0b7b21ae-0fda-4ba6-9e1d-01625cd1dbb3",
-			"62adce41-7514-4161-b8fc-04b184fe42b3",
-			"d0be37a1-98c4-41ac-a71d-5395f8227086",
-			"1b62a642-7f7b-4648-8c8a-c5131061290b",
-			"4fcb967c-2e20-4eea-bc9c-64a7f947ffd4",
-			"d4eff6ec-fc56-4b18-b663-34ffc6e31466",
-			"34526efc-d9aa-4cba-b688-b7b23bf23f4f",
-			"8eecede3-e923-40b1-bfd1-7576c05b60ce",
-			"e64dd6f5-7949-4388-b977-16a115cdda5a",
-			"aeabfa57-bcba-4aa5-80b2-84a5afd48adf",
-			"5042015c-4482-44d5-b287-28af7760f53b",
-			"12c5b1f6-e2e4-4a76-a1f4-58e851aa29e3",
-			"890fec4c-2c23-46b0-96bd-bd3ee0f22cfa",
-			"12d4ce24-df4c-4385-a445-ec53a1eaab3e",
-			"210517f9-f5f8-476a-8bd0-7d03c321fc10",
-			"17986409-a91c-4317-bd22-0bc5b3d9d456",
-			"2ee842d2-a47b-4026-a33b-608a517efb92",
-			"3a8a3118-2f16-41ad-b465-d571edc8179b",
-			"934b24cf-d613-4cba-afce-5b39476628f2",
-			"fded9f3f-4945-40ab-972f-f96d85d7a3f6",
-			"e5312972-c675-46bd-b221-e85dc906be7f",
-			"579a7469-724c-40ce-ab84-82596f1e69bc",
-			"657c8dec-401f-48fb-94bf-2dbb8f0de423",
-			"bfd04d43-6c78-4cd9-8618-0cf95e958ace",
-			"0cb2aaf5-0eda-4373-ab30-6a64e67e33f9",
-			"1a5b084c-eda4-49c8-9fd7-ea10e7a8bdf5",
-			"dd6d3475-badf-4af4-8e9f-5c5bbca37562",
-			"87290cbf-6800-497b-9533-6ffe85fcd34c",
-			"807b82c0-b97b-49b6-9196-5d34965fcfd7",
-			"29cb02cd-9377-48ac-8a70-dea20f01e904",
-			"be347ae8-519c-4329-835a-0cde2bfdeaca",
-			"798e0b30-e59c-430c-8f88-879762784afd",
-			"7428eb5d-efd7-4a25-854d-69042aec1ef7",
-			"224ee86f-18b6-4f61-96ce-8d1e0bddd98b",
-			"1b59ed1b-25e7-4715-a4ee-2c926129410c",
-			"26f5b52b-f946-46cd-8764-3925ad7090d3",
-			"559ae0f0-9b24-49b5-b617-c406ce506bdf",
-			"9756da1a-da14-49a3-9c1a-d1c5d1e8ec3c",
-			"a43a8063-1db8-49ff-b1fb-f04770f9f938",
-			"93c51baa-5bdc-4c46-b4a4-4f6015a5602b",
-			"eec38203-d94c-4b64-9795-0c59eb289144",
-			"ea03e3f9-630d-422f-9ebe-fd40fd90b5e0",
-			"bca299ed-789b-4a8c-9c19-74fd874560ab",
-			"348b8ddc-5c38-4223-8112-e6e261d519d1",
-			"4d87ea2c-92ac-410d-87e3-dc8717971bc2",
-			"a0dc867b-5bb7-4730-a994-04040b8ca824",
-			"2beca473-62fc-4154-99b3-86f4d71f0fd1",
-			"37d41d73-1fbc-4516-92ca-45827b183d5d",
-			"1c5432f4-8233-4852-9110-c08b6bb3f877",
-			"afc05614-0f91-4ce0-90f1-74323cdba6dc"
-		],
-		"title": "Waarneming",
-		"id": "f52388ab-886f-461e-88e9-9d6d73232323"
-	},
-	{
-		"prefix": "bio/3/2",
-		"doelniveau_id": [
-			"69672742-9bf6-4ac7-8983-525459d8341e",
-			"e9d2df1c-080f-49cb-8268-4e13c1ac20cb",
-			"1d9dfca8-ded4-44f3-bf4b-78b784eb0254",
-			"d885d43b-f091-49a4-91d7-e13c06caab9e",
-			"67fe86b7-f550-4121-a7a5-632fc0252a91",
-			"a06c79ed-22a1-4a7c-98d9-153e8208a733",
-			"aeeb1ac2-13f2-4cce-84ef-60a2b5d921cf",
-			"381713b2-d616-4f89-ab06-932d71426f1e",
-			"88145819-4968-4136-85bc-68656ff2095b",
-			"c760e756-a51b-4471-a37d-057ea63b7136",
-			"8b9dafa3-19eb-433d-a405-045619a6bc9b",
-			"ac7e3cf6-36e6-435c-a811-bed1d10645ce",
-			"bcee8ce5-9915-4a7d-b4ab-c038fc85b07e",
-			"88af6c4c-de23-4dcc-a4f1-75333b1ae277",
-			"dd1b9452-a2d6-4638-b269-b3d6c1805aec",
-			"a0e05582-ba8f-4736-a4a5-48045f197aef",
-			"54ad9b99-ddc8-47f9-82fd-f8a41cf6301c",
-			"36eefff7-f039-42e2-8604-8310f59cd335",
-			"2adcfe21-8da1-4a81-8997-d0523d88b699",
-			"7c827681-6cfd-46cd-bbdb-d81a93b2c5fa",
-			"fd0e5e37-2b2f-4f86-bd6b-7acc57b461ab",
-			"21acccc0-b2fa-46e8-b713-523854c786f6",
-			"367bb378-3b98-4a2c-aab7-0d62fa197e54",
-			"17b98eba-8457-4c65-8a91-024058425297",
-			"45d5b592-fc15-4f27-8b11-25309332d807",
-			"f058ae02-e580-42b3-bf52-ced5977a18ff",
-			"e369aac9-97cf-45ec-8f99-c818fdfbecf0",
-			"14751651-9e4b-4b60-af8e-03826252fc53",
-			"da5cc408-7649-497f-8181-ca058195a24a",
-			"d66d8485-03a6-4e78-a2de-f0e8e338b17c",
-			"0ae420a7-cfb3-458a-b3d7-59eb2fca0149",
-			"129a77d7-3095-44a7-9e46-47d8aa77e08a",
-			"0bd9c541-b035-47e3-a3f9-4429aa6ae89d",
-			"bbcecca9-25ee-45a7-b2c1-199cc990addb",
-			"6febc3a8-9425-4d66-aa73-0ef63e1d1ab6",
-			"af4e478c-8708-48f4-8503-fdffacdc55ca",
-			"0af9ec43-7dd1-4911-927d-30f485d3b21d",
-			"450a8ea2-533a-4141-95ea-9d7ca4463816",
-			"d93dfc00-fd1d-469b-bca5-3889b1f728ee",
-			"2222b864-14bc-4a8e-876e-22b9764f3e75"
-		],
-		"title": "Beweging",
-		"id": "bd57a388-b6f1-432c-936f-ff834fb2ec84"
-	},
-	{
-		"prefix": "bio/3/3",
-		"doelniveau_id": [
-			"5cf56e85-19e9-4b65-ba6e-6083dea371aa",
-			"feb98eba-fd16-4440-b526-838860f151be",
-			"5cc5dfbd-d087-46d0-8689-6ac300d57d8b",
-			"68f85e87-c4a2-407b-bd5f-85bcb08e0f53",
-			"15135a38-05cf-44fc-8e3b-ef2c9cec28b3",
-			"9eec9c1f-bad1-4de2-b57d-423226f9802f",
-			"fcef0de0-2e0c-45db-8419-cbfba2fab2f7",
-			"10520e5d-b193-4a12-8df8-d2bd1c2f9654",
-			"c7564b0c-efa2-4625-8f05-65856c1c24f7",
-			"e81fb999-e57a-485f-93ab-d6baaa74ddd9",
-			"e27a27c8-7b79-461a-9a37-2ea2c7335e42",
-			"b68ac3c9-f63b-445b-9a28-adea67b7a088",
-			"9e3e448d-73d1-4870-a921-fa96222206fc",
-			"31f390cb-c8bc-41a0-b2ae-fd7a629ea480",
-			"d297b8ea-2d07-411a-b2aa-4208618c3776",
-			"fe938f28-ec64-4262-9499-263bc8b5ae6e",
-			"c89cdb8a-bcf1-4d20-8a5a-0930b2e72173",
-			"9d83f598-884b-4d9a-b991-013fe5f8f55f",
-			"3c397f20-4c01-400d-945b-5f89e58ef62a",
-			"af671ce9-9b5b-4031-b0df-7f52cfb39eef",
-			"f41ac7a7-1e87-457f-b752-a85b79e9ed8b",
-			"52c11c09-cbda-43b9-b876-ca7648306348",
-			"2a6eddb3-5acb-407f-859a-f3b98b694b0b",
-			"862806f7-f13c-4c15-be27-2d60f1615792",
-			"57851fd4-811e-4748-b304-39c820fc5ece",
-			"96b27e7f-6169-48a3-b9bd-d7714eef0ffb",
-			"d1ccf4e9-c46a-4497-925f-345545a5026b",
-			"88cf14e0-2a8a-444e-8bab-c38c91545413",
-			"772f9ec2-465c-48e8-b8ff-795d9953b719",
-			"410dc650-14b2-426b-9314-4a7bb13eef07",
-			"71d2c812-d449-4673-babc-6826b63e3b85",
-			"aa7cf1ff-555f-451c-af2b-1550b17b4e4b",
-			"563b7010-1408-4390-8736-b41b963a5092",
-			"27937070-0068-4932-9fe0-386928f3b137",
-			"86edce1d-658c-4f8a-9b14-a8ad5c09cad3",
-			"da50a230-4094-470e-a080-45935e71b763",
-			"f604adfe-e2ee-45ed-b24c-5e788b86f0fa",
-			"4ed115dc-f57e-4926-beb2-20edd9d3347e",
-			"8e4fe118-3505-4c8e-b5d7-d3bef36f97cf"
-		],
-		"title": "Gedrag",
-		"id": "50d81896-c6e0-4fbf-bb38-9981f4cce95b"
-	},
-	{
 		"prefix": "bio/3/4",
 		"doelniveau_id": [
 			"9b1630cc-f3c3-4f16-ae38-642135c59612",
@@ -2330,254 +1346,6 @@
 		"id": "2f5dec2b-440e-4dc4-b4b8-c46f098bd6c5"
 	},
 	{
-		"prefix": "bio/4/1",
-		"doelniveau_id": [
-			"33ff8aad-7710-4994-8e10-159ff4b1c646",
-			"3dc0beaf-2c59-4870-8894-be9ea9a38196",
-			"51076de1-f82d-4b2f-ba46-12e378d248af",
-			"2c87828f-cca7-40c2-87ab-9ecb2507ad9e",
-			"1bdd4a4d-9798-4e3b-98b1-635ee96cf24e",
-			"ec7b00bc-e365-47f2-88af-c22abf80e627",
-			"8bcc12d9-6549-4a11-89e5-067317dc6793",
-			"68519c46-f61a-41ac-97e3-761c32a252ec",
-			"80a8c25c-4d58-4f8a-9b58-77ee997dc57e",
-			"71c02760-f310-46d3-aff5-56b1f4e97d5f",
-			"6c806cb4-80d7-436d-bf39-97e254c2c332",
-			"d65d396e-be1c-4314-acc4-a492b3f3041c",
-			"eae9fc3f-649c-44cb-8455-5ffe88f94004",
-			"6eecea25-147a-48e4-96a3-2e876d321998",
-			"80e37825-1d52-4fd2-88e8-acee4da99fee",
-			"dd8de1d3-90f1-470d-a08f-282bfdf42fe5",
-			"f082c269-1381-4b05-af26-ee334faba9b5",
-			"9ecbf6f9-b9ad-406b-abfe-915e0a22a7d5",
-			"d88f9b72-6eaf-408d-9b29-5a0caecc98c7",
-			"5a29f81c-91d5-42bc-9811-e0718f6e2a6b",
-			"1c4c7dc8-a513-4ca6-9511-8fe786994193",
-			"b3641505-9910-49b0-ad51-fa5367b50cef"
-		],
-		"title": "Celdeling",
-		"id": "5abc324a-b274-40ff-be2a-0385f87f9719"
-	},
-	{
-		"prefix": "bio/4/2",
-		"doelniveau_id": [
-			"4c1ac3c2-fbbe-4596-bfc5-0d80e95d2e6f",
-			"af1f3628-a7d2-49b5-89aa-6a288d4415bd",
-			"85944078-6775-4077-a127-febec1524615",
-			"2c69735a-74f9-4873-89d5-04c31333fb15",
-			"32f0133b-f3e4-4591-81df-8471d3863859",
-			"afe3d164-c49b-4591-8223-4653c036dde4",
-			"32525014-3eee-4d11-b3d7-b60ac59ff018",
-			"06910ca5-0e13-42ed-ae3e-8dbd95f0e947",
-			"71ae80a3-ceb2-4d88-86e7-9f9bada7dfaa",
-			"6083fd03-9de1-4f70-ad83-c3dbbc9a3315",
-			"a5189b96-b735-4b65-aae8-67fc233e7eb5",
-			"fe172820-b556-4117-a40f-a1faeaa19fb5",
-			"6ad16b70-0640-4ba9-ae08-1ee30c35e13e",
-			"01998aa3-9632-4adc-a9ea-57bbc4d7c78b",
-			"9716f563-a269-48b9-9a22-f5a458cc3099",
-			"4d744be9-0a9f-4344-b944-a2323fe17c73",
-			"446916ea-0e81-4d97-84b1-695795a7f346",
-			"8d61f66e-7807-44fe-a30d-60cc923c8879",
-			"f1024cb9-cf8c-4066-bd45-fe2635b36728",
-			"322fda1d-ee5d-4859-90f9-3aa17daff77e",
-			"1fd63153-fa1e-4f91-a573-c24fc205c042",
-			"cc7111bf-fc77-401f-af55-f5468cdfc229",
-			"18ebf5fa-33e1-4916-85b4-06a1e898fd30",
-			"3f173990-16c8-490d-8ffc-33ddc8580cfe",
-			"a468761b-eb6a-48b8-b0c4-38ecdff979bd",
-			"7523c7ab-d803-459e-8701-98bcaa1ebc0b",
-			"db9cb29b-6b3b-456e-9fe7-211f12266fff",
-			"4070124f-a3f5-4143-9847-26da6b045002",
-			"4be00c3f-7bb3-4d13-abe7-f3f06572aa02",
-			"f7220808-4552-41b1-ac04-860c0ec2c87b",
-			"edea5e13-4a48-4c5f-9027-42d2113f1c28",
-			"8b2171bf-7d17-4b0f-a779-b0a9afc0b8dc",
-			"ad455927-a6c2-4bb0-aa37-7532a700b295",
-			"a152f54c-4a0a-4b08-b714-e40767b10027",
-			"0d9ae0a5-b636-4581-8212-22d3c004e74d",
-			"d4334c77-dc9a-438a-b037-bf3763048b51",
-			"7cbfedf1-7bd2-4450-acdb-fe9e00bcb58b",
-			"c6b51f22-7deb-4997-8ed8-aee0c590da09",
-			"d20bd9f1-d471-4bc5-8d06-666ec45cfccf",
-			"728a973f-975c-4d91-8eb9-6b19eeff105d",
-			"8698a00c-d7b1-49c8-a67f-840930c4e555",
-			"d53a450f-1c3d-45e2-8807-bc1be9d4b5a1",
-			"2e04046a-0ff4-452d-b203-e984a97b2c5a",
-			"d4ca21dd-5765-40af-a98c-de0a39e07aab",
-			"2b1579bb-c075-49f0-8b80-899c2cf8d48b",
-			"ffa787c2-465f-414d-ae98-1b8771a96694",
-			"c79fd884-1897-4c32-a084-baa08208dd21",
-			"d0a6a771-60e1-4a90-ade8-fab6976a83f5",
-			"20bde415-2530-4341-849d-5ebb7261755d",
-			"9eecd552-b37a-47b3-8f72-3f92bcb71426",
-			"ce018d8e-ac39-4e8a-959c-0226998a1c74",
-			"d487f6f9-63e8-4f34-9da2-95233c5fb63e",
-			"0f092d08-b947-4f30-b233-73a12ca80555",
-			"5130c80c-71cf-4e80-bae8-974779c15578",
-			"edcd0ef1-0de4-4632-ae5e-9fb386f51d84",
-			"7e360286-f2bf-4843-9fbe-f1ff95a09fc5",
-			"d86ab7b5-cedc-4d32-8ce7-c1a637f6e6cf",
-			"fb0244a5-5545-4cee-95f8-32c96f56bba4",
-			"e8aaba0d-c41b-442d-b67a-9e8a04260b80",
-			"8a677ed9-f231-4e5a-9e32-a84d9c8f220b",
-			"c0981da8-e6c5-41ea-aeb8-589f01c7d5bc",
-			"a8df7764-bb04-4727-a709-e77eba5de5f3",
-			"7bb80cca-d605-4d34-a1e5-ec94818af23b",
-			"e9c338bc-e7ea-4bc5-a1aa-4911e7734db7",
-			"87e375d7-d446-4b2b-b7e4-9619425bee91",
-			"c6be033c-3081-498b-b9d8-cda1de9a60ef",
-			"e9561db0-72b3-4b2e-a1a1-800abcddba10",
-			"45c1aaf5-564c-4b03-88d7-dead814a837e",
-			"87056f0a-00bc-4f4a-9c18-edf44b6e0fa8",
-			"13d27be4-9ea6-4754-bdac-6d6aef669668",
-			"d0a22c3e-c383-415d-a8ce-83f93088a1ba",
-			"411c90ef-3047-493c-96da-67226b5da67d",
-			"02dc7253-6774-4b79-9aad-4125517839a2",
-			"a9c5eb2c-12f1-4996-831e-59445941393b",
-			"e67e91f3-76c3-486d-b963-3aeca4058927"
-		],
-		"title": "Levenscyclus",
-		"id": "df8b0b69-c6d8-48b7-8351-3a3c5caa9a19"
-	},
-	{
-		"prefix": "bio/4/3",
-		"doelniveau_id": [
-			"efbaeaad-bb46-48d4-b6e3-3f9e512be226",
-			"58e1a502-2fed-4634-a203-2adef36dcfd1",
-			"bd988425-d492-4326-955c-03613fba6ece",
-			"356c5dd9-503e-4b29-be43-b95f6fd7d74e",
-			"560a7d8e-fea4-4779-a6e2-72c0a5a9b0c6",
-			"82815694-76c4-4121-98ff-c9cc0911d9e9",
-			"ae63ab6e-8e3f-4401-955a-53ba0364ef7d",
-			"658eec95-ada7-4217-ba9d-5432276f7c47",
-			"7c8d6831-172e-44f7-94a0-8b0cbae7b71b",
-			"d7f32e37-fa55-45c1-9069-f29d44cad7dc",
-			"a39518e6-0117-442b-bbc0-04150a1e1c6a",
-			"9a29c574-0517-4e03-8523-8dc026d1d3b6",
-			"c15a8324-3684-4e12-906e-4dcc27c880c6",
-			"f0f77e04-e727-4722-bbe5-b6e2a890d4f4",
-			"4e370771-075f-4c40-83d4-8f251d336768",
-			"b5766346-b7d5-4d4c-99bb-d2a2b54eb243",
-			"e06a5f5a-0dc9-44ef-9c27-9e05036e699d",
-			"c18aede3-92ce-4247-8bdd-5c03e4acf471",
-			"3a6cc8f1-e4d5-47ee-b65d-d0ddeefb1e3c",
-			"cf8a8e19-8382-4ad3-a868-5004a0215dee",
-			"dbcf57b4-b909-40d5-a5bd-96153a5cf29a",
-			"21a17102-66f0-4c4d-a69d-b03df3bcc8a3",
-			"bc1797d8-7fb7-49d2-8382-031ad384e484",
-			"6555394a-3ee0-4ec0-8d66-33c243721ce0",
-			"d4db1ef5-a34b-4fb3-ad3e-f0a7f8d5bbdc",
-			"fd9c00bf-4083-44e4-9ae2-7d9e36bdd759",
-			"5c891cec-d6a3-4f2e-814c-43ed2ccb83b8",
-			"dd5ef88a-ce11-4b4a-9b18-1a51cbe3defa",
-			"e8fde6a4-7aab-4d87-942c-d3edba49a9b2",
-			"13f9d7de-13c1-4f8b-b71a-7d36951e9e33",
-			"f99236b9-d312-4d31-aa7c-d2f2c9f92848",
-			"81c74940-bed5-4394-8bc1-1793b470af1b",
-			"060206de-2f5b-461e-afa4-db3520ed2811",
-			"c4574d83-8273-42e3-938b-79c64e45d5a7",
-			"a546b9de-6525-4de0-bb3e-46ee403b105b",
-			"31ef4689-fdb3-468c-88c9-d06eed6cefe3",
-			"78fdc628-d61c-4afa-b564-162060c2ac7e",
-			"f90bb834-13ee-41e6-bd8a-b6b7ea4e55d8",
-			"8d001461-128a-4d12-9a1f-2249749c9ea1",
-			"05179a8e-b4de-40b9-9e22-13a9a9e86365",
-			"2269888c-cec2-46c9-be5e-a2ceb859e2a1",
-			"96e96635-accf-45af-8e78-508d72417faa",
-			"9dda4ac1-dfd8-4bdb-9826-b729258b71de",
-			"274d0726-0ec1-44e3-b904-74e14dd24777",
-			"522ea676-dc8c-4fc8-8d85-077b6b800541",
-			"d6b198e0-d23b-42ac-bfad-3cf7101dc15f",
-			"15e7ff47-f189-4ecd-b8c4-585b3c0053a3",
-			"60f97814-8e1d-4e50-90f2-882c7ee1ab21",
-			"d5350ecb-b738-406b-829e-400baaeef65a",
-			"10a3b250-9a27-4f9f-bf36-188764a0cf18",
-			"6f1fe911-ca6b-4fe8-b520-9d8e01a1c5c0",
-			"89dae956-0a6f-4116-bcee-7605265f8d76",
-			"fc1de8df-084b-491b-8a6e-6142bbf82ba4",
-			"2e4e9cb8-3730-453a-ae7c-245a032b3136",
-			"54a18570-2ef5-49ba-91c7-4cf65a48f8d1",
-			"d9d5f102-132c-45fb-bf28-6e01361293d3",
-			"d6070832-dca6-4660-ab7e-8384ed7e2ecf",
-			"09fae995-a5bb-4341-990c-94a00424d54c",
-			"db1cbea9-3512-445c-85ff-6d41833dda4a",
-			"85a02d17-6152-410d-abec-13b9ace75efc",
-			"ca6b0cd9-1135-40aa-84ed-3a2d39c7941e",
-			"1cfb2470-c55b-43d5-8eb6-1cd7ae04f6cc",
-			"d1699d9d-7a68-4c26-9fe6-ce70e8eef707",
-			"cd9868a4-947b-495f-bc58-f21652a0baff",
-			"589e40cc-d29b-4de1-bc74-16c38d098fc6",
-			"42e4c854-61b6-4649-8c77-95520fe3c078",
-			"b5009de2-beac-45e6-a4b1-ccde7a96fbd7",
-			"2c70cae6-e1ca-4963-b00e-1fb121acfcbb",
-			"1260b183-94a5-43b9-91c9-ccbc079b1f3d",
-			"5f7edc76-e20d-42b6-be45-d66e310883a4",
-			"053ec789-a85d-44ea-b10a-4d51f42b5c59",
-			"0550aecd-3fb3-4c56-8621-5c83edb560ca",
-			"ea5a501b-d839-4897-98c4-565318cde3a9",
-			"9992764b-972d-4417-96a3-8219aa5463b9",
-			"a7fc0bf4-89ec-4600-95a1-85bce62d9dfe",
-			"e38bab77-917b-4183-9946-0301c776a7b2",
-			"7a63aa60-b082-474a-bc59-36a710ec6895",
-			"66b062ab-ae57-43ed-8f11-d8f161102e08",
-			"d374b05c-aaa1-4068-b7c7-3552b888f2b3",
-			"0353bada-5d77-4804-91c8-aa8be67a38b9",
-			"805bee74-b67e-426a-b7e6-d43870304e33",
-			"1fdfde1c-4665-4c41-a134-be968a3dc37e",
-			"4cf50bb5-746c-4ef2-aac7-df9e516cc873"
-		],
-		"title": "Seksualiteit",
-		"id": "602bf64a-86c3-4ec1-8cdc-15476e0a3747"
-	},
-	{
-		"prefix": "bio/4/4",
-		"doelniveau_id": [
-			"96e12859-497d-470b-8dcb-b8edf5a82c40",
-			"3b994a0e-545f-4935-be00-77067918e4fd",
-			"054a7bd9-5517-4f11-87d0-0b33ccd7d10f",
-			"b3fa3b79-a291-4f51-90b2-65bbcd5b881e",
-			"d806ddba-6551-44bc-a228-3a95221ae403",
-			"f2c62a3e-191c-4628-bcac-ec2115e682e5",
-			"afe63824-07c3-4748-85a8-be5b3b1b1499",
-			"ee2a8207-fc48-45d0-9e6e-78508340c1fe",
-			"4a300981-07b7-4641-a51b-f7192d295660",
-			"4152f2f2-2af7-41f8-97de-05e9ad62b75d",
-			"28c096d0-1809-43dd-8e85-a821c73404b8",
-			"580f231e-6591-4dc3-81ba-31f0e7b6119b",
-			"69de93ac-9b49-4384-9a33-57aa545bdb17",
-			"6a04b2bd-dbcd-4981-99db-0b928380b925",
-			"ae140dc0-01e4-44d9-97a0-47f1ee2ba519",
-			"92bed033-3a25-4f0a-98f7-d27fbe48d1d3",
-			"3f55691c-e3a6-4d2f-829b-4bb101ace30d",
-			"77835fbe-38c1-4cb1-b2ff-83ba83b9feee",
-			"fe9e0f2d-101c-447f-adb8-1bd3c546fb5b",
-			"5e9cd64d-28c7-4b10-80fc-6db301deb647",
-			"fec506b2-3641-476f-b55f-2dbbee8d1ca5",
-			"4754b28f-3c44-4f11-a3f1-205c88888177",
-			"e485666a-0ecd-4b37-80bd-81ca3df1b118",
-			"143f8ed0-a76e-48d9-9067-518aafe3e245",
-			"59778683-cb7d-4e64-b421-677cdeabd63c",
-			"6137f679-ff3a-402c-9e5d-ed65d8ca86b5",
-			"c0ded859-5ad6-40f1-8c66-ce3780e249a8",
-			"634e3079-d93f-4b0f-8ab2-6b87a496e4ae",
-			"90d93b89-49a5-45aa-9cd9-4adce6237144",
-			"ff881e93-2c39-4b45-a696-0f33edfb3179",
-			"03198f94-6313-4253-acdf-db3e7f6fb8bb",
-			"f85c52b0-ad04-4033-b269-6b0151270a86",
-			"2b31dfb9-35cb-4358-bb66-ce37cbfca97f",
-			"8de7d928-d592-46d0-b3e3-70dee4110069",
-			"a10b8582-f93b-4d29-bbc4-d99706d4566f",
-			"eb8bba9b-6932-4030-a4a0-0b3b094892d3",
-			"e57d856a-1caa-498a-a7b9-b7107f8d3899",
-			"08f67774-eb48-4a1d-9e06-379d80726904",
-			"588f0833-d551-48ed-bf15-566d8e4d7777",
-			"7e3aeac9-2c3b-4817-8d68-bf8df745111f"
-		],
-		"title": "Erfelijkheid",
-		"id": "a4fd337c-a19b-4048-a462-abe995846e7e"
-	},
-	{
 		"prefix": "bio/4/5",
 		"doelniveau_id": [
 			"c5ae53a7-e6e7-4d79-b222-4673ab09ba07",
@@ -2610,56 +1378,6 @@
 		],
 		"title": "Celcyclus",
 		"id": "3d2aba96-e2d4-4470-baee-4fbd034b685e"
-	},
-	{
-		"prefix": "bio/5/1",
-		"doelniveau_id": [
-			"11dd271f-4629-4e7a-9fb2-cee3385f600a",
-			"4b3d0e16-249e-4da7-a7a2-9130b1e6f494",
-			"25067395-d074-4a5b-be0e-28597f542984",
-			"ca55660e-c9a7-4b48-9683-86550c399dec",
-			"55a972b1-81cb-439c-823b-1c1a2170d1c8",
-			"4ca4383a-260b-4a83-940b-252e78fb683e",
-			"2cbe3b1e-7249-4d1d-996c-2e357499ec40",
-			"f7b6fbc1-c362-4a49-9d42-18fd57227557",
-			"197cda48-5792-451e-bb96-32c911ce3cfd",
-			"937e2bd3-abe6-4ef4-bfd7-bfbbf4230360",
-			"b93c45a4-4102-473a-9b07-873351d5bf57",
-			"72f536c6-03fa-4857-bcf1-d249d85bd9f1",
-			"7424e50d-bb8a-4008-89fb-0dc117756457",
-			"0d251814-7551-4a47-b7db-36b63f0aeae8",
-			"18331d66-798c-471c-8a5b-846b78589d09",
-			"310285ca-07b2-4306-a568-91257bd4f125",
-			"89400cb5-772a-4cd1-a280-09f8c48c41dd",
-			"19210b16-6a69-4c23-bf16-c4b933625bcf",
-			"5cfb0495-7773-4fff-9f48-01bd337882f8",
-			"921d804d-dab9-41be-a6fa-52a8a6ae13f1",
-			"5f4b6c54-02c8-48d6-8699-f254f2603b72",
-			"8b8f3a59-978f-4e7e-a518-9a614a2d4990",
-			"23d96d58-1b55-4a63-890d-d89b5f06e1e2",
-			"5a4caa4b-15d4-4098-84d8-9970ef1473d1",
-			"1856d25f-7874-4115-914a-f38963e3fd2d",
-			"9e8212b7-4b8b-4d65-9b6f-46dec5941d1f",
-			"57dc4ccc-c793-4e51-a262-e1c316a33613",
-			"f5ced683-61d2-4fee-96a8-6de7b70bce4f",
-			"ba710817-5959-4c16-921c-9f4c26a53922",
-			"caac9393-51a9-4204-be22-8a1228757368",
-			"c912c073-d426-437f-ae89-59a81394086d",
-			"726d700d-f465-4cb7-a932-02654c5793a9",
-			"5f88cd61-f307-4d53-950f-5324b5241cdf",
-			"21149383-c892-4e51-ac28-6ee4f07423e9",
-			"b203e37b-f943-4e1b-b386-dc8885b6fe5f",
-			"64daf059-0bb4-4940-a1ad-dd2fba1edde6",
-			"328a28a8-e99f-4d52-89fa-c5c1e0247e63",
-			"c1aa56c2-405a-468f-812f-916a0115cbf3",
-			"fafc3cb0-4813-4a38-9489-6d0893bf66fd",
-			"fdd5213a-d0be-4ae4-aef2-a2adf6aa401e",
-			"42be89f5-4799-4c5a-95a4-ee67debe9d76",
-			"d9c537f6-f986-4b10-b7cd-b808c96e9078",
-			"5f5f0515-a271-4950-875c-502cab77e72a"
-		],
-		"title": "Natuurlijke selectie",
-		"id": "7caafb1c-b7b7-41d2-851a-c7f410865f35"
 	},
 	{
 		"prefix": "bio/5/2",
@@ -2779,65 +1497,6 @@
 		"id": "091149e3-62b3-4aac-ade4-8f480dc69c69"
 	},
 	{
-		"prefix": "bio/6/3",
-		"doelniveau_id": [
-			"b39a52fc-de08-4f42-85c2-0cef96beea39",
-			"c8d47d0b-6f5e-41ae-80ee-35feeba5651d",
-			"4e6ae8dc-82a0-4985-b77e-3ed1ba2ac288",
-			"98a83350-8f4b-4966-bd98-ab6857f0a0c7",
-			"fb7446c1-5112-494e-aef9-140975800ca3",
-			"043dd892-adc2-4ba9-a0cb-929649ebe953",
-			"9b9dcbd2-332d-4396-b6d8-0872d5922036",
-			"816114d6-fb3b-4e62-95ba-d2ccf28c7b6a",
-			"de5d67a7-c72d-48be-a24c-81283a0fce43",
-			"4effe96e-bf63-4ecc-9a33-6624df45c738",
-			"3ea91769-e969-4461-8705-a99bafcf9f36",
-			"15b49430-1d7a-4562-9b7f-b75e8b78d22c",
-			"44d30f1a-0f7e-40d7-9df0-885fe7895a86",
-			"9298ecf1-4c40-4159-b2db-7a2c9d6963ad",
-			"d23036cb-6cf0-4261-8769-2def3973e938",
-			"8916d7a6-b93d-4dca-898c-61e24c48cf3b",
-			"284ce980-9c4b-4821-83b7-398d7b92bc3c",
-			"e0fff223-7ec1-41aa-b7fd-79f43665c905",
-			"50d78e55-b219-4af2-85b5-b2d100f358cb",
-			"940685bc-eee5-476e-ae82-a2875b707250",
-			"27dac710-908e-4ab0-aaa8-bcacf09d95b4",
-			"2f8653be-7cfb-4813-90f0-88192b7a9dc7",
-			"e87b2777-a1be-4b9b-bcff-dbf6a2842829",
-			"964412f1-5f9e-4616-926a-7e6ed4c3384b",
-			"f2c6faa3-b59e-4835-89be-261db97cb745",
-			"5cab8e2d-cf09-4642-9a90-41749f34a354",
-			"e2520abc-76d7-4b77-9932-3e2cfeb40a82",
-			"a2d87e49-d51e-4c3b-8c30-a72276bbce55",
-			"fea30f98-8b16-43f4-b35d-a55f4d83baa2",
-			"c67b7866-b285-402e-b521-1fddb6e81e56",
-			"9a4f30f2-3095-4d65-b21c-12aec9b553de",
-			"f5cd51bb-161a-4d80-8c2a-50cda899beb7",
-			"429ebaac-4f01-4549-8c9b-6ffee715c311",
-			"d7af988e-761b-446f-b232-0dd6aa0cbbac",
-			"55dd1931-1bc2-4bed-945d-fdf7b6aefc18",
-			"adcf14af-a6bb-49f8-ba5a-0481b7419eb3",
-			"89f96cef-c2aa-4e26-8e23-a1a96b3e9b0e",
-			"d32cfb9e-4b5b-49da-bb15-b692d6d7775d",
-			"113761e4-0e25-4d55-bbbc-c2fc88d43d1d",
-			"3fb2c1c7-563a-47e6-b35c-713b478590a1",
-			"ddb69fe3-8586-41e4-b004-ba6bb6e0fbc8",
-			"7dbbcff6-2ff8-4bc9-9f7f-9394373e12e3",
-			"665c163e-85d5-4bbe-adf2-fbc9ec7ff6cf",
-			"24ff264b-ec76-4732-8ccd-8777a74e94c0",
-			"e0307106-d48c-41f6-b1e9-f06179337300",
-			"92ed45ca-f481-4c7c-bfa2-7beab0a07199",
-			"db1f5dcd-3259-4e4b-b39d-222b179c4978",
-			"11687ca3-95a1-4137-862e-ca786ba5c162",
-			"2cc157cd-21b9-4313-8342-63ceb9ec8448",
-			"b970ca7b-d7a7-44e0-99d6-8b06d744ed0a",
-			"aa442b00-583f-4289-a5a7-aa1fc2e1df64",
-			"42184a90-a177-4649-aa70-78960edd493b"
-		],
-		"title": "Duurzaamheid",
-		"id": "f4369bbd-3016-407a-ab12-e538052ab215"
-	},
-	{
 		"prefix": "bio/6/5",
 		"doelniveau_id": [
 			"63b25719-96b7-4647-b662-f65d028b72cc",
@@ -2849,55 +1508,6 @@
 		],
 		"title": "Biodiversiteit",
 		"id": "f5f4ece7-86d1-47d8-ae26-8175a3da3051"
-	},
-	{
-		"prefix": "nask1/1/1",
-		"doelniveau_id": [
-			"53fd4350-359c-4e9f-9232-d8e3f260bb60",
-			"e186d9d5-7fcd-47fe-8a27-da1a7d87d45e",
-			"e340891f-2f0b-4b00-8409-47713e7a9eda",
-			"c3ea262e-c7ff-4972-b530-f1c029f1b36c",
-			"e1ca9d23-a7ae-412b-862b-7d37a445ae3a",
-			"fc6c9ee3-c80e-4595-96c1-b824af4f34ec",
-			"8ceba860-3810-425b-bf1b-2a06e23c2294",
-			"297c688c-b297-4265-b3dd-9dae13c97a49",
-			"b5973886-f173-47be-8ce7-f5dab159d464",
-			"cafa47ed-56ed-4092-8f61-af02dc03cfc6",
-			"2b47756f-3fce-49d9-a213-d3e23cc5522b",
-			"f8d8a8bb-5fd6-4430-8e27-e2f819c5e797",
-			"979e9e46-ec48-4903-a998-036733db20da",
-			"0bbfb0db-97d3-431b-bfa2-86b4f2dffa62",
-			"70c58af2-7ce0-4cb8-b333-01a000b3576c",
-			"fa7f4d32-9fc9-4746-b857-0009decae210",
-			"3da8cc4a-8849-4ec8-9402-8660725953d4",
-			"db80d782-8a0b-47f2-bb9c-e4e1c23d95ad",
-			"bbd9c518-f5fb-4d4a-af8e-c0cc16bcc988",
-			"67f2eda0-b8a4-4ac1-b3c6-e972e879e58b",
-			"0793babe-1a83-4d3d-8a43-b0fa5569bb39",
-			"12896fb9-92b4-4fe3-b887-39b85700c417",
-			"7fbf92f3-faf6-4509-a069-87532b8368c5",
-			"6419d8a4-c05d-4433-8bc1-803c023a7d2c",
-			"021692d9-f48a-4fb7-84fb-cbeae11680ad",
-			"4c4c2b3e-236e-489d-89b9-5a79be712fcd",
-			"ca59d904-c830-4a55-8f13-962e6b23cf75",
-			"0ba2fc6b-95be-4539-bbec-1ec23c3acbb2",
-			"79b2896f-f0c3-4899-840f-1e655fead8c0",
-			"eba0c3fd-791d-4e0b-b85c-c084e04ad1b6",
-			"ab0ce197-9520-4c31-b801-46de9689a160",
-			"b05f457d-7c7f-4750-bf22-4a78e6fec05b",
-			"622e5485-aaca-409c-af03-d1296be5abb8",
-			"e1172347-3d22-48e5-955f-dde90a68a8e3",
-			"567c9502-2d63-4524-9443-504735c986b7",
-			"0586ce20-e87c-4807-8bad-c4cf0e670755",
-			"d3ff04b8-aacf-48ee-9492-922f8787d889",
-			"a6c686f4-a99f-46ae-ab03-30fc2fb22372",
-			"d8d098c9-2b4e-4e5e-853d-e9e6cc2f7c13",
-			"130a9ecf-5d5c-4d94-8da6-c2bc3ee44215",
-			"a07590fd-cadf-4503-83ce-c739327f26dd",
-			"3f91a0a7-c87c-4c65-b7df-99da76849ee1"
-		],
-		"title": "Materiaal-eigenschappen",
-		"id": "3acb7a49-55b1-442a-abf9-a66fd8fb5ddb"
 	},
 	{
 		"prefix": "nask1/1/2",
@@ -5385,19 +3995,6 @@
 		"id": "87ed687c-a80b-451a-8491-13d9760bf46c"
 	},
 	{
-		"prefix": "wisA/2/2",
-		"doelniveau_id": [
-			"08554907-b880-4d2c-a455-23aa07042e61",
-			"ca3f0e65-652c-4f36-bd7f-78bd9522fad4",
-			"119db1b6-4997-411e-ac6b-d8f40f58a06d",
-			"c99cf960-c28f-4cfb-8b44-4d2fbd9e7553",
-			"e8e85321-d8d5-4873-8a23-10e6925b9c98",
-			"50ba02ed-f751-4c0c-8246-caf9f69678ff"
-		],
-		"title": "Rekenen met variabelen",
-		"id": "f06d0bec-9dde-431c-935d-9734f2f4e35c"
-	},
-	{
 		"prefix": "wisA/2/3",
 		"doelniveau_id": [
 			"f9b6d406-8ac5-448c-bd05-2a03a627b7ad",
@@ -5410,103 +4007,6 @@
 		],
 		"title": "Tellen",
 		"id": "e7bca235-c112-4c8a-ab50-0de16318c031"
-	},
-	{
-		"prefix": "wisA/3/1",
-		"doelniveau_id": [
-			"9ef7949b-0b92-4b45-99b5-be580beed917",
-			"b22376a0-6e96-407d-ad79-ed08979b7e34",
-			"338cf0dc-e93a-4bdd-a2d5-63a4b3356a38",
-			"e962d302-f30e-40e5-93cd-e55a83785d01",
-			"f57f471a-5ead-47d5-99a1-09b745ce6b94",
-			"184a0189-b0b3-4f15-8b2f-317b5b36f17e",
-			"d5930e28-7f9d-45dd-9b77-d98fdfedd871",
-			"bf11e82f-9b9d-44ae-986c-3d9fe2dfcb1e",
-			"8e38a691-54f0-41e3-a2eb-918aa89d7b7b",
-			"f6651d8e-a47c-4a49-9275-14d59ab5e1db",
-			"6fbccda0-fa89-48fa-a1b3-900fe4c9561b",
-			"12418d7d-9480-4376-98b2-b272675d3bb6",
-			"60bc0630-6ab7-4726-a3a2-a545b3e1c3fa",
-			"37dc51c4-bffb-4bf0-9d5e-7410ae988e01",
-			"0ae2bbe0-71d6-4288-9fc6-9ea78d644256",
-			"63e40de0-f9f4-46c3-8f63-ae270a2621e6",
-			"0ee60249-29b8-4268-8753-4726c3eff9cf",
-			"bed58bc5-4e51-4210-8082-8c2ce4908bd2",
-			"10e1a8c2-fd0d-4d00-977d-90b7824d3db5",
-			"73c8b7a7-be05-44b2-9abb-3c5462b96b42",
-			"463f379b-c5ac-422f-a8e5-152f0a40505d",
-			"826e4679-21b7-4722-a6c3-f86b9ee670fc",
-			"6854bd46-3dc0-4cf8-9427-d48d9dda937a",
-			"c0915e53-e0a1-4435-be2a-3ac351b0789f",
-			"efd63e5f-dbee-434c-beda-f77492f4318d",
-			"27067698-8421-4bbd-91ba-e777ee636dfa",
-			"2e475e5b-89c7-4d6a-87c2-a6258b202a6f",
-			"88e0e545-bf49-481d-b608-3a919c05a993",
-			"e38aa69b-63e7-4af4-b9ba-c1ea4887c923",
-			"91a3c5b5-11e7-4c00-b65f-f28266be76fa",
-			"e5602a9e-3061-41d8-bfb9-b3b966943239",
-			"a63e911d-7b3f-4633-8a1a-ed6315c3067d",
-			"4310d4fd-3f4c-42e6-a19b-02cabd9f1c05",
-			"feabc96a-bfda-4997-970c-d920eef708eb",
-			"60d47f54-643f-467d-a420-a3f851793128",
-			"c22e3cbd-f070-466a-9b7c-098e86fceccc",
-			"5c2b6529-fa93-40a8-8ed9-4b2eab95eb6b",
-			"5db8d861-2b35-44e0-ac5e-4f4fc14cadd7",
-			"7c4c7f00-dfea-4fc6-ad31-c4fb5ae7ddc3",
-			"f167bdbd-06de-4bce-a21e-2d1751f52b52",
-			"75095b4a-c6d1-4a5f-89ee-755674a382e4",
-			"17febf20-80cf-4d01-b9f3-bbcfe00d8f8b",
-			"2f3c7bb5-1810-4539-9fb9-84e87cfb81b8",
-			"fd7efbb9-50be-43bb-927d-827d20c6c59a",
-			"e1b6d302-9ecd-4658-a98a-29c5a95c331b"
-		],
-		"title": "Grafieken, tabellen, verbanden en formules",
-		"id": "6f5890ce-d0cc-45f7-83ae-91e167020ec1"
-	},
-	{
-		"prefix": "wisA/3/2",
-		"doelniveau_id": [
-			"f3cd6bbb-1850-48c4-a16d-5e05e1fd782b",
-			"decde5f8-7c09-4edd-891f-4fb319fae296",
-			"dab721b0-fd22-42eb-bd58-cd25562f1abf",
-			"707ccabd-ce37-48a9-af6a-3f304fdad341",
-			"753c5c9b-043e-4bff-a82d-602c0253fc2f",
-			"6ad7844c-0b86-439c-847e-5cd6a1b84e41",
-			"4bc6be69-d7cb-475a-8f78-491ca61db5ad",
-			"d108642b-a0d3-408d-8f83-69baf79156dd"
-		],
-		"title": "Lineaire verbanden",
-		"id": "d24f109b-3322-4413-aa73-6561cb4e0277"
-	},
-	{
-		"prefix": "wisA/3/4",
-		"doelniveau_id": [
-			"24e507ac-d768-42ce-90ee-afb00f9e4b7c",
-			"99706385-e2d4-4210-9f05-9f42d0acc3bf",
-			"06e7a1af-5487-4048-9755-d81636b31298",
-			"d07b2f53-12ae-4b18-9dff-dfec8381a8ea",
-			"b7d4b728-24ca-48fd-8fec-52777c4e4f85",
-			"d736b1d3-39bd-498e-b15f-d17029e29083",
-			"0acade28-66a0-4a09-8dcd-4f71c5610c16",
-			"ed1da01d-b412-46e5-ac7a-4cc17f52b201"
-		],
-		"title": "Exponentiële verbanden",
-		"id": "0ab62196-e78e-4fbe-9e2e-401e0277d5e8"
-	},
-	{
-		"prefix": "wisA/3/3",
-		"doelniveau_id": [
-			"81422c14-9428-4dd1-94a2-24f87cd60edc",
-			"ec55fa4e-e27a-45b3-966a-dd5d79d10f2b",
-			"cf78bdfa-5069-490e-8656-ef89a65e9dc2",
-			"3095b0cc-59ca-4834-9c1a-ccfdc511ef9b",
-			"53bff758-c3e6-42de-822c-b26bb2b43bed",
-			"d08e1b83-c8bb-4cec-b9fe-e301979a7e30",
-			"bf5f8b73-eb8e-400f-94ae-37bae0098740",
-			"1053fc83-2fed-484f-b0f3-2c612345902b"
-		],
-		"title": "Vergelijkingen en ongelijkheden",
-		"id": "463aa4b6-a66e-4ca8-b925-bf9e9006eac6"
 	},
 	{
 		"prefix": "wisA/4/1",
@@ -5648,21 +4148,6 @@
 		"id": "e307ca3a-0aee-42e7-aba7-cdd94931d4d9"
 	},
 	{
-		"prefix": "wisC/1/2",
-		"doelniveau_id": [
-			"07d33ee1-636f-4983-9874-e515a4cf29c5",
-			"f121749a-2ac8-48a0-ae63-810a515b1e53",
-			"39b5b540-9937-48c4-a207-96dfd606f74d",
-			"9cf77c5d-a89f-4162-8340-20d33cd64144",
-			"d37f39d2-d60d-4212-8766-e7178aea07dc",
-			"025721a9-d6d1-4b17-abd2-e3efadf403ad",
-			"761d8183-5774-46ae-a51c-fece86c4bef3",
-			"c424ad19-9d1a-4363-9621-90a73396b8b4"
-		],
-		"title": "Wiskundige communicatie",
-		"id": "7c4c023c-612a-4fda-9c78-48dd68ef3fd2"
-	},
-	{
 		"prefix": "wisC/1/3",
 		"doelniveau_id": [
 			"0b29c0fa-b6fa-4922-9c9e-3dad6f1c1d0f",
@@ -5671,21 +4156,6 @@
 		],
 		"title": "Wiskundig redeneren",
 		"id": "2f6f6463-6e72-43d2-83b7-57541d11c9bc"
-	},
-	{
-		"prefix": "wisC/1/4",
-		"doelniveau_id": [
-			"46ca359e-ce7a-45ec-860c-fe294a675be4",
-			"243c4fbd-522f-497a-854b-fccf0989cd4d",
-			"4863359f-4d0d-44cf-ae8f-f5cc8aab4e96",
-			"a2bef11f-ef04-49c1-a311-e745ff0857f9",
-			"ea6dda01-cc15-4a87-aafd-209c3edf4ffa",
-			"445fbe53-e7de-4807-b409-7f103edb3a77",
-			"b3795bac-f35c-4712-a701-702d7468d081",
-			"c92fe4e4-4619-4914-9c65-4d094376aa58"
-		],
-		"title": "Wiskundige vaardigheden",
-		"id": "400c5396-c23e-41a2-8883-532c3a0b9866"
 	},
 	{
 		"prefix": "wisC/2/1",
@@ -7312,53 +5782,6 @@
 		"id": "0a91a4e3-88b7-4cd8-9a06-0d36d8a7cf02"
 	},
 	{
-		"prefix": "ec/3/1",
-		"doelniveau_id": [
-			"feb735a6-a9ad-4918-99d5-3252c016d6c7",
-			"d57109f8-cb7d-4dda-9b3f-878f7e7da9ea",
-			"6aca7150-ef27-464d-9c99-7bf31aab1833",
-			"ad49d216-c6fd-42c6-8445-5412a3c97205",
-			"aef11cc0-afcb-4512-ad95-1564c12e4616",
-			"172aa279-32db-46f6-83c1-b56e72430621",
-			"f097ceb7-ef98-45e1-8772-35759a740bd9",
-			"6d41fc1a-305b-4b5b-b635-07da0fb30c06",
-			"0623745f-9f06-4416-9ea5-938684476552",
-			"af353d03-a38c-4d00-af55-09d471fe24ec",
-			"b4341062-e234-4dff-826b-1d7c1182898b",
-			"1c55d879-dbf1-4e1f-b0a3-5d9e0dbc4487",
-			"3a0a0d04-e805-4077-9ccf-38bde3ac8dbb",
-			"32adf99f-f6db-4ddf-9384-7009a4266984",
-			"1be6b080-a1b2-4c54-8e64-e1d3094a1183",
-			"64fdf1e2-17b5-40ea-a0d9-cbb8fa50c12f",
-			"a0ad3847-27eb-48fb-b728-90a7dbaababd",
-			"33fb2d9b-037b-41a7-a00c-5c4c3d3ba275",
-			"0cc8d23f-d994-4626-88f2-7b5dd867bc97",
-			"c1a75f2a-1779-4036-9698-5577020a2640",
-			"24d41025-198d-47e9-8b2d-1c4974d9fb1a",
-			"7bbf63ee-48be-4dd0-bb75-0c83b091d08b",
-			"210b3798-c93b-4df7-a835-02fba8662858",
-			"0b92aea6-9a95-4c33-9390-88fc768c7bf4",
-			"7c229e36-7c02-4efc-afbf-fd5d68d25195",
-			"c73b282b-d0da-4fd6-bb16-d4e00f1f52b1",
-			"edd576a7-b091-42ce-bf7d-90b60c96b47e",
-			"e839063c-2d15-40d4-9a47-4145968b125a",
-			"2bc0f60a-989a-451c-93bb-c7dffa433c3e",
-			"6acf9d54-dc31-4084-8731-ff53f4b676ad",
-			"45b36e5c-a137-4921-ad9a-454b322fbef3",
-			"ae3cc9ef-0c7f-479a-acf9-fdc3545cb673",
-			"06403eb3-6471-4d72-a924-0cd51e91a250",
-			"f5473575-72b8-461c-bcee-d1573f73ded4",
-			"7f0bed3c-a26f-4b39-9ef5-8fca291c28e7",
-			"ec078cdb-732a-4d05-8a47-8c7b0829dffa",
-			"6ec071b6-c5e5-4fae-833a-975900198877",
-			"73fdf897-2824-4cf4-a838-ec37598f006f",
-			"780ff5e4-46ba-4ea8-aa25-64f95f4374fe",
-			"b98fecdb-7c56-4c1b-bbe3-951d8c6553c0"
-		],
-		"title": "Vraag en aanbod",
-		"id": "4e6aa393-c2e8-4d6c-ab5e-d4cad0e248ce"
-	},
-	{
 		"prefix": "ec/3/2",
 		"doelniveau_id": [
 			"5ab4b1f0-2296-4e21-9224-2cb8f38c67e0",
@@ -7398,22 +5821,6 @@
 		"id": "2220854d-2d03-430e-86cc-4d200429a9ac"
 	},
 	{
-		"prefix": "ec/3/5",
-		"doelniveau_id": [
-			"5210ddf3-fe42-4d0f-80fb-011ce839a8e7",
-			"df577514-33ab-4e6a-87f0-903dcc7cc331",
-			"b5c1d8d6-eba1-4312-b88b-387887584b29",
-			"260d5fc2-4db6-48cd-b024-a757cb08b6ff",
-			"42a57c09-cbb3-4a13-8452-44381a5160a6",
-			"e9f3fc6a-a669-461f-85ca-b07755a8a142",
-			"e9eac441-0734-4e00-bc81-7bdfbffb1244",
-			"fed7ae82-d802-4caa-b750-c7133ab13b24",
-			"550c101d-c7d6-435a-b29f-bbded7d0c2ef"
-		],
-		"title": "Marktstructuur",
-		"id": "20561026-ab8f-4eca-83a0-18adcd300001"
-	},
-	{
 		"prefix": "ec/3/6",
 		"doelniveau_id": [
 			"b168ab69-b560-44dc-a5db-f867c14aa3db",
@@ -7422,30 +5829,6 @@
 		],
 		"title": "Toetreding",
 		"id": "f5733dcd-a4a8-4a2b-8ec0-7da1a3eccddb"
-	},
-	{
-		"prefix": "ec/3/7",
-		"doelniveau_id": [
-			"18b11b7f-a187-4cd2-af35-8b1a20bd9858",
-			"0b14bf47-8e38-4d58-a679-ffcc20b4db84",
-			"fdd7eab6-2f1b-4ca5-9f83-f1dc34f54be3",
-			"9b936ff2-f0f7-41e9-9acb-4fd624595aad",
-			"61bbfdcb-d141-458e-8623-c6c6b1c41610",
-			"f71b072d-c8c6-4559-b98d-9b88b400c68b",
-			"0335af82-f085-4ff1-bffb-2acc6a7a0b08",
-			"80256a04-77f7-44b7-903a-8ffb98e84e00",
-			"217a1deb-6254-47da-90ca-675937a2cd98",
-			"7c788fff-f07e-411f-9747-0f4b75fbd9ee",
-			"5bf41688-638a-4657-bcc1-1541e6b19937",
-			"fac51769-1361-42d7-b64c-52e5269344a1",
-			"c7d399a7-a4d9-41d4-bc0c-2c6d613e7689",
-			"e41b7916-0f24-4398-986b-ad42c07813ba",
-			"1043cc70-6808-4ffe-8640-4a8dd2469d1a",
-			"9650f7dc-3b24-44db-8775-e9e48eed00f8",
-			"636a272d-da82-42b8-952a-95ff1cfdd3c9"
-		],
-		"title": "Welvaart en economische politiek",
-		"id": "7c65f161-9a00-421f-8182-e67ea96ad135"
 	},
 	{
 		"prefix": "ec/4/1",
@@ -7487,49 +5870,12 @@
 		"id": "7fbb31f7-1f2b-49d3-85c1-5ea64c048853"
 	},
 	{
-		"prefix": "ec/4/4",
-		"doelniveau_id": [
-			"66260aa8-a4f6-4023-b78f-6870e90e4d27",
-			"90ae6d1f-6c48-460e-ba05-25eca02c6fb2",
-			"8c4c5b18-4fca-428d-936b-007c3454f3eb",
-			"0ebdb110-a280-4eaa-9451-d8704c49b47c",
-			"d22f55e5-5ede-40b6-905e-817b56112a66",
-			"8840d959-fc9c-4741-9ba0-8355743e732e",
-			"20bbe8eb-0a48-4fc0-8c94-160d1811ee41",
-			"6676eb7f-8330-4c7f-b969-899cf6a31c18",
-			"2fd82593-6046-40bb-9078-18409f43e534",
-			"51d4375c-e860-4e1c-ba34-9b7d82e25120",
-			"316737c5-270e-4af6-8f2e-0a142ffc66f5",
-			"3c3403ff-c197-46ea-ac32-fa430f8280ae",
-			"6033305d-4420-4ad1-9dd9-0a427d8b232d",
-			"437ca54e-8b70-4626-9cb7-ca865c96f932",
-			"552980c8-faac-4987-8605-c08cdfcf11e4",
-			"6d812ede-2db9-4dac-8667-97d1777eeb46",
-			"0fa28790-84b7-4e14-a4cd-fc76550768c8",
-			"3fb16121-ff65-4f16-aea4-d2409a310e9b",
-			"fea1b424-7775-4604-8a59-fde5d95a608d",
-			"44e8e64a-da06-4aaa-b474-4cfaec87b3a6",
-			"20b9fbcc-f833-4c96-8516-0338ba1e02f3",
-			"38037457-bc66-41fa-bcd6-79b3e3e8d738"
-		],
-		"title": "Intertemporele ruil",
-		"id": "d599c0f3-466c-4d55-b469-633c6d8301df"
-	},
-	{
 		"prefix": "ec/4/5",
 		"doelniveau_id": [
 			"469eb9a8-d33a-43f9-b307-81a83ad86a4c"
 		],
 		"title": "Intertemportele tijd",
 		"id": "ffec8ab8-5cf8-4b33-9f6f-07248c8a7751"
-	},
-	{
-		"prefix": "ec/4/6",
-		"doelniveau_id": [
-			"065bd767-6678-4818-98f5-3bb394afa761"
-		],
-		"title": "Balansen",
-		"id": "a043d542-7cd3-4535-818d-4c973727a139"
 	},
 	{
 		"prefix": "ec/5/1",
@@ -7560,67 +5906,6 @@
 		"id": "1202e9bb-b7e9-433b-b72c-39db998fdc2c"
 	},
 	{
-		"prefix": "ec/5/3",
-		"doelniveau_id": [
-			"af9e0dbc-6401-4006-bf22-08e5e92c2e97",
-			"24344760-25e0-49e5-9515-2a0fce92dc8d",
-			"74a5af38-8cab-4773-917d-00c303f0b1b1",
-			"483bd7d6-7d9d-4dd9-9411-2385f8d09120",
-			"076414a6-da5b-4b6b-8169-134df7b33edd",
-			"2793dd03-3906-46c2-bcc5-811f43f417fc",
-			"1215df6a-420f-4537-9717-96f6c79aafa2",
-			"1bfcc059-7a22-41c6-9dbd-3431928c66be",
-			"6e312f38-5582-40ac-83cd-6635d16654f1"
-		],
-		"title": "Speltheorie",
-		"id": "ffdefc19-265c-4f89-b3e3-304973fd9779"
-	},
-	{
-		"prefix": "ec/5/4",
-		"doelniveau_id": [
-			"a179d614-845a-4da7-b57e-d0e9a836281a",
-			"703fd64b-9590-4c1b-a7cd-48c3b854d843",
-			"53c36290-8b80-4d96-b77f-f49d13656b82",
-			"20ebe68f-97c1-43c6-971e-2722f303891d",
-			"af6165e8-615d-4345-a232-259cd09b7e31",
-			"e5a8b3df-e267-4c1f-89d6-dfe4c6a41998",
-			"645bf0ce-b1d9-448e-9bc4-356d09e1d367",
-			"86b9acc9-c3ac-48cf-a0ae-5f16824de718",
-			"b4e88d54-5994-4a60-b71c-f74f171f93a4",
-			"44313349-d6dd-4306-8064-e56f6e402f5e",
-			"a10159e1-6e5d-4708-a661-387a4355bfd3",
-			"d0b7b441-831b-4553-bdf8-c84cb132ec47",
-			"ca6906ee-9357-4860-b91e-f2b289304896",
-			"906ff9ec-3992-4266-beba-ddd543e32012",
-			"ebf72732-788c-4a1c-bb9e-f973a0e393bf",
-			"aa936219-2a62-4bb3-9f33-270519f60aba",
-			"261024ac-2c19-4080-baec-35511571fd5b"
-		],
-		"title": "Onderhandelen",
-		"id": "d9977e73-336d-428e-a727-c96e3c65917e"
-	},
-	{
-		"prefix": "ec/6/1",
-		"doelniveau_id": [
-			"6c4c51b1-8ad5-4f05-998a-f8f84d351b5b",
-			"b9d95e7f-8db4-4162-a418-e62fcfacc32a",
-			"4712df26-f83b-4df0-ab38-4cc320343723",
-			"b0c17938-809d-47db-a8e4-7ad7f8bb69f0",
-			"f77ffedc-8d36-4b6a-9ca7-8218084bf3f6",
-			"b7b0c9b5-82e7-4982-81dd-28b75cde3a1b",
-			"8fb5e46b-2a72-4765-a800-1c7a3cfed708",
-			"ef8090ff-0e67-4670-ade5-6e5936a533b2",
-			"4731d048-c85c-469e-85d2-d0f424e81978",
-			"acc0adda-c997-4a46-ad9e-13caa58de35e",
-			"64f4c8a6-e04b-4808-9237-8627307fa3b7",
-			"6c633326-f9e8-4eed-96ea-52c00ee758aa",
-			"585e6a46-0806-42e8-8ef5-5729a1f5ac11",
-			"af6b19ef-a406-4eac-83a0-5d62585ded62"
-		],
-		"title": "Risico en verzekering",
-		"id": "cfb6d899-d921-40ea-ab15-00c62940de38"
-	},
-	{
 		"prefix": "ec/6/2",
 		"doelniveau_id": [
 			"5d30172e-5420-4866-974f-3c837c04e6db",
@@ -7634,21 +5919,6 @@
 		"id": "2580738e-c4fc-467c-b0c6-5c8ae53e9084"
 	},
 	{
-		"prefix": "ec/6/3",
-		"doelniveau_id": [
-			"0feb5129-dc69-4774-885e-8d793a7d4f90",
-			"892b562d-52f0-4b94-b02b-4f21acc010e3",
-			"799dff7e-7339-4524-9fc2-1e7533d82d55",
-			"0d55f342-b208-434e-a08b-719c5bfe1fff",
-			"d4c37489-5eeb-4ad9-a595-e0a2e3b21b0a",
-			"be7f9077-7ae0-4f40-a175-e7e77f1bc618",
-			"f16ca987-18f3-4c13-9b10-4bd9038d824b",
-			"68b0f7a6-dd2c-4c83-be4a-7e3a7e5d9806"
-		],
-		"title": "Risico en beleggen",
-		"id": "155baf7b-4edf-403e-9af4-f628765c922d"
-	},
-	{
 		"prefix": "ec/6/4",
 		"doelniveau_id": [
 			"7eedcb83-61ae-47b5-9194-bf1e7923d417",
@@ -7659,31 +5929,6 @@
 		],
 		"title": "Ondernemingsvormen",
 		"id": "78e9938e-1ede-456f-8e53-b0064d3c124f"
-	},
-	{
-		"prefix": "ec/6/5",
-		"doelniveau_id": [
-			"0f3a8640-d591-43b5-b625-3a4e737a51c2",
-			"7f71c133-9474-41bb-b939-9114ad8a97f9",
-			"47968ece-3183-48af-82d5-4ae056a595e4",
-			"62629635-0b49-4754-8a7b-0de410de83b8",
-			"f1b86924-18ff-4010-9b46-6b392bf119bc",
-			"75a5a23f-2b2e-4e96-9294-a380911beae5",
-			"07410a40-5f96-458a-b44a-43f0566f46d1",
-			"016beba1-f0cb-4f88-aef6-493e4ecbb411"
-		],
-		"title": "Effecten van asymmetrische informatie",
-		"id": "083f8fae-230f-4018-9330-9a9ffd1faa79"
-	},
-	{
-		"prefix": "ec/6/6",
-		"doelniveau_id": [
-			"d13a6447-93d9-459f-be72-45c7f978ec24",
-			"8eb0daa4-f6bb-4e7b-8ca8-a5b9fba82ebf",
-			"d057c9ee-db8b-44bc-a470-e7405ed9fb53"
-		],
-		"title": "Asymmetrische informatie in bedrijf",
-		"id": "2c53d981-4e3f-46a3-bc2a-a33c89430a5b"
 	},
 	{
 		"prefix": "ec/6/7",
@@ -7723,30 +5968,6 @@
 		"id": "15ed95e0-2a91-4033-8a21-ca764278f537"
 	},
 	{
-		"prefix": "ec/7/3",
-		"doelniveau_id": [
-			"55e7fb61-27b6-4d6f-88f6-f66ad3c719ec",
-			"723aa8bf-740b-4be9-8629-47d57433cb86",
-			"deccb53c-9fcd-4375-8177-82a98970c698",
-			"10d45039-dd56-4bcf-9980-81baa1224b25",
-			"c0cbe37f-da1f-43b7-b56b-c33211ffb80d",
-			"5fd0a410-4558-463f-86d9-42ac09c00997",
-			"4991859f-3eb2-4417-991b-bd240af06c36",
-			"4a8dc5b7-ef4d-4376-a6c2-d9d2d3d1064d",
-			"57aa21b4-de86-4096-b5b3-bad8845da88c",
-			"b0584a0c-d60c-41eb-9d35-1569cc2be764",
-			"e0708f7d-c8a3-48fd-9800-f7cc3c55a8af",
-			"ee5b2e94-34c4-4721-911a-53dd09eb7d78",
-			"2c9e1bb3-0ebb-404c-9674-15f474332402",
-			"7feaf2c9-72a3-4272-872b-b73878383476",
-			"7dd12df0-3d2d-4118-a289-8019e9e799f5",
-			"25e8dafe-58f0-4027-ba00-c1a4058b6366",
-			"1bcfab30-0163-44d6-86fe-f6e5cb853bd6"
-		],
-		"title": "Economische groei",
-		"id": "15aa631c-7ca9-4678-a1e1-2cf43b986491"
-	},
-	{
 		"prefix": "ec/7/4",
 		"doelniveau_id": [
 			"52f5e39a-ee4a-463b-9329-f528c782fa70",
@@ -7758,37 +5979,6 @@
 		],
 		"title": "Europa",
 		"id": "0b778841-f242-4fb1-b000-79a89bc67d54"
-	},
-	{
-		"prefix": "ec/7/5",
-		"doelniveau_id": [
-			"b4b7246a-6396-4a15-8606-127cf7e3a092",
-			"8ab2daab-2046-4729-a983-6e36c8dd55fb",
-			"b162e795-a728-453d-8f93-250fc94b9cd6",
-			"e1c25da9-8d29-45b9-a6bc-6403cbb1e05f",
-			"bdbd2982-c8de-41b9-8b4a-6b5ef930589b",
-			"a05e7c95-2be8-4b1b-af72-7b991ee5e20d",
-			"ea63a861-390e-4570-a214-7e40c0f4de50",
-			"d8f8857c-5289-4985-a862-feadf2a3bdd1",
-			"54eb32d6-6a4b-45b2-a53b-37d6a502cd2b",
-			"59fae987-8221-446d-b69a-d59142cd8f5d",
-			"b197a614-655a-4c7b-a0a4-541f4b9934c1",
-			"482077fa-fd40-4d45-b0d9-e8677946801e",
-			"c49d279b-4548-44a7-bec5-21833d3ce83a",
-			"a0e5b869-7d04-416d-bd0f-bcda819de277",
-			"3bd59330-58ce-496b-b51c-5e01b0d00332",
-			"145b46b9-8576-48c9-b958-716cdd306acb",
-			"fc2a6fd9-2cae-4104-99a8-a59162d4e8a4",
-			"077bc5b6-d6db-49f9-9c5a-8921f1f27ca0",
-			"214b6011-ed42-45c7-ad21-4f605ea3e708",
-			"940b81a2-04c6-42a8-816a-486ae765c731",
-			"2dbf63cd-61cc-45cc-a2cc-4330cd9b991a",
-			"ee9af65d-d7ac-452c-a58f-b1a36daad0b9",
-			"b30784c3-d0c0-4912-848e-f79383a30040",
-			"9fe7491c-7ad7-4de1-8235-665cc81a4ed9"
-		],
-		"title": "Welvaart",
-		"id": "2ceeaa10-ed36-48e7-94c0-909d0adeee7f"
 	},
 	{
 		"prefix": "ec/8/1",
@@ -7815,71 +6005,6 @@
 		],
 		"title": "Wisselkoers",
 		"id": "80d582f6-b6e7-4ae0-b40c-170caabbf639"
-	},
-	{
-		"prefix": "ec/8/3",
-		"doelniveau_id": [
-			"06a3fbc6-7af8-43f5-b1a2-430b235683ef",
-			"5f7d124b-4737-4007-915f-d3a48efedbe4",
-			"1392fa49-317b-4835-8545-8ebe18ac5787",
-			"5d116897-a95b-42c4-9924-0e1f43c9777a",
-			"58243949-275b-4da0-8897-8f6d2986a4d9",
-			"63abd205-db06-4ab1-afb8-86e358dc1c7e",
-			"e8bccae9-5a39-4b3a-9640-2fb8071a2e81",
-			"44976f9b-1b10-4d17-b424-aad61c6b2b4f",
-			"62eab8a8-b21e-41be-83e5-fdf72befca10",
-			"4547faa8-5e99-4317-98e9-905326f2b157",
-			"8511c2c6-614b-4221-8591-f2650769c9c7",
-			"89e6f7e6-1a77-4fac-994a-5906f53bda50",
-			"367ea64d-7c68-4723-bf47-70b1b2164fcb",
-			"10d03e72-de0d-4356-b13a-be5c4180622a",
-			"d763299d-7a01-4a0a-a0bb-4567fe1f4292",
-			"287241e1-ba5e-4c2e-81a9-956f87c17c82",
-			"6df66ddb-68ce-4a6d-9208-68df4a8b3017",
-			"90251500-1705-439c-8654-81ff6949d6d7",
-			"cabf31cd-92eb-45d3-bd09-6be022f4ad22",
-			"4ed2e3e5-6602-46f4-8b2e-32144cf254c6",
-			"b6a24d89-d02f-40a7-bc4e-02701d77ed59",
-			"b17a1171-1f2f-48a7-9b3a-ab9b99a07970",
-			"7089a153-bb80-4f7e-8f7f-05ca164c7dbf"
-		],
-		"title": "Conjuncturele verschijnselen",
-		"id": "c200f52a-b887-4ff6-9e6d-08731016ae8d"
-	},
-	{
-		"prefix": "ec/8/4",
-		"doelniveau_id": [
-			"c97ba091-5311-4287-bd14-5e08c87a4aeb",
-			"83ccfba2-066e-444a-ac9e-48fe65d4fa28",
-			"4316e23d-0071-4f95-a5b6-67da1f3591c0",
-			"fe948365-9992-43e9-8f16-85eb2e032295"
-		],
-		"title": "Registratie van conjunctuur",
-		"id": "04bcd976-d05b-49a5-89a5-b77793bc879b"
-	},
-	{
-		"prefix": "ec/8/5",
-		"doelniveau_id": [
-			"c6dfa19d-d633-41e3-a823-67cade22fa46",
-			"296f5218-4148-447e-a388-8557ddee6747",
-			"b1422e48-6bc3-4dba-8165-04522c3db07e",
-			"1231f9a5-343b-4d41-8ba7-5c21f8544f1c",
-			"a09f24ed-a89f-4625-b4ab-1032f6796eec",
-			"457af3fc-7095-4da8-a3e2-e465ba9f1510",
-			"cf941612-0ad9-4c87-9b88-b6d874a3b2e5",
-			"c9a6f859-6a22-4789-bd19-126e56a225cc",
-			"cbc19f47-01cb-4d0b-873b-1acf142858ce",
-			"6b5bdbb4-7193-4fc2-96cc-813df9381c83",
-			"79cb5702-9b7b-494c-b13f-7896e01bae2a",
-			"edef3e4a-002b-43e0-a5aa-16f890bef350",
-			"2f2b1b3f-358e-4d75-8c39-75ac79fecce5",
-			"43f41f68-24f2-409f-9a6d-da1a575fdb4a",
-			"8be296c9-f0bc-44fb-9bdc-177fb2d3605d",
-			"652fb290-da59-4120-9794-b7fb87d9cd18",
-			"39aec3ff-a15b-4737-8216-62c9d65cf595"
-		],
-		"title": "Conjunctuurbeleid",
-		"id": "7533112a-b5ba-411b-ac72-b947e4690dae"
 	},
 	{
 		"prefix": "ec/12/2",
@@ -10060,8 +8185,7 @@
 			"31bae152-a1ca-4dc2-8b12-82f5cf309350"
 		],
 		"title": "Basisbegrippen ICT ​ ​",
-		"id": "d085286e-ce43-4dd4-8f73-f41d153a70c3",
-		"unreleased": true
+		"id": "d085286e-ce43-4dd4-8f73-f41d153a70c3"
 	},
 	{
 		"prefix": "DG/IDG/CT/IT",
@@ -10070,8 +8194,7 @@
 			"538a51c2-91d1-4ce5-bd24-cc5939f40ea0"
 		],
 		"title": "Infrastructuur technologie ​ ​ ​ ​ ​ ​ ​",
-		"id": "d24eb0d5-9d3d-4f4a-9dfa-0491c041673b",
-		"unreleased": true
+		"id": "d24eb0d5-9d3d-4f4a-9dfa-0491c041673b"
 	},
 	{
 		"prefix": "DG/IDG/CT/ST",
@@ -10080,8 +8203,7 @@
 			"7cd229db-7447-4d04-8267-cc5eaed35a8d"
 		],
 		"title": "Standaardtoepassingen ​ ​ ​ ​ ​ ​ ​",
-		"id": "9c443c07-0ca6-437e-9374-c850290f11ba",
-		"unreleased": true
+		"id": "9c443c07-0ca6-437e-9374-c850290f11ba"
 	},
 	{
 		"prefix": "DG/IDG/CT/VH",
@@ -10089,8 +8211,7 @@
 			"0ec4d8bb-1f3f-4a50-98d1-8127f8b3e48b"
 		],
 		"title": "Veiligheid ​ ​ ​",
-		"id": "e3ed5d16-43da-434e-81a1-d9d8e5892464",
-		"unreleased": true
+		"id": "e3ed5d16-43da-434e-81a1-d9d8e5892464"
 	},
 	{
 		"prefix": "DG/IDG/CT/C&P",
@@ -10099,8 +8220,7 @@
 			"6456316e-3d3d-4aab-92b4-f1eca34e9816"
 		],
 		"title": "Creëren en publiceren van media",
-		"id": "0a3cdedc-e627-4ec8-bd0d-baaa451aa540",
-		"unreleased": true
+		"id": "0a3cdedc-e627-4ec8-bd0d-baaa451aa540"
 	},
 	{
 		"prefix": "DG/INF/FORM",
@@ -10126,8 +8246,7 @@
 			"a1e90f6a-6864-4cb7-a904-fce9ea0fe1ab"
 		],
 		"title": "Stap 1: Informatieprobleem formuleren",
-		"id": "0d27af4a-e74f-4820-a594-87186d76d40e",
-		"unreleased": true
+		"id": "0d27af4a-e74f-4820-a594-87186d76d40e"
 	},
 	{
 		"prefix": "DG/INF/ZOEK",
@@ -10157,8 +8276,7 @@
 			"9e947e63-5b28-4197-a188-4ac463a52ce2"
 		],
 		"title": "Stap 2: Zoekstrategieën ​ ​ ​",
-		"id": "bc73517c-b9fb-4ecc-b735-6d0b173827cc",
-		"unreleased": true
+		"id": "bc73517c-b9fb-4ecc-b735-6d0b173827cc"
 	},
 	{
 		"prefix": "DG/INF/V&S",
@@ -10188,8 +8306,7 @@
 			"42a07aa4-53c2-4043-8d42-10814ce1fb64"
 		],
 		"title": "Stap 3: Verwerven en selecteren van informatie ​",
-		"id": "b83c973c-d361-4df4-98f7-3c249e64aa9f",
-		"unreleased": true
+		"id": "b83c973c-d361-4df4-98f7-3c249e64aa9f"
 	},
 	{
 		"prefix": "DG/INF/VERW",
@@ -10220,8 +8337,7 @@
 			"956215fc-6a36-4b8c-94ee-4f3ab23244ef"
 		],
 		"title": "Stap 4: Verwerken van informatie ​ ​",
-		"id": "26be3cee-2d74-421a-9abf-8c191c6f378d",
-		"unreleased": true
+		"id": "26be3cee-2d74-421a-9abf-8c191c6f378d"
 	},
 	{
 		"prefix": "DG/INF/PRES",
@@ -10236,8 +8352,7 @@
 			"72855faf-80b9-44ab-9aa0-d009f8754e5e"
 		],
 		"title": "Stap 5: Presenteren van informatie ​",
-		"id": "a1fa8851-5233-4c4d-982e-7010f56b3ba7",
-		"unreleased": true
+		"id": "a1fa8851-5233-4c4d-982e-7010f56b3ba7"
 	},
 	{
 		"prefix": "DG/INF/E&B",
@@ -10254,8 +8369,7 @@
 			"7c958be7-f5e7-4c2e-9090-8d819804dee3"
 		],
 		"title": "Stap 6: Evalueren en beoordelen ​",
-		"id": "1dd6b8b0-9c46-4714-8b29-1d4121bbcdc5",
-		"unreleased": true
+		"id": "1dd6b8b0-9c46-4714-8b29-1d4121bbcdc5"
 	},
 	{
 		"prefix": "DG/MEDIA/MvdS",
@@ -10263,8 +8377,7 @@
 			"3dfe5500-ae7a-414e-b92f-b69229c817c8"
 		],
 		"title": "Medialisering van de samenleving",
-		"id": "d09d1b04-d388-485b-b132-80078b6a6c19",
-		"unreleased": true
+		"id": "d09d1b04-d388-485b-b132-80078b6a6c19"
 	},
 	{
 		"prefix": "DG/MEDIA/M&B",
@@ -10273,8 +8386,7 @@
 			"769aaee6-6ca4-455c-aba3-b26f9115c9fb"
 		],
 		"title": "Media en beeldvorming",
-		"id": "97bdc49d-ff7f-4afd-b16b-1ad86370d214",
-		"unreleased": true
+		"id": "97bdc49d-ff7f-4afd-b16b-1ad86370d214"
 	},
 	{
 		"prefix": "DG/MEDIA/MIP",
@@ -10283,8 +8395,7 @@
 			"d3e533bc-4104-4ac9-8159-2c95e66186af"
 		],
 		"title": "Media, identiteit en participatie",
-		"id": "10a501d6-2db3-497d-a780-99d88caa9be3",
-		"unreleased": true
+		"id": "10a501d6-2db3-497d-a780-99d88caa9be3"
 	},
 	{
 		"prefix": "DG/CT/PF",
@@ -10317,8 +8428,7 @@
 			"f29a225d-98e8-414a-a532-4b45bcf9b8d1"
 		],
 		"title": "Problemen (her)fomuleren ​",
-		"id": "63ad7242-b83f-4b66-aad7-0ff1d447637d",
-		"unreleased": true
+		"id": "63ad7242-b83f-4b66-aad7-0ff1d447637d"
 	},
 	{
 		"prefix": "DG/CT/GV",
@@ -10347,8 +8457,7 @@
 			"a7ba0041-5572-4ece-9b5b-78421d8e0482"
 		],
 		"title": "Gegevens verzamelen ​",
-		"id": "a8ab886d-5b6a-49dd-b492-97aa7cdef649",
-		"unreleased": true
+		"id": "a8ab886d-5b6a-49dd-b492-97aa7cdef649"
 	},
 	{
 		"prefix": "DG/CT/GA",
@@ -10381,8 +8490,7 @@
 			"4b7a37a8-8e6d-476a-8592-6da0bea3eb15"
 		],
 		"title": "Gegevens analyseren ​ ​",
-		"id": "3ac3c22d-c710-4804-b0e2-f77184dae937",
-		"unreleased": true
+		"id": "3ac3c22d-c710-4804-b0e2-f77184dae937"
 	},
 	{
 		"prefix": "DG/CT/GVI",
@@ -10410,8 +8518,7 @@
 			"0bbb4b07-ef73-4097-9f09-805ff1a55d30"
 		],
 		"title": "Gegevens visualiseren ​ ​ ​ ​",
-		"id": "d3d754bf-d99f-471c-95f4-98a9f97c61c9",
-		"unreleased": true
+		"id": "d3d754bf-d99f-471c-95f4-98a9f97c61c9"
 	},
 	{
 		"prefix": "DG/CT/PD",
@@ -10453,8 +8560,7 @@
 			"2b53abbb-761e-4f8b-a53b-50c2e01fc527"
 		],
 		"title": "Probleem decompositie",
-		"id": "dbeb9de1-e7ee-47c8-8828-b82d1d9040eb",
-		"unreleased": true
+		"id": "dbeb9de1-e7ee-47c8-8828-b82d1d9040eb"
 	},
 	{
 		"prefix": "DG/CT/ABS",
@@ -10502,8 +8608,7 @@
 			"e0b06c56-6caa-4b41-a92c-a30301111dc2"
 		],
 		"title": "Abstractie",
-		"id": "d970c7fa-90fa-4343-bcf8-afe77883fe18",
-		"unreleased": true
+		"id": "d970c7fa-90fa-4343-bcf8-afe77883fe18"
 	},
 	{
 		"prefix": "DG/CT/A&P",
@@ -10566,8 +8671,7 @@
 			"b0e7bb6c-d063-4502-9b57-b483a7dcefd2"
 		],
 		"title": "Algoritmes en procedures ​ ​ ​",
-		"id": "bb602b25-d00f-42cc-8b46-9d8cd31e2529",
-		"unreleased": true
+		"id": "bb602b25-d00f-42cc-8b46-9d8cd31e2529"
 	},
 	{
 		"prefix": "DG/CT/AUT",
@@ -10595,8 +8699,7 @@
 			"1c512067-3dc1-498e-9967-1b05843ff949"
 		],
 		"title": "Automatisering   ​ ​",
-		"id": "d90e8132-1832-4ac4-aab6-afe374cbdd9d",
-		"unreleased": true
+		"id": "d90e8132-1832-4ac4-aab6-afe374cbdd9d"
 	},
 	{
 		"prefix": "DG/CT/S&M",
@@ -10638,8 +8741,7 @@
 			"b276b95c-b32c-458b-83eb-d056a33aee8c"
 		],
 		"title": "Simulatie en modellering ​ ​ ​",
-		"id": "fb15ed1d-15fa-4bdc-add5-f3772e71103c",
-		"unreleased": true
+		"id": "fb15ed1d-15fa-4bdc-add5-f3772e71103c"
 	},
 	{
 		"prefix": "DG/CT/PAR",
@@ -10652,8 +8754,7 @@
 			"51e32e14-2497-4ae4-b86e-4feccda781ee"
 		],
 		"title": "Parallellisatie",
-		"id": "31785608-53df-41f0-b5ca-bf82627ced43",
-		"unreleased": true
+		"id": "31785608-53df-41f0-b5ca-bf82627ced43"
 	},
 	{
 		"prefix": "ltc/1/1",
@@ -10667,8 +8768,7 @@
 			"ea3a9195-f778-4fd3-974b-3bcd637feaaf"
 		],
 		"title": "Alfabet",
-		"id": "95d703c0-4597-4dfa-9190-753246b5896b",
-		"unreleased": true
+		"id": "95d703c0-4597-4dfa-9190-753246b5896b"
 	},
 	{
 		"prefix": "ltc/1/2",
@@ -10683,8 +8783,7 @@
 			"f752b878-735c-4659-acea-9537bac5e7b3"
 		],
 		"title": "Vocabulaire",
-		"id": "76ffe705-83b6-4bc9-ada6-5eba3ce45f6d",
-		"unreleased": true
+		"id": "76ffe705-83b6-4bc9-ada6-5eba3ce45f6d"
 	},
 	{
 		"prefix": "ltc/1/3",
@@ -10697,8 +8796,7 @@
 			"e7d1dca1-09d7-4edc-8e2d-aefa1af8c82b"
 		],
 		"title": "Morfologie",
-		"id": "e7955500-c562-4f54-b792-a52f96388f30",
-		"unreleased": true
+		"id": "e7955500-c562-4f54-b792-a52f96388f30"
 	},
 	{
 		"prefix": "ltc/1/4",
@@ -10713,8 +8811,7 @@
 			"7ec98ec8-5ff5-420c-ac4e-549286fac2dd"
 		],
 		"title": "Syntaxis",
-		"id": "8c43dca0-1a1f-4f09-a711-987a528c405a",
-		"unreleased": true
+		"id": "8c43dca0-1a1f-4f09-a711-987a528c405a"
 	},
 	{
 		"prefix": "ltc/1/5",
@@ -10726,8 +8823,7 @@
 			"53d721fe-0f04-42b9-ae02-bd705a8f1864"
 		],
 		"title": "Pragmatiek",
-		"id": "d98b975e-7796-4849-b622-214c1cdfc28b",
-		"unreleased": true
+		"id": "d98b975e-7796-4849-b622-214c1cdfc28b"
 	},
 	{
 		"prefix": "ltc/1/6",
@@ -10741,8 +8837,7 @@
 			"b1a6c400-bb5e-4b74-88d5-90d0bd387dfa"
 		],
 		"title": "Taalsystemen",
-		"id": "a0013d73-d78a-4ea3-a649-d663497b8464",
-		"unreleased": true
+		"id": "a0013d73-d78a-4ea3-a649-d663497b8464"
 	},
 	{
 		"prefix": "ltc/2/1",
@@ -10756,7 +8851,6 @@
 		],
 		"title": "Tekststructuur",
 		"id": "a33d093e-4529-4bb0-bac1-3b13c42a57c1",
-		"unreleased": true,
 		"description": "Tekststructurerende en talige middelen, waarmee de auteur of verteller de informatie doseert en structureert. De auteur of verteller stemt zijn boodschap af op het beoogde publiek. De lezer anticipeert op het te verwachten vervolg."
 	},
 	{
@@ -10770,8 +8864,7 @@
 			"31c8eef4-4c2d-4ce2-b20b-6eef958d78c7"
 		],
 		"title": "Stilistische middelen",
-		"id": "470ab153-b33d-4953-919a-b4285fcac154",
-		"unreleased": true
+		"id": "470ab153-b33d-4953-919a-b4285fcac154"
 	},
 	{
 		"prefix": "ltc/2/3",
@@ -10781,8 +8874,7 @@
 			"df1f50e6-c49d-4758-8dce-3bd8e9ed4574"
 		],
 		"title": "Metriek",
-		"id": "b60355dc-b0db-4308-bdc9-4d6ade36970d",
-		"unreleased": true
+		"id": "b60355dc-b0db-4308-bdc9-4d6ade36970d"
 	},
 	{
 		"prefix": "ltc/2/4",
@@ -10795,8 +8887,7 @@
 			"d71e7a1d-9926-41b5-b9f2-3a94584d9e8d"
 		],
 		"title": "Narratologische middelen",
-		"id": "9db635bb-ef1d-48aa-82ed-fad02627b2bc",
-		"unreleased": true
+		"id": "9db635bb-ef1d-48aa-82ed-fad02627b2bc"
 	},
 	{
 		"prefix": "ltc/2/5",
@@ -10809,8 +8900,7 @@
 			"d29771b5-a95e-491d-a16f-761889d22441"
 		],
 		"title": "Argumentatieve middelen",
-		"id": "d6e66046-3ea6-4cfb-9b00-83d0d5e22141",
-		"unreleased": true
+		"id": "d6e66046-3ea6-4cfb-9b00-83d0d5e22141"
 	},
 	{
 		"prefix": "ltc/2/6",
@@ -10822,8 +8912,7 @@
 			"dbe4d8dc-c2e8-455d-bfb3-445ea8162e57"
 		],
 		"title": "Genre, stijl en tekstsoort",
-		"id": "2a2d6ae4-fcbe-44d7-af7d-d384eeb3cfa4",
-		"unreleased": true
+		"id": "2a2d6ae4-fcbe-44d7-af7d-d384eeb3cfa4"
 	},
 	{
 		"prefix": "ltc/2/7",
@@ -10851,8 +8940,7 @@
 			"363600b2-52f7-42ec-9416-a734e186e6a8"
 		],
 		"title": "Interpretaties",
-		"id": "eec028c1-2638-4369-854f-c76a3eddd79c",
-		"unreleased": true
+		"id": "eec028c1-2638-4369-854f-c76a3eddd79c"
 	},
 	{
 		"prefix": "ltc/3/1",
@@ -10868,8 +8956,7 @@
 			"704f4997-dce7-47da-8731-6cae6b903a41"
 		],
 		"title": "Vorm- en beeldtaal antieke kunst",
-		"id": "94d2384c-78d1-462e-bea3-ddfd8bb3bb16",
-		"unreleased": true
+		"id": "94d2384c-78d1-462e-bea3-ddfd8bb3bb16"
 	},
 	{
 		"prefix": "ltc/3/2",
@@ -10885,8 +8972,7 @@
 			"fb05034a-21fc-4ea3-878d-e00a1d990b27"
 		],
 		"title": "Antiek verhalengoed",
-		"id": "f2fb4182-23a8-474f-a6a5-903e28f347e5",
-		"unreleased": true
+		"id": "f2fb4182-23a8-474f-a6a5-903e28f347e5"
 	},
 	{
 		"prefix": "ltc/3/3",
@@ -10902,8 +8988,7 @@
 			"0f4fcf00-dcc5-40d4-ba7f-ca2961db394d"
 		],
 		"title": "Antiek gedachtengoed",
-		"id": "a747c694-036d-4334-958e-33caa7a093ad",
-		"unreleased": true
+		"id": "a747c694-036d-4334-958e-33caa7a093ad"
 	},
 	{
 		"prefix": "ltc/3/4",
@@ -10918,8 +9003,7 @@
 			"5fa2b122-306a-454e-be2d-0dd3c3fc16fc"
 		],
 		"title": "Latijnse godsdient",
-		"id": "afaff6a0-fe06-49cc-a471-a7fef8a1ffce",
-		"unreleased": true
+		"id": "afaff6a0-fe06-49cc-a471-a7fef8a1ffce"
 	},
 	{
 		"prefix": "ltc/3/5",
@@ -10936,8 +9020,7 @@
 			"8ee069a4-a926-47ad-831f-0d887a37cd98"
 		],
 		"title": "Romeinse geschiedenis en topografie",
-		"id": "4c2891b9-bd5f-4d51-9602-29c39957385e",
-		"unreleased": true
+		"id": "4c2891b9-bd5f-4d51-9602-29c39957385e"
 	},
 	{
 		"prefix": "ltc/3/6",
@@ -10959,8 +9042,7 @@
 			"6f6cd370-8510-4f4e-9d38-d43014bf67f4"
 		],
 		"title": "Cultuuruiting als bron",
-		"id": "e2948d73-2ad3-4f5f-a9dc-d5386cd37fd1",
-		"unreleased": true
+		"id": "e2948d73-2ad3-4f5f-a9dc-d5386cd37fd1"
 	},
 	{
 		"prefix": "ltc/4/1",
@@ -10988,8 +9070,7 @@
 			"9bea20ae-668d-418b-9712-296e5b3c3ec8"
 		],
 		"title": "Receptie",
-		"id": "d7b0eb17-d1b4-42a4-adbe-bba5a3368050",
-		"unreleased": true
+		"id": "d7b0eb17-d1b4-42a4-adbe-bba5a3368050"
 	},
 	{
 		"prefix": "ltc/4/2",
@@ -11013,8 +9094,7 @@
 			"2e919e29-4dc8-413d-b305-0ced891ef694"
 		],
 		"title": "Actualisatie",
-		"id": "c87fc9a1-8ef1-41aa-b4e2-4c31f2378562",
-		"unreleased": true
+		"id": "c87fc9a1-8ef1-41aa-b4e2-4c31f2378562"
 	},
 	{
 		"prefix": "ltc/4/3",
@@ -11043,8 +9123,7 @@
 			"d6adb336-4a70-44b1-a956-14b39b89e9cf"
 		],
 		"title": "Persoonlijke ontwikkeling",
-		"id": "a7b7c6aa-ed01-45fb-aefa-e126e9d17929",
-		"unreleased": true
+		"id": "a7b7c6aa-ed01-45fb-aefa-e126e9d17929"
 	},
 	{
 		"prefix": "ltc/5/1",
@@ -11054,8 +9133,7 @@
 			"fd193e82-0488-4b4f-920c-83a449cbdf4f"
 		],
 		"title": "Herkennen, analyseren en interpreteren van de oppervlaktestructuur van Latijnse tekst of tekst in vertaling op woord-, zins- en tekstniveau",
-		"id": "32708987-0c4b-4212-b527-0a4fe364d12c",
-		"unreleased": true
+		"id": "32708987-0c4b-4212-b527-0a4fe364d12c"
 	},
 	{
 		"prefix": "ltc/5/2",
@@ -11065,8 +9143,7 @@
 			"04c36869-780b-4e9a-acb3-d205b2354546"
 		],
 		"title": "Communiceren over de Latijnse taal als taalsysteem op zichzelf",
-		"id": "30bd5fbc-c943-46be-adcd-9ad43d6f7df4",
-		"unreleased": true
+		"id": "30bd5fbc-c943-46be-adcd-9ad43d6f7df4"
 	},
 	{
 		"prefix": "ltc/5/3",
@@ -11076,8 +9153,7 @@
 			"f8608e3f-5f88-4d56-8f57-48ee79b1bb04"
 		],
 		"title": "Herkennen, analyseren en interpreteren van de overeenkomsten en verschillen tussen het Latijnse taalsysteem en andere talen",
-		"id": "b2c39a6e-50a5-4341-b7ba-14146e7c2162",
-		"unreleased": true
+		"id": "b2c39a6e-50a5-4341-b7ba-14146e7c2162"
 	},
 	{
 		"prefix": "ltc/5/4",
@@ -11087,8 +9163,7 @@
 			"cedfd10d-766f-4db2-bb9b-4d6278ad636c"
 		],
 		"title": "Communiceren over overeenkomsten en verschillen tussen de Latijnse taal en andere talen",
-		"id": "b5e82964-99c0-4243-a6c7-85d41341ff1e",
-		"unreleased": true
+		"id": "b5e82964-99c0-4243-a6c7-85d41341ff1e"
 	},
 	{
 		"prefix": "ltc/6/1",
@@ -11100,8 +9175,7 @@
 			"bd48300d-6824-4ee4-ac5a-b8bf5586ca71"
 		],
 		"title": "Verwoorden van een vertaling",
-		"id": "156a07da-14c3-4bfb-a2f0-61507df0e195",
-		"unreleased": true
+		"id": "156a07da-14c3-4bfb-a2f0-61507df0e195"
 	},
 	{
 		"prefix": "ltc/6/2",
@@ -11111,8 +9185,7 @@
 			"9acb3c03-80a5-4eb2-9f76-44deadb773ba"
 		],
 		"title": "Eigen aantekeningen bij een Latijnse tekst maken",
-		"id": "c702e932-87de-4e00-a880-a546341587dc",
-		"unreleased": true
+		"id": "c702e932-87de-4e00-a880-a546341587dc"
 	},
 	{
 		"prefix": "ltc/6/3",
@@ -11122,8 +9195,7 @@
 			"dc865a0a-6587-4c02-a8bc-b41c8567b6dc"
 		],
 		"title": "Een vertaling van een Latijnse tekst gebruiken",
-		"id": "d98a5e15-56a3-43f1-bca2-f3da7a9e4f16",
-		"unreleased": true
+		"id": "d98a5e15-56a3-43f1-bca2-f3da7a9e4f16"
 	},
 	{
 		"prefix": "ltc/6/4",
@@ -11133,8 +9205,7 @@
 			"a8fb2f14-ddcd-4226-80d3-66d2b23b2a2d"
 		],
 		"title": "Informatie uit tekstannotaties, een woordenlijst of woordenboek Latijns - Nederlands verwerken bij de tekstontsluiting",
-		"id": "c4c205c0-c5cd-4ed9-aa34-4f0c63d5d764",
-		"unreleased": true
+		"id": "c4c205c0-c5cd-4ed9-aa34-4f0c63d5d764"
 	},
 	{
 		"prefix": "ltc/6/5",
@@ -11144,8 +9215,7 @@
 			"68c449cb-2a8e-49f3-9065-519006ff05e0"
 		],
 		"title": "Informatie uit andere (ICT-) bronnen verwerken en toepassen bij de tekstontsluiting",
-		"id": "d828fedd-ddbd-4e90-8606-bf4e28d9a04a",
-		"unreleased": true
+		"id": "d828fedd-ddbd-4e90-8606-bf4e28d9a04a"
 	},
 	{
 		"prefix": "ltc/7/1",
@@ -11157,8 +9227,7 @@
 			"911d7b17-47ee-4a58-94e1-d4e51c0f78bb"
 		],
 		"title": "Parafraseren van de (semantische) betekenis van Latijnse teksten ten behoeve van de analyse en interpretatie van die tekst",
-		"id": "e6749f18-4c20-47d9-aef2-0af62e89d4b8",
-		"unreleased": true
+		"id": "e6749f18-4c20-47d9-aef2-0af62e89d4b8"
 	},
 	{
 		"prefix": "ltc/7/2",
@@ -11168,8 +9237,7 @@
 			"32953a6d-7a68-43eb-a3f4-b2b7abaa4909"
 		],
 		"title": "Geven van een beargumenteerde reactie op de interpretatie van Latijnse teksten",
-		"id": "edc3989c-b839-44c3-a94f-aecbc82f07ec",
-		"unreleased": true
+		"id": "edc3989c-b839-44c3-a94f-aecbc82f07ec"
 	},
 	{
 		"prefix": "ltc/7/3",
@@ -11179,8 +9247,7 @@
 			"e54b1c4c-e8e5-49b1-af6c-e2aa1db36795"
 		],
 		"title": "Analyseren en interpreteren van voorbeelden van receptie van Latijnse teksten",
-		"id": "802bcdaa-4aef-446d-b818-06bb9902639a",
-		"unreleased": true
+		"id": "802bcdaa-4aef-446d-b818-06bb9902639a"
 	},
 	{
 		"prefix": "ltc/7/4",
@@ -11190,8 +9257,7 @@
 			"e4289a4d-92c8-4e91-8314-d4bd8b7b95e9"
 		],
 		"title": "Formuleren van een beargumenteerde reactie op de relatie tussen Latijnse teksten en voorbeelden van uit de receptiegeschiedenis",
-		"id": "4743c453-2dce-4dda-a0cc-e5994824bb67",
-		"unreleased": true
+		"id": "4743c453-2dce-4dda-a0cc-e5994824bb67"
 	},
 	{
 		"prefix": "ltc/7/5",
@@ -11201,8 +9267,7 @@
 			"d6557abf-8eaf-4b91-b529-40d4356f31df"
 		],
 		"title": "Reflecteren op maatschappelijke processen, morele dilemma's en / of actuele thema's in Latijnse teksten",
-		"id": "e475e83e-34e7-40f5-8de6-788d11729ea5",
-		"unreleased": true
+		"id": "e475e83e-34e7-40f5-8de6-788d11729ea5"
 	},
 	{
 		"prefix": "ltc/7/6",
@@ -11214,8 +9279,7 @@
 			"c344901e-9732-4ca2-8502-f5fe70a00b64"
 		],
 		"title": "Een persoonlijke gemotiveerde reactie formuleren op een Latijnse tekst",
-		"id": "95fca43a-3478-428f-9641-d53ebc13b36f",
-		"unreleased": true
+		"id": "95fca43a-3478-428f-9641-d53ebc13b36f"
 	},
 	{
 		"prefix": "ltc/8/1",
@@ -11225,8 +9289,7 @@
 			"dbab0177-9701-4cd8-ac1f-f719d7a6d9aa"
 		],
 		"title": "Herkennen en analyseren van voorbeelden van de Romeinse cultuur",
-		"id": "32fdb90f-ed95-4cc6-9cd7-de4774c1de3b",
-		"unreleased": true
+		"id": "32fdb90f-ed95-4cc6-9cd7-de4774c1de3b"
 	},
 	{
 		"prefix": "ltc/8/2",
@@ -11236,8 +9299,7 @@
 			"066f2030-b276-47c3-bea6-a3ccf5ccc275"
 		],
 		"title": "Interpreteren en in context plaatsen van voorbeelden van de Romeinse cultuur",
-		"id": "2793e430-9243-4a88-b389-66418d03930f",
-		"unreleased": true
+		"id": "2793e430-9243-4a88-b389-66418d03930f"
 	},
 	{
 		"prefix": "ltc/8/3",
@@ -11247,8 +9309,7 @@
 			"827b0878-d1cb-48e5-b32a-d6e4f5b754fb"
 		],
 		"title": "Geven van een beargumenteerde reactie op de interpretatie van voorbeelden van de Romeinse cultuur",
-		"id": "c07f31b7-582e-4e44-b682-85884fa9a16b",
-		"unreleased": true
+		"id": "c07f31b7-582e-4e44-b682-85884fa9a16b"
 	},
 	{
 		"prefix": "ltc/8/4",
@@ -11258,8 +9319,7 @@
 			"56f8b434-6adc-43fa-a4e2-71fc5f444029"
 		],
 		"title": "Herkennen van voorbeelden uit de receptiegeschiedenis",
-		"id": "74042bb2-2f89-464a-98d7-7c748dabcef8",
-		"unreleased": true
+		"id": "74042bb2-2f89-464a-98d7-7c748dabcef8"
 	},
 	{
 		"prefix": "ltc/8/5",
@@ -11269,8 +9329,7 @@
 			"1f3683da-3c0b-4c6d-8d76-d7b1dc652432"
 		],
 		"title": "Analyseren en interpreteren van voorbeelden uit de receptiegeschiedenis",
-		"id": "f0c56cd9-d92c-414d-92d5-f77d9d568a7e",
-		"unreleased": true
+		"id": "f0c56cd9-d92c-414d-92d5-f77d9d568a7e"
 	},
 	{
 		"prefix": "ltc/8/6",
@@ -11280,8 +9339,7 @@
 			"dab1a86e-952f-4796-8e34-dbbfb5162b73"
 		],
 		"title": "Formuleren van een beargumenteerde reactie op de relatie tussen de Romeinse cultuur en voorbeelden uit de receptiegeschiedenis",
-		"id": "037bc11e-2a9e-4477-b696-e612c2f18a84",
-		"unreleased": true
+		"id": "037bc11e-2a9e-4477-b696-e612c2f18a84"
 	},
 	{
 		"prefix": "ltc/8/7",
@@ -11292,8 +9350,7 @@
 			"aebe8b9b-4313-4a49-8d56-0db4914ecfb5"
 		],
 		"title": "Reflecteren op de eigentijdse cultuur met kennis van de Romeinse cultuur",
-		"id": "e8cbd7fb-4fe2-4c73-a1d8-ccd8dcf13b45",
-		"unreleased": true
+		"id": "e8cbd7fb-4fe2-4c73-a1d8-ccd8dcf13b45"
 	},
 	{
 		"prefix": "ltc/8/8",
@@ -11304,8 +9361,7 @@
 			"bc32965f-4a15-464f-84f0-d0122fbe274a"
 		],
 		"title": "Een persoonlijke gemotiveerde reactie formuleren op de Romeinse cultuur",
-		"id": "9991f20c-b498-4b2e-9586-d028e4463074",
-		"unreleased": true
+		"id": "9991f20c-b498-4b2e-9586-d028e4463074"
 	},
 	{
 		"prefix": "gtc/1/1",
@@ -11321,8 +9377,7 @@
 			"59dc05a8-6c67-44c4-9700-c6673f3458bc"
 		],
 		"title": "Alfabet",
-		"id": "875aedb4-f484-49c9-bd4a-b4033718bfd1",
-		"unreleased": true
+		"id": "875aedb4-f484-49c9-bd4a-b4033718bfd1"
 	},
 	{
 		"prefix": "gtc/1/2",
@@ -11338,8 +9393,7 @@
 			"466bcc20-375c-4774-93a5-f8fdedd5977f"
 		],
 		"title": "Vocabulaire",
-		"id": "554388d3-fa2b-45a6-9d0f-e8fb3b1abc40",
-		"unreleased": true
+		"id": "554388d3-fa2b-45a6-9d0f-e8fb3b1abc40"
 	},
 	{
 		"prefix": "gtc/1/3",
@@ -11353,8 +9407,7 @@
 			"8a063a36-2835-45e8-8b18-259baea1a2a4"
 		],
 		"title": "Morfologie",
-		"id": "5f758929-e4a4-4868-9b37-69ccfb8ac5d9",
-		"unreleased": true
+		"id": "5f758929-e4a4-4868-9b37-69ccfb8ac5d9"
 	},
 	{
 		"prefix": "gtc/1/4",
@@ -11369,8 +9422,7 @@
 			"40b2826d-6769-42f7-9a63-741791a50628"
 		],
 		"title": "Syntaxis",
-		"id": "99937b44-af28-4862-9861-91ea35ccf092",
-		"unreleased": true
+		"id": "99937b44-af28-4862-9861-91ea35ccf092"
 	},
 	{
 		"prefix": "gtc/1/5",
@@ -11382,8 +9434,7 @@
 			"611d3b45-0d3c-4aec-87f1-4a0ad8e2c38a"
 		],
 		"title": "Pragmatiek",
-		"id": "a91e1e62-e2b5-426e-838f-7f8d3183607b",
-		"unreleased": true
+		"id": "a91e1e62-e2b5-426e-838f-7f8d3183607b"
 	},
 	{
 		"prefix": "gtc/1/6",
@@ -11397,8 +9448,7 @@
 			"76b1a48d-cddd-41a8-a184-37150727a43e"
 		],
 		"title": "Taalsystemen",
-		"id": "02c01cc5-1e3f-4b0d-9632-cee32c097078",
-		"unreleased": true
+		"id": "02c01cc5-1e3f-4b0d-9632-cee32c097078"
 	},
 	{
 		"prefix": "gtc/2/1",
@@ -11412,8 +9462,7 @@
 			"85f44f05-5eab-4458-8ed7-efda9eda17cd"
 		],
 		"title": "Tekststructuur",
-		"id": "bbf37bff-2b71-4f1a-bff2-8dbaebae32d5",
-		"unreleased": true
+		"id": "bbf37bff-2b71-4f1a-bff2-8dbaebae32d5"
 	},
 	{
 		"prefix": "gtc/2/2",
@@ -11426,8 +9475,7 @@
 			"d5f1e23e-bdad-487b-946d-aa8f095e4bf0"
 		],
 		"title": "Stilistische middelen",
-		"id": "c7997ea2-04e6-4d00-b03d-491a851dd3d8",
-		"unreleased": true
+		"id": "c7997ea2-04e6-4d00-b03d-491a851dd3d8"
 	},
 	{
 		"prefix": "gtc/2/3",
@@ -11437,8 +9485,7 @@
 			"287fba92-26f8-4c4a-b626-eee364c5b31b"
 		],
 		"title": "Metriek",
-		"id": "19f03d78-03b8-4021-b68f-abc212217c6a",
-		"unreleased": true
+		"id": "19f03d78-03b8-4021-b68f-abc212217c6a"
 	},
 	{
 		"prefix": "gtc/2/4",
@@ -11451,8 +9498,7 @@
 			"96ff4957-40dd-49fe-ab12-729cfad59d9f"
 		],
 		"title": "Narratologische middelen",
-		"id": "46dcbc0d-bdca-4880-b1c8-0d95be4e484a",
-		"unreleased": true
+		"id": "46dcbc0d-bdca-4880-b1c8-0d95be4e484a"
 	},
 	{
 		"prefix": "gtc/2/5",
@@ -11465,8 +9511,7 @@
 			"61e137fa-7e78-4c7b-972e-a8caec18ebc7"
 		],
 		"title": "Argumentatieve middelen",
-		"id": "2ac316ed-3707-44aa-8a3b-0ac2adabb6be",
-		"unreleased": true
+		"id": "2ac316ed-3707-44aa-8a3b-0ac2adabb6be"
 	},
 	{
 		"prefix": "gtc/2/6",
@@ -11478,8 +9523,7 @@
 			"90e28900-a8a5-409a-9ef3-ed35311267b7"
 		],
 		"title": "Genre, stijl en tekstsoort",
-		"id": "9afbd8d2-98d4-498c-b7ea-6e057a3a55b4",
-		"unreleased": true
+		"id": "9afbd8d2-98d4-498c-b7ea-6e057a3a55b4"
 	},
 	{
 		"prefix": "gtc/2/7",
@@ -11507,8 +9551,7 @@
 			"98a08ab2-2d3c-4c99-bf19-4af4c3cf938c"
 		],
 		"title": "Interpretaties",
-		"id": "d189fb7c-f15b-4deb-af68-06c0afebd5fc",
-		"unreleased": true
+		"id": "d189fb7c-f15b-4deb-af68-06c0afebd5fc"
 	},
 	{
 		"prefix": "gtc/3/1",
@@ -11524,8 +9567,7 @@
 			"77ce007f-a281-41ef-aab6-37a50844454e"
 		],
 		"title": "Vorm- en beeldtaal antieke kunst",
-		"id": "9cab9ddb-80e9-4b18-9733-ae28fb57aecd",
-		"unreleased": true
+		"id": "9cab9ddb-80e9-4b18-9733-ae28fb57aecd"
 	},
 	{
 		"prefix": "gtc/3/2",
@@ -11541,8 +9583,7 @@
 			"00348718-ef49-4c03-93a9-f8b2d0c07ed9"
 		],
 		"title": "Antiek verhalengoed",
-		"id": "2c00f382-2b16-4453-b3b3-5d48e11ba6eb",
-		"unreleased": true
+		"id": "2c00f382-2b16-4453-b3b3-5d48e11ba6eb"
 	},
 	{
 		"prefix": "gtc/3/3",
@@ -11558,8 +9599,7 @@
 			"dccbb7b5-e437-44f1-bd48-201a1749d560"
 		],
 		"title": "Antiek gedachtengoed",
-		"id": "800e4a0c-7313-46d4-b7f2-adc37886c42b",
-		"unreleased": true
+		"id": "800e4a0c-7313-46d4-b7f2-adc37886c42b"
 	},
 	{
 		"prefix": "gtc/3/4",
@@ -11574,8 +9614,7 @@
 			"a22221a1-4d2b-44db-8c29-3bbcf38c931e"
 		],
 		"title": "Griekse godsdient",
-		"id": "0887dda8-3fa0-4724-9d13-5122c9c88c62",
-		"unreleased": true
+		"id": "0887dda8-3fa0-4724-9d13-5122c9c88c62"
 	},
 	{
 		"prefix": "gtc/3/5",
@@ -11592,8 +9631,7 @@
 			"8d4c464d-40f4-4250-a78d-c98e2a68c8cb"
 		],
 		"title": "Griekse geschiedenis en topografie",
-		"id": "c145d773-da5d-4d85-afa7-28417ba6a7f9",
-		"unreleased": true
+		"id": "c145d773-da5d-4d85-afa7-28417ba6a7f9"
 	},
 	{
 		"prefix": "gtc/3/6",
@@ -11615,8 +9653,7 @@
 			"f718e133-a2ea-4d18-8ec3-598c1813cb18"
 		],
 		"title": "Cultuuruiting als bron",
-		"id": "f6d97a15-6d7d-4298-a5fe-aaff08a5bfe3",
-		"unreleased": true
+		"id": "f6d97a15-6d7d-4298-a5fe-aaff08a5bfe3"
 	},
 	{
 		"prefix": "gtc/4/1",
@@ -11644,8 +9681,7 @@
 			"b3ebf847-c0fa-4c66-beb9-989e7c3adbc6"
 		],
 		"title": "Receptie",
-		"id": "6cbd6d35-6a94-4267-b351-23eb2042999c",
-		"unreleased": true
+		"id": "6cbd6d35-6a94-4267-b351-23eb2042999c"
 	},
 	{
 		"prefix": "gtc/4/2",
@@ -11669,8 +9705,7 @@
 			"993f6177-b852-4295-8aa8-56e76992b50f"
 		],
 		"title": "Actualisatie",
-		"id": "dd26b27b-7e50-488f-b84f-be4823495556",
-		"unreleased": true
+		"id": "dd26b27b-7e50-488f-b84f-be4823495556"
 	},
 	{
 		"prefix": "gtc/4/3",
@@ -11694,8 +9729,7 @@
 			"2646519c-686c-4ff7-a9bd-c1dfe5dfd950"
 		],
 		"title": "Persoonlijke vorming",
-		"id": "4e48d86c-52c6-47e2-bc9c-74f0a4b2f240",
-		"unreleased": true
+		"id": "4e48d86c-52c6-47e2-bc9c-74f0a4b2f240"
 	},
 	{
 		"prefix": "gtc/5/1",
@@ -11705,8 +9739,7 @@
 			"4da01a02-7990-406e-af01-c9db19d50039"
 		],
 		"title": "Herkennen, analyseren en interpreteren van de oppervlaktestructuur van Griekse tekst of tekst in vertaling op woord-, zins- en tekstniveau",
-		"id": "3bea1a9c-1cea-4947-acf0-09cd1721af01",
-		"unreleased": true
+		"id": "3bea1a9c-1cea-4947-acf0-09cd1721af01"
 	},
 	{
 		"prefix": "gtc/5/2",
@@ -11716,8 +9749,7 @@
 			"06e1bf61-9868-4414-9343-b1dca356d899"
 		],
 		"title": "Communiceren over de Griekse taal als taalsysteem op zichzelf",
-		"id": "032dc6a6-8a99-4bee-b596-fc123939d560",
-		"unreleased": true
+		"id": "032dc6a6-8a99-4bee-b596-fc123939d560"
 	},
 	{
 		"prefix": "gtc/5/3",
@@ -11727,8 +9759,7 @@
 			"2e8c6952-aafc-469e-b34c-24b58f94476c"
 		],
 		"title": "Herkennen, analyseren en interpreteren van de overeenkomsten en verschillen tussen het Griekse taalsysteem en andere talen",
-		"id": "c076e2ca-0179-44ff-b476-3c0fb15474a8",
-		"unreleased": true
+		"id": "c076e2ca-0179-44ff-b476-3c0fb15474a8"
 	},
 	{
 		"prefix": "gtc/5/4",
@@ -11738,8 +9769,7 @@
 			"ef9882ae-6029-4972-8b3f-8879959591c1"
 		],
 		"title": "Communiceren over overeenkomsten en verschillen tussen de Griekse taal en andere talen",
-		"id": "4a518bb5-5d06-4ad6-8561-acc1ad4ced41",
-		"unreleased": true
+		"id": "4a518bb5-5d06-4ad6-8561-acc1ad4ced41"
 	},
 	{
 		"prefix": "gtc/6/1",
@@ -11751,8 +9781,7 @@
 			"e1dfd0e0-46af-4a31-b1e4-d9a924de148a"
 		],
 		"title": "Verwoorden van een vertaling",
-		"id": "1a17e669-39a2-40e0-8f64-34ae6713e7fd",
-		"unreleased": true
+		"id": "1a17e669-39a2-40e0-8f64-34ae6713e7fd"
 	},
 	{
 		"prefix": "gtc/6/2",
@@ -11762,8 +9791,7 @@
 			"d4d1e5c9-d9f9-4baf-961d-93edbcd9de9c"
 		],
 		"title": "Eigen aantekeningen bij een Griekse tekst maken",
-		"id": "b3bd7560-c30a-4b6b-9937-cce7518072a4",
-		"unreleased": true
+		"id": "b3bd7560-c30a-4b6b-9937-cce7518072a4"
 	},
 	{
 		"prefix": "gtc/6/3",
@@ -11773,8 +9801,7 @@
 			"b07722a9-a1db-48e5-a638-443f780d2266"
 		],
 		"title": "Een vertaling van een Griekse tekst gebruiken",
-		"id": "38fd4092-bda1-4354-8d34-abe0360df22f",
-		"unreleased": true
+		"id": "38fd4092-bda1-4354-8d34-abe0360df22f"
 	},
 	{
 		"prefix": "gtc/6/4",
@@ -11784,8 +9811,7 @@
 			"7724ff62-d3ef-49ed-90d1-8927d84ac1a6"
 		],
 		"title": "Informatie uit tekstannotaties, een woordenlijst of woordenboek Grieks - Nederlands verwerken bij de tekstontsluiting",
-		"id": "3ebfa2c8-2f6e-4121-8e25-220e3da01031",
-		"unreleased": true
+		"id": "3ebfa2c8-2f6e-4121-8e25-220e3da01031"
 	},
 	{
 		"prefix": "gtc/6/5",
@@ -11795,8 +9821,7 @@
 			"10bf0409-efca-42d8-87d2-aff2fca88e54"
 		],
 		"title": "Informatie uit andere (ICT-) bronnen verwerken en toepassen bij de tekstontsluiting",
-		"id": "d50a1012-ece4-42a1-a404-f1e1f6fe623b",
-		"unreleased": true
+		"id": "d50a1012-ece4-42a1-a404-f1e1f6fe623b"
 	},
 	{
 		"prefix": "gtc/7/1",
@@ -11806,8 +9831,7 @@
 			"3af97e3b-a880-4d3b-aa06-b755998a8122"
 		],
 		"title": "Analyseren en interpreteren van een Griekse tekst vanuit taalkundig, letterkundig en cultuurhistorisch perspectief",
-		"id": "29f506b2-5d46-4751-84bf-dd019e4647b1",
-		"unreleased": true
+		"id": "29f506b2-5d46-4751-84bf-dd019e4647b1"
 	},
 	{
 		"prefix": "gtc/7/2",
@@ -11817,8 +9841,7 @@
 			"2eaa5560-f4a3-4bb8-828c-c799f6bc6e5a"
 		],
 		"title": "Interpreteren en in context plaatsen van Griekse teksten",
-		"id": "d7ea5f7b-8036-49d6-9661-e306ddf489be",
-		"unreleased": true
+		"id": "d7ea5f7b-8036-49d6-9661-e306ddf489be"
 	},
 	{
 		"prefix": "gtc/7/3",
@@ -11830,8 +9853,7 @@
 			"f5cbd051-ca8a-4eb6-b749-783c597a95a6"
 		],
 		"title": "Parafraseren van de (semantische) betekenis van Griekse teksten ten behoeve van de analyse en interpretatie van die tekst",
-		"id": "42c74ecc-9e7d-44ac-97ad-3eeb20889157",
-		"unreleased": true
+		"id": "42c74ecc-9e7d-44ac-97ad-3eeb20889157"
 	},
 	{
 		"prefix": "gtc/7/4",
@@ -11841,8 +9863,7 @@
 			"c4baf6f8-2124-434e-a159-9a663cd47536"
 		],
 		"title": "Geven van een beargumenteerde reactie op de interpretatie van Griekse teksten",
-		"id": "80ec4f64-9011-4326-bb79-e8bf68448bad",
-		"unreleased": true
+		"id": "80ec4f64-9011-4326-bb79-e8bf68448bad"
 	},
 	{
 		"prefix": "gtc/7/5",
@@ -11852,8 +9873,7 @@
 			"7607c1eb-f6e8-41a6-a10f-c49d17212762"
 		],
 		"title": "Analyseren en interpreteren van voorbeelden van receptie van Griekse teksten",
-		"id": "3879c7d7-4a4f-4dc6-97b9-809a90845b14",
-		"unreleased": true
+		"id": "3879c7d7-4a4f-4dc6-97b9-809a90845b14"
 	},
 	{
 		"prefix": "gtc/7/6",
@@ -11863,8 +9883,7 @@
 			"707640a6-59a7-4d68-bfaa-65f11041fb11"
 		],
 		"title": "Formuleren van een beargumenteerde reactie op de relatie tussen Griekse teksten en voorbeelden van uit de receptiegeschiedenis",
-		"id": "df3cf392-5b36-43ca-a5b7-d9eac4f315c2",
-		"unreleased": true
+		"id": "df3cf392-5b36-43ca-a5b7-d9eac4f315c2"
 	},
 	{
 		"prefix": "gtc/7/7",
@@ -11874,8 +9893,7 @@
 			"c3e66281-a2a1-4e41-a183-35509460b55b"
 		],
 		"title": "Reflecteren op maatschappelijke processen, morele dilemma's en / of actuele thema's in Griekse teksten",
-		"id": "2d8505ce-bae2-4e04-8328-55eb53a36346",
-		"unreleased": true
+		"id": "2d8505ce-bae2-4e04-8328-55eb53a36346"
 	},
 	{
 		"prefix": "gtc/7/8",
@@ -11887,8 +9905,7 @@
 			"abb8cb2e-9a56-4745-8c98-bc6d8c8befee"
 		],
 		"title": "Een persoonlijke gemotiveerde reactie formuleren op een Griekse tekst",
-		"id": "9be168d7-2746-47fb-80b4-140cffedcb08",
-		"unreleased": true
+		"id": "9be168d7-2746-47fb-80b4-140cffedcb08"
 	},
 	{
 		"prefix": "gtc/8/1",
@@ -11898,8 +9915,7 @@
 			"63f5b832-5f8a-4ff3-b03d-23395bf85de7"
 		],
 		"title": "Herkennen en analyseren van voorbeelden van de Griekse cultuur",
-		"id": "78800cb3-5921-4be8-b7de-1e203ecca9d7",
-		"unreleased": true
+		"id": "78800cb3-5921-4be8-b7de-1e203ecca9d7"
 	},
 	{
 		"prefix": "gtc/8/2",
@@ -11909,8 +9925,7 @@
 			"33f69fc7-fe98-435f-b870-78c496d38050"
 		],
 		"title": "Interpreteren en in context plaatsen van voorbeelden van de Griekse cultuur",
-		"id": "5250e8bd-340f-434a-b3df-d44e66705137",
-		"unreleased": true
+		"id": "5250e8bd-340f-434a-b3df-d44e66705137"
 	},
 	{
 		"prefix": "gtc/8/3",
@@ -11920,8 +9935,7 @@
 			"de868dfb-b095-4173-989a-c1a4268f9144"
 		],
 		"title": "Geven van een beargumenteerde reactie op de interpretatie van voorbeelden van de Griekse cultuur",
-		"id": "01ca34f0-da97-491c-a1f8-4f9c8251f741",
-		"unreleased": true
+		"id": "01ca34f0-da97-491c-a1f8-4f9c8251f741"
 	},
 	{
 		"prefix": "gtc/8/4",
@@ -11931,8 +9945,7 @@
 			"03e3ec61-67af-4b96-97ed-cb7c0bd690ef"
 		],
 		"title": "Herkennen van voorbeelden uit de receptiegeschiedenis",
-		"id": "9ba280fc-63b2-4240-a498-30cef610b9f5",
-		"unreleased": true
+		"id": "9ba280fc-63b2-4240-a498-30cef610b9f5"
 	},
 	{
 		"prefix": "gtc/8/5",
@@ -11942,8 +9955,7 @@
 			"4371d732-b8bc-4f81-9312-22dae1cab02b"
 		],
 		"title": "Analyseren en interpreteren van voorbeelden uit de receptiegeschiedenis",
-		"id": "2752cfc7-2afd-4abc-bf08-83444af66ddd",
-		"unreleased": true
+		"id": "2752cfc7-2afd-4abc-bf08-83444af66ddd"
 	},
 	{
 		"prefix": "gtc/8/6",
@@ -11953,8 +9965,7 @@
 			"3f4a23ee-87e3-4606-b10c-add09c1ccb98"
 		],
 		"title": "Formuleren van een beargumenteerde reactie op de relatie tussen de Griekse cultuur en voorbeelden uit de receptiegeschiedenis",
-		"id": "c780c7ff-29c2-498d-b8a4-6c4e610457f3",
-		"unreleased": true
+		"id": "c780c7ff-29c2-498d-b8a4-6c4e610457f3"
 	},
 	{
 		"prefix": "gtc/8/7",
@@ -11965,8 +9976,7 @@
 			"8460210a-ff0e-40ed-838d-9d0634daebf1"
 		],
 		"title": "Reflecteren op de eigentijdse cultuur met kennis van de Griekse cultuur",
-		"id": "5dd4c918-2d82-484d-b2db-baecfcf9f05f",
-		"unreleased": true
+		"id": "5dd4c918-2d82-484d-b2db-baecfcf9f05f"
 	},
 	{
 		"prefix": "gtc/8/8",
@@ -11977,8 +9987,7 @@
 			"dcf75a19-b59d-4c32-b7ce-f810c6cf85c1"
 		],
 		"title": "Een persoonlijke gemotiveerde reactie formuleren op de Griekse cultuur",
-		"id": "7b7087da-ae49-4fdf-b3fa-815c710ddd3b",
-		"unreleased": true
+		"id": "7b7087da-ae49-4fdf-b3fa-815c710ddd3b"
 	},
 	{
 		"prefix": "gtc/0/1",
@@ -11994,8 +10003,7 @@
 			"4c768618-376d-4e35-bf13-9633682b178c"
 		],
 		"title": "Tekst als bron",
-		"id": "221ede55-22f5-4e57-add6-82f2d11b7027",
-		"unreleased": true
+		"id": "221ede55-22f5-4e57-add6-82f2d11b7027"
 	},
 	{
 		"prefix": "gtc/4/4",
@@ -12007,8 +10015,7 @@
 			"69147fef-80d4-4a6b-8044-2aafefc03303"
 		],
 		"title": "Persoonlijke ontwikkeling",
-		"id": "7153bb45-353e-485f-8cd3-a5e09fec7fa7",
-		"unreleased": true
+		"id": "7153bb45-353e-485f-8cd3-a5e09fec7fa7"
 	},
 	{
 		"prefix": "gtc/6/6",
@@ -12016,8 +10023,7 @@
 			"b1622372-e5f1-4671-be27-4aa309ffe105"
 		],
 		"title": "Tekstannotaties en informatie uit woordenlijst of woordenboek toepassen bij de tekstontsluiting",
-		"id": "c69f1494-d1e3-4ece-804a-102fbc906359",
-		"unreleased": true
+		"id": "c69f1494-d1e3-4ece-804a-102fbc906359"
 	},
 	{
 		"prefix": "gtc/8/9",
@@ -12025,8 +10031,7 @@
 			"f0299967-424f-45cb-b79e-e2088ca32693"
 		],
 		"title": "Cultuuruiting als bron",
-		"id": "feb39337-df82-40b3-bfa4-227aa52fbe58",
-		"unreleased": true
+		"id": "feb39337-df82-40b3-bfa4-227aa52fbe58"
 	},
 	{
 		"prefix": "ltc/0/1",
@@ -12042,8 +10047,7 @@
 			"0f4832c1-7312-452e-a595-a46732d80672"
 		],
 		"title": "Tekst als bron",
-		"id": "37ed5aff-a78b-4a24-9610-e4c03f475246",
-		"unreleased": true
+		"id": "37ed5aff-a78b-4a24-9610-e4c03f475246"
 	},
 	{
 		"prefix": "ltc/6/6",
@@ -12051,8 +10055,7 @@
 			"33d1f66c-757f-41a1-84db-cbd96f4d9710"
 		],
 		"title": "Tekstannotaties en informatie uit woordenlijst of woordenboek toepassen bij de tekstontsluiting",
-		"id": "c11700d5-0be7-42d3-b89e-88dd90007381",
-		"unreleased": true
+		"id": "c11700d5-0be7-42d3-b89e-88dd90007381"
 	},
 	{
 		"prefix": "ltc/7/7",
@@ -12060,8 +10063,7 @@
 			"5caad4b5-acf2-4b63-885d-38bc390e7b82"
 		],
 		"title": "Analyseren en interpreteren van een Latijnse tekst vanuit taalkundig, letterkundig en cultuurhistorisch perspectief",
-		"id": "dd232fc0-2c2c-47e6-a75d-2836a1c3fa78",
-		"unreleased": true
+		"id": "dd232fc0-2c2c-47e6-a75d-2836a1c3fa78"
 	},
 	{
 		"prefix": "ltc/7/8",
@@ -12069,8 +10071,7 @@
 			"c6df6ee7-593c-4757-a14a-bd4afa6668af"
 		],
 		"title": "Interpreteren en in context plaatsen van Latijnse teksten",
-		"id": "7b9243e3-5f31-48fa-b46b-23f500fdda28",
-		"unreleased": true
+		"id": "7b9243e3-5f31-48fa-b46b-23f500fdda28"
 	},
 	{
 		"prefix": "ltc/8/9",
@@ -12078,7 +10079,2021 @@
 			"8cd8eece-4d9c-4d55-9b8b-3f4abf9278d2"
 		],
 		"title": "Cultuuruiting als bron",
-		"id": "2df4e060-3a6e-4565-8c89-e42ca714ace9",
-		"unreleased": true
+		"id": "2df4e060-3a6e-4565-8c89-e42ca714ace9"
+	},
+	{
+		"prefix": "bio/4/3",
+		"doelniveau_id": [
+			"efbaeaad-bb46-48d4-b6e3-3f9e512be226",
+			"5d9225f0-4567-42e4-b623-fa2190bcb584",
+			"b69e08bf-9c84-41ac-8587-f0e6ea47d277",
+			"356c5dd9-503e-4b29-be43-b95f6fd7d74e",
+			"560a7d8e-fea4-4779-a6e2-72c0a5a9b0c6",
+			"82815694-76c4-4121-98ff-c9cc0911d9e9",
+			"5e315c8a-c88c-4b27-b41f-38761b1248b0",
+			"658eec95-ada7-4217-ba9d-5432276f7c47",
+			"7c8d6831-172e-44f7-94a0-8b0cbae7b71b",
+			"d7f32e37-fa55-45c1-9069-f29d44cad7dc",
+			"a39518e6-0117-442b-bbc0-04150a1e1c6a",
+			"9a29c574-0517-4e03-8523-8dc026d1d3b6",
+			"83332581-bdaf-4b6d-a799-22315986625d",
+			"f0f77e04-e727-4722-bbe5-b6e2a890d4f4",
+			"4e370771-075f-4c40-83d4-8f251d336768",
+			"b5766346-b7d5-4d4c-99bb-d2a2b54eb243",
+			"e06a5f5a-0dc9-44ef-9c27-9e05036e699d",
+			"c18aede3-92ce-4247-8bdd-5c03e4acf471",
+			"3a6cc8f1-e4d5-47ee-b65d-d0ddeefb1e3c",
+			"dbcf57b4-b909-40d5-a5bd-96153a5cf29a",
+			"21a17102-66f0-4c4d-a69d-b03df3bcc8a3",
+			"bc1797d8-7fb7-49d2-8382-031ad384e484",
+			"dca3b2cb-857a-4d5b-b45a-1bd2d5b673bf",
+			"d4db1ef5-a34b-4fb3-ad3e-f0a7f8d5bbdc",
+			"fd9c00bf-4083-44e4-9ae2-7d9e36bdd759",
+			"5c891cec-d6a3-4f2e-814c-43ed2ccb83b8",
+			"dd5ef88a-ce11-4b4a-9b18-1a51cbe3defa",
+			"e8fde6a4-7aab-4d87-942c-d3edba49a9b2",
+			"9cde69a0-1fd8-414a-98b4-7140041c682c",
+			"f99236b9-d312-4d31-aa7c-d2f2c9f92848",
+			"81c74940-bed5-4394-8bc1-1793b470af1b",
+			"060206de-2f5b-461e-afa4-db3520ed2811",
+			"a58f159a-78b3-496f-a279-5722c43dd92b",
+			"a546b9de-6525-4de0-bb3e-46ee403b105b",
+			"31ef4689-fdb3-468c-88c9-d06eed6cefe3",
+			"78fdc628-d61c-4afa-b564-162060c2ac7e",
+			"f90bb834-13ee-41e6-bd8a-b6b7ea4e55d8",
+			"8d001461-128a-4d12-9a1f-2249749c9ea1",
+			"f3b3c0b8-3904-4320-bc26-a7637c9ff0b1",
+			"2269888c-cec2-46c9-be5e-a2ceb859e2a1",
+			"96e96635-accf-45af-8e78-508d72417faa",
+			"9dda4ac1-dfd8-4bdb-9826-b729258b71de",
+			"274d0726-0ec1-44e3-b904-74e14dd24777",
+			"522ea676-dc8c-4fc8-8d85-077b6b800541",
+			"d6b198e0-d23b-42ac-bfad-3cf7101dc15f",
+			"15e7ff47-f189-4ecd-b8c4-585b3c0053a3",
+			"60f97814-8e1d-4e50-90f2-882c7ee1ab21",
+			"d5350ecb-b738-406b-829e-400baaeef65a",
+			"10a3b250-9a27-4f9f-bf36-188764a0cf18",
+			"6f1fe911-ca6b-4fe8-b520-9d8e01a1c5c0",
+			"89dae956-0a6f-4116-bcee-7605265f8d76",
+			"fc1de8df-084b-491b-8a6e-6142bbf82ba4",
+			"2e4e9cb8-3730-453a-ae7c-245a032b3136",
+			"54a18570-2ef5-49ba-91c7-4cf65a48f8d1",
+			"d9d5f102-132c-45fb-bf28-6e01361293d3",
+			"d6070832-dca6-4660-ab7e-8384ed7e2ecf",
+			"09fae995-a5bb-4341-990c-94a00424d54c",
+			"db1cbea9-3512-445c-85ff-6d41833dda4a",
+			"85a02d17-6152-410d-abec-13b9ace75efc",
+			"ca6b0cd9-1135-40aa-84ed-3a2d39c7941e",
+			"1cfb2470-c55b-43d5-8eb6-1cd7ae04f6cc",
+			"d1699d9d-7a68-4c26-9fe6-ce70e8eef707",
+			"cd9868a4-947b-495f-bc58-f21652a0baff",
+			"589e40cc-d29b-4de1-bc74-16c38d098fc6",
+			"42e4c854-61b6-4649-8c77-95520fe3c078",
+			"b5009de2-beac-45e6-a4b1-ccde7a96fbd7",
+			"2c70cae6-e1ca-4963-b00e-1fb121acfcbb",
+			"1260b183-94a5-43b9-91c9-ccbc079b1f3d",
+			"5f7edc76-e20d-42b6-be45-d66e310883a4",
+			"053ec789-a85d-44ea-b10a-4d51f42b5c59",
+			"0550aecd-3fb3-4c56-8621-5c83edb560ca",
+			"ea5a501b-d839-4897-98c4-565318cde3a9",
+			"9992764b-972d-4417-96a3-8219aa5463b9",
+			"a7fc0bf4-89ec-4600-95a1-85bce62d9dfe",
+			"e38bab77-917b-4183-9946-0301c776a7b2",
+			"7a63aa60-b082-474a-bc59-36a710ec6895",
+			"66b062ab-ae57-43ed-8f11-d8f161102e08",
+			"d374b05c-aaa1-4068-b7c7-3552b888f2b3",
+			"0353bada-5d77-4804-91c8-aa8be67a38b9",
+			"805bee74-b67e-426a-b7e6-d43870304e33",
+			"1fdfde1c-4665-4c41-a134-be968a3dc37e",
+			"4cf50bb5-746c-4ef2-aac7-df9e516cc873"
+		],
+		"title": "Seksualiteit",
+		"id": "11bac6a8-8e58-4f54-9bb7-24cf8984121d",
+		"replaces": [
+			"602bf64a-86c3-4ec1-8cdc-15476e0a3747"
+		]
+	},
+	{
+		"prefix": "ak/3/1",
+		"ldk_vakinhoud_id": [
+			"e4bfb918-e01c-45dc-911e-acd8c1256c6b",
+			"f34f9841-0aa0-4803-ba23-9dbda7c52fb3"
+		],
+		"doelniveau_id": [
+			"f6f5e98f-ce76-41fb-9ab4-ba68d9e140d6",
+			"2d70e819-dd1f-4167-85b8-678711e3de31",
+			"c006512a-8a69-4c02-88e5-1c84134ca4bd",
+			"30c076f6-65de-4988-a352-012aa1bc03d2",
+			"c4d81d77-ea1a-4638-a2d4-64e2b6da0335",
+			"5f01c063-0438-4e9b-adab-cb05f5554b68",
+			"36c02509-f470-4699-80b4-09ab3bbda68d",
+			"06d0869f-2c96-4776-943a-58d56dcc7876",
+			"112c482f-1382-4fa0-b6e2-736cc6c27cd4",
+			"30496e92-08ad-4b64-b0d3-8f783d72da9e",
+			"930a2b30-770e-47b1-b14f-2e5566a586e0",
+			"c9d7bd96-4466-4f8a-ad3a-a910c4e87869",
+			"be97cb11-533a-4605-96be-84d39fdea95a",
+			"eb5afa72-1894-4de4-8b55-99c97ee847d3",
+			"8ab69ebf-00f3-4a2a-b8a9-232d9a02b482",
+			"3888d1b0-afb1-4082-9ce0-45b50756181a",
+			"6279ea35-884b-4c27-9a26-8440a8ab7dd4",
+			"28d37b7e-9336-48d6-a007-71a4e73aad14",
+			"fee7f55f-f3d7-4797-b110-ec3900482aa6",
+			"dcdcf952-ff4f-4daf-bbcd-abcc25985d1b",
+			"29905cea-ac11-4f5d-a716-4920171583a9",
+			"751c12e4-234b-4969-89b4-4c48ad5f804d",
+			"c48db302-38e4-4a0b-ba5b-575cde4efd6d",
+			"1e698ecf-c80c-4311-9ff8-abd2e5fd46d8",
+			"b4b3f9d6-c867-4111-920a-3e402c0d38ca",
+			"8d3d5b80-4527-460c-87ae-bfa28ff41f67",
+			"7233e58f-81fe-4bc0-8db7-11f3db8e08f9",
+			"a64df92d-6ddf-4080-8daa-25836da89a37",
+			"845c90dc-db31-415b-a3d0-a63e5d7b8c77",
+			"73a1f2e5-ce87-4511-a6d7-94613c3f7e37",
+			"c1d35d61-c7a6-4acd-a511-030ef4d88dd2",
+			"e1be4c79-c0fa-4324-a11b-bffa431f4474",
+			"4e540cc9-f942-4cf6-8909-ddf34e9d6276",
+			"610916dd-4f5c-4cfe-a3c9-196eaa4058a6",
+			"32bc8234-6637-4832-bc66-11696cfd3dca",
+			"d625915a-a7d6-4142-acb3-9183cda89cf3",
+			"8d55bae2-bc61-4551-b80e-41348953b8cc",
+			"2b15af12-ee1c-4c89-beb1-390c942ee5f7",
+			"1186c74a-c91f-4890-8c3b-4138ce951ed1",
+			"b6c9bb51-e2a8-4158-9d67-c6ec2a634203",
+			"18f2ca85-370c-45da-80b7-ac4da697c897",
+			"112e23aa-97bd-4b41-9b62-9990540f2423",
+			"103903c1-ead2-43f7-aa9e-c8bb037c454c",
+			"85b6d1b9-e618-4871-a5a8-35908873afa9",
+			"349e0891-5b97-4e43-a00c-a81abb8fedfd",
+			"4968f273-d5ea-4395-9f87-66ab83d820c0",
+			"69888182-a188-4b86-83f5-41da8f6baf63",
+			"6f66cf27-f296-458c-bec5-5f0ef8cb69e9",
+			"d806820e-5b38-4509-a271-ea5652df0cf1",
+			"594046c9-06df-4ea1-b4cd-36ac58bce48a",
+			"7d2a9328-68e5-47c1-80a0-cbd9339327d4",
+			"2b879a1c-de34-49c5-95ff-bb1098f84abe",
+			"2e2e8d65-c690-46d4-ba56-9988c6d33451",
+			"33467e2a-a346-42c6-bfab-da04aff2b3ee",
+			"89092689-656b-4464-a183-481de3da7d7c",
+			"a8524b91-3ca4-4e83-8d14-41988546d3b9",
+			"459f3aac-4b82-4338-bc8e-e5d75be7cba9",
+			"0750ef4f-2d6e-485a-9e5c-1415216ff8e2",
+			"627f80e0-5ea2-496b-b70b-d1fbc7572f62"
+		],
+		"title": "Bevolkingskenmerken",
+		"id": "7db092d6-5ed4-46ef-a007-8eaef812b08c",
+		"replaces": [
+			"e0040f47-8f9f-48d5-9c7b-187ede8599e1"
+		]
+	},
+	{
+		"prefix": "ak/4/2",
+		"ldk_vakinhoud_id": [
+			"30455416-2f3e-435a-b7ba-08dce6b41597"
+		],
+		"doelniveau_id": [
+			"f4184856-a9fa-4c92-9c53-b8b627cf2280",
+			"da463375-dc1b-48e0-919f-e9daf33b5a2c",
+			"28eb375a-fb3f-499e-b90c-e6ba9dbf011d",
+			"6136a7c1-cc46-4a57-bac8-36a4b12aa8f6",
+			"8c74b22e-c521-447c-8640-920a0be8436a",
+			"b769e61c-e1de-43ac-9c4f-3bf0c73652b0",
+			"b176cdfa-68f1-42eb-be42-908572e0a7d4",
+			"1a452aad-541a-4b7d-9939-d143f0273f1e",
+			"7907ff24-0712-400e-9c90-17af2e003c9c",
+			"acc5cb77-9c02-40b8-8687-0b5ae29667cd",
+			"e34fdb51-ba95-4af1-8a7a-d4913c04bf80",
+			"3d91b7c5-3787-4725-b17d-0a02bfbb583f",
+			"689309a6-9c32-4248-a44e-785ba9326383",
+			"f92205db-2d53-4be9-969d-4eacfc23687a",
+			"1c80a0bf-7e76-4e4a-b6e9-5a9a1605178e",
+			"973befe0-ff58-4cc7-9b06-42a9e0353462",
+			"2a76b667-ce1f-46d2-837b-b10df27eeb34",
+			"8d4f738b-6636-4ee8-b7f2-4ba6eca6231d",
+			"20b779ef-a6d5-4e5e-92f7-c21fc76d6e2d",
+			"99a2e164-03cc-4c3b-910d-c785998e9f48",
+			"188a632c-3246-4a30-9b9c-4b16cada0bc1"
+		],
+		"title": "Global shift",
+		"id": "1352e0f0-b42d-4d39-92b2-9053d47e3fbc",
+		"replaces": [
+			"513cd35e-9171-47b8-b019-27410005ba3f"
+		]
+	},
+	{
+		"prefix": "ak/5/1",
+		"ldk_vakinhoud_id": [
+			"3c368396-0b54-44db-8bea-e7e3efa3fdfe",
+			"c6f09670-227b-4553-8056-5bc8cc5bb8c2"
+		],
+		"doelniveau_id": [
+			"996a1e4d-02ae-4f62-b0eb-af4885469be6",
+			"fee88595-5c0c-48ec-a875-06dbcd87eb19",
+			"a1aff57a-92d4-4f8a-9c92-be42121ec2f1",
+			"b101cb5f-c2f8-4e62-bdc9-49df0dd448d9",
+			"100253ba-aa4f-4b4a-9c2f-ffd9768a037c",
+			"429626d2-1c96-4b95-9994-e2a2349a4142",
+			"4b0e6e34-6be4-4b8f-b5f5-7f53965f5d0d",
+			"6f544ff7-68c5-4444-8f9a-e29766f20291",
+			"355766ef-37f9-4d8d-af23-4f28d915712f",
+			"97f93f4f-8ec1-4053-a969-b5d03b3e6f33",
+			"85342158-9539-4139-9fba-5a20b0e2d59c",
+			"9f30d5ae-4ba4-4332-9fe0-8c91a7355a82",
+			"ea49e999-82b3-40aa-bd08-d83b2cd3204a",
+			"193c3241-450e-48ab-9e8b-386d8f8f33a9",
+			"07a2d1ef-eaf2-428d-b88f-baa18495a96a",
+			"a3bbf425-f6c3-447d-ac88-cb291fe703cc",
+			"c22188d9-4fd7-4c5d-800d-74e6799a1ef3",
+			"e707648c-d3e7-4057-b00d-edc937278286",
+			"a671efe6-4b47-440c-a420-bf5c60f1fbb5",
+			"a187c686-dc0f-4343-bebd-a98ce4135474",
+			"9943e887-1b31-4e1e-8bcb-468c62e792c7",
+			"536ad1d5-9be9-47bf-8524-9cc1621621b4",
+			"8c540598-f61c-4f90-920c-b6cdc0f6ebc4",
+			"081b804c-0940-4827-b708-1a6a1e4a2e4e",
+			"a91a6762-763d-4c46-8a8d-4dfd678487f4",
+			"2794cb1b-b649-49aa-bcf3-bf93bc0f1bc5",
+			"1a7b8b8f-dc53-43ea-8f98-3b0c63dcec2e",
+			"dbcc187a-d7ad-481f-9cc9-87320aa593fe",
+			"60a22c00-5f96-487c-a1a5-8b2c525900ff",
+			"04bda102-73a6-446c-ba04-feddb250212c",
+			"6ac7e3c8-8275-48e6-8054-8b488181639e",
+			"42be8357-e73c-457b-87e2-1142868b9654",
+			"99ba6837-3b88-4ca0-823f-58d9665b8598",
+			"452206db-6624-4516-b327-cf5ce7448755"
+		],
+		"title": "Ontwikkelingsgebieden",
+		"id": "08943a5f-a0e4-4469-907d-f061a9b84ece",
+		"replaces": [
+			"7586f7e1-40f0-4504-8fd7-a3607ef9bd7b"
+		]
+	},
+	{
+		"prefix": "ak/7/6",
+		"doelniveau_id": [
+			"a1bdb7af-67f8-4393-8d7b-7f91f0b53534",
+			"907ae752-d2dc-4c39-bc90-9ef6c9f8af37",
+			"56c2462b-9ed2-4a4f-96a0-f8389af86617",
+			"03c71f71-2d5a-4324-bce1-78323d2b4b25",
+			"b5a27eaf-a9f0-40eb-8b2d-7fd7df417ec8",
+			"0357e67e-9540-45c4-8ce6-77cb034d3b35"
+		],
+		"title": "Relaties tussen endogene en exogene processen",
+		"id": "b452a064-a379-4e31-bcf4-334c194d3bac",
+		"replaces": [
+			"b38b70f1-86e9-433e-9fc1-d1732bacdcf6"
+		]
+	},
+	{
+		"prefix": "ak/9/1",
+		"ldk_vakinhoud_id": [
+			"3febafb7-48fa-4212-872f-eabb701f0d0b"
+		],
+		"doelniveau_id": [
+			"5c45fc0e-9a06-421e-8148-279f581f0bb3",
+			"d211fbce-ec34-41e6-9cfe-08ca74588156",
+			"d2101831-96fb-48db-99ff-bb10ff463e6a",
+			"798a04eb-98bc-4e02-927b-f4dbb11ab41e",
+			"f7ae867c-6309-4f08-b3bf-a1008d0a9a46",
+			"40490f1f-db5e-4291-b750-75109d6b1d53",
+			"7a3e1881-4dda-485c-973a-869c7393c567",
+			"54f32760-17ec-493e-adc2-c0a8caa0faff",
+			"46936340-c84c-4cd6-ac79-d540c03773fe",
+			"93dca7e5-18bc-4907-8285-206b3e00932a",
+			"41d6ab42-6667-4d7f-abd3-aa5d1bfcd6d4",
+			"accde5ab-6255-4de4-a40c-c82e596de598",
+			"a65b0b28-cc3f-415e-8cd3-f32267099aa7",
+			"070e603f-da4c-4664-9d94-da2963eb7aab",
+			"53369412-0c28-40b6-89a9-2cd2a7281716",
+			"e3834568-f4fc-4020-a9d9-8d844dbe2ce0",
+			"53a4c009-effe-4603-ba8d-60e3122a9658",
+			"7957f249-834f-40f9-8d6c-def1f0587238",
+			"9a3cbb8e-56cf-46d7-bdf1-2db61a0770a3",
+			"b60f8bea-db3e-4ad7-bbe7-6d813778543d",
+			"8aeb32e9-614e-4ec1-9730-7610a92b851c",
+			"15f6ecf9-ff4b-433a-ad95-ba567b02771c",
+			"8e9694df-5d0e-4003-82b6-ffc9d24707f8",
+			"fd6fba07-3229-47f3-87b9-95eb3182fd7e",
+			"f41a5df1-862a-4993-9496-d41ee7cccbc9",
+			"548139ad-5b03-4556-829e-c6527b3501a6",
+			"c8f6d1f2-9723-4986-b0cc-762c4e654859",
+			"381e80d2-443f-48a1-afa7-99af82effa6e",
+			"30ecb5ce-a969-491c-8073-2f25a9a2e904",
+			"48e994fc-20ff-42a1-8910-13895226bbf4",
+			"f573613f-216d-49a4-971b-136053c69f67",
+			"07fe6ded-500f-4fbd-96e6-7e429678ae4f",
+			"fe490422-1580-4046-8da3-c42537241ecd"
+		],
+		"title": "Waterkringloop",
+		"id": "ffa23fba-bf55-4eb8-9b85-6942a8666e9b",
+		"replaces": [
+			"e78d6e35-8dd5-4717-8f6b-77dedd99a9c4"
+		]
+	},
+	{
+		"prefix": "bio/1/1",
+		"doelniveau_id": [
+			"921df904-a35c-4dbf-90ce-0970a4003b7d",
+			"f3110514-86db-4928-8482-980d2c77ad26",
+			"add039b6-d5fd-4c66-b500-110713842dc3",
+			"47bf4555-72f5-4aba-92a7-44290ccedc2f",
+			"6ff80dd7-f743-4533-938c-dddc1efaba3d",
+			"d579e26d-6a93-4a8f-8e06-5efa664523c5",
+			"f453b0c2-8871-4ed2-a0df-631a8873038d",
+			"0267ebbc-ac06-4b6b-b636-fe2a9851a977",
+			"f8527ff0-c29c-428b-9d12-ab1860bf0b6b",
+			"ac6cef8f-2796-4094-a5b8-0caa2ace5cca",
+			"b5f0c1a6-f786-47a8-bfce-b857acec2e52",
+			"f82413b6-61de-4b36-82b4-64508216713a",
+			"1d5f59d3-069c-45d5-8661-aa95a669b9c4",
+			"21f5dbd3-e618-4f63-b80b-bffd07b08328",
+			"aa34b49c-e8b5-4377-bcaa-a932b86498bc",
+			"25879dcc-fe59-4873-9e02-1c0830c2b490",
+			"08eef3fa-6064-404f-abcf-8e50ec412333",
+			"b95af10e-db1d-41cf-bcc8-3be53bf57686",
+			"b15ab33f-3079-4b1d-9012-793568861381",
+			"3629b806-e9b8-405a-986b-33e8de969ae7",
+			"ad05d1d5-c4e8-425a-8225-c241945a528a",
+			"ac6726c9-8c97-4586-bfa3-15eb63e77829",
+			"65c4207b-0c93-4f84-83b6-1a45b62bffc4",
+			"0599051c-7607-4b00-b0e6-5b63a5424d2a",
+			"e989383f-0441-4ac2-af54-828bb6d5194a",
+			"ad89fc15-ac0a-47af-84b3-fbc38d58e8b7",
+			"26880b16-50b3-4522-a392-c83aa0af9782",
+			"8886881a-08a0-4968-98ce-681c5fb095ba",
+			"6293f311-391e-444a-aa2c-05293de53d83",
+			"f206bbe0-97f2-4fff-aa8a-57a5e3fba80a",
+			"485404d9-96e6-40de-ad24-02ca5a3905ff",
+			"163db71e-ce93-4ab3-be00-e518332aa73b",
+			"730ab1be-f484-44e7-8857-e161de7f4d02"
+		],
+		"title": "Levenskenmerk",
+		"id": "086f46f0-7dc6-4acd-9239-231f97ccc7a2",
+		"description": "",
+		"replaces": [
+			"59bb4aa0-7cfd-4e29-88cd-a6bbf14ffb50"
+		]
+	},
+	{
+		"prefix": "bio/1/2",
+		"doelniveau_id": [
+			"8a7c7128-8179-4db1-b587-2421a2f00c0a",
+			"29a4bc03-db2f-4412-8ce0-66a23f7199ba",
+			"87f9ef4c-87ce-4ff0-b328-85f66aff3cd1",
+			"2609a621-1938-489b-9634-b72e4787c8a1",
+			"4700d19f-d8f5-4343-b126-eab89bd5ba04",
+			"6811fd27-0be7-4825-b782-a48db2eab6c6",
+			"c2d8b8bf-e31a-4619-b261-55c01f94c432",
+			"17aeece2-3392-4bfe-bc0c-667263935ee9",
+			"d3e0f575-c5bd-4b29-930c-270d6cbae5fe",
+			"717d06c6-2ed8-4c00-81e9-9d802e7b3d65",
+			"fa239dc4-e854-4e52-a75e-fd8fbb968fea",
+			"58fdef8c-ba9f-4343-9997-717f6665dc5d",
+			"87153293-44ec-4378-a30e-4bf2cedd0b5a",
+			"95362d9a-be3b-4889-9ba7-1bb4a2d01d4d",
+			"57bf0109-4215-4a29-a0b1-317799efde38",
+			"ea3623e3-d609-49ba-a9b4-ff6b89e1669c",
+			"47949b18-bb4a-442e-bf55-673a9ed6fc2a",
+			"c7f1b90c-2631-4b7a-ab88-0a5fb3413745",
+			"5faa781d-f18c-48f2-bf1f-70c370619ddc",
+			"d00d4a58-44b3-42b2-bdb0-8ee27eed6b92",
+			"df90a210-0c5c-45bc-9306-ca1a9815cc67",
+			"062622e0-96ea-496b-906b-f58e8fcafef5",
+			"f436894f-80bf-4fae-8d67-5be1af3df964",
+			"517b47ea-721a-4f8b-b92d-65398a3ef985",
+			"46558046-34ca-436f-938c-d7e3e6caec8f",
+			"605e2967-b9cc-4f46-b74d-c4927d7c5792",
+			"42bb91e6-1e50-491a-b23b-0c552862f887",
+			"3cab1277-6e54-4e09-addd-3cee0fb1ae2d",
+			"d0540f44-9149-44fd-bd19-485485ab1def",
+			"9b9e9c99-fd8e-4a77-9112-05746f3fa078",
+			"324b85ed-36fa-451f-a81d-56d879cf63ef",
+			"e142f2e4-04b7-45b1-82f9-037fbfbc314c",
+			"ebe2178d-f06d-49e2-ab2d-83cb669762f1",
+			"5b19e151-bf03-4b8b-a90d-5aedf61e0080",
+			"897603e0-1da6-4124-9548-49855121b6e7",
+			"e49785e8-17f8-4325-91cc-5e293b66c8ff",
+			"46b6b86b-ae9f-4288-85f4-01fc16a7cca6",
+			"00592f0d-24e8-46d2-a4f9-9662160de8bc",
+			"46526b4a-f200-4816-ae81-7dea49d31759",
+			"00639058-474f-48da-8988-80007d6b4084",
+			"7244b376-dedc-4db4-ba33-887530c9902f",
+			"ccd4701d-e2e7-40a7-a1f0-48639d1f878b",
+			"5939355a-1bf8-4b7f-b5da-507913c793ff",
+			"fa5ff64b-674d-4124-a62d-56cf654f0d55",
+			"04a9c958-477a-4894-bb96-8cbcb025058c",
+			"72e338b1-f308-450a-be74-ba9cf8c6dc10",
+			"8e161bf4-1506-4060-a4e5-63a7b166c931",
+			"a294f919-9de9-4a4e-8572-2f4a367e09ce",
+			"465caae9-5e95-4d31-91b8-aaa429306e23",
+			"f839c286-4315-486e-960b-c5c90e8919fa",
+			"458c1979-9ca5-40f5-b0f3-ae5a3d87b98f",
+			"44c4eefc-0ada-45ce-a9f6-ec0416d4f31f",
+			"93356a86-8bd6-4b51-a0dd-c1052682eff8",
+			"0890db23-e963-490e-b92f-4ce5d14d1ed5",
+			"3f69048b-49a5-4ebc-a975-34912a31317b",
+			"9b2701ee-ccf2-42f4-90ae-44350267884b",
+			"881a893f-d46e-4075-83dc-307bbc79a86f",
+			"92111b34-10a0-4401-ac5e-f1060c2334ff",
+			"ab6971cd-55b5-4755-bdf1-a75efbdb6872",
+			"863e0b58-db95-4dec-a539-4458f7da7539",
+			"7b34d897-f5f5-4ed1-b7ae-24fe6be8e135",
+			"244b8f96-21be-4958-bdc7-3650b88fe908",
+			"950a27ba-e4ce-434d-9c06-d7667204b794",
+			"c1214c9e-4c3d-4ee7-93d6-1a2c424401cd",
+			"8e5d5cd9-0675-462b-ae14-7189853ba3d7",
+			"448bd2c6-e9bb-403c-917c-c5ba44b9c275",
+			"29f924a6-bdc2-434c-84f4-0a324abee13e",
+			"cc9f0ced-05e4-4091-b373-5c81d41405f1",
+			"9e187957-dd4a-410e-b95f-1a8b5a91da38",
+			"4684b43e-2ba4-46da-8ae8-dfbaeedf1ec4",
+			"e6d1db0b-043b-4d2c-a35d-b90fe97e7561",
+			"5248e9de-c689-45cc-adac-200666b52d9b",
+			"d0e2bb9c-b342-408c-a0e5-6ae64ff744b2",
+			"2ddbfeba-99f8-4ef2-9333-8bc2e2117304",
+			"073cbc9c-faed-4a88-b91f-bff880fc7972",
+			"dcbb399b-ecdf-4368-b358-3bfc7ee0cf9a",
+			"2bd25a3a-4f8d-4e5f-beb1-d35991fe86a5",
+			"a16ba7ab-b15e-4fee-aabb-0f156c50fc1a",
+			"1898850a-1019-4492-b1b6-c6b3ee526b87",
+			"da87dbab-deed-459c-9c4d-2400bf0dd473"
+		],
+		"title": "Cel",
+		"id": "119d81ab-a3a5-4742-9ce7-ccd9519baab6",
+		"replaces": [
+			"8d9626fa-fe06-4b15-94a0-03c7f6d4e530"
+		]
+	},
+	{
+		"prefix": "bio/1/4",
+		"doelniveau_id": [
+			"f53ecf6e-cac3-47dd-b660-af70f6f844da",
+			"3ac365a1-355f-4eb8-9b7e-107bd3e7ec1f",
+			"2addcdd3-2c89-499f-9a7a-05f7f46414c4",
+			"1cc9f817-434d-45cc-b7cf-fa4045d01056",
+			"7fb91532-87ef-4576-a1f0-e184bbc651db",
+			"a8a1aae5-df0d-4fb3-9110-f3a0ee42b9bc",
+			"f280f170-0270-4d49-9823-6e5176dfab0c",
+			"9c742924-3a22-42d0-8d3d-a31ca97cf66c",
+			"13218dc7-bb85-42b2-8ac9-ac5bb2e7bc8c",
+			"8772eea9-785b-4870-b4c2-6c034e617210",
+			"b9f9d980-6e32-4105-bd10-5f240e3eaf97",
+			"b1302a47-ca96-46ed-9453-972888337c4b",
+			"40c922f7-537e-479a-afdf-09c0b33b6d7f",
+			"4563b9e7-5544-43ba-9924-15b70bf8c69e",
+			"37eb7dba-23b9-441e-9b5e-6bc8acd4f533",
+			"020d0a5b-81a7-464f-9f07-5f7018c5c361",
+			"8c21d946-e3de-4e51-92e2-aec4741387ea",
+			"872df40d-a24e-464c-a136-dde9de138ed4",
+			"9c2ea916-351e-4c23-8813-f37da8d5fc40",
+			"0502e63e-c47f-4790-8537-0970f445e2dc",
+			"d6055bf0-989a-4719-8f24-8dfce87ebb90",
+			"d1b9e02d-cf91-430f-b660-0fdd687d22b5",
+			"14a15905-5af3-44a5-854c-601873be5d49",
+			"f51cff34-f9a5-414b-bc3f-ba15b1404f01",
+			"eed896cd-cf20-4d17-b4fc-e4a1b8c21ee2",
+			"ca0efea9-2f4b-441e-982f-a0cdcc449736",
+			"737799cc-d11f-43ad-8e0f-eda4aad8ae02",
+			"554670d3-223c-4304-a76c-76570478723e",
+			"76428e77-0743-4538-9d70-4dff40f3153f",
+			"7f799672-d0ba-4894-83cb-795edf01f123",
+			"f1a7cc4a-4862-4353-81cf-2d328f46cc83",
+			"96c48991-6885-4743-80b3-c57c92a36988",
+			"45893648-16fa-4887-af3d-dea05c44a24c",
+			"1d2ce145-8e27-40d5-afcb-428ea854f282",
+			"a05b045e-19bf-430f-9544-4502e4d5f85e",
+			"a537d60d-b800-4a99-a152-633d983b98c4",
+			"4c756776-6aa4-4cf5-8cb9-d0a6ae87be0a",
+			"116d73ee-04bc-479d-a260-1439379ba39a",
+			"2833ab53-4bfa-48d6-a86d-e396da904ac6",
+			"56377b03-7612-40ae-92cc-6e013225f616",
+			"5757f11f-4eb0-48ad-a3ed-80232785979c",
+			"e78b837b-2d5d-4445-b7b5-78bc448bfc5f",
+			"b33c314a-8d10-46c6-b28a-7b19348d71ba",
+			"cad4893d-064c-4f67-8005-84b4ac02f04d",
+			"692b051b-6512-4523-8fa8-9e7de05f6229",
+			"766599d1-96ed-439d-847f-31654939d701",
+			"28115dc1-39ce-4421-bd13-1510c07dbfd8",
+			"1507ba80-5c97-44c6-bad9-bdd91828719f"
+		],
+		"title": "Organisme",
+		"id": "fb74cb74-3091-40f8-a570-19ead04a5aab",
+		"replaces": [
+			"cf7ad31e-d0e3-4889-a5e2-8ad3a8806522"
+		]
+	},
+	{
+		"prefix": "bio/2/1",
+		"doelniveau_id": [
+			"106f946e-2abd-44dd-90a1-f5e5cf813124",
+			"10dc91d2-78aa-4884-95c1-d6b905026f00",
+			"15fdeb7a-7c29-4675-b9e8-74689bee5334",
+			"4c4b8fe8-baad-4667-a3e7-14a869df8b21",
+			"78429622-47ee-4bc9-a7ce-73e2bc9b0e39",
+			"d9f0610f-8a79-4e58-bbb7-a3c3523ddbf8",
+			"d2c3750a-71e5-40a9-8de1-6689bf5e3d1b",
+			"5279f0c0-fa83-41f2-b41b-2e536fb41a0d",
+			"2059d93e-56dd-472e-a906-650efa9cf491",
+			"fd5a0c13-f81c-4bda-9e99-056453cd4e16",
+			"90d0d651-b4dd-4662-afc5-26a4bdad286a",
+			"d0e55833-fbc7-4fe3-99b4-f8afc642c732",
+			"f79cc775-25dc-46e7-9bf8-7e063bc8090d",
+			"b580c4a2-247d-4937-919e-d22c3051a8cb",
+			"3b386ee7-3a23-4984-a281-737f7d443f5d",
+			"797e664f-6c68-4333-9bb6-9a2282213b34",
+			"6b88e262-2689-4771-a501-0bf908454ef3",
+			"bfdcb20e-2a70-4796-88f3-1667635649cc",
+			"ba979286-6d41-4794-b406-ac2d886dbc5c",
+			"0ca802f6-0d53-42d2-a453-13e29029ee97",
+			"8190d601-3641-4da1-a641-005f37d4a721",
+			"293a8056-7208-4248-a20c-17be1d43f3bb",
+			"9b0bce4d-b1f3-4ee1-8590-d502e30fda47",
+			"164c9f62-d7ac-4c2a-af07-1fd59827ba34",
+			"bd04e716-df67-4407-97c4-6fd03a3560b7",
+			"0318f22f-4c17-4f5e-8b24-c332cb30476f",
+			"1ebda283-9645-4eb2-908e-e8c0cea5d2c4",
+			"ed1e8d3b-d81c-441f-8177-f92d9834ee27",
+			"ad3c95bc-faae-42c0-baa1-ce2b1076deec",
+			"f6e559c0-67c6-4ac9-b799-e2fcd9489708",
+			"4f54e101-715b-418e-bc15-62465790296f",
+			"6d41ac6e-176b-41b5-91ea-95fcdfc2edb3",
+			"97aa89e1-b247-4e02-be12-69d89e506d90",
+			"9e3f21da-1112-4599-88f4-ed1175caad90",
+			"aa4d1b9d-4b83-4219-88d1-2ca81562036b",
+			"4b3f3e06-1c02-437e-a714-00d057989c5f",
+			"51b2a69b-439a-4659-a333-cbe4442db1aa",
+			"d5ecc2f7-6c1e-41ae-8d3c-95518526d8cd",
+			"30972aa4-1d92-499b-8d7c-a951d6f4e5c3",
+			"f6a2169c-c2c8-4264-8520-2541146eefff",
+			"49ae6bb8-e617-48ba-a927-9be7ed0e9875",
+			"81e0d327-eae1-4709-adab-6e9fd87beaa1",
+			"70f31a05-922c-4e78-8fb5-772b887b3f7a",
+			"e7e936b9-9435-45fb-991b-fd562b8718a1",
+			"b46487fa-e15e-4c72-ad18-c5dc90f0f701",
+			"8b525dec-627d-4f34-a525-b00d731c6129",
+			"18a66239-a301-4c52-ad5e-6726878c0623",
+			"8ff2e2b3-1045-4534-ae5f-2f294e9c29fc",
+			"b03ad109-4d8b-4c36-9c8f-0f44709cebb4",
+			"3fb5e99e-6cc6-45b4-9d3f-c4b48fb512c7",
+			"4b06ff41-1f26-4343-8457-cfe4cc96f5cd",
+			"23394c66-94a0-4601-9118-b806691249b1"
+		],
+		"title": "Celstofwisseling",
+		"id": "15694b9f-cc31-462f-b107-ad34f0cc6348",
+		"replaces": [
+			"090334a4-63a5-4153-8e84-033528a16892"
+		]
+	},
+	{
+		"prefix": "bio/2/2",
+		"doelniveau_id": [
+			"b44204bc-d7e5-4069-b20e-d29864b63fe5",
+			"11f7a97c-251f-4bdf-aa2d-b51acfeb3ce9",
+			"f8ba9374-fa6d-48b0-b823-fadf702578f3",
+			"c2a2d84d-cef8-4a01-a769-7d53c1f760c9",
+			"714dca3d-c6ab-49b7-b294-0545a6c8a852",
+			"155783be-206a-4b41-be0f-eaf5ce237cc8",
+			"751ed9f2-ed0c-442b-bcdb-a177cc65fbc6",
+			"0c71edad-b2d3-40c1-9998-3b8d4e72bea9",
+			"1500b26c-7cf4-4e9a-bfe9-ee1a4e18b340",
+			"8910d643-f804-4d5a-985f-725bf297167d",
+			"8af1d7ac-1bf6-4008-8b10-c5aa090b9955",
+			"38ec8120-cf3f-4389-9f5e-284d46bb386e",
+			"ab55ff50-2c8e-4ea0-b235-463a248556f3",
+			"46de0afe-19ca-4181-ae86-95629c6ab616",
+			"add59759-41f3-4498-84ec-649c8d0c0b62",
+			"963d83ca-88f8-48b0-bfe3-35f918895bd4",
+			"b311b5b9-3c43-4473-8253-bd04965f78ee",
+			"5468f64b-8a58-4099-a8ff-ce6e96dceb92",
+			"19935e59-4e7d-4109-91e6-0b340c326e94",
+			"ca860dca-13e7-4b32-a7d2-48c7ddeb841f",
+			"0bc38fbd-dedf-4aaf-93af-756d9fd8ab90",
+			"8b318c8b-e287-46c9-8660-c2f8ba1c5321",
+			"97d3b0a6-2242-49e0-ac3a-0171ead7107f",
+			"412c5585-0012-4f1d-8beb-503a6ef0491e",
+			"ba36fac8-4fcd-45e1-b8a2-1a79360832ff",
+			"6c393e09-6b81-40ec-892c-1d768d143904",
+			"94a44e7b-2811-4d38-80d8-fd049e89b742",
+			"e862595e-eea3-4b4c-887e-296250f34bec",
+			"6688c32e-c266-4cee-a930-9254cf039ec7",
+			"6fce8e0f-8cd7-4021-b16a-ba1a30990dc0",
+			"68e46ce9-1295-42b3-be35-e41ec3702915",
+			"8e2c40f7-34c7-4a44-9a4f-0103f1b2db28",
+			"b872a050-06eb-4cac-a3ca-cbff19dcabce",
+			"8b742be1-0ffd-4645-91ae-298f8b57d5a0",
+			"d71c7a6a-0072-48ae-af74-77b77aa14a07",
+			"967604e5-26f6-431f-b974-b86e0a8710e3",
+			"19079414-9c9c-44ac-9df4-60e95acc43cd",
+			"77935596-3d50-47f6-ac04-9d95a7180035",
+			"b62f6932-4b58-4588-a7d4-072d9fba080b",
+			"2ec294c9-f77d-4af0-a6dd-020fa03ede23",
+			"6dee44aa-b9b1-432f-95aa-cacf12f60403",
+			"59a219fd-e672-45ee-a31a-b6e0cc0b873e",
+			"fac3afae-6c22-4ca5-a03d-69f5496bfb87",
+			"55c832fc-c6fe-47cf-b2df-93057a2e9fc7",
+			"27caa3bd-abe4-4542-adf0-d3703d5fc0fc",
+			"9e9efd7f-fed5-4ae7-acbf-c656d8ddf66f",
+			"eee755a4-cde3-459f-ad24-cc05a8a0357c",
+			"bdb5e26e-b9ca-49c1-b5f8-bb70af214d12",
+			"aff9eb7b-d3f9-4f90-b077-8bf91a616b53",
+			"5170b102-7bb8-4c22-9694-0eba634531da",
+			"6e524415-18a9-45ee-a6ec-f56eb479270b",
+			"76c39451-6e13-45ef-b325-c0dee45f1335",
+			"da005870-7bc3-4927-b848-e23a4faf42d6",
+			"6544c457-0a78-41c8-af89-8ca36b4106dd",
+			"74f769d0-0f8e-44ba-a112-0eb6d052f501",
+			"234118fa-2ce5-47a0-9fb6-731188c794fa",
+			"42d66098-8c9d-4ac9-ad66-b753bf02854c",
+			"924205eb-8039-467d-b71a-f3440f678788",
+			"f25a66f4-db19-4ad2-bbf8-285a394de756",
+			"4a9965be-ba8f-41c5-b257-a36dc2e70b07",
+			"1740b8c0-647b-4259-a60c-5c956a7ba3e6",
+			"09d73a3c-99d6-41a9-bbaa-71ea140de7c6",
+			"7cbfd837-9fbc-47db-ae35-89e0df80d072",
+			"95cae46b-14ea-496a-8275-f0c0d37de14b",
+			"bfcccd0d-9a16-4cb9-b6a1-294b19e747bf",
+			"47c9dd1a-8f65-4d15-971f-bc55050f9a06",
+			"cfd7d621-0a8e-464e-ba07-e42351b3ecd6",
+			"09b47be5-774f-4f38-97f0-575ce12ee7dc",
+			"c059ef16-1c3a-41c8-aa61-13d07277861d",
+			"d0c19340-4a77-42eb-8c1c-f0e622b6f87d",
+			"ffd15f4a-66b3-48de-a5e7-fa93a7e753f7",
+			"485e76a0-e94b-4793-8140-8225bc31148c",
+			"66a0d547-80d1-4d5b-b39c-e6c79db7d2a9",
+			"670f9d08-aac8-492a-b341-26e5576cfe91",
+			"ad693411-9f15-4e73-8d30-59bc64dbdaf8",
+			"6f32bdd6-2025-4c6f-bdea-b87f36620c7e",
+			"c6d451a1-1412-42ca-b9df-5cc77bf52b02",
+			"a21b3256-f466-4e94-88ff-2c01da1ce2ef",
+			"81cf51cd-096b-4f68-be94-18da11b085f9",
+			"5eabbafd-8e4b-41ea-ad97-ff5cc758a52a",
+			"cd05eac1-6b5b-4030-b1bb-978872222894",
+			"78ee3054-8db8-4deb-a7be-315bd7e4811a",
+			"3de5e9ab-2f1a-4dad-a3cb-2161289dc0d9",
+			"422931c8-55e5-4f69-8502-bb4d0850d232",
+			"28ef0123-b1e9-41ef-8635-55e0ddda31d5",
+			"40966c81-7f86-4b36-a0b1-a5516b85d359",
+			"055884b5-1fae-4531-b922-c16ec7f1004b",
+			"3eb76128-3505-46b6-93bf-dbecbde56c9a",
+			"8b1f2f59-a70f-4c9e-8827-77fb4cbe1580",
+			"0ea608aa-45f1-4a81-b0c0-16cfba05ccaf",
+			"e2878aeb-af71-4489-a63b-0aceb254fadb",
+			"96c76660-c9b1-4def-be5b-8760a98aaf86",
+			"60409127-4523-495c-b965-1e64b6f346ab",
+			"5ecf0a47-fd09-49c0-aed4-b84ae5e5538b",
+			"35a7b9f8-7b72-469b-a7b6-884e80cc82f0",
+			"099591e7-2c0f-4935-8eb3-8535176b73d9",
+			"cca8f02c-53ed-45de-8e57-39893a94d606",
+			"aa777904-2945-4dd7-9f51-c4adf832d1c3",
+			"4fc830c4-95e2-4780-9d20-7393b120db9a",
+			"be879a53-a5a6-4530-acab-53bddb3eb1e1",
+			"48d61a0f-bc62-4c9e-9ab3-67a68f9aa565",
+			"56e806ed-137c-4842-a283-7f2a3d84ecee",
+			"e830e9b4-1f81-4fa7-8f40-af4dfbfdde10",
+			"d98a5a40-b2bd-4b33-b35e-585d3315a011",
+			"ad7f35ea-f898-403e-a722-c2fa782b5337",
+			"007a566d-302f-4082-800e-af1645cf941c",
+			"2e900729-4295-47ad-acbc-4e8a06407a31",
+			"4789653d-ecd6-4607-810a-8525deedb9b5",
+			"da52bfb6-abc3-4272-ad45-dc2f23747e09",
+			"8b0b0f4e-f13a-4551-baba-3eb7adbf58fe",
+			"6146fecf-c672-46de-94cd-5761903ef9dc",
+			"3266d6e9-9ccd-46d6-896e-6505a2aa5740",
+			"bc553472-8528-4df5-b0fd-eaa3f75304ef",
+			"35f59931-4a28-493e-8f4c-6a6d6db9c50b",
+			"9c9123c0-0a5c-4ffd-be03-fc7333762589",
+			"a0041936-79a7-45cb-a16a-97c76f498cba",
+			"5d5d28e4-e9c5-4964-802b-5cb1b8c91a39",
+			"cd226547-2c52-49b1-89a5-c8e446cb58d8",
+			"3813643c-0545-4fc5-b879-c2db07fa5899",
+			"a5baa951-233b-46b4-9f4f-8d99525bc152",
+			"d67514a8-a9c9-4fe0-a94e-5b0d2f9a2e93",
+			"570d8f60-26cc-48f6-ab30-9243cd250cbb",
+			"15f3e1f5-85c5-4c0f-a78b-519365363245",
+			"5c79a8c5-b6f3-4636-8d77-debfa481b92f",
+			"a0e0154a-6e0b-47f4-83f7-913a3b5c46fe",
+			"84c9051e-3224-4f3e-b1e8-dbd937740dc7",
+			"dfd9863e-b7c4-49d8-94dc-edaa99a18bab",
+			"842ee9f5-70ae-430f-a2e1-61d2d04a7e9c",
+			"ab941778-a746-4442-b8c8-45f0423e2c7d",
+			"27a23559-9823-48f6-b93a-1a8c215686d0",
+			"21901185-0d3c-40c6-a972-e04e99c63383",
+			"2bc99fc9-b0c6-4b89-9745-632ca731d34a",
+			"dfb9b00a-85e7-4e04-be21-cfe971535423",
+			"236f9dd6-77ac-446d-bac8-12281ad5b0f0",
+			"3219f4ce-482b-4f59-89b3-8a4330a8a93e",
+			"d65b3b58-17a8-494f-98f2-038cd7f1133a",
+			"0e29b4f0-5c8b-43cc-9f10-5454b9155799",
+			"af405196-73aa-4cd7-8bea-749912cc0e0a",
+			"a5f56be2-b797-43ff-80e8-fb45ce291c5b",
+			"85a9ad15-a2fa-4c21-b362-4b46034a57b2",
+			"e4ea92c9-0c15-4710-a152-1ab4e8d1146e",
+			"cc7d739c-e740-4a35-822c-a67b81a67fc8",
+			"73215610-7b8d-4887-aa6e-d5afef8c0f6b",
+			"279668e5-aee0-4bef-a402-681b01ba4360",
+			"459788d3-e0db-4872-8878-ba03a8509fa1",
+			"f5ce02da-52c2-4da5-aff3-6943fa150b88",
+			"21fd767c-892d-47f1-b871-d5040f083b57",
+			"e1086407-63a8-48b5-bff0-d5dd82399538"
+		],
+		"title": "Stofwisseling van het organisme",
+		"id": "ff3f09dd-1a3c-4614-8316-6b07288ba857",
+		"replaces": [
+			"e3b2d57c-d41c-482e-8a5e-c03c7afe3477"
+		]
+	},
+	{
+		"prefix": "bio/2/3",
+		"doelniveau_id": [
+			"6d33713b-cd65-42c0-b168-074e71cafe62",
+			"a66d128a-6369-424f-89a2-41909998f1ea",
+			"b45a4f14-942a-47d8-939f-c118a8f9ce25",
+			"2393b996-e741-4ddf-ac19-79f9ae14a913",
+			"f68052e4-fa76-4192-b546-bd16cb623c88",
+			"f0dc5551-b35d-44c1-866f-32267cc4872b",
+			"71b61a4e-1bd5-427b-941c-4ff54a960ced",
+			"9a53c64e-c7d6-4875-9cf7-d7a97916e06b",
+			"25578365-175b-4fe0-bbc6-00184e1f9fbb",
+			"1c85b7f9-ec28-489a-b33e-e60af464f9e3",
+			"261431cf-c0ce-4aa0-8809-0ea53edc5272",
+			"44e265ca-d110-4eab-bee8-d76132f3bdff"
+		],
+		"title": "Planten",
+		"id": "33f747f0-f8b6-4851-9145-c25f874631b1",
+		"replaces": [
+			"0fda0066-b516-485c-a66b-98ec385e212d"
+		]
+	},
+	{
+		"prefix": "bio/2/4",
+		"doelniveau_id": [
+			"c2b9c7de-9a9d-44eb-b703-baf19531c9d3",
+			"28ed7f53-1147-4e34-9b01-3f4c7e6c1597",
+			"455d0edc-8abd-4be1-bb9a-6e7dbd8fdeb1",
+			"103f1bbb-fef4-413a-beb7-cb676e4128af",
+			"5131bca8-e70c-4231-bf7b-7b8081d350df",
+			"53ff6f64-1e6a-4e44-b232-99bc482beee6",
+			"5be5415f-daae-4eab-97fb-79a405df54a2",
+			"e66819d2-9359-4138-81e1-0e95e2a368e0",
+			"1fd93f2c-acdc-4d09-ab2c-216f8bd3c6f9",
+			"002466f8-ba97-493b-a3f7-af44c77e2025",
+			"8c94d0ce-9d91-4947-babf-5623a9002ac9",
+			"ca94e7b9-6bd1-41a6-ba12-30739f4e7c92",
+			"847b3ce9-9097-4246-9e3e-cc26725c8427",
+			"542439f0-bcde-410f-8107-4118ee0252aa",
+			"824d9273-79fa-4352-9257-0d1ef43bcad8",
+			"cafbc343-77f1-4972-88bd-c3102b6a46e8",
+			"0bd23079-cf4c-4ba2-b9bf-4b2b1d85d96d",
+			"26433106-7b16-460a-9002-01788675ccad",
+			"0e35444d-ad97-4c74-b8eb-02afadf7b808",
+			"e5a33bce-4144-4e8d-9161-b6e3883c037b",
+			"06d5eaa4-7d8a-4992-b535-466b1a515b0c",
+			"f3e8afea-82c0-4e6c-9023-2d09a3748c5d",
+			"829e091e-c5e1-4f93-b29c-bf3659dea6c9",
+			"fa286ac8-a545-47ee-afc9-34a697a38ba4",
+			"af78aed6-fa4b-4cbd-a34a-e90e93b10055",
+			"490b7a96-50df-4909-9a02-adce4ad8187e",
+			"50da655d-3afe-42f5-b75e-1381cddb7172",
+			"ea98a855-757f-44cd-8040-b4dddd5e0acd",
+			"114d7026-8f70-4aeb-9f7a-654e10cfe1ac",
+			"dbfe28ef-621a-4ddc-83ea-538acfdc707d",
+			"ac9873ba-13f8-4aa4-94ce-526096a45c75",
+			"f567406a-c54e-4a61-ad4e-770141ca6143",
+			"762fc487-9845-4423-a98f-04d8047f4197",
+			"9d29c5cc-b4b5-40b9-b532-5cba775f99dc",
+			"bbc873a7-f016-498b-8755-5d3d7c12cb3a",
+			"99ab7f7f-e62d-4005-a17e-7eabd8a38e59",
+			"aba8577d-c6d9-4c31-9ea8-0cfee93d3af0",
+			"4e919b01-695d-4b18-8fa1-53c2b96813f6",
+			"f48d094c-45fd-4e33-94cb-2dd0365efb39",
+			"70537921-a4ce-4fff-97f6-a52614dafe8a",
+			"b8a28219-ebaf-4b97-b989-ca53e5367df4",
+			"2be3f961-66fc-41fb-9479-4804a3dcb7be",
+			"0f72fc6f-dd6b-4c7b-aa8f-7803f84a6993",
+			"ec7ab681-fae2-4d69-9c21-e86aff384f7c",
+			"68f9bd20-9f89-4924-ac31-3589fd6028b4",
+			"36810da0-0fbc-402f-9e00-7b15d24eefee",
+			"9aa89509-ad9c-4f9f-a246-2609c1de5dff",
+			"f034a4c5-432e-4063-9d44-0ce62734be6e",
+			"a7820dfa-abbf-4157-9a98-5c317c9ff166",
+			"d358ec39-23c9-4893-b228-5fc3e587c122",
+			"a235661b-938b-48fc-936b-ac11f1bbc04d",
+			"3b9d28c3-9a79-457f-855a-40211c6ab055"
+		],
+		"title": "Regeling",
+		"id": "8f230dc5-0007-4008-b32b-0b2f15273173",
+		"replaces": [
+			"60d2e176-a117-4631-ba9c-b2ec332704cc"
+		]
+	},
+	{
+		"prefix": "bio/2/5",
+		"doelniveau_id": [
+			"5b8a128a-c186-4945-9bf3-c76ca0dbe2ba",
+			"960fccdc-6556-4c53-9240-0fc08aac55b6",
+			"f0570cc8-358d-46bf-bf6e-766bbd2ec20d",
+			"b391bd09-8ec1-4670-9280-7e6f3707ea3c",
+			"3e7d0556-1a38-4840-bf5d-484c808ea175",
+			"52f2d4da-b77e-42c7-be0b-407a71ebea5e",
+			"ef920f70-04b9-461e-8abe-64f7b03ad164",
+			"2a2462ea-4fa9-4f5d-b17b-7181a8bc55cb",
+			"58572c00-fb1c-4a43-8dc8-8ee075ff16e7",
+			"2733e4fb-eb47-472c-91fc-2436f00ade1e",
+			"b1339b68-8189-4f67-89d4-4142aba96291",
+			"2087efb1-50d9-4ed1-a5d9-443cac37baaf"
+		],
+		"title": "Voeding",
+		"id": "a87af191-233c-4e3d-9d31-3359825f66c2",
+		"replaces": [
+			"352130f3-75da-490a-a541-21b6c5952a54"
+		]
+	},
+	{
+		"prefix": "bio/2/6",
+		"doelniveau_id": [
+			"e9ac14a2-928c-4539-beea-f1c560e700d5",
+			"56e226a2-f626-4ace-b788-ca396b182786",
+			"c0235104-e47b-4ff0-95e0-3504184484f1",
+			"d2f12c19-ac38-4eb4-b87f-a046d3e3f5c8",
+			"1d775c76-d3f3-413f-8fb6-8b02bab73cd6",
+			"276266e2-9ae6-4262-a62b-e594bedba5a8",
+			"5de6be7c-b790-4b3b-8af9-fc0a598ca06b",
+			"b1c98ac5-5bcc-4e9f-8bd4-f59be2ba8816",
+			"256885e5-847a-4ead-a977-c8f0abfa4d38",
+			"944c14ba-15e5-4fde-8d99-63588ccb0301",
+			"7a9a2c09-4bbc-4582-ac2f-340577919070",
+			"0656a35b-dc11-423c-88a4-dbc3036070ee",
+			"ac36386f-728c-40b5-afba-a2fed814d912",
+			"321e43ac-42dc-4726-98a9-97e8ce3e5461",
+			"5b581f60-70ce-45c5-a615-775863c0dddb",
+			"4a3d93d1-e3aa-4466-bb39-cdfc31ceb627",
+			"25b72d81-4e96-4307-b06b-ce208aed7585",
+			"c287c767-66f8-4c59-ac5a-fba4ddebc50c",
+			"7176b9a9-817a-4ab5-9160-41345faec540",
+			"b77e102b-d336-4ad2-8115-5498948b3249",
+			"5de6e69e-cf5a-4e8c-abbb-511392bbae06",
+			"dd4808ee-2013-4359-bb9f-ff97631a60cd",
+			"4a210ac2-8f02-418a-b8e6-fbc4b766879b",
+			"e8a68764-0adc-4b87-8853-95778f1a38a0",
+			"6ea67aed-1464-4396-8816-a5bdec32021b",
+			"21a62ba5-aec9-4328-bb58-2cca384498ff",
+			"2089bcbd-e5c5-43e9-bb7c-7e9ae336c003",
+			"15d467e6-43a2-484f-b04b-6e5f2ea015ad",
+			"8844c1f5-cbfc-45e0-960f-dca8d2be83e6",
+			"06fe4628-9c28-44aa-85b6-c18208898094",
+			"3c2b0ed1-babd-44d7-9455-9a65ad0ffb02",
+			"212270e3-b1dc-4994-a1dd-62c177cd6cd6",
+			"21dc0ac7-0826-41bf-b94f-366a4a47beb8",
+			"6acdb335-fae1-4a51-a133-c5c89165e87a",
+			"d90e2301-5839-4bbd-88dc-ef4dde8a1043",
+			"7ca5bfc8-c03c-4a75-8fb8-17ee14dfe9d9",
+			"79760ff7-dfae-44ab-bc79-b1f75c2bd3df",
+			"7f445b88-f439-49f5-983b-1c2ee7aa7540",
+			"908894e4-8b93-43f6-aac3-4adc57b28329",
+			"9b676ce9-c50b-4854-959c-a4b608bdd901",
+			"582eb910-1ddf-43b0-9b34-57e9bf6772c2",
+			"0f502024-9f91-4d41-bb15-d113a731eb24",
+			"318c3812-97b7-4719-9d76-16df2ab6f4b9",
+			"7e676d2b-fa53-4276-941d-f4884b95c50f",
+			"716050bc-64ab-4d8f-9ce0-d19b1e58ff79",
+			"4430abea-83a8-431e-b96f-478efa61470b",
+			"2831c5d9-36f5-47cd-bd0a-d72002a0a4f8",
+			"55723c8a-45b9-4594-a244-3cd5871c2703",
+			"08cebf9f-000c-49d8-b0f8-ed326409325b",
+			"540efd84-f3a9-445b-8ce7-44a495130c44",
+			"8c4e5126-35c9-4927-91b1-2ec9e0ed6b84",
+			"9dd010f4-1375-47a2-8b8b-9fdb4a456bb8",
+			"f6ef3546-70b6-4de3-9a31-e1aaaadfb701",
+			"9df0e5c9-ec52-48a2-9ae9-cb894a089c61",
+			"6191988b-3e01-4615-ba5c-b5f97faca187",
+			"f9ebcd0c-828c-4743-9c24-3e35e0961914",
+			"d25049ce-070d-4b2b-8f20-10a49528befb",
+			"81f01f40-2de0-4477-ae77-4f04e5e1f575",
+			"2819d31a-86c7-41a2-ab8e-31b39bdc33e6",
+			"c20d114d-498f-4a83-acfd-4e5731eaf468",
+			"a64f1651-488d-4bf3-a3a0-9dad40dd1ba0",
+			"0e3161e4-44be-4ee5-bf7d-8a78c1015b7e",
+			"d05e3a66-8350-4bc5-b621-2805c83f5efc",
+			"52a634fe-c874-4f1a-b2db-01b8f3614f38",
+			"c9016655-fe05-4623-8280-7b23c6fb50ff",
+			"c19cc57b-8305-4da1-a169-4a82cd3bf51d",
+			"32bcabac-eddc-4b63-ae46-a0ce78f54491",
+			"b668a9ac-55a0-44d4-b63c-cb7046dfadba",
+			"319b2ca6-86c9-4e8d-bb5e-9b3f939b6673",
+			"7ba2f110-922a-45d4-874c-21fec56f14e5",
+			"abde44c8-e75b-457d-adff-bc6207bd6816",
+			"abf5678b-7082-48ba-8a3d-89465c0c17c5",
+			"d76da364-088e-4f4f-ac70-044008f4b4ec",
+			"745ef331-7fd5-4449-95d8-8f5d5746c054",
+			"54ddae02-49a3-4082-93a6-5ad59f329a0b",
+			"8e0e75e2-d061-4104-af17-ddeb162566fc",
+			"2e9a0d59-b235-4de1-935e-f4af096c7635",
+			"f1fa0271-2287-4c39-85cd-c75f05ee3fd7",
+			"4fdade39-2558-4760-99a8-d37e94bd010c",
+			"829ee447-636e-4600-b589-8f746bb79a66",
+			"88cfa867-b353-4b0d-a688-6f661217036e",
+			"745d2075-d704-454e-ab62-9fa276fbe92d",
+			"f3017cff-ff80-4718-bb58-2c1bf24a8482",
+			"53cb2953-2d27-4234-85aa-c8ca08cbe75a",
+			"187b1ac4-371b-4eee-9f15-d873a1a0a8e5",
+			"ea866a23-2de3-4bed-9158-0b80b6b32d00",
+			"459a6017-9b77-4309-b2f0-63d758eb4b9c",
+			"6dcb697e-5611-4137-8ed5-b095d82f60b6",
+			"3557b7a6-dc35-4d0e-9668-26c3a256cc44",
+			"5f225f57-ea5a-41c0-b8df-ae3501b530f3",
+			"a7087919-f556-48b0-b4a4-56624e40b338",
+			"ee75a42e-4270-490d-a1e7-4505da0347d8",
+			"7fef3783-a155-48b8-a200-8275efa78591",
+			"217964e9-7c5d-46d0-8f5c-117a83045269",
+			"89e6ee59-f70e-4032-929b-827222cea9be",
+			"3ce6e4a2-fc75-40f3-ab09-362f75ed173c",
+			"837ba204-0ce3-4315-822f-25525f41b2b7",
+			"2453f387-cac7-44fe-b972-76e2df535e3a",
+			"c4cfe494-734e-4628-a702-d6b3dd555ac3",
+			"a0a6721a-b9bc-4829-8bbc-7162d0dc865e",
+			"80569c21-e7b3-455a-a036-4b792e0d348f",
+			"1f23abe5-df66-4bee-ae6c-4b981e4de65b",
+			"fabdcb3b-c244-486e-a7d3-0f3728850468",
+			"cc1a419b-2dbf-4ea5-b056-a1e483f202ea",
+			"57e6248c-1cc5-4972-9e15-3112401cbf2c",
+			"5ed17564-bda0-4956-9fd7-dbc36ff9710a",
+			"24aa0876-e012-4ae5-b180-ed610294d4cc",
+			"b99ef322-0637-4757-bc90-975a6456998d",
+			"6da0c814-cac7-4e3a-ae7f-5b7c4ccbd45e",
+			"3763728e-0f7b-4692-b6b9-4a670f9fcb7d",
+			"4fb5437e-c6ec-4b7c-9705-fa61e4457fc5"
+		],
+		"title": "Gezondheid",
+		"id": "b227ff89-0727-494e-a7e2-1502c71e0ba4",
+		"replaces": [
+			"4d49d2c3-de07-469f-b83a-d7b502eaf104"
+		]
+	},
+	{
+		"prefix": "bio/3/1",
+		"doelniveau_id": [
+			"fecf697a-6810-47fd-a763-88821c26b748",
+			"e9b8ba9e-ddd8-4608-b09f-ade11dda58a8",
+			"5cbf632f-71ab-4270-912d-6dfac7a67f0b",
+			"1204717a-fd32-45e5-9722-a374cb24be10",
+			"4a93d265-b745-4a1b-bedb-4a8c1c446ec5",
+			"caa3c8d1-137a-454e-94a6-d7587b078a0d",
+			"f9da5866-2529-47e2-a1d4-a9f99fc1058c",
+			"bedee7ff-2f1b-49a1-9aed-0904b8cbbbd7",
+			"62012f97-a439-4b15-a788-92b0130c57a8",
+			"12bf7785-fda4-4463-9b85-f226039f0745",
+			"a881898d-6da0-4ece-87dd-f3f6fbc8d5dd",
+			"dde509eb-f667-4337-906e-0e43018f9551",
+			"66b706da-66c2-41ff-bcf2-5d72c6e1285e",
+			"d2f7610e-3397-4aa4-a3f2-6b9d085552a1",
+			"86827ff3-9366-49d5-bb0a-b6233a711507",
+			"3a524f71-59eb-48fb-b39b-e64de85afa72",
+			"027971ef-8bbb-4b3b-8b4a-abcef9cae557",
+			"289bcfb2-d0ea-4eda-afc4-34b0ea44dd4c",
+			"31cef827-00bb-424f-be9f-82ca60c8a101",
+			"8a27ae94-c2f9-4043-9476-96746eaaab4f",
+			"0b7b21ae-0fda-4ba6-9e1d-01625cd1dbb3",
+			"62adce41-7514-4161-b8fc-04b184fe42b3",
+			"d0be37a1-98c4-41ac-a71d-5395f8227086",
+			"1b62a642-7f7b-4648-8c8a-c5131061290b",
+			"4fcb967c-2e20-4eea-bc9c-64a7f947ffd4",
+			"d4eff6ec-fc56-4b18-b663-34ffc6e31466",
+			"34526efc-d9aa-4cba-b688-b7b23bf23f4f",
+			"8eecede3-e923-40b1-bfd1-7576c05b60ce",
+			"e64dd6f5-7949-4388-b977-16a115cdda5a",
+			"aeabfa57-bcba-4aa5-80b2-84a5afd48adf",
+			"5042015c-4482-44d5-b287-28af7760f53b",
+			"12c5b1f6-e2e4-4a76-a1f4-58e851aa29e3",
+			"890fec4c-2c23-46b0-96bd-bd3ee0f22cfa",
+			"12d4ce24-df4c-4385-a445-ec53a1eaab3e",
+			"210517f9-f5f8-476a-8bd0-7d03c321fc10",
+			"17986409-a91c-4317-bd22-0bc5b3d9d456",
+			"2ee842d2-a47b-4026-a33b-608a517efb92",
+			"3a8a3118-2f16-41ad-b465-d571edc8179b",
+			"934b24cf-d613-4cba-afce-5b39476628f2",
+			"fded9f3f-4945-40ab-972f-f96d85d7a3f6",
+			"e5312972-c675-46bd-b221-e85dc906be7f",
+			"579a7469-724c-40ce-ab84-82596f1e69bc",
+			"657c8dec-401f-48fb-94bf-2dbb8f0de423",
+			"bfd04d43-6c78-4cd9-8618-0cf95e958ace",
+			"0cb2aaf5-0eda-4373-ab30-6a64e67e33f9",
+			"1a5b084c-eda4-49c8-9fd7-ea10e7a8bdf5",
+			"dd6d3475-badf-4af4-8e9f-5c5bbca37562",
+			"87290cbf-6800-497b-9533-6ffe85fcd34c",
+			"807b82c0-b97b-49b6-9196-5d34965fcfd7",
+			"29cb02cd-9377-48ac-8a70-dea20f01e904",
+			"be347ae8-519c-4329-835a-0cde2bfdeaca",
+			"798e0b30-e59c-430c-8f88-879762784afd",
+			"7428eb5d-efd7-4a25-854d-69042aec1ef7",
+			"224ee86f-18b6-4f61-96ce-8d1e0bddd98b",
+			"1b59ed1b-25e7-4715-a4ee-2c926129410c",
+			"26f5b52b-f946-46cd-8764-3925ad7090d3",
+			"559ae0f0-9b24-49b5-b617-c406ce506bdf",
+			"9756da1a-da14-49a3-9c1a-d1c5d1e8ec3c",
+			"a43a8063-1db8-49ff-b1fb-f04770f9f938",
+			"93c51baa-5bdc-4c46-b4a4-4f6015a5602b",
+			"eec38203-d94c-4b64-9795-0c59eb289144",
+			"ea03e3f9-630d-422f-9ebe-fd40fd90b5e0",
+			"bca299ed-789b-4a8c-9c19-74fd874560ab",
+			"348b8ddc-5c38-4223-8112-e6e261d519d1",
+			"4d87ea2c-92ac-410d-87e3-dc8717971bc2",
+			"a0dc867b-5bb7-4730-a994-04040b8ca824",
+			"2beca473-62fc-4154-99b3-86f4d71f0fd1",
+			"37d41d73-1fbc-4516-92ca-45827b183d5d",
+			"1c5432f4-8233-4852-9110-c08b6bb3f877",
+			"afc05614-0f91-4ce0-90f1-74323cdba6dc"
+		],
+		"title": "Waarneming",
+		"id": "517d66ac-7c80-485f-92d2-dc1d25e191a1",
+		"replaces": [
+			"f52388ab-886f-461e-88e9-9d6d73232323"
+		]
+	},
+	{
+		"prefix": "bio/3/2",
+		"doelniveau_id": [
+			"69672742-9bf6-4ac7-8983-525459d8341e",
+			"edd6e162-7464-4a86-a21f-00bc811ccc7b",
+			"1d9dfca8-ded4-44f3-bf4b-78b784eb0254",
+			"d885d43b-f091-49a4-91d7-e13c06caab9e",
+			"67fe86b7-f550-4121-a7a5-632fc0252a91",
+			"a06c79ed-22a1-4a7c-98d9-153e8208a733",
+			"aeeb1ac2-13f2-4cce-84ef-60a2b5d921cf",
+			"b7cbfa3c-ff1c-40f6-baca-08352715dd44",
+			"de6c8146-3fcf-4231-abb0-c6fdd10c60ba",
+			"c760e756-a51b-4471-a37d-057ea63b7136",
+			"8b9dafa3-19eb-433d-a405-045619a6bc9b",
+			"ac7e3cf6-36e6-435c-a811-bed1d10645ce",
+			"bcee8ce5-9915-4a7d-b4ab-c038fc85b07e",
+			"88af6c4c-de23-4dcc-a4f1-75333b1ae277",
+			"dd1b9452-a2d6-4638-b269-b3d6c1805aec",
+			"a0e05582-ba8f-4736-a4a5-48045f197aef",
+			"61a3a124-49e1-41e7-9e5a-925fa0f3df41",
+			"36eefff7-f039-42e2-8604-8310f59cd335",
+			"2adcfe21-8da1-4a81-8997-d0523d88b699",
+			"7c827681-6cfd-46cd-bbdb-d81a93b2c5fa",
+			"fd0e5e37-2b2f-4f86-bd6b-7acc57b461ab",
+			"21acccc0-b2fa-46e8-b713-523854c786f6",
+			"367bb378-3b98-4a2c-aab7-0d62fa197e54",
+			"17b98eba-8457-4c65-8a91-024058425297",
+			"45d5b592-fc15-4f27-8b11-25309332d807",
+			"f058ae02-e580-42b3-bf52-ced5977a18ff",
+			"e369aac9-97cf-45ec-8f99-c818fdfbecf0",
+			"14751651-9e4b-4b60-af8e-03826252fc53",
+			"da5cc408-7649-497f-8181-ca058195a24a",
+			"d66d8485-03a6-4e78-a2de-f0e8e338b17c",
+			"0ae420a7-cfb3-458a-b3d7-59eb2fca0149",
+			"129a77d7-3095-44a7-9e46-47d8aa77e08a",
+			"0bd9c541-b035-47e3-a3f9-4429aa6ae89d",
+			"bbcecca9-25ee-45a7-b2c1-199cc990addb",
+			"6febc3a8-9425-4d66-aa73-0ef63e1d1ab6",
+			"af4e478c-8708-48f4-8503-fdffacdc55ca",
+			"0af9ec43-7dd1-4911-927d-30f485d3b21d",
+			"450a8ea2-533a-4141-95ea-9d7ca4463816",
+			"d93dfc00-fd1d-469b-bca5-3889b1f728ee",
+			"2222b864-14bc-4a8e-876e-22b9764f3e75"
+		],
+		"title": "Beweging",
+		"id": "312acb36-f1eb-4301-9ed8-9f2ef8acb506",
+		"replaces": [
+			"bd57a388-b6f1-432c-936f-ff834fb2ec84"
+		]
+	},
+	{
+		"prefix": "bio/3/3",
+		"doelniveau_id": [
+			"5cf56e85-19e9-4b65-ba6e-6083dea371aa",
+			"feb98eba-fd16-4440-b526-838860f151be",
+			"5cc5dfbd-d087-46d0-8689-6ac300d57d8b",
+			"232bb71f-d908-4a41-9839-1ccec4464c53",
+			"15135a38-05cf-44fc-8e3b-ef2c9cec28b3",
+			"9eec9c1f-bad1-4de2-b57d-423226f9802f",
+			"fcef0de0-2e0c-45db-8419-cbfba2fab2f7",
+			"afc2da51-400b-4fce-9d1f-4dfc427945f1",
+			"c7564b0c-efa2-4625-8f05-65856c1c24f7",
+			"e81fb999-e57a-485f-93ab-d6baaa74ddd9",
+			"e27a27c8-7b79-461a-9a37-2ea2c7335e42",
+			"7a2dc423-e25a-4211-903e-e8300818a403",
+			"dbb1be13-bc38-4e23-a8db-7cb35a5dc57e",
+			"31f390cb-c8bc-41a0-b2ae-fd7a629ea480",
+			"d297b8ea-2d07-411a-b2aa-4208618c3776",
+			"fe938f28-ec64-4262-9499-263bc8b5ae6e",
+			"c89cdb8a-bcf1-4d20-8a5a-0930b2e72173",
+			"9d83f598-884b-4d9a-b991-013fe5f8f55f",
+			"3c397f20-4c01-400d-945b-5f89e58ef62a",
+			"af671ce9-9b5b-4031-b0df-7f52cfb39eef",
+			"f41ac7a7-1e87-457f-b752-a85b79e9ed8b",
+			"52c11c09-cbda-43b9-b876-ca7648306348",
+			"2a6eddb3-5acb-407f-859a-f3b98b694b0b",
+			"862806f7-f13c-4c15-be27-2d60f1615792",
+			"57851fd4-811e-4748-b304-39c820fc5ece",
+			"96b27e7f-6169-48a3-b9bd-d7714eef0ffb",
+			"d1ccf4e9-c46a-4497-925f-345545a5026b",
+			"88cf14e0-2a8a-444e-8bab-c38c91545413",
+			"772f9ec2-465c-48e8-b8ff-795d9953b719",
+			"410dc650-14b2-426b-9314-4a7bb13eef07",
+			"71d2c812-d449-4673-babc-6826b63e3b85",
+			"aa7cf1ff-555f-451c-af2b-1550b17b4e4b",
+			"563b7010-1408-4390-8736-b41b963a5092",
+			"27937070-0068-4932-9fe0-386928f3b137",
+			"86edce1d-658c-4f8a-9b14-a8ad5c09cad3",
+			"da50a230-4094-470e-a080-45935e71b763",
+			"f604adfe-e2ee-45ed-b24c-5e788b86f0fa",
+			"4ed115dc-f57e-4926-beb2-20edd9d3347e",
+			"8e4fe118-3505-4c8e-b5d7-d3bef36f97cf"
+		],
+		"title": "Gedrag",
+		"id": "c4da147c-8f36-4f2d-8615-a1542989710f",
+		"replaces": [
+			"50d81896-c6e0-4fbf-bb38-9981f4cce95b"
+		]
+	},
+	{
+		"prefix": "bio/4/1",
+		"doelniveau_id": [
+			"33ff8aad-7710-4994-8e10-159ff4b1c646",
+			"ff448453-d08e-43e6-874c-c94f5533fd90",
+			"002a4ad0-7f97-4264-b8cb-b6cc0efc43ff",
+			"2c87828f-cca7-40c2-87ab-9ecb2507ad9e",
+			"1bdd4a4d-9798-4e3b-98b1-635ee96cf24e",
+			"ec7b00bc-e365-47f2-88af-c22abf80e627",
+			"6bd4ea60-36f5-41a5-af30-8a95a665e4a6",
+			"68519c46-f61a-41ac-97e3-761c32a252ec",
+			"80a8c25c-4d58-4f8a-9b58-77ee997dc57e",
+			"71c02760-f310-46d3-aff5-56b1f4e97d5f",
+			"6c806cb4-80d7-436d-bf39-97e254c2c332",
+			"d65d396e-be1c-4314-acc4-a492b3f3041c",
+			"eae9fc3f-649c-44cb-8455-5ffe88f94004",
+			"6eecea25-147a-48e4-96a3-2e876d321998",
+			"80e37825-1d52-4fd2-88e8-acee4da99fee",
+			"dd8de1d3-90f1-470d-a08f-282bfdf42fe5",
+			"f082c269-1381-4b05-af26-ee334faba9b5",
+			"9ecbf6f9-b9ad-406b-abfe-915e0a22a7d5",
+			"d88f9b72-6eaf-408d-9b29-5a0caecc98c7",
+			"5b84c0b3-fc67-4c4a-8b05-cc04f762c783",
+			"1c4c7dc8-a513-4ca6-9511-8fe786994193",
+			"b3641505-9910-49b0-ad51-fa5367b50cef"
+		],
+		"title": "Celdeling",
+		"id": "3c3d5876-70a3-4627-9308-c847f0ae10cc",
+		"replaces": [
+			"5abc324a-b274-40ff-be2a-0385f87f9719"
+		]
+	},
+	{
+		"prefix": "bio/4/2",
+		"doelniveau_id": [
+			"4c1ac3c2-fbbe-4596-bfc5-0d80e95d2e6f",
+			"883ac75b-fa44-4b3e-974c-5f3a3b5d267c",
+			"85944078-6775-4077-a127-febec1524615",
+			"2c69735a-74f9-4873-89d5-04c31333fb15",
+			"32f0133b-f3e4-4591-81df-8471d3863859",
+			"afe3d164-c49b-4591-8223-4653c036dde4",
+			"32525014-3eee-4d11-b3d7-b60ac59ff018",
+			"06910ca5-0e13-42ed-ae3e-8dbd95f0e947",
+			"71ae80a3-ceb2-4d88-86e7-9f9bada7dfaa",
+			"6083fd03-9de1-4f70-ad83-c3dbbc9a3315",
+			"a5189b96-b735-4b65-aae8-67fc233e7eb5",
+			"fe172820-b556-4117-a40f-a1faeaa19fb5",
+			"6ad16b70-0640-4ba9-ae08-1ee30c35e13e",
+			"01998aa3-9632-4adc-a9ea-57bbc4d7c78b",
+			"f0bd38bb-ec4d-4417-8c5e-e2b3c922de3a",
+			"4d744be9-0a9f-4344-b944-a2323fe17c73",
+			"446916ea-0e81-4d97-84b1-695795a7f346",
+			"8d61f66e-7807-44fe-a30d-60cc923c8879",
+			"31a97fe9-cfa0-426b-b1ae-3e0838b1d984",
+			"322fda1d-ee5d-4859-90f9-3aa17daff77e",
+			"1fd63153-fa1e-4f91-a573-c24fc205c042",
+			"cc7111bf-fc77-401f-af55-f5468cdfc229",
+			"18ebf5fa-33e1-4916-85b4-06a1e898fd30",
+			"3f173990-16c8-490d-8ffc-33ddc8580cfe",
+			"a6d86c50-b0eb-4ee2-bbc1-9a8a1ada16d9",
+			"38855ef7-239c-4d9d-b6f0-293580fddee8",
+			"db9cb29b-6b3b-456e-9fe7-211f12266fff",
+			"4070124f-a3f5-4143-9847-26da6b045002",
+			"4be00c3f-7bb3-4d13-abe7-f3f06572aa02",
+			"f7220808-4552-41b1-ac04-860c0ec2c87b",
+			"edea5e13-4a48-4c5f-9027-42d2113f1c28",
+			"8b2171bf-7d17-4b0f-a779-b0a9afc0b8dc",
+			"ad455927-a6c2-4bb0-aa37-7532a700b295",
+			"a152f54c-4a0a-4b08-b714-e40767b10027",
+			"0d9ae0a5-b636-4581-8212-22d3c004e74d",
+			"d4334c77-dc9a-438a-b037-bf3763048b51",
+			"7cbfedf1-7bd2-4450-acdb-fe9e00bcb58b",
+			"c6b51f22-7deb-4997-8ed8-aee0c590da09",
+			"d20bd9f1-d471-4bc5-8d06-666ec45cfccf",
+			"728a973f-975c-4d91-8eb9-6b19eeff105d",
+			"8698a00c-d7b1-49c8-a67f-840930c4e555",
+			"d53a450f-1c3d-45e2-8807-bc1be9d4b5a1",
+			"2e04046a-0ff4-452d-b203-e984a97b2c5a",
+			"d4ca21dd-5765-40af-a98c-de0a39e07aab",
+			"2b1579bb-c075-49f0-8b80-899c2cf8d48b",
+			"ffa787c2-465f-414d-ae98-1b8771a96694",
+			"c79fd884-1897-4c32-a084-baa08208dd21",
+			"d0a6a771-60e1-4a90-ade8-fab6976a83f5",
+			"20bde415-2530-4341-849d-5ebb7261755d",
+			"9eecd552-b37a-47b3-8f72-3f92bcb71426",
+			"ce018d8e-ac39-4e8a-959c-0226998a1c74",
+			"d487f6f9-63e8-4f34-9da2-95233c5fb63e",
+			"0f092d08-b947-4f30-b233-73a12ca80555",
+			"5130c80c-71cf-4e80-bae8-974779c15578",
+			"edcd0ef1-0de4-4632-ae5e-9fb386f51d84",
+			"7e360286-f2bf-4843-9fbe-f1ff95a09fc5",
+			"d86ab7b5-cedc-4d32-8ce7-c1a637f6e6cf",
+			"fb0244a5-5545-4cee-95f8-32c96f56bba4",
+			"e8aaba0d-c41b-442d-b67a-9e8a04260b80",
+			"8a677ed9-f231-4e5a-9e32-a84d9c8f220b",
+			"c0981da8-e6c5-41ea-aeb8-589f01c7d5bc",
+			"a8df7764-bb04-4727-a709-e77eba5de5f3",
+			"7bb80cca-d605-4d34-a1e5-ec94818af23b",
+			"e9c338bc-e7ea-4bc5-a1aa-4911e7734db7",
+			"87e375d7-d446-4b2b-b7e4-9619425bee91",
+			"c6be033c-3081-498b-b9d8-cda1de9a60ef",
+			"e9561db0-72b3-4b2e-a1a1-800abcddba10",
+			"45c1aaf5-564c-4b03-88d7-dead814a837e",
+			"87056f0a-00bc-4f4a-9c18-edf44b6e0fa8",
+			"13d27be4-9ea6-4754-bdac-6d6aef669668",
+			"d0a22c3e-c383-415d-a8ce-83f93088a1ba",
+			"411c90ef-3047-493c-96da-67226b5da67d",
+			"02dc7253-6774-4b79-9aad-4125517839a2",
+			"a9c5eb2c-12f1-4996-831e-59445941393b",
+			"e67e91f3-76c3-486d-b963-3aeca4058927"
+		],
+		"title": "Levenscyclus",
+		"id": "271ff7ce-887c-44c7-8fbe-7f064e4626ea",
+		"replaces": [
+			"df8b0b69-c6d8-48b7-8351-3a3c5caa9a19"
+		]
+	},
+	{
+		"prefix": "bio/4/4",
+		"doelniveau_id": [
+			"2ca537b4-25a1-4e63-b1ae-fd9cb786d0cd",
+			"3b994a0e-545f-4935-be00-77067918e4fd",
+			"054a7bd9-5517-4f11-87d0-0b33ccd7d10f",
+			"b3fa3b79-a291-4f51-90b2-65bbcd5b881e",
+			"d806ddba-6551-44bc-a228-3a95221ae403",
+			"f2c62a3e-191c-4628-bcac-ec2115e682e5",
+			"afe63824-07c3-4748-85a8-be5b3b1b1499",
+			"ee2a8207-fc48-45d0-9e6e-78508340c1fe",
+			"4a300981-07b7-4641-a51b-f7192d295660",
+			"4152f2f2-2af7-41f8-97de-05e9ad62b75d",
+			"28c096d0-1809-43dd-8e85-a821c73404b8",
+			"580f231e-6591-4dc3-81ba-31f0e7b6119b",
+			"69de93ac-9b49-4384-9a33-57aa545bdb17",
+			"6a04b2bd-dbcd-4981-99db-0b928380b925",
+			"ae140dc0-01e4-44d9-97a0-47f1ee2ba519",
+			"92bed033-3a25-4f0a-98f7-d27fbe48d1d3",
+			"3f55691c-e3a6-4d2f-829b-4bb101ace30d",
+			"77835fbe-38c1-4cb1-b2ff-83ba83b9feee",
+			"fe9e0f2d-101c-447f-adb8-1bd3c546fb5b",
+			"5e9cd64d-28c7-4b10-80fc-6db301deb647",
+			"fec506b2-3641-476f-b55f-2dbbee8d1ca5",
+			"4754b28f-3c44-4f11-a3f1-205c88888177",
+			"e485666a-0ecd-4b37-80bd-81ca3df1b118",
+			"143f8ed0-a76e-48d9-9067-518aafe3e245",
+			"59778683-cb7d-4e64-b421-677cdeabd63c",
+			"6137f679-ff3a-402c-9e5d-ed65d8ca86b5",
+			"c0ded859-5ad6-40f1-8c66-ce3780e249a8",
+			"634e3079-d93f-4b0f-8ab2-6b87a496e4ae",
+			"90d93b89-49a5-45aa-9cd9-4adce6237144",
+			"ff881e93-2c39-4b45-a696-0f33edfb3179",
+			"03198f94-6313-4253-acdf-db3e7f6fb8bb",
+			"f85c52b0-ad04-4033-b269-6b0151270a86",
+			"2b31dfb9-35cb-4358-bb66-ce37cbfca97f",
+			"8de7d928-d592-46d0-b3e3-70dee4110069",
+			"a10b8582-f93b-4d29-bbc4-d99706d4566f",
+			"eb8bba9b-6932-4030-a4a0-0b3b094892d3",
+			"e57d856a-1caa-498a-a7b9-b7107f8d3899",
+			"08f67774-eb48-4a1d-9e06-379d80726904",
+			"588f0833-d551-48ed-bf15-566d8e4d7777",
+			"7e3aeac9-2c3b-4817-8d68-bf8df745111f"
+		],
+		"title": "Erfelijkheid",
+		"id": "10afd168-3800-47d6-b347-681c867f9c55",
+		"replaces": [
+			"a4fd337c-a19b-4048-a462-abe995846e7e"
+		]
+	},
+	{
+		"prefix": "bio/5/1",
+		"doelniveau_id": [
+			"11dd271f-4629-4e7a-9fb2-cee3385f600a",
+			"5fdca5bb-b8b0-40b5-985a-1f2aa222abfe",
+			"08f98a47-fee3-47cd-ac39-9c5b25b11ce1",
+			"ca55660e-c9a7-4b48-9683-86550c399dec",
+			"55a972b1-81cb-439c-823b-1c1a2170d1c8",
+			"4ca4383a-260b-4a83-940b-252e78fb683e",
+			"2cbe3b1e-7249-4d1d-996c-2e357499ec40",
+			"f7b6fbc1-c362-4a49-9d42-18fd57227557",
+			"197cda48-5792-451e-bb96-32c911ce3cfd",
+			"937e2bd3-abe6-4ef4-bfd7-bfbbf4230360",
+			"b93c45a4-4102-473a-9b07-873351d5bf57",
+			"72f536c6-03fa-4857-bcf1-d249d85bd9f1",
+			"7424e50d-bb8a-4008-89fb-0dc117756457",
+			"0d251814-7551-4a47-b7db-36b63f0aeae8",
+			"b8c07d57-438c-45ec-8a51-1a90c5be9ecc",
+			"310285ca-07b2-4306-a568-91257bd4f125",
+			"89400cb5-772a-4cd1-a280-09f8c48c41dd",
+			"19210b16-6a69-4c23-bf16-c4b933625bcf",
+			"5cfb0495-7773-4fff-9f48-01bd337882f8",
+			"45077313-9e2c-4dbe-bae5-41f106fe58a6",
+			"dc6dba05-07c9-49d8-976f-abee43a6e163",
+			"16b53a70-588e-4d27-baa4-6dba2f2f44e7",
+			"921805dd-636a-468c-a055-33ee6487aace",
+			"5a4caa4b-15d4-4098-84d8-9970ef1473d1",
+			"1856d25f-7874-4115-914a-f38963e3fd2d",
+			"9e8212b7-4b8b-4d65-9b6f-46dec5941d1f",
+			"57dc4ccc-c793-4e51-a262-e1c316a33613",
+			"f5ced683-61d2-4fee-96a8-6de7b70bce4f",
+			"ba710817-5959-4c16-921c-9f4c26a53922",
+			"caac9393-51a9-4204-be22-8a1228757368",
+			"c912c073-d426-437f-ae89-59a81394086d",
+			"726d700d-f465-4cb7-a932-02654c5793a9",
+			"5f88cd61-f307-4d53-950f-5324b5241cdf",
+			"21149383-c892-4e51-ac28-6ee4f07423e9",
+			"b203e37b-f943-4e1b-b386-dc8885b6fe5f",
+			"64daf059-0bb4-4940-a1ad-dd2fba1edde6",
+			"328a28a8-e99f-4d52-89fa-c5c1e0247e63",
+			"c1aa56c2-405a-468f-812f-916a0115cbf3",
+			"fafc3cb0-4813-4a38-9489-6d0893bf66fd",
+			"fdd5213a-d0be-4ae4-aef2-a2adf6aa401e",
+			"42be89f5-4799-4c5a-95a4-ee67debe9d76",
+			"d9c537f6-f986-4b10-b7cd-b808c96e9078",
+			"5f5f0515-a271-4950-875c-502cab77e72a"
+		],
+		"title": "Natuurlijke selectie",
+		"id": "5f2cb7b4-0c13-4355-96ca-a03766f14111",
+		"replaces": [
+			"7caafb1c-b7b7-41d2-851a-c7f410865f35"
+		]
+	},
+	{
+		"prefix": "bio/6/3",
+		"doelniveau_id": [
+			"b39a52fc-de08-4f42-85c2-0cef96beea39",
+			"c8d47d0b-6f5e-41ae-80ee-35feeba5651d",
+			"4e6ae8dc-82a0-4985-b77e-3ed1ba2ac288",
+			"98a83350-8f4b-4966-bd98-ab6857f0a0c7",
+			"fb7446c1-5112-494e-aef9-140975800ca3",
+			"043dd892-adc2-4ba9-a0cb-929649ebe953",
+			"9b9dcbd2-332d-4396-b6d8-0872d5922036",
+			"6a97da2d-943f-488d-bd45-7d60c3710a3e",
+			"de5d67a7-c72d-48be-a24c-81283a0fce43",
+			"1215b2a2-d9a0-4633-a7c2-7da4ee363713",
+			"d12a34b6-96ec-4db0-a769-c821eff07aa7",
+			"15b49430-1d7a-4562-9b7f-b75e8b78d22c",
+			"0d037d38-5498-49af-b995-fa4b25b4e70f",
+			"aeeb8d2d-6e9e-4ca7-8c4d-4a904a906829",
+			"d23036cb-6cf0-4261-8769-2def3973e938",
+			"8916d7a6-b93d-4dca-898c-61e24c48cf3b",
+			"284ce980-9c4b-4821-83b7-398d7b92bc3c",
+			"72ea4a65-112e-42fe-bcc8-2ca317d41684",
+			"50d78e55-b219-4af2-85b5-b2d100f358cb",
+			"940685bc-eee5-476e-ae82-a2875b707250",
+			"27dac710-908e-4ab0-aaa8-bcacf09d95b4",
+			"2f8653be-7cfb-4813-90f0-88192b7a9dc7",
+			"e87b2777-a1be-4b9b-bcff-dbf6a2842829",
+			"964412f1-5f9e-4616-926a-7e6ed4c3384b",
+			"f2c6faa3-b59e-4835-89be-261db97cb745",
+			"5cab8e2d-cf09-4642-9a90-41749f34a354",
+			"e2520abc-76d7-4b77-9932-3e2cfeb40a82",
+			"a2d87e49-d51e-4c3b-8c30-a72276bbce55",
+			"fea30f98-8b16-43f4-b35d-a55f4d83baa2",
+			"c67b7866-b285-402e-b521-1fddb6e81e56",
+			"9a4f30f2-3095-4d65-b21c-12aec9b553de",
+			"f5cd51bb-161a-4d80-8c2a-50cda899beb7",
+			"429ebaac-4f01-4549-8c9b-6ffee715c311",
+			"d7af988e-761b-446f-b232-0dd6aa0cbbac",
+			"55dd1931-1bc2-4bed-945d-fdf7b6aefc18",
+			"adcf14af-a6bb-49f8-ba5a-0481b7419eb3",
+			"89f96cef-c2aa-4e26-8e23-a1a96b3e9b0e",
+			"d32cfb9e-4b5b-49da-bb15-b692d6d7775d",
+			"113761e4-0e25-4d55-bbbc-c2fc88d43d1d",
+			"3fb2c1c7-563a-47e6-b35c-713b478590a1",
+			"ddb69fe3-8586-41e4-b004-ba6bb6e0fbc8",
+			"7dbbcff6-2ff8-4bc9-9f7f-9394373e12e3",
+			"665c163e-85d5-4bbe-adf2-fbc9ec7ff6cf",
+			"24ff264b-ec76-4732-8ccd-8777a74e94c0",
+			"e0307106-d48c-41f6-b1e9-f06179337300",
+			"92ed45ca-f481-4c7c-bfa2-7beab0a07199",
+			"db1f5dcd-3259-4e4b-b39d-222b179c4978",
+			"11687ca3-95a1-4137-862e-ca786ba5c162",
+			"2cc157cd-21b9-4313-8342-63ceb9ec8448",
+			"b970ca7b-d7a7-44e0-99d6-8b06d744ed0a",
+			"aa442b00-583f-4289-a5a7-aa1fc2e1df64",
+			"42184a90-a177-4649-aa70-78960edd493b"
+		],
+		"title": "Duurzaamheid",
+		"id": "9e7a20cb-dfc9-4f8d-a42c-86f374e2952b",
+		"replaces": [
+			"f4369bbd-3016-407a-ab12-e538052ab215"
+		]
+	},
+	{
+		"prefix": "nask1/1/1",
+		"doelniveau_id": [
+			"53fd4350-359c-4e9f-9232-d8e3f260bb60",
+			"88f5fead-560e-4d2c-98be-e6d55eb6418d",
+			"e340891f-2f0b-4b00-8409-47713e7a9eda",
+			"c3ea262e-c7ff-4972-b530-f1c029f1b36c",
+			"e1ca9d23-a7ae-412b-862b-7d37a445ae3a",
+			"fc6c9ee3-c80e-4595-96c1-b824af4f34ec",
+			"8ceba860-3810-425b-bf1b-2a06e23c2294",
+			"297c688c-b297-4265-b3dd-9dae13c97a49",
+			"b5973886-f173-47be-8ce7-f5dab159d464",
+			"cafa47ed-56ed-4092-8f61-af02dc03cfc6",
+			"2b47756f-3fce-49d9-a213-d3e23cc5522b",
+			"f8d8a8bb-5fd6-4430-8e27-e2f819c5e797",
+			"979e9e46-ec48-4903-a998-036733db20da",
+			"0bbfb0db-97d3-431b-bfa2-86b4f2dffa62",
+			"70c58af2-7ce0-4cb8-b333-01a000b3576c",
+			"fa7f4d32-9fc9-4746-b857-0009decae210",
+			"3da8cc4a-8849-4ec8-9402-8660725953d4",
+			"db80d782-8a0b-47f2-bb9c-e4e1c23d95ad",
+			"bbd9c518-f5fb-4d4a-af8e-c0cc16bcc988",
+			"67f2eda0-b8a4-4ac1-b3c6-e972e879e58b",
+			"0793babe-1a83-4d3d-8a43-b0fa5569bb39",
+			"12896fb9-92b4-4fe3-b887-39b85700c417",
+			"7fbf92f3-faf6-4509-a069-87532b8368c5",
+			"6419d8a4-c05d-4433-8bc1-803c023a7d2c",
+			"021692d9-f48a-4fb7-84fb-cbeae11680ad",
+			"4c4c2b3e-236e-489d-89b9-5a79be712fcd",
+			"ca59d904-c830-4a55-8f13-962e6b23cf75",
+			"0ba2fc6b-95be-4539-bbec-1ec23c3acbb2",
+			"79b2896f-f0c3-4899-840f-1e655fead8c0",
+			"eba0c3fd-791d-4e0b-b85c-c084e04ad1b6",
+			"ab0ce197-9520-4c31-b801-46de9689a160",
+			"b05f457d-7c7f-4750-bf22-4a78e6fec05b",
+			"622e5485-aaca-409c-af03-d1296be5abb8",
+			"e1172347-3d22-48e5-955f-dde90a68a8e3",
+			"567c9502-2d63-4524-9443-504735c986b7",
+			"0586ce20-e87c-4807-8bad-c4cf0e670755",
+			"d3ff04b8-aacf-48ee-9492-922f8787d889",
+			"a6c686f4-a99f-46ae-ab03-30fc2fb22372",
+			"d8d098c9-2b4e-4e5e-853d-e9e6cc2f7c13",
+			"130a9ecf-5d5c-4d94-8da6-c2bc3ee44215",
+			"a07590fd-cadf-4503-83ce-c739327f26dd",
+			"3f91a0a7-c87c-4c65-b7df-99da76849ee1"
+		],
+		"title": "Materiaal-eigenschappen",
+		"id": "1743c35a-6439-4de6-8053-322a6251ed00",
+		"replaces": [
+			"3acb7a49-55b1-442a-abf9-a66fd8fb5ddb"
+		]
+	},
+	{
+		"prefix": "wisC/1/2",
+		"doelniveau_id": [
+			"07d33ee1-636f-4983-9874-e515a4cf29c5",
+			"4514fcfc-5fd3-406c-a36e-f7106df5f5de",
+			"39b5b540-9937-48c4-a207-96dfd606f74d",
+			"f2a81f29-b1b6-43aa-a425-cc16012a7c1e",
+			"17e6aed1-34a5-4a22-bc67-ed098c6e7a81",
+			"abdb4e0a-a1be-4047-bdce-0c3cb35f6205",
+			"eba13b86-8e3d-4e60-83d5-6f34fddb6bb6",
+			"fc88f665-9e57-4357-8ce4-aa50fae5970e"
+		],
+		"title": "Wiskundige communicatie",
+		"id": "61db6537-3c86-42b1-af6f-f61e4e0539ed",
+		"replaces": [
+			"7c4c023c-612a-4fda-9c78-48dd68ef3fd2"
+		]
+	},
+	{
+		"prefix": "wisC/1/4",
+		"doelniveau_id": [
+			"103e9e8e-c696-4ec3-9d6b-3f6b3d4acf2b",
+			"4e416f88-8ad2-4694-9c9b-bae8a8807de6",
+			"add3e095-8db4-4086-8bc0-c3b1942fd51f",
+			"85bb0733-6cda-4b42-9712-cd05ddcf174a",
+			"11d6659b-6f57-4df9-a8ae-d09cfe948c89",
+			"e4f0a61f-7a9c-4291-83f3-05f8a139cd54",
+			"e73c601e-c827-46c6-8afd-cf25fc9b1257",
+			"b7d3ae2c-03b9-4a0e-9f2e-24f5f3759818"
+		],
+		"title": "Wiskundige vaardigheden",
+		"id": "f96be7b3-b577-49ee-a563-b2ee52c79738",
+		"replaces": [
+			"400c5396-c23e-41a2-8883-532c3a0b9866"
+		]
+	},
+	{
+		"prefix": "wisA/2/2",
+		"doelniveau_id": [
+			"08554907-b880-4d2c-a455-23aa07042e61",
+			"ca3f0e65-652c-4f36-bd7f-78bd9522fad4",
+			"119db1b6-4997-411e-ac6b-d8f40f58a06d",
+			"c99cf960-c28f-4cfb-8b44-4d2fbd9e7553",
+			"e8e85321-d8d5-4873-8a23-10e6925b9c98",
+			"30828743-a66d-443a-80db-5cb5fb6c81f3"
+		],
+		"title": "Rekenen met variabelen",
+		"id": "d8e42d34-bf45-4ec4-af24-1c4052550399",
+		"replaces": [
+			"f06d0bec-9dde-431c-935d-9734f2f4e35c"
+		]
+	},
+	{
+		"prefix": "wisA/3/1",
+		"doelniveau_id": [
+			"9ef7949b-0b92-4b45-99b5-be580beed917",
+			"b22376a0-6e96-407d-ad79-ed08979b7e34",
+			"338cf0dc-e93a-4bdd-a2d5-63a4b3356a38",
+			"e962d302-f30e-40e5-93cd-e55a83785d01",
+			"f57f471a-5ead-47d5-99a1-09b745ce6b94",
+			"184a0189-b0b3-4f15-8b2f-317b5b36f17e",
+			"d5930e28-7f9d-45dd-9b77-d98fdfedd871",
+			"bf11e82f-9b9d-44ae-986c-3d9fe2dfcb1e",
+			"8e38a691-54f0-41e3-a2eb-918aa89d7b7b",
+			"f6651d8e-a47c-4a49-9275-14d59ab5e1db",
+			"6fbccda0-fa89-48fa-a1b3-900fe4c9561b",
+			"12418d7d-9480-4376-98b2-b272675d3bb6",
+			"60bc0630-6ab7-4726-a3a2-a545b3e1c3fa",
+			"37dc51c4-bffb-4bf0-9d5e-7410ae988e01",
+			"0ae2bbe0-71d6-4288-9fc6-9ea78d644256",
+			"63e40de0-f9f4-46c3-8f63-ae270a2621e6",
+			"0ee60249-29b8-4268-8753-4726c3eff9cf",
+			"bed58bc5-4e51-4210-8082-8c2ce4908bd2",
+			"10e1a8c2-fd0d-4d00-977d-90b7824d3db5",
+			"73c8b7a7-be05-44b2-9abb-3c5462b96b42",
+			"463f379b-c5ac-422f-a8e5-152f0a40505d",
+			"826e4679-21b7-4722-a6c3-f86b9ee670fc",
+			"6854bd46-3dc0-4cf8-9427-d48d9dda937a",
+			"c0915e53-e0a1-4435-be2a-3ac351b0789f",
+			"efd63e5f-dbee-434c-beda-f77492f4318d",
+			"27067698-8421-4bbd-91ba-e777ee636dfa",
+			"2e475e5b-89c7-4d6a-87c2-a6258b202a6f",
+			"88e0e545-bf49-481d-b608-3a919c05a993",
+			"e38aa69b-63e7-4af4-b9ba-c1ea4887c923",
+			"e52905e7-ecd3-4e13-b108-ed9beb9e3c3c",
+			"1f8003d8-a3aa-42c2-8c8a-7aee7181f902",
+			"f61f8619-6f19-41f2-9847-2a769a80ce8c",
+			"21a2e285-eed9-4f32-82fb-e69922e8db90",
+			"11a4b8a2-9401-4110-a9f8-df5817eaaede",
+			"baf8b144-3a30-4ede-a1b2-8ac1c52a7b44",
+			"3f3ed687-09a4-44ed-805e-ee7792f82082",
+			"aade5a05-f8b3-4341-907f-5b7d540a27ec",
+			"1780bb5d-edd2-4f67-84b9-ac87c5b6dea7",
+			"151a7139-8314-49d7-92cd-78dc8df14809",
+			"b154020e-6a79-4aeb-81f7-f61bf6626094",
+			"dec63396-f26c-409e-8785-3c243a062785",
+			"b45231da-779a-4c5b-a06c-a8a402c12a1a",
+			"704fea41-ac9f-45ae-a959-09a26c1c541c",
+			"0d342303-7789-4b01-b1e4-4c1d01b0f344",
+			"ea01b407-a48d-4861-8121-a5afab815f6c"
+		],
+		"title": "Grafieken, tabellen, verbanden en formules",
+		"id": "79efd44d-3432-421e-b3b7-f8cc46ed138a",
+		"replaces": [
+			"6f5890ce-d0cc-45f7-83ae-91e167020ec1"
+		]
+	},
+	{
+		"prefix": "wisA/3/2",
+		"doelniveau_id": [
+			"f3cd6bbb-1850-48c4-a16d-5e05e1fd782b",
+			"decde5f8-7c09-4edd-891f-4fb319fae296",
+			"dab721b0-fd22-42eb-bd58-cd25562f1abf",
+			"707ccabd-ce37-48a9-af6a-3f304fdad341",
+			"753c5c9b-043e-4bff-a82d-602c0253fc2f",
+			"6ad7844c-0b86-439c-847e-5cd6a1b84e41",
+			"887a2700-c741-4730-aa1b-69dad2b3eef7",
+			"9ded96be-c78f-4f3e-bfb1-623d4103959b"
+		],
+		"title": "Lineaire verbanden",
+		"id": "f0009a95-bbc7-46e6-b8b9-da8f25ed3b3d",
+		"replaces": [
+			"d24f109b-3322-4413-aa73-6561cb4e0277"
+		]
+	},
+	{
+		"prefix": "wisA/3/4",
+		"doelniveau_id": [
+			"24e507ac-d768-42ce-90ee-afb00f9e4b7c",
+			"99706385-e2d4-4210-9f05-9f42d0acc3bf",
+			"06e7a1af-5487-4048-9755-d81636b31298",
+			"d07b2f53-12ae-4b18-9dff-dfec8381a8ea",
+			"b7d4b728-24ca-48fd-8fec-52777c4e4f85",
+			"d736b1d3-39bd-498e-b15f-d17029e29083",
+			"d4d34d84-cc48-4c5c-bd46-c6b1ee8e3e07",
+			"4ea28bff-ba0f-4024-ad22-d368a3db24fb"
+		],
+		"title": "Exponentiële verbanden",
+		"id": "8240c825-41ef-4ac8-82da-90c5684e029a",
+		"replaces": [
+			"0ab62196-e78e-4fbe-9e2e-401e0277d5e8"
+		]
+	},
+	{
+		"prefix": "wisA/3/3",
+		"doelniveau_id": [
+			"81422c14-9428-4dd1-94a2-24f87cd60edc",
+			"ec55fa4e-e27a-45b3-966a-dd5d79d10f2b",
+			"cf78bdfa-5069-490e-8656-ef89a65e9dc2",
+			"3095b0cc-59ca-4834-9c1a-ccfdc511ef9b",
+			"53bff758-c3e6-42de-822c-b26bb2b43bed",
+			"526e9cae-b240-4c79-975a-7b777e8a56e5",
+			"f2fbc710-c2fe-44bc-88c1-ac8e80141c37",
+			"54a3e1ad-60fb-4a1b-a898-9457b39afd70"
+		],
+		"title": "Vergelijkingen en ongelijkheden",
+		"id": "6d574839-be4d-42bc-8d72-e86fc8718d09",
+		"replaces": [
+			"463aa4b6-a66e-4ca8-b925-bf9e9006eac6"
+		]
+	},
+	{
+		"prefix": "ec/3/1",
+		"doelniveau_id": [
+			"feb735a6-a9ad-4918-99d5-3252c016d6c7",
+			"d57109f8-cb7d-4dda-9b3f-878f7e7da9ea",
+			"6aca7150-ef27-464d-9c99-7bf31aab1833",
+			"ad49d216-c6fd-42c6-8445-5412a3c97205",
+			"aef11cc0-afcb-4512-ad95-1564c12e4616",
+			"172aa279-32db-46f6-83c1-b56e72430621",
+			"f097ceb7-ef98-45e1-8772-35759a740bd9",
+			"ac078637-1afe-40e9-bf59-cbd54f0079a2",
+			"746f9860-a394-44b5-87b5-0fd760373e3e",
+			"a225fda6-8802-42aa-9609-3993990e2651",
+			"4e18c4ca-d54b-48fe-a066-2569ae494a3b",
+			"1c55d879-dbf1-4e1f-b0a3-5d9e0dbc4487",
+			"aa5ccef0-4f0e-47cd-a48b-62fbf4ecaab4",
+			"574b85c7-05af-4342-a352-447a2ba20e01",
+			"006ad124-4d35-4086-a02b-5a1d599dd22f",
+			"8b0bba4c-2bc5-4b43-83ef-1d28cbeff89b",
+			"5d2731cd-b473-463f-bd4c-19837bccee25",
+			"33fb2d9b-037b-41a7-a00c-5c4c3d3ba275",
+			"0b56bd1f-e447-44aa-ad9d-d1c44833e21c",
+			"ac6949e2-4a1c-40a8-843f-2cafbfc5da11",
+			"24d41025-198d-47e9-8b2d-1c4974d9fb1a",
+			"c4d4345a-ab8c-4d7b-975e-5ebcc35827b0",
+			"210b3798-c93b-4df7-a835-02fba8662858",
+			"27fc7e5c-443c-4889-8305-1ed7e5466a24",
+			"7c229e36-7c02-4efc-afbf-fd5d68d25195",
+			"c81ac8b4-bb07-4776-83a1-c5a3b6f6ac0d",
+			"32287906-cee8-4658-807d-6619bf6d4b5f",
+			"e839063c-2d15-40d4-9a47-4145968b125a",
+			"2bc0f60a-989a-451c-93bb-c7dffa433c3e",
+			"6acf9d54-dc31-4084-8731-ff53f4b676ad",
+			"7482fe01-a997-4afd-a626-1a0945ec06c4",
+			"49fab5c4-c8de-4a89-b93e-c0025938cf3d",
+			"e2a565c5-8ac7-4b38-8079-3f0c661e589f",
+			"e7efe2c8-6adf-444b-b3b7-e311a8be682e",
+			"49c4ac37-e534-4b57-9520-b5445aec9cf5",
+			"9805be6f-32e0-41e5-a855-7f35f8fb7c17",
+			"8b67cf76-d5f0-4f8f-9c95-9cbe95876e46",
+			"9b444e6a-30a6-4c53-81c3-6e385507c412",
+			"3135368d-8ff3-4498-8c1e-81178dd01387",
+			"d08fb9a8-cec8-49e4-8662-63873803d45b"
+		],
+		"title": "Vraag en aanbod",
+		"id": "450232d6-1cf0-4568-ad7e-0d60aa1b7ca1",
+		"replaces": [
+			"4e6aa393-c2e8-4d6c-ab5e-d4cad0e248ce"
+		]
+	},
+	{
+		"prefix": "ec/3/5",
+		"doelniveau_id": [
+			"e4c27d0c-cb48-4279-b9bc-f90b3053d01a",
+			"3152475e-8909-4c7c-9ca6-332dfadcdf12",
+			"21c2e2ab-3875-407a-ae13-7a96edbd5edf",
+			"5441e954-5f62-4be4-97de-a192701ecf1d",
+			"42a57c09-cbb3-4a13-8452-44381a5160a6",
+			"e9f3fc6a-a669-461f-85ca-b07755a8a142",
+			"e9eac441-0734-4e00-bc81-7bdfbffb1244",
+			"fed7ae82-d802-4caa-b750-c7133ab13b24",
+			"550c101d-c7d6-435a-b29f-bbded7d0c2ef"
+		],
+		"title": "Marktstructuur",
+		"id": "d68fdf92-5cb9-4122-bd28-9b938aa29671",
+		"replaces": [
+			"20561026-ab8f-4eca-83a0-18adcd300001"
+		]
+	},
+	{
+		"prefix": "ec/3/7",
+		"doelniveau_id": [
+			"18b11b7f-a187-4cd2-af35-8b1a20bd9858",
+			"a815023f-cc74-4291-becc-8376f3a11d28",
+			"0ed0d949-153d-4b11-a33e-21b4e1499692",
+			"eef5599a-51ac-4304-9516-c4f3be046a5d",
+			"034fd373-beb8-48fd-8c8a-a3ff8ae5f6c5",
+			"f65354bd-2538-4b2a-b2f9-eb63366012a8",
+			"e49cba5a-d045-49e8-8c13-4df2e4b0e15f",
+			"0888df82-b283-44f0-be9c-4bae12cca7f2",
+			"585fdb20-fcf4-4f7b-a2fb-9dae92b351d4",
+			"77abc3fc-139a-4296-b129-915f54bd7a92",
+			"d13c204a-9a40-4cb7-b87f-e0b6bec85901",
+			"436024e7-7ab6-439e-95e5-bf6c91fbdd73",
+			"c7d399a7-a4d9-41d4-bc0c-2c6d613e7689",
+			"e41b7916-0f24-4398-986b-ad42c07813ba",
+			"1043cc70-6808-4ffe-8640-4a8dd2469d1a",
+			"9650f7dc-3b24-44db-8775-e9e48eed00f8",
+			"fdd0c5b3-4f5f-4db6-82a6-5cd9530bbb6a"
+		],
+		"title": "Welvaart en economische politiek",
+		"id": "5a133932-50d1-4bf7-9a3c-8dc00edab83f",
+		"replaces": [
+			"7c65f161-9a00-421f-8182-e67ea96ad135"
+		]
+	},
+	{
+		"prefix": "ec/4/4",
+		"doelniveau_id": [
+			"66260aa8-a4f6-4023-b78f-6870e90e4d27",
+			"cf494f00-4c20-4448-be25-1c10305035c6",
+			"8c4c5b18-4fca-428d-936b-007c3454f3eb",
+			"9ea7418d-4674-477c-85b3-1c081bf5b993",
+			"d22f55e5-5ede-40b6-905e-817b56112a66",
+			"4e39d9f1-82bd-4b59-bbb7-cc510651c54e",
+			"f2b04c9a-7dd6-4d67-9838-5b71bf685386",
+			"4306f24a-362f-4fff-9d37-f08dd2725615",
+			"2fd82593-6046-40bb-9078-18409f43e534",
+			"51d4375c-e860-4e1c-ba34-9b7d82e25120",
+			"c66fc573-6949-43cc-8e34-9dad9e9d8bca",
+			"3c3403ff-c197-46ea-ac32-fa430f8280ae",
+			"0a9519d2-8e08-4be1-8d40-2519e5c09416",
+			"179b611e-01b7-4160-b3e6-184aa29a1d3c",
+			"5afc6dff-b796-44e1-8314-955a984e1175",
+			"5ff7652b-18d5-4ab8-bb40-80b3f9923518",
+			"8f9c30f9-54ac-47a2-81c6-87731275eea7",
+			"85ad0234-7ebf-4e8d-8b9c-1d986148108e",
+			"7008398a-78d6-49c1-9040-50fde3f4ea64",
+			"5a16b52a-2a81-4507-bc87-1d5d862e2c63",
+			"20b9fbcc-f833-4c96-8516-0338ba1e02f3",
+			"38037457-bc66-41fa-bcd6-79b3e3e8d738"
+		],
+		"title": "Intertemporele ruil",
+		"id": "265c7c71-988e-4083-b854-07ca2cc372d9",
+		"replaces": [
+			"d599c0f3-466c-4d55-b469-633c6d8301df"
+		]
+	},
+	{
+		"prefix": "ec/4/6",
+		"doelniveau_id": [
+			"b41f4c8c-0535-449b-b7e9-8287914f5aef"
+		],
+		"title": "Balansen",
+		"id": "12ee3140-1ce8-4650-8967-4c0d0eb489e1",
+		"replaces": [
+			"a043d542-7cd3-4535-818d-4c973727a139"
+		]
+	},
+	{
+		"prefix": "ec/5/3",
+		"doelniveau_id": [
+			"af9e0dbc-6401-4006-bf22-08e5e92c2e97",
+			"24344760-25e0-49e5-9515-2a0fce92dc8d",
+			"74a5af38-8cab-4773-917d-00c303f0b1b1",
+			"483bd7d6-7d9d-4dd9-9411-2385f8d09120",
+			"076414a6-da5b-4b6b-8169-134df7b33edd",
+			"2793dd03-3906-46c2-bcc5-811f43f417fc",
+			"1215df6a-420f-4537-9717-96f6c79aafa2",
+			"1bfcc059-7a22-41c6-9dbd-3431928c66be",
+			"82020c00-b132-468c-9186-a19e41b896b3"
+		],
+		"title": "Speltheorie",
+		"id": "5db8027e-ba37-43cb-b99f-77cf7feaf3d4",
+		"replaces": [
+			"ffdefc19-265c-4f89-b3e3-304973fd9779"
+		]
+	},
+	{
+		"prefix": "ec/5/4",
+		"doelniveau_id": [
+			"a179d614-845a-4da7-b57e-d0e9a836281a",
+			"703fd64b-9590-4c1b-a7cd-48c3b854d843",
+			"b9e8dc71-b972-497a-938e-a7f19b47c23c",
+			"2ea73e14-3e55-45ec-8565-d4b95927b8fd",
+			"b0ec49e6-346b-4893-976e-8f839adad388",
+			"f6beec3f-c266-4a74-9cb5-ff6bf09db83d",
+			"46a6c2c1-4e05-470c-b1d3-36d41d6f6712",
+			"057b9810-d27a-4385-a1f6-7c646623eb9c",
+			"21bc81d9-4735-430c-8065-dc1cf13aa05a",
+			"30df53b5-5ee8-45ac-b34c-cf54838edb24",
+			"381cb007-dee8-4ce2-be69-4fc89726c6e7",
+			"75f9dead-7c7e-49fa-bacb-bfc692b38f12",
+			"73cf9954-dd1e-4339-8399-698d7b5f7d3a",
+			"d8d7e768-cfce-42a2-a583-77b0331848bb",
+			"5672461a-221f-4370-94e1-a6cfc045609c",
+			"a0bb97a8-def4-4baa-a5ce-b301ef3e8c13",
+			"9f0d89f2-2c44-4913-af01-70ae382570b2"
+		],
+		"title": "Onderhandelen",
+		"id": "b4f248d2-a685-44ed-ba68-fcc2ed9dd0c4",
+		"replaces": [
+			"d9977e73-336d-428e-a727-c96e3c65917e"
+		]
+	},
+	{
+		"prefix": "ec/6/1",
+		"doelniveau_id": [
+			"6c4c51b1-8ad5-4f05-998a-f8f84d351b5b",
+			"b9d95e7f-8db4-4162-a418-e62fcfacc32a",
+			"4712df26-f83b-4df0-ab38-4cc320343723",
+			"b0c17938-809d-47db-a8e4-7ad7f8bb69f0",
+			"f77ffedc-8d36-4b6a-9ca7-8218084bf3f6",
+			"b7b0c9b5-82e7-4982-81dd-28b75cde3a1b",
+			"8fb5e46b-2a72-4765-a800-1c7a3cfed708",
+			"ef8090ff-0e67-4670-ade5-6e5936a533b2",
+			"4731d048-c85c-469e-85d2-d0f424e81978",
+			"acc0adda-c997-4a46-ad9e-13caa58de35e",
+			"b849af44-8c00-46d3-aa54-8c76b981117c",
+			"9f41f1dd-d8fd-475b-9a1b-1d978662ee52",
+			"56d4741e-f395-4866-882f-083450e4e000",
+			"acdefbc7-6617-4e56-8615-f3b99622610d"
+		],
+		"title": "Risico en verzekering",
+		"id": "98759991-6a18-4fdd-b715-7ed5239fc56d",
+		"replaces": [
+			"cfb6d899-d921-40ea-ab15-00c62940de38"
+		]
+	},
+	{
+		"prefix": "ec/6/3",
+		"doelniveau_id": [
+			"0feb5129-dc69-4774-885e-8d793a7d4f90",
+			"892b562d-52f0-4b94-b02b-4f21acc010e3",
+			"799dff7e-7339-4524-9fc2-1e7533d82d55",
+			"0d55f342-b208-434e-a08b-719c5bfe1fff",
+			"d4c37489-5eeb-4ad9-a595-e0a2e3b21b0a",
+			"be7f9077-7ae0-4f40-a175-e7e77f1bc618",
+			"a014c8b9-0c8b-4874-88d0-6cc209801d58",
+			"dbc758a4-5d7f-4120-9967-415adc5c3a54"
+		],
+		"title": "Risico en beleggen",
+		"id": "64f5326e-45e8-47c6-a3af-a14d676e2a8f",
+		"replaces": [
+			"155baf7b-4edf-403e-9af4-f628765c922d"
+		]
+	},
+	{
+		"prefix": "ec/6/5",
+		"doelniveau_id": [
+			"0f3a8640-d591-43b5-b625-3a4e737a51c2",
+			"7f71c133-9474-41bb-b939-9114ad8a97f9",
+			"47968ece-3183-48af-82d5-4ae056a595e4",
+			"62629635-0b49-4754-8a7b-0de410de83b8",
+			"ef7a73dc-d1d8-45c8-9ee4-796a7478c0d1",
+			"f0f7262d-2f31-485c-adf8-c5ffca6ddca3",
+			"e34788c5-46cb-4744-995a-fbcf3119fd22",
+			"39291b60-8714-4b6b-9c77-2320797a54b7"
+		],
+		"title": "Effecten van asymmetrische informatie",
+		"id": "d6f482ea-70cb-4abf-b9f5-bf67f8602bae",
+		"replaces": [
+			"083f8fae-230f-4018-9330-9a9ffd1faa79"
+		]
+	},
+	{
+		"prefix": "ec/6/6",
+		"doelniveau_id": [
+			"6e4634a5-2bcb-475b-9f82-ab741c3296ee",
+			"d614ec0d-2654-4366-bcd7-459c19ed8997",
+			"cdc3c191-6496-4664-b019-88b034d3aa4e"
+		],
+		"title": "Asymmetrische informatie in bedrijf",
+		"id": "3906f3db-5c70-43e4-9c8d-527afedc8a2e",
+		"replaces": [
+			"2c53d981-4e3f-46a3-bc2a-a33c89430a5b"
+		]
+	},
+	{
+		"prefix": "ec/7/3",
+		"doelniveau_id": [
+			"55e7fb61-27b6-4d6f-88f6-f66ad3c719ec",
+			"723aa8bf-740b-4be9-8629-47d57433cb86",
+			"deccb53c-9fcd-4375-8177-82a98970c698",
+			"10d45039-dd56-4bcf-9980-81baa1224b25",
+			"c0cbe37f-da1f-43b7-b56b-c33211ffb80d",
+			"5fd0a410-4558-463f-86d9-42ac09c00997",
+			"4991859f-3eb2-4417-991b-bd240af06c36",
+			"4a8dc5b7-ef4d-4376-a6c2-d9d2d3d1064d",
+			"57aa21b4-de86-4096-b5b3-bad8845da88c",
+			"b0584a0c-d60c-41eb-9d35-1569cc2be764",
+			"e0708f7d-c8a3-48fd-9800-f7cc3c55a8af",
+			"85778b89-d86f-4c74-a9a2-6c501bad274d",
+			"2c40f2d7-ae2c-49c8-a6b5-c31cb45f8215",
+			"be2daceb-298f-4f7b-94de-6897cf95b053",
+			"3d2fcac3-624e-41c5-829d-fc1f3138c2c6",
+			"e91ca5cb-542e-4ec8-b6a9-fb953e39e5c4",
+			"818ec662-0819-467b-8014-b97c5f4d0af6"
+		],
+		"title": "Economische groei",
+		"id": "70168782-aaad-477c-a659-6d34b7168093",
+		"replaces": [
+			"15aa631c-7ca9-4678-a1e1-2cf43b986491"
+		]
+	},
+	{
+		"prefix": "ec/7/5",
+		"doelniveau_id": [
+			"b4b7246a-6396-4a15-8606-127cf7e3a092",
+			"8ab2daab-2046-4729-a983-6e36c8dd55fb",
+			"b162e795-a728-453d-8f93-250fc94b9cd6",
+			"e1c25da9-8d29-45b9-a6bc-6403cbb1e05f",
+			"bdbd2982-c8de-41b9-8b4a-6b5ef930589b",
+			"a05e7c95-2be8-4b1b-af72-7b991ee5e20d",
+			"ea63a861-390e-4570-a214-7e40c0f4de50",
+			"d8f8857c-5289-4985-a862-feadf2a3bdd1",
+			"54eb32d6-6a4b-45b2-a53b-37d6a502cd2b",
+			"59fae987-8221-446d-b69a-d59142cd8f5d",
+			"b197a614-655a-4c7b-a0a4-541f4b9934c1",
+			"b5b5d006-0675-432b-8ca3-b0ea6123cb72",
+			"66ba9e78-b786-4308-9538-b1be2aaeda82",
+			"ace89b1f-2359-4a85-bb89-2bb7dbe0b4c7",
+			"da0ee9d8-b40b-4527-9ede-bc32600c466b",
+			"6c4fe763-143e-4ceb-aa17-8e72dd779aa9",
+			"e0885849-2373-42af-a3f0-144d5091ad17",
+			"91d850a7-213f-4931-9e7b-5de82ccf5ff9",
+			"cd5e2f0c-cc7b-4a7a-9261-8b4136e4b7a3",
+			"2be627ca-1cf0-4f23-81d9-663ca7becf94",
+			"efcebf9d-0a17-4336-a97e-3f4280cb2916",
+			"49be9c3d-fd47-4fd2-8895-e50bb9476916",
+			"ee3e8ca7-9f48-493e-983d-c1d09008096c",
+			"dc1493d9-8cd4-4667-861a-59c201f1497b"
+		],
+		"title": "Welvaart",
+		"id": "c0de8262-3a11-45cc-a2d7-60da9375e615",
+		"replaces": [
+			"2ceeaa10-ed36-48e7-94c0-909d0adeee7f"
+		]
+	},
+	{
+		"prefix": "ec/8/3",
+		"doelniveau_id": [
+			"06a3fbc6-7af8-43f5-b1a2-430b235683ef",
+			"5f7d124b-4737-4007-915f-d3a48efedbe4",
+			"1392fa49-317b-4835-8545-8ebe18ac5787",
+			"5d116897-a95b-42c4-9924-0e1f43c9777a",
+			"58243949-275b-4da0-8897-8f6d2986a4d9",
+			"63abd205-db06-4ab1-afb8-86e358dc1c7e",
+			"e8bccae9-5a39-4b3a-9640-2fb8071a2e81",
+			"44976f9b-1b10-4d17-b424-aad61c6b2b4f",
+			"62eab8a8-b21e-41be-83e5-fdf72befca10",
+			"4547faa8-5e99-4317-98e9-905326f2b157",
+			"8511c2c6-614b-4221-8591-f2650769c9c7",
+			"89e6f7e6-1a77-4fac-994a-5906f53bda50",
+			"367ea64d-7c68-4723-bf47-70b1b2164fcb",
+			"10d03e72-de0d-4356-b13a-be5c4180622a",
+			"d763299d-7a01-4a0a-a0bb-4567fe1f4292",
+			"b43e4235-b635-4747-86dd-c8d69826f44f",
+			"79542f1b-c875-437b-85dc-e95f4caebe68",
+			"861edcd6-b045-43de-924a-7f95494ef669",
+			"89dfc41e-2447-4c37-b751-51028d43dc8d",
+			"89c0fec5-b60e-4dbf-bdc8-d2cd0520b38f",
+			"da46ddcc-acc6-4f12-b4fa-73eb1a0539fa",
+			"d5cf3830-7b6b-42c6-8c43-0773ba88dbf7",
+			"c932b91f-8288-4b26-b48e-8967506f7930"
+		],
+		"title": "Conjuncturele verschijnselen",
+		"id": "8c60392f-0b88-4c20-a11c-4127d84587de",
+		"replaces": [
+			"c200f52a-b887-4ff6-9e6d-08731016ae8d"
+		]
+	},
+	{
+		"prefix": "ec/8/4",
+		"doelniveau_id": [
+			"c97ba091-5311-4287-bd14-5e08c87a4aeb",
+			"83ccfba2-066e-444a-ac9e-48fe65d4fa28",
+			"9316a5b2-b609-472c-8cce-8b294d03976c",
+			"8d4ff411-84f6-4bb6-92aa-bb7b61550672"
+		],
+		"title": "Registratie van conjunctuur",
+		"id": "c43430df-89ef-4735-9429-41812fa1b2c2",
+		"replaces": [
+			"04bcd976-d05b-49a5-89a5-b77793bc879b"
+		]
+	},
+	{
+		"prefix": "ec/8/5",
+		"doelniveau_id": [
+			"c6dfa19d-d633-41e3-a823-67cade22fa46",
+			"296f5218-4148-447e-a388-8557ddee6747",
+			"b1422e48-6bc3-4dba-8165-04522c3db07e",
+			"1231f9a5-343b-4d41-8ba7-5c21f8544f1c",
+			"a09f24ed-a89f-4625-b4ab-1032f6796eec",
+			"457af3fc-7095-4da8-a3e2-e465ba9f1510",
+			"9aac0e58-81dc-4dd2-a08d-3fd523316a7a",
+			"8af47326-a662-4301-b8d2-8682e0a4a7c4",
+			"5ce0cc0f-044a-4a76-8bcf-013ac8409bd5",
+			"3d8f3eb5-3ca3-4cfb-8c6f-86447b0992ec",
+			"6dedce5a-87d6-4ee3-804d-4a2c0b20d7e8",
+			"58aff71d-5cc2-4913-ad02-32be33d4659f",
+			"04ec302f-f71e-44d6-aae5-95564833c702",
+			"5804795f-c1a4-41e9-b8bf-2e2c87d5aa6f",
+			"1a220b96-f197-40a6-b25b-c69a382a872c",
+			"626cea11-ba85-45c2-a427-1a1de85c64ca",
+			"c97a1635-b2f8-40ec-8f14-06746ec0f83b"
+		],
+		"title": "Conjunctuurbeleid",
+		"id": "b507c848-ce6a-4d30-a11e-f8c6de62f8b9",
+		"replaces": [
+			"7533112a-b5ba-411b-ac72-b947e4690dae"
+		]
 	}
 ]
