@@ -175,7 +175,7 @@
                 "$ref": "#/definitions/ldk_vakbegrip"
             }
         },
-        "ldk_deprecated": {
+        "deprecated": {
             "#file": "data/ldk.deprecated.json",
             "type": "array"
         }
