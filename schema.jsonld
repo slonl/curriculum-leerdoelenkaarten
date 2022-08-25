@@ -26,7 +26,7 @@
 		"ldk_vaksubkern": {
 			"@id": "leerdoelenkaart:#ldk_vaksubkern"
 		},
-		"ldk_akinhoud": {
+		"ldk_vakinhoud": {
 			"@id": "leerdoelenkaart:#ldk_vakinhoud"
 		},
 		"ldk_deprecated": {
