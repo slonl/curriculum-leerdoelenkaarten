@@ -4347,7 +4347,10 @@
 		"doelniveau_id": [
 			"b868fc25-aae2-40b0-b13a-0366c4fe0221",
 			"76eecc83-fb6b-4400-9fe3-a9479dc70b4c",
-			"e6d979f1-58f4-4a77-adf1-5d8275a7badb"
+			"e6d979f1-58f4-4a77-adf1-5d8275a7badb",
+			"8cd14624-be4e-4205-9664-f74a7d17c9f1",
+			"437f9d1a-295d-497f-a919-9ed1af8a97f9",
+			"c35986c9-2792-4d23-a139-b33af7d3abe2"
 		],
 		"title": "Wiskundig redeneren",
 		"id": "34b37ad0-6222-4422-9f63-fdf36a5bda17"
@@ -4407,7 +4410,17 @@
 			"84462a6d-9509-4a95-b918-98eb62a33d21",
 			"9b21dc52-b42c-4afd-bf79-d3dd85c2db85",
 			"e3dbad85-953b-453a-9721-01480968e4b1",
-			"6e4e993c-cf4c-4082-a963-1cfe5a5fc514"
+			"6e4e993c-cf4c-4082-a963-1cfe5a5fc514",
+			"18574c54-af12-42e1-acc7-75235979b96e",
+			"4c40896b-49e3-48a1-865d-40491d8061e6",
+			"1d07f721-57b3-4b6c-8f59-16ca5cfb7a08",
+			"4d4cc9e4-bf39-4933-b189-5d6f853fe19e",
+			"8bdc73b4-a3a4-407b-afa4-a698e27eb492",
+			"94fc3c40-df10-47bd-9d9e-eab372e3d6b7",
+			"bb32c959-8553-422c-848f-1a97fa6e000e",
+			"b88e543b-6fe6-4002-97bf-52f2340a96ea",
+			"51665630-9efb-4815-89b0-1821b1fb41ec",
+			"f94ca9b1-a61f-498e-93f7-d6d642b87479"
 		],
 		"title": "Getallen, getalsystemen en -relaties",
 		"id": "c504d35a-1e6e-4ef3-9394-ba3f1d51363b"
@@ -4454,7 +4467,17 @@
 			"5e92af49-ce8e-47a4-9c4d-0c894fee1280",
 			"a3d6e06c-1564-48a6-a9fe-358ccbbf51f4",
 			"5208fb5b-bc96-4e3b-88e9-f539a41f5c30",
-			"772fd6b3-c6a3-479a-97b9-811bfc2850dd"
+			"772fd6b3-c6a3-479a-97b9-811bfc2850dd",
+			"fe1fb150-9939-46e5-9151-2c7d4dcfd23e",
+			"956b2a89-194c-46bb-b433-7fe8b9cadd0f",
+			"cd150a01-cb5e-4d6b-a301-d89b6bcd7145",
+			"cd3c27b8-7395-4c44-9b30-5db13641f96e",
+			"3ad69bc2-f4ae-4bd6-8b84-1f11da7454aa",
+			"61bfda0b-80fc-41e1-918b-aa22523402ea",
+			"cb292a2d-0fea-47c0-a622-dfbeee3e0309",
+			"b557796d-bdf7-4fba-a570-2a85b2b5f2e6",
+			"e1840413-76ad-444e-a9df-78c9157a648d",
+			"ce5f32a3-561c-4605-b505-9e7c0e52ac7e"
 		],
 		"title": "Rekenen met getallen",
 		"id": "9a0bbda2-a4a3-421f-8358-b0f2f7d6e5a2"
@@ -4482,7 +4505,9 @@
 			"689956e3-633f-4f27-a662-c7ee727e5273",
 			"47d87ab5-7f82-4879-b91c-0ae6b1e6fbaa",
 			"8cf79671-cdad-406c-be4f-bd9ff5b8398c",
-			"8a85238b-60ed-4d66-8dc0-94169adb583f"
+			"8a85238b-60ed-4d66-8dc0-94169adb583f",
+			"9b91bfcf-d092-4fd9-bdf9-4ae8f4bd06cb",
+			"dc1a734d-0f06-4281-90f9-d6242300b7b4"
 		],
 		"title": "Tellen",
 		"id": "3b377f8c-37ae-4c5a-94fc-b6e8ab805b2a"
@@ -4526,7 +4551,11 @@
 			"4364b853-8aad-4f4d-b387-e157d9ca65d5",
 			"36c62676-f100-4144-bf2c-26c864effe9b",
 			"32b231f6-ca21-438d-84bb-7f2dfd0d3fbc",
-			"da4b96aa-76bd-46ec-bc28-d02b66a49978"
+			"da4b96aa-76bd-46ec-bc28-d02b66a49978",
+			"7184ada8-773f-46a7-aa9d-19ba5cadc697",
+			"c092119c-2d53-499d-83a7-d78063b138ac",
+			"e034da5c-5c3d-4b5e-aef3-78d559295b27",
+			"4fa486d5-6316-43c3-a167-35c657b79eae"
 		],
 		"title": "Verhoudingen",
 		"id": "2b5fbf1f-d39d-49f3-88dc-f3fc26a70af1"
@@ -12095,5 +12124,56 @@
 		"replaces": [
 			"7533112a-b5ba-411b-ac72-b947e4690dae"
 		]
+	},
+	{
+		"description": "",
+		"doelniveau_id": [
+			"bb0a7e35-3ddf-4405-9437-67da7c610861",
+			"9e1a33f4-24b5-4a07-8298-00b236a9432e",
+			"973df157-b8c8-4a25-b079-0bea1478f7c5",
+			"7a58ae12-afd1-4300-b696-1d692426a97b",
+			"61fb44a2-591f-4575-b4a5-2a4ddbe88555",
+			"e5b322ea-80db-4a7f-af7b-2122486feef9",
+			"3b331c46-a9c8-45eb-9496-58c7fdf88a52",
+			"83451854-c22f-42e7-a8a9-ed67b96be15c",
+			"3e2555a4-387c-43e4-9231-df899354b224",
+			"c171b14d-12e2-4060-a724-453e585129f2"
+		],
+		"title": "Meten",
+		"id": "af94f3b7-53bf-4214-833a-c6825f17ca39",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"doelniveau_id": [
+			"46bd606f-088b-4a19-b1c6-cf0ed418b77d",
+			"70700f4b-62ee-4a07-8a33-de89f83a48f2",
+			"58f9fcd7-7f70-4d1a-8917-6c69a1d63faa"
+		],
+		"title": "Meetkunde",
+		"id": "dab6f52c-d4bd-4d91-bde0-ffe382105133",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"05d5fc6a-66f1-4473-bb51-94c491cbd57f",
+			"3bd2d9a6-542b-4b73-a29b-9c043d014ce9",
+			"10bdbf65-cd85-476a-932b-36c6ec873e5a",
+			"fcc248e2-861a-4dfb-a165-8c895a0196df"
+		],
+		"title": "Verbanden",
+		"id": "28232b0d-6ded-41ee-8100-36e38220b94c",
+		"unreleased": true
+	},
+	{
+		"doelniveau_id": [
+			"6d299de0-b351-41e6-ace5-55d0f9f557ca",
+			"a77ed649-2e9f-4314-ba03-5dc04cddb972",
+			"a61d9161-e242-4162-b288-dc7abb981045",
+			"84bbddfd-6b3b-450d-bb4b-4b0d8a474bc5"
+		],
+		"title": "Formules",
+		"id": "d8f33b12-2de3-4413-9651-1caa570a9592",
+		"unreleased": true
 	}
 ]
