@@ -4,7 +4,8 @@
   "description": "Leerdoelenkaarten Context",
   "main": "context.json",
   "scripts": {
-    "test": "node test/test.mjs"
+    "test": "node test/test.mjs",
+    "repl": "NODE_REPL_HISTORY=.repl_history && node test/repl.mjs"
   },
   "author": "SLO",
   "license": "MIT",
