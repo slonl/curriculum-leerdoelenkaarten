@@ -1841,13 +1841,17 @@
 			"34b37ad0-6222-4422-9f63-fdf36a5bda17"
 		],
 		"doelniveau_id": [
-			"31180031-9aa3-4677-bd3f-e2dcb5a1931c"
+			"31180031-9aa3-4677-bd3f-e2dcb5a1931c",
+			"a6b0e97c-48ac-4a1a-8906-91424afa137d",
+			"22fee42e-c935-48b7-888e-989d8f833ded",
+			"1fda3b7f-374a-4089-b340-58af4e129901"
 		],
 		"title": "Inzicht en handelen",
 		"id": "a5b7e57c-f426-43d4-84cd-c777ae26d993",
 		"replaces": [
 			"d6ca8385-20a5-4bd9-b5d4-edf0d469f4a4"
-		]
+		],
+		"description": ""
 	},
 	{
 		"prefix": "wi/2",
