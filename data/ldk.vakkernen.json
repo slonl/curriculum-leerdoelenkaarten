@@ -1868,7 +1868,13 @@
 			"b9e10efa-be7d-4376-8ed9-58aec277d216",
 			"9275f4ee-73f6-41b7-964f-899162067700",
 			"5037cfe6-3d1f-4717-b3fa-6f78300d39b5",
-			"9dcbe2f0-ceb7-4d5b-b61c-46c41b8599a4"
+			"9dcbe2f0-ceb7-4d5b-b61c-46c41b8599a4",
+			"d5e028c4-097e-4ec1-a743-a9b68d3f65b1",
+			"7fdebb33-ea62-4974-9d8a-982971f4c765",
+			"9567c386-abd2-44b6-90be-60781de029c0",
+			"27a0d3ab-4533-49c9-b4a1-a2f8a3337ce0",
+			"80e8503a-c3e4-4b8e-989d-7858e9c59922",
+			"ddd35794-e64b-4f45-8790-63d2bb0449ca"
 		],
 		"title": "Getallen",
 		"id": "416b38bc-18a6-4476-9237-71936761d1b7",
@@ -1888,7 +1894,8 @@
 			"c77120e7-b9fd-4e14-9dc5-7540c6777450",
 			"1888ca04-d8e2-45d5-b647-162ff27e62e4",
 			"a2f554a0-3eee-4446-938f-d7d5ee9192ed",
-			"fd6d45b1-9d98-49cd-907c-ed1d8c5ed1a0"
+			"fd6d45b1-9d98-49cd-907c-ed1d8c5ed1a0",
+			"d5e028c4-097e-4ec1-a743-a9b68d3f65b1"
 		],
 		"title": "Verhoudingen",
 		"id": "d339efab-b756-41b4-9840-1d7863cab4b2",
@@ -1912,7 +1919,9 @@
 			"dfd5ad9d-2005-4b25-a249-ffb65f7be9ff",
 			"46a62657-5c8c-4508-b350-ab8eb0f29c42",
 			"89c6125f-5652-4b77-aafb-67dea2a61190",
-			"d1a89cbe-eaf3-4a5e-af03-ec354c6b97cf"
+			"d1a89cbe-eaf3-4a5e-af03-ec354c6b97cf",
+			"adeaa54e-62eb-4035-928e-6f72d72a782c",
+			"c9a1d4ba-804b-4656-a6a5-203ffe8ecf16"
 		],
 		"title": "Meten en meetkunde",
 		"id": "af978dc1-5195-4fea-842a-35979200fdbc",
