@@ -1897,7 +1897,9 @@
 		"prefix": "wi/4",
 		"ldk_vaksubkern_id": [
 			"c8b0bcaa-51d7-4579-808f-9929d475ac5a",
-			"8b27f3b9-4567-4059-89c9-2a88f3ef9d5a"
+			"8b27f3b9-4567-4059-89c9-2a88f3ef9d5a",
+			"dab6f52c-d4bd-4d91-bde0-ffe382105133",
+			"af94f3b7-53bf-4214-833a-c6825f17ca39"
 		],
 		"doelniveau_id": [
 			"4dec7901-2615-47d8-8c6b-f477f2e39388",
@@ -1912,7 +1914,8 @@
 		"id": "af978dc1-5195-4fea-842a-35979200fdbc",
 		"replaces": [
 			"89284c91-aabb-4244-b3de-4ef61d8858e0"
-		]
+		],
+		"description": ""
 	},
 	{
 		"prefix": "wi/5",
@@ -1922,7 +1925,9 @@
 			"e6ad35a7-d9c2-42fa-98c6-5270ed386d27",
 			"91512489-3e18-4210-8686-e3a11a2a10b1",
 			"478ada71-52f6-418f-b73a-10fb4732d552",
-			"6f0eada6-e8e9-458b-88ae-43bc594ed524"
+			"6f0eada6-e8e9-458b-88ae-43bc594ed524",
+			"d8f33b12-2de3-4413-9651-1caa570a9592",
+			"28232b0d-6ded-41ee-8100-36e38220b94c"
 		],
 		"doelniveau_id": [
 			"162d8db1-e792-4e1a-8f48-45eb61c3f686",
