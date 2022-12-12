@@ -1,18 +1,5 @@
 [
 	{
-		"vakleergebied_id": "0552d51c-e6e8-4cfd-8a4b-dd3520dd0039",
-		"ldk_vakkern_id": [
-			"a73618f2-a74b-4651-ac98-34acc8cdfdad",
-			"ae5fcbc6-e49e-4a45-aea5-712d80a70a57",
-			"8b018f77-eb87-44b8-9c98-befe4c768e52",
-			"319af71c-f3a9-4d90-912d-153d71fdd6b4",
-			"df93f64f-0fcd-4453-a614-6d359ca3c257",
-			"f3ccddcf-2c1a-4ad4-8c98-41ac0ee8deeb"
-		],
-		"title": "Bedrijfseconomie",
-		"id": "22e1c867-e2cc-4ff1-a248-bad8773efa64"
-	},
-	{
 		"prefix": "nask2",
 		"vakleergebied_id": "428c0a27-1cc2-41f0-9f24-36c1d1f1a461",
 		"ldk_vakkern_id": [
@@ -25,19 +12,6 @@
 		"id": "976e6a88-0d14-4627-8ce4-b1c1df9e6c94"
 	},
 	{
-		"prefix": "wisB",
-		"vakleergebied_id": "ccda2b02-3aa8-44bc-adfa-844565c292d0",
-		"ldk_vakkern_id": [
-			"24329f22-1195-4da9-9690-399b48524c59",
-			"0cc63cea-db83-4c37-aa93-b35802caf614",
-			"92753ef3-e164-4d05-b34f-61d8e9a31922",
-			"89aa3ee2-5368-4b59-9462-b2a9e65533bc",
-			"5fbaaaf3-bd6e-49a1-bf6a-fbbefbe5bf3e"
-		],
-		"title": "Wiskunde B",
-		"id": "3ea6a1fb-3f1e-4561-b495-2a4679710304"
-	},
-	{
 		"prefix": "DG",
 		"vakleergebied_id": "5542232a-dafd-49e8-a7fa-fa918605f3ba",
 		"ldk_vakkern_id": [
@@ -48,144 +22,6 @@
 		],
 		"title": "Digitale geletterdheid",
 		"id": "4cd82a3c-bbba-414c-9f22-b73f3c9acf6d"
-	},
-	{
-		"prefix": "ltc",
-		"vakleergebied_id": "0f1daeda-c83f-41bf-ab2b-ca148761e66a",
-		"ldk_vakkern_id": [
-			"4d9cc33f-168e-47ba-bc56-dce16c95f022",
-			"3148131e-7be3-4e1e-a46d-d792284a4598",
-			"7b135114-ec49-4cbd-941c-6ec3a552ba2c",
-			"afbfae09-eaee-4d9d-8c8c-64b20d32e9de",
-			"1e090d32-9e10-4b18-9b7b-f3a7c81c94db",
-			"2156298d-0b03-4cb8-b117-c58dd786ed13",
-			"4ddcb073-d167-4541-92c8-ec7b23612fab",
-			"4467a711-ff30-4796-970e-a98cfa0b3de7",
-			"6c38853a-5840-45a4-afc2-faa964b06c3f"
-		],
-		"title": "Latijn",
-		"id": "0150f55b-9ee5-4f65-8a6f-90bbc70275bd",
-		"description": ""
-	},
-	{
-		"prefix": "gtc",
-		"vakleergebied_id": "797f5fdf-8e35-43e9-b290-772c84f1761e",
-		"ldk_vakkern_id": [
-			"63f688b0-c1c9-41a9-b6f1-c82cc17548e1",
-			"13a3497d-c4c5-4ff1-b90e-20f00d9c0407",
-			"e4de4855-6784-411b-b986-205272fcbf70",
-			"3ad21b07-c633-4b11-81ca-f61609721803",
-			"ccbdac81-8a94-4ee7-84e3-84e4c860ca67",
-			"b1d47599-1b2b-4369-8885-9054d07d58d5",
-			"64e626a3-f405-4c34-8d99-e471a1fd1795",
-			"020ebc17-6b7a-4679-8b1b-e0ebbe880fcd",
-			"a164f887-245a-4d85-b4c0-267815621ef7"
-		],
-		"title": "Grieks",
-		"id": "45abd24e-02ab-4c8d-b28a-7e9af2aaf46e",
-		"description": ""
-	},
-	{
-		"prefix": "ak",
-		"vakleergebied_id": "6ed6fb6f-5cd5-40d1-945d-1f02af6a79da",
-		"ldk_vakkern_id": [
-			"7d095f87-9f69-41db-a31e-3f4f837dde88",
-			"ed9ecb2b-34fe-4c71-9ac0-0ad737002b5d",
-			"3c20ccd9-9c34-46e8-ba15-ca9f770a05fd",
-			"be5cf2ec-2b8d-4de3-9c18-2a92d2f02aa7",
-			"2c7e909b-8151-4819-aa9a-228fa08e9a82",
-			"33136a7b-9860-41be-b140-16bc78453f10",
-			"747e2207-abea-4dfa-aad2-4b46e56bfc70",
-			"6c084cdc-f19f-4c5e-8725-4cc65543e982",
-			"0e5e53ed-2dda-4f92-be45-d91a3c6488af"
-		],
-		"title": "Aardrijkskunde",
-		"id": "40debc86-c2fd-4e32-87ee-c294e14fed31",
-		"replaces": [
-			"fd47894c-a2c4-428e-b723-8041bea55501"
-		]
-	},
-	{
-		"prefix": "bio",
-		"vakleergebied_id": "41dd7292-3cce-411b-8097-11db8c875a89",
-		"ldk_vakkern_id": [
-			"bb47b50a-320e-48fa-897f-b6f4bb5721d7",
-			"de0e5a32-7393-4136-a3e8-fa36de92aeda",
-			"72ed2285-f9fb-4a87-8f77-ca928c2af552",
-			"198115b6-4f01-4b3e-8103-464b2c315b28",
-			"75052700-040b-4a07-9946-a20ceb1b3e2c",
-			"d2499276-380c-41b0-bc8d-b3938d62370b"
-		],
-		"title": "Biologie",
-		"id": "7111df44-f92a-4c45-a354-7bf0e3def6dd",
-		"replaces": [
-			"826b457d-6e3f-431a-ac4b-39ddc3110b8a"
-		]
-	},
-	{
-		"prefix": "nask1",
-		"vakleergebied_id": "b362c478-90c9-45ac-855a-79421d23ed07",
-		"ldk_vakkern_id": [
-			"ea5e8cb5-cc15-4a56-bbac-7fe5cd717448",
-			"3bd0b7db-06fe-49fb-b021-7895a12e7418",
-			"310d56a0-6374-4b47-8a23-e1be3eff4bc7",
-			"cf7a4a14-1826-4125-abfc-f1d1f1bbc085",
-			"ba96ed62-a802-455c-a139-c6f9c9b713c6"
-		],
-		"title": "Natuur- en scheikunde I",
-		"id": "48b44fb5-2ddf-4826-8fa2-99b2e95113d0",
-		"replaces": [
-			"65cd5755-ee19-4f61-a74e-fb3a34aae5d9"
-		]
-	},
-	{
-		"prefix": "na",
-		"vakleergebied_id": "e14b7d76-d5f5-4788-a9e1-bf35269a72d8",
-		"ldk_vakkern_id": [
-			"00e6f81a-58f6-41c2-a757-aa320b68498d",
-			"737a4eb5-0a07-438f-988f-4c5d187de4a2",
-			"687ded2d-9830-44b5-bef2-6f96d583d997",
-			"830563c1-5abe-4dd7-b52c-e59a9fa69940",
-			"2241d660-182a-4069-af15-8ef3f38f6b4b"
-		],
-		"title": "Natuurkunde",
-		"id": "7649403c-3c98-4537-b5a5-063880ac6127",
-		"replaces": [
-			"1f277fe0-b40b-45aa-a239-fa5cf7d4e40b"
-		]
-	},
-	{
-		"prefix": "sk/ldk",
-		"vakleergebied_id": "364c2519-7d9e-47d8-b3bd-371cee8583df",
-		"ldk_vakkern_id": [
-			"bf751e7e-1499-4a50-a6a2-338967b71484",
-			"376830be-4a0c-4e06-a477-b6435ac0f31d",
-			"aaabe128-7c61-4b96-a95e-e0f2a74546fd",
-			"cb4216bb-5910-4ac5-8af7-5888d651be80",
-			"6fb11f8a-de4b-4278-8f13-3f29af233294"
-		],
-		"title": "Scheikunde",
-		"id": "eada74a0-1c7b-4215-91d6-c729c482bcee",
-		"replaces": [
-			"89c4f9cf-be21-4881-b582-c1760459bb15"
-		]
-	},
-	{
-		"prefix": "tech",
-		"vakleergebied_id": "977fea53-fb3b-4349-a81a-7bf903a152af",
-		"ldk_vakkern_id": [
-			"873f4589-bde2-48a4-be23-3298c365d0c2",
-			"deb653d1-5bf7-4ffd-8424-82ec05f3f256",
-			"1d594349-afda-4458-ab93-cbd5fbe85ac3",
-			"67f6a208-7a7b-450f-b798-a61ff18f2424",
-			"1e4e96a2-4b78-49f7-a043-0659be4d5426",
-			"5290210b-7c24-444e-881e-4fca9447e4a6"
-		],
-		"title": "Techniek",
-		"id": "eff29be5-2eec-4a8f-b50e-8be38747f0b4",
-		"replaces": [
-			"27d64b3d-8dca-4972-8b33-1a49564ffb1e"
-		]
 	},
 	{
 		"prefix": "wi",
@@ -205,77 +41,171 @@
 		]
 	},
 	{
-		"vakleergebied_id": "91e9afb9-a8ab-4fde-aa97-9884a8920b78",
+		"prefix": "ak",
+		"vakleergebied_id": "6ed6fb6f-5cd5-40d1-945d-1f02af6a79da",
 		"ldk_vakkern_id": [
-			"2d3b9e8f-7ed2-461c-9501-e59889e6bd28",
-			"baaec8b8-b12e-4d5d-999b-2df8d029a9d8",
-			"ac0ac0c3-8d47-447b-8540-7ed7389a1718",
-			"91b24ebe-a1ba-406d-ae8b-f262e90f7bf5",
-			"6876233c-d798-4207-b4c5-368540b5d7c9"
+			"0376b0f1-d65a-4ba1-9285-0fb0cd8403b0",
+			"984e72f5-480c-4320-8963-b9ee4074e0ba",
+			"ee6a089b-b9ca-4291-9bd2-b4f99e07b032",
+			"290db165-5fa5-4f8e-9ad2-ab2a84fc578a",
+			"00e6136c-1822-439e-8999-ca1218def7fd",
+			"37afb555-495b-4b85-89e7-7b2fc401d9e2",
+			"3574d504-b44d-4bc9-83b2-70ee1d873c44",
+			"90dad297-b475-410e-9e3b-cadfb6936091",
+			"54cbea41-30c1-4bdd-b6f1-35b51257c698"
 		],
-		"title": "Duits",
-		"id": "0c084271-da7f-47af-bdbd-d9b075574959",
+		"title": "Aardrijkskunde",
+		"id": "7ebe8d09-055e-40ae-a039-fb1e93cc273b",
 		"replaces": [
-			"dca94895-40b9-4001-97ac-149f38bef782"
+			"fd47894c-a2c4-428e-b723-8041bea55501",
+			"40debc86-c2fd-4e32-87ee-c294e14fed31"
 		]
 	},
 	{
-		"vakleergebied_id": "f851676e-b541-42db-986a-5c468974f65e",
+		"prefix": "bio",
+		"vakleergebied_id": "41dd7292-3cce-411b-8097-11db8c875a89",
 		"ldk_vakkern_id": [
-			"098d4d88-b715-493f-acf7-18a8f786caed",
-			"0d57e974-2dc5-428f-bfaa-c5d148589b97",
-			"7de7b3fb-bf81-420d-9d7b-015e5189e126",
-			"1bba7016-2c77-4775-8c76-2af47a0a9c97",
-			"e7e52405-9ef4-4e9e-862f-da87b44d1068"
+			"10311b2a-73de-4546-a877-eb0354b5ce18",
+			"c6ababf4-a6df-433e-a5a3-4d700f7c8614",
+			"8fd8de24-f233-4cf0-bf0d-edc63b183d61",
+			"c15e4a90-3159-4cf1-8405-9daa710bc32a",
+			"b03b6b88-c572-4b92-8ded-582a8ae5ca3c",
+			"31c904cc-0bc2-4a05-950c-e1866ce0e093"
 		],
-		"title": "Frans",
-		"id": "85fd9942-9663-464c-9183-4b82c49de242",
+		"title": "Biologie",
+		"id": "e37866c2-7736-4289-9f85-793c7d05017e",
 		"replaces": [
-			"2de8c75e-40f8-4a3b-a913-4f9138f95b36"
+			"826b457d-6e3f-431a-ac4b-39ddc3110b8a",
+			"7111df44-f92a-4c45-a354-7bf0e3def6dd"
 		]
 	},
 	{
-		"prefix": "en",
-		"vakleergebied_id": "cfaf3202-4c14-4f7e-b783-91ad1dc93779",
+		"prefix": "nask1",
+		"vakleergebied_id": "b362c478-90c9-45ac-855a-79421d23ed07",
 		"ldk_vakkern_id": [
-			"10f2449f-33e1-40d7-8079-025627651867",
-			"1f546f35-96ab-41db-bda9-8cf9a323367f",
-			"71f4b4e1-fa5e-40ad-ad0e-3cd855008c45",
-			"520f9844-7676-461a-9cea-cb3dd18fb340",
-			"c1978ddb-1739-41b5-b61b-1507054192a0"
+			"4e2a4e8a-39d9-4fde-8be6-8b92b4398229",
+			"c1b52bfc-c0b8-47f9-b9da-d801d4f4c94a",
+			"9c353974-9f5a-4e3b-b96f-a14b6b791aad",
+			"e10aef28-51c9-496f-8534-947f557760fd",
+			"a8ac8a6d-8ed7-4a66-91fb-98b0027818c3"
 		],
-		"title": "Engels",
-		"id": "00302e24-89fe-4e5c-8615-963e4884ad01",
+		"title": "Natuur- en scheikunde I",
+		"id": "ec0df105-8b19-4a32-ba4f-eb268ae6a74c",
+		"replaces": [
+			"65cd5755-ee19-4f61-a74e-fb3a34aae5d9",
+			"48b44fb5-2ddf-4826-8fa2-99b2e95113d0"
+		]
+	},
+	{
+		"prefix": "na",
+		"vakleergebied_id": "e14b7d76-d5f5-4788-a9e1-bf35269a72d8",
+		"ldk_vakkern_id": [
+			"450e9416-b6cd-4894-bc4c-3c83c5957771",
+			"e00abe41-94a6-48d6-9b32-d3d9bb84986c",
+			"a3f2b672-ba88-4cc8-82a3-a4762796e728",
+			"73d6d592-bba9-42f6-b617-eab5b7cba240",
+			"d481fcfe-38d8-40a9-bc4a-7860818ea044"
+		],
+		"title": "Natuurkunde",
+		"id": "74b1f23b-242c-435b-969c-69f70a9197a2",
+		"replaces": [
+			"1f277fe0-b40b-45aa-a239-fa5cf7d4e40b",
+			"7649403c-3c98-4537-b5a5-063880ac6127"
+		]
+	},
+	{
+		"prefix": "sk/ldk",
+		"vakleergebied_id": "364c2519-7d9e-47d8-b3bd-371cee8583df",
+		"ldk_vakkern_id": [
+			"98e62a4f-4465-4088-b675-3fadb2f9bc17",
+			"f4628068-8a5a-42ff-af52-7e6ff2336df2",
+			"a7dd68be-3e7a-426d-80d6-3ff26851cb6b",
+			"bddce77f-0b66-4325-9d1d-c77419198a83",
+			"c6b9904b-0c89-4901-a2c3-f1a911104a09"
+		],
+		"title": "Scheikunde",
+		"id": "4395170b-db0a-4027-bb6a-fa8ff36e944e",
+		"replaces": [
+			"89c4f9cf-be21-4881-b582-c1760459bb15",
+			"eada74a0-1c7b-4215-91d6-c729c482bcee"
+		]
+	},
+	{
+		"prefix": "tech",
+		"vakleergebied_id": "977fea53-fb3b-4349-a81a-7bf903a152af",
+		"ldk_vakkern_id": [
+			"873f4589-bde2-48a4-be23-3298c365d0c2",
+			"0b72e470-4e91-4c67-b762-9a1fb951ed69",
+			"9a6fff58-9fb3-45f3-9478-67522d997da0",
+			"917828d0-9466-42db-bdc4-c3374281621d",
+			"84445cc7-b1af-4aa6-ac57-96226e5f3ea3",
+			"b7a1ad96-ee28-4a7f-808a-bbcf7a9dbc0d"
+		],
+		"title": "Techniek",
+		"id": "53d13e25-79d8-4a0f-89f2-f6245f3e6e2a",
+		"replaces": [
+			"27d64b3d-8dca-4972-8b33-1a49564ffb1e",
+			"eff29be5-2eec-4a8f-b50e-8be38747f0b4"
+		]
+	},
+	{
+		"prefix": "gtc",
+		"vakleergebied_id": "797f5fdf-8e35-43e9-b290-772c84f1761e",
+		"ldk_vakkern_id": [
+			"63f688b0-c1c9-41a9-b6f1-c82cc17548e1",
+			"13a3497d-c4c5-4ff1-b90e-20f00d9c0407",
+			"2981b24e-da4e-4be7-8fb4-584c3a127713",
+			"3ad21b07-c633-4b11-81ca-f61609721803",
+			"ae738d8b-495b-4e6b-a861-94404f0881dc",
+			"4964d6f5-71bc-43ca-b760-320ee78859ae",
+			"d5978e94-7fac-4974-8f22-9784656cdeee",
+			"72f703cc-d759-4496-a356-c45cf03a938d",
+			"c0f9ed22-b1b7-4029-82ed-f835c0639d10"
+		],
+		"title": "Grieks",
+		"id": "cdbb89fb-572e-4a5b-8862-ea80066e6ac7",
 		"description": "",
 		"replaces": [
-			"9db0f649-ba16-4885-ae88-c8dbc671debd"
+			"45abd24e-02ab-4c8d-b28a-7e9af2aaf46e"
 		]
 	},
 	{
-		"prefix": "ec",
-		"vakleergebied_id": "8755f202-3f28-405d-929e-990ee4fdc521",
+		"prefix": "wisC",
 		"ldk_vakkern_id": [
-			"c7ea1215-78aa-486a-bc81-99a1cc2241c8",
-			"0b71c483-89d1-4c02-bd27-6caf8db2b804",
-			"4cf31f16-5504-47e2-8865-173786a22d3f",
-			"2fb1dc4c-6923-4ac3-90f5-1100622b8c1a",
-			"ba8fd814-f21a-48dd-9882-33cd33c6871d",
-			"b5464d61-7b47-42b2-a781-fc46771a3f5b",
-			"23db5110-e103-46b4-abf8-cb498510957f",
-			"aee68ce5-a70f-4fd0-a637-505f70ad66f7",
-			"f40b9f5e-6b90-473f-8d1f-1fc7939ffd31",
-			"6311b5c0-73e4-431c-8617-a23f7ee2dd1c",
-			"23c2f5be-3193-4096-b723-fa93d08c556d",
-			"f42d5ef7-3ea5-4da5-a2e0-c2638a8c4e83",
-			"bf9c29d5-3381-4da4-bbdf-b6ec4a92d26d",
-			"0782985c-8b4f-493a-9e32-61697b8c4b6e",
-			"63b18cb1-c535-46ac-8615-88fe3fba744d",
-			"c83daff4-9b34-4e2b-97c2-41945e827d90"
+			"0db36f54-3671-4589-b1f4-5fc88ea5931d",
+			"14cdc467-8a01-4ef7-8588-1bf8a2dbd92e",
+			"5e7eed63-02e6-4f45-889e-2f4b8894545c",
+			"082b5272-97a6-4dc3-9f19-04288678460d",
+			"e7e3c5a3-b08c-4dd4-a09a-a7b8d26be950",
+			"3f1e7ae0-c7d6-4bf7-89d5-003d7424eb3a",
+			"5ab06871-91d3-4332-8f07-b719fb54b608"
 		],
-		"title": "Economie",
-		"id": "cfeb15d6-7223-4e47-9287-69d5bedf696a",
+		"title": "Wiskunde C",
+		"id": "7d41b9d0-2832-4811-8d2d-0e9bd717d99a",
 		"replaces": [
-			"45023834-da3d-4fa6-972c-7f998c55a0f9"
+			"0804d7ca-6d82-47a9-9a57-e8e5956b4955",
+			"c6a001a6-52b5-4555-9fa6-135a88b4d6dc"
+		]
+	},
+	{
+		"prefix": "ltc",
+		"vakleergebied_id": "0f1daeda-c83f-41bf-ab2b-ca148761e66a",
+		"ldk_vakkern_id": [
+			"4d9cc33f-168e-47ba-bc56-dce16c95f022",
+			"3148131e-7be3-4e1e-a46d-d792284a4598",
+			"b59f9201-6d59-4520-afe3-28deece381e7",
+			"afbfae09-eaee-4d9d-8c8c-64b20d32e9de",
+			"458513b4-07e2-48df-816e-096be01fec89",
+			"6211458a-a6b5-468a-a670-0543738a8c7f",
+			"45bd4be6-76c9-446b-ab3f-26809e8177b4",
+			"cd726eea-e46b-4b34-bd65-4c53aa0837f0",
+			"c680ed0b-da33-4154-8667-67ccd8d3dba2"
+		],
+		"title": "Latijn",
+		"id": "b8f0df92-d801-4ff6-b1c3-dc9b1da79c19",
+		"description": "",
+		"replaces": [
+			"0150f55b-9ee5-4f65-8a6f-90bbc70275bd"
 		]
 	},
 	{
@@ -292,13 +222,141 @@
 			"19999c18-199d-46cb-90cf-fb469a39e827",
 			"5f9157b9-0eb8-4a4e-852e-55ad8a29f224",
 			"82d6429e-6237-4c05-a3b3-56b02962e09d",
-			"f3c98c0b-4a8c-495e-b6a5-788e43686ff1",
+			"6e8601ad-cae0-40af-9c35-983c24f86759",
 			"b4df47ac-8777-4f33-97cd-30148c07d1e1"
 		],
 		"title": "Geschiedenis",
-		"id": "a79c3e65-a531-451f-9b8a-77d82100b81c",
+		"id": "325755c6-01d6-43be-85b3-2639f402fee8",
 		"replaces": [
-			"edb2383a-618c-467e-bccd-b0bab8b10218"
+			"edb2383a-618c-467e-bccd-b0bab8b10218",
+			"a79c3e65-a531-451f-9b8a-77d82100b81c"
+		]
+	},
+	{
+		"vakleergebied_id": "0552d51c-e6e8-4cfd-8a4b-dd3520dd0039",
+		"ldk_vakkern_id": [
+			"d9e937fc-dc6c-42b6-b5fa-6233a13e31a9",
+			"54bf6596-51ca-4223-8463-1cd54c465483",
+			"8746d368-c651-4378-af64-a22a691a69ef",
+			"4cbb442d-e4aa-40da-bac5-3508146b0f28",
+			"d3693c9e-6d77-4fec-81c3-ae7b93eb1e95",
+			"334766a9-ab11-4784-97ba-2b7c80966292"
+		],
+		"title": "Bedrijfseconomie",
+		"id": "0cd871b7-0790-4ea5-adb9-8eed6f27eb77",
+		"replaces": [
+			"22e1c867-e2cc-4ff1-a248-bad8773efa64"
+		]
+	},
+	{
+		"prefix": "wisB",
+		"vakleergebied_id": "ccda2b02-3aa8-44bc-adfa-844565c292d0",
+		"ldk_vakkern_id": [
+			"f383710c-4233-4a15-bcd8-d5d5db729f08",
+			"d4b277a5-0874-4e68-96f7-82c150d0e046",
+			"dd70f88a-d1a5-4319-be09-8c957b11cb47",
+			"79489d04-fc4a-4f33-bf32-614a36e50f3a",
+			"2497a452-34d0-493b-a015-4ba764a06859"
+		],
+		"title": "Wiskunde B",
+		"id": "9ebb22c4-3081-4c24-8415-57a3da7f513f",
+		"replaces": [
+			"3ea6a1fb-3f1e-4561-b495-2a4679710304"
+		]
+	},
+	{
+		"vakleergebied_id": "91e9afb9-a8ab-4fde-aa97-9884a8920b78",
+		"ldk_vakkern_id": [
+			"2d3b9e8f-7ed2-461c-9501-e59889e6bd28",
+			"baaec8b8-b12e-4d5d-999b-2df8d029a9d8",
+			"ac0ac0c3-8d47-447b-8540-7ed7389a1718",
+			"6a5b909a-4cef-4582-9c9c-0a3e4c2cdc24",
+			"6876233c-d798-4207-b4c5-368540b5d7c9"
+		],
+		"title": "Duits",
+		"id": "4bf68519-f27e-4213-b9ef-c39371dd52c7",
+		"replaces": [
+			"dca94895-40b9-4001-97ac-149f38bef782",
+			"0c084271-da7f-47af-bdbd-d9b075574959"
+		]
+	},
+	{
+		"vakleergebied_id": "f851676e-b541-42db-986a-5c468974f65e",
+		"ldk_vakkern_id": [
+			"098d4d88-b715-493f-acf7-18a8f786caed",
+			"0d57e974-2dc5-428f-bfaa-c5d148589b97",
+			"7de7b3fb-bf81-420d-9d7b-015e5189e126",
+			"0c93ed53-0a0f-461c-a5b8-ee262027e3cb",
+			"e7e52405-9ef4-4e9e-862f-da87b44d1068"
+		],
+		"title": "Frans",
+		"id": "5b7e63ca-499e-4524-ab62-3fa443c1bd91",
+		"replaces": [
+			"2de8c75e-40f8-4a3b-a913-4f9138f95b36",
+			"85fd9942-9663-464c-9183-4b82c49de242"
+		]
+	},
+	{
+		"prefix": "en",
+		"vakleergebied_id": "cfaf3202-4c14-4f7e-b783-91ad1dc93779",
+		"ldk_vakkern_id": [
+			"10f2449f-33e1-40d7-8079-025627651867",
+			"1f546f35-96ab-41db-bda9-8cf9a323367f",
+			"71f4b4e1-fa5e-40ad-ad0e-3cd855008c45",
+			"bd6f28df-8ab9-4ece-80dd-126ec347644b",
+			"c1978ddb-1739-41b5-b61b-1507054192a0"
+		],
+		"title": "Engels",
+		"id": "372cbac8-0b15-41d8-89ba-6bf49802bcbd",
+		"description": "",
+		"replaces": [
+			"9db0f649-ba16-4885-ae88-c8dbc671debd",
+			"00302e24-89fe-4e5c-8615-963e4884ad01"
+		]
+	},
+	{
+		"prefix": "ec",
+		"vakleergebied_id": "8755f202-3f28-405d-929e-990ee4fdc521",
+		"ldk_vakkern_id": [
+			"c7ea1215-78aa-486a-bc81-99a1cc2241c8",
+			"0b71c483-89d1-4c02-bd27-6caf8db2b804",
+			"71c892b1-e1ee-49fe-bf22-ba0afff90511",
+			"8abcf90d-3a84-4d7a-be99-723e278db9da",
+			"2c8fb0b7-8453-41fb-bef8-cfd0b178f603",
+			"5539c4ec-def4-439a-b135-a567d5ad54ae",
+			"3ba04635-aee3-4db0-8063-1974e388337f",
+			"42855ef3-928e-4c92-8927-705d940d997b",
+			"f40b9f5e-6b90-473f-8d1f-1fc7939ffd31",
+			"6311b5c0-73e4-431c-8617-a23f7ee2dd1c",
+			"23c2f5be-3193-4096-b723-fa93d08c556d",
+			"f42d5ef7-3ea5-4da5-a2e0-c2638a8c4e83",
+			"bf9c29d5-3381-4da4-bbdf-b6ec4a92d26d",
+			"0782985c-8b4f-493a-9e32-61697b8c4b6e",
+			"63b18cb1-c535-46ac-8615-88fe3fba744d",
+			"c83daff4-9b34-4e2b-97c2-41945e827d90"
+		],
+		"title": "Economie",
+		"id": "f28b1db3-3b27-44e6-9d0f-7a3db58df64b",
+		"replaces": [
+			"45023834-da3d-4fa6-972c-7f998c55a0f9",
+			"cfeb15d6-7223-4e47-9287-69d5bedf696a"
+		]
+	},
+	{
+		"prefix": "wisA",
+		"vakleergebied_id": "5c1c7ee9-7fbc-4554-be0a-fb872b31b8ba",
+		"ldk_vakkern_id": [
+			"77646479-b445-456c-91f3-c039d7b23b52",
+			"455a3a23-e959-4d04-ace3-40659a7189cd",
+			"8769bb13-76f2-47e7-8955-9f8849b34ed2",
+			"dc0bda6c-a5e6-4240-b647-b1b0f073c553",
+			"a120616c-275f-4d84-bf1b-c82f39f6abfd"
+		],
+		"title": "Wiskunde A",
+		"id": "4e31668a-c447-41bf-8b51-a22b9f7e4841",
+		"replaces": [
+			"d15073fc-56b7-412d-913f-5da37818fbc0",
+			"01a446f2-52df-42d5-a63d-8fffd0bb6da0"
 		]
 	},
 	{
@@ -307,50 +365,18 @@
 		"ldk_vakkern_id": [
 			"41377101-1eb7-4c77-b532-fbdd5be31a7d",
 			"a78dbbea-998d-4006-bf0d-02a0dc6247ec",
-			"84c18bff-604c-4141-a046-19dbece98563",
-			"9b386f49-6c55-4629-8e8f-33e6869a8bd6",
+			"2687299a-f921-41d4-9b0d-4df0743f6b8d",
+			"e0573d28-a47e-4cb3-967c-e9b26805855c",
 			"47451e81-9c84-4474-a511-f4cb22ed4bb9",
-			"a5543d59-30b4-494c-9347-757ab9855bad",
+			"d2ae23d6-f104-42e1-aa78-775fcf137b92",
 			"fefb80a8-cec3-4210-88e2-ee6cbe6775ca"
 		],
 		"title": "Nederlands",
-		"id": "5b341439-5ace-4a12-8998-b456d8eac608",
+		"id": "9f638551-cd79-439a-a41e-b11e29899164",
 		"description": "",
 		"replaces": [
-			"6b1060a2-c615-4989-9bc4-3a669891b323"
-		]
-	},
-	{
-		"prefix": "wisC",
-		"ldk_vakkern_id": [
-			"aa3f653b-b8fa-4ef9-ba0f-f31a10de1423",
-			"14cdc467-8a01-4ef7-8588-1bf8a2dbd92e",
-			"b5b4933c-7b3f-4463-8cbb-6592faea276e",
-			"cf10445f-6314-4721-8e3e-ed98ebefbda7",
-			"e17a13b2-64bc-45f0-b638-35af3e7fffe6",
-			"b522b789-f467-420b-b26f-1d1b03404e08",
-			"4619b78b-e4df-4dac-8c32-a2806051cbe2"
-		],
-		"title": "Wiskunde C",
-		"id": "c6a001a6-52b5-4555-9fa6-135a88b4d6dc",
-		"replaces": [
-			"0804d7ca-6d82-47a9-9a57-e8e5956b4955"
-		]
-	},
-	{
-		"prefix": "wisA",
-		"vakleergebied_id": "5c1c7ee9-7fbc-4554-be0a-fb872b31b8ba",
-		"ldk_vakkern_id": [
-			"a61dcc34-2b37-40d0-a404-536ac5d47a30",
-			"da5e859e-cab1-4d4e-8999-25d9e906bb3b",
-			"b3ad4dde-5830-414a-bce0-bb5df4df5e7f",
-			"90723117-0a74-470b-b363-52c0dc114aad",
-			"c3e80b4b-cac9-4063-9ece-b05c0941c7cf"
-		],
-		"title": "Wiskunde A",
-		"id": "01a446f2-52df-42d5-a63d-8fffd0bb6da0",
-		"replaces": [
-			"d15073fc-56b7-412d-913f-5da37818fbc0"
+			"6b1060a2-c615-4989-9bc4-3a669891b323",
+			"5b341439-5ace-4a12-8998-b456d8eac608"
 		]
 	}
 ]
