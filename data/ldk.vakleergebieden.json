@@ -62,24 +62,6 @@
 		]
 	},
 	{
-		"prefix": "bio",
-		"vakleergebied_id": "41dd7292-3cce-411b-8097-11db8c875a89",
-		"ldk_vakkern_id": [
-			"10311b2a-73de-4546-a877-eb0354b5ce18",
-			"c6ababf4-a6df-433e-a5a3-4d700f7c8614",
-			"8fd8de24-f233-4cf0-bf0d-edc63b183d61",
-			"c15e4a90-3159-4cf1-8405-9daa710bc32a",
-			"b03b6b88-c572-4b92-8ded-582a8ae5ca3c",
-			"31c904cc-0bc2-4a05-950c-e1866ce0e093"
-		],
-		"title": "Biologie",
-		"id": "e37866c2-7736-4289-9f85-793c7d05017e",
-		"replaces": [
-			"826b457d-6e3f-431a-ac4b-39ddc3110b8a",
-			"7111df44-f92a-4c45-a354-7bf0e3def6dd"
-		]
-	},
-	{
 		"prefix": "nask1",
 		"vakleergebied_id": "b362c478-90c9-45ac-855a-79421d23ed07",
 		"ldk_vakkern_id": [
@@ -209,30 +191,6 @@
 		]
 	},
 	{
-		"prefix": "gs",
-		"vakleergebied_id": "1c445505-16f2-4d3f-b6cf-8623ca317140",
-		"ldk_vakkern_id": [
-			"bc485cfc-15b8-4de0-a115-4c01aff5bf95",
-			"a900a33d-1986-4380-afdc-ae8f37ca76da",
-			"56f5c7cd-e363-4fd8-9e7d-ddbb219593aa",
-			"129e03c0-4a02-449b-b037-9489626c8649",
-			"6c75913a-1d78-45f0-9958-0ef6ec27fa5e",
-			"9ef204f1-8d6f-4d79-95d6-9d958a826bb3",
-			"8aad6054-cdad-4fcf-b596-ce777bf2344b",
-			"19999c18-199d-46cb-90cf-fb469a39e827",
-			"5f9157b9-0eb8-4a4e-852e-55ad8a29f224",
-			"82d6429e-6237-4c05-a3b3-56b02962e09d",
-			"6e8601ad-cae0-40af-9c35-983c24f86759",
-			"b4df47ac-8777-4f33-97cd-30148c07d1e1"
-		],
-		"title": "Geschiedenis",
-		"id": "325755c6-01d6-43be-85b3-2639f402fee8",
-		"replaces": [
-			"edb2383a-618c-467e-bccd-b0bab8b10218",
-			"a79c3e65-a531-451f-9b8a-77d82100b81c"
-		]
-	},
-	{
 		"vakleergebied_id": "0552d51c-e6e8-4cfd-8a4b-dd3520dd0039",
 		"ldk_vakkern_id": [
 			"d9e937fc-dc6c-42b6-b5fa-6233a13e31a9",
@@ -246,22 +204,6 @@
 		"id": "0cd871b7-0790-4ea5-adb9-8eed6f27eb77",
 		"replaces": [
 			"22e1c867-e2cc-4ff1-a248-bad8773efa64"
-		]
-	},
-	{
-		"prefix": "wisB",
-		"vakleergebied_id": "ccda2b02-3aa8-44bc-adfa-844565c292d0",
-		"ldk_vakkern_id": [
-			"f383710c-4233-4a15-bcd8-d5d5db729f08",
-			"d4b277a5-0874-4e68-96f7-82c150d0e046",
-			"dd70f88a-d1a5-4319-be09-8c957b11cb47",
-			"79489d04-fc4a-4f33-bf32-614a36e50f3a",
-			"2497a452-34d0-493b-a015-4ba764a06859"
-		],
-		"title": "Wiskunde B",
-		"id": "9ebb22c4-3081-4c24-8415-57a3da7f513f",
-		"replaces": [
-			"3ea6a1fb-3f1e-4561-b495-2a4679710304"
 		]
 	},
 	{
@@ -377,6 +319,67 @@
 		"replaces": [
 			"6b1060a2-c615-4989-9bc4-3a669891b323",
 			"5b341439-5ace-4a12-8998-b456d8eac608"
+		]
+	},
+	{
+		"prefix": "bio",
+		"vakleergebied_id": "41dd7292-3cce-411b-8097-11db8c875a89",
+		"ldk_vakkern_id": [
+			"aab74985-25f1-4d93-8464-f467731cfadf",
+			"009f354c-539e-4b38-9754-12e611155704",
+			"3290109a-b17f-4044-9fed-43e9c5b8120b",
+			"f2d5b5e1-0068-4f02-a19d-34a89f946983",
+			"828376a9-f41e-4616-9295-0bc334988771",
+			"31c904cc-0bc2-4a05-950c-e1866ce0e093"
+		],
+		"title": "Biologie",
+		"id": "49b05a46-4329-4fd9-bd58-453a8993d7c4",
+		"replaces": [
+			"826b457d-6e3f-431a-ac4b-39ddc3110b8a",
+			"7111df44-f92a-4c45-a354-7bf0e3def6dd",
+			"e37866c2-7736-4289-9f85-793c7d05017e"
+		]
+	},
+	{
+		"prefix": "gs",
+		"vakleergebied_id": "1c445505-16f2-4d3f-b6cf-8623ca317140",
+		"ldk_vakkern_id": [
+			"bc485cfc-15b8-4de0-a115-4c01aff5bf95",
+			"a900a33d-1986-4380-afdc-ae8f37ca76da",
+			"56f5c7cd-e363-4fd8-9e7d-ddbb219593aa",
+			"129e03c0-4a02-449b-b037-9489626c8649",
+			"6c75913a-1d78-45f0-9958-0ef6ec27fa5e",
+			"9ef204f1-8d6f-4d79-95d6-9d958a826bb3",
+			"8aad6054-cdad-4fcf-b596-ce777bf2344b",
+			"f6c32a10-3c23-4b93-9f45-89a8142734b1",
+			"681e1c71-3ffb-49af-a03c-e2f0399b94a7",
+			"3183bc3d-46eb-41da-8dfb-03c5686622e2",
+			"76ac85d8-a9c7-4131-9879-4561d9ef8617",
+			"b4df47ac-8777-4f33-97cd-30148c07d1e1"
+		],
+		"title": "Geschiedenis",
+		"id": "c1a28b2e-a1fa-454f-af11-9f20b297e17c",
+		"replaces": [
+			"edb2383a-618c-467e-bccd-b0bab8b10218",
+			"a79c3e65-a531-451f-9b8a-77d82100b81c",
+			"325755c6-01d6-43be-85b3-2639f402fee8"
+		]
+	},
+	{
+		"prefix": "wisB",
+		"vakleergebied_id": "ccda2b02-3aa8-44bc-adfa-844565c292d0",
+		"ldk_vakkern_id": [
+			"f383710c-4233-4a15-bcd8-d5d5db729f08",
+			"d4b277a5-0874-4e68-96f7-82c150d0e046",
+			"dd70f88a-d1a5-4319-be09-8c957b11cb47",
+			"79489d04-fc4a-4f33-bf32-614a36e50f3a",
+			"4107c2fd-aab1-436f-8e5c-59b31fd97c37"
+		],
+		"title": "Wiskunde B",
+		"id": "8b6113a9-3e7c-4aef-b172-0ecea9c07fda",
+		"replaces": [
+			"3ea6a1fb-3f1e-4561-b495-2a4679710304",
+			"9ebb22c4-3081-4c24-8415-57a3da7f513f"
 		]
 	}
 ]

@@ -955,139 +955,6 @@
 		]
 	},
 	{
-		"prefix": "gs/8",
-		"ldk_vaksubkern_id": [
-			"f9801d06-0343-4aef-87d6-34aa57fc066e",
-			"f52de6fd-e76a-4622-90b6-c0b749b641b1",
-			"affd11a9-081b-41f1-9e92-5f37f49b45a9",
-			"424ff881-b87e-44cf-b4f9-bfb436cfe6e0",
-			"594a51af-5f9d-4f9f-84a7-a8f2004b2724",
-			"440fa2cf-ddb8-46d7-b4bd-bc82e8768121",
-			"0ec378d2-fe14-42de-8b1a-1d69ec20f1c1",
-			"94aab193-41cd-4a78-a080-7dfbc3577362",
-			"9849d4c2-4457-47f3-affd-7b8648fc3451",
-			"3b3b76f7-0bca-40c6-bf57-ceae54a1b1c2",
-			"adc60ea3-4a2c-41d9-a953-7eae0dbf775a"
-		],
-		"doelniveau_id": [
-			"e3ec9f31-27cc-4b56-82e0-1308e06ee79f",
-			"d52cbe7e-4786-4393-a940-087b1409ba33",
-			"331505c2-d8b2-4a25-9f1f-0d6835194ed7",
-			"33ec8ca6-5c84-495f-b4e2-55839d364592",
-			"3843488d-fad3-4ee2-bb9b-d1d2e006e340",
-			"d73a8ef9-6eb0-4f8e-b929-4dcb6d31f4f3",
-			"b18d18e0-14e3-4f99-b8e7-bf85e324856d",
-			"474fd64b-e540-4a54-b488-59252d2b5be7",
-			"9acebcfb-e174-4756-b615-c916d7cb3cab",
-			"c0b07382-0220-43aa-be99-efd7eb87fe88",
-			"57138af4-7424-4a46-861e-e591abf04e82",
-			"49ee7137-808d-4e75-b42f-03d8d5b2f0c7",
-			"3025c187-9fd5-418f-a270-7b398255a277",
-			"8843e28a-fea8-4d82-b557-50922e3377a6",
-			"fb6b4d07-f7d9-4a5a-ae9a-fe0abbf1cc8d",
-			"2b36e78f-0a31-4b36-8d6c-c163e5091971",
-			"c53d7299-beb2-4312-9af0-a79bc8ee075e"
-		],
-		"title": "Burgers en stoommachines (1800 - 1900)",
-		"id": "19999c18-199d-46cb-90cf-fb469a39e827",
-		"description": "",
-		"replaces": [
-			"821ce4e4-22b2-4489-a590-ca5f3c775b48"
-		]
-	},
-	{
-		"prefix": "gs/9",
-		"ldk_vaksubkern_id": [
-			"c0d00e37-ed45-4b3d-a632-8079f692563f",
-			"967a26c6-35f7-45a5-a4ff-38b1776aad2f",
-			"b5ee28ef-b440-4366-90c6-d1a1f45a5cbd",
-			"00738986-cd78-4504-a463-463032ccbe2d",
-			"5ab04242-f880-415d-9026-7d77ee74555d",
-			"d0c24170-5630-470b-8430-93598131da92",
-			"3ab1a582-933d-41ae-a1a1-89fccb09b2b7",
-			"ac19cb7b-e26f-486f-ba7d-7ec9621cc797",
-			"cf3d0dc4-30dc-4b62-8c9b-1640a955f3f6",
-			"d21c9e72-6953-4dbb-94fe-af835bee0715",
-			"cc409b87-e49d-4b6b-8a93-e82909bb7ac6",
-			"db485a1a-e81b-48b3-b3b5-1e50db5a698e",
-			"dcc6003c-1e60-4f8e-96e0-cef98e423430",
-			"6513fdb1-e5b1-48d2-ad40-693566ea15d4",
-			"a08cc3c5-778d-4f3e-ae3b-9c2c092c6216",
-			"d0d396b9-cfd6-457c-ab9c-2ad046483a8f",
-			"ec24dd7e-116d-4123-ac70-ec0bdb1543c5"
-		],
-		"doelniveau_id": [
-			"d52cbe7e-4786-4393-a940-087b1409ba33",
-			"3f411743-ca87-4e91-b545-6608c2f5bc78",
-			"d0c68b18-a0cd-47b0-afa2-089f3d46cd31",
-			"d5174c44-343d-4eef-8f00-69ec282db497",
-			"0320777a-d4cb-4607-8e87-bbba35baeea7",
-			"1590f017-5061-4818-86a3-8f8c90c1497c",
-			"691c7497-fd25-4315-9e76-d5adb18ee3e0",
-			"1e24ad2a-d86a-45d9-a23b-b122df0d5914",
-			"f27c4af3-6355-4682-a072-5401dd4da46d",
-			"499f17c8-8f91-4b62-825a-67ab315080d1",
-			"b51e0120-58d0-47dd-bb07-1a201d752b73",
-			"97168818-6752-4b58-83e8-2f01faf80824",
-			"b4876fff-4939-487f-b237-aa19aec65b31",
-			"6f15519f-c215-4f4f-a4c7-3a223367fbf4",
-			"bbea2743-7974-416c-8480-c0d74427fc5c",
-			"6c250918-89e4-49b3-8bd1-06452b1547b3",
-			"b61f5cfa-2214-4dfb-89d4-18cd13997ae7",
-			"8491fbdd-2b69-4053-ba03-01313df95c20",
-			"48e0b2a5-8032-4df1-8b5b-a6f93b3d4180"
-		],
-		"title": "Wereldoorlogen (1900 -1950)",
-		"id": "5f9157b9-0eb8-4a4e-852e-55ad8a29f224",
-		"description": "",
-		"replaces": [
-			"e75ae8ad-017b-4ef5-bc03-84c67216c90a"
-		]
-	},
-	{
-		"prefix": "gs/10",
-		"ldk_vaksubkern_id": [
-			"601bdb85-2fe3-4909-b2ee-c095766de527",
-			"2532a234-87fb-4ea5-ad7c-be872bb8ae37",
-			"75903225-2897-444f-8837-44eedfd29dce",
-			"3332a34b-f5ad-4bd0-a980-68af2f85b5e8",
-			"00bef476-62b7-4f75-994e-f84fbdf9fae4",
-			"38983bff-3512-406e-b3d8-e488f98d211a",
-			"a33758b2-5fa7-4eb1-8493-eac12b37fae5",
-			"6185cf4f-9120-4b06-8cdc-b30fabee1a5c",
-			"11e9a0d7-d1e6-4af4-9f92-2d4c6d30928e",
-			"4744d496-46b9-4acf-a99c-a02d9591c028",
-			"f5689a6f-e98c-4a26-8c42-d32fe56d05fb",
-			"27f5b4cf-8cd0-4271-98f2-0b92753bcc7e",
-			"51530f09-bf2c-4d9f-9e00-4099230dda97"
-		],
-		"doelniveau_id": [
-			"d52cbe7e-4786-4393-a940-087b1409ba33",
-			"40073369-74cb-4ec9-86b6-60a356f767c1",
-			"7e0367dd-ab91-40c9-93b7-059d4c09b6f2",
-			"37cc1774-1632-4f8d-a92c-46ad2f670cb7",
-			"662e6829-ef5e-4ae9-969d-b92b8f08bf85",
-			"331a85b7-19b9-4ebe-bd32-ad37d5f8aee3",
-			"00b90254-0fe6-47b0-9bba-a2e9ae35d38e",
-			"3e5a53c1-d208-4f3c-9359-6b74dc42aa26",
-			"075bfbfa-1f22-4c9b-a767-5db29e6725e6",
-			"0711dbd7-3115-4ca9-9724-16553770d5e7",
-			"4c4dcf14-822e-4cb2-9dff-736805e8e1d8",
-			"16d0c9bb-3a52-487e-9014-8ecda4caa0e1",
-			"85d6c06e-b928-49d3-9d4b-8e738364efe1",
-			"aab30047-fa03-4b5b-bb8a-6741bf895cc5",
-			"2ce36012-a3f0-4586-920f-a13d92b32772",
-			"cfed7ca8-505f-4872-a4e4-29a8fa1a2ca7",
-			"c53d7299-beb2-4312-9af0-a79bc8ee075e"
-		],
-		"title": "Televisie en computer (vanaf 1950)",
-		"id": "82d6429e-6237-4c05-a3b3-56b02962e09d",
-		"description": "",
-		"replaces": [
-			"e01e74c3-97aa-49ce-a502-101f713f7a69"
-		]
-	},
-	{
 		"prefix": "ne/1",
 		"ldk_vaksubkern_id": [
 			"40a18951-d293-4533-bee4-141d951f40e4",
@@ -1304,191 +1171,6 @@
 		"replaces": [
 			"2884d096-75f1-4503-ab80-505e466d0a25",
 			"0e5e53ed-2dda-4f92-be45-d91a3c6488af"
-		]
-	},
-	{
-		"prefix": "bio/1",
-		"ldk_vaksubkern_id": [
-			"d145fd20-a506-451c-8a69-db51d53ccc9a",
-			"63dba5e8-9ba4-40ca-9e01-9b4a60f404f4",
-			"f3a435b7-4121-4a74-a2bf-65aa8c7b1c39",
-			"ee87fd7e-5a02-4b86-85ae-2dbf73ea811a",
-			"c1fbf8b1-b55f-4099-9890-357ed0359941",
-			"c0ee8516-74da-4753-bc07-dbe114f505c0",
-			"4650fe04-236d-4a3a-8fa1-5ccfa9ed4445",
-			"216a8157-7993-47ff-9fbc-4087f3506618"
-		],
-		"doelniveau_id": [
-			"4390f4d1-3937-4161-b4e1-128d992e080c",
-			"1ef5f795-1ffb-488a-910f-f5ff44883ee3",
-			"ceee1e27-9246-4fc2-b5d3-264c7791fde6",
-			"89ee5502-ed71-40f9-9642-9cab2ffc0c9a",
-			"d7e833de-d47d-4478-8bca-a5fd6dcde3a0",
-			"7515a13e-5eb9-4c6b-93bd-787515d70736",
-			"0a391daa-8292-4ff8-9f9b-7ccaa181c111",
-			"7e43e949-fe69-45b9-9dbc-b4d4ff863b4f",
-			"194199b7-3861-4f78-902a-0d3666d57f99",
-			"1a18b8cd-c8e8-47e5-88e6-a1e39d882e62",
-			"17480b02-b614-46f0-9f3a-d7e0eff53f12",
-			"2153cbe1-1929-41c8-a528-bf6f869400f8"
-		],
-		"title": "Biologische eenheid",
-		"id": "10311b2a-73de-4546-a877-eb0354b5ce18",
-		"description": "",
-		"replaces": [
-			"e54b4bd2-f6bb-4d6c-91f9-449c6283db2c",
-			"bb47b50a-320e-48fa-897f-b6f4bb5721d7"
-		]
-	},
-	{
-		"prefix": "bio/2",
-		"ldk_vaksubkern_id": [
-			"5e19f2f1-8816-40f8-b2f2-962d625a05ba",
-			"d5d385b8-6a5c-4aeb-a864-22daed0ff74a",
-			"33f747f0-f8b6-4851-9145-c25f874631b1",
-			"68d278f0-afe9-45f4-81c0-c3f2f62d0a72",
-			"a87af191-233c-4e3d-9d31-3359825f66c2",
-			"4df3f451-52de-4137-934d-3d46135b5d36",
-			"0bdeaf87-eed5-4925-8812-b4a8bdc8f077",
-			"db0e12e3-abaa-490f-a984-9b19992530f3",
-			"e90a3700-e6ed-4e19-b9be-15ff45f0ad6f",
-			"e18df217-fadc-47c0-8d33-caa6436c22b6"
-		],
-		"doelniveau_id": [
-			"da1692d8-5c03-49aa-a41d-981b46785915",
-			"24533140-510f-446f-8eb0-78bbfa9de235",
-			"104cbd1c-5474-45e3-9ca9-ebfed6e080ee",
-			"c5a990de-6f3e-4481-8d90-9ec52022c19c",
-			"a10c319c-df79-4f13-800d-794e7b185c29",
-			"26b034fb-c6c9-4391-ad89-aa6a8d68304b",
-			"04a5c1e6-8cc2-4a05-b02a-8a9137c01124",
-			"4c801618-85ee-4357-8cb7-47ad7f58dd16",
-			"d61e161a-0d50-496c-989f-b1c8be5caa71",
-			"88932552-c9e2-4cfe-8a91-ade83231e684",
-			"3dceb57e-a2e0-4a62-a389-d6fd93fe8648",
-			"079930d9-5f0b-4288-bbc6-3628ed9b9bae",
-			"ae506acc-2bea-4312-9958-138f872c4083",
-			"2ef18463-56e4-4765-9eec-225a710991f8",
-			"42302483-a8a5-44dd-9d0e-cc767ada8fc2",
-			"4390f4d1-3937-4161-b4e1-128d992e080c",
-			"1ef5f795-1ffb-488a-910f-f5ff44883ee3",
-			"ceee1e27-9246-4fc2-b5d3-264c7791fde6"
-		],
-		"title": "Instandhouding",
-		"id": "c6ababf4-a6df-433e-a5a3-4d700f7c8614",
-		"description": "",
-		"replaces": [
-			"aff75f4d-f98c-4bb3-9416-c580bc693e52",
-			"de0e5a32-7393-4136-a3e8-fa36de92aeda"
-		]
-	},
-	{
-		"prefix": "bio/3",
-		"ldk_vaksubkern_id": [
-			"e9155b43-0675-4146-8963-488c3f53abe1",
-			"eeededa9-5152-4335-a297-23b4c99c3b12",
-			"9e26c8d4-252a-4fca-8fff-4ac7be273c40",
-			"aad9f807-284f-40dd-9642-b59f46fc336f",
-			"a74e0646-5d74-4f96-a3bc-95789318f531"
-		],
-		"doelniveau_id": [
-			"b5f44fb6-cbfd-4536-bc6b-86a3d4fa3742",
-			"3f8e1d5f-0e50-4b71-b7b3-54f35089fc58",
-			"f570ed49-bee6-41da-b2d6-5d0cef131ecf",
-			"05b42feb-a27e-4923-9d3e-f91a30e59aa7",
-			"34a8c5da-488b-4bc9-8276-92c7461f026b",
-			"70094761-7c4f-4013-b371-bf6d5b1c7b96",
-			"63a5da24-6162-4f05-8f86-434af719c133",
-			"d0a31b2d-79e6-4902-be47-b8ef3704b22f",
-			"21856642-ca3d-4478-a9b9-41a6cd6ba8c9",
-			"b9bc7f75-ee7d-49c5-b478-e482ced0fbd5",
-			"dd223fae-dc8a-4d51-aa60-5e1a2aba162c",
-			"07b11586-897c-46e7-891c-c4dc71d1d4b7",
-			"7127bfd5-09ac-4496-93ba-6e38f2c4f99a",
-			"8b739bf9-5dce-4fe8-820e-8fa82c913de2",
-			"4390f4d1-3937-4161-b4e1-128d992e080c",
-			"1ef5f795-1ffb-488a-910f-f5ff44883ee3",
-			"da1692d8-5c03-49aa-a41d-981b46785915",
-			"ceee1e27-9246-4fc2-b5d3-264c7791fde6"
-		],
-		"title": "Interactie",
-		"id": "8fd8de24-f233-4cf0-bf0d-edc63b183d61",
-		"description": "",
-		"replaces": [
-			"6f55977d-598f-46eb-9d69-40282827f0ef",
-			"72ed2285-f9fb-4a87-8f77-ca928c2af552"
-		]
-	},
-	{
-		"prefix": "bio/4",
-		"ldk_vaksubkern_id": [
-			"3c3d5876-70a3-4627-9308-c847f0ae10cc",
-			"e1c2635a-b532-4d39-b7de-e1525d7a332a",
-			"d9717915-a725-4b95-a566-dc69533a4003",
-			"a3b1e540-22a0-4a31-b7c1-cc0c2e1acc93",
-			"ae592a26-648e-4b27-9fad-758082bfd3df"
-		],
-		"doelniveau_id": [
-			"8d999ead-0268-4f92-a437-b9a92feb3e3f",
-			"082b4ace-ccae-482e-989e-41f07e06fde4",
-			"e3ec9f31-27cc-4b56-82e0-1308e06ee79f",
-			"16216191-26ec-4998-8761-997b9e101eb8",
-			"ab9d7e06-0f24-43de-b509-1dc0075df4d7",
-			"a53df48a-8523-4f38-a06a-913bfe602ac5",
-			"531a1288-a0e2-4642-9155-2513e4afae63",
-			"40ea32cb-a8c8-4158-9d2a-b82f12788b23",
-			"2c66597d-5a5a-4d54-8d2b-b0adc42ac987",
-			"41cd8db7-5114-4771-bb28-bddb2f821f41",
-			"24f51ae5-96b3-4449-b103-97e592b8cc15",
-			"2e009ea5-661a-4c3f-ba05-34808b4fb10a",
-			"e2b6abc6-7b36-4788-aa74-914f4547ab0a",
-			"de6ee130-b822-4903-aaf7-5b61e29378c2",
-			"7eb2d969-2cd9-40fb-b1aa-a24f1604f6fa",
-			"7cc02797-0151-4b5e-b2ba-8b0b1b36e52d",
-			"b2afad6b-e21a-4a42-b8ec-2f82ee865cd2",
-			"31330eb4-35b9-445d-8651-23507d7c0159",
-			"4390f4d1-3937-4161-b4e1-128d992e080c",
-			"1ef5f795-1ffb-488a-910f-f5ff44883ee3"
-		],
-		"title": "Voortplanting",
-		"id": "c15e4a90-3159-4cf1-8405-9daa710bc32a",
-		"description": "",
-		"replaces": [
-			"afdd7caa-e9d7-4ee5-8dc7-e2f5500c1b47",
-			"198115b6-4f01-4b3e-8103-464b2c315b28"
-		]
-	},
-	{
-		"prefix": "bio/5",
-		"ldk_vaksubkern_id": [
-			"e80bb916-8fab-43ab-a572-5c61df7ef87c",
-			"a23a26c2-52d0-4c01-a520-ddb408d8fa9c"
-		],
-		"doelniveau_id": [
-			"ce29b4c4-1653-4658-8d6b-236eb1b3198d",
-			"97afe179-d534-4323-a917-0b65bc4f819e",
-			"e078482e-0cdf-4c6b-96dc-bcae405007bb",
-			"32ae2527-1a3f-404a-9cee-cf3e8062ae65",
-			"ba097036-d895-4412-8f9e-61c0793fae43",
-			"d7639fac-e222-4e25-a1df-6d679b83e1b1",
-			"5b17cee8-f3a1-47d7-9a9b-53a12e78c0d1",
-			"43c05feb-e6f2-432e-86dc-0b3ee7047d99",
-			"81e309df-7e05-49d0-9b33-9fae8ad7f79e",
-			"1d66bba1-82dc-4cb5-8a1f-cb04e9f08910",
-			"7ef85a24-947c-429b-abe5-0537013b97c4",
-			"585fd841-8e0a-4cfe-a5f7-05695d8eaab2",
-			"4390f4d1-3937-4161-b4e1-128d992e080c",
-			"8d999ead-0268-4f92-a437-b9a92feb3e3f",
-			"082b4ace-ccae-482e-989e-41f07e06fde4",
-			"1ef5f795-1ffb-488a-910f-f5ff44883ee3",
-			"e3ec9f31-27cc-4b56-82e0-1308e06ee79f"
-		],
-		"title": "Evolutie",
-		"id": "b03b6b88-c572-4b92-8ded-582a8ae5ca3c",
-		"description": "",
-		"replaces": [
-			"098d6383-6fc7-46b5-bf8d-6bb4107285b3",
-			"75052700-040b-4a07-9946-a20ceb1b3e2c"
 		]
 	},
 	{
@@ -2099,20 +1781,6 @@
 		]
 	},
 	{
-		"prefix": "gs/11",
-		"ldk_vaksubkern_id": [
-			"0d92bd39-e344-413e-afe2-6335306c34e1",
-			"e0c7396c-8a91-424f-98b2-4b964bbb0e28",
-			"4284a35a-8a53-4481-b57d-80b5e82129b7",
-			"1d4e9f2c-9e71-4576-a9cb-8e6131ed8d12"
-		],
-		"title": "Kenmerkende aspecten",
-		"id": "6e8601ad-cae0-40af-9c35-983c24f86759",
-		"replaces": [
-			"f3c98c0b-4a8c-495e-b6a5-788e43686ff1"
-		]
-	},
-	{
 		"prefix": "ltc/2",
 		"ldk_vaksubkern_id": [
 			"a33d093e-4529-4bb0-bac1-3b13c42a57c1",
@@ -2504,20 +2172,6 @@
 		"id": "79489d04-fc4a-4f33-bf32-614a36e50f3a",
 		"replaces": [
 			"89aa3ee2-5368-4b59-9462-b2a9e65533bc"
-		]
-	},
-	{
-		"prefix": "wisB/5",
-		"ldk_vaksubkern_id": [
-			"5ecbab56-b382-46b5-8ceb-43620f42638e",
-			"3f5f3c35-4627-43a4-86e4-3cc7b8974586",
-			"bd2f9027-7e8e-4377-af8d-ad742b28eb44",
-			"629a1b6d-0ea2-4dc4-a8d0-8ac6438de3f3"
-		],
-		"title": "Analyse",
-		"id": "2497a452-34d0-493b-a015-4ba764a06859",
-		"replaces": [
-			"5fbaaaf3-bd6e-49a1-bf6a-fbbefbe5bf3e"
 		]
 	},
 	{
@@ -3153,6 +2807,362 @@
 		"replaces": [
 			"4d4ae76d-544a-4eac-ba95-d33cf15d5268",
 			"a5543d59-30b4-494c-9347-757ab9855bad"
+		]
+	},
+	{
+		"prefix": "bio/1",
+		"ldk_vaksubkern_id": [
+			"a01be09b-379f-41e3-89b3-c260d394fe12",
+			"63dba5e8-9ba4-40ca-9e01-9b4a60f404f4",
+			"f3a435b7-4121-4a74-a2bf-65aa8c7b1c39",
+			"eedc2958-a564-4244-92fb-af3eeea7cac9",
+			"c1fbf8b1-b55f-4099-9890-357ed0359941",
+			"c0ee8516-74da-4753-bc07-dbe114f505c0",
+			"4650fe04-236d-4a3a-8fa1-5ccfa9ed4445",
+			"216a8157-7993-47ff-9fbc-4087f3506618"
+		],
+		"doelniveau_id": [
+			"4390f4d1-3937-4161-b4e1-128d992e080c",
+			"1ef5f795-1ffb-488a-910f-f5ff44883ee3",
+			"ceee1e27-9246-4fc2-b5d3-264c7791fde6",
+			"89ee5502-ed71-40f9-9642-9cab2ffc0c9a",
+			"d7e833de-d47d-4478-8bca-a5fd6dcde3a0",
+			"7515a13e-5eb9-4c6b-93bd-787515d70736",
+			"0a391daa-8292-4ff8-9f9b-7ccaa181c111",
+			"7e43e949-fe69-45b9-9dbc-b4d4ff863b4f",
+			"194199b7-3861-4f78-902a-0d3666d57f99",
+			"1a18b8cd-c8e8-47e5-88e6-a1e39d882e62",
+			"17480b02-b614-46f0-9f3a-d7e0eff53f12",
+			"2153cbe1-1929-41c8-a528-bf6f869400f8"
+		],
+		"title": "Biologische eenheid",
+		"id": "aab74985-25f1-4d93-8464-f467731cfadf",
+		"description": "",
+		"replaces": [
+			"e54b4bd2-f6bb-4d6c-91f9-449c6283db2c",
+			"bb47b50a-320e-48fa-897f-b6f4bb5721d7",
+			"10311b2a-73de-4546-a877-eb0354b5ce18"
+		]
+	},
+	{
+		"prefix": "bio/3",
+		"ldk_vaksubkern_id": [
+			"e9155b43-0675-4146-8963-488c3f53abe1",
+			"eeededa9-5152-4335-a297-23b4c99c3b12",
+			"9e26c8d4-252a-4fca-8fff-4ac7be273c40",
+			"6c0f58c0-22b0-4c15-a641-fbf8a3565005",
+			"a74e0646-5d74-4f96-a3bc-95789318f531"
+		],
+		"doelniveau_id": [
+			"b5f44fb6-cbfd-4536-bc6b-86a3d4fa3742",
+			"3f8e1d5f-0e50-4b71-b7b3-54f35089fc58",
+			"f570ed49-bee6-41da-b2d6-5d0cef131ecf",
+			"05b42feb-a27e-4923-9d3e-f91a30e59aa7",
+			"34a8c5da-488b-4bc9-8276-92c7461f026b",
+			"70094761-7c4f-4013-b371-bf6d5b1c7b96",
+			"63a5da24-6162-4f05-8f86-434af719c133",
+			"d0a31b2d-79e6-4902-be47-b8ef3704b22f",
+			"21856642-ca3d-4478-a9b9-41a6cd6ba8c9",
+			"b9bc7f75-ee7d-49c5-b478-e482ced0fbd5",
+			"dd223fae-dc8a-4d51-aa60-5e1a2aba162c",
+			"07b11586-897c-46e7-891c-c4dc71d1d4b7",
+			"7127bfd5-09ac-4496-93ba-6e38f2c4f99a",
+			"8b739bf9-5dce-4fe8-820e-8fa82c913de2",
+			"4390f4d1-3937-4161-b4e1-128d992e080c",
+			"1ef5f795-1ffb-488a-910f-f5ff44883ee3",
+			"da1692d8-5c03-49aa-a41d-981b46785915",
+			"ceee1e27-9246-4fc2-b5d3-264c7791fde6"
+		],
+		"title": "Interactie",
+		"id": "3290109a-b17f-4044-9fed-43e9c5b8120b",
+		"description": "",
+		"replaces": [
+			"6f55977d-598f-46eb-9d69-40282827f0ef",
+			"72ed2285-f9fb-4a87-8f77-ca928c2af552",
+			"8fd8de24-f233-4cf0-bf0d-edc63b183d61"
+		]
+	},
+	{
+		"prefix": "bio/4",
+		"ldk_vaksubkern_id": [
+			"3c3d5876-70a3-4627-9308-c847f0ae10cc",
+			"d2ef0937-092a-433f-8730-e191723fdf76",
+			"d9717915-a725-4b95-a566-dc69533a4003",
+			"a3b1e540-22a0-4a31-b7c1-cc0c2e1acc93",
+			"ae592a26-648e-4b27-9fad-758082bfd3df"
+		],
+		"doelniveau_id": [
+			"8d999ead-0268-4f92-a437-b9a92feb3e3f",
+			"082b4ace-ccae-482e-989e-41f07e06fde4",
+			"e3ec9f31-27cc-4b56-82e0-1308e06ee79f",
+			"16216191-26ec-4998-8761-997b9e101eb8",
+			"ab9d7e06-0f24-43de-b509-1dc0075df4d7",
+			"a53df48a-8523-4f38-a06a-913bfe602ac5",
+			"531a1288-a0e2-4642-9155-2513e4afae63",
+			"40ea32cb-a8c8-4158-9d2a-b82f12788b23",
+			"2c66597d-5a5a-4d54-8d2b-b0adc42ac987",
+			"41cd8db7-5114-4771-bb28-bddb2f821f41",
+			"24f51ae5-96b3-4449-b103-97e592b8cc15",
+			"2e009ea5-661a-4c3f-ba05-34808b4fb10a",
+			"e2b6abc6-7b36-4788-aa74-914f4547ab0a",
+			"de6ee130-b822-4903-aaf7-5b61e29378c2",
+			"7eb2d969-2cd9-40fb-b1aa-a24f1604f6fa",
+			"7cc02797-0151-4b5e-b2ba-8b0b1b36e52d",
+			"b2afad6b-e21a-4a42-b8ec-2f82ee865cd2",
+			"31330eb4-35b9-445d-8651-23507d7c0159",
+			"4390f4d1-3937-4161-b4e1-128d992e080c",
+			"1ef5f795-1ffb-488a-910f-f5ff44883ee3"
+		],
+		"title": "Voortplanting",
+		"id": "f2d5b5e1-0068-4f02-a19d-34a89f946983",
+		"description": "",
+		"replaces": [
+			"afdd7caa-e9d7-4ee5-8dc7-e2f5500c1b47",
+			"198115b6-4f01-4b3e-8103-464b2c315b28",
+			"c15e4a90-3159-4cf1-8405-9daa710bc32a"
+		]
+	},
+	{
+		"prefix": "bio/5",
+		"ldk_vaksubkern_id": [
+			"e80bb916-8fab-43ab-a572-5c61df7ef87c",
+			"9cec1161-5993-40db-942b-c7c23e06708f"
+		],
+		"doelniveau_id": [
+			"ce29b4c4-1653-4658-8d6b-236eb1b3198d",
+			"97afe179-d534-4323-a917-0b65bc4f819e",
+			"e078482e-0cdf-4c6b-96dc-bcae405007bb",
+			"32ae2527-1a3f-404a-9cee-cf3e8062ae65",
+			"ba097036-d895-4412-8f9e-61c0793fae43",
+			"d7639fac-e222-4e25-a1df-6d679b83e1b1",
+			"5b17cee8-f3a1-47d7-9a9b-53a12e78c0d1",
+			"43c05feb-e6f2-432e-86dc-0b3ee7047d99",
+			"81e309df-7e05-49d0-9b33-9fae8ad7f79e",
+			"1d66bba1-82dc-4cb5-8a1f-cb04e9f08910",
+			"7ef85a24-947c-429b-abe5-0537013b97c4",
+			"585fd841-8e0a-4cfe-a5f7-05695d8eaab2",
+			"4390f4d1-3937-4161-b4e1-128d992e080c",
+			"8d999ead-0268-4f92-a437-b9a92feb3e3f",
+			"082b4ace-ccae-482e-989e-41f07e06fde4",
+			"1ef5f795-1ffb-488a-910f-f5ff44883ee3",
+			"e3ec9f31-27cc-4b56-82e0-1308e06ee79f"
+		],
+		"title": "Evolutie",
+		"id": "828376a9-f41e-4616-9295-0bc334988771",
+		"description": "",
+		"replaces": [
+			"098d6383-6fc7-46b5-bf8d-6bb4107285b3",
+			"75052700-040b-4a07-9946-a20ceb1b3e2c",
+			"b03b6b88-c572-4b92-8ded-582a8ae5ca3c"
+		]
+	},
+	{
+		"prefix": "gs/11",
+		"ldk_vaksubkern_id": [
+			"5557a368-ef37-45b2-823a-b7ac8be5d71d",
+			"71de0025-b1db-470a-a4f2-c106b4e79626",
+			"9c4d56fe-5a26-434c-908b-604f628318a4",
+			"d6fda685-b2f9-4291-8ceb-4fe5b25473d2"
+		],
+		"title": "Kenmerkende aspecten",
+		"id": "76ac85d8-a9c7-4131-9879-4561d9ef8617",
+		"replaces": [
+			"f3c98c0b-4a8c-495e-b6a5-788e43686ff1",
+			"6e8601ad-cae0-40af-9c35-983c24f86759"
+		]
+	},
+	{
+		"prefix": "gs/8",
+		"ldk_vaksubkern_id": [
+			"f9801d06-0343-4aef-87d6-34aa57fc066e",
+			"f52de6fd-e76a-4622-90b6-c0b749b641b1",
+			"affd11a9-081b-41f1-9e92-5f37f49b45a9",
+			"424ff881-b87e-44cf-b4f9-bfb436cfe6e0",
+			"326b4549-f473-4195-b60a-b4f606eaf5e5",
+			"440fa2cf-ddb8-46d7-b4bd-bc82e8768121",
+			"0ec378d2-fe14-42de-8b1a-1d69ec20f1c1",
+			"94aab193-41cd-4a78-a080-7dfbc3577362",
+			"9849d4c2-4457-47f3-affd-7b8648fc3451",
+			"3b3b76f7-0bca-40c6-bf57-ceae54a1b1c2",
+			"adc60ea3-4a2c-41d9-a953-7eae0dbf775a"
+		],
+		"doelniveau_id": [
+			"e3ec9f31-27cc-4b56-82e0-1308e06ee79f",
+			"d52cbe7e-4786-4393-a940-087b1409ba33",
+			"331505c2-d8b2-4a25-9f1f-0d6835194ed7",
+			"33ec8ca6-5c84-495f-b4e2-55839d364592",
+			"3843488d-fad3-4ee2-bb9b-d1d2e006e340",
+			"d73a8ef9-6eb0-4f8e-b929-4dcb6d31f4f3",
+			"b18d18e0-14e3-4f99-b8e7-bf85e324856d",
+			"474fd64b-e540-4a54-b488-59252d2b5be7",
+			"9acebcfb-e174-4756-b615-c916d7cb3cab",
+			"c0b07382-0220-43aa-be99-efd7eb87fe88",
+			"57138af4-7424-4a46-861e-e591abf04e82",
+			"49ee7137-808d-4e75-b42f-03d8d5b2f0c7",
+			"3025c187-9fd5-418f-a270-7b398255a277",
+			"8843e28a-fea8-4d82-b557-50922e3377a6",
+			"fb6b4d07-f7d9-4a5a-ae9a-fe0abbf1cc8d",
+			"2b36e78f-0a31-4b36-8d6c-c163e5091971",
+			"c53d7299-beb2-4312-9af0-a79bc8ee075e"
+		],
+		"title": "Burgers en stoommachines (1800 - 1900)",
+		"id": "f6c32a10-3c23-4b93-9f45-89a8142734b1",
+		"description": "",
+		"replaces": [
+			"821ce4e4-22b2-4489-a590-ca5f3c775b48",
+			"19999c18-199d-46cb-90cf-fb469a39e827"
+		]
+	},
+	{
+		"prefix": "gs/9",
+		"ldk_vaksubkern_id": [
+			"c0d00e37-ed45-4b3d-a632-8079f692563f",
+			"967a26c6-35f7-45a5-a4ff-38b1776aad2f",
+			"b5ee28ef-b440-4366-90c6-d1a1f45a5cbd",
+			"00738986-cd78-4504-a463-463032ccbe2d",
+			"ce84319d-1d76-489a-8c1f-70217f9c234d",
+			"9aac91a2-0670-47f8-b323-44d86abf96ef",
+			"d879b248-4a8f-49e1-be2e-14bb2bef8ac2",
+			"c32b834b-b943-4c0d-97ac-5fd2efd5f813",
+			"aff53236-e10c-4c07-987a-829dab3e28ec",
+			"95dfc338-3221-46eb-9871-b69b42acd0a6",
+			"cc409b87-e49d-4b6b-8a93-e82909bb7ac6",
+			"db485a1a-e81b-48b3-b3b5-1e50db5a698e",
+			"dcc6003c-1e60-4f8e-96e0-cef98e423430",
+			"6513fdb1-e5b1-48d2-ad40-693566ea15d4",
+			"a08cc3c5-778d-4f3e-ae3b-9c2c092c6216",
+			"d0d396b9-cfd6-457c-ab9c-2ad046483a8f",
+			"ec24dd7e-116d-4123-ac70-ec0bdb1543c5"
+		],
+		"doelniveau_id": [
+			"d52cbe7e-4786-4393-a940-087b1409ba33",
+			"3f411743-ca87-4e91-b545-6608c2f5bc78",
+			"d0c68b18-a0cd-47b0-afa2-089f3d46cd31",
+			"d5174c44-343d-4eef-8f00-69ec282db497",
+			"0320777a-d4cb-4607-8e87-bbba35baeea7",
+			"1590f017-5061-4818-86a3-8f8c90c1497c",
+			"691c7497-fd25-4315-9e76-d5adb18ee3e0",
+			"1e24ad2a-d86a-45d9-a23b-b122df0d5914",
+			"f27c4af3-6355-4682-a072-5401dd4da46d",
+			"499f17c8-8f91-4b62-825a-67ab315080d1",
+			"b51e0120-58d0-47dd-bb07-1a201d752b73",
+			"97168818-6752-4b58-83e8-2f01faf80824",
+			"b4876fff-4939-487f-b237-aa19aec65b31",
+			"6f15519f-c215-4f4f-a4c7-3a223367fbf4",
+			"bbea2743-7974-416c-8480-c0d74427fc5c",
+			"6c250918-89e4-49b3-8bd1-06452b1547b3",
+			"b61f5cfa-2214-4dfb-89d4-18cd13997ae7",
+			"8491fbdd-2b69-4053-ba03-01313df95c20",
+			"48e0b2a5-8032-4df1-8b5b-a6f93b3d4180"
+		],
+		"title": "Wereldoorlogen (1900 -1950)",
+		"id": "681e1c71-3ffb-49af-a03c-e2f0399b94a7",
+		"description": "",
+		"replaces": [
+			"e75ae8ad-017b-4ef5-bc03-84c67216c90a",
+			"5f9157b9-0eb8-4a4e-852e-55ad8a29f224"
+		]
+	},
+	{
+		"prefix": "gs/10",
+		"ldk_vaksubkern_id": [
+			"601bdb85-2fe3-4909-b2ee-c095766de527",
+			"2532a234-87fb-4ea5-ad7c-be872bb8ae37",
+			"75903225-2897-444f-8837-44eedfd29dce",
+			"3332a34b-f5ad-4bd0-a980-68af2f85b5e8",
+			"6225226c-0527-45fb-b0db-c843a916c973",
+			"c5e809cc-4dc3-418a-a004-d7690551d856",
+			"21ba8915-b968-468f-8c92-b83d998bbbe4",
+			"3f852e06-a555-4717-b11f-fb95961a74d9",
+			"11e9a0d7-d1e6-4af4-9f92-2d4c6d30928e",
+			"4744d496-46b9-4acf-a99c-a02d9591c028",
+			"f5689a6f-e98c-4a26-8c42-d32fe56d05fb",
+			"27f5b4cf-8cd0-4271-98f2-0b92753bcc7e",
+			"51530f09-bf2c-4d9f-9e00-4099230dda97"
+		],
+		"doelniveau_id": [
+			"d52cbe7e-4786-4393-a940-087b1409ba33",
+			"40073369-74cb-4ec9-86b6-60a356f767c1",
+			"7e0367dd-ab91-40c9-93b7-059d4c09b6f2",
+			"37cc1774-1632-4f8d-a92c-46ad2f670cb7",
+			"662e6829-ef5e-4ae9-969d-b92b8f08bf85",
+			"331a85b7-19b9-4ebe-bd32-ad37d5f8aee3",
+			"00b90254-0fe6-47b0-9bba-a2e9ae35d38e",
+			"3e5a53c1-d208-4f3c-9359-6b74dc42aa26",
+			"075bfbfa-1f22-4c9b-a767-5db29e6725e6",
+			"0711dbd7-3115-4ca9-9724-16553770d5e7",
+			"4c4dcf14-822e-4cb2-9dff-736805e8e1d8",
+			"16d0c9bb-3a52-487e-9014-8ecda4caa0e1",
+			"85d6c06e-b928-49d3-9d4b-8e738364efe1",
+			"aab30047-fa03-4b5b-bb8a-6741bf895cc5",
+			"2ce36012-a3f0-4586-920f-a13d92b32772",
+			"cfed7ca8-505f-4872-a4e4-29a8fa1a2ca7",
+			"c53d7299-beb2-4312-9af0-a79bc8ee075e"
+		],
+		"title": "Televisie en computer (vanaf 1950)",
+		"id": "3183bc3d-46eb-41da-8dfb-03c5686622e2",
+		"description": "",
+		"replaces": [
+			"e01e74c3-97aa-49ce-a502-101f713f7a69",
+			"82d6429e-6237-4c05-a3b3-56b02962e09d"
+		]
+	},
+	{
+		"prefix": "bio/2",
+		"ldk_vaksubkern_id": [
+			"5e19f2f1-8816-40f8-b2f2-962d625a05ba",
+			"8b1fe7c2-55d5-459b-b603-200e792d9ede",
+			"33f747f0-f8b6-4851-9145-c25f874631b1",
+			"68d278f0-afe9-45f4-81c0-c3f2f62d0a72",
+			"a87af191-233c-4e3d-9d31-3359825f66c2",
+			"e08605a3-7dbe-4876-9197-cc536d333700",
+			"0bdeaf87-eed5-4925-8812-b4a8bdc8f077",
+			"db0e12e3-abaa-490f-a984-9b19992530f3",
+			"e90a3700-e6ed-4e19-b9be-15ff45f0ad6f",
+			"e18df217-fadc-47c0-8d33-caa6436c22b6"
+		],
+		"doelniveau_id": [
+			"da1692d8-5c03-49aa-a41d-981b46785915",
+			"24533140-510f-446f-8eb0-78bbfa9de235",
+			"104cbd1c-5474-45e3-9ca9-ebfed6e080ee",
+			"c5a990de-6f3e-4481-8d90-9ec52022c19c",
+			"a10c319c-df79-4f13-800d-794e7b185c29",
+			"26b034fb-c6c9-4391-ad89-aa6a8d68304b",
+			"04a5c1e6-8cc2-4a05-b02a-8a9137c01124",
+			"4c801618-85ee-4357-8cb7-47ad7f58dd16",
+			"d61e161a-0d50-496c-989f-b1c8be5caa71",
+			"88932552-c9e2-4cfe-8a91-ade83231e684",
+			"3dceb57e-a2e0-4a62-a389-d6fd93fe8648",
+			"079930d9-5f0b-4288-bbc6-3628ed9b9bae",
+			"ae506acc-2bea-4312-9958-138f872c4083",
+			"2ef18463-56e4-4765-9eec-225a710991f8",
+			"42302483-a8a5-44dd-9d0e-cc767ada8fc2",
+			"4390f4d1-3937-4161-b4e1-128d992e080c",
+			"1ef5f795-1ffb-488a-910f-f5ff44883ee3",
+			"ceee1e27-9246-4fc2-b5d3-264c7791fde6"
+		],
+		"title": "Instandhouding",
+		"id": "009f354c-539e-4b38-9754-12e611155704",
+		"description": "",
+		"replaces": [
+			"aff75f4d-f98c-4bb3-9416-c580bc693e52",
+			"de0e5a32-7393-4136-a3e8-fa36de92aeda",
+			"c6ababf4-a6df-433e-a5a3-4d700f7c8614"
+		]
+	},
+	{
+		"prefix": "wisB/5",
+		"ldk_vaksubkern_id": [
+			"881fd3a1-5163-42fe-9d08-5a9fc1bf2610",
+			"3f5f3c35-4627-43a4-86e4-3cc7b8974586",
+			"bd2f9027-7e8e-4377-af8d-ad742b28eb44",
+			"629a1b6d-0ea2-4dc4-a8d0-8ac6438de3f3"
+		],
+		"title": "Analyse",
+		"id": "4107c2fd-aab1-436f-8e5c-59b31fd97c37",
+		"replaces": [
+			"5fbaaaf3-bd6e-49a1-bf6a-fbbefbe5bf3e",
+			"2497a452-34d0-493b-a015-4ba764a06859"
 		]
 	}
 ]
