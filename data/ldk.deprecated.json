@@ -49473,5 +49473,40 @@
 		"types": [
 			"ldk_vakleergebied"
 		]
+	},
+	{
+		"prefix": "DG",
+		"vakleergebied_id": "5542232a-dafd-49e8-a7fa-fa918605f3ba",
+		"ldk_vakkern_id": [
+			"5dc0d77c-403c-4c31-ad55-1ddb6e8b3c5d",
+			"671b2f40-57c7-4371-89f8-b5557a4f9299",
+			"ac2cf457-3fdf-4855-b015-b4da7279f136",
+			"b294ee43-754c-4367-9fd8-f80b28e168f8"
+		],
+		"title": "Digitale geletterdheid",
+		"id": "4cd82a3c-bbba-414c-9f22-b73f3c9acf6d",
+		"replacedBy": [
+			"96afb188-0813-4272-bf1b-6c13adc759ec"
+		],
+		"types": [
+			"ldk_vakleergebied"
+		]
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"7c24587f-d4ef-4543-a7ad-76c701e20938"
+		],
+		"title": "levensverschijnselen",
+		"id": "7af089a9-dbf7-490e-89a4-70d4c8a94349",
+		"replaces": [
+			"3c66f818-53d6-4170-8cef-1276d24db0db"
+		],
+		"replacedBy": [
+			"f88770e2-dbef-4177-92c0-a1fb27421712"
+		],
+		"types": [
+			"ldk_vakbegrip"
+		]
 	}
 ]

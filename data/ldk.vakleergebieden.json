@@ -12,18 +12,6 @@
 		"id": "976e6a88-0d14-4627-8ce4-b1c1df9e6c94"
 	},
 	{
-		"prefix": "DG",
-		"vakleergebied_id": "5542232a-dafd-49e8-a7fa-fa918605f3ba",
-		"ldk_vakkern_id": [
-			"5dc0d77c-403c-4c31-ad55-1ddb6e8b3c5d",
-			"671b2f40-57c7-4371-89f8-b5557a4f9299",
-			"ac2cf457-3fdf-4855-b015-b4da7279f136",
-			"b294ee43-754c-4367-9fd8-f80b28e168f8"
-		],
-		"title": "Digitale geletterdheid",
-		"id": "4cd82a3c-bbba-414c-9f22-b73f3c9acf6d"
-	},
-	{
 		"prefix": "wi",
 		"vakleergebied_id": "fdd97fff-f5e5-4b82-b937-9ab302666c50",
 		"ldk_vakkern_id": [
@@ -380,6 +368,21 @@
 		"replaces": [
 			"3ea6a1fb-3f1e-4561-b495-2a4679710304",
 			"9ebb22c4-3081-4c24-8415-57a3da7f513f"
+		]
+	},
+	{
+		"prefix": "DG",
+		"vakleergebied_id": "b285b813-e182-46bd-ba41-bccc737e1350",
+		"ldk_vakkern_id": [
+			"5dc0d77c-403c-4c31-ad55-1ddb6e8b3c5d",
+			"671b2f40-57c7-4371-89f8-b5557a4f9299",
+			"ac2cf457-3fdf-4855-b015-b4da7279f136",
+			"b294ee43-754c-4367-9fd8-f80b28e168f8"
+		],
+		"title": "Digitale geletterdheid",
+		"id": "96afb188-0813-4272-bf1b-6c13adc759ec",
+		"replaces": [
+			"4cd82a3c-bbba-414c-9f22-b73f3c9acf6d"
 		]
 	}
 ]

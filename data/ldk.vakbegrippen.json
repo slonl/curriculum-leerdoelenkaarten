@@ -14885,17 +14885,6 @@
 	{
 		"ce_se": "CE",
 		"doelniveau_id": [
-			"7c24587f-d4ef-4543-a7ad-76c701e20938"
-		],
-		"title": "levensverschijnselen",
-		"id": "7af089a9-dbf7-490e-89a4-70d4c8a94349",
-		"replaces": [
-			"3c66f818-53d6-4170-8cef-1276d24db0db"
-		]
-	},
-	{
-		"ce_se": "CE",
-		"doelniveau_id": [
 			"dcc7ca3d-d9cd-4c1c-a5bf-fa35a71851e2"
 		],
 		"title": "cel, weefsel, orgaan, orgaanstelsel, organisme",
@@ -31406,6 +31395,18 @@
 		"replaces": [
 			"0335b56d-ddb1-454d-bb62-0d5347971618",
 			"dc9c292f-13a6-41f4-860b-ca448771804b"
+		]
+	},
+	{
+		"ce_se": "CE",
+		"doelniveau_id": [
+			"ee72c51d-8680-4cda-bb6a-299305f91265"
+		],
+		"title": "levensverschijnselen",
+		"id": "f88770e2-dbef-4177-92c0-a1fb27421712",
+		"replaces": [
+			"3c66f818-53d6-4170-8cef-1276d24db0db",
+			"7af089a9-dbf7-490e-89a4-70d4c8a94349"
 		]
 	}
 ]
