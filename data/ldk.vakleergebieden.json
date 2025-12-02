@@ -195,38 +195,6 @@
 		]
 	},
 	{
-		"vakleergebied_id": "91e9afb9-a8ab-4fde-aa97-9884a8920b78",
-		"ldk_vakkern_id": [
-			"2d3b9e8f-7ed2-461c-9501-e59889e6bd28",
-			"baaec8b8-b12e-4d5d-999b-2df8d029a9d8",
-			"ac0ac0c3-8d47-447b-8540-7ed7389a1718",
-			"6a5b909a-4cef-4582-9c9c-0a3e4c2cdc24",
-			"6876233c-d798-4207-b4c5-368540b5d7c9"
-		],
-		"title": "Duits",
-		"id": "4bf68519-f27e-4213-b9ef-c39371dd52c7",
-		"replaces": [
-			"dca94895-40b9-4001-97ac-149f38bef782",
-			"0c084271-da7f-47af-bdbd-d9b075574959"
-		]
-	},
-	{
-		"vakleergebied_id": "f851676e-b541-42db-986a-5c468974f65e",
-		"ldk_vakkern_id": [
-			"098d4d88-b715-493f-acf7-18a8f786caed",
-			"0d57e974-2dc5-428f-bfaa-c5d148589b97",
-			"7de7b3fb-bf81-420d-9d7b-015e5189e126",
-			"0c93ed53-0a0f-461c-a5b8-ee262027e3cb",
-			"e7e52405-9ef4-4e9e-862f-da87b44d1068"
-		],
-		"title": "Frans",
-		"id": "5b7e63ca-499e-4524-ab62-3fa443c1bd91",
-		"replaces": [
-			"2de8c75e-40f8-4a3b-a913-4f9138f95b36",
-			"85fd9942-9663-464c-9183-4b82c49de242"
-		]
-	},
-	{
 		"prefix": "en",
 		"vakleergebied_id": "cfaf3202-4c14-4f7e-b783-91ad1dc93779",
 		"ldk_vakkern_id": [
@@ -383,6 +351,40 @@
 		"id": "96afb188-0813-4272-bf1b-6c13adc759ec",
 		"replaces": [
 			"4cd82a3c-bbba-414c-9f22-b73f3c9acf6d"
+		]
+	},
+	{
+		"vakleergebied_id": "5071f7ff-2a5b-4a5f-85ff-519bacbbdc63",
+		"ldk_vakkern_id": [
+			"2d3b9e8f-7ed2-461c-9501-e59889e6bd28",
+			"baaec8b8-b12e-4d5d-999b-2df8d029a9d8",
+			"ac0ac0c3-8d47-447b-8540-7ed7389a1718",
+			"6a5b909a-4cef-4582-9c9c-0a3e4c2cdc24",
+			"6876233c-d798-4207-b4c5-368540b5d7c9"
+		],
+		"title": "Duits",
+		"id": "26b5312f-a7b9-48bf-92a5-1a5429414536",
+		"replaces": [
+			"dca94895-40b9-4001-97ac-149f38bef782",
+			"0c084271-da7f-47af-bdbd-d9b075574959",
+			"4bf68519-f27e-4213-b9ef-c39371dd52c7"
+		]
+	},
+	{
+		"vakleergebied_id": "cc10a2e8-d7d2-47a2-a6c6-90791632f005",
+		"ldk_vakkern_id": [
+			"098d4d88-b715-493f-acf7-18a8f786caed",
+			"0d57e974-2dc5-428f-bfaa-c5d148589b97",
+			"7de7b3fb-bf81-420d-9d7b-015e5189e126",
+			"0c93ed53-0a0f-461c-a5b8-ee262027e3cb",
+			"e7e52405-9ef4-4e9e-862f-da87b44d1068"
+		],
+		"title": "Frans",
+		"id": "6f8f2bf4-a94a-4d28-92ca-23aa4b0a6471",
+		"replaces": [
+			"2de8c75e-40f8-4a3b-a913-4f9138f95b36",
+			"85fd9942-9663-464c-9183-4b82c49de242",
+			"5b7e63ca-499e-4524-ab62-3fa443c1bd91"
 		]
 	}
 ]
