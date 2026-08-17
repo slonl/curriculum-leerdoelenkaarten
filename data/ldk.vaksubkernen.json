@@ -1543,7 +1543,7 @@
 			"c5c28306-67aa-41ba-8086-b3d52e361acf",
 			"cdfda0ba-c042-46e0-be51-6302c6a4edc1"
 		],
-		"title": "Bewerkingen en  verbindingen",
+		"title": "Bewerkingen en verbindingen",
 		"id": "3b251960-0d56-47a4-83e5-6fe1ad271434"
 	},
 	{
@@ -5364,7 +5364,7 @@
 			"eceaaac5-1c62-4fd3-91b3-459e74605977",
 			"1c512067-3dc1-498e-9967-1b05843ff949"
 		],
-		"title": "Automatisering   ​ ​",
+		"title": "Automatisering ​ ​",
 		"id": "d90e8132-1832-4ac4-aab6-afe374cbdd9d"
 	},
 	{
@@ -5570,7 +5570,7 @@
 	},
 	{
 		"prefix": "ltc/2/6",
-		"description": "Genre, genrekenmerken, literaire thema's, taaleigen en stijl die kenmerkend zijn voor een auteur, dragen bij aan de betekenis van een tekst \nKeuze voor tekstsoort draagt bij aan de betekenis van een tekstpassage.",
+		"description": "Genre, genrekenmerken, literaire thema's, taaleigen en stijl die kenmerkend zijn voor een auteur, dragen bij aan de betekenis van een tekst\nKeuze voor tekstsoort draagt bij aan de betekenis van een tekstpassage.",
 		"doelniveau_id": [
 			"b6652b2e-b5ee-466d-a61e-1629b7c7d390",
 			"b30cb200-743f-4dfb-806a-00dba5fa6f72",
@@ -5662,7 +5662,7 @@
 	},
 	{
 		"prefix": "ltc/3/6",
-		"description": "Een (literaire) tekst, gebruiksvoorwerp of kunstobject, verhalengoed, culturele en historische concepten maken deel uit van de cultuur-historische en maatschappelijke context waarin ze hebben gefunctioneerd. \nDeze zijn zowel onderdeel van een cultuur, als entree tot die cultuur.",
+		"description": "Een (literaire) tekst, gebruiksvoorwerp of kunstobject, verhalengoed, culturele en historische concepten maken deel uit van de cultuur-historische en maatschappelijke context waarin ze hebben gefunctioneerd.\nDeze zijn zowel onderdeel van een cultuur, als entree tot die cultuur.",
 		"doelniveau_id": [
 			"28a71ec2-b0e1-449c-92ef-f46fb8b849fa",
 			"38d8aba4-c03f-4506-b305-ae3dce95abd8",
@@ -5864,7 +5864,7 @@
 	},
 	{
 		"prefix": "gtc/2/6",
-		"description": "Genre, genrekenmerken, literaire thema's, taaleigen en stijl die kenmerkend zijn voor een auteur, dragen bij aan de betekenis van een tekst \nKeuze voor tekstsoort draagt bij aan de betekenis van een tekstpassage.",
+		"description": "Genre, genrekenmerken, literaire thema's, taaleigen en stijl die kenmerkend zijn voor een auteur, dragen bij aan de betekenis van een tekst\nKeuze voor tekstsoort draagt bij aan de betekenis van een tekstpassage.",
 		"doelniveau_id": [
 			"8d1b8362-348b-4d77-b111-3561a552e78e",
 			"ee48727a-149d-4d37-b827-bbf1f8a67bba",
@@ -5956,7 +5956,7 @@
 	},
 	{
 		"prefix": "gtc/3/6",
-		"description": "Een (literaire) tekst, gebruiksvoorwerp of kunstobject, verhalengoed, culturele en historische concepten maken deel uit van de cultuur-historische en maatschappelijke context waarin ze hebben gefunctioneerd. \nDeze zijn zowel onderdeel van een cultuur, als entree tot die cultuur.",
+		"description": "Een (literaire) tekst, gebruiksvoorwerp of kunstobject, verhalengoed, culturele en historische concepten maken deel uit van de cultuur-historische en maatschappelijke context waarin ze hebben gefunctioneerd.\nDeze zijn zowel onderdeel van een cultuur, als entree tot die cultuur.",
 		"doelniveau_id": [
 			"ee9e8a65-524b-44ea-962c-2a3d567f2f29",
 			"bcecbd42-2b6a-4dff-9acd-55604b35808d",
@@ -6337,7 +6337,7 @@
 	},
 	{
 		"prefix": "ltc/4/1",
-		"description": "De Latijnse cultuur bestaat niet op zichzelf, maar heeft zich ontwikkeld temidden van de Etruskische, Egyptische, Oosterse en Romeinse wereld. \nDe Latijnse cultuur werkt door in latere tijden.\nKennis van Latijnse cultuur- en gedachtengoed is een pijler van de gymnasiale vorming.\nDuiding van de receptie van Latijns cultuur- en gedachtengoed in latere cultuuruitingen biedt inzicht in de cultuur- en tijdgebondenheid van de omgang met de Oudheid.\nKijkanalyse structureert het onderzoek van antieke cultuuruitingen en de receptie daarvan.",
+		"description": "De Latijnse cultuur bestaat niet op zichzelf, maar heeft zich ontwikkeld temidden van de Etruskische, Egyptische, Oosterse en Romeinse wereld.\nDe Latijnse cultuur werkt door in latere tijden.\nKennis van Latijnse cultuur- en gedachtengoed is een pijler van de gymnasiale vorming.\nDuiding van de receptie van Latijns cultuur- en gedachtengoed in latere cultuuruitingen biedt inzicht in de cultuur- en tijdgebondenheid van de omgang met de Oudheid.\nKijkanalyse structureert het onderzoek van antieke cultuuruitingen en de receptie daarvan.",
 		"doelniveau_id": [
 			"a1227e0e-1052-494d-aacd-248f77ad4d58",
 			"60f2b364-1224-4748-8d20-15a1f6f8814b",
@@ -6726,7 +6726,7 @@
 	},
 	{
 		"prefix": "gtc/4/1",
-		"description": "De Griekse cultuur bestaat niet op zichzelf, maar heeft zich ontwikkeld temidden van de Etruskische, Egyptische, Oosterse en Romeinse wereld. \nDe Griekse cultuur werkt door in latere tijden.\nKennis van Griekse cultuur- en gedachtengoed is een pijler van de gymnasiale vorming.\nDuiding van de receptie van Grieks cultuur- en gedachtengoed in latere cultuuruitingen biedt inzicht in de cultuur- en tijdgebondenheid van de omgang met de Oudheid.\nKijkanalyse structureert het onderzoek van antieke cultuuruitingen en de receptie daarvan.",
+		"description": "De Griekse cultuur bestaat niet op zichzelf, maar heeft zich ontwikkeld temidden van de Etruskische, Egyptische, Oosterse en Romeinse wereld.\nDe Griekse cultuur werkt door in latere tijden.\nKennis van Griekse cultuur- en gedachtengoed is een pijler van de gymnasiale vorming.\nDuiding van de receptie van Grieks cultuur- en gedachtengoed in latere cultuuruitingen biedt inzicht in de cultuur- en tijdgebondenheid van de omgang met de Oudheid.\nKijkanalyse structureert het onderzoek van antieke cultuuruitingen en de receptie daarvan.",
 		"doelniveau_id": [
 			"0efb7b26-4103-4160-b23b-6373a5af4f32",
 			"0c4dd6a5-eb96-4843-bb9d-52238a3ce452",
